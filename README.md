@@ -3,6 +3,10 @@ Splatmoji
 
 Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux desktop via pop-up menu (uses rofi, a la dmenu).
 
+(ノ・∀・)ノ 😃
+
+<img src="splatmoji.gif" width="400">
+
 # Install
 
 Requirements:
