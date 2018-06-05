@@ -47,11 +47,17 @@ bindsym $mod+slash exec "/path/to/the/script type"
 
 # Configuration
 
+Configuration options can be changed in `splatmoji.config`.
+
 ## Xsel
 
 You can alter the arguments sent to xsel to change, say, which "selection" your text goes into. By default it will go to the "CLIPBOARD" selection, which is the one you would usually get when doing Ctrl+c/v.
 
 For further options, check the xsel manpage.
+
+## Xdotool
+
+You can alter the arguments send to xdotool for typing out your selection, if for instance you need to adjust the timing delays to work more smoothly on your machine.
 
 ## Rofi
 You can alter the rofi pop-up's behaviour by configuring its command line either in `<project_dir>/splatmoji.config` or by overriding the in-project config file with `${HOME}/.config/splatmoji/splatmoji.config`.
