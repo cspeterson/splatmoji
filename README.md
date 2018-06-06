@@ -51,22 +51,23 @@ bindsym $mod+slash exec "/path/to/the/script type"
 
 # Configuration
 
-Configuration options can be changed in `splatmoji.config`.
+Configuration options can be changed in `<project_dir>splatmoji.config` or by overriding the in-project config file with `${HOME}/.config/splatmoji/splatmoji.config`.
 
-## Xsel
+## Xsel config (copying to clipboard)
 
 You can alter the arguments sent to xsel to change, say, which "selection" your text goes into. By default it will go to the "CLIPBOARD" selection, which is the one you would usually get when doing Ctrl+c/v.
 
 For further options, check the xsel manpage.
 
-## Xdotool
+## Xdotool config (auto-typing)
 
 You can alter the arguments send to xdotool for typing out your selection, if for instance you need to adjust the timing delays to work more smoothly on your machine.
 
-## Rofi
-You can alter the rofi pop-up's behaviour by configuring its command line either in `<project_dir>/splatmoji.config` or by overriding the in-project config file with `${HOME}/.config/splatmoji/splatmoji.config`.
+For options, check the xdotool manpage.
 
-Example:
+## Rofi config (the pop-up menu)
+
+Examples:
 
 ```ini
 # These default arguments will pop up the menu over the currently active window
@@ -77,7 +78,7 @@ rofi_command=rofi -dmenu -p 'Search:' -i -monitor -1
 rofi_command=rofi -dmenu -p : -i -monitor -2 -theme /path/to/themefile
 ```
 
-For *many* other options, see `man rofi`.
+For *many* other options, see the rofi manpage.
 
 # Updating emoji/emoticons
 
