@@ -24,7 +24,7 @@ git clone https://github.com/cspeterson/splatmoji.git
 ./splatmoji copy
 
 # Call with default emoji and emoticon data files, type out result
-./splatmoji copy
+./splatmoji type
 
 # Call with a specific custom data file, copy result to clipboard
 ./splatmoji copy /path/to/data/file1 /path/to/data/file2
