@@ -8,7 +8,7 @@ if [ "${1}" == '-h' ] || [ "${1}" == '--help' ] || [ $# -eq 0 ]; then
 fi
 
 # Determine config files
-scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+scriptdir="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
 if [ -d "${HOME}/.config/splatmoji" ]; then
   conffile="${HOME}/.config/splatmoji/splatmoji.config"
 else
