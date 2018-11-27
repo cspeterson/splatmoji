@@ -93,8 +93,8 @@ You can also update the emoji/emoticon sets from the same source manually if you
 
 ```sh
 #how to pull the sets from the remote files and transform to tsv
-curl 'https://raw.githubusercontent.com/muan/emojilib/master/emojis.json' | importers/emojilib2tsv - > data/splatmoji.emoji.tsv
-curl 'https://raw.githubusercontent.com/w33ble/emoticon-data/master/emoticons.json' | importers/w33ble2tsv - > data/splatmoji.emoticons.tsv
+curl 'https://raw.githubusercontent.com/muan/emojilib/master/emojis.json' | importers/emojilib2tsv - > data/emoji.tsv
+curl 'https://raw.githubusercontent.com/w33ble/emoticon-data/master/emoticons.json' | importers/w33ble2tsv - > data/emoticons.tsv
 ```
 
 # Custom Configuration and Custom Emoji/Emoticons
