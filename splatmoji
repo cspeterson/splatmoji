@@ -1,9 +1,13 @@
 #!/usr/bin/env bash
 shopt -s nullglob
 
-if [ "${1}" == '-h' ] || [ "${1}" == '--help' ] || [ $# -eq 0 ]; then
+function print_help() {
   echo "Usage: ${0} [copy|type] [DATAFILES*]"
   echo 'Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux desktop via pop-up menu.'
+}
+
+if [ "${1}" == '-h' ] || [ "${1}" == '--help' ] || [ $# -eq 0 ]; then
+  print_help
   exit 0
 fi
 
@@ -19,6 +23,9 @@ if [ "${1}" == 'type' ]; then
   output_type='type'
 elif [ "${1}" == 'copy' ]; then
   output_type='copy'
+else
+  print_help
+  exit 1
 fi
 shift
 if [ $# -eq 0 ]; then
