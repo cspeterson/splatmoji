@@ -1,15 +1,16 @@
 #!/usr/bin/env bash
 shopt -s nullglob
 
-function print_help() {
+# Check subcommand
+if [ "${1}" == 'type' ] || [ "${1}" == 'copy' ]; then
+  subcommand="${1}"
+else
   echo "Usage: ${0} [copy|type] [DATAFILES*]"
-  echo 'Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux desktop via pop-up menu.'
-}
-
-if [ "${1}" == '-h' ] || [ "${1}" == '--help' ] || [ $# -eq 0 ]; then
-  print_help
-  exit 0
+  echo "Quickly look up and input emoji and/or emoticons/kaomoji" \
+    "on your GNU/Linux desktop via pop-up menu."
+  exit 1
 fi
+shift
 
 # Determine config files
 scriptdir="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
@@ -19,15 +20,6 @@ else
   conffile="${scriptdir}/splatmoji.config"
 fi
 
-if [ "${1}" == 'type' ]; then
-  output_type='type'
-elif [ "${1}" == 'copy' ]; then
-  output_type='copy'
-else
-  print_help
-  exit 1
-fi
-shift
 if [ $# -eq 0 ]; then
   datafiles=("${scriptdir}/data/*")
 else
@@ -51,9 +43,8 @@ selection=$(cat ${datafiles_list} | ${config[rofi_command]})
 moji=$(cut -f 1 <<< "$selection")
 
 # Results to clipboard or selected x window
-if [ "${output_type}" == 'type' ]; then
+if [ "${subcommand}" == 'type' ]; then
   ${config[xdotool_command]} "${moji}"
 else
-  # Else copy
   echo -n "${moji}" | ${config[xsel_command]}
 fi
