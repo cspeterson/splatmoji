@@ -92,7 +92,7 @@ git pull
 You can also update the emoji/emoticon sets from the same source manually if you find that this repo is not keeping up fast enough for you:
 
 ```sh
-#how to pull the sets from the remote files and transform to tsv
+#how to pull the sets from the remote files and transform to tsv (requires jq)
 curl 'https://raw.githubusercontent.com/muan/emojilib/master/emojis.json' | importers/emojilib2tsv - > data/emoji.tsv
 curl 'https://raw.githubusercontent.com/w33ble/emoticon-data/master/emoticons.json' | importers/w33ble2tsv - > data/emoticons.tsv
 ```
