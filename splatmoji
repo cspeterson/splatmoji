@@ -24,7 +24,7 @@ shift
 if [ $# -eq 0 ]; then
   datafiles=("${scriptdir}/data/*")
 else
-  datafiles="${@:2}"
+  datafiles="${@:1}"
 fi
 datafiles_list=$(IFS=$'\n'; echo "${datafiles[*]}")
 
