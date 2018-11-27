@@ -3,6 +3,7 @@
 😁	grin	face, happy, smile, joy, kawaii
 😂	joy	face, cry, tears, weep, happy, happytears, haha
 🤣	rofl	face, rolling, floor, laughing, lol, haha
+🥳	partying	face, celebration, woohoo
 😃	smiley	face, happy, joy, haha, :D, :), smile, funny
 😄	smile	face, happy, joy, funny, haha, laugh, like, :D, :)
 😅	sweat_smile	face, hot, happy, laugh, sweat, smile, relief
@@ -16,6 +17,7 @@
 😋	yum	happy, joy, tongue, smile, face, silly, yummy, nom, delicious, savouring
 😌	relieved	face, relaxed, phew, massage, happiness
 😍	heart_eyes	face, love, like, affection, valentines, infatuation, crush, heart
+🥰	smiling_face_with_three_hearts	face, love, like, affection, valentines, infatuation, crush, hearts, adore
 😘	kissing_heart	face, love, like, affection, valentines, infatuation, kiss
 😗	kissing	love, like, face, 3, valentines, infatuation, kiss
 😙	kissing_smiling_eyes	face, affection, valentines, infatuation, kiss
@@ -58,6 +60,7 @@
 😖	confounded	face, confused, sick, unwell, oops, :S
 😫	tired_face	sick, whine, upset, frustrated
 😩	weary	face, tired, sleepy, sad, frustrated, upset
+🥺	pleading	face, begging, mercy
 😤	triumph	face, gas, phew, proud, pride
 😮	open_mouth	face, surprise, impressed, wow, whoa, :O
 😱	scream	face, munch, scared, omg
@@ -71,6 +74,8 @@
 🤤	drooling_face	face
 😪	sleepy	face, tired, rest, nap
 😓	sweat	face, hot, sad, tired, exercise
+🥵	hot	face, feverish, heat, red, sweating
+🥶	cold	face, blue, freezing, frozen, frostbite, icicles
 😭	sob	face, cry, tears, sad, upset, depressed
 😵	dizzy_face	spent, unconscious, xox, dizzy
 😲	astonished	face, xox, surprised, poisoned
@@ -81,6 +86,7 @@
 😷	mask	face, sick, ill, disease
 🤒	face_with_thermometer	sick, temperature, thermometer, cold, fever
 🤕	face_with_head_bandage	injured, clumsy, bandage, hurt
+🥴	woozy	face, dizzy, intoxicated, tipsy, wavy
 😴	sleeping	face, tired, sleepy, night, zzz
 💤	zzz	sleepy, tired, dream
 💩	poop	hankey, shitface, fail, turd, shit
@@ -119,6 +125,8 @@
 👐	open_hands	fingers, butterfly, hands, open
 💪	muscle	arm, flex, hand, summer, strong, biceps
 🙏	pray	please, hope, wish, namaste, highfive
+🦶	foot	kick, stomp
+🦵	leg	kick, limb
 🤝	handshake	agreement, shake
 ☝	point_up	hand, fingers, direction, up
 👆	point_up_2	fingers, hand, direction, up
@@ -135,6 +143,7 @@
 🤳	selfie	camera, phone
 💅	nail_care	beauty, manicure, finger, fashion, nail
 👄	lips	mouth, kiss
+🦷	tooth	teeth, dentist
 👅	tongue	mouth, playful
 👂	ear	face, hear, sound, listen
 👃	nose	smell, sniff
@@ -201,6 +210,10 @@
 👨‍🚀	man_astronaut	space, rocket, man, human
 👩‍⚖️	woman_judge	justice, court, woman, human
 👨‍⚖️	man_judge	justice, court, man, human
+🦸‍♀️	woman_superhero	woman, female, good, heroine, superpowers
+🦸‍♂️	man_superhero	man, male, good, hero, superpowers
+🦹‍♀️	woman_supervillain	woman, female, evil, bad, criminal, heroine, superpowers
+🦹‍♂️	man_supervillain	man, male, evil, bad, criminal, hero, superpowers
 🤶	mrs_claus	woman, female, xmas, mother christmas
 🎅	santa	festival, man, male, xmas, father christmas
 🧙‍♀️	sorceress	woman, female, mage, witch
@@ -237,7 +250,7 @@
 👭	two_women_holding_hands	pair, friendship, couple, love, like, female, people, human
 🙇‍♀️	bowing_woman	woman, female, girl
 🙇	bowing_man	man, male, boy
-🤦	man_facepalming	man, male, boy, disbelief
+🤦‍♂️	man_facepalming	man, male, boy, disbelief
 🤦‍♀️	woman_facepalming	woman, female, girl, disbelief
 🤷	woman_shrugging	woman, female, girl, confused, indifferent, doubt
 🤷‍♂️	man_shrugging	man, male, boy, confused, indifferent, doubt
@@ -290,7 +303,10 @@
 👨‍👧‍👦	family_man_girl_boy	home, parent, people, human, children
 👨‍👦‍👦	family_man_boy_boy	home, parent, people, human, children
 👨‍👧‍👧	family_man_girl_girl	home, parent, people, human, children
+🧶	yarn	ball, crochet, knit
+🧵	thread	needle, sewing, spool, string
 🧥	coat	jacket
+🥼	labcoat	doctor, experiment, scientist, chemist
 👚	womans_clothes	fashion, shopping_bags, female
 👕	tshirt	fashion, cloth, casual, shirt, tee
 👖	jeans	fashion, shopping
@@ -301,11 +317,13 @@
 💄	lipstick	female, girl, fashion, woman
 💋	kiss	face, lips, love, like, affection, valentines
 👣	footprints	feet, tracking, walking, beach
+🥿	flat_shoe	ballet, slip-on, slipper
 👠	high_heel	fashion, shoes, female, pumps, stiletto
 👡	sandal	shoes, fashion, flip flops
 👢	boot	shoes, fashion
 👞	mans_shoe	fashion, male
 👟	athletic_shoe	shoes, sports, sneakers
+🥾	hiking_boot	backpacking, camping, hiking
 🧦	socks	stockings, clothes
 🧤	gloves	hands, winter, clothes
 🧣	scarf	neck, winter, clothes
@@ -316,12 +334,14 @@
 🎓	mortar_board	school, college, degree, university, graduation, cap, hat, legal, learn, education
 👑	crown	king, kod, leader, royalty, lord
 🎒	school_satchel	student, education, bag, backpack
+🧳	luggage	packing, travel
 👝	pouch	bag, accessories, shopping
 👛	purse	fashion, accessories, money, sales, shopping
 👜	handbag	fashion, accessory, accessories, shopping
 💼	briefcase	business, documents, work, law, legal, job, career
 👓	eyeglasses	fashion, accessories, eyesight, nerdy, dork, geek
 🕶	dark_sunglasses	face, cool, accessories
+🥽	goggles	eyes, protection, safety
 💍	ring	wedding, propose, marriage, valentines, diamond, fashion, jewelry, gem, engagement
 🌂	closed_umbrella	weather, rain, drizzle
 🐶	dog	animal, friend, nature, woof, puppy, pet, faithful
@@ -413,6 +433,16 @@
 🐇	rabbit2	animal, nature, pet, magic, spring
 🐿	chipmunk	animal, nature, rodent, squirrel
 🦔	hedgehog	animal, nature, spiny
+🦝	raccoon	animal, nature
+🦙	llama	animal, nature, alpaca
+🦛	hippopotamus	animal, nature
+🦘	kangaroo	animal, nature, australia, joey, hop, marsupial
+🦡	badger	animal, nature, honey
+🦢	swan	animal, nature, bird
+🦚	peacock	animal, nature, peahen, bird
+🦜	parrot	animal, nature, bird, pirate, talk
+🦞	lobster	animal, nature, bisque, claws, seafood
+🦟	mosquito	animal, nature, insect, malaria
 🐾	paw_prints	animal, tracking, footprints, dog, cat, pet, feet
 🐉	dragon	animal, myth, nature, chinese, green
 🐲	dragon_face	animal, myth, nature, chinese, green
@@ -506,6 +536,7 @@
 🍍	pineapple	fruit, nature, food
 🥥	coconut	fruit, nature, food, palm
 🥝	kiwi_fruit	fruit, food
+🥭	mango	fruit, food, tropical
 🥑	avocado	fruit, food
 🥦	broccoli	fruit, food, vegetable
 🍅	tomato	fruit, vegetable, nature, food
@@ -515,12 +546,14 @@
 🌶	hot_pepper	food, spicy, chilli, chili
 🥔	potato	food, tuber, vegatable, starch
 🌽	corn	food, vegetable, plant
+🥬	leafy_greens	food, vegetable, plant, bok choy, cabbage, kale, lettuce
 🍠	sweet_potato	food, nature
 🥜	peanuts	food, nut
 🍯	honey_pot	bees, sweet, kitchen
 🥐	croissant	food, bread, french
 🍞	bread	food, wheat, breakfast, toast
 🥖	baguette_bread	food, bread, french
+🥯	bagel	food, bread, bakery, schmear
 🥨	pretzel	food, bread, twisted
 🧀	cheese	food, chadder
 🥚	egg	food, chicken, breakfast
@@ -529,6 +562,7 @@
 🥞	pancakes	food, breakfast, flapjacks, hotcakes
 🍗	poultry_leg	food, meat, drumstick, bird, chicken, turkey
 🍖	meat_on_bone	good, food, drumstick
+🦴	bone	skeleton
 🍤	fried_shrimp	food, animal, appetizer, summer
 🍳	fried_egg	food, breakfast, kitchen, egg
 🍔	hamburger	meat, fast food, beef, cheeseburger, mcdonalds, burger king
@@ -560,6 +594,8 @@
 🍦	icecream	food, hot, dessert, summer
 🥧	pie	food, dessert, pastry
 🍰	cake	food, dessert
+🧁	cupcake	food, dessert, bakery, sweet
+🥮	moon_cake	food, autumn
 🎂	birthday	food, dessert, cake
 🍮	custard	dessert, food
 🍬	candy	snack, dessert, sweet, lolly
@@ -583,6 +619,7 @@
 🥤	cup_with_straw	drink, soda
 ☕	coffee	beverage, caffeine, latte, espresso
 🍼	baby_bottle	food, container, milk
+🧂	salt	condiment, shaker
 🥄	spoon	cutlery, kitchen, tableware
 🍴	fork_and_knife	cutlery, kitchen
 🍽	plate_with_cutlery	food, eat, meal, lunch, dinner, restaurant
@@ -593,9 +630,11 @@
 🏀	basketball	sports, balls, NBA
 🏈	football	sports, balls, NFL
 ⚾	baseball	sports, balls
+🥎	softball	sports, balls
 🎾	tennis	sports, balls, green
 🏐	volleyball	sports, balls
 🏉	rugby_football	sports, team
+🥏	flying_disc	sports, frisbee, ultimate
 🎱	8ball	pool, hobby, game, luck, magic
 ⛳	golf	sports, business, flag, hole, summer
 🏌️‍♀️	golfing_woman	sports, business, woman, female
@@ -605,6 +644,7 @@
 🥅	goal_net	sports
 🏒	ice_hockey	sports
 🏑	field_hockey	sports
+🥍	lacrosse	sports, ball, stick
 🏏	cricket	sports
 🎿	ski	sports, winter, cold, snow
 ⛷	skier	sports, winter, snow
@@ -618,6 +658,7 @@
 🤾‍♂️	man_playing_handball	sports
 ⛸	ice_skate	sports
 🥌	curling_stone	sports
+🛹	skateboard	board
 🛷	sled	sleigh, luge, toboggan
 🏹	bow_and_arrow	sports
 🎣	fishing_pole_and_fish	food, hobby, summer
@@ -676,7 +717,9 @@
 👾	space_invader	game, arcade, play
 🎯	dart	game, play, bar, target, bullseye
 🎲	game_die	dice, random, tabletop, play, luck
+♟	chess_pawn	expendable
 🎰	slot_machine	bet, gamble, vegas, fruit machine, luck, casino
+🧩	jigsaw	interlocking, puzzle, piece
 🎳	bowling	sports, fun, play
 🚗	red_car	red, transportation, vehicle
 🚕	taxi	uber, vehicle, cars, transportation
@@ -828,6 +871,7 @@
 🎙	studio_microphone	sing, recording, artist, talkshow
 🎚	level_slider	scale
 🎛	control_knobs	dial
+🧭	compass	magnetic, navigation, orienteering
 ⏱	stopwatch	time, deadline
 ⏲	timer_clock	alarm
 ⏰	alarm_clock	time, wake
@@ -840,6 +884,7 @@
 💡	bulb	light, electricity, idea
 🔦	flashlight	dark, camping, sight, night
 🕯	candle	fire, wax
+🧯	fire_extinguisher	quench
 🗑	wastebasket	bin, trash, rubbish, garbage, toss
 🛢	oil_drum	barrell
 💸	money_with_wings	dollar, bills, payment, sale
@@ -851,6 +896,7 @@
 💳	credit_card	money, sales, dollar, bill, payment, shopping
 💎	gem	blue, ruby, diamond, jewelry
 ⚖	balance_scale	law, fairness, weight
+🧰	toolbox	tools, diy, fix, maintainer, mechanic
 🔧	wrench	tools, diy, ikea, fix, maintainer
 🔨	hammer	tools, build, create
 ⚒	hammer_and_pick	tools, build, create
@@ -858,9 +904,12 @@
 ⛏	pick	tools, dig
 🔩	nut_and_bolt	handy, tools, fix
 ⚙	gear	cog
+🧱	brick	bricks
 ⛓	chains	lock, arrest
+🧲	magnet	attraction, magnetic
 🔫	gun	violence, weapon, pistol, revolver
 💣	bomb	boom, explode, explosion, terrorism
+🧨	firecracker	dynamite, boom, explode, explosion, explosive
 🔪	hocho	knife, blade, cutlery, kitchen, weapon
 🗡	dagger	weapon
 ⚔	crossed_swords	weapon
@@ -872,6 +921,7 @@
 🏺	amphora	vase, jar
 🔮	crystal_ball	disco, party, magic, circus, fortune_teller
 📿	prayer_beads	dhikr, religious
+🧿	nazar_amulet	bead, charm
 💈	barber	hair, salon, style
 ⚗	alembic	distilling, science, experiment, chemistry
 🔭	telescope	stars, space, zoom, science, astronomy
@@ -879,12 +929,22 @@
 🕳	hole	embarrassing
 💊	pill	health, medicine, doctor, pharmacy, drug
 💉	syringe	health, hospital, drugs, blood, medicine, needle, doctor, nurse
+🧬	dna	biologist, genetics, life
+🦠	microbe	amoeba, bacteria, germs
+🧫	petri_dish	bacteria, biology, culture, lab
+🧪	test_tube	chemistry, experiment, lab, science
 🌡	thermometer	weather, temperature, hot, cold
+🧹	broom	cleaning, sweeping, witch
+🧺	basket	laundry
+🧻	toilet_paper	roll
 🏷	label	sale, tag
 🔖	bookmark	favorite, label, save
 🚽	toilet	restroom, wc, washroom, bathroom, potty
 🚿	shower	clean, water, bathroom
 🛁	bathtub	clean, shower, bathroom
+🧼	soap	bar, bathing, cleaning, lather
+🧽	sponge	absorbing, cleaning, porous
+🧴	lotion_bottle	moisturizer, sunscreen
 🔑	key	lock, door, password
 🗝	old_key	lock, door, password
 🛋	couch_and_lamp	read, chill
@@ -892,6 +952,7 @@
 🛏	bed	sleep, rest
 🚪	door	house, entry, exit
 🛎	bellhop_bell	service
+🧸	teddy_bear	plush, stuffed
 🖼	framed_picture	photography
 🗺	world_map	location, direction
 ⛱	parasol_on_ground	weather, summer
@@ -908,6 +969,7 @@
 🎐	wind_chime	nature, ding, spring, bell
 🎌	crossed_flags	japanese, nation, country, border
 🏮	izakaya_lantern	light, paper, halloween, spooky
+🧧	red_envelope	gift
 ✉️	email	letter, postal, inbox, communication
 📩	envelope_with_arrow	email, communication
 📨	incoming_envelope	email, inbox
@@ -925,6 +987,7 @@
 📜	scroll	documents, ancient, history, paper
 📃	page_with_curl	documents, office, paper
 📑	bookmark_tabs	favorite, save, order, tidy
+🧾	receipt	accounting, expenses
 📊	bar_chart	graph, presentation, stats
 📈	chart_with_upwards_trend	graph, presentation, stats, recovery, business, economics, money, sales, good, success
 📉	chart_with_downwards_trend	graph, presentation, stats, recession, business, economics, money, sales, bad, failure
@@ -952,12 +1015,14 @@
 📒	ledger	notes, paper
 📚	books	literature, library, study
 📖	open_book	book, read, library, knowledge, literature, learn, study
+🧷	safety_pin	diaper
 🔗	link	rings, url
 📎	paperclip	documents, stationery
 🖇	paperclips	documents, stationery
 ✂️	scissors	stationery, cut
 📐	triangular_ruler	stationery, math, architect, sketch
 📏	straight_ruler	stationery, calculate, length, math, school, drawing, architect, sketch
+🧮	abacus	calculation
 📌	pushpin	stationery, mark, here
 📍	round_pushpin	stationery, location, map, here
 🚩	triangular_flag_on_post	mark, milestone, place
@@ -1050,7 +1115,7 @@
 ⛔	no_entry	limit, security, privacy, bad, denied, stop, circle
 📛	name_badge	fire, forbid
 🚫	no_entry_sign	forbid, stop, limit, denied, disallow, circle
-❌	x	no, delete, remove, cancel
+❌	x	no, delete, remove, cancel, red
 ⭕	o	circle, round
 🛑	stop_sign	stop
 💢	anger	angry, mad
@@ -1175,6 +1240,7 @@
 ➖	heavy_minus_sign	math, calculation, subtract, less
 ➗	heavy_division_sign	divide, math, calculation
 ✖️	heavy_multiplication_x	math, calculation
+♾	infinity	forever
 💲	heavy_dollar_sign	money, sales, payment, currency, buck
 💱	currency_exchange	money, sales, dollar, travel
 ©️	copyright	ip, license, circle, law, legal
@@ -1500,3 +1566,5 @@
 🇾🇪	yemen	ye, flag, nation, country, banner
 🇿🇲	zambia	zm, flag, nation, country, banner
 🇿🇼	zimbabwe	zw, flag, nation, country, banner
+🇺🇳	united_nations	un, flag, banner
+🏴‍☠️	pirate_flag	skull, crossbones, flag, banner
