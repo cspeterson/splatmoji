@@ -9,7 +9,7 @@ fi
 
 # Determine config files
 scriptdir="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
-if [ -d "${HOME}/.config/splatmoji" ]; then
+if [ -f "${HOME}/.config/splatmoji/splatmoji.config" ]; then
   conffile="${HOME}/.config/splatmoji/splatmoji.config"
 else
   conffile="${scriptdir}/splatmoji.config"
