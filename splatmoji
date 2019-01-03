@@ -39,7 +39,7 @@ while IFS='' read -r line; do
 done < "${conffile}"
 
 # Prompt user for selection
-selection=$(cat ${datafiles_list} | ${config[rofi_command]})
+selection=$(cat ${datafiles_list} | eval ${config[rofi_command]})
 moji=$(cut -f 1 <<< "$selection")
 
 # Results to clipboard or selected x window
