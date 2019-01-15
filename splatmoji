@@ -14,18 +14,55 @@ shift
 
 # Determine config files
 scriptdir="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
-if [ -f "${HOME}/.config/splatmoji/splatmoji.config" ]; then
-  conffile="${HOME}/.config/splatmoji/splatmoji.config"
+if [ -f "${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config" ]; then
+  conffile="${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config"
 else
+  _old_IFS="$IFS"
+  IFS=":"
+  for dir in ${XDG_CONFIG_DIRS:-/etc/xdg}; do
+    if [ -f "$dir/splatmoji/splatmoji.config" ]; then
+      conffile="$dir/splatmoji/splatmoji.config"
+      break
+    fi
+  done
+  IFS="$_old_IFS"
+fi
+
+# Fallback to script location
+if [ -z "${conffile}" ]; then
   conffile="${scriptdir}/splatmoji.config"
 fi
 
-if [ $# -eq 0 ]; then
-  datafiles=("${scriptdir}/data/*")
-else
+datafiles_list=()
+
+# Read command line data files
+if [ $# -ne 0 ]; then
   datafiles="${@:1}"
+  datafiles_list+=$(IFS=$'\n'; echo "${datafiles[*]}")
 fi
-datafiles_list=$(IFS=$'\n'; echo "${datafiles[*]}")
+
+# Read per-user data files
+if [ -d "${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data" ]; then
+  datafiles="${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data/*"
+  datafiles_list+=$'\n'$(IFS=$'\n'; echo "${datafiles[*]}")
+fi
+
+# Read global data files
+_old_IFS="$IFS"
+IFS=":"
+for dir in ${XDG_DATA_DIRS:-/etc/xdg}; do
+  if [ -d "$dir/splatmoji/data" ]; then
+    datafiles="$dir/splatmoji/data/*"
+    datafiles_list+=$'\n'$(IFS=$'\n'; echo "${datafiles[*]}")
+  fi
+done
+IFS="$_old_IFS"
+
+# Fallback if we haven't found any data files
+if [ -z "${datafiles}" ]; then
+  datafiles=("${scriptdir}/data/*")
+  datafiles_list+=$(IFS=$'\n'; echo "${datafiles[*]}")
+fi
 
 # Read config
 declare -A config
