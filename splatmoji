@@ -70,14 +70,14 @@ while IFS='' read -r line; do
   if [[ -z "${line}" ]] || [ "${line:0:1}" == '#' ]; then
     continue
   fi
-  key=$(echo "${line}" | cut -d '=' -f 1)
-  val=$(echo "${line}" | cut -d '=' -f 2)
+  key="${line%%=*}"
+  val="${line#*=}"
   config["${key}"]="${val}"
 done < "${conffile}"
 
 # Prompt user for selection
 selection=$(cat ${datafiles_list} | eval ${config[rofi_command]})
-moji=$(cut -f 1 <<< "$selection")
+moji="${selection%%$'\t'*}"
 
 # Results to clipboard or selected x window
 if [ "${subcommand}" == 'type' ]; then
