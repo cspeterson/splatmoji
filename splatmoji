@@ -50,7 +50,7 @@ fi
 # Read global data files
 _old_IFS="$IFS"
 IFS=":"
-for dir in ${XDG_DATA_DIRS:-/etc/xdg}; do
+for dir in ${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}; do
   if [ -d "$dir/splatmoji/data" ]; then
     datafiles="$dir/splatmoji/data/*"
     datafiles_list+=$'\n'$(IFS=$'\n'; echo "${datafiles[*]}")
