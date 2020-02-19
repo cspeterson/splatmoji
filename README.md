@@ -14,7 +14,7 @@ Requirements:
 * Bash
 * [rofi]
 * xdotool (for typing your selection in for you)
-* xsel (for putting your selection into the clipboard)
+* xsel (for putting your selection into the clipboard) (xclipboard also works)
 
 ```sh
 # sudo apt-get install rofi xdotool xsel || sudo yum install rofi xdotool xsel
@@ -53,17 +53,37 @@ bindsym $mod+slash exec "/path/to/the/script type"
 
 Configuration options can be changed in `<project_dir>splatmoji.config` or by overriding the in-project config file with `${HOME}/.config/splatmoji/splatmoji.config`.
 
+Example config:
+
+```ini
+# These are the 3 commands you will need for everything to work
+# you can modify these commands as shown below in the respective subsections
+xsel_command=xsel
+xdotool_command=xdotool type
+rofi_command=rofi -dmenu -p : -i -monitor -2
+```
+
 ## Xsel config (copying to clipboard)
 
 You can alter the arguments sent to xsel to change, say, which "selection" your text goes into. By default it will go to the "CLIPBOARD" selection, which is the one you would usually get when doing Ctrl+c/v.
 
 For further options, check the xsel manpage.
 
+```ini
+# You can also use xclipboard, or (likely) any other clipping tool that you can pipe an echo into to cause selection
+# xclipboard example
+xsel_command=xclip -selection clipboard
+```
+
 ## Xdotool config (auto-typing)
 
 You can alter the arguments send to xdotool for typing out your selection, if for instance you need to adjust the timing delays to work more smoothly on your machine.
 
 For options, check the xdotool manpage.
+```ini
+# Example from above
+xdotool_command=xdotool type
+```
 
 ## Rofi config (the pop-up menu)
 
