@@ -1,0 +1,3 @@
+#!/bin/sh
+
+wget -O- https://raw.githubusercontent.com/carloscuesta/gitmoji/master/src/data/gitmojis.json | jq -r '.gitmojis[]|[.emoji, ([.code, .description]|join(" "))]|@tsv' > ../data/gitmoji.tsv
