@@ -19,18 +19,18 @@
 🚨	:rotating_light: Removing linter warnings.
 🚧	:construction: Work in progress.
 💚	:green_heart: Fixing CI Build.
-⬇️ 	:arrow_down: Downgrading dependencies.
-⬆️ 	:arrow_up: Upgrading dependencies.
+⬇️	:arrow_down: Downgrading dependencies.
+⬆️	:arrow_up: Upgrading dependencies.
 📌	:pushpin: Pinning dependencies to specific versions.
 👷	:construction_worker: Adding CI build system.
 📈	:chart_with_upwards_trend: Adding analytics or tracking code.
-♻️ 	recycle: Refactoring code.
+♻️	:recycle: Refactoring code.
 🐳	:whale: Work about Docker.
 ➕	:heavy_plus_sign: Adding a dependency.
 ➖	:heavy_minus_sign: Removing a dependency.
 🔧	:wrench: Changing configuration files.
 🌐	:globe_with_meridians: Internationalization and localization.
-✏️ 	pencil2: Fixing typos.
+✏️	:pencil2: Fixing typos.
 💩	:poop: Writing bad code that needs to be improved.
 ⏪	:rewind: Reverting changes.
 🔀	:twisted_rightwards_arrows: Merging branches.
@@ -56,9 +56,9 @@
 🥚	:egg: Adding an easter egg.
 🙈	:see_no_evil: Adding or updating a .gitignore file
 📸	:camera_flash: Adding or updating snapshots
-⚗ 	alembic: Experimenting new things
+⚗	:alembic: Experimenting new things
 🔍	:mag: Improving SEO
-☸️ 	wheel_of_dharma: Work about Kubernetes
+☸️	:wheel_of_dharma: Work about Kubernetes
 🏷️	:label: Adding or updating types (Flow, TypeScript)
 🌱	:seedling: Adding or updating seed files
 🚩	:triangular_flag_on_post: Adding, updating, or removing feature flags
