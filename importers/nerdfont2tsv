@@ -1,0 +1,26 @@
+#!/usr/bin/env python3
+
+# Use a HTML embedded in markdown, see
+# https://raw.githubusercontent.com/ryanoasis/nerd-fonts/gh-pages/_posts/2017-01-04-icon-cheat-sheet.md
+
+import sys
+import re
+
+with open(sys.argv[1]) as f:
+    file_lines = f.readlines()
+
+tsv_lines = []
+
+for line in file_lines:
+    match = re.search(r'>(nf-.*)</.*point">(.*)<', line)
+    if match is None:
+        continue
+    glyph_name = match.group(1)
+    glyph_codepoint_str = match.group(2)
+    # Codepoints are base 16
+    glyph = chr(int(glyph_codepoint_str, 16))
+
+    tsv_lines.append('{}\t{}\n'.format(glyph, glyph_name))
+
+with open(sys.argv[2], 'w') as f:
+    f.writelines(tsv_lines)
