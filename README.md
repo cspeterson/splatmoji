@@ -26,15 +26,75 @@ git clone https://github.com/cspeterson/splatmoji.git
 
 # Usage
 
-```sh
-# Call with default emoji and emoticon data files, copy result to clipboard
-./splatmoji copy
+```
+Usage:
 
-# Call with default emoji and emoticon data files, type out result
-./splatmoji type
+  ./splatmoji [OPTIONS]... [copy|type] [FILE]...
 
-# Call with a specific custom data file, copy result to clipboard
-./splatmoji copy /path/to/data/file1 /path/to/data/file2
+  Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux
+  desktop via pop-up menu.
+
+  Flags:
+    -e, --escape [gfm,json,gfm]
+        Escape output (this really only affects emoticons). Supports
+        github-flavored markdown, json, and reddit-flavored markdown escaping.
+
+    -h, --help
+        Print this help output and exit.
+
+    -j, --disable-emoji-db
+        Disable the listing of emoji from this application's own database.
+
+    -l, --languages LANG1,LANG2,LANG3
+        With emoji from the included database, it is possible to specify
+        keyword/annotation languages to include in addition to `en`. `nn`
+        for Norwegain, `fr-CA` for Canadian French, etc. In theory this could
+        apply to both emoji *and* emoticons, but the emoticons only come in
+        English at the moment.  Default: en
+
+    -m, --disable-emoticon-db
+        Disable the display of emoticons from this application's own database.
+
+    -p, --print-languages
+        Print out available language codes (as defined in [BCP47]) and exit.
+        (https://www.unicode.org/reports/tr35/tr35-17.html#BCP47)
+
+    -s, --skin-tones [light,medium-light,medium,medium-dark,dark]
+        Fitzpatrick scale skin tones to display for emoji that can be modified
+        by such. If given, emoji containing any other skin tones will be
+        omitted from the choice list.
+
+  Positional arguments:
+    [copy|type]
+        This application can either place the final selection into the user's
+        clipboard (copy), or type it out for the user (type).
+
+    [FILE]...
+        A list of files or directories of files to include in the display
+        regardless of the languages. The files must be TSV in the format of:
+            <thing-to-display><literal tab>keyword1, keyword2, keyword3
+
+
+  Examples
+    ./splatmoji copy
+    ./splatmoji type
+
+  Data files
+    Splatmoji will by default try to combine data files from the following
+    locations, when they are available:
+        * [FILE]... from the command line's positional arguments.
+        * ${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data}
+        * ${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}
+        * ${script_dir}/data
+
+    It is also possible to individually disable the included emoji or
+    emoticon databases:
+        # Use only the included emoticon database. No emoji.
+        ./splatmoji --disable-emoji-db
+        # Use only the included emoji database. No emoticons.
+        ./splatmoji --disable-emoticon-db
+        # Use only user-provided files
+        ./splatmoji --disable-emoticon-db --disable-emoji-db copy /some/custom/files
 ```
 
 You probably would want to bind this to some key combination in your window manager/desktop enviroment.
