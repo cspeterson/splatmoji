@@ -195,7 +195,7 @@ This repo uses emoji from [Splatmoji-emojidata] and emoticons.json from [w33ble/
 
 The emoji/emoticons should be stored in tsv like so:
 ```
-emoji<tab>name<tab>keywords etc
+emoji<tab>names keywords etc
 ```
 
 And then you can call the utlity with your preferred data files as per [Usage](#usage) above.
