@@ -173,21 +173,9 @@ I started a separate project ([Splatmoji-emojidata]) dedicated to maintaining an
 
 # Emoticons
 
-I'm planning on creating/maintaining a comprehensive database, and would love it if someone could point me to a well-labeled database.
+I'm planning on creating/maintaining a comprehensive database, and would love it if someone could point me to a well-labeled and machine-readable collection.
 
-But in the mean time, just make sure you're up to date by pulling from this very repo:
-
-```sh
-cd <install dir>
-git pull
-```
-
-You can also update the emoji/emoticon sets from the same source manually if you find that this repo is not keeping up fast enough for you:
-
-```sh
-# How to pull the sets from the remote files and transform to tsv (requires jq)
-curl 'https://raw.githubusercontent.com/w33ble/emoticon-data/master/emoticons.json' | importers/w33ble2tsv - > data/emoticons.tsv
-```
+The ones here originally came from [w33ble/emoticon-data] but are no longer being updated, so this is kinda it for now.
 
 # Custom Configuration and Custom Emoji/Emoticons
 
