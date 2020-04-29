@@ -1,0 +1,503 @@
+array_join() {
+  # Join elements of an array with a delimeter
+  #
+  # $1: nameref array to join
+  # $2: delimiting string
+  #
+  # returns: string of $1 delimited by $2 on STDOUT
+
+  local -n array_="${1}"
+  local delim="${2}"
+
+  local combined_string
+  combined_string="$(printf -- "%s${delim}" "${array_[@]}")"
+  combined_string="${combined_string%${delim}}"
+
+  echo "${combined_string}"
+}
+
+collect_data_files() {
+  # Create the full list of data files from args, XDG_CONFIG directories, and
+  # finally the "database" that with this application
+  #
+  # $1: truthy string to disable included emoji db
+  # $2: truthy string to disable included emooticon db
+  # $3: nameref to array of languages to include
+  # $4: nameref to array of extra cli data files
+  # $5: variable name for return by reference of the resulting array
+  #
+  # returns: values in $5 by nameref
+
+  local disable_emoji_db="${1}"
+  local disable_emoticon_db="${2}"
+  declare -n languages_additional_="${3}"
+  declare -n cli_data_files_="${4}"
+  declare -n datafiles_list_="${5}"
+
+
+  # Always include `en` language as no other language has complete emoji
+  # annotations
+  local languages_=('en' "${languages_additional_[@]}")
+
+  local datafiles=()
+
+  # Read command line data files
+  if [ ${#cli_data_files_[@]} -gt 0 ]; then
+    for filepath in "${cli_data_files_[@]}"; do
+      if ! [ -s "${filepath}" ]; then
+        echo "Specified data file '${filepath}' does not exist or is empty"
+        return 1
+      fi
+    done
+    datafiles_list_=("${datafiles_list_[@]}" "${cli_data_files_[@]}")
+  fi
+  # Get per-user data files
+  if [ -d "${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data" ]; then
+    datafiles=("${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data/"**/*.tsv)
+    datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
+  fi
+
+  # Get global data files
+  local _old_IFS="${IFS}"
+  local IFS=':'
+  for dir in ${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}; do
+    if [ -d "${dir}/splatmoji/data" ]; then
+      datafiles=("${dir}/splatmoji/data/"**/*.tsv)
+      IFS=$'\n' datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
+    fi
+  done
+  IFS="${_old_IFS}"
+
+  # Finally source data files from the script directory
+  if [ -z "${disable_emoji_db}" ]; then
+    for lang in "${languages_[@]}"; do
+      datafiles=()
+      if [ -f "${PROGDIR}/data/emoji/${lang}.tsv" ]; then
+        datafiles=("${datafiles[@]}" "${PROGDIR}/data/emoji/${lang}.tsv")
+      else
+        echo "Warning: specified language '${lang}' not present in included database.." 1>&2
+      fi
+      IFS=$'\n' datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
+    done
+  fi
+
+  if [ -z "${disable_emoticon_db}" ]; then
+    datafiles_list_=("${datafiles_list_[@]}" "${PROGDIR}/data/emoticons/"*.tsv)
+  fi
+
+  if [ "${#datafiles_list_[*]}" -eq 0 ]; then
+    echo "Cannot find any data files with the provided options.. " 1>&2
+    print_help
+    return 1
+  fi
+}
+
+escape_selection() {
+  # Given a user selection, escape it according to passed options
+  #
+  # $1: user selection
+  # $2: escape mode string
+  #
+  # returns: escaped selection on STDOUT
+
+  string="${1}"
+  escape_style="${2}"
+
+  if [ "${escape_style}" == 'gfm' ]; then
+    # Github flavored markdown allows escaping of all ascii punctuation so
+    # let's just go for broke here and escape all of these:
+    # !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+    string="${string//$'\u21'/\\$'\u21'}"
+    string="${string//$'\u22'/\\$'\u22'}"
+    string="${string//$'\u23'/\\$'\u23'}"
+    string="${string//$'\u24'/\\$'\u24'}"
+    string="${string//$'\u25'/\\$'\u25'}"
+    string="${string//$'\u26'/\\$'\u26'}"
+    string="${string//$'\u27'/\\$'\u27'}"
+    string="${string//$'\u28'/\\$'\u28'}"
+    string="${string//$'\u29'/\\$'\u29'}"
+    string="${string//$'\u2a'/\\$'\u2a'}"
+    string="${string//$'\u2b'/\\$'\u2b'}"
+    string="${string//$'\u2c'/\\$'\u2c'}"
+    string="${string//$'\u2d'/\\$'\u2d'}"
+    string="${string//$'\u2e'/\\$'\u2e'}"
+    string="${string//$'\u2f'/\\$'\u2f'}"
+    string="${string//$'\u3a'/\\$'\u3a'}"
+    string="${string//$'\u3b'/\\$'\u3b'}"
+    string="${string//$'\u3c'/\\$'\u3c'}"
+    string="${string//$'\u3d'/\\$'\u3d'}"
+    string="${string//$'\u3e'/\\$'\u3e'}"
+    string="${string//$'\u3f'/\\$'\u3f'}"
+    string="${string//$'\u40'/\\$'\u40'}"
+    string="${string//$'\u5b'/\\$'\u5b'}"
+    string="${string//$'\u5d'/\\$'\u5d'}"
+    string="${string//$'\u5e'/\\$'\u5e'}"
+    string="${string//$'\u5f'/\\$'\u5f'}"
+    string="${string//$'\u60'/\\$'\u60'}"
+    string="${string//$'\u7b'/\\$'\u7b'}"
+    string="${string//$'\u7c'/\\$'\u7c'}"
+    string="${string//$'\u7d'/\\$'\u7d'}"
+    string="${string//$'\u7e'/\\$'\u7e'}"
+  elif [ "${escape_style}" == 'json' ]; then
+    # string=$(jq -R <<< "${string}")
+    string="$(jq --raw-input '.' <<< "${string}")"
+    string="${string%\"}"
+    string="${string#\"}"
+  elif [ "${escape_style}" == 'rfm' ]; then
+    # Reddit flavored markdown does NOT like it when you just escape all of the
+    # punctuation chars. Here is a list of the ones that seem to matter on this
+    # platform:
+    # !#&()*+-.:<>[\]^_`{|}~
+    string="${string//$'\u21'/\\$'\u21'}"
+    string="${string//$'\u23'/\\$'\u23'}"
+    string="${string//$'\u26'/\\$'\u26'}"
+    string="${string//$'\u28'/\\$'\u28'}"
+    string="${string//$'\u29'/\\$'\u29'}"
+    string="${string//$'\u2a'/\\$'\u2a'}"
+    string="${string//$'\u2b'/\\$'\u2b'}"
+    string="${string//$'\u2d'/\\$'\u2d'}"
+    string="${string//$'\u2e'/\\$'\u2e'}"
+    string="${string//$'\u3a'/\\$'\u3a'}"
+    string="${string//$'\u3c'/\\$'\u3c'}"
+    string="${string//$'\u3e'/\\$'\u3e'}"
+    string="${string//$'\u5b'/\\$'\u5b'}"
+    string="${string//$'\u5d'/\\$'\u5d'}"
+    string="${string//$'\u5e'/\\$'\u5e'}"
+    string="${string//$'\u5f'/\\$'\u5f'}"
+    string="${string//$'\u60'/\\$'\u60'}"
+    string="${string//$'\u7b'/\\$'\u7b'}"
+    string="${string//$'\u7c'/\\$'\u7c'}"
+    string="${string//$'\u7d'/\\$'\u7d'}"
+    string="${string//$'\u7e'/\\$'\u7e'}"
+  else
+    echo "Invalid escape format provided." 1>&2
+    print_help
+    return 1
+  fi
+
+  echo "${string}"
+}
+
+get_config() {
+  # Given a filepath, read application configuration from it
+  #
+  # $1: configuration file path
+  # $2: nameref to associative array in which to put config key:val pairs
+  #
+  # returns: config keys:values in $2 by nameref
+
+  local conffile="${1}"
+  declare -n config_="${2}"
+
+  while IFS='' read -r line; do
+    if [[ -z "${line}" ]] || [ "${line:0:1}" == '#' ]; then
+      continue
+    fi
+    key="${line%%=*}"
+    val="${line#*=}"
+     # shellcheck disable=SC2034
+    config_["${key}"]="${val}"
+  done < "${conffile}"
+}
+
+get_config_file() {
+  # Determine configuration file path
+  #
+  # returns: filepath on STDOUT
+
+  local conffile
+
+  if [ -f "${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config" ]; then
+    conffile="${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config"
+  else
+    _old_IFS="$IFS"
+    IFS=":"
+    for dir in ${XDG_CONFIG_DIRS:-/etc/xdg}; do
+      if [ -f "$dir/splatmoji/splatmoji.config" ]; then
+        conffile="$dir/splatmoji/splatmoji.config"
+        break
+      fi
+    done
+    IFS="$_old_IFS"
+  fi
+  # Fallback to script location
+  if [ -z "${conffile}" ]; then
+    conffile="${PROGDIR}/splatmoji.config"
+  fi
+
+  echo "${conffile}"
+}
+
+get_excluded_skin_tones() {
+  # Given desired skin tones by common name (e.g. "dark", "light"), give the
+  # corresponding list of *excluded* skin tones
+  #
+  # $1: array of english-language skin names
+  # $2: array for return by nameref
+  #
+  # returns: array of excluded skin tone emoji by nameref in $2
+
+  local -n skin_names_="${1}"
+  local -n skin_tones_exclude_="${2}"
+
+  declare -A skin_tones_lookup
+  skin_tones_lookup['light']='🏻'
+  skin_tones_lookup['medium-light']='🏼'
+  skin_tones_lookup['medium']='🏽'
+  skin_tones_lookup['medium-dark']='🏾'
+  skin_tones_lookup['dark']='🏿'
+
+  local skin_tones=()
+  local i
+  for i in "${!skin_names_[@]}"; do
+    tone_name="${skin_names_[${i}]}"
+    if  [ -z "${skin_tones_lookup[${tone_name}]}" ]; then
+      echo 'Invalid skin tone provided.' >&2
+      print_help
+      return 1
+    fi
+    skin_tones+=("${skin_tones_lookup[${tone_name}]}")
+  done
+
+  local skin_tones_list=(🏻 🏼 🏽 🏾 🏿)
+  local skin_tone
+  for skin_tone in "${skin_tones_list[@]}"; do
+    # shellcheck disable=SC2199,SC2076
+    if ! [[ " ${skin_tones[@]} " =~ " ${skin_tone} " ]]; then
+      skin_tones_exclude_+=("${skin_tone}")
+    fi
+  done
+}
+
+get_user_selection() {
+  # Prompt user for selection
+  #
+  # $1: nameref array of skin tones to exclude
+  # $2: nameref array of files to include for selection
+  # $3: user-facing popup menu command string
+  #
+  # returns: user's selected string on STDOUT
+
+  local -n skin_tones_exclude_="${1}"
+  # shellcheck disable=SC2178
+  local -n datafiles_list_="${2}"
+  local command_userprompt_="${3}"
+
+
+  # Skin tones
+  local skin_tones_exclude_joined
+  skin_tones_exclude_joined="$(array_join skin_tones_exclude_ '|')"
+
+  if [ -n "${skin_tones_exclude_joined}" ]; then
+    # shellcheck disable=SC2086,SC2002
+    selection=$(cat ${datafiles_list_[*]} | grep -E -v "${skin_tones_exclude_joined}" | eval "${command_userprompt_}")
+  else
+    # shellcheck disable=SC2086,SC2002
+    selection=$(cat ${datafiles_list_[*]} | eval "${command_userprompt_}")
+  fi
+  selection="${selection%%$'\t'*}"
+  echo "${selection}"
+}
+
+output_copied() {
+  # Results finally to clipboard
+  #
+  # $1: command line to eval for output method
+  # $2: user selection to output
+
+  output_command="${1}"
+  selection="${2}"
+
+  echo -n "${selection}" | eval "${output_command}"
+}
+
+output_typed() {
+  # Results finally typed
+  #
+  # $1: command line to eval for output method
+  # $2: user selection to output
+
+  local output_command="${1}"
+  local selection="${2}"
+
+  eval "${output_command} \"${selection}\""
+}
+
+parse_args() {
+  # Pargse args
+  #
+  # $1: script's $@
+  #
+  # returns: nothing
+  # sets: global readonly variables:
+  #   ESCAPE
+  #   DISABLE_EMOJI_DB
+  #   LANGUAGES
+  #   DISABLE_EMOTICON_DB
+  #   SKIN_TONES_EXCLUDE_JOINED
+  #   SUBCOMMAND
+  #   CLI_DATA_FILES
+
+  if [ $# -eq 0 ]; then
+    print_help
+    return 1
+  fi
+
+  # Before running through `getopts`, translate out convenient long-versions
+  # within $@ because we're using bash built-in getopts which does not support
+  # long args
+  for opt in "$@"; do
+    shift
+    case "${opt}" in
+      '--disable-emoji-db')    set -- "$@" '-j' ;;
+      '--disable-emoticon-db') set -- "$@" '-m' ;;
+      '--escape')              set -- "$@" '-e' ;;
+      '--help')                set -- "$@" '-h' ;;
+      '--languages')           set -- "$@" '-l' ;;
+      '--print-languages')     set -- "$@" '-p' ;;
+      '--skin-tones')          set -- "$@" '-s' ;;
+      *)                       set -- "$@" "${opt}" ;;
+    esac
+  done
+
+  # Back to the beginning now and get our opts
+  OPTIND=1
+  while getopts ':e:hjl:mps:' opt; do
+    case "${opt}" in
+      e)
+        readonly ESCAPE="${OPTARG}"
+        ;;
+      h)
+        print_help
+        return 255
+        ;;
+      j)
+        readonly DISABLE_EMOJI_DB=true
+        ;;
+      l)
+        local t_array
+        # shellcheck disable=SC2162
+        IFS=',' read -a t_array <<< "${OPTARG}"
+        readonly LANGUAGES=( "${t_array[@]}" )
+        ;;
+      m)
+        readonly DISABLE_EMOTICON_DB=true
+        ;;
+      p)
+        print_langs
+        return 255
+        ;;
+      s)
+        local skin_names
+        # shellcheck disable=SC2162,SC2034
+        IFS=',' read -a skin_names <<< "${OPTARG}"
+        local skin_tones_exclude=()
+        get_excluded_skin_tones skin_names skin_tones_exclude || return 1
+        readonly SKIN_TONES_EXCLUDE=( "${skin_tones_exclude[@]}" )
+        ;;
+      *)
+        echo "Invalid option ${OPTARG}" >&2
+        print_help
+        return 1
+        ;;
+    esac
+  done
+
+  # Drop all of the flag opts
+  shift $(( OPTIND - 1 ))
+  # Get subcommand and positional arguments
+  readonly SUBCOMMAND="${1}"
+  if [ "${SUBCOMMAND}" != 'type' ] && [ "${SUBCOMMAND}" != 'copy' ]; then
+    echo 'Error: [copy|type] is required.' >&2
+    echo
+    print_help
+    return 1
+  fi
+  shift
+  readonly CLI_DATA_FILES=("$@")
+}
+
+print_help() {
+  echo 'Usage:'
+  echo "
+  ${PROGNAME} [OPTIONS]... [copy|type] [FILE]...
+
+  Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux
+  desktop via pop-up menu.
+
+  Flags:
+    -e, --escape [gfm,json,gfm]
+        Escape output (this really only affects emoticons). Supports
+        github-flavored markdown, json, and reddit-flavored markdown escaping.
+
+    -h, --help
+        Print this help output and exit.
+
+    -j, --disable-emoji-db
+        Disable the listing of emoji from this application's own database.
+
+    -l, --languages LANG1,LANG2,LANG3
+        With emoji from the included database, it is possible to specify
+        keyword/annotation languages to include in addition to \`en\`. \`nn\`
+        for Norwegain, \`fr-CA\` for Canadian French, etc. In theory this could
+        apply to both emoji *and* emoticons, but the emoticons only come in
+        English at the moment.  Default: en
+
+    -m, --disable-emoticon-db
+        Disable the display of emoticons from this application's own database.
+
+    -p, --print-languages
+        Print out available language codes (as defined in [BCP47]) and exit.
+        (https://www.unicode.org/reports/tr35/tr35-17.html#BCP47)
+
+    -s, --skin-tones [light,medium-light,medium,medium-dark,dark]
+        Fitzpatrick scale skin tones to display for emoji that can be modified
+        by such. If given, emoji containing any other skin tones will be
+        omitted from the choice list.
+
+  Positional arguments:
+    [copy|type]
+        This application can either place the final selection into the user's
+        clipboard (copy), or type it out for the user (type).
+
+    [FILE]...
+        A list of files or directories of files to include in the display
+        regardless of the languages. The files must be TSV in the format of:
+            <thing-to-display><literal tab>keyword1, keyword2, keyword3
+
+
+  Examples
+    ${PROGNAME} copy
+    ${PROGNAME} type
+
+  Data files
+    Splatmoji will by default try to combine data files from the following
+    locations, when they are available:
+        * [FILE]... from the command line's positional arguments.
+        * \${XDG_DATA_HOME:-\${HOME}/.local/share}/splatmoji/data}
+        * \${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}
+        * \${PROGDIR}/data
+
+    It is also possible to individually disable the included emoji or
+    emoticon databases:
+        # Use only the included emoticon database. No emoji.
+        ${PROGNAME} --disable-emoji-db
+        # Use only the included emoji database. No emoticons.
+        ${PROGNAME} --disable-emoticon-db
+        # Use only user-provided files
+        ${PROGNAME} --disable-emoticon-db --disable-emoji-db copy /some/custom/files
+  "
+}
+
+print_langs() {
+  local code
+  local lang
+
+  lang_files=("${PROGDIR}"/data/emoji/*.tsv)
+
+  for lang in "${lang_files[@]}"; do
+    code="${lang%.*}"
+    code="${code##*/}"
+    echo "${code}"
+  done
+}

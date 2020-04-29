@@ -1,0 +1,24 @@
+get_included_db_langs() {
+  # Gets all the language short names from the db
+  #
+  # $1: nameref array for return
+  #
+  # returns: array by nameref of included langs
+
+  local -n all_langs_="${1}"
+  all_langs_=( "${PROGDIR}/data/emoji/"*.tsv )
+  local i
+  for ((i=0; i<${#all_langs_[@]}; i++)); do
+    all_langs_[$i]=${all_langs_[$i]##*/}
+    all_langs_[$i]=${all_langs_[$i]%.*}
+  done
+}
+
+sort_array() {
+  local IFS
+  local -n array_="${1}"
+  IFS=$'\n' read -ard array_ <<< "$(sort <<< "${array_[@]}")"
+  local item
+  # shellcheck disable=SC2207
+  array_=($(for item in "${array_[@]}"; do echo "${item}"; done | sort))
+}

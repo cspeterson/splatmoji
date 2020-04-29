@@ -7,14 +7,14 @@ Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux deskt
 
 <img src="splatmoji.gif" width="400">
 
-Splatmoji supports skin tone filtering, custom data sets, and includes emoji annotations in all languages supported by Unicode [CLDR].
+Splatmoji supports skin tone filtering, custom data sets, and includes emoji annotations in all languages supported by Unicode [CLDR](http://cldr.unicode.org/).
 
 # Install
 
 Requirements:
 
-* Bash
-* [rofi]
+* Bash (>=4.4)
+* [rofi](https://github.com/DaveDavenport/rofi)
 * xdotool (for typing your selection in for you)
 * xsel (for putting your selection into the clipboard) (xclipboard also works)
 * jq (if JSON escaping is called for with the argument `--escape json`)
@@ -56,7 +56,7 @@ Usage:
         Disable the display of emoticons from this application's own database.
 
     -p, --print-languages
-        Print out available language codes (as defined in [BCP47]) and exit.
+        Print out available language codes (as defined in BCP47) and exit.
         (https://www.unicode.org/reports/tr35/tr35-17.html#BCP47)
 
     -s, --skin-tones [light,medium-light,medium,medium-dark,dark]
@@ -101,8 +101,6 @@ You probably would want to bind this to some key combination in your window mana
 
 ### i3wm
 
-[i3wm] is my preferred window manager.
-
 ```sh
 # This would go into your .config/i3/config to bind to Super+slash
 bindsym $mod+slash exec "/path/to/the/script type"
@@ -110,7 +108,7 @@ bindsym $mod+slash exec "/path/to/the/script type"
 
 ### Gnome
 
-[This Gnome.org help page] seems to outline how to do this in the popular Gnome desktop environment.
+[This Gnome.org help page](https://help.gnome.org/users/gnome-help/stable/keyboard-shortcuts-set.html.en) seems to outline how to do this in the popular Gnome desktop environment.
 
 # Configuration
 
@@ -169,17 +167,17 @@ For *many* other options, see the rofi manpage.
 
 ## Emoji
 
-I started a separate project ([Splatmoji-emojidata]) dedicated to maintaining an organized, absolutely complete, and up-to-date set of emoji. It is from there that this project gets its emoji database. There shouldn't be much to update as I'll be in sync with the latest CLDR releases from Unicode, but [the repo itself][Splatmoji-emojidata] has intructions and scripts for updating directly from the source.
+I started a separate project ([Splatmoji-emojidata](https://github.com/cspeterson/splatmoji-emojidata)) dedicated to maintaining an organized, absolutely complete, and up-to-date set of emoji. It is from there that this project gets its emoji database. There shouldn't be much to update as I'll be in sync with the latest CLDR releases from Unicode, but [the repo itself][Splatmoji-emojidata] has intructions and scripts for updating directly from the source.
 
 # Emoticons
 
 I'm planning on creating/maintaining a comprehensive database, and would love it if someone could point me to a well-labeled and machine-readable collection.
 
-The ones here originally came from [w33ble/emoticon-data] but are no longer being updated, so this is kinda it for now.
+The ones here originally came from [w33ble/emoticon-data](https://github.com/w33ble/emoticon-data) but are no longer being updated, so this is kinda it for now.
 
 # Custom Configuration and Custom Emoji/Emoticons
 
-This repo uses emoji from [Splatmoji-emojidata] and emoticons.json from [w33ble/emoticon-data], but you can use your own files either additionally or as a replacement.
+This repo uses emoji from [Splatmoji-emojidata](https://github.com/cspeterson/splatmoji-emojidata), and the emoticons are not currently being updated, but you can use your own files either additionally or as a replacement.
 
 The emoji/emoticons should be stored in tsv like so:
 ```
@@ -199,24 +197,12 @@ Please let me know what better source you wind up using, and maybe the command(s
 
 # Contributing
 
-Taking pull requests [here].
+Taking pull requests: [https://github.com/cspeterson/splatmoji.git](https://github.com/cspeterson/splatmoji.git)
 
 # Credits
 
-By [Christopher Peterson] ([@cspete])
+By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www.twitter.com/cspete))
 
 # License
 
 The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
-
-[@cspete]: https://www.twitter.com/cspete
-[BCP47]: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-[CLDR]: http://cldr.unicode.org/
-[Christopher Peterson]: https://chrispeterson.info
-[Rofi manpage]: https://github.com/DaveDavenport/rofi/wiki/rofi-manpage
-[Splatmoji-emojidata]: https://github.com/cspeterson/splatmoji-emojidata
-[This Gnome.org help page]: https://help.gnome.org/users/gnome-help/stable/keyboard-shortcuts-set.html.en
-[here]: https://github.com/cspeterson/splatmoji.git
-[i3wm]: https://i3wm.org/
-[rofi]: https://github.com/DaveDavenport/rofi
-[w33ble/emoticon-data]: https://github.com/w33ble/emoticon-data
