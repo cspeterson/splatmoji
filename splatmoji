@@ -7,7 +7,12 @@ readonly PROGNAME="$(basename "${0}")"
 readonly PROGDIR="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
 
 # shellcheck disable=SC1090
-source "${PROGDIR}/lib/functions"
+# shellcheck disable=SC1091
+if [ -s "${PROGDIR}/lib/functions" ]; then
+  source "${PROGDIR}/lib/functions"
+else
+  source '/usr/lib/splatmoji/functions'
+fi
 
 main() {
   parse_args "$@" || \
