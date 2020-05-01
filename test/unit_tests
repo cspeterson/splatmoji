@@ -177,13 +177,14 @@ test_get_config() {
   assertEquals 'Created and retrieved config *keys* must match' "${!test_config_keyval[*]}" "${!config_from_file[*]}"
 }
 
-test_get_config_file__default() {
+test_get_config_file__progdir() {
   local config_filepath_expected
   local config_path
+  local XDG_CONFIG_HOME=''
 
   config_filepath_expected="${PROGDIR}/splatmoji.config"
   config_path="$(get_config_file)"
-  assertEquals 'By default the config filepath should just be the one in the script directory' "${config_filepath_expected}" "${config_path}"
+  assertEquals 'The config filepath should just be the one in the script directory' "${config_filepath_expected}" "${config_path}"
 }
 
 test_get_config_file__xdghomedir() {
@@ -192,7 +193,6 @@ test_get_config_file__xdghomedir() {
   local XDG_CONFIG_HOME
 
   temp_dirpath="$(mktemp -d)"
-  local XDG_CONFIG_HOME
   # shellcheck disable=SC2034
   XDG_CONFIG_HOME="${temp_dirpath}"
   mkdir -p "${temp_dirpath}/splatmoji/"
@@ -202,26 +202,6 @@ test_get_config_file__xdghomedir() {
 
 # shellcheck disable=SC2016
   assertEquals 'If a `splatmoji.config` is present in `XDG_CONFIG_HOME`, it should be found as the config file' "${config_filepath_expected}" "${config_path}"
-
-  rm -rf "${temp_dirpath}"
-}
-
-test_get_config_file__xdgconfigdirs() {
-  local config_filepath_expected
-  local config_path
-  local XDG_CONFIG_DIRS
-
-  temp_dirpath="$(mktemp -d)"
-  local XDG_CONFIG_DIRS
-  # shellcheck disable=SC2034
-  XDG_CONFIG_DIRS="${temp_dirpath}:${temp_dirpath}"
-  mkdir -p "${temp_dirpath}/splatmoji/"
-  config_filepath_expected="${temp_dirpath}/splatmoji/splatmoji.config"
-  touch "${config_filepath_expected}"
-  config_path="$(get_config_file)"
-
-# shellcheck disable=SC2016
-  assertEquals 'If a `splatmoji.config` is present in one of `XDG_CONFIG_DIRS`, it should be found as the config file' "${config_filepath_expected}" "${config_path}"
 
   rm -rf "${temp_dirpath}"
 }
@@ -323,5 +303,16 @@ test_print_langs() {
   return 0
 }
 
+# shellcheck disable=SC1090
 # shellcheck disable=SC1091
-source /usr/bin/shunit2
+if [ -s "${SHUNIT2_PATH}" ]; then
+  source "${SHUNIT2_PATH}"
+elif [ -s "$(type -p shunit2)" ]; then
+  # On $PATH
+  source "$(type -p shunit2)"
+elif [ -s '/usr/share/shunit2/shunit2' ]; then
+  # EL puts it here
+  source '/usr/share/shunit2/shunit2'
+elif [ -s ./shunit2 ]; then
+  source ./shunit2
+fi

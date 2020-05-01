@@ -35,8 +35,7 @@ collect_data_files() {
   declare -n datafiles_list_="${5}"
 
 
-  # Always include `en` language as no other language has complete emoji
-  # annotations
+  # Always include `en` until local/language detection is added
   local languages_=('en' "${languages_additional_[@]}")
 
   local datafiles=()
@@ -53,37 +52,41 @@ collect_data_files() {
   fi
   # Get per-user data files
   if [ -d "${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data" ]; then
+    t found in
     datafiles=("${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data/"**/*.tsv)
     datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
   fi
 
-  # Get global data files
-  local _old_IFS="${IFS}"
-  local IFS=':'
-  for dir in ${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}; do
-    if [ -d "${dir}/splatmoji/data" ]; then
-      datafiles=("${dir}/splatmoji/data/"**/*.tsv)
-      IFS=$'\n' datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
-    fi
-  done
-  IFS="${_old_IFS}"
-
-  # Finally source data files from the script directory
-  if [ -z "${disable_emoji_db}" ]; then
+  # Try first to source data files from the script directory, then XDG system
+  # data dir
+  datafiles=()
+  if [ -z "${disable_emoji_db}" ] && [ -d "${PROGDIR}/data/emoji" ]; then
     for lang in "${languages_[@]}"; do
-      datafiles=()
       if [ -f "${PROGDIR}/data/emoji/${lang}.tsv" ]; then
         datafiles=("${datafiles[@]}" "${PROGDIR}/data/emoji/${lang}.tsv")
       else
         echo "Warning: specified language '${lang}' not present in included database.." 1>&2
       fi
-      IFS=$'\n' datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
+    done
+  elif [ -z "${disable_emoji_db}" ] && [ -d '/usr/share/splatmoji/data/emoji' ]; then
+    for lang in "${languages_[@]}"; do
+      if [ -f "/usr/share//splatmoji/data/emoji/${lang}.tsv" ]; then
+        datafiles=("${datafiles[@]}" "/usr/share//splatmoji/data/emoji/${lang}.tsv")
+      else
+        echo "Warning: specified language '${lang}' not present in included database.." 1>&2
+      fi
     done
   fi
+  datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
 
-  if [ -z "${disable_emoticon_db}" ]; then
-    datafiles_list_=("${datafiles_list_[@]}" "${PROGDIR}/data/emoticons/"*.tsv)
+  # Now emoticons as emoji above
+  datafiles=()
+  if [ -z "${disable_emoticon_db}" ] && [ -s "${PROGDIR}/data/emoticons/emoticons.tsv" ]; then
+    datafiles=("${datafiles[@]}" "${PROGDIR}/data/emoticons/emoticons.tsv")
+  elif [ -z "${disable_emoticon_db}" ] && [ -s '/usr/share/splatmoji/data/emoticons/emoticons.tsv' ]; then
+    datafiles=("${datafiles[@]}" '/usr/share/splatmoji/data/emoticons/emoticons.tsv')
   fi
+  datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
 
   if [ "${#datafiles_list_[*]}" -eq 0 ]; then
     echo "Cannot find any data files with the provided options.. " 1>&2
@@ -139,7 +142,11 @@ escape_selection() {
     string="${string//$'\u7d'/\\$'\u7d'}"
     string="${string//$'\u7e'/\\$'\u7e'}"
   elif [ "${escape_style}" == 'json' ]; then
-    # string=$(jq -R <<< "${string}")
+    if ! type jq >/dev/null 2>&1; then
+      # shellcheck disable=SC2016
+      echo 'In order to use JSON escaping, please ensure the utility `jq` is installed and in your $PATH' 1>&2
+      return 1
+    fi
     string="$(jq --raw-input '.' <<< "${string}")"
     string="${string%\"}"
     string="${string#\"}"
@@ -209,20 +216,10 @@ get_config_file() {
 
   if [ -f "${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config" ]; then
     conffile="${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config"
-  else
-    _old_IFS="$IFS"
-    IFS=":"
-    for dir in ${XDG_CONFIG_DIRS:-/etc/xdg}; do
-      if [ -f "$dir/splatmoji/splatmoji.config" ]; then
-        conffile="$dir/splatmoji/splatmoji.config"
-        break
-      fi
-    done
-    IFS="$_old_IFS"
-  fi
-  # Fallback to script location
-  if [ -z "${conffile}" ]; then
+  elif [ -s "${PROGDIR}/splatmoji.config" ]; then
     conffile="${PROGDIR}/splatmoji.config"
+  elif [ -s '/etc/xdg/splatmoji/splatmoji.config' ]; then
+    conffile='/etc/xdg/splatmoji/splatmoji.config'
   fi
 
   echo "${conffile}"
