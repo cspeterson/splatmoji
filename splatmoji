@@ -38,6 +38,8 @@ main() {
   # User selection
   local selection
   selection="$(get_user_selection SKIN_TONES_EXCLUDE datafiles_list "${config['rofi_command']}")"
+  # Remove prepended unicode left-to-right mark if present
+  selection=${selection#$'\u200e'}
   if [ -n "${ESCAPE}" ]; then
     selection=$(escape_selection "${selection}" "${ESCAPE}")
   fi
