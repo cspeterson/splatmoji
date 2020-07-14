@@ -29,19 +29,39 @@ main() {
   conffile="$(get_config_file)"
   declare -A config
   get_config "${conffile}" config
+  if [ -n "${VERBOSE}" ]; then
+    echo 1>&2
+    echo '# Config:' 1>&2
+    for key in "${!config[@]}"; do echo "'${key}':" "'${config["${key}"]}'" 1>&2; done
+  fi
 
   # Get list of data files
   # shellcheck disable=SC2034
   local datafiles_list=()
   collect_data_files "${DISABLE_EMOJI_DB}" "${DISABLE_EMOTICON_DB}" LANGUAGES CLI_DATA_FILES datafiles_list
+  if [ -n "${VERBOSE}" ]; then
+    echo 1>&2
+    echo '# Data files list:' 1>&2
+    echo "${datafiles_list[*]}" 1>&2
+  fi
 
   # User selection
   local selection
   selection="$(get_user_selection SKIN_TONES_EXCLUDE datafiles_list "${config['rofi_command']}")"
+  if [ -n "${VERBOSE}" ]; then
+    echo 1>&2
+    echo '# Un-escaped user selection:' 1>&2
+    echo "'${selection}'" 1>&2
+  fi
   # Remove prepended unicode left-to-right mark if present
   selection=${selection#$'\u200e'}
   if [ -n "${ESCAPE}" ]; then
     selection=$(escape_selection "${selection}" "${ESCAPE}")
+    if [ -n "${VERBOSE}" ]; then
+      echo 1>&2
+      echo '# Escaped user selection:' 1>&2
+      echo "'${selection}'" 1>&2
+    fi
   fi
 
   if [ "${SUBCOMMAND}" == 'type' ]; then
