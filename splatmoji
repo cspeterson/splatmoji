@@ -41,7 +41,10 @@ main() {
   collect_data_files "${DISABLE_EMOJI_DB}" "${DISABLE_EMOTICON_DB}" LANGUAGES CLI_DATA_FILES datafiles_list
   if [ -n "${VERBOSE}" ]; then
     echo 1>&2
-    echo '# Data files list:' 1>&2
+    echo '# Data files specified via cli:' 1>&2
+    echo "${CLI_DATA_FILES[*]-''}" 1>&2
+    echo 1>&2
+    echo '# Data files final list:' 1>&2
     echo "${datafiles_list[*]}" 1>&2
   fi
 
