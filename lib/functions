@@ -52,7 +52,6 @@ collect_data_files() {
   fi
   # Get per-user data files
   if [ -d "${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data" ]; then
-    t found in
     datafiles=("${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data/"**/*.tsv)
     datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
   fi
@@ -327,13 +326,14 @@ parse_args() {
   #
   # returns: nothing
   # sets: global readonly variables:
-  #   ESCAPE
+  #   CLI_DATA_FILES
   #   DISABLE_EMOJI_DB
-  #   LANGUAGES
   #   DISABLE_EMOTICON_DB
+  #   ESCAPE
+  #   LANGUAGES
   #   SKIN_TONES_EXCLUDE_JOINED
   #   SUBCOMMAND
-  #   CLI_DATA_FILES
+  #   VERBOSE
 
   if [ $# -eq 0 ]; then
     print_help
@@ -353,13 +353,14 @@ parse_args() {
       '--languages')           set -- "$@" '-l' ;;
       '--print-languages')     set -- "$@" '-p' ;;
       '--skin-tones')          set -- "$@" '-s' ;;
+      '--verbose')             set -- "$@" '-v' ;;
       *)                       set -- "$@" "${opt}" ;;
     esac
   done
 
   # Back to the beginning now and get our opts
   OPTIND=1
-  while getopts ':e:hjl:mps:' opt; do
+  while getopts ':e:hjl:mpvs:' opt; do
     case "${opt}" in
       e)
         readonly ESCAPE="${OPTARG}"
@@ -391,6 +392,9 @@ parse_args() {
         local skin_tones_exclude=()
         get_excluded_skin_tones skin_names skin_tones_exclude || return 1
         readonly SKIN_TONES_EXCLUDE=( "${skin_tones_exclude[@]}" )
+        ;;
+      v)
+        VERBOSE=true
         ;;
       *)
         echo "Invalid option ${OPTARG}" >&2
@@ -451,6 +455,12 @@ print_help() {
         Fitzpatrick scale skin tones to display for emoji that can be modified
         by such. If given, emoji containing any other skin tones will be
         omitted from the choice list.
+
+    -v, --verbose
+        Print to STDERR some important internal variables as they are created:
+          * config from config file
+          * list of data files from which selections are sourced
+          * user selection escaping
 
   Positional arguments:
     [copy|type]
