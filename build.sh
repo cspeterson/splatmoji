@@ -28,6 +28,7 @@ pandoc --standalone --to man README.md -o "${mandir}/${cmdname}.1"
 bindir="${builddir}/usr/bin"
 mkdir -p "${bindir}"
 cp "./${cmdname}" "${bindir}/"
+chmod 0755 "${bindir}/${cmdname}"
 
 # Config
 confdir="${builddir}/etc/xdg/${cmdname}"
