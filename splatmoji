@@ -67,6 +67,11 @@ main() {
     fi
   fi
 
+  # If nothing selected, don't try to save/type/copy to clipboard
+  if [ -z "${selection}" ]; then
+    return
+  fi
+
   if [ "${config['history_file']}" -a "${config['history_length']:-0}" -ge 0 ]; then
     save_history "${config['history_file']}" "${config['history_length']}" "${selection}"
   fi
