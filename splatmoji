@@ -38,7 +38,7 @@ main() {
   # Get list of data files
   # shellcheck disable=SC2034
   local datafiles_list=()
-  collect_data_files "${DISABLE_EMOJI_DB}" "${DISABLE_EMOTICON_DB}" LANGUAGES CLI_DATA_FILES datafiles_list
+  collect_data_files "${DISABLE_EMOJI_DB}" "${DISABLE_EMOTICON_DB}" LANGUAGES CLI_DATA_FILES "${config['history_file']}" datafiles_list
   if [ -n "${VERBOSE}" ]; then
     echo 1>&2
     echo '# Data files specified via cli:' 1>&2
@@ -65,6 +65,10 @@ main() {
       echo '# Escaped user selection:' 1>&2
       echo "'${selection}'" 1>&2
     fi
+  fi
+
+  if [ "${config['history_file']}" -a "${config['history_length']:-0}" -ge 0 ]; then
+    save_history "${config['history_file']}" "${config['history_length']}" "${selection}"
   fi
 
   if [ "${SUBCOMMAND}" == 'type' ]; then
