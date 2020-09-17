@@ -209,6 +209,7 @@ get_config() {
     fi
     key="${line%%=*}"
     val="${line#*=}"
+    val="${val/#\~/${HOME}}"
      # shellcheck disable=SC2034
     config_["${key}"]="${val}"
   done < "${conffile}"
