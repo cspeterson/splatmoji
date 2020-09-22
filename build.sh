@@ -83,6 +83,7 @@ fpm \
   --after-install "${builddir}/splatmoji-postinstall-ownership.sh" \
   --architecture noarch \
   --depends 'bash > 4.4' \
+  --depends 'grep' \
   --depends 'rofi' \
   --depends 'xdotool' \
   --depends 'xsel' \
