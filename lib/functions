@@ -427,7 +427,7 @@ print_help() {
   desktop via pop-up menu.
 
   Flags:
-    -e, --escape [gfm,json,gfm]
+    -e, --escape [gfm,json,rfm]
         Escape output (this really only affects emoticons). Supports
         github-flavored markdown, json, and reddit-flavored markdown escaping.
 
