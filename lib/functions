@@ -547,13 +547,13 @@ save_history() {
       if [ "${line}" == "${selection_entry}" ]; then
         continue
       fi
-      # Store this line
-      old_history["${line}"]=1
-      old_order+=("${line}")
       # If we have enough entries already, we can break
       if [ "${#old_order[@]}" -eq "${max_old_entries}" ]; then
         break
       fi
+      # Store this line
+      old_history["${line}"]=1
+      old_order+=("${line}")
     done < "${history_file}"
   fi
   # We've done the heavy lifting now, so just add the current selection to the

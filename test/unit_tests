@@ -338,7 +338,7 @@ test_save_history() {
   tmpfilepath="$(mktemp)"
 
   # Test saving history from length 1 to reference list length
-  for ((hist_limit=5; hist_limit<${#selection_list_expected[@]}; hist_limit++)); do
+  for ((hist_limit=1; hist_limit<${#selection_list_expected[@]}; hist_limit++)); do
     # Put the start list fresh into tmp history file
     echo -n '' > "${tmpfilepath}"
     for selection in "${selection_list_start[@]}"; do
