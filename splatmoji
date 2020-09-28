@@ -70,6 +70,17 @@ main() {
   fi
   # Remove prepended unicode left-to-right mark if present
   selection=${selection#$'\u200e'}
+
+  # If nothing selected, don't try to save/type/copy to clipboard
+  if [ -z "${selection}" ]; then
+    return
+  fi
+
+  # For recently-used
+  if [ "${config['history_length']}" -gt 0 ]; then
+    save_history "${history_file}" "${config['history_length']}" "${selection}"
+  fi
+
   if [ -n "${ESCAPE}" ]; then
     selection=$(escape_selection "${selection}" "${ESCAPE}")
     if [ -n "${VERBOSE}" ]; then
@@ -77,16 +88,6 @@ main() {
       echo '# Escaped user selection:' 1>&2
       echo "'${selection}'" 1>&2
     fi
-  fi
-
-  # If nothing selected, don't try to save/type/copy to clipboard
-  if [ -z "${selection}" ]; then
-    return
-  fi
-
-  if [ "${config['history_length']}" -gt 0 ]; then
-    echo fff
-    save_history "${history_file}" "${config['history_length']}" "${selection}"
   fi
 
   if [ "${SUBCOMMAND}" == 'type' ]; then
