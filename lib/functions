@@ -525,6 +525,7 @@ save_history() {
   local history_file="${1}"
   local history_length="${2}"
   local selection="${3}"
+  # Note to future selves: literal tab in the middle here
   local selection_entry="${selection}	(recently used)"
 
   # Use associative array to ensure uniqueness of history
@@ -534,7 +535,7 @@ save_history() {
   # Track how many additional old history entries we need to keep, aside from
   # the new selection
   max_old_entries=$(("${history_length}" - 1))
-  if [ -f "${history_file}" ]; then
+  if [ -s "${history_file}" ]; then
     # Loop to read the old history file contents
     while IFS= read -r line; do
       # Only add things to history once
@@ -564,4 +565,3 @@ save_history() {
     echo "${emoji}" >> "${history_file}"
   done
 }
-
