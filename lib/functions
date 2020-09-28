@@ -24,7 +24,8 @@ collect_data_files() {
   # $2: truthy string to disable included emooticon db
   # $3: nameref to array of languages to include
   # $4: nameref to array of extra cli data files
-  # $5: variable name for return by reference of the resulting array
+  # $5: file containing history
+  # $6: variable name for return by reference of the resulting array
   #
   # returns: values in $5 by nameref
 
@@ -32,13 +33,20 @@ collect_data_files() {
   local disable_emoticon_db="${2}"
   declare -n languages_additional_="${3}"
   declare -n cli_data_files_="${4}"
-  declare -n datafiles_list_="${5}"
+  local history_file="${5}"
+  declare -n datafiles_list_="${6}"
 
 
   # Always include `en` until local/language detection is added
   local languages_=('en' "${languages_additional_[@]}")
 
   local datafiles=()
+
+  # Always read history file if it exists. This should be read first, to ensure
+  # that the history appears at the top of the options
+  if [ -e "${history_file}" ]; then
+    datafiles_list_=("${datafiles_list_[@]}" "${history_file}")
+  fi
 
   # Read command line data files
   if [ ${#cli_data_files_[@]} -gt 0 ]; then
@@ -201,6 +209,7 @@ get_config() {
     fi
     key="${line%%=*}"
     val="${line#*=}"
+    val="${val/#\~/${HOME}}"
      # shellcheck disable=SC2034
     config_["${key}"]="${val}"
   done < "${conffile}"
@@ -317,6 +326,57 @@ output_typed() {
   local selection="${2}"
 
   eval "${output_command} \"${selection}\""
+}
+
+save_history() {
+  # Save history
+  #
+  # $1: history file
+  # $2: number of entries to keep
+  # $3: user selection to add to history
+  local history_file="${1}"
+  local history_length="${2}"
+  local selection="${3}"
+  local selection_entry="${selection}	(recently used)"
+
+  # Use associative array to ensure uniqueness of history
+  declare -A old_history
+  # Use a plain array to keep the order
+  declare -a old_order
+  # Track how many additional old history entries we need to keep, aside from
+  # the new selection
+  max_old_entries=$(("${history_length}" - 1))
+  if [ -e "${history_file}" ]; then
+    # Loop to read the old history file contents
+    while IFS= read -r line; do
+      # Only add things to history once
+      # Shouldn't really be needed
+      if [ "${old_history["${line}"]}" ] ; then
+        continue
+      fi
+      # If the current selection is already in history, we don't add it again
+      if [ "${line}" == "${selection_entry}" ]; then
+        continue
+      fi
+      # Store this line
+      old_history["${line}"]=1
+      old_order+=("${line}")
+      # If we have enough entries already, we can break
+      if [ "${#old_order[@]}" -eq "${max_old_entries}" ]; then
+        break
+      fi
+    done < "${history_file}"
+  fi
+  # Make sure the requisite folders exist, before trying to write the file
+  mkdir -p "$(dirname "${history_file}")"
+  # We've done the heavy lifting now, so just add the current selection to the
+  # history file, and then follow up with all other selections.
+  # Note that the limit on number of entries to keep is maintained elsewhere,
+  # we assume that ${old_order} has the correct size.
+  echo "${selection_entry}" > "${history_file}"
+  for emoji in "${old_order[@]}"; do
+    echo "${emoji}" >> "${history_file}"
+  done
 }
 
 parse_args() {
