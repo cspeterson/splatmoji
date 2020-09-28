@@ -28,9 +28,10 @@ test_collect_data_files___default() {
   # emoticon db
   local extra_langs=()
   local extra_files=()
+  local history_file=''
   local datafiles_list=()
   local datafiles_list_base=()
-  collect_data_files '' '' extra_langs extra_files datafiles_list
+  collect_data_files '' '' extra_langs extra_files history_file datafiles_list
   datafiles_list_base=( "${PROGDIR}/data/emoticons/emoticons.tsv" "${PROGDIR}/data/emoji/en.tsv" )
   sort_array datafiles_list_base
   sort_array datafiles_list
@@ -43,9 +44,10 @@ test_collect_data_files___disable_emoji() {
   # Case 2 disable included emoji db
   local extra_langs=()
   local extra_files=()
+  local history_file=''
   local datafiles_list=()
   local datafiles_list_base=()
-  collect_data_files 'disable-emoji' '' extra_langs extra_files datafiles_list
+  collect_data_files 'disable-emoji' '' extra_langs extra_files history_file datafiles_list
   datafiles_list_base=( "${PROGDIR}/data/emoticons/emoticons.tsv" )
   sort_array datafiles_list_base
   sort_array datafiles_list
@@ -57,9 +59,10 @@ test_collect_data_files___disable_emoticons() {
   # Case 3 disable included emoticon db
   local extra_langs=()
   local extra_files=()
+  local history_file=''
   local datafiles_list=()
   local datafiles_list_base=()
-  collect_data_files '' 'disable-emoticons' extra_langs extra_files datafiles_list
+  collect_data_files '' 'disable-emoticons' extra_langs extra_files history_file datafiles_list
   datafiles_list_base=( "${PROGDIR}/data/emoji/en.tsv" )
   sort_array datafiles_list_base
   sort_array datafiles_list
@@ -71,9 +74,10 @@ test_collect_data_files___disable_all() {
   # Case 4 disable all included databases
   local extra_langs=()
   local extra_files=()
+  local history_file=''
   local datafiles_list=()
   local datafiles_list_base=()
-  if collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files datafiles_list >/dev/null 2>&1; then
+  if collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files history_file datafiles_list >/dev/null 2>&1; then
     fail 'Disabling all databases and including no other files should fail'
   fi
   datafiles_list_base=()
@@ -91,10 +95,11 @@ test_collect_data_files___other_langs() {
   for lang in "${all_langs[@]}"; do
     local extra_langs=("${lang}")
     local extra_files=()
+    local history_file=''
     local datafiles_list=()
     local datafiles_list_base=( "${PROGDIR}/data/emoji/en.tsv" "${PROGDIR}/data/emoji/${lang}.tsv" )
 
-    collect_data_files '' 'disable-emoticons' extra_langs extra_files datafiles_list
+    collect_data_files '' 'disable-emoticons' extra_langs extra_files history_file datafiles_list
     assertEquals "Collecting data files with lang ${lang} yielded unexpected results" "${datafiles_list_base[*]}" "${datafiles_list[*]}"
   done
 }
@@ -103,11 +108,12 @@ test_collect_data_files___extra_file_notexist() {
   # Case 4 disable all included databases
   local extra_langs=()
   local extra_files=()
+  local history_file=''
   local datafiles_list=()
   local datafiles_list_base=()
 
   extra_files+=('a/bad/file/does/not/exist')
-  if collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files datafiles_list >/dev/null 2>&1; then
+  if collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files history_file datafiles_list >/dev/null 2>&1; then
     fail 'If given an extra data file that does not exist or is zero, should fail.'
   fi
 }
@@ -117,12 +123,13 @@ test_collect_data_files___extra_file_doesexist() {
   # shellcheck disable=SC2034
   local extra_langs=()
   local extra_files=()
+  local history_file=''
   local datafiles_list=()
   local datafiles_list_base=()
 
   extra_files+=("${PROGDIR}/data/emoji/nn.tsv")
   datafiles_list_base=("${extra_files[@]}" )
-  collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files datafiles_list
+  collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files history_file datafiles_list
 }
 
 test_escape_selection() {
@@ -181,6 +188,7 @@ test_get_config_file__progdir() {
   local config_filepath_expected
   local config_path
   local XDG_CONFIG_HOME=''
+  local HOME=''
 
   config_filepath_expected="${PROGDIR}/splatmoji.config"
   config_path="$(get_config_file)"
@@ -315,4 +323,8 @@ elif [ -s '/usr/share/shunit2/shunit2' ]; then
   source '/usr/share/shunit2/shunit2'
 elif [ -s ./shunit2 ]; then
   source ./shunit2
+else
+  # shellcheck disable=SC2016
+  echo 'Testing failed - could not find `shunit2`.'
+  exit 1
 fi
