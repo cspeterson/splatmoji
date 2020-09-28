@@ -209,6 +209,12 @@ Please let me know what better source you wind up using, and maybe the command(s
 
 Taking pull requests: [https://github.com/cspeterson/splatmoji.git](https://github.com/cspeterson/splatmoji.git)
 
+Please write/adjust tests for any new functionality. With [shunit2](https://github.com/kward/shunit2) on your path, you can run the test suite likes so in the repo directory:
+
+```sh
+./test/unit_tests
+```
+
 # Credits
 
 By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www.twitter.com/cspete))
