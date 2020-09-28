@@ -3,6 +3,7 @@ shopt -s nullglob
 set -e
 set -o pipefail
 
+# shellcheck disable=SC2034
 readonly PROGNAME="$(basename "${0}")"
 readonly PROGDIR="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
 
@@ -24,7 +25,7 @@ main() {
       exit 1
     fi
 
-  # Get configuation
+  # Get configuration
   local conffile
   conffile="$(get_config_file)"
   declare -A config
@@ -35,10 +36,21 @@ main() {
     for key in "${!config[@]}"; do echo "'${key}':" "'${config["${key}"]}'" 1>&2; done
   fi
 
+  # Determine history file, and create if not exists and history length > 0
+  local history_file
+  if [ -n "${config['history_file']}" ] && [ "${config['history_length']}" -gt 0 ]; then
+    history_file="${config['history_file']}"
+  else
+    local state_dir
+    state_dir="${HOME}/.local/state/splatmoji"
+    history_file="${state_dir}/history"
+    mkdir -p "${state_dir}"
+  fi
+
   # Get list of data files
   # shellcheck disable=SC2034
   local datafiles_list=()
-  collect_data_files "${DISABLE_EMOJI_DB}" "${DISABLE_EMOTICON_DB}" LANGUAGES CLI_DATA_FILES "${config['history_file']}" datafiles_list
+  collect_data_files "${DISABLE_EMOJI_DB}" "${DISABLE_EMOTICON_DB}" LANGUAGES CLI_DATA_FILES "${history_file}" datafiles_list
   if [ -n "${VERBOSE}" ]; then
     echo 1>&2
     echo '# Data files specified via cli:' 1>&2
@@ -72,8 +84,9 @@ main() {
     return
   fi
 
-  if [ "${config['history_file']}" -a "${config['history_length']:-0}" -ge 0 ]; then
-    save_history "${config['history_file']}" "${config['history_length']}" "${selection}"
+  if [ "${config['history_length']}" -gt 0 ]; then
+    echo fff
+    save_history "${history_file}" "${config['history_length']}" "${selection}"
   fi
 
   if [ "${SUBCOMMAND}" == 'type' ]; then
