@@ -1,13 +1,14 @@
 Splatmoji
 =========
-- [Splatmoji](#splatmoji)
 - [Install](#install)
 - [Usage](#usage)
-    + [i3wm (Setting up shortcut)](#i3wm--setting-up-shortcut-)
+  * [Setting up keyboard shortcut](#setting-up-keyboard-shortcut)
+    + [i3wm](#i3wm)
+    + [kde](#kde)
     + [Gnome](#gnome)
 - [Configuration](#configuration)
   * [Recently-used selection](#recently-used-selection)
-  * [Paste-Shortcut-Key config (auto copy and paste)](#paste-shortcut-key-config--auto-copy-and-paste-)
+  * [Paste-Shortcut-Key config (copy to clipboard and paste to current text field)](#paste-shortcut-key-config--copy-to-clipboard-and-paste-to-current-text-field-)
   * [Rofi config (the pop-up menu)](#rofi-config--the-pop-up-menu-)
   * [Xsel config (copying to clipboard)](#xsel-config--copying-to-clipboard-)
   * [Xdotool config (auto-typing)](#xdotool-config--auto-typing-)
@@ -120,12 +121,16 @@ Usage:
 
 You probably would want to bind this to some key combination in your window manager/desktop environment.
 
-### i3wm (Setting up shortcut)
+## Setting up keyboard shortcut
+### i3wm 
 
 ```sh
 # This would go into your .config/i3/config to bind to Super+slash
 bindsym $mod+slash exec "/path/to/the/script type"
 ```
+
+### kde
+[This Gnome.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular Gnome desktop environment.
 
 ### Gnome
 
