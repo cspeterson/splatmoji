@@ -92,8 +92,10 @@ main() {
 
   if [ "${SUBCOMMAND}" == 'type' ]; then
     output_typed "${config[xdotool_command]}" "${selection}"
-  else
+  elif [ "${SUBCOMMAND}" == 'copy' ]; then
     output_copied "${config[xsel_command]}" "${selection}"
+  else
+    output_copypasted "${config[xsel_command]}" "${selection}" "${config[paste_shortcut_keys]}"
   fi
 }
 
