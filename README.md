@@ -137,7 +137,7 @@ bindsym $mod+slash exec "/path/to/the/script type"
 ```
 
 ### kde
-[This kde.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular Gnome desktop environment.
+[This kde.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular kde desktop environment.
 
 ### Gnome
 
