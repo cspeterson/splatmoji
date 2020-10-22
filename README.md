@@ -39,7 +39,7 @@ Requirements:
 * xsel (for putting your selection into the clipboard) (xclipboard also works)
 * jq (if JSON escaping is called for with the argument `--escape json`)
 
-To install the above required libraries, open your terminal and enter the following commands
+To install the required libraries above, open your terminal and enter the following commands
 
 ```sh
 # if you are using debian based distros (e.g. ubuntu)
@@ -166,7 +166,7 @@ Via the config file, you may either specify a preferred history file location or
 
 To disable this feature entirely, just set `history_length` in the config file to `0`.
 
-## Paste-Shortcut-Key config (copy to clipboard and paste to current text field)
+## Paste-Shortcut-Key config (copying to clipboard and paste to current text field)
 
 You can change the shortcut keys to the one you have set on your system, in most case, it will be ctrl+v. It must be the shortcut keys that triggers the paste action in your computer or it will do nothing besides copying the emoji/kaomoji/emoticons.
 
