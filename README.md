@@ -39,8 +39,15 @@ Requirements:
 * xsel (for putting your selection into the clipboard) (xclipboard also works)
 * jq (if JSON escaping is called for with the argument `--escape json`)
 
+To install the above required libraries, open your terminal and enter the following commands
+
 ```sh
-# sudo apt-get install rofi xdotool xsel || sudo yum install rofi xdotool xsel
+# if you are using debian based distros (e.g. ubuntu)
+sudo apt-get install rofi xdotool xsel
+# if your distro is using yum package manager
+yum install rofi xdotool xsel
+
+# After you have installed the required packages, clone the repository
 git clone https://github.com/cspeterson/splatmoji.git
 ```
 
@@ -130,7 +137,7 @@ bindsym $mod+slash exec "/path/to/the/script type"
 ```
 
 ### kde
-[This Gnome.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular Gnome desktop environment.
+[This kde.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular Gnome desktop environment.
 
 ### Gnome
 
