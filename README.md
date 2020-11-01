@@ -1,5 +1,25 @@
 Splatmoji
 =========
+- [Install](#install)
+- [Usage](#usage)
+  * [Setting up keyboard shortcut](#setting-up-keyboard-shortcut)
+    + [i3wm](#i3wm)
+    + [kde](#kde)
+    + [Gnome](#gnome)
+- [Configuration](#configuration)
+  * [Recently-used selection](#recently-used-selection)
+  * [Paste-Shortcut-Key config (copy to clipboard and paste to current text field)](#paste-shortcut-key-config--copy-to-clipboard-and-paste-to-current-text-field-)
+  * [Rofi config (the pop-up menu)](#rofi-config--the-pop-up-menu-)
+  * [Xsel config (copying to clipboard)](#xsel-config--copying-to-clipboard-)
+  * [Xdotool config (auto-typing)](#xdotool-config--auto-typing-)
+- [Updating emoji/emoticons](#updating-emoji-emoticons)
+  * [Emoji](#emoji)
+- [Emoticons](#emoticons)
+- [Custom Configuration and Custom Emoji/Emoticons](#custom-configuration-and-custom-emoji-emoticons)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
 
 Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux desktop via pop-up menu.
 
@@ -19,8 +39,15 @@ Requirements:
 * xsel (for putting your selection into the clipboard) (xclipboard also works)
 * jq (if JSON escaping is called for with the argument `--escape json`)
 
+To install the required libraries above, open your terminal and enter the following commands
+
 ```sh
-# sudo apt-get install rofi xdotool xsel || sudo yum install rofi xdotool xsel
+# if you are using debian based distros (e.g. ubuntu)
+sudo apt-get install rofi xdotool xsel
+# if your distro is using yum package manager
+yum install rofi xdotool xsel
+
+# After you have installed the required packages, clone the repository
 git clone https://github.com/cspeterson/splatmoji.git
 ```
 
@@ -65,9 +92,10 @@ Usage:
         omitted from the choice list.
 
   Positional arguments:
-    [copy|type]
-        This application can either place the final selection into the user's
-        clipboard (copy), or type it out for the user (type).
+    [copy|type|copypaste]
+        This application can place the final selection into the user's
+        clipboard (copy), type it out for the user (type), or place the final selection into the user's
+        clipboard and type it out for the user (copypaste).
 
     [FILE]...
         A list of files or directories of files to include in the display
@@ -78,6 +106,7 @@ Usage:
   Examples
     ./splatmoji copy
     ./splatmoji type
+    ./splatmoji copypaste
 
   Data files
     Splatmoji will by default try to combine data files from the following
@@ -99,12 +128,16 @@ Usage:
 
 You probably would want to bind this to some key combination in your window manager/desktop environment.
 
-### i3wm
+## Setting up keyboard shortcut
+### i3wm 
 
 ```sh
 # This would go into your .config/i3/config to bind to Super+slash
 bindsym $mod+slash exec "/path/to/the/script type"
 ```
+
+### kde
+[This kde.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular kde desktop environment.
 
 ### Gnome
 
@@ -122,6 +155,7 @@ history_length=5
 rofi_command=rofi -dmenu -p '' -i -monitor -2
 xdotool_command=xdotool sleep 0.2 type --delay 100
 xsel_command=xsel -b -i
+paste_shortcut_keys=ctrl+v
 ```
 
 ## Recently-used selection
@@ -131,6 +165,19 @@ By default, Splatmoji will keep a list of the `${history_length}` most recently 
 Via the config file, you may either specify a preferred history file location or alter the number of recent entries that is displayed.
 
 To disable this feature entirely, just set `history_length` in the config file to `0`.
+
+## Paste-Shortcut-Key config (copying to clipboard and paste to current text field)
+
+You can change the shortcut keys to the one you have set on your system, in most case, it will be ctrl+v. It must be the shortcut keys that triggers the paste action in your computer or it will do nothing besides copying the emoji/kaomoji/emoticons.
+
+For the key combinations, check the xdotool manpage.
+
+```ini
+# You can also change to other combination that you have set on your system that triggers the "paste" action
+# paste-shortcut-keys example
+paste_shortcut_keys=ctrl+v
+```
+*Note that the copypaste mode does not work with most of the terminals, please paste it with ```ctrl+shift+v``` manually
 
 ## Rofi config (the pop-up menu)
 

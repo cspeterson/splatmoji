@@ -314,6 +314,21 @@ output_copied() {
   echo -n "${selection}" | eval "${output_command}"
 }
 
+output_copypasted() {
+  # Results finally to clipboard
+  #
+  # $1: command line to eval for output method
+  # $2: user selection to output
+
+  output_command="${1}"
+  selection="${2}"
+  paste_shortcut_keys="${3}"
+
+  echo -n "${selection}" | eval "${output_command}"
+  
+  eval "xdotool key ${paste_shortcut_keys}"
+}
+
 output_typed() {
   # Results finally typed
   #
@@ -415,7 +430,7 @@ parse_args() {
   shift $(( OPTIND - 1 ))
   # Get subcommand and positional arguments
   readonly SUBCOMMAND="${1}"
-  if [ "${SUBCOMMAND}" != 'type' ] && [ "${SUBCOMMAND}" != 'copy' ]; then
+  if [ "${SUBCOMMAND}" != 'type' ] && [ "${SUBCOMMAND}" != 'copy' ] && [ "${SUBCOMMAND}" != 'copypaste' ]; then
     echo 'Error: [copy|type] is required.' >&2
     echo
     print_help
@@ -428,7 +443,7 @@ parse_args() {
 print_help() {
   echo 'Usage:'
   echo "
-  ${PROGNAME} [OPTIONS]... [copy|type] [FILE]...
+  ${PROGNAME} [OPTIONS]... [copy|type|copypaste] [FILE]...
 
   Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux
   desktop via pop-up menu.
@@ -470,9 +485,10 @@ print_help() {
           * user selection escaping
 
   Positional arguments:
-    [copy|type]
-        This application can either place the final selection into the user's
-        clipboard (copy), or type it out for the user (type).
+    [copy|type|copypaste]
+        This application can place the final selection into the user's
+        clipboard (copy), type it out for the user (type), or place the final selection into the user's
+        clipboard and type it out for the user (copypaste).
 
     [FILE]...
         A list of files or directories of files to include in the display
@@ -483,6 +499,7 @@ print_help() {
   Examples
     ${PROGNAME} copy
     ${PROGNAME} type
+    ${PROGNAME} copypaste
 
   Data files
     Splatmoji will by default try to combine data files from the following
