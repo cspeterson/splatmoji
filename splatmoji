@@ -95,7 +95,9 @@ main() {
   elif [ "${SUBCOMMAND}" == 'copy' ]; then
     output_copied "${config[xsel_command]}" "${selection}"
   else
-    output_copypasted "${config[xsel_command]}" "${selection}" "${config[paste_shortcut_keys]}"
+    # Else copypaste
+    output_copied "${config[xsel_command]}" "${selection}"
+    output_pasted "${config[paste_command]}" "${selection}"
   fi
 }
 

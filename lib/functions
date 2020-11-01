@@ -314,19 +314,15 @@ output_copied() {
   echo -n "${selection}" | eval "${output_command}"
 }
 
-output_copypasted() {
-  # Results finally to clipboard
+output_pasted() {
+  # Results pasted
   #
-  # $1: command line to eval for output method
+  # $1: command line to eval for paste
   # $2: user selection to output
 
   output_command="${1}"
-  selection="${2}"
-  paste_shortcut_keys="${3}"
 
-  echo -n "${selection}" | eval "${output_command}"
-  
-  eval "xdotool key ${paste_shortcut_keys}"
+  eval "${output_command}"
 }
 
 output_typed() {
