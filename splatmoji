@@ -29,6 +29,11 @@ main() {
   local conffile
   conffile="$(get_config_file)"
   declare -A config
+  config['history_length']=5
+  config['paste_command']='xdotool key ctrl+v'
+  config['rofi_command']="rofi -dmenu -p '' -i -monitor -2"
+  config['xdotool_command']='xdotool sleep 0.2 type --delay 100'
+  config['xsel_command']='xsel -b -i'
   get_config "${conffile}" config
   if [ -n "${VERBOSE}" ]; then
     echo 1>&2
