@@ -283,6 +283,22 @@ test_output_copied() {
   assertEquals 'Output should be copied to match' "${selection}" "${copied}"
 }
 
+test_output_pasted() {
+  local tmpfilepath
+  local paste_command
+  local selection='🤓'
+  local copied
+
+  tmpfilepath="$(mktemp)"
+  paste_command="echo '${selection}' > '${tmpfilepath}'"
+  output_pasted "${paste_command}"
+
+  copied="$(head -n 1 "${tmpfilepath}")"
+  rm "${tmpfilepath}"
+
+  assertEquals 'Output should have dropped into the temp file' "${selection}" "${copied}"
+}
+
 test_output_typed() {
   local tmpfilepath
   local type_command
