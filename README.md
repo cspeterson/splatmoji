@@ -1,35 +1,57 @@
 Splatmoji
 =========
-- [Install](#install)
-- [Usage](#usage)
-  * [Setting up keyboard shortcut](#setting-up-keyboard-shortcut)
-    + [i3wm](#i3wm)
-    + [kde](#kde)
-    + [Gnome](#gnome)
-- [Configuration](#configuration)
-  * [Recently-used selection](#recently-used-selection)
-  * [Paste-Shortcut-Key config (copy to clipboard and paste to current text field)](#paste-shortcut-key-config--copy-to-clipboard-and-paste-to-current-text-field-)
-  * [Rofi config (the pop-up menu)](#rofi-config--the-pop-up-menu-)
-  * [Xsel config (copying to clipboard)](#xsel-config--copying-to-clipboard-)
-  * [Xdotool config (auto-typing)](#xdotool-config--auto-typing-)
-- [Updating emoji/emoticons](#updating-emoji-emoticons)
-  * [Emoji](#emoji)
-- [Emoticons](#emoticons)
-- [Custom Configuration and Custom Emoji/Emoticons](#custom-configuration-and-custom-emoji-emoticons)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
 
 Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux desktop via pop-up menu.
 
-(ノ・∀・)ノ 😃
+\(ノ・∀・\)ノ 😃
 
 <img src="splatmoji.gif" width="400">
 
 Splatmoji supports skin tone filtering, custom data sets, and includes emoji annotations in all languages supported by Unicode [CLDR](http://cldr.unicode.org/).
 
+<!-- vim-markdown-toc GFM -->
+
+* [Install](#install)
+  * [Packages](#packages)
+  * [From GitHub](#from-github)
+* [Usage](#usage)
+  * [Setting up keyboard shortcut](#setting-up-keyboard-shortcut)
+    * [i3wm](#i3wm)
+    * [KDE](#kde)
+    * [Gnome](#gnome)
+* [Configuration](#configuration)
+  * [Recently-used selection](#recently-used-selection)
+  * [Copypaste mode key combination](#copypaste-mode-key-combination)
+  * [Rofi config (the pop-up menu)](#rofi-config-the-pop-up-menu)
+  * [Xsel config (copying to clipboard)](#xsel-config-copying-to-clipboard)
+  * [Xdotool config (auto-typing)](#xdotool-config-auto-typing)
+* [Updating emoji/emoticons](#updating-emojiemoticons)
+  * [Emoji](#emoji)
+* [Emoticons](#emoticons)
+* [Custom Configuration and Custom Emoji/Emoticons](#custom-configuration-and-custom-emojiemoticons)
+* [FAQ](#faq)
+* [Contributing](#contributing)
+* [Credits](#credits)
+* [License](#license)
+
+<!-- vim-markdown-toc -->
+
 # Install
+
+## Packages
+
+You can download and install the most recent packaged version of Splatmoji for your platform from the [releases](https://github.com/cspeterson/splatmoji/releases) page.
+
+```
+# Apt-based
+sudo apt intstall ./path/to/package.deb
+# Yum-based
+sudo yum install ./path/to/package.rpm
+```
+
+## From GitHub
+
+You can also get the most recent version of the code by grabbing it straight from GitHub.
 
 Requirements:
 
@@ -37,18 +59,19 @@ Requirements:
 * [rofi](https://github.com/DaveDavenport/rofi)
 * xdotool (for typing your selection in for you)
 * xsel (for putting your selection into the clipboard) (xclipboard also works)
-* jq (if JSON escaping is called for with the argument `--escape json`)
-
-To install the required libraries above, open your terminal and enter the following commands
+* jq (only if JSON escaping is called for with the argument `--escape json`)
 
 ```sh
-# if you are using debian based distros (e.g. ubuntu)
-sudo apt-get install rofi xdotool xsel
-# if your distro is using yum package manager
-yum install rofi xdotool xsel
+# If you are using Debian based distros (e.g. Ubuntu)
+sudo apt-get install rofi xdotool xsel # and maybe jq
+# If your distro is using yum package manager
+sudo yum install rofi xdotool xsel # and maybe jq
 
 # After you have installed the required packages, clone the repository
 git clone https://github.com/cspeterson/splatmoji.git
+# Run
+cd /path/to/repo
+./splatmoji copy
 ```
 
 # Usage
@@ -56,13 +79,13 @@ git clone https://github.com/cspeterson/splatmoji.git
 ```
 Usage:
 
-  ./splatmoji [OPTIONS]... [copy|type] [FILE]...
+  ./splatmoji [OPTIONS]... [copy|type|copypaste] [FILE]...
 
   Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux
   desktop via pop-up menu.
 
   Flags:
-    -e, --escape [gfm,json,gfm]
+    -e, --escape [gfm,json,rfm]
         Escape output (this really only affects emoticons). Supports
         github-flavored markdown, json, and reddit-flavored markdown escaping.
 
@@ -94,8 +117,9 @@ Usage:
   Positional arguments:
     [copy|type|copypaste]
         This application can place the final selection into the user's
-        clipboard (copy), type it out for the user (type), or place the final selection into the user's
-        clipboard and type it out for the user (copypaste).
+        clipboard (copy), type it out for the user (type), or place the final
+        selection into the user's clipboard and paste it out for the user with
+        a configured key combo (copypaste).
 
     [FILE]...
         A list of files or directories of files to include in the display
@@ -126,18 +150,20 @@ Usage:
         ./splatmoji --disable-emoticon-db --disable-emoji-db copy /some/custom/files
 ```
 
+## Setting up keyboard shortcut
+
 You probably would want to bind this to some key combination in your window manager/desktop environment.
 
-## Setting up keyboard shortcut
-### i3wm 
+### i3wm
 
 ```sh
-# This would go into your .config/i3/config to bind to Super+slash
-bindsym $mod+slash exec "/path/to/the/script type"
+# This would go into your `.config/i3/config` to bind to Super+slash
+bindsym $mod+slash exec "/path/to/the/script copy"
 ```
 
-### kde
-[This kde.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular kde desktop environment.
+### KDE
+
+[This KDE.org help page](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/khotkeys/index.html) seems to outline how to do this in the popular KDE desktop environment.
 
 ### Gnome
 
@@ -145,39 +171,42 @@ bindsym $mod+slash exec "/path/to/the/script type"
 
 # Configuration
 
-Configuration options can be changed in `<project_dir>splatmoji.config` or by overriding the in-project config file with `${HOME}/.config/splatmoji/splatmoji.config` (recommended).
+Configuration options can be changed in `<project_dir>splatmoji.config` (if running from a git clone) or by overriding the in-project config file with `${HOME}/.config/splatmoji/splatmoji.config` (recommended).
 
 Example config:
 
 ```ini
 # history_file=~/.local/state/splatmoji/history
 history_length=5
+paste_command=xdotool key ctrl+v
 rofi_command=rofi -dmenu -p '' -i -monitor -2
 xdotool_command=xdotool sleep 0.2 type --delay 100
 xsel_command=xsel -b -i
-paste_shortcut_keys=ctrl+v
 ```
 
 ## Recently-used selection
 
-By default, Splatmoji will keep a list of the `${history_length}` most recently selected entries and show them at the top of the menu.
+By default, Splatmoji will keep a list of the `${history_length}` most-recently selected entries and show them at the top of the menu.
 
 Via the config file, you may either specify a preferred history file location or alter the number of recent entries that is displayed.
 
 To disable this feature entirely, just set `history_length` in the config file to `0`.
 
-## Paste-Shortcut-Key config (copying to clipboard and paste to current text field)
+## Copypaste mode key combination
 
-You can change the shortcut keys to the one you have set on your system, in most case, it will be ctrl+v. It must be the shortcut keys that triggers the paste action in your computer or it will do nothing besides copying the emoji/kaomoji/emoticons.
+This mode copies the selection to the clipboard and presses the configured paste key combo.
+
+You can change the shortcut keys to the one you have set on your system but in most cases, it will be `ctrl+v`. It must be the shortcut keys that triggers the paste action in your computer or it will do nothing besides copying the emoji/kaomoji/emoticons.
 
 For the key combinations, check the xdotool manpage.
 
 ```ini
 # You can also change to other combination that you have set on your system that triggers the "paste" action
 # paste-shortcut-keys example
-paste_shortcut_keys=ctrl+v
+paste_command=xdotool key ctrl+v
 ```
-*Note that the copypaste mode does not work with most of the terminals, please paste it with ```ctrl+shift+v``` manually
+
+Note: `copypaste` mode will not work with most terminals when configured as above, but you can change it to `ctrl+shift+v` or paste it that way manually!
 
 ## Rofi config (the pop-up menu)
 
@@ -192,7 +221,7 @@ rofi_command=rofi -dmenu -p 'Search:' -i -monitor -1
 rofi_command=rofi -dmenu -p : -i -monitor -2 -theme /path/to/themefile
 ```
 
-For *many* other options, see the rofi manpage.
+For *many* other options, see the Rofi manpage.
 
 ## Xsel config (copying to clipboard)
 
@@ -208,7 +237,7 @@ xsel_command=xclip -selection clipboard
 
 ## Xdotool config (auto-typing)
 
-You can alter the arguments send to xdotool for typing out your selection.
+You can alter the arguments sent to xdotool for typing out your selection.
 
 For options, check the xdotool manpage.
 ```ini
@@ -216,7 +245,7 @@ For options, check the xdotool manpage.
 xdotool_command=xdotool type
 ```
 
-Ultimately, though, recognize that this tool's `type` mode relies on xdotool and it can be finnicky on any particular setup, either generally or when typing into particular applications. Tooling around with `--delay` is usually going to be a good start to fixing that. Just don't forget, there's always the rock-solid `copy` mode instead.
+Ultimately, though, recognize that this tool's `type` mode relies on xdotool and it can be finnicky on any particular setup, either generally or when typing into particular applications. Just don't forget, there's always the rock-solid `copy` mode instead.
 
 # Updating emoji/emoticons
 
@@ -250,7 +279,7 @@ Please let me know what better source you wind up using, and maybe the command(s
 * Why do some of the emoji come out as multiple characters?
   - These are called ZWJ (zero-width joiner) Sequences. Some combinations of multiple different emoji can be combined in sequence with a special zero-width character as a joiner, and if the platform and application supports it a single meaningful symbol will be displayed. On platforms or applications that *don't* support it though, no worries; it just displays the separate emoji in sequence. 🙂
 * Why are my emoticons missing characters when using `type` mode?
-  - Solving this will be between you and how you tune the [Xdotool config](#xdotool-config-auto-typing). A great place to start is with the `--delay` parameter. If you wind up doing anything clever to solve your problem, let me know and we'll see if we can work it back into this repo! 🙂
+  - Solving this will be between you and how you tune the [Xdotool config](#xdotool-config-auto-typing). The best solution is probably to just use `copypaste` mode instead, but if you wind up doing anything clever to solve your problem let me know and we'll see if we can work it back into this repo! 🙂
 
 # Contributing
 
