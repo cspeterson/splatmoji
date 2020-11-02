@@ -483,8 +483,9 @@ print_help() {
   Positional arguments:
     [copy|type|copypaste]
         This application can place the final selection into the user's
-        clipboard (copy), type it out for the user (type), or place the final selection into the user's
-        clipboard and type it out for the user (copypaste).
+        clipboard (copy), type it out for the user (type), or place the final
+        selection into the user's clipboard and paste it out for the user with
+        a configured key combo (copypaste).
 
     [FILE]...
         A list of files or directories of files to include in the display
