@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2020-11-02
+### Added
+Add a copy-paste method to insert passwords, as well as a copy method that just copies the password without pasting
+Save history of emoji used, and show those first
+### Changed
+### Removed
+
 ## [1.1.0] - 2020-07-19
 ### Added
 Build: set correct mode for executable before packaging
