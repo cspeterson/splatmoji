@@ -44,7 +44,7 @@ You can download and install the most recent packaged version of Splatmoji for y
 
 ```
 # Apt-based
-sudo apt intstall ./path/to/package.deb
+sudo apt install ./path/to/package.deb
 # Yum-based
 sudo yum install ./path/to/package.rpm
 ```
