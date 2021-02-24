@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-
-jqscript=". \
-          | to_entries \
-          | .[] \
-          | [.value.char, .key, (.value.keywords | join(\", \"))] \
-          | @tsv"
-jq -r "${jqscript}" "${1}"

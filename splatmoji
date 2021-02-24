@@ -1,87 +1,109 @@
 #!/usr/bin/env bash
 shopt -s nullglob
+set -e
+set -o pipefail
 
-# Check subcommand
-if [ "${1}" == 'type' ] || [ "${1}" == 'copy' ]; then
-  subcommand="${1}"
+# shellcheck disable=SC2034
+readonly PROGNAME="$(basename "${0}")"
+readonly PROGDIR="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
+
+# shellcheck disable=SC1090
+# shellcheck disable=SC1091
+if [ -s "${PROGDIR}/lib/functions" ]; then
+  source "${PROGDIR}/lib/functions"
 else
-  echo "Usage: ${0} [copy|type] [DATAFILES*]"
-  echo "Quickly look up and input emoji and/or emoticons/kaomoji" \
-    "on your GNU/Linux desktop via pop-up menu."
-  exit 1
+  source '/usr/lib/splatmoji/functions'
 fi
-shift
 
-# Determine config files
-scriptdir="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
-if [ -f "${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config" ]; then
-  conffile="${XDG_CONFIG_HOME:-${HOME}/.config}/splatmoji/splatmoji.config"
-else
-  _old_IFS="$IFS"
-  IFS=":"
-  for dir in ${XDG_CONFIG_DIRS:-/etc/xdg}; do
-    if [ -f "$dir/splatmoji/splatmoji.config" ]; then
-      conffile="$dir/splatmoji/splatmoji.config"
-      break
+main() {
+  parse_args "$@" || \
+    if [[ $? -eq 255 ]]; then
+      # Printing help and listing langs both return 255 as a signal to exit
+      # here with success
+      exit 0
+    else
+      exit 1
     fi
-  done
-  IFS="$_old_IFS"
-fi
 
-# Fallback to script location
-if [ -z "${conffile}" ]; then
-  conffile="${scriptdir}/splatmoji.config"
-fi
-
-datafiles_list=()
-
-# Read command line data files
-if [ $# -ne 0 ]; then
-  datafiles="${@:1}"
-  datafiles_list+=$(IFS=$'\n'; echo "${datafiles[*]}")
-fi
-
-# Read per-user data files
-if [ -d "${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data" ]; then
-  datafiles="${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data/*"
-  datafiles_list+=$'\n'$(IFS=$'\n'; echo "${datafiles[*]}")
-fi
-
-# Read global data files
-_old_IFS="$IFS"
-IFS=":"
-for dir in ${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}; do
-  if [ -d "$dir/splatmoji/data" ]; then
-    datafiles="$dir/splatmoji/data/*"
-    datafiles_list+=$'\n'$(IFS=$'\n'; echo "${datafiles[*]}")
+  # Get configuration
+  local conffile
+  conffile="$(get_config_file)"
+  declare -A config
+  config['history_length']=5
+  config['paste_command']='xdotool key ctrl+v'
+  config['rofi_command']="rofi -dmenu -p '' -i -monitor -2"
+  config['xdotool_command']='xdotool sleep 0.2 type --delay 100'
+  config['xsel_command']='xsel -b -i'
+  get_config "${conffile}" config
+  if [ -n "${VERBOSE}" ]; then
+    echo 1>&2
+    echo '# Config:' 1>&2
+    for key in "${!config[@]}"; do echo "'${key}':" "'${config["${key}"]}'" 1>&2; done
   fi
-done
-IFS="$_old_IFS"
 
-# Fallback if we haven't found any data files
-if [ -z "${datafiles}" ]; then
-  datafiles=("${scriptdir}/data/*")
-  datafiles_list+=$(IFS=$'\n'; echo "${datafiles[*]}")
-fi
-
-# Read config
-declare -A config
-while IFS='' read -r line; do
-  if [[ -z "${line}" ]] || [ "${line:0:1}" == '#' ]; then
-    continue
+  # Determine history file, and create if not exists and history length > 0
+  local history_file
+  if [ -n "${config['history_file']}" ] && [ "${config['history_length']}" -gt 0 ]; then
+    history_file="${config['history_file']}"
+  else
+    local state_dir
+    state_dir="${HOME}/.local/state/splatmoji"
+    history_file="${state_dir}/history"
+    mkdir -p "${state_dir}"
   fi
-  key="${line%%=*}"
-  val="${line#*=}"
-  config["${key}"]="${val}"
-done < "${conffile}"
 
-# Prompt user for selection
-selection=$(cat ${datafiles_list} | eval ${config[rofi_command]})
-moji="${selection%%$'\t'*}"
+  # Get list of data files
+  # shellcheck disable=SC2034
+  local datafiles_list=()
+  collect_data_files "${DISABLE_EMOJI_DB}" "${DISABLE_EMOTICON_DB}" LANGUAGES CLI_DATA_FILES "${history_file}" datafiles_list
+  if [ -n "${VERBOSE}" ]; then
+    echo 1>&2
+    echo '# Data files specified via cli:' 1>&2
+    echo "${CLI_DATA_FILES[*]-''}" 1>&2
+    echo 1>&2
+    echo '# Data files final list:' 1>&2
+    echo "${datafiles_list[*]}" 1>&2
+  fi
 
-# Results to clipboard or selected x window
-if [ "${subcommand}" == 'type' ]; then
-  ${config[xdotool_command]} "${moji}"
-else
-  echo -n "${moji}" | ${config[xsel_command]}
-fi
+  # User selection
+  local selection
+  selection="$(get_user_selection SKIN_TONES_EXCLUDE datafiles_list "${config['rofi_command']}")"
+  if [ -n "${VERBOSE}" ]; then
+    echo 1>&2
+    echo '# Un-escaped user selection:' 1>&2
+    echo "'${selection}'" 1>&2
+  fi
+  # Remove prepended unicode left-to-right mark if present
+  selection=${selection#$'\u200e'}
+
+  # If nothing selected, don't try to save/type/copy to clipboard
+  if [ -z "${selection}" ]; then
+    return
+  fi
+
+  # For recently-used
+  if [ "${config['history_length']}" -gt 0 ]; then
+    save_history "${history_file}" "${config['history_length']}" "${selection}"
+  fi
+
+  if [ -n "${ESCAPE}" ]; then
+    selection=$(escape_selection "${selection}" "${ESCAPE}")
+    if [ -n "${VERBOSE}" ]; then
+      echo 1>&2
+      echo '# Escaped user selection:' 1>&2
+      echo "'${selection}'" 1>&2
+    fi
+  fi
+
+  if [ "${SUBCOMMAND}" == 'type' ]; then
+    output_typed "${config[xdotool_command]}" "${selection}"
+  elif [ "${SUBCOMMAND}" == 'copy' ]; then
+    output_copied "${config[xsel_command]}" "${selection}"
+  else
+    # Else copypaste
+    output_copied "${config[xsel_command]}" "${selection}"
+    output_pasted "${config[paste_command]}" "${selection}"
+  fi
+}
+
+main "$@"

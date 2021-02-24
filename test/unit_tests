@@ -1,0 +1,387 @@
+#!/usr/bin/env bash
+set -e
+set -o pipefail
+
+# shellcheck disable=SC1091
+source ./lib/functions
+# shellcheck disable=SC1091
+source ./lib/test_helpers
+
+# PROGDIR that the main script and functions expect is the root of the source
+# tree. One up relative to the test dir..
+progdir="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
+readonly PROGDIR="${progdir%/*}"
+unset progdir
+
+test_array_join() {
+  # shellcheck disable=SC2034
+  local array=( a b c d e f )
+  local joined_expected='a.b.c.d.e.f'
+
+  joined="$(array_join array '.')"
+
+  assertEquals "${joined_expected}" "${joined}"
+}
+
+test_collect_data_files___default() {
+  # Case 1: with no extra langs or files, should just be `en` emoji plus the
+  # emoticon db
+  local extra_langs=()
+  local extra_files=()
+  local history_file=''
+  local datafiles_list=()
+  local datafiles_list_base=()
+  collect_data_files '' '' extra_langs extra_files history_file datafiles_list
+  datafiles_list_base=( "${PROGDIR}/data/emoticons/emoticons.tsv" "${PROGDIR}/data/emoji/en.tsv" )
+  sort_array datafiles_list_base
+  sort_array datafiles_list
+
+  # shellcheck disable=SC2016
+  assertEquals 'Data file collection default should return `en` emoji plus emoticons' "${datafiles_list_base[*]}" "${datafiles_list[*]}"
+}
+
+test_collect_data_files___disable_emoji() {
+  # Case 2 disable included emoji db
+  local extra_langs=()
+  local extra_files=()
+  local history_file=''
+  local datafiles_list=()
+  local datafiles_list_base=()
+  collect_data_files 'disable-emoji' '' extra_langs extra_files history_file datafiles_list
+  datafiles_list_base=( "${PROGDIR}/data/emoticons/emoticons.tsv" )
+  sort_array datafiles_list_base
+  sort_array datafiles_list
+
+  assertEquals 'Data collection with emoji disabled should just be emoticons' "${datafiles_list_base[*]}" "${datafiles_list[*]}"
+}
+
+test_collect_data_files___disable_emoticons() {
+  # Case 3 disable included emoticon db
+  local extra_langs=()
+  local extra_files=()
+  local history_file=''
+  local datafiles_list=()
+  local datafiles_list_base=()
+  collect_data_files '' 'disable-emoticons' extra_langs extra_files history_file datafiles_list
+  datafiles_list_base=( "${PROGDIR}/data/emoji/en.tsv" )
+  sort_array datafiles_list_base
+  sort_array datafiles_list
+
+  assertEquals 'Data file collection with emoticons disabled should just be en emoji' "${datafiles_list_base[*]}" "${datafiles_list[*]}"
+}
+
+test_collect_data_files___disable_all() {
+  # Case 4 disable all included databases
+  local extra_langs=()
+  local extra_files=()
+  local history_file=''
+  local datafiles_list=()
+  local datafiles_list_base=()
+  if collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files history_file datafiles_list >/dev/null 2>&1; then
+    fail 'Disabling all databases and including no other files should fail'
+  fi
+  datafiles_list_base=()
+  sort_array datafiles_list_base
+  sort_array datafiles_list
+
+  assertEquals 'Data file collection with all disabled should be empty' "${datafiles_list_base[*]}" "${datafiles_list[*]}"
+}
+
+test_collect_data_files___other_langs() {
+  local all_langs=()
+  get_included_db_langs all_langs
+
+  local lang
+  for lang in "${all_langs[@]}"; do
+    local extra_langs=("${lang}")
+    local extra_files=()
+    local history_file=''
+    local datafiles_list=()
+    local datafiles_list_base=( "${PROGDIR}/data/emoji/en.tsv" "${PROGDIR}/data/emoji/${lang}.tsv" )
+
+    collect_data_files '' 'disable-emoticons' extra_langs extra_files history_file datafiles_list
+    assertEquals "Collecting data files with lang ${lang} yielded unexpected results" "${datafiles_list_base[*]}" "${datafiles_list[*]}"
+  done
+}
+
+test_collect_data_files___extra_file_notexist() {
+  # Case 4 disable all included databases
+  local extra_langs=()
+  local extra_files=()
+  local history_file=''
+  local datafiles_list=()
+  local datafiles_list_base=()
+
+  extra_files+=('a/bad/file/does/not/exist')
+  if collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files history_file datafiles_list >/dev/null 2>&1; then
+    fail 'If given an extra data file that does not exist or is zero, should fail.'
+  fi
+}
+
+test_collect_data_files___extra_file_doesexist() {
+  # Case 4 disable all included databases
+  # shellcheck disable=SC2034
+  local extra_langs=()
+  local extra_files=()
+  local history_file=''
+  local datafiles_list=()
+  local datafiles_list_base=()
+
+  extra_files+=("${PROGDIR}/data/emoji/nn.tsv")
+  datafiles_list_base=("${extra_files[@]}" )
+  collect_data_files 'disable-emoji' 'disable-emoticons' extra_langs extra_files history_file datafiles_list
+}
+
+test_escape_selection() {
+  local string_nonalphanum='!"#$%&'\''()*+,-./:;<=>?@[\]^_`{|}~'
+  local string_alphanum='a b c d e f g h i j k l m n o p q r s t u v w x y z A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9'
+  declare -A string_nonalpha_escaped
+  # shellcheck disable=SC1003
+  string_nonalpha_escaped['gfm']='\!\"\#\$\%\&\'\''\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\]\^\_\`\{\|\}\~'
+  string_nonalpha_escaped['json']='!\"#$%&'\''()*+,-./:;<=>?@[\\]^_`{|}~'
+  string_nonalpha_escaped['rfm']='\!"\#$%\&'\''\(\)\*\+,\-\./\:;\<=\>?@\[\\]\^\_\`\{\|\}\~'
+
+  local style
+  local escaped
+  for style in "${!string_nonalpha_escaped[@]}"; do
+    escaped="$(escape_selection "${string_nonalphanum}" "${style}")"
+    assertEquals "escape symbols in style ${style}" "${string_nonalpha_escaped["${style}"]}" "${escaped}"
+
+    escaped="$(escape_selection "${string_alphanum}" "${style}")"
+    assertEquals "escape alphanum in style ${style}" "${string_alphanum}" "${escaped}"
+  done
+
+  if escape_selection 'somestring' 'not-a-real-escape-mode' >/dev/null 2>&1; then
+    fail 'Escaping with an invalid escape style should return nonzero for failure here'
+  fi
+}
+
+test_get_config() {
+  local config_filepath
+  local test_config_lines=()
+  test_config_lines=(
+    'rofi_command=any/path and some args for the popup'
+    'xsel_command=any/path and some args for the clipboard'
+    'xdotool_command=any/path and some args for the typing'
+  )
+  declare -A test_config_keyval
+  test_config_keyval['rofi_command']='any/path and some args for the popup'
+  test_config_keyval['xsel_command']='any/path and some args for the clipboard'
+  test_config_keyval['xdotool_command']='any/path and some args for the typing'
+
+  config_filepath="$(mktemp)"
+  echo -n > "${config_filepath}"
+  local key
+  for key in "${!test_config_lines[@]}"; do
+    echo "${test_config_lines[key]}" >> "${config_filepath}"
+  done
+
+  declare -A config_from_file
+  get_config "${config_filepath}" config_from_file
+  rm "${config_filepath}"
+
+  assertEquals 'Created and retrieved config *values* must match' "${test_config_keyval[*]}" "${config_from_file[*]}"
+  assertEquals 'Created and retrieved config *keys* must match' "${!test_config_keyval[*]}" "${!config_from_file[*]}"
+}
+
+test_get_config_file__progdir() {
+  local config_filepath_expected
+  local config_path
+  local XDG_CONFIG_HOME=''
+  local HOME=''
+
+  config_filepath_expected="${PROGDIR}/splatmoji.config"
+  config_path="$(get_config_file)"
+  assertEquals 'The config filepath should just be the one in the script directory' "${config_filepath_expected}" "${config_path}"
+}
+
+test_get_config_file__xdghomedir() {
+  local config_filepath_expected
+  local config_path
+  local XDG_CONFIG_HOME
+
+  temp_dirpath="$(mktemp -d)"
+  # shellcheck disable=SC2034
+  XDG_CONFIG_HOME="${temp_dirpath}"
+  mkdir -p "${temp_dirpath}/splatmoji/"
+  config_filepath_expected="${temp_dirpath}/splatmoji/splatmoji.config"
+  touch "${config_filepath_expected}"
+  config_path="$(get_config_file)"
+
+# shellcheck disable=SC2016
+  assertEquals 'If a `splatmoji.config` is present in `XDG_CONFIG_HOME`, it should be found as the config file' "${config_filepath_expected}" "${config_path}"
+
+  rm -rf "${temp_dirpath}"
+}
+
+test_get_excluded_skin_tones() {
+  skin_tone_exclusion_light=( '🏼' '🏽' '🏾' '🏿' )
+  skin_tone_exclusion_medium_light=( '🏻' '🏽' '🏾' '🏿' )
+  skin_tone_exclusion_medium=( '🏻' '🏼' '🏾' '🏿' )
+  skin_tone_exclusion_medium_dark=( '🏻' '🏼' '🏽' '🏿' )
+  skin_tone_exclusion_dark=( '🏻' '🏼' '🏽' '🏾' )
+
+
+  # light
+  local skin_tones_exclude=()
+  local skin_tone=('light')
+  get_excluded_skin_tones skin_tone skin_tones_exclude
+  assertEquals "${skin_tone_exclusion_light[*]}" "${skin_tones_exclude[*]}"
+
+  # medium_light
+  local skin_tones_exclude=()
+  local skin_tone=('medium-light')
+  get_excluded_skin_tones skin_tone skin_tones_exclude
+  assertEquals "${skin_tone_exclusion_medium_light[*]}" "${skin_tones_exclude[*]}"
+
+  # medium
+  local skin_tones_exclude=()
+  local skin_tone=('medium')
+  get_excluded_skin_tones skin_tone skin_tones_exclude
+  assertEquals "${skin_tone_exclusion_medium[*]}" "${skin_tones_exclude[*]}"
+
+  # medium_dark
+  local skin_tones_exclude=()
+  local skin_tone=('medium-dark')
+  get_excluded_skin_tones skin_tone skin_tones_exclude
+  assertEquals "${skin_tone_exclusion_medium_dark[*]}" "${skin_tones_exclude[*]}"
+
+  # dark
+  local skin_tones_exclude=()
+  # shellcheck disable=SC2034
+  local skin_tone=('dark')
+  get_excluded_skin_tones skin_tone skin_tones_exclude
+  assertEquals "${skin_tone_exclusion_dark[*]}" "${skin_tones_exclude[*]}"
+}
+
+test_get_user_selection() {
+  local prompt_command='echo -e "🤓	face, geek, nerd, nerd face"'
+  local selection_expected='🤓'
+  # shellcheck disable=SC2034
+  local file_list=("${PROGDIR}/data/emoji/en.tsv")
+  local skin_tones_exclude=()
+  local selection
+
+  selection="$(get_user_selection skin_tones_exclude file_list "${prompt_command}")"
+
+  assertEquals 'User selection should return with tabs and annotations stripped' "${selection_expected}" "${selection}"
+}
+
+test_output_copied() {
+  local tmpfilepath
+  local copy_command
+  local selection='🤓'
+  local copied
+
+  tmpfilepath="$(mktemp)"
+  copy_command="tee '${tmpfilepath}' >/dev/null"
+  output_copied "${copy_command}" "${selection}"
+
+  copied="$(head -n 1 "${tmpfilepath}")"
+  rm "${tmpfilepath}"
+
+  assertEquals 'Output should be copied to match' "${selection}" "${copied}"
+}
+
+test_output_pasted() {
+  local tmpfilepath
+  local paste_command
+  local selection='🤓'
+  local copied
+
+  tmpfilepath="$(mktemp)"
+  paste_command="echo '${selection}' > '${tmpfilepath}'"
+  output_pasted "${paste_command}"
+
+  copied="$(head -n 1 "${tmpfilepath}")"
+  rm "${tmpfilepath}"
+
+  assertEquals 'Output should have dropped into the temp file' "${selection}" "${copied}"
+}
+
+test_output_typed() {
+  local tmpfilepath
+  local type_command
+  local selection='🤓'
+  local copied
+
+  tmpfilepath="$(mktemp)"
+  type_command=">/dev/null tee '${tmpfilepath}' <<< "
+  output_typed "${type_command}" "${selection}"
+
+  copied="$(head -n 1 "${tmpfilepath}")"
+  rm "${tmpfilepath}"
+
+  assertEquals 'Output should have dropped into the temp file' "${selection}" "${copied}"
+}
+
+test_parse_args() {
+  return 0
+}
+
+test_print_help() {
+  return 0
+}
+
+test_print_langs() {
+  return 0
+}
+
+test_save_history() {
+  local tmpfilepath
+  local new_selection='🤓'
+  # Note to future selves: literal tab in the middle of all of these
+  local selection_list_start=(
+    '🤣	(recently used)'
+    '🤓	(recently used)'
+    '😚	(recently used)'
+    '🍆	(recently used)'
+    '¯\_(シ)_/¯	(recently used)'
+    '(╯°□°）╯︵ ┻━┻	(recently used)'
+    '┌( ಠ_ಠ)┘	(recently used)'
+  )
+  local selection_list_expected=(
+    '🤓	(recently used)'
+    '🤣	(recently used)'
+    '😚	(recently used)'
+    '🍆	(recently used)'
+    '¯\_(シ)_/¯	(recently used)'
+    '(╯°□°）╯︵ ┻━┻	(recently used)'
+    '┌( ಠ_ಠ)┘	(recently used)'
+  )
+  declare -a saved_selections=()
+
+  tmpfilepath="$(mktemp)"
+
+  # Test saving history from length 1 to reference list length
+  for ((hist_limit=1; hist_limit<${#selection_list_expected[@]}; hist_limit++)); do
+    # Put the start list fresh into tmp history file
+    echo -n '' > "${tmpfilepath}"
+    for selection in "${selection_list_start[@]}"; do
+      echo "${selection}" >> "${tmpfilepath}"
+    done
+
+    save_history "${tmpfilepath}" "${hist_limit}" "${new_selection}"
+    readarray -t saved_selections < "${tmpfilepath}"
+
+    assertEquals 'History should be saved in correct order and with correct length' "${saved_selections[*]}" "${selection_list_expected[*]:0:${hist_limit}}"
+  done
+}
+
+# shellcheck disable=SC1090
+# shellcheck disable=SC1091
+if [ -s "${SHUNIT2_PATH}" ]; then
+  source "${SHUNIT2_PATH}"
+elif [ -s "$(type -p shunit2)" ]; then
+  # On $PATH
+  source "$(type -p shunit2)"
+elif [ -s '/usr/share/shunit2/shunit2' ]; then
+  # EL puts it here
+  source '/usr/share/shunit2/shunit2'
+elif [ -s ./shunit2 ]; then
+  source ./shunit2
+else
+  # shellcheck disable=SC2016
+  echo 'Testing failed - could not find `shunit2`.'
+  exit 1
+fi
