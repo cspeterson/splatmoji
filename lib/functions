@@ -477,10 +477,11 @@ print_help() {
         Print out available language codes (as defined in [BCP47]) and exit.
         (https://www.unicode.org/reports/tr35/tr35-17.html#BCP47)
 
-    -s, --skin-tones [light,medium-light,medium,medium-dark,dark]
-        Fitzpatrick scale skin tones to display for emoji that can be modified
-        by such. If given, emoji containing any other skin tones will be
-        omitted from the choice list.
+    -s, --skin-tones [light,medium-light,medium,medium-dark,dark,none]
+        Specifies specific Fitzpatrick scale skin tones to display for emoji
+        that can be modified by such. \`none\` will not print any emoji with
+        skin tone modifiers. If this options is not given at all, then all skin
+        tones will be displayed.
 
     -v, --verbose
         Print to STDERR some important internal variables as they are created:
@@ -490,10 +491,13 @@ print_help() {
 
   Positional arguments:
     [copy|type|copypaste]
-        This application can place the final selection into the user's
-        clipboard (copy), type it out for the user (type), or place the final
-        selection into the user's clipboard and paste it out for the user with
-        a configured key combo (copypaste).
+        This application can
+
+        * place the final selection into the user's
+        clipboard (copy)
+        * type it out for the user (type)
+        * or place the final selection into the user's clipboard and paste it
+          out for the user with a configured key combo (copypaste)
 
     [FILE]...
         A list of files or directories of files to include in the display
