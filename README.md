@@ -27,8 +27,8 @@ Splatmoji supports skin tone filtering, custom data sets, and includes emoji ann
   * [Xdotool config (auto-typing)](#xdotool-config-auto-typing)
 * [Updating emoji/emoticons](#updating-emojiemoticons)
   * [Emoji](#emoji)
-* [Emoticons](#emoticons)
-* [Custom Configuration and Custom Emoji/Emoticons](#custom-configuration-and-custom-emojiemoticons)
+  * [Emoticons/Kaomoji](#emoticonskaomoji)
+* [Custom Emoji/Emoticons](#custom-emojiemoticons)
 * [FAQ](#faq)
 * [Contributing](#contributing)
 * [Credits](#credits)
@@ -261,7 +261,7 @@ Ultimately, though, recognize that this tool's `type` mode relies on xdotool and
 
 I started a separate project ([Splatmoji-emojidata](https://github.com/cspeterson/splatmoji-emojidata)) dedicated to maintaining an organized, absolutely complete, and up-to-date set of emoji. It is from there that this project gets its emoji database. There shouldn't be much to update as I'll be in sync with the latest CLDR releases from Unicode, but [the repo itself][Splatmoji-emojidata] has instructions and scripts for updating directly from the source.
 
-# Emoticons
+## Emoticons/Kaomoji
 
 I'm planning on creating/maintaining a comprehensive database, and would love it if someone could point me to a well-labeled and machine-readable collection.
 
@@ -269,7 +269,7 @@ The ones here originally came from [w33ble/emoticon-data](https://github.com/w33
 
 Feel free to make pull requests for what feel to you like obvious omissions though!
 
-# Custom Configuration and Custom Emoji/Emoticons
+# Custom Emoji/Emoticons
 
 This repo uses emoji from [Splatmoji-emojidata](https://github.com/cspeterson/splatmoji-emojidata), and the emoticons are not currently being updated, but you can use your own files either additionally or as a replacement.
 
