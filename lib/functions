@@ -251,25 +251,33 @@ get_excluded_skin_tones() {
   skin_tones_lookup['dark']='🏿'
 
   local skin_tones=()
-  local i
-  for i in "${!skin_names_[@]}"; do
-    tone_name="${skin_names_[${i}]}"
-    if  [ -z "${skin_tones_lookup[${tone_name}]}" ]; then
-      echo 'Invalid skin tone provided.' >&2
-      print_help
-      return 1
-    fi
-    skin_tones+=("${skin_tones_lookup[${tone_name}]}")
-  done
+  if [[ ${skin_names_[*],,} =~ (^|[[:space:]])none($|[[:space:]]) ]]; then
+    # If user specifies none for skin tones, just add them all to the exclusion
+    # list
+    for key in "${!skin_tones_lookup[@]}"; do
+      skin_tones_exclude_+=("${skin_tones_lookup[$key]}")
+    done
+  else
+    local i
+    for i in "${!skin_names_[@]}"; do
+      tone_name="${skin_names_[${i}]}"
+      if  [ -z "${skin_tones_lookup[${tone_name}]}" ]; then
+        echo 'Invalid skin tone provided.' >&2
+        print_help
+        return 1
+      fi
+      skin_tones+=("${skin_tones_lookup[${tone_name}]}")
+    done
 
-  local skin_tones_list=(🏻 🏼 🏽 🏾 🏿)
-  local skin_tone
-  for skin_tone in "${skin_tones_list[@]}"; do
-    # shellcheck disable=SC2199,SC2076
-    if ! [[ " ${skin_tones[@]} " =~ " ${skin_tone} " ]]; then
-      skin_tones_exclude_+=("${skin_tone}")
-    fi
-  done
+    local skin_tones_list=(🏻 🏼 🏽 🏾 🏿)
+    local skin_tone
+    for skin_tone in "${skin_tones_list[@]}"; do
+      # shellcheck disable=SC2199,SC2076
+      if ! [[ " ${skin_tones[@]} " =~ " ${skin_tone} " ]]; then
+        skin_tones_exclude_+=("${skin_tone}")
+      fi
+    done
+  fi
 }
 
 get_user_selection() {
