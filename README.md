@@ -280,6 +280,19 @@ Please let me know what better source you wind up using, and maybe the command(s
   - These are called ZWJ (zero-width joiner) Sequences. Some combinations of multiple different emoji can be combined in sequence with a special zero-width character as a joiner, and if the platform and application supports it a single meaningful symbol will be displayed. On platforms or applications that *don't* support it though, no worries; it just displays the separate emoji in sequence. 🙂
 * Why are my emoticons missing characters when using `type` mode?
   - Solving this will be between you and how you tune the [Xdotool config](#xdotool-config-auto-typing). The best solution is probably to just use `copypaste` mode instead, but if you wind up doing anything clever to solve your problem let me know and we'll see if we can work it back into this repo! 🙂
+* Can I make splatmoji automatically choose a mode for me depending on context?
+  - Yes you certainly can - with a wrapper script! This example to decide based on the currently focused window was [contributed](issue30) by [@jpetazzo]:
+      ```sh
+      #!/bin/sh
+      # You can figure out which window properties you want to look for using `xprop` under X
+      WINDOWNAME="$(xdotool getwindowfocus getwindowname)"
+      case "${WINDOWNAME}" in
+        *Firefox*)
+        exec splatmoji copypaste ;;
+        *)
+        exec splatmoji type ;;
+      esac
+      ```
 
 # Contributing
 
@@ -298,3 +311,6 @@ By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www.twi
 # License
 
 The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
+
+[@jpetazzo]: https://github.com/jpetazzo
+[issue30]: https://github.com/cspeterson/splatmoji/issues/30
