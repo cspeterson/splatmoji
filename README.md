@@ -83,7 +83,7 @@ cd /path/to/repo
 ```
 Usage:
 
-  ./splatmoji [OPTIONS]... [copy|type|copypaste] [FILE]...
+  splatmoji [OPTIONS]... [copy|type|copypaste] [FILE]...
 
   Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux
   desktop via pop-up menu.
@@ -110,13 +110,20 @@ Usage:
         Disable the display of emoticons from this application's own database.
 
     -p, --print-languages
-        Print out available language codes (as defined in BCP47) and exit.
+        Print out available language codes (as defined in [BCP47]) and exit.
         (https://www.unicode.org/reports/tr35/tr35-17.html#BCP47)
 
-    -s, --skin-tones [light,medium-light,medium,medium-dark,dark]
-        Fitzpatrick scale skin tones to display for emoji that can be modified
-        by such. If given, emoji containing any other skin tones will be
-        omitted from the choice list.
+    -s, --skin-tones [light,medium-light,medium,medium-dark,dark,none]
+        Specifies specific Fitzpatrick scale skin tones to display for emoji
+        that can be modified by such. `none` will not print any emoji with
+        skin tone modifiers. If this options is not given at all, then all skin
+        tones will be displayed.
+
+    -v, --verbose
+        Print to STDERR some important internal variables as they are created:
+          * config from config file
+          * list of data files from which selections are sourced
+          * user selection escaping
 
   Positional arguments:
     [copy|type|copypaste]
@@ -132,9 +139,9 @@ Usage:
 
 
   Examples
-    ./splatmoji copy
-    ./splatmoji type
-    ./splatmoji copypaste
+    splatmoji copy
+    splatmoji type
+    splatmoji copypaste
 
   Data files
     Splatmoji will by default try to combine data files from the following
@@ -142,16 +149,17 @@ Usage:
         * [FILE]... from the command line's positional arguments.
         * ${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data}
         * ${XDG_DATA_DIRS:-/usr/local/share/:/usr/share/}
-        * ${script_dir}/data
+        * ${PROGDIR}/data
 
     It is also possible to individually disable the included emoji or
     emoticon databases:
         # Use only the included emoticon database. No emoji.
-        ./splatmoji --disable-emoji-db
+        splatmoji --disable-emoji-db
         # Use only the included emoji database. No emoticons.
-        ./splatmoji --disable-emoticon-db
+        splatmoji --disable-emoticon-db
         # Use only user-provided files
-        ./splatmoji --disable-emoticon-db --disable-emoji-db copy /some/custom/files
+        splatmoji --disable-emoticon-db --disable-emoji-db copy /some/custom/files
+
 ```
 
 ## Setting up keyboard shortcut

@@ -251,25 +251,33 @@ get_excluded_skin_tones() {
   skin_tones_lookup['dark']='🏿'
 
   local skin_tones=()
-  local i
-  for i in "${!skin_names_[@]}"; do
-    tone_name="${skin_names_[${i}]}"
-    if  [ -z "${skin_tones_lookup[${tone_name}]}" ]; then
-      echo 'Invalid skin tone provided.' >&2
-      print_help
-      return 1
-    fi
-    skin_tones+=("${skin_tones_lookup[${tone_name}]}")
-  done
+  if [[ ${skin_names_[*],,} =~ (^|[[:space:]])none($|[[:space:]]) ]]; then
+    # If user specifies none for skin tones, just add them all to the exclusion
+    # list
+    for key in "${!skin_tones_lookup[@]}"; do
+      skin_tones_exclude_+=("${skin_tones_lookup[$key]}")
+    done
+  else
+    local i
+    for i in "${!skin_names_[@]}"; do
+      tone_name="${skin_names_[${i}]}"
+      if  [ -z "${skin_tones_lookup[${tone_name}]}" ]; then
+        echo 'Invalid skin tone provided.' >&2
+        print_help
+        return 1
+      fi
+      skin_tones+=("${skin_tones_lookup[${tone_name}]}")
+    done
 
-  local skin_tones_list=(🏻 🏼 🏽 🏾 🏿)
-  local skin_tone
-  for skin_tone in "${skin_tones_list[@]}"; do
-    # shellcheck disable=SC2199,SC2076
-    if ! [[ " ${skin_tones[@]} " =~ " ${skin_tone} " ]]; then
-      skin_tones_exclude_+=("${skin_tone}")
-    fi
-  done
+    local skin_tones_list=(🏻 🏼 🏽 🏾 🏿)
+    local skin_tone
+    for skin_tone in "${skin_tones_list[@]}"; do
+      # shellcheck disable=SC2199,SC2076
+      if ! [[ " ${skin_tones[@]} " =~ " ${skin_tone} " ]]; then
+        skin_tones_exclude_+=("${skin_tone}")
+      fi
+    done
+  fi
 }
 
 get_user_selection() {
@@ -469,10 +477,11 @@ print_help() {
         Print out available language codes (as defined in [BCP47]) and exit.
         (https://www.unicode.org/reports/tr35/tr35-17.html#BCP47)
 
-    -s, --skin-tones [light,medium-light,medium,medium-dark,dark]
-        Fitzpatrick scale skin tones to display for emoji that can be modified
-        by such. If given, emoji containing any other skin tones will be
-        omitted from the choice list.
+    -s, --skin-tones [light,medium-light,medium,medium-dark,dark,none]
+        Specifies specific Fitzpatrick scale skin tones to display for emoji
+        that can be modified by such. \`none\` will not print any emoji with
+        skin tone modifiers. If this options is not given at all, then all skin
+        tones will be displayed.
 
     -v, --verbose
         Print to STDERR some important internal variables as they are created:
@@ -482,10 +491,13 @@ print_help() {
 
   Positional arguments:
     [copy|type|copypaste]
-        This application can place the final selection into the user's
-        clipboard (copy), type it out for the user (type), or place the final
-        selection into the user's clipboard and paste it out for the user with
-        a configured key combo (copypaste).
+        This application can
+
+        * place the final selection into the user's
+        clipboard (copy)
+        * type it out for the user (type)
+        * or place the final selection into the user's clipboard and paste it
+          out for the user with a configured key combo (copypaste)
 
     [FILE]...
         A list of files or directories of files to include in the display

@@ -220,30 +220,35 @@ test_get_excluded_skin_tones() {
   skin_tone_exclusion_medium=( '🏻' '🏼' '🏾' '🏿' )
   skin_tone_exclusion_medium_dark=( '🏻' '🏼' '🏽' '🏿' )
   skin_tone_exclusion_dark=( '🏻' '🏼' '🏽' '🏾' )
+  skin_tone_exclusion_all=( '🏻' '🏼' '🏽' '🏾' '🏿' )
 
 
   # light
   local skin_tones_exclude=()
   local skin_tone=('light')
   get_excluded_skin_tones skin_tone skin_tones_exclude
+  sort_array skin_tones_exclude
   assertEquals "${skin_tone_exclusion_light[*]}" "${skin_tones_exclude[*]}"
 
   # medium_light
   local skin_tones_exclude=()
   local skin_tone=('medium-light')
   get_excluded_skin_tones skin_tone skin_tones_exclude
+  sort_array skin_tones_exclude
   assertEquals "${skin_tone_exclusion_medium_light[*]}" "${skin_tones_exclude[*]}"
 
   # medium
   local skin_tones_exclude=()
   local skin_tone=('medium')
   get_excluded_skin_tones skin_tone skin_tones_exclude
+  sort_array skin_tones_exclude
   assertEquals "${skin_tone_exclusion_medium[*]}" "${skin_tones_exclude[*]}"
 
   # medium_dark
   local skin_tones_exclude=()
   local skin_tone=('medium-dark')
   get_excluded_skin_tones skin_tone skin_tones_exclude
+  sort_array skin_tones_exclude
   assertEquals "${skin_tone_exclusion_medium_dark[*]}" "${skin_tones_exclude[*]}"
 
   # dark
@@ -251,7 +256,16 @@ test_get_excluded_skin_tones() {
   # shellcheck disable=SC2034
   local skin_tone=('dark')
   get_excluded_skin_tones skin_tone skin_tones_exclude
+  sort_array skin_tones_exclude
   assertEquals "${skin_tone_exclusion_dark[*]}" "${skin_tones_exclude[*]}"
+
+  # none - exclude all tones
+  local skin_tones_exclude=()
+  # shellcheck disable=SC2034
+  local skin_tone=('none')
+  get_excluded_skin_tones skin_tone skin_tones_exclude
+  sort_array skin_tones_exclude
+  assertEquals "${skin_tone_exclusion_all[*]}" "${skin_tones_exclude[*]}"
 }
 
 test_get_user_selection() {
