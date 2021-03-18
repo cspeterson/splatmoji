@@ -33,6 +33,7 @@ Splatmoji supports skin tone filtering, custom data sets, and includes emoji ann
   * [Why do some of the emoji come out as multiple characters?](#why-do-some-of-the-emoji-come-out-as-multiple-characters)
   * [Why are my emoticons missing characters when using `type` mode?](#why-are-my-emoticons-missing-characters-when-using-type-mode)
   * [Can I make Splatmoji automatically choose a mode for me depending on context?](#can-i-make-splatmoji-automatically-choose-a-mode-for-me-depending-on-context)
+  * [When I type certain characters, extra characters are copied along with them?](#when-i-type-certain-characters-extra-characters-are-copied-along-with-them)
 * [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
@@ -303,6 +304,20 @@ case "${WINDOWNAME}" in
 esac
 ```
 
+## When I type certain characters, extra characters are copied along with them?
+
+The "extras" should be invisible - and are actually there on purpose! 😯
+
+The basic reason is there are some emoji from the early days that can be validly shown by either their early-days "text presentation" or their more modern "emoji presentation."
+
+So given the possibility that these emoji can by default be (and were, for some people on some platforms under some conditions) presented as their basic old text version when encoded all by their lonesome, I made the move to explicitly include the "emoji presentation selector" character on the tail of all such emoji (in my [splatmoji-emojidata] project that produces the emoji data files). This ensures that we get the pretty version!
+
+![Emoji smilies with text and emoji presentation sequences](presentation-sequences.jpg)
+
+So if you are seeing "tofu" or other glyphs standing in for the specifiers, this generally suggest is some issue to be resolved with with Unicode support on your platform/application/font etc. Sorry! ¯\\_\(ツ\)\_\/¯
+
+Note: here are the deeper technical specifics on presentation sequences: [UTS #51]
+
 # Contributing
 
 Taking pull requests: [https://github.com/cspeterson/splatmoji.git](https://github.com/cspeterson/splatmoji.git)
@@ -322,4 +337,6 @@ By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www.twi
 The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
 
 [@jpetazzo]: https://github.com/jpetazzo
+[UTS #51]: https://www.unicode.org/reports/tr51/#Emoji_Variation_Sequences
 [issue30]: https://github.com/cspeterson/splatmoji/issues/30
+[splatmoji-emojidata]: https://github.com/cspeterson/splatmoji-emojidata
