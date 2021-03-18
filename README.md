@@ -30,6 +30,9 @@ Splatmoji supports skin tone filtering, custom data sets, and includes emoji ann
 * [Emoticons](#emoticons)
 * [Custom Configuration and Custom Emoji/Emoticons](#custom-configuration-and-custom-emojiemoticons)
 * [FAQ](#faq)
+  * [Why do some of the emoji come out as multiple characters?](#why-do-some-of-the-emoji-come-out-as-multiple-characters)
+  * [Why are my emoticons missing characters when using `type` mode?](#why-are-my-emoticons-missing-characters-when-using-type-mode)
+  * [Can I make Splatmoji automatically choose a mode for me depending on context?](#can-i-make-splatmoji-automatically-choose-a-mode-for-me-depending-on-context)
 * [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
@@ -276,23 +279,29 @@ Please let me know what better source you wind up using, and maybe the command(s
 
 # FAQ
 
-* Why do some of the emoji come out as multiple characters?
-  - These are called ZWJ (zero-width joiner) Sequences. Some combinations of multiple different emoji can be combined in sequence with a special zero-width character as a joiner, and if the platform and application supports it a single meaningful symbol will be displayed. On platforms or applications that *don't* support it though, no worries; it just displays the separate emoji in sequence. 🙂
-* Why are my emoticons missing characters when using `type` mode?
-  - Solving this will be between you and how you tune the [Xdotool config](#xdotool-config-auto-typing). The best solution is probably to just use `copypaste` mode instead, but if you wind up doing anything clever to solve your problem let me know and we'll see if we can work it back into this repo! 🙂
-* Can I make splatmoji automatically choose a mode for me depending on context?
-  - Yes you certainly can - with a wrapper script! This example to decide based on the currently focused window was [contributed](issue30) by [@jpetazzo]:
-      ```sh
-      #!/bin/sh
-      # You can figure out which window properties you want to look for using `xprop` under X
-      WINDOWNAME="$(xdotool getwindowfocus getwindowname)"
-      case "${WINDOWNAME}" in
-        *Firefox*)
-        exec splatmoji copypaste ;;
-        *)
-        exec splatmoji type ;;
-      esac
-      ```
+## Why do some of the emoji come out as multiple characters?
+
+These are called ZWJ (zero-width joiner) Sequences. Some combinations of multiple different emoji can be combined in sequence with a special zero-width character as a joiner, and if the platform and application supports it a single meaningful symbol will be displayed. On platforms or applications that *don't* support it though, no worries; it just displays the separate emoji in sequence. 🙂
+
+## Why are my emoticons missing characters when using `type` mode?
+
+Solving this will be between you and how you tune the [Xdotool config](#xdotool-config-auto-typing). The best solution is probably to just use `copypaste` mode instead, but if you wind up doing anything clever to solve your problem let me know and we'll see if we can work it back into this repo! 🙂
+
+## Can I make Splatmoji automatically choose a mode for me depending on context?
+
+Yes you certainly can - with a wrapper script! This example to decide based on the currently focused window was [contributed](issue30) by [@jpetazzo]:
+
+```sh
+#!/bin/sh
+# You can figure out which window properties you want to look for using `xprop` under X
+WINDOWNAME="$(xdotool getwindowfocus getwindowname)"
+case "${WINDOWNAME}" in
+  *Firefox*)
+  exec splatmoji copypaste ;;
+  *)
+  exec splatmoji type ;;
+esac
+```
 
 # Contributing
 
