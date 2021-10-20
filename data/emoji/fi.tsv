@@ -19,6 +19,7 @@
 ☺️	hymy, hymynaama, naama, rento
 😚	naama, pusu, pusunaama ja suljetut silmät, silmä, suljettu
 😙	hymy, naama, pusu, pusunaama ja hymyilevät silmät, silmä
+🥲	helpottunut, hymyilee, hymyilevät kasvot ja kyynel, kiitollinen, kyynel, liikuttunut, ylpeä
 😋	herkullinen, herkullista ruokaa nauttinut, hymy, naama, nam, nami, nautiskeleva
 😛	kieli, kieli ulkona, naama
 😜	kieli, kieli ulkona ja silmänisku, naama, silmä, silmänisku, vitsi
@@ -57,6 +58,7 @@
 🤯	järkytys, naama, paukku, raju, räjähdys päässä, sokki
 🤠	cowboy, cowboy-hattu, hattu, kasvot
 🥳	hattu, juhla, juhlia, juhliva, pilli
+🥸	lasit, naama, naamio, naamioitunut, nenä, tuntematon, valepuku
 😎	aurinko, aurinkolasihymy, aurinkolasit, cool, hymy
 🤓	jänöhammas, naama, nörtti, silmälasit
 🧐	kalkkis, monokkeli silmässä, vanhanaikainen
@@ -183,6 +185,12 @@
 👌🏽	käsi, ok, ok-sormiele, ok-sormiele: tummanvaalea iho, tummanvaalea iho, vartalo
 👌🏾	keskitumma iho, käsi, ok, ok-sormiele, ok-sormiele: keskitumma iho, vartalo
 👌🏿	käsi, ok, ok-sormiele, ok-sormiele: tumma iho, tumma iho, vartalo
+🤌	kuulustelu, käsi supussa, käsiele, mitä, sarkastinen, sormet, supussa
+🤌🏻	kuulustelu, käsi supussa, käsi supussa: vaalea iho, käsiele, mitä, sarkastinen, sormet, supussa, vaalea iho
+🤌🏼	keskivaalea iho, kuulustelu, käsi supussa, käsi supussa: keskivaalea iho, käsiele, mitä, sarkastinen, sormet, supussa
+🤌🏽	kuulustelu, käsi supussa, käsi supussa: tummanvaalea iho, käsiele, mitä, sarkastinen, sormet, supussa, tummanvaalea iho
+🤌🏾	keskitumma iho, kuulustelu, käsi supussa, käsi supussa: keskitumma iho, käsiele, mitä, sarkastinen, sormet, supussa
+🤌🏿	kuulustelu, käsi supussa, käsi supussa: tumma iho, käsiele, mitä, sarkastinen, sormet, supussa, tumma iho
 🤏	nipistävä käsi, pieni määrä
 🤏🏻	nipistävä käsi, nipistävä käsi: vaalea iho, pieni määrä, vaalea iho
 🤏🏼	keskivaalea iho, nipistävä käsi, nipistävä käsi: keskivaalea iho, pieni määrä
@@ -379,6 +387,8 @@
 👃🏾	haju, keskitumma iho, nenä, nenä: keskitumma iho, pää, tuoksu, vartalo
 👃🏿	haju, nenä, nenä: tumma iho, pää, tumma iho, tuoksu, vartalo
 🧠	aivot, pää, vartalo, viisas, äly
+🫀	elin, kardiologia, keskipiste, pulssi, sydän, syke, verenkierto
+🫁	elin, hengitys, henkäisy, keuhkot
 🦷	hammas, hammaslääkäri, hampaisto
 🦴	luu, luuranko, luusto
 👀	naama, silmä, silmät, vartalo
@@ -421,6 +431,30 @@
 👱🏽	blondi, hiukset, tummanvaalea iho, vaalea, vaaleahiuksinen henkilö, vaaleatukkainen henkilö, vaaleatukkainen henkilö: tummanvaalea iho
 👱🏾	blondi, hiukset, keskitumma iho, vaalea, vaaleahiuksinen henkilö, vaaleatukkainen henkilö, vaaleatukkainen henkilö: keskitumma iho
 👱🏿	blondi, hiukset, tumma iho, vaalea, vaaleahiuksinen henkilö, vaaleatukkainen henkilö, vaaleatukkainen henkilö: tumma iho
+🧑‍🦰	aikaihminen, aikuinen, aikuinen: punatukkainen, aikuisuus, keski-ikäinen, punatukkainen, sukupuolineutraali, täysikasvuinen
+🧑🏻‍🦰	aikaihminen, aikuinen, aikuinen: vaalea iho, punatukkainen, aikuisuus, keski-ikäinen, punatukkainen, sukupuolineutraali, täysikasvuinen, vaalea iho
+🧑🏼‍🦰	aikaihminen, aikuinen, aikuinen: keskivaalea iho, punatukkainen, aikuisuus, keski-ikäinen, keskivaalea iho, punatukkainen, sukupuolineutraali, täysikasvuinen
+🧑🏽‍🦰	aikaihminen, aikuinen, aikuinen: tummanvaalea iho, punatukkainen, aikuisuus, keski-ikäinen, punatukkainen, sukupuolineutraali, tummanvaalea iho, täysikasvuinen
+🧑🏾‍🦰	aikaihminen, aikuinen, aikuinen: keskitumma iho, punatukkainen, aikuisuus, keski-ikäinen, keskitumma iho, punatukkainen, sukupuolineutraali, täysikasvuinen
+🧑🏿‍🦰	aikaihminen, aikuinen, aikuinen: tumma iho, punatukkainen, aikuisuus, keski-ikäinen, punatukkainen, sukupuolineutraali, tumma iho, täysikasvuinen
+🧑‍🦱	aikaihminen, aikuinen, aikuinen: kiharatukkainen, aikuisuus, keski-ikäinen, kiharatukkainen, sukupuolineutraali, täysikasvuinen
+🧑🏻‍🦱	aikaihminen, aikuinen, aikuinen: vaalea iho, kiharatukkainen, aikuisuus, keski-ikäinen, kiharatukkainen, sukupuolineutraali, täysikasvuinen, vaalea iho
+🧑🏼‍🦱	aikaihminen, aikuinen, aikuinen: keskivaalea iho, kiharatukkainen, aikuisuus, keski-ikäinen, keskivaalea iho, kiharatukkainen, sukupuolineutraali, täysikasvuinen
+🧑🏽‍🦱	aikaihminen, aikuinen, aikuinen: tummanvaalea iho, kiharatukkainen, aikuisuus, keski-ikäinen, kiharatukkainen, sukupuolineutraali, tummanvaalea iho, täysikasvuinen
+🧑🏾‍🦱	aikaihminen, aikuinen, aikuinen: keskitumma iho, kiharatukkainen, aikuisuus, keski-ikäinen, keskitumma iho, kiharatukkainen, sukupuolineutraali, täysikasvuinen
+🧑🏿‍🦱	aikaihminen, aikuinen, aikuinen: tumma iho, kiharatukkainen, aikuisuus, keski-ikäinen, kiharatukkainen, sukupuolineutraali, tumma iho, täysikasvuinen
+🧑‍🦳	aikaihminen, aikuinen, aikuinen: valkotukkainen, aikuisuus, keski-ikäinen, sukupuolineutraali, täysikasvuinen, valkotukkainen
+🧑🏻‍🦳	aikaihminen, aikuinen, aikuinen: vaalea iho, valkotukkainen, aikuisuus, keski-ikäinen, sukupuolineutraali, täysikasvuinen, vaalea iho, valkotukkainen
+🧑🏼‍🦳	aikaihminen, aikuinen, aikuinen: keskivaalea iho, valkotukkainen, aikuisuus, keski-ikäinen, keskivaalea iho, sukupuolineutraali, täysikasvuinen, valkotukkainen
+🧑🏽‍🦳	aikaihminen, aikuinen, aikuinen: tummanvaalea iho, valkotukkainen, aikuisuus, keski-ikäinen, sukupuolineutraali, tummanvaalea iho, täysikasvuinen, valkotukkainen
+🧑🏾‍🦳	aikaihminen, aikuinen, aikuinen: keskitumma iho, valkotukkainen, aikuisuus, keski-ikäinen, keskitumma iho, sukupuolineutraali, täysikasvuinen, valkotukkainen
+🧑🏿‍🦳	aikaihminen, aikuinen, aikuinen: tumma iho, valkotukkainen, aikuisuus, keski-ikäinen, sukupuolineutraali, tumma iho, täysikasvuinen, valkotukkainen
+🧑‍🦲	aikaihminen, aikuinen, aikuinen: kalju, aikuisuus, kalju, keski-ikäinen, sukupuolineutraali, täysikasvuinen
+🧑🏻‍🦲	aikaihminen, aikuinen, aikuinen: vaalea iho, kalju, aikuisuus, kalju, keski-ikäinen, sukupuolineutraali, täysikasvuinen, vaalea iho
+🧑🏼‍🦲	aikaihminen, aikuinen, aikuinen: keskivaalea iho, kalju, aikuisuus, kalju, keski-ikäinen, keskivaalea iho, sukupuolineutraali, täysikasvuinen
+🧑🏽‍🦲	aikaihminen, aikuinen, aikuinen: tummanvaalea iho, kalju, aikuisuus, kalju, keski-ikäinen, sukupuolineutraali, tummanvaalea iho, täysikasvuinen
+🧑🏾‍🦲	aikaihminen, aikuinen, aikuinen: keskitumma iho, kalju, aikuisuus, kalju, keski-ikäinen, keskitumma iho, sukupuolineutraali, täysikasvuinen
+🧑🏿‍🦲	aikaihminen, aikuinen, aikuinen: tumma iho, kalju, aikuisuus, kalju, keski-ikäinen, sukupuolineutraali, tumma iho, täysikasvuinen
 👨	mies, miespuolinen
 👨🏻	mies, mies: vaalea iho, miespuolinen, vaalea iho
 👨🏼	keskivaalea iho, mies, mies: keskivaalea iho, miespuolinen
@@ -697,6 +731,12 @@
 🤷🏽‍♀	ei välitä, ihan sama, kohauttaa, kämmeniään levittelevä nainen, kämmeniään levittelevä nainen: tummanvaalea iho, nainen, tummanvaalea iho
 🤷🏾‍♀	ei välitä, ihan sama, keskitumma iho, kohauttaa, kämmeniään levittelevä nainen, kämmeniään levittelevä nainen: keskitumma iho, nainen
 🤷🏿‍♀	ei välitä, ihan sama, kohauttaa, kämmeniään levittelevä nainen, kämmeniään levittelevä nainen: tumma iho, nainen, tumma iho
+🧑‍⚕	hoitotyöntekijä, lääkäri, sairaanhoitaja, terapeutti, terveydenhoito
+🧑🏻‍⚕	hoitotyöntekijä, hoitotyöntekijä: vaalea iho, lääkäri, sairaanhoitaja, terapeutti, terveydenhoito, vaalea iho
+🧑🏼‍⚕	hoitotyöntekijä, hoitotyöntekijä: keskivaalea iho, keskivaalea iho, lääkäri, sairaanhoitaja, terapeutti, terveydenhoito
+🧑🏽‍⚕	hoitotyöntekijä, hoitotyöntekijä: tummanvaalea iho, lääkäri, sairaanhoitaja, terapeutti, terveydenhoito, tummanvaalea iho
+🧑🏾‍⚕	hoitotyöntekijä, hoitotyöntekijä: keskitumma iho, keskitumma iho, lääkäri, sairaanhoitaja, terapeutti, terveydenhoito
+🧑🏿‍⚕	hoitotyöntekijä, hoitotyöntekijä: tumma iho, lääkäri, sairaanhoitaja, terapeutti, terveydenhoito, tumma iho
 👨‍⚕	lääkäri, mies, mieshoitotyöntekijä, sairaanhoitaja, terapeutti, terveydenhuolto
 👨🏻‍⚕	lääkäri, mies, mieshoitotyöntekijä, mieshoitotyöntekijä: vaalea iho, sairaanhoitaja, terapeutti, terveydenhuolto, vaalea iho
 👨🏼‍⚕	keskivaalea iho, lääkäri, mies, mieshoitotyöntekijä, mieshoitotyöntekijä: keskivaalea iho, sairaanhoitaja, terapeutti, terveydenhuolto
@@ -709,6 +749,12 @@
 👩🏽‍⚕	lääkäri, nainen, naishoitotyöntekijä, naishoitotyöntekijä: tummanvaalea iho, sairaanhoitaja, terapeutti, terveydenhuollon naisammattilainen, terveydenhuolto, tummanvaalea iho
 👩🏾‍⚕	keskitumma iho, lääkäri, nainen, naishoitotyöntekijä, naishoitotyöntekijä: keskitumma iho, sairaanhoitaja, terapeutti, terveydenhuollon naisammattilainen, terveydenhuolto
 👩🏿‍⚕	lääkäri, nainen, naishoitotyöntekijä, naishoitotyöntekijä: tumma iho, sairaanhoitaja, terapeutti, terveydenhuollon naisammattilainen, terveydenhuolto, tumma iho
+🧑‍🎓	lakki, opiskelija, opiskelu, valmistujaiset
+🧑🏻‍🎓	lakki, opiskelija, opiskelija: vaalea iho, opiskelu, vaalea iho, valmistujaiset
+🧑🏼‍🎓	keskivaalea iho, lakki, opiskelija, opiskelija: keskivaalea iho, opiskelu, valmistujaiset
+🧑🏽‍🎓	lakki, opiskelija, opiskelija: tummanvaalea iho, opiskelu, tummanvaalea iho, valmistujaiset
+🧑🏾‍🎓	keskitumma iho, lakki, opiskelija, opiskelija: keskitumma iho, opiskelu, valmistujaiset
+🧑🏿‍🎓	lakki, opiskelija, opiskelija: tumma iho, opiskelu, tumma iho, valmistujaiset
 👨‍🎓	lakki, mies, miesopiskelija, opiskelu, valmistujaiset
 👨🏻‍🎓	lakki, mies, miesopiskelija, miesopiskelija: vaalea iho, opiskelu, vaalea iho, valmistujaiset
 👨🏼‍🎓	keskivaalea iho, lakki, mies, miesopiskelija, miesopiskelija: keskivaalea iho, opiskelu, valmistujaiset
@@ -721,6 +767,12 @@
 👩🏽‍🎓	lakki, nainen, naisopiskelija, naisopiskelija: tummanvaalea iho, opiskelu, tummanvaalea iho, valmistujaiset
 👩🏾‍🎓	keskitumma iho, lakki, nainen, naisopiskelija, naisopiskelija: keskitumma iho, opiskelu, valmistujaiset
 👩🏿‍🎓	lakki, nainen, naisopiskelija, naisopiskelija: tumma iho, opiskelu, tumma iho, valmistujaiset
+🧑‍🏫	koulu, opettaja
+🧑🏻‍🏫	koulu, opettaja, opettaja: vaalea iho, vaalea iho
+🧑🏼‍🏫	keskivaalea iho, koulu, opettaja, opettaja: keskivaalea iho
+🧑🏽‍🏫	koulu, opettaja, opettaja: tummanvaalea iho, tummanvaalea iho
+🧑🏾‍🏫	keskitumma iho, koulu, opettaja, opettaja: keskitumma iho
+🧑🏿‍🏫	koulu, opettaja, opettaja: tumma iho, tumma iho
 👨‍🏫	koulu, mies, miesopettaja, opettaja
 👨🏻‍🏫	koulu, mies, miesopettaja, miesopettaja: vaalea iho, opettaja, vaalea iho
 👨🏼‍🏫	keskivaalea iho, koulu, mies, miesopettaja, miesopettaja: keskivaalea iho, opettaja
@@ -733,6 +785,12 @@
 👩🏽‍🏫	koulu, nainen, naisopettaja, naisopettaja: tummanvaalea iho, opettaja, tummanvaalea iho
 👩🏾‍🏫	keskitumma iho, koulu, nainen, naisopettaja, naisopettaja: keskitumma iho, opettaja
 👩🏿‍🏫	koulu, nainen, naisopettaja, naisopettaja: tumma iho, opettaja, tumma iho
+🧑‍⚖	tuomari, vaaka
+🧑🏻‍⚖	tuomari, tuomari: vaalea iho, vaaka, vaalea iho
+🧑🏼‍⚖	keskivaalea iho, tuomari, tuomari: keskivaalea iho, vaaka
+🧑🏽‍⚖	tummanvaalea iho, tuomari, tuomari: tummanvaalea iho, vaaka
+🧑🏾‍⚖	keskitumma iho, tuomari, tuomari: keskitumma iho, vaaka
+🧑🏿‍⚖	tumma iho, tuomari, tuomari: tumma iho, vaaka
 👨‍⚖	laki, mies, miestuomari, oikeus, tuomari
 👨🏻‍⚖	laki, mies, miestuomari, miestuomari: vaalea iho, oikeus, tuomari, vaalea iho
 👨🏼‍⚖	keskivaalea iho, laki, mies, miestuomari, miestuomari: keskivaalea iho, oikeus, tuomari
@@ -745,6 +803,12 @@
 👩🏽‍⚖	laki, nainen, naistuomari, naistuomari: tummanvaalea iho, oikeus, tummanvaalea iho, tuomari
 👩🏾‍⚖	keskitumma iho, laki, nainen, naistuomari, naistuomari: keskitumma iho, oikeus, tuomari
 👩🏿‍⚖	laki, nainen, naistuomari, naistuomari: tumma iho, oikeus, tumma iho, tuomari
+🧑‍🌾	farmari, maanviljelijä, puutarhuri
+🧑🏻‍🌾	farmari, maanviljelijä, maanviljelijä: vaalea iho, puutarhuri, vaalea iho
+🧑🏼‍🌾	farmari, keskivaalea iho, maanviljelijä, maanviljelijä: keskivaalea iho, puutarhuri
+🧑🏽‍🌾	farmari, maanviljelijä, maanviljelijä: tummanvaalea iho, puutarhuri, tummanvaalea iho
+🧑🏾‍🌾	farmari, keskitumma iho, maanviljelijä, maanviljelijä: keskitumma iho, puutarhuri
+🧑🏿‍🌾	farmari, maanviljelijä, maanviljelijä: tumma iho, puutarhuri, tumma iho
 👨‍🌾	maanviljelijä, mies, miesmaanviljelijä, puutarhuri, sato
 👨🏻‍🌾	maanviljelijä, mies, miesmaanviljelijä, miesmaanviljelijä: vaalea iho, puutarhuri, sato, vaalea iho
 👨🏼‍🌾	keskivaalea iho, maanviljelijä, mies, miesmaanviljelijä, miesmaanviljelijä: keskivaalea iho, puutarhuri, sato
@@ -757,6 +821,12 @@
 👩🏽‍🌾	maanviljelijä, nainen, naismaanviljelijä, naismaanviljelijä: tummanvaalea iho, puutarhuri, sato, tummanvaalea iho
 👩🏾‍🌾	keskitumma iho, maanviljelijä, nainen, naismaanviljelijä, naismaanviljelijä: keskitumma iho, puutarhuri, sato
 👩🏿‍🌾	maanviljelijä, nainen, naismaanviljelijä, naismaanviljelijä: tumma iho, puutarhuri, sato, tumma iho
+🧑‍🍳	keittiömestari, kokki
+🧑🏻‍🍳	keittiömestari, kokki, kokki: vaalea iho, vaalea iho
+🧑🏼‍🍳	keittiömestari, keskivaalea iho, kokki, kokki: keskivaalea iho
+🧑🏽‍🍳	keittiömestari, kokki, kokki: tummanvaalea iho, tummanvaalea iho
+🧑🏾‍🍳	keittiömestari, keskitumma iho, kokki, kokki: keskitumma iho
+🧑🏿‍🍳	keittiömestari, kokki, kokki: tumma iho, tumma iho
 👨‍🍳	kokki, mies, mieskokki, paistinpannu, ruoka
 👨🏻‍🍳	kokki, mies, mieskokki, mieskokki: vaalea iho, paistinpannu, ruoka, vaalea iho
 👨🏼‍🍳	keskivaalea iho, kokki, mies, mieskokki, mieskokki: keskivaalea iho, paistinpannu, ruoka
@@ -769,6 +839,12 @@
 👩🏽‍🍳	kokki, nainen, naiskokki, naiskokki: tummanvaalea iho, paistinpannu, ruoka, tummanvaalea iho
 👩🏾‍🍳	keskitumma iho, kokki, nainen, naiskokki, naiskokki: keskitumma iho, paistinpannu, ruoka
 👩🏿‍🍳	kokki, nainen, naiskokki, naiskokki: tumma iho, paistinpannu, ruoka, tumma iho
+🧑‍🔧	mekaanikko, putkiasentaja, sähköasentaja, työkalu
+🧑🏻‍🔧	mekaanikko, mekaanikko: vaalea iho, putkiasentaja, sähköasentaja, työkalu, vaalea iho
+🧑🏼‍🔧	keskivaalea iho, mekaanikko, mekaanikko: keskivaalea iho, putkiasentaja, sähköasentaja, työkalu
+🧑🏽‍🔧	mekaanikko, mekaanikko: tummanvaalea iho, putkiasentaja, sähköasentaja, tummanvaalea iho, työkalu
+🧑🏾‍🔧	keskitumma iho, mekaanikko, mekaanikko: keskitumma iho, putkiasentaja, sähköasentaja, työkalu
+🧑🏿‍🔧	mekaanikko, mekaanikko: tumma iho, putkiasentaja, sähköasentaja, tumma iho, työkalu
 👨‍🔧	jakoavain, mekaanikko, mies, miesmekaanikko, työkalu
 👨🏻‍🔧	jakoavain, mekaanikko, mies, miesmekaanikko, miesmekaanikko: vaalea iho, työkalu, vaalea iho
 👨🏼‍🔧	jakoavain, keskivaalea iho, mekaanikko, mies, miesmekaanikko, miesmekaanikko: keskivaalea iho, työkalu
@@ -781,6 +857,12 @@
 👩🏽‍🔧	jakoavain, mekaanikko, nainen, naismekaanikko, naismekaanikko: tummanvaalea iho, tummanvaalea iho, työkalu
 👩🏾‍🔧	jakoavain, keskitumma iho, mekaanikko, nainen, naismekaanikko, naismekaanikko: keskitumma iho, työkalu
 👩🏿‍🔧	jakoavain, mekaanikko, nainen, naismekaanikko, naismekaanikko: tumma iho, tumma iho, työkalu
+🧑‍🏭	kokoaminen, tehdas, tehdastyöntekijä, teollisuus, työntekijä
+🧑🏻‍🏭	kokoaminen, tehdas, tehdastyöntekijä, tehdastyöntekijä: vaalea iho, teollisuus, työntekijä, vaalea iho
+🧑🏼‍🏭	keskivaalea iho, kokoaminen, tehdas, tehdastyöntekijä, tehdastyöntekijä: keskivaalea iho, teollisuus, työntekijä
+🧑🏽‍🏭	kokoaminen, tehdas, tehdastyöntekijä, tehdastyöntekijä: tummanvaalea iho, teollisuus, tummanvaalea iho, työntekijä
+🧑🏾‍🏭	keskitumma iho, kokoaminen, tehdas, tehdastyöntekijä, tehdastyöntekijä: keskitumma iho, teollisuus, työntekijä
+🧑🏿‍🏭	kokoaminen, tehdas, tehdastyöntekijä, tehdastyöntekijä: tumma iho, teollisuus, tumma iho, työntekijä
 👨‍🏭	hitsaaja, mies, miestehdastyöntekijä, tehdas, työntekijä
 👨🏻‍🏭	hitsaaja, mies, miestehdastyöntekijä, miestehdastyöntekijä: vaalea iho, tehdas, työntekijä, vaalea iho
 👨🏼‍🏭	hitsaaja, keskivaalea iho, mies, miestehdastyöntekijä, miestehdastyöntekijä: keskivaalea iho, tehdas, työntekijä
@@ -793,6 +875,12 @@
 👩🏽‍🏭	hitsaaja, nainen, naistehdastyöntekijä, naistehdastyöntekijä: tummanvaalea iho, tehdas, tummanvaalea iho, työntekijä
 👩🏾‍🏭	hitsaaja, keskitumma iho, nainen, naistehdastyöntekijä, naistehdastyöntekijä: keskitumma iho, tehdas, työntekijä
 👩🏿‍🏭	hitsaaja, nainen, naistehdastyöntekijä, naistehdastyöntekijä: tumma iho, tehdas, tumma iho, työntekijä
+🧑‍💼	arkkitehti, toimisto, toimistotyöntekijä, valkokaulus, yritys
+🧑🏻‍💼	arkkitehti, toimisto, toimistotyöntekijä, toimistotyöntekijä: vaalea iho, vaalea iho, valkokaulus, yritys
+🧑🏼‍💼	arkkitehti, keskivaalea iho, toimisto, toimistotyöntekijä, toimistotyöntekijä: keskivaalea iho, valkokaulus, yritys
+🧑🏽‍💼	arkkitehti, toimisto, toimistotyöntekijä, toimistotyöntekijä: tummanvaalea iho, tummanvaalea iho, valkokaulus, yritys
+🧑🏾‍💼	arkkitehti, keskitumma iho, toimisto, toimistotyöntekijä, toimistotyöntekijä: keskitumma iho, valkokaulus, yritys
+🧑🏿‍💼	arkkitehti, toimisto, toimistotyöntekijä, toimistotyöntekijä: tumma iho, tumma iho, valkokaulus, yritys
 👨‍💼	mies, miestoimistotyöntekijä, toimisto, työntekijä, valkokaulus
 👨🏻‍💼	mies, miestoimistotyöntekijä, miestoimistotyöntekijä: vaalea iho, toimisto, työntekijä, vaalea iho, valkokaulus
 👨🏼‍💼	keskivaalea iho, mies, miestoimistotyöntekijä, miestoimistotyöntekijä: keskivaalea iho, toimisto, työntekijä, valkokaulus
@@ -805,6 +893,12 @@
 👩🏽‍💼	nainen, naistoimistotyöntekijä, naistoimistotyöntekijä: tummanvaalea iho, toimisto, tummanvaalea iho, työntekijä, valkokaulus
 👩🏾‍💼	keskitumma iho, nainen, naistoimistotyöntekijä, naistoimistotyöntekijä: keskitumma iho, toimisto, työntekijä, valkokaulus
 👩🏿‍💼	nainen, naistoimistotyöntekijä, naistoimistotyöntekijä: tumma iho, toimisto, tumma iho, työntekijä, valkokaulus
+🧑‍🔬	biologi, insinööri, kemisti, lääkäri, tiede, tutkija
+🧑🏻‍🔬	biologi, insinööri, kemisti, lääkäri, tiede, tutkija, tutkija: vaalea iho, vaalea iho
+🧑🏼‍🔬	biologi, insinööri, kemisti, keskivaalea iho, lääkäri, tiede, tutkija, tutkija: keskivaalea iho
+🧑🏽‍🔬	biologi, insinööri, kemisti, lääkäri, tiede, tummanvaalea iho, tutkija, tutkija: tummanvaalea iho
+🧑🏾‍🔬	biologi, insinööri, kemisti, keskitumma iho, lääkäri, tiede, tutkija, tutkija: keskitumma iho
+🧑🏿‍🔬	biologi, insinööri, kemisti, lääkäri, tiede, tumma iho, tutkija, tutkija: tumma iho
 👨‍🔬	mies, miestutkija, tiede, tutkija
 👨🏻‍🔬	mies, miestutkija, miestutkija: vaalea iho, tiede, tutkija, vaalea iho
 👨🏼‍🔬	keskivaalea iho, mies, miestutkija, miestutkija: keskivaalea iho, tiede, tutkija
@@ -817,6 +911,12 @@
 👩🏽‍🔬	nainen, naistutkija, naistutkija: tummanvaalea iho, tiede, tummanvaalea iho, tutkija
 👩🏾‍🔬	keskitumma iho, nainen, naistutkija, naistutkija: keskitumma iho, tiede, tutkija
 👩🏿‍🔬	nainen, naistutkija, naistutkija: tumma iho, tiede, tumma iho, tutkija
+🧑‍💻	IT-työntekijä, kehittäjä, keksijä, koodari, ohjelmisto
+🧑🏻‍💻	IT-työntekijä, IT-työntekijä: vaalea iho, kehittäjä, keksijä, koodari, ohjelmisto, vaalea iho
+🧑🏼‍💻	IT-työntekijä, IT-työntekijä: keskivaalea iho, kehittäjä, keksijä, keskivaalea iho, koodari, ohjelmisto
+🧑🏽‍💻	IT-työntekijä, IT-työntekijä: tummanvaalea iho, kehittäjä, keksijä, koodari, ohjelmisto, tummanvaalea iho
+🧑🏾‍💻	IT-työntekijä, IT-työntekijä: keskitumma iho, kehittäjä, keksijä, keskitumma iho, koodari, ohjelmisto
+🧑🏿‍💻	IT-työntekijä, IT-työntekijä: tumma iho, kehittäjä, keksijä, koodari, ohjelmisto, tumma iho
 👨‍💻	IT, IT-mies, koodaus, mies, tietokone
 👨🏻‍💻	IT, IT-mies, IT-mies: vaalea iho, koodaus, mies, tietokone, vaalea iho
 👨🏼‍💻	IT, IT-mies, IT-mies: keskivaalea iho, keskivaalea iho, koodaus, mies, tietokone
@@ -829,6 +929,12 @@
 👩🏽‍💻	IT, IT-nainen, IT-nainen: tummanvaalea iho, koodaus, nainen, tietokone, tummanvaalea iho
 👩🏾‍💻	IT, IT-nainen, IT-nainen: keskitumma iho, keskitumma iho, koodaus, nainen, tietokone
 👩🏿‍💻	IT, IT-nainen, IT-nainen: tumma iho, koodaus, nainen, tietokone, tumma iho
+🧑‍🎤	karaoke, laulaja, mikki
+🧑🏻‍🎤	karaoke, laulaja, laulaja: vaalea iho, mikki, vaalea iho
+🧑🏼‍🎤	karaoke, keskivaalea iho, laulaja, laulaja: keskivaalea iho, mikki
+🧑🏽‍🎤	karaoke, laulaja, laulaja: tummanvaalea iho, mikki, tummanvaalea iho
+🧑🏾‍🎤	karaoke, keskitumma iho, laulaja, laulaja: keskitumma iho, mikki
+🧑🏿‍🎤	karaoke, laulaja, laulaja: tumma iho, mikki, tumma iho
 👨‍🎤	karaoke, laulaja, mies, mieslaulaja, mikki
 👨🏻‍🎤	karaoke, laulaja, mies, mieslaulaja, mieslaulaja: vaalea iho, mikki, vaalea iho
 👨🏼‍🎤	karaoke, keskivaalea iho, laulaja, mies, mieslaulaja, mieslaulaja: keskivaalea iho, mikki
@@ -841,6 +947,12 @@
 👩🏽‍🎤	karaoke, laulaja, mikki, nainen, naislaulaja, naislaulaja: tummanvaalea iho, tummanvaalea iho
 👩🏾‍🎤	karaoke, keskitumma iho, laulaja, mikki, nainen, naislaulaja, naislaulaja: keskitumma iho
 👩🏿‍🎤	karaoke, laulaja, mikki, nainen, naislaulaja, naislaulaja: tumma iho, tumma iho
+🧑‍🎨	artisti, paletti, taiteilija
+🧑🏻‍🎨	artisti, artisti: vaalea iho, paletti, taiteilija, vaalea iho
+🧑🏼‍🎨	artisti, artisti: keskivaalea iho, keskivaalea iho, paletti, taiteilija
+🧑🏽‍🎨	artisti, artisti: tummanvaalea iho, paletti, taiteilija, tummanvaalea iho
+🧑🏾‍🎨	artisti, artisti: keskitumma iho, keskitumma iho, paletti, taiteilija
+🧑🏿‍🎨	artisti, artisti: tumma iho, paletti, taiteilija, tumma iho
 👨‍🎨	maalari, mies, miesartisti, taide, taiteilija
 👨🏻‍🎨	maalari, mies, miesartisti, miesartisti: vaalea iho, taide, taiteilija, vaalea iho
 👨🏼‍🎨	keskivaalea iho, maalari, mies, miesartisti, miesartisti: keskivaalea iho, taide, taiteilija
@@ -853,6 +965,12 @@
 👩🏽‍🎨	maalari, nainen, naisartisti, naisartisti: tummanvaalea iho, taide, taiteilija, tummanvaalea iho
 👩🏾‍🎨	keskitumma iho, maalari, nainen, naisartisti, naisartisti: keskitumma iho, taide, taiteilija
 👩🏿‍🎨	maalari, nainen, naisartisti, naisartisti: tumma iho, taide, taiteilija, tumma iho
+🧑‍✈	lentokone, lentäjä, pilotti
+🧑🏻‍✈	lentokone, lentäjä, pilotti, pilotti: vaalea iho, vaalea iho
+🧑🏼‍✈	keskivaalea iho, lentokone, lentäjä, pilotti, pilotti: keskivaalea iho
+🧑🏽‍✈	lentokone, lentäjä, pilotti, pilotti: tummanvaalea iho, tummanvaalea iho
+🧑🏾‍✈	keskitumma iho, lentokone, lentäjä, pilotti, pilotti: keskitumma iho
+🧑🏿‍✈	lentokone, lentäjä, pilotti, pilotti: tumma iho, tumma iho
 👨‍✈	lentokone, lentäjä, mies, miespilotti, pilotti
 👨🏻‍✈	lentokone, lentäjä, mies, miespilotti, miespilotti: vaalea iho, pilotti, vaalea iho
 👨🏼‍✈	keskivaalea iho, lentokone, lentäjä, mies, miespilotti, miespilotti: keskivaalea iho, pilotti
@@ -865,6 +983,12 @@
 👩🏽‍✈	lentokone, lentäjä, nainen, naispilotti, naispilotti: tummanvaalea iho, pilotti, tummanvaalea iho
 👩🏾‍✈	keskitumma iho, lentokone, lentäjä, nainen, naispilotti, naispilotti: keskitumma iho, pilotti
 👩🏿‍✈	lentokone, lentäjä, nainen, naispilotti, naispilotti: tumma iho, pilotti, tumma iho
+🧑‍🚀	astronautti, raketti
+🧑🏻‍🚀	astronautti, astronautti: vaalea iho, raketti, vaalea iho
+🧑🏼‍🚀	astronautti, astronautti: keskivaalea iho, keskivaalea iho, raketti
+🧑🏽‍🚀	astronautti, astronautti: tummanvaalea iho, raketti, tummanvaalea iho
+🧑🏾‍🚀	astronautti, astronautti: keskitumma iho, keskitumma iho, raketti
+🧑🏿‍🚀	astronautti, astronautti: tumma iho, raketti, tumma iho
 👨‍🚀	astronautti, avaruus, mies, miesastronautti
 👨🏻‍🚀	astronautti, avaruus, mies, miesastronautti, miesastronautti: vaalea iho, vaalea iho
 👨🏼‍🚀	astronautti, avaruus, keskivaalea iho, mies, miesastronautti, miesastronautti: keskivaalea iho
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronautti, avaruus, nainen, naisastronautti, naisastronautti: tummanvaalea iho, tummanvaalea iho
 👩🏾‍🚀	astronautti, avaruus, keskitumma iho, nainen, naisastronautti, naisastronautti: keskitumma iho
 👩🏿‍🚀	astronautti, avaruus, nainen, naisastronautti, naisastronautti: tumma iho, tumma iho
+🧑‍🚒	paloauto, pelastaja
+🧑🏻‍🚒	paloauto, pelastaja, pelastaja: vaalea iho, vaalea iho
+🧑🏼‍🚒	keskivaalea iho, paloauto, pelastaja, pelastaja: keskivaalea iho
+🧑🏽‍🚒	paloauto, pelastaja, pelastaja: tummanvaalea iho, tummanvaalea iho
+🧑🏾‍🚒	keskitumma iho, paloauto, pelastaja, pelastaja: keskitumma iho
+🧑🏿‍🚒	paloauto, pelastaja, pelastaja: tumma iho, tumma iho
 👨‍🚒	mies, palomies, tulipalo, tulitaistelija
 👨🏻‍🚒	mies, palomies, palomies: vaalea iho, tulipalo, tulitaistelija, vaalea iho
 👨🏼‍🚒	keskivaalea iho, mies, palomies, palomies: keskivaalea iho, tulipalo, tulitaistelija
@@ -943,6 +1073,7 @@
 💂🏽‍♀	nainen, naisvartija, naisvartija: tummanvaalea iho, tummanvaalea iho, vartija
 💂🏾‍♀	keskitumma iho, nainen, naisvartija, naisvartija: keskitumma iho, vartija
 💂🏿‍♀	nainen, naisvartija, naisvartija: tumma iho, tumma iho, vartija
+🥷	ninja, piilossa, soturi, taistelija, väijyy
 👷	hattu, rakennus, rakennustyöläinen, työmies
 👷🏻	hattu, rakennus, rakennustyöläinen, rakennustyöläinen: vaalea iho, työmies, vaalea iho
 👷🏼	hattu, keskivaalea iho, rakennus, rakennustyöläinen, rakennustyöläinen: keskivaalea iho, työmies
@@ -1003,18 +1134,42 @@
 🧕🏽	hijab, huivipäinen nainen, huivipäinen nainen: tummanvaalea iho, khimār, mantilja, pääliina, silkkihuivi, tichel, tummanvaalea iho
 🧕🏾	hijab, huivipäinen nainen, huivipäinen nainen: keskitumma iho, keskitumma iho, khimār, mantilja, pääliina, silkkihuivi, tichel
 🧕🏿	hijab, huivipäinen nainen, huivipäinen nainen: tumma iho, khimār, mantilja, pääliina, silkkihuivi, tichel, tumma iho
-🤵	mies, smokki, smokkipukuinen mies, sulhanen
-🤵🏻	mies, smokki, smokkipukuinen mies, smokkipukuinen mies: vaalea iho, sulhanen, vaalea iho
-🤵🏼	keskivaalea iho, mies, smokki, smokkipukuinen mies, smokkipukuinen mies: keskivaalea iho, sulhanen
-🤵🏽	mies, smokki, smokkipukuinen mies, smokkipukuinen mies: tummanvaalea iho, sulhanen, tummanvaalea iho
-🤵🏾	keskitumma iho, mies, smokki, smokkipukuinen mies, smokkipukuinen mies: keskitumma iho, sulhanen
-🤵🏿	mies, smokki, smokkipukuinen mies, smokkipukuinen mies: tumma iho, sulhanen, tumma iho
+🤵	henkilö smokissa, ihminen, smokki, smokkipukuinen ihminen, sulhanen
+🤵🏻	henkilö smokissa, henkilö smokissa: vaalea iho, ihminen, smokki, smokkipukuinen ihminen, sulhanen, vaalea iho
+🤵🏼	henkilö smokissa, henkilö smokissa: keskivaalea iho, ihminen, keskivaalea iho, smokki, smokkipukuinen ihminen, sulhanen
+🤵🏽	henkilö smokissa, henkilö smokissa: tummanvaalea iho, ihminen, smokki, smokkipukuinen ihminen, sulhanen, tummanvaalea iho
+🤵🏾	henkilö smokissa, henkilö smokissa: keskitumma iho, ihminen, keskitumma iho, smokki, smokkipukuinen ihminen, sulhanen
+🤵🏿	henkilö smokissa, henkilö smokissa: tumma iho, ihminen, smokki, smokkipukuinen ihminen, sulhanen, tumma iho
+🤵‍♂	mies, mies smokissa, smokki, smokkipukuinen mies
+🤵🏻‍♂	mies, mies smokissa, mies smokissa: vaalea iho, smokki, smokkipukuinen mies, vaalea iho
+🤵🏼‍♂	keskivaalea iho, mies, mies smokissa, mies smokissa: keskivaalea iho, smokki, smokkipukuinen mies
+🤵🏽‍♂	mies, mies smokissa, mies smokissa: tummanvaalea iho, smokki, smokkipukuinen mies, tummanvaalea iho
+🤵🏾‍♂	keskitumma iho, mies, mies smokissa, mies smokissa: keskitumma iho, smokki, smokkipukuinen mies
+🤵🏿‍♂	mies, mies smokissa, mies smokissa: tumma iho, smokki, smokkipukuinen mies, tumma iho
+🤵‍♀	nainen, nainen smokissa, smokki, smokkipukuinen nainen
+🤵🏻‍♀	nainen, nainen smokissa, nainen smokissa: vaalea iho, smokki, smokkipukuinen nainen, vaalea iho
+🤵🏼‍♀	keskivaalea iho, nainen, nainen smokissa, nainen smokissa: keskivaalea iho, smokki, smokkipukuinen nainen
+🤵🏽‍♀	nainen, nainen smokissa, nainen smokissa: tummanvaalea iho, smokki, smokkipukuinen nainen, tummanvaalea iho
+🤵🏾‍♀	keskitumma iho, nainen, nainen smokissa, nainen smokissa: keskitumma iho, smokki, smokkipukuinen nainen
+🤵🏿‍♀	nainen, nainen smokissa, nainen smokissa: tumma iho, smokki, smokkipukuinen nainen, tumma iho
 👰	huntu, huntupäinen morsian, häät, morsian
 👰🏻	huntu, huntupäinen morsian, huntupäinen morsian: vaalea iho, häät, morsian, vaalea iho
 👰🏼	huntu, huntupäinen morsian, huntupäinen morsian: keskivaalea iho, häät, keskivaalea iho, morsian
 👰🏽	huntu, huntupäinen morsian, huntupäinen morsian: tummanvaalea iho, häät, morsian, tummanvaalea iho
 👰🏾	huntu, huntupäinen morsian, huntupäinen morsian: keskitumma iho, häät, keskitumma iho, morsian
 👰🏿	huntu, huntupäinen morsian, huntupäinen morsian: tumma iho, häät, morsian, tumma iho
+👰‍♂	huntu, huntupäinen mies, mies, mies ja huntu
+👰🏻‍♂	huntu, huntupäinen mies, huntupäinen mies: vaalea iho, mies, mies ja huntu, vaalea iho
+👰🏼‍♂	huntu, huntupäinen mies, huntupäinen mies: keskivaalea iho, keskivaalea iho, mies, mies ja huntu
+👰🏽‍♂	huntu, huntupäinen mies, huntupäinen mies: tummanvaalea iho, mies, mies ja huntu, tummanvaalea iho
+👰🏾‍♂	huntu, huntupäinen mies, huntupäinen mies: keskitumma iho, keskitumma iho, mies, mies ja huntu
+👰🏿‍♂	huntu, huntupäinen mies, huntupäinen mies: tumma iho, mies, mies ja huntu, tumma iho
+👰‍♀	huntu, huntupäinen nainen, nainen, nainen ja huntu
+👰🏻‍♀	huntu, huntupäinen nainen, huntupäinen nainen: vaalea iho, nainen, nainen ja huntu, vaalea iho
+👰🏼‍♀	huntu, huntupäinen nainen, huntupäinen nainen: keskivaalea iho, keskivaalea iho, nainen, nainen ja huntu
+👰🏽‍♀	huntu, huntupäinen nainen, huntupäinen nainen: tummanvaalea iho, nainen, nainen ja huntu, tummanvaalea iho
+👰🏾‍♀	huntu, huntupäinen nainen, huntupäinen nainen: keskitumma iho, keskitumma iho, nainen, nainen ja huntu
+👰🏿‍♀	huntu, huntupäinen nainen, huntupäinen nainen: tumma iho, nainen, nainen ja huntu, tumma iho
 🤰	nainen, raskaana, raskaana oleva nainen
 🤰🏻	nainen, raskaana, raskaana oleva nainen, raskaana oleva nainen: vaalea iho, vaalea iho
 🤰🏼	keskivaalea iho, nainen, raskaana, raskaana oleva nainen, raskaana oleva nainen: keskivaalea iho
@@ -1027,6 +1182,24 @@
 🤱🏽	imettää, imetys, imetys: tummanvaalea iho, rintamaito, ruokkia, syöttää, tummanvaalea iho, vauva, äiti
 🤱🏾	imettää, imetys, imetys: keskitumma iho, keskitumma iho, rintamaito, ruokkia, syöttää, vauva, äiti
 🤱🏿	imettää, imetys, imetys: tumma iho, rintamaito, ruokkia, syöttää, tumma iho, vauva, äiti
+👩‍🍼	imettävä, nainen, syöttävä, vauva, vauvaa syöttävä nainen
+👩🏻‍🍼	imettävä, nainen, syöttävä, vaalea iho, vauva, vauvaa syöttävä nainen, vauvaa syöttävä nainen: vaalea iho
+👩🏼‍🍼	imettävä, keskivaalea iho, nainen, syöttävä, vauva, vauvaa syöttävä nainen, vauvaa syöttävä nainen: keskivaalea iho
+👩🏽‍🍼	imettävä, nainen, syöttävä, tummanvaalea iho, vauva, vauvaa syöttävä nainen, vauvaa syöttävä nainen: tummanvaalea iho
+👩🏾‍🍼	imettävä, keskitumma iho, nainen, syöttävä, vauva, vauvaa syöttävä nainen, vauvaa syöttävä nainen: keskitumma iho
+👩🏿‍🍼	imettävä, nainen, syöttävä, tumma iho, vauva, vauvaa syöttävä nainen, vauvaa syöttävä nainen: tumma iho
+👨‍🍼	imettävä, mies, syöttävä, vauva, vauvaa syöttävä mies
+👨🏻‍🍼	imettävä, mies, syöttävä, vaalea iho, vauva, vauvaa syöttävä mies, vauvaa syöttävä mies: vaalea iho
+👨🏼‍🍼	imettävä, keskivaalea iho, mies, syöttävä, vauva, vauvaa syöttävä mies, vauvaa syöttävä mies: keskivaalea iho
+👨🏽‍🍼	imettävä, mies, syöttävä, tummanvaalea iho, vauva, vauvaa syöttävä mies, vauvaa syöttävä mies: tummanvaalea iho
+👨🏾‍🍼	imettävä, keskitumma iho, mies, syöttävä, vauva, vauvaa syöttävä mies, vauvaa syöttävä mies: keskitumma iho
+👨🏿‍🍼	imettävä, mies, syöttävä, tumma iho, vauva, vauvaa syöttävä mies, vauvaa syöttävä mies: tumma iho
+🧑‍🍼	henkilö, imettävä, syöttävä, vauva, vauvaa imettävä henkilö, vauvaa syöttävä henkilö
+🧑🏻‍🍼	henkilö, imettävä, syöttävä, vaalea iho, vauva, vauvaa imettävä henkilö, vauvaa syöttävä henkilö, vauvaa syöttävä henkilö: vaalea iho
+🧑🏼‍🍼	henkilö, imettävä, keskivaalea iho, syöttävä, vauva, vauvaa imettävä henkilö, vauvaa syöttävä henkilö, vauvaa syöttävä henkilö: keskivaalea iho
+🧑🏽‍🍼	henkilö, imettävä, syöttävä, tummanvaalea iho, vauva, vauvaa imettävä henkilö, vauvaa syöttävä henkilö, vauvaa syöttävä henkilö: tummanvaalea iho
+🧑🏾‍🍼	henkilö, imettävä, keskitumma iho, syöttävä, vauva, vauvaa imettävä henkilö, vauvaa syöttävä henkilö, vauvaa syöttävä henkilö: keskitumma iho
+🧑🏿‍🍼	henkilö, imettävä, syöttävä, tumma iho, vauva, vauvaa imettävä henkilö, vauvaa syöttävä henkilö, vauvaa syöttävä henkilö: tumma iho
 👼	enkeli, enkelivauva, fantasia, naama, satu, vauva
 👼🏻	enkeli, enkelivauva, enkelivauva: vaalea iho, fantasia, naama, satu, vaalea iho, vauva
 👼🏼	enkeli, enkelivauva, enkelivauva: keskivaalea iho, fantasia, keskivaalea iho, naama, satu, vauva
@@ -1045,6 +1218,12 @@
 🤶🏽	joulu, joulupukin muori, joulupukin muori: tummanvaalea iho, muori, tummanvaalea iho
 🤶🏾	joulu, joulupukin muori, joulupukin muori: keskitumma iho, keskitumma iho, muori
 🤶🏿	joulu, joulupukin muori, joulupukin muori: tumma iho, muori, tumma iho
+🧑‍🎄	joulutonttu, tonttu
+🧑🏻‍🎄	joulutonttu, tonttu, tonttu: vaalea iho, vaalea iho
+🧑🏼‍🎄	joulutonttu, keskivaalea iho, tonttu, tonttu: keskivaalea iho
+🧑🏽‍🎄	joulutonttu, tonttu, tonttu: tummanvaalea iho, tummanvaalea iho
+🧑🏾‍🎄	joulutonttu, keskitumma iho, tonttu, tonttu: keskitumma iho
+🧑🏿‍🎄	joulutonttu, tonttu, tonttu: tumma iho, tumma iho
 🦸	hyvis, hyvä, sankari, sankaritar, supersankari, supervoimat
 🦸🏻	hyvis, hyvä, sankari, sankaritar, supersankari, supersankari: vaalea iho, supervoimat, vaalea iho
 🦸🏼	hyvis, hyvä, keskivaalea iho, sankari, sankaritar, supersankari, supersankari: keskivaalea iho, supervoimat
@@ -1111,12 +1290,12 @@
 🧚🏽‍♂	Oberon, Puck, hyönteismäinen, mieskeiju, mieskeiju: tummanvaalea iho, siivet, tummanvaalea iho
 🧚🏾‍♂	Oberon, Puck, hyönteismäinen, keskitumma iho, mieskeiju, mieskeiju: keskitumma iho, siivet
 🧚🏿‍♂	Oberon, Puck, hyönteismäinen, mieskeiju, mieskeiju: tumma iho, siivet, tumma iho
-🧚‍♀	Titania, hyönteismäinen, ilmatar, impi, keijukainen, luonnotar, metsänneito, naiskeiju, siivet, sinipiika
-🧚🏻‍♀	Titania, hyönteismäinen, ilmatar, impi, keijukainen, luonnotar, metsänneito, naiskeiju, naiskeiju: vaalea iho, siivet, sinipiika, vaalea iho
-🧚🏼‍♀	Titania, hyönteismäinen, ilmatar, impi, keijukainen, keskivaalea iho, luonnotar, metsänneito, naiskeiju, naiskeiju: keskivaalea iho, siivet, sinipiika
-🧚🏽‍♀	Titania, hyönteismäinen, ilmatar, impi, keijukainen, luonnotar, metsänneito, naiskeiju, naiskeiju: tummanvaalea iho, siivet, sinipiika, tummanvaalea iho
-🧚🏾‍♀	Titania, hyönteismäinen, ilmatar, impi, keijukainen, keskitumma iho, luonnotar, metsänneito, naiskeiju, naiskeiju: keskitumma iho, siivet, sinipiika
-🧚🏿‍♀	Titania, hyönteismäinen, ilmatar, impi, keijukainen, luonnotar, metsänneito, naiskeiju, naiskeiju: tumma iho, siivet, sinipiika, tumma iho
+🧚‍♀	Titania, ilmatar, keijukainen, keijukuningatar, luonnotar, metsänneito, naiskeiju
+🧚🏻‍♀	Titania, ilmatar, keijukainen, keijukuningatar, luonnotar, metsänneito, naiskeiju, naiskeiju: vaalea iho, vaalea iho
+🧚🏼‍♀	Titania, ilmatar, keijukainen, keijukuningatar, keskivaalea iho, luonnotar, metsänneito, naiskeiju, naiskeiju: keskivaalea iho
+🧚🏽‍♀	Titania, ilmatar, keijukainen, keijukuningatar, luonnotar, metsänneito, naiskeiju, naiskeiju: tummanvaalea iho, tummanvaalea iho
+🧚🏾‍♀	Titania, ilmatar, keijukainen, keijukuningatar, keskitumma iho, luonnotar, metsänneito, naiskeiju, naiskeiju: keskitumma iho
+🧚🏿‍♀	Titania, ilmatar, keijukainen, keijukuningatar, luonnotar, metsänneito, naiskeiju, naiskeiju: tumma iho, tumma iho
 🧛	Dracula, elävä kuollut, epäkuollut, hampaat, torahammas, vampyyri, verenhimo, verenimijä
 🧛🏻	Dracula, elävä kuollut, epäkuollut, hampaat, torahammas, vaalea iho, vampyyri, vampyyri: vaalea iho, verenhimo, verenimijä
 🧛🏼	Dracula, elävä kuollut, epäkuollut, hampaat, keskivaalea iho, torahammas, vampyyri, vampyyri: keskivaalea iho, verenhimo, verenimijä
@@ -1141,12 +1320,12 @@
 🧜🏽	Ahti, kalanpyrstö, merenhaltija, merenmies, merenneito, merenväki, merenväki: tummanvaalea iho, pyrstö, tummanvaalea iho, vedenhaltija, vedenväki
 🧜🏾	Ahti, kalanpyrstö, keskitumma iho, merenhaltija, merenmies, merenneito, merenväki, merenväki: keskitumma iho, pyrstö, vedenhaltija, vedenväki
 🧜🏿	Ahti, kalanpyrstö, merenhaltija, merenmies, merenneito, merenväki, merenväki: tumma iho, pyrstö, tumma iho, vedenhaltija, vedenväki
-🧜‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenväki, pyrstö, vedenhaltija, vedenväki, vetehinen
-🧜🏻‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenmies: vaalea iho, merenväki, pyrstö, vaalea iho, vedenhaltija, vedenväki, vetehinen
-🧜🏼‍♂	Ahti, Triton, kalanpyrstö, keskivaalea iho, merenhaltija, merenmies, merenmies: keskivaalea iho, merenväki, pyrstö, vedenhaltija, vedenväki, vetehinen
-🧜🏽‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenmies: tummanvaalea iho, merenväki, pyrstö, tummanvaalea iho, vedenhaltija, vedenväki, vetehinen
-🧜🏾‍♂	Ahti, Triton, kalanpyrstö, keskitumma iho, merenhaltija, merenmies, merenmies: keskitumma iho, merenväki, pyrstö, vedenhaltija, vedenväki, vetehinen
-🧜🏿‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenmies: tumma iho, merenväki, pyrstö, tumma iho, vedenhaltija, vedenväki, vetehinen
+🧜‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenväki, vedenhaltija, vetehinen
+🧜🏻‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenmies: vaalea iho, merenväki, vaalea iho, vedenhaltija, vetehinen
+🧜🏼‍♂	Ahti, Triton, kalanpyrstö, keskivaalea iho, merenhaltija, merenmies, merenmies: keskivaalea iho, merenväki, vedenhaltija, vetehinen
+🧜🏽‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenmies: tummanvaalea iho, merenväki, tummanvaalea iho, vedenhaltija, vetehinen
+🧜🏾‍♂	Ahti, Triton, kalanpyrstö, keskitumma iho, merenhaltija, merenmies, merenmies: keskitumma iho, merenväki, vedenhaltija, vetehinen
+🧜🏿‍♂	Ahti, Triton, kalanpyrstö, merenhaltija, merenmies, merenmies: tumma iho, merenväki, tumma iho, vedenhaltija, vetehinen
 🧜‍♀	kalanpyrstö, merenneito, merenväki, pyrstö, seireeni, vedenväki
 🧜🏻‍♀	kalanpyrstö, merenneito, merenneito: vaalea iho, merenväki, pyrstö, seireeni, vaalea iho, vedenväki
 🧜🏼‍♀	kalanpyrstö, keskivaalea iho, merenneito, merenneito: keskivaalea iho, merenväki, pyrstö, seireeni, vedenväki
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	nainen, polvistuva, polvistuva nainen: tummanvaalea iho, tummanvaalea iho
 🧎🏾‍♀	keskitumma iho, nainen, polvistuva, polvistuva nainen: keskitumma iho
 🧎🏿‍♀	nainen, polvistuva, polvistuva nainen: tumma iho, tumma iho
+🧑‍🦯	esteettömyys, henkilö ja valkoinen keppi, sokea
+🧑🏻‍🦯	esteettömyys, henkilö ja valkoinen keppi, henkilö ja valkoinen keppi: vaalea iho, sokea, vaalea iho
+🧑🏼‍🦯	esteettömyys, henkilö ja valkoinen keppi, henkilö ja valkoinen keppi: keskivaalea iho, keskivaalea iho, sokea
+🧑🏽‍🦯	esteettömyys, henkilö ja valkoinen keppi, henkilö ja valkoinen keppi: tummanvaalea iho, sokea, tummanvaalea iho
+🧑🏾‍🦯	esteettömyys, henkilö ja valkoinen keppi, henkilö ja valkoinen keppi: keskitumma iho, keskitumma iho, sokea
+🧑🏿‍🦯	esteettömyys, henkilö ja valkoinen keppi, henkilö ja valkoinen keppi: tumma iho, sokea, tumma iho
 👨‍🦯	esteettömyys, mies, mies ja valkoinen keppi, sokea
 👨🏻‍🦯	esteettömyys, mies, mies ja valkoinen keppi, mies ja valkoinen keppi: vaalea iho, sokea, vaalea iho
 👨🏼‍🦯	esteettömyys, keskivaalea iho, mies, mies ja valkoinen keppi, mies ja valkoinen keppi: keskivaalea iho, sokea
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	esteettömyys, nainen, nainen ja valkoinen keppi, nainen ja valkoinen keppi: tummanvaalea iho, sokea, tummanvaalea iho
 👩🏾‍🦯	esteettömyys, keskitumma iho, nainen, nainen ja valkoinen keppi, nainen ja valkoinen keppi: keskitumma iho, sokea
 👩🏿‍🦯	esteettömyys, nainen, nainen ja valkoinen keppi, nainen ja valkoinen keppi: tumma iho, sokea, tumma iho
+🧑‍🦼	esteettömyys, henkilö moottoroidussa pyörätuolissa, pyörätuoli
+🧑🏻‍🦼	esteettömyys, henkilö moottoroidussa pyörätuolissa, henkilö moottoroidussa pyörätuolissa: vaalea iho, pyörätuoli, vaalea iho
+🧑🏼‍🦼	esteettömyys, henkilö moottoroidussa pyörätuolissa, henkilö moottoroidussa pyörätuolissa: keskivaalea iho, keskivaalea iho, pyörätuoli
+🧑🏽‍🦼	esteettömyys, henkilö moottoroidussa pyörätuolissa, henkilö moottoroidussa pyörätuolissa: tummanvaalea iho, pyörätuoli, tummanvaalea iho
+🧑🏾‍🦼	esteettömyys, henkilö moottoroidussa pyörätuolissa, henkilö moottoroidussa pyörätuolissa: keskitumma iho, keskitumma iho, pyörätuoli
+🧑🏿‍🦼	esteettömyys, henkilö moottoroidussa pyörätuolissa, henkilö moottoroidussa pyörätuolissa: tumma iho, pyörätuoli, tumma iho
 👨‍🦼	esteettömyys, mies, mies moottoroidussa pyörätuolissa, pyörätuoli
 👨🏻‍🦼	esteettömyys, mies, mies moottoroidussa pyörätuolissa, mies moottoroidussa pyörätuolissa: vaalea iho, pyörätuoli, vaalea iho
 👨🏼‍🦼	esteettömyys, keskivaalea iho, mies, mies moottoroidussa pyörätuolissa, mies moottoroidussa pyörätuolissa: keskivaalea iho, pyörätuoli
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	esteettömyys, nainen, nainen moottoroidussa pyörätuolissa, nainen moottoroidussa pyörätuolissa: tummanvaalea iho, pyörätuoli, tummanvaalea iho
 👩🏾‍🦼	esteettömyys, keskitumma iho, nainen, nainen moottoroidussa pyörätuolissa, nainen moottoroidussa pyörätuolissa: keskitumma iho, pyörätuoli
 👩🏿‍🦼	esteettömyys, nainen, nainen moottoroidussa pyörätuolissa, nainen moottoroidussa pyörätuolissa: tumma iho, pyörätuoli, tumma iho
+🧑‍🦽	esteettömyys, henkilö käsikäyttöisessä pyörätuolissa, pyörätuoli
+🧑🏻‍🦽	esteettömyys, henkilö käsikäyttöisessä pyörätuolissa, henkilö käsikäyttöisessä pyörätuolissa: vaalea iho, pyörätuoli, vaalea iho
+🧑🏼‍🦽	esteettömyys, henkilö käsikäyttöisessä pyörätuolissa, henkilö käsikäyttöisessä pyörätuolissa: keskivaalea iho, keskivaalea iho, pyörätuoli
+🧑🏽‍🦽	esteettömyys, henkilö käsikäyttöisessä pyörätuolissa, henkilö käsikäyttöisessä pyörätuolissa: tummanvaalea iho, pyörätuoli, tummanvaalea iho
+🧑🏾‍🦽	esteettömyys, henkilö käsikäyttöisessä pyörätuolissa, henkilö käsikäyttöisessä pyörätuolissa: keskitumma iho, keskitumma iho, pyörätuoli
+🧑🏿‍🦽	esteettömyys, henkilö käsikäyttöisessä pyörätuolissa, henkilö käsikäyttöisessä pyörätuolissa: tumma iho, pyörätuoli, tumma iho
 👨‍🦽	esteettömyys, mies, mies käsikäyttöisessä pyörätuolissa, pyörätuoli
 👨🏻‍🦽	esteettömyys, mies, mies käsikäyttöisessä pyörätuolissa, mies käsikäyttöisessä pyörätuolissa: vaalea iho, pyörätuoli, vaalea iho
 👨🏼‍🦽	esteettömyys, keskivaalea iho, mies, mies käsikäyttöisessä pyörätuolissa, mies käsikäyttöisessä pyörätuolissa: keskivaalea iho, pyörätuoli
@@ -1643,15 +1840,25 @@
 🛌🏿	hotelli, nukkua, nukkuja, nukkuja: tumma iho, tumma iho, uni
 🧑‍🤝‍🧑	henkilö, ihmiset käsi kädessä, käsi, pari, pitää, pitää toisiaan käsistä
 🧑🏻‍🤝‍🧑🏻	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: vaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, vaalea iho
+🧑🏻‍🤝‍🧑🏼	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: vaalea iho, keskivaalea iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, vaalea iho
+🧑🏻‍🤝‍🧑🏽	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: vaalea iho, tummanvaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tummanvaalea iho, vaalea iho
+🧑🏻‍🤝‍🧑🏾	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: vaalea iho, keskitumma iho, keskitumma iho, käsi, pari, pitää, pitää toisiaan käsistä, vaalea iho
+🧑🏻‍🤝‍🧑🏿	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: vaalea iho, tumma iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho, vaalea iho
 🧑🏼‍🤝‍🧑🏻	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskivaalea iho, vaalea iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, vaalea iho
 🧑🏼‍🤝‍🧑🏼	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskivaalea iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä
+🧑🏼‍🤝‍🧑🏽	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskivaalea iho, tummanvaalea iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tummanvaalea iho
+🧑🏼‍🤝‍🧑🏾	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskivaalea iho, keskitumma iho, keskitumma iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä
+🧑🏼‍🤝‍🧑🏿	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskivaalea iho, tumma iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho
 🧑🏽‍🤝‍🧑🏻	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tummanvaalea iho, vaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tummanvaalea iho, vaalea iho
 🧑🏽‍🤝‍🧑🏼	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tummanvaalea iho, keskivaalea iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tummanvaalea iho
 🧑🏽‍🤝‍🧑🏽	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tummanvaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tummanvaalea iho
+🧑🏽‍🤝‍🧑🏾	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tummanvaalea iho, keskitumma iho, keskitumma iho, käsi, pari, pitää, pitää toisiaan käsistä, tummanvaalea iho
+🧑🏽‍🤝‍🧑🏿	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tummanvaalea iho, tumma iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho, tummanvaalea iho
 🧑🏾‍🤝‍🧑🏻	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskitumma iho, vaalea iho, keskitumma iho, käsi, pari, pitää, pitää toisiaan käsistä, vaalea iho
 🧑🏾‍🤝‍🧑🏼	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskitumma iho, keskivaalea iho, keskitumma iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä
 🧑🏾‍🤝‍🧑🏽	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskitumma iho, tummanvaalea iho, keskitumma iho, käsi, pari, pitää, pitää toisiaan käsistä, tummanvaalea iho
 🧑🏾‍🤝‍🧑🏾	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskitumma iho, keskitumma iho, käsi, pari, pitää, pitää toisiaan käsistä
+🧑🏾‍🤝‍🧑🏿	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: keskitumma iho, tumma iho, keskitumma iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho
 🧑🏿‍🤝‍🧑🏻	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tumma iho, vaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho, vaalea iho
 🧑🏿‍🤝‍🧑🏼	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tumma iho, keskivaalea iho, keskivaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho
 🧑🏿‍🤝‍🧑🏽	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tumma iho, tummanvaalea iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho, tummanvaalea iho
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	henkilö, ihmiset käsi kädessä, ihmiset käsi kädessä: tumma iho, käsi, pari, pitää, pitää toisiaan käsistä, tumma iho
 👭	kaksi naista käsi kädessä, kädestä pitäminen, käsi, nainen, pariskunta
 👭🏻	kaksi naista käsi kädessä, kaksi naista käsi kädessä: vaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, vaalea iho
+👩🏻‍🤝‍👩🏼	kaksi naista käsi kädessä, kaksi naista käsi kädessä: vaalea iho, keskivaalea iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, vaalea iho
+👩🏻‍🤝‍👩🏽	kaksi naista käsi kädessä, kaksi naista käsi kädessä: vaalea iho, tummanvaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tummanvaalea iho, vaalea iho
+👩🏻‍🤝‍👩🏾	kaksi naista käsi kädessä, kaksi naista käsi kädessä: vaalea iho, keskitumma iho, keskitumma iho, kädestä pitäminen, käsi, nainen, pariskunta, vaalea iho
+👩🏻‍🤝‍👩🏿	kaksi naista käsi kädessä, kaksi naista käsi kädessä: vaalea iho, tumma iho, kädestä pitäminen, käsi, nainen, pariskunta, tumma iho, vaalea iho
 👩🏼‍🤝‍👩🏻	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskivaalea iho, vaalea iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, vaalea iho
 👭🏼	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskivaalea iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta
+👩🏼‍🤝‍👩🏽	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskivaalea iho, tummanvaalea iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tummanvaalea iho
+👩🏼‍🤝‍👩🏾	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskivaalea iho, keskitumma iho, keskitumma iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta
+👩🏼‍🤝‍👩🏿	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskivaalea iho, tumma iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tumma iho
 👩🏽‍🤝‍👩🏻	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tummanvaalea iho, vaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tummanvaalea iho, vaalea iho
 👩🏽‍🤝‍👩🏼	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tummanvaalea iho, keskivaalea iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tummanvaalea iho
 👭🏽	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tummanvaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tummanvaalea iho
+👩🏽‍🤝‍👩🏾	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tummanvaalea iho, keskitumma iho, keskitumma iho, kädestä pitäminen, käsi, nainen, pariskunta, tummanvaalea iho
+👩🏽‍🤝‍👩🏿	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tummanvaalea iho, tumma iho, kädestä pitäminen, käsi, nainen, pariskunta, tumma iho, tummanvaalea iho
 👩🏾‍🤝‍👩🏻	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskitumma iho, vaalea iho, keskitumma iho, kädestä pitäminen, käsi, nainen, pariskunta, vaalea iho
 👩🏾‍🤝‍👩🏼	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskitumma iho, keskivaalea iho, keskitumma iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta
 👩🏾‍🤝‍👩🏽	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskitumma iho, tummanvaalea iho, keskitumma iho, kädestä pitäminen, käsi, nainen, pariskunta, tummanvaalea iho
 👭🏾	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskitumma iho, keskitumma iho, kädestä pitäminen, käsi, nainen, pariskunta
+👩🏾‍🤝‍👩🏿	kaksi naista käsi kädessä, kaksi naista käsi kädessä: keskitumma iho, tumma iho, keskitumma iho, kädestä pitäminen, käsi, nainen, pariskunta, tumma iho
 👩🏿‍🤝‍👩🏻	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tumma iho, vaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tumma iho, vaalea iho
 👩🏿‍🤝‍👩🏼	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tumma iho, keskivaalea iho, keskivaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tumma iho
 👩🏿‍🤝‍👩🏽	kaksi naista käsi kädessä, kaksi naista käsi kädessä: tumma iho, tummanvaalea iho, kädestä pitäminen, käsi, nainen, pariskunta, tumma iho, tummanvaalea iho
@@ -1701,15 +1918,25 @@
 👫🏿	kädestä pitäminen, käsi, mies, mies ja nainen käsi kädessä, mies ja nainen käsi kädessä: tumma iho, nainen, pariskunta, tumma iho
 👬	kaksi miestä käsi kädessä, kaksonen, kaksoset, miespari
 👬🏻	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: vaalea iho, kaksonen, kaksoset, miespari, vaalea iho
+👨🏻‍🤝‍👨🏼	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: vaalea iho, keskivaalea iho, kaksonen, kaksoset, keskivaalea iho, miespari, vaalea iho
+👨🏻‍🤝‍👨🏽	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: vaalea iho, tummanvaalea iho, kaksonen, kaksoset, miespari, tummanvaalea iho, vaalea iho
+👨🏻‍🤝‍👨🏾	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: vaalea iho, keskitumma iho, kaksonen, kaksoset, keskitumma iho, miespari, vaalea iho
+👨🏻‍🤝‍👨🏿	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: vaalea iho, tumma iho, kaksonen, kaksoset, miespari, tumma iho, vaalea iho
 👨🏼‍🤝‍👨🏻	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskivaalea iho, vaalea iho, kaksonen, kaksoset, keskivaalea iho, miespari, vaalea iho
 👬🏼	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskivaalea iho, kaksonen, kaksoset, keskivaalea iho, miespari
+👨🏼‍🤝‍👨🏽	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskivaalea iho, tummanvaalea iho, kaksonen, kaksoset, keskivaalea iho, miespari, tummanvaalea iho
+👨🏼‍🤝‍👨🏾	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskivaalea iho, keskitumma iho, kaksonen, kaksoset, keskitumma iho, keskivaalea iho, miespari
+👨🏼‍🤝‍👨🏿	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskivaalea iho, tumma iho, kaksonen, kaksoset, keskivaalea iho, miespari, tumma iho
 👨🏽‍🤝‍👨🏻	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tummanvaalea iho, vaalea iho, kaksonen, kaksoset, miespari, tummanvaalea iho, vaalea iho
 👨🏽‍🤝‍👨🏼	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tummanvaalea iho, keskivaalea iho, kaksonen, kaksoset, keskivaalea iho, miespari, tummanvaalea iho
 👬🏽	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tummanvaalea iho, kaksonen, kaksoset, miespari, tummanvaalea iho
+👨🏽‍🤝‍👨🏾	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tummanvaalea iho, keskitumma iho, kaksonen, kaksoset, keskitumma iho, miespari, tummanvaalea iho
+👨🏽‍🤝‍👨🏿	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tummanvaalea iho, tumma iho, kaksonen, kaksoset, miespari, tumma iho, tummanvaalea iho
 👨🏾‍🤝‍👨🏻	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskitumma iho, vaalea iho, kaksonen, kaksoset, keskitumma iho, miespari, vaalea iho
 👨🏾‍🤝‍👨🏼	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskitumma iho, keskivaalea iho, kaksonen, kaksoset, keskitumma iho, keskivaalea iho, miespari
 👨🏾‍🤝‍👨🏽	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskitumma iho, tummanvaalea iho, kaksonen, kaksoset, keskitumma iho, miespari, tummanvaalea iho
 👬🏾	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskitumma iho, kaksonen, kaksoset, keskitumma iho, miespari
+👨🏾‍🤝‍👨🏿	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: keskitumma iho, tumma iho, kaksonen, kaksoset, keskitumma iho, miespari, tumma iho
 👨🏿‍🤝‍👨🏻	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tumma iho, vaalea iho, kaksonen, kaksoset, miespari, tumma iho, vaalea iho
 👨🏿‍🤝‍👨🏼	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tumma iho, keskivaalea iho, kaksonen, kaksoset, keskivaalea iho, miespari, tumma iho
 👨🏿‍🤝‍👨🏽	kaksi miestä käsi kädessä, kaksi miestä käsi kädessä: tumma iho, tummanvaalea iho, kaksonen, kaksoset, miespari, tumma iho, tummanvaalea iho
@@ -1752,6 +1979,7 @@
 🗣️	naama, puhu, puhuminen, puhuva pää, pää, siluetti
 👤	rintakuva, rintasiluetti, siluetti
 👥	kaksi rintasiluettia, rintakuva, siluetti
+🫂	halaus, hei, kiitos, näkemiin
 👣	jalanjäljet, jalanjäljki, jälki, vaatteet, vartalo
 🦰	punainen tukka, punapää, punatukkainen
 🦱	afrotukka, kihara tukka, kiharatukkainen
@@ -1771,6 +1999,7 @@
 🦝	ovela, pesukarhu, supi, utelias, viekas
 🐱	kissa, kissan naama, lemmikki, naama
 🐈️	kissa, lemmikki
+🐈‍⬛	epäonni, kissa, musta, musta kissa
 🦁	horoskooppi, horoskooppimerkki, leijona, leijonan naama, naama
 🐯	naama, tiikeri, tiikerin naama
 🐅	tiikeri
@@ -1780,6 +2009,7 @@
 🦄	naama, yksisarvinen, yksisarvisen naama
 🦓	nisäkäs, raidallinen, raidat, seepra, valkomusta
 🦌	eläin, hirvi, peura
+🦬	biisoni, lauma, puhveli, visentti
 🐮	lehmä, lehmän naama, naama
 🐂	horoskooppi, horoskooppimerkki, härkä
 🐃	puhveli, vesi, vesipuhveli
@@ -1796,6 +2026,7 @@
 🦙	alpakka, guanako, laama, vikunja, villa
 🦒	kirahvi, läikät
 🐘	elefantti, norsu
+🦣	mammutti, sukupuutto, suuri, torahammas, villainen
 🦏	eläin, sarvikuono
 🦛	virtahepo
 🐭	hiiren naama, hiiri, naama
@@ -1805,9 +2036,11 @@
 🐰	jäniksen naama, jänis, kani, lemmikki, naama, pupu
 🐇	kani, lemmikki, pupu
 🐿️	maaorava, orava
+🦫	majava, pato
 🦔	piikikäs, siili
 🦇	eläin, lepakko, vampyyri
 🐻	karhu, karhun naama, naama
+🐻‍❄	arktinen, jääkarhu, karhu, valkoinen
 🐨	karhu, koala
 🐼	naama, panda, pandan naama
 🦥	hidas, laiska, laiskiainen
@@ -1829,6 +2062,8 @@
 🦆	lintu, sorsa
 🦢	joutsen, lintu, ruma ankanpoikanen
 🦉	lintu, pöllö, viisas
+🦤	Mauritius, dodo, lentokyvytön, sukupuutto
+🪶	höyhen, höyhenet, keveä, lento, lintu
 🦩	flamingo, pramea, trooppinen
 🦚	komeileva, lintu, mahtaileva, pramea, riikinkukko, ylpeä
 🦜	lintu, merirosvo, papukaija, puhe, puhuva
@@ -1844,6 +2079,7 @@
 🐳	naama, suihkuttaa, suihkuttava valas, valas
 🐋	valas
 🐬	delfiini, flipper
+🦭	hylje, merileijona
 🐟️	horoskooppi, horoskooppimerkki, kala, kalat
 🐠	kala, trooppinen, trooppinen kala
 🐡	kala, pallokala
@@ -1855,12 +2091,16 @@
 🐛	hyönteinen, ötökkä
 🐜	hyönteinen, muurahainen
 🐝	hyönteinen, mehiläinen
+🪲	hyönteinen, koppakuoriainen, kuoriainen, ötökkä
 🐞	hyönteinen, leppäkerttu
 🦗	heinäsirkka, sirkka
+🪳	hyönteinen, russakka, torakka, tuholainen
 🕷️	hyönteinen, hämähäkki
 🕸️	hämähäkin seitti, hämähäkki, seitti, verkko
 🦂	horoskooppi, horoskooppimerkki, skorpioni
 🦟	hyttynen, hyönteinen, kuume, malaria, sairaus, sääski, tauti, virus
+🪰	kärpänen, mätänevä, sairaus, tauti, toukka
+🪱	kastemato, loinen, mato
 🦠	ameba, bakteeri, mikrobi, virus
 💐	kasvi, kukka, kukkakimppu, romantiikka
 🌸	kasvi, kirsikankukka, kirsikka, kukka
@@ -1873,6 +2113,7 @@
 🌼	kasvi, kukinta, kukka
 🌷	kasvi, kukka, tulppaani
 🌱	kasvi, taimi, verso
+🪴	hoivata, kasvaa, kasvi, koti, ruukkukasvi
 🌲	ikivihreä, kasvi, puu
 🌳	kasvi, lehtipuu, palmu, puu
 🌴	kasvi, palmu, puu
@@ -1898,8 +2139,10 @@
 🍑	hedelmä, kasvi, persikka
 🍒	hedelmä, kasvi, kirsikat, kirsikka
 🍓	hedelmä, kasvi, mansikka, marja
+🫐	marja, mustikat, mustikka, sininen
 🥝	hedelmä, kiivi, ruoka
 🍅	kasvi, kasvis, tomaatti, vihannes
+🫒	oliivi, ruoka
 🥥	kookospähkinä, palmu
 🥑	avokado, hedelmä, ruoka
 🍆	kasvi, kasvis, munakoiso, vihannes
@@ -1907,6 +2150,7 @@
 🥕	porkkana, ruoka, vihannes
 🌽	kasvi, maissi, maissintähkä, tähkä
 🌶️	jalapeno, kasvi, kuuma, paprika, tulinen
+🫑	capsicum, paprika, vihannes
 🥒	kurkku, ruoka, vihannes
 🥬	kaali, lehtivihannes, pinaattikiinankaali, salaatinlehti, salaatti
 🥦	broccoli, parsakaali
@@ -1918,6 +2162,7 @@
 🍞	leipä, pala
 🥐	croissant, leipä, ranskalainen, ruoka, voisarvi
 🥖	leipä, patonki, ranskalainen, ruoka
+🫓	arepa, lavash, naan, pita, rieska
 🥨	kierretty, pretzel, rinkilä
 🥯	bageli, leivonnainen, rinkeli, vesirinkeli
 🥞	lettu, letut, ohukainen, pannukakku, ruoka
@@ -1934,12 +2179,14 @@
 🥪	kerrosleipä, leipä, täyte, voileipä
 🌮	meksikolainen, taco
 🌯	burrito, meksikolainen
+🫔	käärö, meksikolainen, tamal
 🥙	falafel, kebab, leipä, pita, ruoka, täyte, täytetty pita
 🧆	falafel, kasvispyörykkä, kikherne
 🥚	kananmuna, ruoka
 🍳	kokkaus, paistinpannu, ruoka
 🥘	paella, paellapannu, pata, pataruoka, ruoka
 🍲	pata, ruokakulho
+🫕	fondue, juusto, pata, suklaa, sulatettu, sveitsiläinen
 🥣	aamiainen, kulho ja lusikka, murot
 🥗	ruoka, salaatti, vihreä, vihreä salaatti
 🍿	maissi, popcorn
@@ -1954,7 +2201,7 @@
 🍜	höyryävä, höyryävä kulho, kulho, kuuma, nuudeli, ramen
 🍝	pasta, spagetti
 🍠	bataatti, paahdettu, paahdettu bataatti, paistettu bataatti, uunipaahdettu
-🍢	kebab, merenelävät, oden, tikku
+🍢	merenelävät, oden, tikku, varras
 🍣	raaka kala, riisi, sushi
 🍤	katkarapu, paistettu, paistettu katkarapu, tempura
 🍥	kakku, kala, kalakakku, leivonnainen
@@ -1985,6 +2232,7 @@
 🍼	juoda, maito, pullo, tuttipullo, vauva
 🥛	juoma, lasi, maito, maitolasi
 ☕️	höyryävä, juoda, juoma, kahvi, kuuma, kuuma juoma, tee
+🫖	juoda, pannu, tee, teepannu
 🍵	juoda, juoma, korvaton teekuppi, kuppi, tee, teekuppi
 🍶	baari, juoma, kuppi, pullo, riisiviini, sake
 🍾	baari, juoda, korkki, poksauttaa, pullo, pullo ja korkin poksautus
@@ -1994,8 +2242,9 @@
 🍺	baari, juoda, olut, oluttuoppi, tuoppi
 🍻	baari, juoda, kilisevät oluttuopit, kippis, olut, tuoppi
 🥂	juhlia, juoda, kilisevät lasit, kilistää, lasi
-🥃	juoma, juomalasi, lasi
+🥃	juomalasi, paukku, viina, viski
 🥤	juoma, lasi ja pilli, mehu
+🧋	helmi, kupla, kuplatee, maito, tee
 🧃	juomatetra, pillijuoma
 🧉	juoma, mate
 🧊	jääkuutio, kylmä
@@ -2025,6 +2274,9 @@
 🏛️	antiikki, klassinen rakennus, klassismi, rakennus
 🏗️	rakennus, rakennustyömaa, työmaa
 🧱	laasti, muuri, savi, seinä, tiilet, tiili
+🪨	kallio, kivi, lohkare, painava
+🪵	halko, puu, puutavara, pölkky
+🛖	maja, mökki, savimaja, talo
 🏘️	rakennus, talo, taloryhmä
 🏚️	autiotalo, hylätty, rakennus, talo, tyhjä
 🏠️	rakennus, talo
@@ -2092,6 +2344,7 @@
 🚗	ajoneuvo, auto
 🚘️	ajoneuvo, auto, saapuva auto
 🚙	ajoneuvo, auto, katumaasturi
+🛻	avolava, lava-auto
 🚚	ajoneuvo, auto, kuljetusauto, rekka
 🚛	ajoneuvo, auto, rekka, rekka-auto
 🚜	ajoneuvo, auto, traktori
@@ -2104,6 +2357,7 @@
 🚲️	ajoneuvo, polkupyörä, pyörä
 🛴	lauta, potku, potkulauta
 🛹	rullalauta, skeittilauta
+🛼	luistin, rulla, rullaluistin
 🚏	asema, bussipysäkki, pysäkki
 🛣️	moottoritie, pikatie, tie
 🛤️	juna, junaraide, rautatie
@@ -2274,6 +2528,7 @@
 🪁	leija, leijailla, lennättää
 🎱	biljardi, biljardipallo, kasipallo, pallo, peli
 🔮	ennustaja, ennustus, kristalli, kristallipallo, povaus, taika, tulevaisuus
+🪄	noita, taika, taikasauva, velho
 🧿	amuletti, helmi, nazar-amuletti, paha silmä, taikakalu, talismaani
 🎮️	ohjain, peli, videopeli
 🕹️	joystick, ohjain, sauvaohjain, videopeli
@@ -2281,6 +2536,8 @@
 🎲	noppa, noppakuutio, peli
 🧩	arvoitus, pala, palapeli, vihje, yhteenliittynyt, yhteensopiva
 🧸	lelu, nalle, pehmolelu, teddykarhu, täytetty
+🪅	juhlat, juhlinta, piñata
+🪆	maatuska, maatuskanuket, nukke, venäläinen
 ♠️	kortti, korttipeli, maa, pata
 ♥️	hertta, kortti, korttipeli, maa
 ♦️	kortti, korttipeli, maa, ruutu
@@ -2293,7 +2550,9 @@
 🖼️	kehys, kuva kehyksissä, maalaus, museo, taide
 🎨	maalari, maali, taide, taiteilijan paletti
 🧵	lanka, lankarulla, neula, ompelu, rulla, rullalanka
+🪡	kirjonta, käsinompelu, neula, ompelu, ompeluneula, parsiminen
 🧶	kerä, kutominen, lanka, lankakerä, neulominen, virkkaus
+🪢	kiinnittää, köysi, naru, solmu, solmulla
 👓️	silmä, silmälasit, vaatteet
 🕶️	aurinkolasit, lasit, silmä, silmälasit, tumma
 🥽	hitsaus, silmien suojelu, suojalasit, uimalasit
@@ -2319,6 +2578,7 @@
 👝	asuste, iltalaukku, kirjekuorilaukku, laukku
 🛍️	kauppakassi, laukku, ostoskassit, shoppailu
 🎒	koulu, koululaukku, koulureppu, laukku
+🩴	rantasandaalit, sandaalit, varvassandaali, varvassandaalit, varvastossut
 👞	kenkä, miehen kenkä, mies, vaatteet
 👟	juoksukenkä, kenkä, lenkkarit, urheilu, vaatteet
 🥾	erävaellus, kenkä, patikointi, retkeily, telttailu, vaelluskenkä
@@ -2332,6 +2592,7 @@
 🎩	hattu, silinteri, vaatteet
 🎓️	hattu, juhla, lakki, vaatteet, valmistujaiset, valmistujaislakki
 🧢	hattu, lakki, lippalakki, vaatteet
+🪖	armeija, kypärä, sotilaallinen, sotilas, sotilaskypärä
 ⛑️	apu, hattu, kypärä, kypärä, jossa valkoinen risti, naama, risti
 📿	asuste, helmet, helminauha, rukous, rukoushelmet, uskonto
 💄	huulipuna, kosmetiikkaa, meikit, meikki
@@ -2356,12 +2617,14 @@
 🎧️	korvanappi, kuuloke, nappi, nappikuuloke
 📻️	radio, vastaanotin
 🎷	instrumentti, musiikki, saksofoni
+🪗	haitari, hanuri, harmonikka
 🎸	instrumentti, kitara, musiikki
 🎹	instrumentti, koskettimet, musiikki, piano, syntikka
 🎺	instrumentti, musiikki, torvi, trumpetti
 🎻	instrumentti, jousi, musiikki, viulu
 🪕	banjo, kielisoitin, musiikki
 🥁	musiikki, rumpu, rumpukapula
+🪘	conga, congarumpu, rumpu, rytmi
 📱	kännykkä, matkapuhelin, mobiili, mobiililaite, puhelin
 📲	kännykkä ja nuoli, matkapuhelin, nuoli, puhelin, puhelu, saapuva
 ☎️	lankapuhelin, puhelin
@@ -2415,6 +2678,7 @@
 🔖	kirjanmerkki, merkki
 🏷️	etiketti, kortti, lappu, lipuke
 💰️	raha, rahapussi, rahasäkki, säkki
+🪙	aarre, hopea, kolikko, kulta, metalli, raha
 💴	pankki, raha, seteli, valuutta, yen, yen-seteli
 💵	dollari, dollariseteli, pankki, raha, seteli, valuutta
 💶	euro, euroseteli, pankki, raha, seteli, valuutta
@@ -2423,8 +2687,6 @@
 💳️	kortti, luotto, luottokortti, pankki, raha
 🧾	kirjanpito, kuitti, kulut, tilinpito, todistus, tosite
 💹	kasvu, käyrä, markkinat, nousu, pankki, raha, valuutta, yen, yen ja nouseva käyrä
-💱	pankki, raha, vaihto, valuutanvaihto, valuutta
-💲	dollari, paksu dollarimerkki, raha, valuutta
 ✉️	e-mail, kirje, kirjekuori, sähköposti, viesti
 📧	e-mail, sähköposti, sähköpostiviesti, viesti
 📨	e-mail, saapuva, saapuva kirjekuori, sähköposti, sähköpostiviesti, viesti
@@ -2482,9 +2744,12 @@
 🗡️	ase, teräase, tikari, veitsi
 ⚔️	ase, miekat ristissä, miekka
 🔫	pistooli, pyssy, revolveri, vesipyssy
+🪃	australia, bumerangi, kimmota takaisin, seuraus
 🏹	ase, horoskooppi, horoskooppimerkki, jousi ja nuoli, jousiammunta, jousimies, jousipyssy, työkalu
 🛡️	ase, kilpi
+🪚	käsisaha, puuseppä, saha, sahatavara, työkalu
 🔧	jakoavain, työkalu
+🪛	meisseli, ruuvi, ruuvimeisseli, työkalu
 🔩	mutteri, ruuvi, ruuvi ja mutteri, työkalu
 ⚙️	hammasratas, työkalu
 🗜️	puristin, ruuvipenkki, ruuvipuristin, työkalu
@@ -2492,8 +2757,10 @@
 🦯	esteettömyys, sokea, valkoinen keppi
 🔗	ketju, lenkki
 ⛓️	ketju, ketjut
+🪝	haka, koukku, koukuttaa
 🧰	laatikko, mekaaninen, pakki, työkalu, työkalulaatikko, työkalupakki
 🧲	hevosenkenkä, magneetti, magneettinen, puoleensavetävä
+🪜	askelma, kiivetä, tikapuut, tikkaat
 ⚗️	kemia, tislauskolvi, työkalu
 🧪	kemia, kemisti, koe, koeputki, laboratorio, tiede
 🧫	bakteerikasvusto, bakteerit, biologi, laboratorio, petrimalja, viljely
@@ -2507,26 +2774,35 @@
 🩹	haava, hoito, laastari
 🩺	kuuntelu, lääkäri, stetoskooppi, sydän
 🚪	ovi
+🛗	esteettömyys, hissi
+🪞	heijastus, peilata, peili
+🪟	aukko, ikkuna, kehys, läpinäkyvä, näkymä, raikas ilma
 🛏️	hotelli, nukkua, sänky, uni
 🛋️	hotelli, lamppu, sohva, sohva ja lamppu
 🪑	istua, istuin, istumapaikka, tuoli
 🚽	vessa, vessanpönttö
+🪠	WC, imukuppi, putkimies, viemäripumppu
 🚿	suihku, vesi
 🛁	kylpy, kylpyamme
+🪤	ansa, hiirenloukku, loukku, syötti
 🪒	ajaa parta, partaveitsi, terävä
 🧴	aurinkovoide, hoitoaine, hoitoainepullo, kosteusvoide, sampoo, shampoo
 🧷	hakaneula, punk, punkkari, vaippa
 🧹	harja, lakaisu, luuta, noita, siivous
 🧺	kori, maatalous, piknik, pyykki, pyykkikori
 🧻	paperipyyhkeet, paperirulla, talouspaperi, vessapaperi, wc-paperi
+🪣	sanko, ämpäri
 🧼	kylpy, palasaippua, peseytyminen, saippua, saippuavaahto, siivous
+🪥	hammasharja, hampaat, harja, hygienia, kylpyhuone, puhdas
 🧽	huokoinen, imukykyinen, pesu, pesusieni, sieni, siivous
 🧯	palonsammutin, sammutin, sammuttaa, sammutusväline, tulipalo
 🛒	kärryt, ostaminen, ostokset, ostoskärryt
 🚬	savuke, tupakointi
 ⚰️	arkku, kuolema, ruumisarkku
+🪦	hauta, hautakivi, hautausmaa
 ⚱️	hautajaiset, kuolema, tuhkauurna, uurna
 🗿	Pääsiäissaari, kasvot, kivipatsas, moai, moait, patsas
+🪧	kyltti, mielenosoitus, protesti
 🏧	automaatti, otto, pankki, pankkiautomaatti
 🚮	roska, roskakori, roskat-merkki
 🚰	juoma, juomakelpoista vettä, juotava, vesi
@@ -2625,29 +2901,12 @@
 📴	kielletty, matkapuhelin, matkapuhelin suljettava, pois, puhelin
 ♀️	Venus-symboli, naissymboli
 ♂️	Mars-symboli, miessymboli
-⚕️	Asklepioksen sauva, lääketieteen symboli
-♾️	aina, ikuinen, rajaton, universaali, äärettömyys, ääretön
-♻️	kierrättää, kierrätys, kierrätyssymboli
-⚜	Ranskan lilja, fleur-de-lis, heraldinen lilja, lilja, ranskanlilja
-🔱	ankkuri, atrain, kolme, kolmikärki, laiva, meri
-📛	kyltti, lappu, nimi, nimikyltti
-🔰	Japani, ajokortti, aloittelija, auto, japanilainen symboli aloittelijalle, shoshinsha
-⭕️	O, suuri ympyrä, ympyrä
-✅	V, laatikko, merkki, oikein, rasti, valkoinen valintamerkki
-☑️	V, harmaa oikein-merkki, laatikko, merkki, oikein, punainen oikein-merkki, rasti, vaalit
-✔️	V, merkki, oikein, paksu oikein-merkki, rasti
+⚧️	trans, transsukupuolinen, transsymboli
 ✖️	X, kertolasku, merkki, paksu kertomerkki, peruuta
-❌	X, kertolasku, merkki, peruuta, punainen rastimerkki
-❎	X, kertolasku, laatikko, merkki, peruuta, rastimerkki
 ➕	+, matematiikka, plus, plusmerkki
 ➖	-, matematiikka, miinus, miinusmerkki, vähennys
 ➗	/, jako, jakomerkki, jakoviiva, matematiikka
-➰	kaareva silmukka, silmukka
-➿	2, kaksoissilmukka, nauhuri, silmukka, vastaaja
-〽️	ioriten, japani, merkki, osanvaihtomerkki
-✳️	8, asteriski, kahdeksanpiikkinen tähtimerkki, tähti, tähtimerkki
-✴️	8, asteriski, kahdeksankärkinen tähti, tähti, tähtimerkki
-❇️	kipinä, säihke, tähti
+♾️	aina, ikuinen, rajaton, universaali, äärettömyys, ääretön
 ‼️	2, huutomerkki, kaksoishuutomerkki, merkki, välimerkki
 ⁉️	2, huuto-kysymysmerkki, huutomerkki, kysymysmerkki, merkki, välimerkki
 ❓️	kysymysmerkki, merkki, välimerkki
@@ -2655,6 +2914,26 @@
 ❕	huutomerkki, merkki, valkoinen huutomerkki, välimerkki
 ❗️	huutomerkki, merkki, välimerkki
 〰️	aaltoileva, aaltoviiva, viiva, välimerkki
+💱	pankki, raha, vaihto, valuutanvaihto, valuutta
+💲	dollari, paksu dollarimerkki, raha, valuutta
+⚕️	Asklepioksen sauva, lääketieteen symboli
+♻️	kierrättää, kierrätys, kierrätyssymboli
+⚜	Ranskan lilja, fleur-de-lis, heraldinen lilja, lilja, ranskanlilja
+🔱	ankkuri, atrain, kolme, kolmikärki, laiva, meri
+📛	kyltti, lappu, nimi, nimikyltti
+🔰	Japani, ajokortti, aloittelija, auto, japanilainen symboli aloittelijalle, shoshinsha
+⭕️	O, suuri ympyrä, ympyrä
+✅	V, merkki, rasti, tarkistusmerkki, valkoinen valintamerkki
+☑️	V, merkki, punainen valintamerkki, rasti, tarkistusmerkki
+✔️	V, merkki, paksu valintamerkki, tarkistusmerkki, valintamerkki
+❌	X, kertolasku, merkki, peruuta, punainen rastimerkki
+❎	X, kertolasku, laatikko, merkki, peruuta, rastimerkki
+➰	kaareva silmukka, silmukka
+➿	2, kaksoissilmukka, nauhuri, silmukka, vastaaja
+〽️	ioriten, japani, merkki, osanvaihtomerkki
+✳️	8, asteriski, kahdeksanpiikkinen tähtimerkki, tähti, tähtimerkki
+✴️	8, asteriski, kahdeksankärkinen tähti, tähti, tähtimerkki
+❇️	kipinä, säihke, tähti
 ©️	C, tekijänoikeus, tekijänoikeusmerkki
 ®️	R, rekisteröity, rekisteröity-merkki
 ™️	TM, merkki, tavaramerkki
@@ -2750,6 +3029,7 @@
 🏴	liehuva, lippu, musta, musta lippu
 🏳️	liehuva, lippu, valkoinen, valkoinen lippu
 🏳‍🌈	liehuva, lippu, sateenkaari, sateenkaarilippu
+🏳‍⚧	lippu, trans, translippu, transsukupuolinen
 🏴‍☠	aarre, lippu, merirosvolippu, pääkallolippu, rosvous, ryöstö
 🇦🇨	lippu, lippu: Ascension-saari
 🇦🇩	lippu, lippu: Andorra

@@ -11,7 +11,7 @@
 😉	göz kırpan yüz, göz kırpma, yüz
 😊	ağzı açık gülme, gülümseyen gözler, gülümseyen yüz, gülümseyen yüz ve gözler, yüz
 😇	gülümseme, yüz, ışık halkalı gülümseme, ışık halkası
-🥰	3 kalpli gülümseyen yüz, aşık olma, hayranlık, kalpli gülümseyen yüz, çarpılma
+🥰	3 kalpli gülümseyen yüz, aşık olma, hayranlık, kalpler, kalpli gülümseyen yüz, çarpılma
 😍	aşk, değer verme, gözler, kalp, kalp gözlü gülümseme, yüz
 🤩	gözler, sırıtan, yüz, yıldız, yıldız çarpmış
 😘	yüz, öpücük gönderen yüz
@@ -19,6 +19,7 @@
 ☺️	gülen yüz, içi boş gülen yüz, yüz
 😚	gözler kapalı, gözler kapalı öpüşme, kapalı gözlerle öpen yüz, yüz
 😙	gülen gözlerle öpen yüz, gülümseme, gülümseyen gözler, gülümseyerek öpen yüz, yüz
+🥲	duygulanmış, gururlu, gözyaşı, gözü yaşlı gülümseyen yüz, gülümseme, hislenmiş, minnettar, rahatlamış
 😋	gülümseyen yüz, harika yemek, lezzetli, lezzetli yiyecek beğenen yüz, oh oh harika, yüz
 😛	dil dışarıda, dil dışarıda kalmış, dil çıkarmış yüz, yüz
 😜	dil dışardayken göz kırpma, dili dışarda göz kırpma, göz kırpma, kışkırtma, yüz, şaka
@@ -57,6 +58,7 @@
 🤯	patlayan kafa, şoke
 🤠	kadın kovboy, kovboy, kovboy şapkalı yüz, yüz, şapka
 🥳	kutlama, parti, parti düdüğü, partide eğlenen yüz, şapka
+🥸	burun, gizlenmek, gizlenmiş yüz, gizli, gözlük, kimliğini gizleyen, maskeli, takma ad, yüz
 😎	gülümseme, güneş gözlükleri, güneş gözlükleriyle gülümseme, güneş gözlüklü gülümseme, soğukkanlı Jane, soğukkanlı Joe, yüz
 🤓	bilgili, inek öğrenci, ukala, ukala yüz, yüz
 🧐	kendini beğenmiş, tek cam gözlüklü yüz
@@ -106,7 +108,7 @@
 😻	aşk, gülümseme, kalp, kalp gözlü gülümseyen kedi, kedi, sevgi, yüz
 😼	ironik, iğneleyici, iğneleyici gülümseme, iğneleyici kedi yüzü, kedi, yüz
 😽	göz, kedi, yüz, öpen kedi, öpücük
-🙀	bezgin, kedi, korkuyla bağıran kedi, yüz, şaşkın
+🙀	aman tanrım, kedi, korkuyla bağıran kedi, sahiden şaşırmış, yüz, şaşkın kedi yüzü
 😿	ağlama, ağlayan kedi, göz yaşı, kedi, yüz, üzgün
 😾	kedi, somurtan, somurtan kedi, somurtma, yüz
 🙈	görmedim, görmeyen maymun, maymun
@@ -183,6 +185,12 @@
 👌🏽	Tamam, Tamam el işareti, el, işaret, orta cilt tonu, tamam işareti, tamam işareti: orta cilt tonu
 👌🏾	Tamam, Tamam el işareti, el, işaret, orta koyu cilt tonu, tamam işareti, tamam işareti: orta koyu cilt tonu
 👌🏿	Tamam, Tamam el işareti, el, işaret, koyu cilt tonu, tamam işareti, tamam işareti: koyu cilt tonu
+🤌	bravo, harika, kıstırma hareketi yapan parmaklar, lezzetli, parmaklar, çok güzel
+🤌🏻	açık cilt tonu, bravo, harika, kıstırma hareketi yapan parmaklar, kıstırma hareketi yapan parmaklar: açık cilt tonu, lezzetli, parmaklar, çok güzel
+🤌🏼	bravo, harika, kıstırma hareketi yapan parmaklar, kıstırma hareketi yapan parmaklar: orta açık cilt tonu, lezzetli, orta açık cilt tonu, parmaklar, çok güzel
+🤌🏽	bravo, harika, kıstırma hareketi yapan parmaklar, kıstırma hareketi yapan parmaklar: orta cilt tonu, lezzetli, orta cilt tonu, parmaklar, çok güzel
+🤌🏾	bravo, harika, kıstırma hareketi yapan parmaklar, kıstırma hareketi yapan parmaklar: orta koyu cilt tonu, lezzetli, orta koyu cilt tonu, parmaklar, çok güzel
+🤌🏿	bravo, harika, koyu cilt tonu, kıstırma hareketi yapan parmaklar, kıstırma hareketi yapan parmaklar: koyu cilt tonu, lezzetli, parmaklar, çok güzel
 🤏	azıcık, bir tutam, kıstırma hareketi yapan el
 🤏🏻	azıcık, açık cilt tonu, bir tutam, kıstırma hareketi yapan el, kıstırma hareketi yapan el: açık cilt tonu
 🤏🏼	azıcık, bir tutam, kıstırma hareketi yapan el, kıstırma hareketi yapan el: orta açık cilt tonu, orta açık cilt tonu
@@ -379,7 +387,9 @@
 👃🏾	burun, burun: orta koyu cilt tonu, gövde, orta koyu cilt tonu, yüz
 👃🏿	burun, burun: koyu cilt tonu, gövde, koyu cilt tonu, yüz
 🧠	beyin, zeki
-🦷	diş, dişçi
+🫀	kalp, kalp atışı, kardiyoloji, merkez, nabız, organ
+🫁	akciğer, nefes, organ, soluk, solunum
+🦷	diş, diş hekimi, dişçi
 🦴	iskelet, kemik
 👀	gözler, yüz
 👁️	beden, göz
@@ -421,6 +431,30 @@
 👱🏽	orta cilt tonu, sarı saçlı kişi, sarışın, sarışın kişi, sarışın kişi: orta cilt tonu, saç
 👱🏾	orta koyu cilt tonu, sarı saçlı kişi, sarışın, sarışın kişi, sarışın kişi: orta koyu cilt tonu, saç
 👱🏿	koyu cilt tonu, sarı saçlı kişi, sarışın, sarışın kişi, sarışın kişi: koyu cilt tonu, saç
+🧑‍🦰	kişi, kızıl saç, yetişkin, yetişkin: kızıl saç
+🧑🏻‍🦰	açık cilt tonu, kişi, kızıl saç, yetişkin, yetişkin: açık cilt tonu kızıl saç
+🧑🏼‍🦰	kişi, kızıl saç, orta açık cilt tonu, yetişkin, yetişkin: orta açık cilt tonu kızıl saç
+🧑🏽‍🦰	kişi, kızıl saç, orta cilt tonu, yetişkin, yetişkin: orta cilt tonu kızıl saç
+🧑🏾‍🦰	kişi, kızıl saç, orta koyu cilt tonu, yetişkin, yetişkin: orta koyu cilt tonu kızıl saç
+🧑🏿‍🦰	kişi, koyu cilt tonu, kızıl saç, yetişkin, yetişkin: koyu cilt tonu kızıl saç
+🧑‍🦱	kişi, kıvırcık saç, yetişkin, yetişkin: kıvırcık saç
+🧑🏻‍🦱	açık cilt tonu, kişi, kıvırcık saç, yetişkin, yetişkin: açık cilt tonu kıvırcık saç
+🧑🏼‍🦱	kişi, kıvırcık saç, orta açık cilt tonu, yetişkin, yetişkin: orta açık cilt tonu kıvırcık saç
+🧑🏽‍🦱	kişi, kıvırcık saç, orta cilt tonu, yetişkin, yetişkin: orta cilt tonu kıvırcık saç
+🧑🏾‍🦱	kişi, kıvırcık saç, orta koyu cilt tonu, yetişkin, yetişkin: orta koyu cilt tonu kıvırcık saç
+🧑🏿‍🦱	kişi, koyu cilt tonu, kıvırcık saç, yetişkin, yetişkin: koyu cilt tonu kıvırcık saç
+🧑‍🦳	beyaz saç, kişi, yetişkin, yetişkin: beyaz saç
+🧑🏻‍🦳	açık cilt tonu, beyaz saç, kişi, yetişkin, yetişkin: açık cilt tonu beyaz saç
+🧑🏼‍🦳	beyaz saç, kişi, orta açık cilt tonu, yetişkin, yetişkin: orta açık cilt tonu beyaz saç
+🧑🏽‍🦳	beyaz saç, kişi, orta cilt tonu, yetişkin, yetişkin: orta cilt tonu beyaz saç
+🧑🏾‍🦳	beyaz saç, kişi, orta koyu cilt tonu, yetişkin, yetişkin: orta koyu cilt tonu beyaz saç
+🧑🏿‍🦳	beyaz saç, kişi, koyu cilt tonu, yetişkin, yetişkin: koyu cilt tonu beyaz saç
+🧑‍🦲	kel, kişi, yetişkin, yetişkin: kel
+🧑🏻‍🦲	açık cilt tonu, kel, kişi, yetişkin, yetişkin: açık cilt tonu kel
+🧑🏼‍🦲	kel, kişi, orta açık cilt tonu, yetişkin, yetişkin: orta açık cilt tonu kel
+🧑🏽‍🦲	kel, kişi, orta cilt tonu, yetişkin, yetişkin: orta cilt tonu kel
+🧑🏾‍🦲	kel, kişi, orta koyu cilt tonu, yetişkin, yetişkin: orta koyu cilt tonu kel
+🧑🏿‍🦲	kel, kişi, koyu cilt tonu, yetişkin, yetişkin: koyu cilt tonu kel
 👨	erkek, kişiler
 👨🏻	açık cilt tonu, erkek, erkek: açık cilt tonu, kişiler
 👨🏼	erkek, erkek: orta açık cilt tonu, kişiler, orta açık cilt tonu
@@ -697,6 +731,12 @@
 🤷🏽‍♀	bayan, cahillik, ilgisizlik, kadın, omuz silken kadın, omuz silken kadın: orta cilt tonu, omuz silkme, orta cilt tonu, şüphe
 🤷🏾‍♀	bayan, cahillik, ilgisizlik, kadın, omuz silken kadın, omuz silken kadın: orta koyu cilt tonu, omuz silkme, orta koyu cilt tonu, şüphe
 🤷🏿‍♀	bayan, cahillik, ilgisizlik, kadın, koyu cilt tonu, omuz silken kadın, omuz silken kadın: koyu cilt tonu, omuz silkme, şüphe
+🧑‍⚕	doktor, hasta bakıcı, hemşire, sağlık personeli, sağlık çalışanı, terapist
+🧑🏻‍⚕	açık cilt tonu, doktor, hasta bakıcı, hemşire, sağlık personeli, sağlık çalışanı, sağlık çalışanı: açık cilt tonu, terapist
+🧑🏼‍⚕	doktor, hasta bakıcı, hemşire, orta açık cilt tonu, sağlık personeli, sağlık çalışanı, sağlık çalışanı: orta açık cilt tonu, terapist
+🧑🏽‍⚕	doktor, hasta bakıcı, hemşire, orta cilt tonu, sağlık personeli, sağlık çalışanı, sağlık çalışanı: orta cilt tonu, terapist
+🧑🏾‍⚕	doktor, hasta bakıcı, hemşire, orta koyu cilt tonu, sağlık personeli, sağlık çalışanı, sağlık çalışanı: orta koyu cilt tonu, terapist
+🧑🏿‍⚕	doktor, hasta bakıcı, hemşire, koyu cilt tonu, sağlık personeli, sağlık çalışanı, sağlık çalışanı: koyu cilt tonu, terapist
 👨‍⚕	adam, doktor, erkek, erkek sağlık çalışanı, hastabakıcı, sağlık, terapist
 👨🏻‍⚕	adam, açık cilt tonu, doktor, erkek, erkek sağlık çalışanı, erkek sağlık çalışanı: açık cilt tonu, hastabakıcı, sağlık, terapist
 👨🏼‍⚕	adam, doktor, erkek, erkek sağlık çalışanı, erkek sağlık çalışanı: orta açık cilt tonu, hastabakıcı, orta açık cilt tonu, sağlık, terapist
@@ -709,6 +749,12 @@
 👩🏽‍⚕	bayan, doktor, hemşire, kadın, kadın sağlık çalışanı, kadın sağlık çalışanı: orta cilt tonu, orta cilt tonu, sağlık, terapist
 👩🏾‍⚕	bayan, doktor, hemşire, kadın, kadın sağlık çalışanı, kadın sağlık çalışanı: orta koyu cilt tonu, orta koyu cilt tonu, sağlık, terapist
 👩🏿‍⚕	bayan, doktor, hemşire, kadın, kadın sağlık çalışanı, kadın sağlık çalışanı: koyu cilt tonu, koyu cilt tonu, sağlık, terapist
+🧑‍🎓	mezun, talebe, öğrenci
+🧑🏻‍🎓	açık cilt tonu, mezun, talebe, öğrenci, öğrenci: açık cilt tonu
+🧑🏼‍🎓	mezun, orta açık cilt tonu, talebe, öğrenci, öğrenci: orta açık cilt tonu
+🧑🏽‍🎓	mezun, orta cilt tonu, talebe, öğrenci, öğrenci: orta cilt tonu
+🧑🏾‍🎓	mezun, orta koyu cilt tonu, talebe, öğrenci, öğrenci: orta koyu cilt tonu
+🧑🏿‍🎓	koyu cilt tonu, mezun, talebe, öğrenci, öğrenci: koyu cilt tonu
 👨‍🎓	adam, erkek, erkek öğrenci, mezun, öğrenci
 👨🏻‍🎓	adam, açık cilt tonu, erkek, erkek öğrenci: açık cilt tonu, mezun, öğrenci
 👨🏼‍🎓	adam, erkek, erkek öğrenci: orta açık cilt tonu, mezun, orta açık cilt tonu, öğrenci
@@ -721,6 +767,12 @@
 👩🏽‍🎓	bayan, kadın, kız öğrenci, kız öğrenci: orta cilt tonu, mezun, orta cilt tonu, öğrenci
 👩🏾‍🎓	bayan, kadın, kız öğrenci, kız öğrenci: orta koyu cilt tonu, mezun, orta koyu cilt tonu, öğrenci
 👩🏿‍🎓	bayan, kadın, koyu cilt tonu, kız öğrenci, kız öğrenci: koyu cilt tonu, mezun, öğrenci
+🧑‍🏫	doçent, eğitimci, profesör, öğretmen
+🧑🏻‍🏫	açık cilt tonu, doçent, eğitimci, profesör, öğretmen, öğretmen: açık cilt tonu
+🧑🏼‍🏫	doçent, eğitimci, orta açık cilt tonu, profesör, öğretmen, öğretmen: orta açık cilt tonu
+🧑🏽‍🏫	doçent, eğitimci, orta cilt tonu, profesör, öğretmen, öğretmen: orta cilt tonu
+🧑🏾‍🏫	doçent, eğitimci, orta koyu cilt tonu, profesör, öğretmen, öğretmen: orta koyu cilt tonu
+🧑🏿‍🏫	doçent, eğitimci, koyu cilt tonu, profesör, öğretmen, öğretmen: koyu cilt tonu
 👨‍🏫	adam, erkek, erkek öğretmen, eğitmen, profesör, öğretmen
 👨🏻‍🏫	adam, açık cilt tonu, erkek, erkek öğretmen: açık cilt tonu, eğitmen, profesör, öğretmen
 👨🏼‍🏫	adam, erkek, erkek öğretmen: orta açık cilt tonu, eğitmen, orta açık cilt tonu, profesör, öğretmen
@@ -733,6 +785,12 @@
 👩🏽‍🏫	bayan, eğitmen, kadın, kadın öğretmen: orta cilt tonu, orta cilt tonu, profesör, öğretmen
 👩🏾‍🏫	bayan, eğitmen, kadın, kadın öğretmen: orta koyu cilt tonu, orta koyu cilt tonu, profesör, öğretmen
 👩🏿‍🏫	bayan, eğitmen, kadın, kadın öğretmen: koyu cilt tonu, koyu cilt tonu, profesör, öğretmen
+🧑‍⚖	adalet, hakim, terazi, yargıç
+🧑🏻‍⚖	adalet, açık cilt tonu, hakim, hakim: açık cilt tonu, terazi, yargıç
+🧑🏼‍⚖	adalet, hakim, hakim: orta açık cilt tonu, orta açık cilt tonu, terazi, yargıç
+🧑🏽‍⚖	adalet, hakim, hakim: orta cilt tonu, orta cilt tonu, terazi, yargıç
+🧑🏾‍⚖	adalet, hakim, hakim: orta koyu cilt tonu, orta koyu cilt tonu, terazi, yargıç
+🧑🏿‍⚖	adalet, hakim, hakim: koyu cilt tonu, koyu cilt tonu, terazi, yargıç
 👨‍⚖	adalet, adam, erkek, erkek hakim, terazi, yargıç
 👨🏻‍⚖	adalet, adam, açık cilt tonu, erkek, erkek hakim, erkek hakim: açık cilt tonu, terazi, yargıç
 👨🏼‍⚖	adalet, adam, erkek, erkek hakim, erkek hakim: orta açık cilt tonu, orta açık cilt tonu, terazi, yargıç
@@ -745,6 +803,12 @@
 👩🏽‍⚖	adalet, bayan, kadın, kadın hakim, kadın hakim: orta cilt tonu, orta cilt tonu, terazi
 👩🏾‍⚖	adalet, bayan, kadın, kadın hakim, kadın hakim: orta koyu cilt tonu, orta koyu cilt tonu, terazi
 👩🏿‍⚖	adalet, bayan, kadın, kadın hakim, kadın hakim: koyu cilt tonu, koyu cilt tonu, terazi
+🧑‍🌾	bahçıvan, rençper, çiftçi
+🧑🏻‍🌾	açık cilt tonu, bahçıvan, rençper, çiftçi, çiftçi: açık cilt tonu
+🧑🏼‍🌾	bahçıvan, orta açık cilt tonu, rençper, çiftçi, çiftçi: orta açık cilt tonu
+🧑🏽‍🌾	bahçıvan, orta cilt tonu, rençper, çiftçi, çiftçi: orta cilt tonu
+🧑🏾‍🌾	bahçıvan, orta koyu cilt tonu, rençper, çiftçi, çiftçi: orta koyu cilt tonu
+🧑🏿‍🌾	bahçıvan, koyu cilt tonu, rençper, çiftçi, çiftçi: koyu cilt tonu
 👨‍🌾	adam, bahçıvan, erkek, erkek çiftçi, çiftlik sahibi, çiftçi
 👨🏻‍🌾	adam, açık cilt tonu, bahçıvan, erkek, erkek çiftçi: açık cilt tonu, çiftlik sahibi, çiftçi
 👨🏼‍🌾	adam, bahçıvan, erkek, erkek çiftçi: orta açık cilt tonu, orta açık cilt tonu, çiftlik sahibi, çiftçi
@@ -757,6 +821,12 @@
 👩🏽‍🌾	bahçıvan, bayan, kadın, kadın çiftçi: orta cilt tonu, orta cilt tonu, çiftlik sahibi, çiftçi
 👩🏾‍🌾	bahçıvan, bayan, kadın, kadın çiftçi: orta koyu cilt tonu, orta koyu cilt tonu, çiftlik sahibi, çiftçi
 👩🏿‍🌾	bahçıvan, bayan, kadın, kadın çiftçi: koyu cilt tonu, koyu cilt tonu, çiftlik sahibi, çiftçi
+🧑‍🍳	aşçı, yemek pişirme
+🧑🏻‍🍳	açık cilt tonu, aşçı, aşçı: açık cilt tonu, yemek pişirme
+🧑🏼‍🍳	aşçı, aşçı: orta açık cilt tonu, orta açık cilt tonu, yemek pişirme
+🧑🏽‍🍳	aşçı, aşçı: orta cilt tonu, orta cilt tonu, yemek pişirme
+🧑🏾‍🍳	aşçı, aşçı: orta koyu cilt tonu, orta koyu cilt tonu, yemek pişirme
+🧑🏿‍🍳	aşçı, aşçı: koyu cilt tonu, koyu cilt tonu, yemek pişirme
 👨‍🍳	adam, erkek, erkek aşçı, yemek yapma, şef
 👨🏻‍🍳	adam, açık cilt tonu, erkek, erkek aşçı, erkek aşçı: açık cilt tonu, yemek yapma, şef
 👨🏼‍🍳	adam, erkek, erkek aşçı, erkek aşçı: orta açık cilt tonu, orta açık cilt tonu, yemek yapma, şef
@@ -769,6 +839,12 @@
 👩🏽‍🍳	bayan, kadın, kadın aşçı, kadın aşçı: orta cilt tonu, orta cilt tonu, yemek yapma, şef
 👩🏾‍🍳	bayan, kadın, kadın aşçı, kadın aşçı: orta koyu cilt tonu, orta koyu cilt tonu, yemek yapma, şef
 👩🏿‍🍳	bayan, kadın, kadın aşçı, kadın aşçı: koyu cilt tonu, koyu cilt tonu, yemek yapma, şef
+🧑‍🔧	elektrikçi, tamirci, tesisatçı
+🧑🏻‍🔧	açık cilt tonu, elektrikçi, tamirci, tamirci: açık cilt tonu, tesisatçı
+🧑🏼‍🔧	elektrikçi, orta açık cilt tonu, tamirci, tamirci: orta açık cilt tonu, tesisatçı
+🧑🏽‍🔧	elektrikçi, orta cilt tonu, tamirci, tamirci: orta cilt tonu, tesisatçı
+🧑🏾‍🔧	elektrikçi, orta koyu cilt tonu, tamirci, tamirci: orta koyu cilt tonu, tesisatçı
+🧑🏿‍🔧	elektrikçi, koyu cilt tonu, tamirci, tamirci: koyu cilt tonu, tesisatçı
 👨‍🔧	adam, elektrikçi, erkek, erkek tamirci, esnaf, tamirci, tesisatçı
 👨🏻‍🔧	adam, açık cilt tonu, elektrikçi, erkek, erkek tamirci: açık cilt tonu, esnaf, tamirci, tesisatçı
 👨🏼‍🔧	adam, elektrikçi, erkek, erkek tamirci: orta açık cilt tonu, esnaf, orta açık cilt tonu, tamirci, tesisatçı
@@ -781,6 +857,12 @@
 👩🏽‍🔧	bayan, elektrikçi, esnaf, kadın, kadın tamirci: orta cilt tonu, orta cilt tonu, tamirci, tesisatçı
 👩🏾‍🔧	bayan, elektrikçi, esnaf, kadın, kadın tamirci: orta koyu cilt tonu, orta koyu cilt tonu, tamirci, tesisatçı
 👩🏿‍🔧	bayan, elektrikçi, esnaf, kadın, kadın tamirci: koyu cilt tonu, koyu cilt tonu, tamirci, tesisatçı
+🧑‍🏭	endüstri, fabrika, fabrika işçisi, işçi, montaj, sanayi
+🧑🏻‍🏭	açık cilt tonu, endüstri, fabrika, fabrika işçisi, fabrika işçisi: açık cilt tonu, işçi, montaj, sanayi
+🧑🏼‍🏭	endüstri, fabrika, fabrika işçisi, fabrika işçisi: orta açık cilt tonu, işçi, montaj, orta açık cilt tonu, sanayi
+🧑🏽‍🏭	endüstri, fabrika, fabrika işçisi, fabrika işçisi: orta cilt tonu, işçi, montaj, orta cilt tonu, sanayi
+🧑🏾‍🏭	endüstri, fabrika, fabrika işçisi, fabrika işçisi: orta koyu cilt tonu, işçi, montaj, orta koyu cilt tonu, sanayi
+🧑🏿‍🏭	endüstri, fabrika, fabrika işçisi, fabrika işçisi: koyu cilt tonu, işçi, koyu cilt tonu, montaj, sanayi
 👨‍🏭	adam, erkek, erkek fabrika işçisi, fabrika, işçi, montaj, sanayi
 👨🏻‍🏭	adam, açık cilt tonu, erkek, erkek fabrika işçisi, erkek fabrika işçisi: açık cilt tonu, fabrika, işçi, montaj, sanayi
 👨🏼‍🏭	adam, erkek, erkek fabrika işçisi, erkek fabrika işçisi: orta açık cilt tonu, fabrika, işçi, montaj, orta açık cilt tonu, sanayi
@@ -793,6 +875,12 @@
 👩🏽‍🏭	bayan, fabrika, işçi, kadın, kadın fabrika işçisi, kadın fabrika işçisi: orta cilt tonu, montaj, orta cilt tonu, sanayi
 👩🏾‍🏭	bayan, fabrika, işçi, kadın, kadın fabrika işçisi, kadın fabrika işçisi: orta koyu cilt tonu, montaj, orta koyu cilt tonu, sanayi
 👩🏿‍🏭	bayan, fabrika, işçi, kadın, kadın fabrika işçisi, kadın fabrika işçisi: koyu cilt tonu, koyu cilt tonu, montaj, sanayi
+🧑‍💼	beyaz yakalı, iş yeri, mimar, müdür, ofis çalışanı, yönetici
+🧑🏻‍💼	açık cilt tonu, beyaz yakalı, iş yeri, mimar, müdür, ofis çalışanı, ofis çalışanı: açık cilt tonu, yönetici
+🧑🏼‍💼	beyaz yakalı, iş yeri, mimar, müdür, ofis çalışanı, ofis çalışanı: orta açık cilt tonu, orta açık cilt tonu, yönetici
+🧑🏽‍💼	beyaz yakalı, iş yeri, mimar, müdür, ofis çalışanı, ofis çalışanı: orta cilt tonu, orta cilt tonu, yönetici
+🧑🏾‍💼	beyaz yakalı, iş yeri, mimar, müdür, ofis çalışanı, ofis çalışanı: orta koyu cilt tonu, orta koyu cilt tonu, yönetici
+🧑🏿‍💼	beyaz yakalı, iş yeri, koyu cilt tonu, mimar, müdür, ofis çalışanı, ofis çalışanı: koyu cilt tonu, yönetici
 👨‍💼	adam, beyaz yaka, erkek, erkek ofis çalışanı, iş, mimar, ofis, yönetici
 👨🏻‍💼	adam, açık cilt tonu, beyaz yaka, erkek, erkek ofis çalışanı, erkek ofis çalışanı: açık cilt tonu, iş, mimar, ofis, yönetici
 👨🏼‍💼	adam, beyaz yaka, erkek, erkek ofis çalışanı, erkek ofis çalışanı: orta açık cilt tonu, iş, mimar, ofis, orta açık cilt tonu, yönetici
@@ -805,6 +893,12 @@
 👩🏽‍💼	bayan, beyaz yaka, iş, kadın, kadın ofis çalışanı, kadın ofis çalışanı: orta cilt tonu, mimar, ofis, orta cilt tonu, yönetici
 👩🏾‍💼	bayan, beyaz yaka, iş, kadın, kadın ofis çalışanı, kadın ofis çalışanı: orta koyu cilt tonu, mimar, ofis, orta koyu cilt tonu, yönetici
 👩🏿‍💼	bayan, beyaz yaka, iş, kadın, kadın ofis çalışanı, kadın ofis çalışanı: koyu cilt tonu, koyu cilt tonu, mimar, ofis, yönetici
+🧑‍🔬	bilim insanı, biyolog, fizikçi, kimyacı, kimyager
+🧑🏻‍🔬	açık cilt tonu, bilim insanı, bilim insanı: açık cilt tonu, biyolog, fizikçi, kimyacı, kimyager
+🧑🏼‍🔬	bilim insanı, bilim insanı: orta açık cilt tonu, biyolog, fizikçi, kimyacı, kimyager, orta açık cilt tonu
+🧑🏽‍🔬	bilim insanı, bilim insanı: orta cilt tonu, biyolog, fizikçi, kimyacı, kimyager, orta cilt tonu
+🧑🏾‍🔬	bilim insanı, bilim insanı: orta koyu cilt tonu, biyolog, fizikçi, kimyacı, kimyager, orta koyu cilt tonu
+🧑🏿‍🔬	bilim insanı, bilim insanı: koyu cilt tonu, biyolog, fizikçi, kimyacı, kimyager, koyu cilt tonu
 👨‍🔬	adam, bilim adamı, biyolog, erkek, erkek bilim insanı, fizikçi, kimyacı, matematikçi, mühendis
 👨🏻‍🔬	adam, açık cilt tonu, bilim adamı, biyolog, erkek, erkek bilim insanı, erkek bilim insanı: açık cilt tonu, fizikçi, kimyacı, matematikçi, mühendis
 👨🏼‍🔬	adam, bilim adamı, biyolog, erkek, erkek bilim insanı, erkek bilim insanı: orta açık cilt tonu, fizikçi, kimyacı, matematikçi, mühendis, orta açık cilt tonu
@@ -817,6 +911,12 @@
 👩🏽‍🔬	bayan, bilim adamı, biyolog, fizikçi, kadın, kadın bilim insanı, kadın bilim insanı: orta cilt tonu, kimyacı, matematikçi, mühendis, orta cilt tonu
 👩🏾‍🔬	bayan, bilim adamı, biyolog, fizikçi, kadın, kadın bilim insanı, kadın bilim insanı: orta koyu cilt tonu, kimyacı, matematikçi, mühendis, orta koyu cilt tonu
 👩🏿‍🔬	bayan, bilim adamı, biyolog, fizikçi, kadın, kadın bilim insanı, kadın bilim insanı: koyu cilt tonu, kimyacı, koyu cilt tonu, matematikçi, mühendis
+🧑‍💻	geliştirici, kodlayıcı, mucit, teknolog, teknoloji uzmanı, yazılım, yazılımcı
+🧑🏻‍💻	açık cilt tonu, geliştirici, kodlayıcı, mucit, teknolog, teknoloji uzmanı, teknoloji uzmanı: açık cilt tonu, yazılım, yazılımcı
+🧑🏼‍💻	geliştirici, kodlayıcı, mucit, orta açık cilt tonu, teknolog, teknoloji uzmanı, teknoloji uzmanı: orta açık cilt tonu, yazılım, yazılımcı
+🧑🏽‍💻	geliştirici, kodlayıcı, mucit, orta cilt tonu, teknolog, teknoloji uzmanı, teknoloji uzmanı: orta cilt tonu, yazılım, yazılımcı
+🧑🏾‍💻	geliştirici, kodlayıcı, mucit, orta koyu cilt tonu, teknolog, teknoloji uzmanı, teknoloji uzmanı: orta koyu cilt tonu, yazılım, yazılımcı
+🧑🏿‍💻	geliştirici, kodlayıcı, koyu cilt tonu, mucit, teknolog, teknoloji uzmanı, teknoloji uzmanı: koyu cilt tonu, yazılım, yazılımcı
 👨‍💻	adam, erkek, erkek teknoloji uzmanı, geliştirici, kodlayıcı, mucit, teknoloji uzmanı, yazılım
 👨🏻‍💻	adam, açık cilt tonu, erkek, erkek teknoloji uzmanı, erkek teknoloji uzmanı: açık cilt tonu, geliştirici, kodlayıcı, mucit, teknoloji uzmanı, yazılım
 👨🏼‍💻	adam, erkek, erkek teknoloji uzmanı, erkek teknoloji uzmanı: orta açık cilt tonu, geliştirici, kodlayıcı, mucit, orta açık cilt tonu, teknoloji uzmanı, yazılım
@@ -829,6 +929,12 @@
 👩🏽‍💻	bayan, geliştirici, kadın, kadın teknoloji uzmanı, kadın teknoloji uzmanı: orta cilt tonu, kodlayıcı, mucit, orta cilt tonu, teknoloji uzmanı, yazılım
 👩🏾‍💻	bayan, geliştirici, kadın, kadın teknoloji uzmanı, kadın teknoloji uzmanı: orta koyu cilt tonu, kodlayıcı, mucit, orta koyu cilt tonu, teknoloji uzmanı, yazılım
 👩🏿‍💻	bayan, geliştirici, kadın, kadın teknoloji uzmanı, kadın teknoloji uzmanı: koyu cilt tonu, kodlayıcı, koyu cilt tonu, mucit, teknoloji uzmanı, yazılım
+🧑‍🎤	aktris, aktör, gösterici, star, yıldız, şarkıcı
+🧑🏻‍🎤	aktris, aktör, açık cilt tonu, gösterici, star, yıldız, şarkıcı, şarkıcı: açık cilt tonu
+🧑🏼‍🎤	aktris, aktör, gösterici, orta açık cilt tonu, star, yıldız, şarkıcı, şarkıcı: orta açık cilt tonu
+🧑🏽‍🎤	aktris, aktör, gösterici, orta cilt tonu, star, yıldız, şarkıcı, şarkıcı: orta cilt tonu
+🧑🏾‍🎤	aktris, aktör, gösterici, orta koyu cilt tonu, star, yıldız, şarkıcı, şarkıcı: orta koyu cilt tonu
+🧑🏿‍🎤	aktris, aktör, gösterici, koyu cilt tonu, star, yıldız, şarkıcı, şarkıcı: koyu cilt tonu
 👨‍🎤	adam, aktör, erkek, erkek şarkıcı, gösterici, rock, star, şarkıcı
 👨🏻‍🎤	adam, aktör, açık cilt tonu, erkek, erkek şarkıcı: açık cilt tonu, gösterici, rock, star, şarkıcı
 👨🏼‍🎤	adam, aktör, erkek, erkek şarkıcı: orta açık cilt tonu, gösterici, orta açık cilt tonu, rock, star, şarkıcı
@@ -841,6 +947,12 @@
 👩🏽‍🎤	aktör, bayan, gösterici, kadın, kadın şarkıcı: orta cilt tonu, orta cilt tonu, rock, star, şarkıcı
 👩🏾‍🎤	aktör, bayan, gösterici, kadın, kadın şarkıcı: orta koyu cilt tonu, orta koyu cilt tonu, rock, star, şarkıcı
 👩🏿‍🎤	aktör, bayan, gösterici, kadın, kadın şarkıcı: koyu cilt tonu, koyu cilt tonu, rock, star, şarkıcı
+🧑‍🎨	palet, ressam, sanatçı
+🧑🏻‍🎨	açık cilt tonu, palet, ressam, ressam: açık cilt tonu, sanatçı
+🧑🏼‍🎨	orta açık cilt tonu, palet, ressam, ressam: orta açık cilt tonu, sanatçı
+🧑🏽‍🎨	orta cilt tonu, palet, ressam, ressam: orta cilt tonu, sanatçı
+🧑🏾‍🎨	orta koyu cilt tonu, palet, ressam, ressam: orta koyu cilt tonu, sanatçı
+🧑🏿‍🎨	koyu cilt tonu, palet, ressam, ressam: koyu cilt tonu, sanatçı
 👨‍🎨	adam, erkek, erkek ressam, palet, sanatçı
 👨🏻‍🎨	adam, açık cilt tonu, erkek, erkek ressam, erkek ressam: açık cilt tonu, palet, sanatçı
 👨🏼‍🎨	adam, erkek, erkek ressam, erkek ressam: orta açık cilt tonu, orta açık cilt tonu, palet, sanatçı
@@ -853,6 +965,12 @@
 👩🏽‍🎨	bayan, kadın, kadın ressam, kadın ressam: orta cilt tonu, orta cilt tonu, palet, sanatçı
 👩🏾‍🎨	bayan, kadın, kadın ressam, kadın ressam: orta koyu cilt tonu, orta koyu cilt tonu, palet, sanatçı
 👩🏿‍🎨	bayan, kadın, kadın ressam, kadın ressam: koyu cilt tonu, koyu cilt tonu, palet, sanatçı
+🧑‍✈	pilot, uçak
+🧑🏻‍✈	açık cilt tonu, pilot, pilot: açık cilt tonu, uçak
+🧑🏼‍✈	orta açık cilt tonu, pilot, pilot: orta açık cilt tonu, uçak
+🧑🏽‍✈	orta cilt tonu, pilot, pilot: orta cilt tonu, uçak
+🧑🏾‍✈	orta koyu cilt tonu, pilot, pilot: orta koyu cilt tonu, uçak
+🧑🏿‍✈	koyu cilt tonu, pilot, pilot: koyu cilt tonu, uçak
 👨‍✈	adam, erkek, erkek pilot, pilot, uçak
 👨🏻‍✈	adam, açık cilt tonu, erkek, erkek pilot: açık cilt tonu, pilot, uçak
 👨🏼‍✈	adam, erkek, erkek pilot: orta açık cilt tonu, orta açık cilt tonu, pilot, uçak
@@ -865,6 +983,12 @@
 👩🏽‍✈	bayan, kadın, kadın pilot: orta cilt tonu, orta cilt tonu, pilot, uçak
 👩🏾‍✈	bayan, kadın, kadın pilot: orta koyu cilt tonu, orta koyu cilt tonu, pilot, uçak
 👩🏿‍✈	bayan, kadın, kadın pilot: koyu cilt tonu, koyu cilt tonu, pilot, uçak
+🧑‍🚀	astronot, roket, uzay
+🧑🏻‍🚀	astronot, astronot: açık cilt tonu, açık cilt tonu, roket, uzay
+🧑🏼‍🚀	astronot, astronot: orta açık cilt tonu, orta açık cilt tonu, roket, uzay
+🧑🏽‍🚀	astronot, astronot: orta cilt tonu, orta cilt tonu, roket, uzay
+🧑🏾‍🚀	astronot, astronot: orta koyu cilt tonu, orta koyu cilt tonu, roket, uzay
+🧑🏿‍🚀	astronot, astronot: koyu cilt tonu, koyu cilt tonu, roket, uzay
 👨‍🚀	adam, astronot, erkek, erkek astronot, roket, uzay
 👨🏻‍🚀	adam, astronot, açık cilt tonu, erkek, erkek astronot: açık cilt tonu, roket, uzay
 👨🏼‍🚀	adam, astronot, erkek, erkek astronot: orta açık cilt tonu, orta açık cilt tonu, roket, uzay
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronot, bayan, kadın, kadın astronot: orta cilt tonu, orta cilt tonu, roket, uzay
 👩🏾‍🚀	astronot, bayan, kadın, kadın astronot: orta koyu cilt tonu, orta koyu cilt tonu, roket, uzay
 👩🏿‍🚀	astronot, bayan, kadın, kadın astronot: koyu cilt tonu, koyu cilt tonu, roket, uzay
+🧑‍🚒	itfaiye aracı, itfaiyeci
+🧑🏻‍🚒	açık cilt tonu, itfaiye aracı, itfaiyeci, itfaiyeci: açık cilt tonu
+🧑🏼‍🚒	itfaiye aracı, itfaiyeci, itfaiyeci: orta açık cilt tonu, orta açık cilt tonu
+🧑🏽‍🚒	itfaiye aracı, itfaiyeci, itfaiyeci: orta cilt tonu, orta cilt tonu
+🧑🏾‍🚒	itfaiye aracı, itfaiyeci, itfaiyeci: orta koyu cilt tonu, orta koyu cilt tonu
+🧑🏿‍🚒	itfaiye aracı, itfaiyeci, itfaiyeci: koyu cilt tonu, koyu cilt tonu
 👨‍🚒	adam, erkek, erkek itfaiyeci, itfaiye aracı, itfaiyeci
 👨🏻‍🚒	adam, açık cilt tonu, erkek, erkek itfaiyeci: açık cilt tonu, itfaiye aracı, itfaiyeci
 👨🏼‍🚒	adam, erkek, erkek itfaiyeci: orta açık cilt tonu, itfaiye aracı, itfaiyeci, orta açık cilt tonu
@@ -943,6 +1073,7 @@
 💂🏽‍♀	bayan, kadın, kadın muhafız: orta cilt tonu, muhafız, orta cilt tonu
 💂🏾‍♀	bayan, kadın, kadın muhafız: orta koyu cilt tonu, muhafız, orta koyu cilt tonu
 💂🏿‍♀	bayan, kadın, kadın muhafız: koyu cilt tonu, koyu cilt tonu, muhafız
+🥷	dövüşçü, gizli, ninja, saklı
 👷	inşaat, inşaat işçisi, işçi, kişiler
 👷🏻	açık cilt tonu, inşaat, inşaat işçisi, inşaat işçisi: açık cilt tonu, işçi, kişiler
 👷🏼	inşaat, inşaat işçisi, inşaat işçisi: orta açık cilt tonu, işçi, kişiler, orta açık cilt tonu
@@ -1003,18 +1134,42 @@
 🧕🏽	başörtülü kadın, başörtülü kadın: orta cilt tonu, orta cilt tonu
 🧕🏾	başörtülü kadın, başörtülü kadın: orta koyu cilt tonu, orta koyu cilt tonu
 🧕🏿	başörtülü kadın, başörtülü kadın: koyu cilt tonu, koyu cilt tonu
-🤵	adam, damat, simokin, smokinli adam
-🤵🏻	adam, açık cilt tonu, damat, simokin, smokinli adam, smokinli adam: açık cilt tonu
-🤵🏼	adam, damat, orta açık cilt tonu, simokin, smokinli adam, smokinli adam: orta açık cilt tonu
-🤵🏽	adam, damat, orta cilt tonu, simokin, smokinli adam, smokinli adam: orta cilt tonu
-🤵🏾	adam, damat, orta koyu cilt tonu, simokin, smokinli adam, smokinli adam: orta koyu cilt tonu
-🤵🏿	adam, damat, koyu cilt tonu, simokin, smokinli adam, smokinli adam: koyu cilt tonu
+🤵	damat, kişi, smokin, smokinli kişi
+🤵🏻	açık cilt tonu, damat, kişi, smokin, smokinli kişi, smokinli kişi: açık cilt tonu
+🤵🏼	damat, kişi, orta açık cilt tonu, smokin, smokinli kişi, smokinli kişi: orta açık cilt tonu
+🤵🏽	damat, kişi, orta cilt tonu, smokin, smokinli kişi, smokinli kişi: orta cilt tonu
+🤵🏾	damat, kişi, orta koyu cilt tonu, smokin, smokinli kişi, smokinli kişi: orta koyu cilt tonu
+🤵🏿	damat, kişi, koyu cilt tonu, smokin, smokinli kişi, smokinli kişi: koyu cilt tonu
+🤵‍♂	adam, smokin, smokinli adam, smokinli erkek
+🤵🏻‍♂	adam, açık cilt tonu, smokin, smokinli adam, smokinli erkek, smokinli erkek: açık cilt tonu
+🤵🏼‍♂	adam, orta açık cilt tonu, smokin, smokinli adam, smokinli erkek, smokinli erkek: orta açık cilt tonu
+🤵🏽‍♂	adam, orta cilt tonu, smokin, smokinli adam, smokinli erkek, smokinli erkek: orta cilt tonu
+🤵🏾‍♂	adam, orta koyu cilt tonu, smokin, smokinli adam, smokinli erkek, smokinli erkek: orta koyu cilt tonu
+🤵🏿‍♂	adam, koyu cilt tonu, smokin, smokinli adam, smokinli erkek, smokinli erkek: koyu cilt tonu
+🤵‍♀	kadın, smokin, smokinli kadın
+🤵🏻‍♀	açık cilt tonu, kadın, smokin, smokinli kadın, smokinli kadın: açık cilt tonu
+🤵🏼‍♀	kadın, orta açık cilt tonu, smokin, smokinli kadın, smokinli kadın: orta açık cilt tonu
+🤵🏽‍♀	kadın, orta cilt tonu, smokin, smokinli kadın, smokinli kadın: orta cilt tonu
+🤵🏾‍♀	kadın, orta koyu cilt tonu, smokin, smokinli kadın, smokinli kadın: orta koyu cilt tonu
+🤵🏿‍♀	kadın, koyu cilt tonu, smokin, smokinli kadın, smokinli kadın: koyu cilt tonu
 👰	duvak, duvaklı gelin, evlilik, kişiler
 👰🏻	açık cilt tonu, duvak, duvaklı gelin, duvaklı gelin: açık cilt tonu, evlilik, kişiler
 👰🏼	duvak, duvaklı gelin, duvaklı gelin: orta açık cilt tonu, evlilik, kişiler, orta açık cilt tonu
 👰🏽	duvak, duvaklı gelin, duvaklı gelin: orta cilt tonu, evlilik, kişiler, orta cilt tonu
 👰🏾	duvak, duvaklı gelin, duvaklı gelin: orta koyu cilt tonu, evlilik, kişiler, orta koyu cilt tonu
 👰🏿	duvak, duvaklı gelin, duvaklı gelin: koyu cilt tonu, evlilik, kişiler, koyu cilt tonu
+👰‍♂	adam, duvak, duvaklı adam, duvaklı erkek
+👰🏻‍♂	adam, açık cilt tonu, duvak, duvaklı adam, duvaklı erkek, duvaklı erkek: açık cilt tonu
+👰🏼‍♂	adam, duvak, duvaklı adam, duvaklı erkek, duvaklı erkek: orta açık cilt tonu, orta açık cilt tonu
+👰🏽‍♂	adam, duvak, duvaklı adam, duvaklı erkek, duvaklı erkek: orta cilt tonu, orta cilt tonu
+👰🏾‍♂	adam, duvak, duvaklı adam, duvaklı erkek, duvaklı erkek: orta koyu cilt tonu, orta koyu cilt tonu
+👰🏿‍♂	adam, duvak, duvaklı adam, duvaklı erkek, duvaklı erkek: koyu cilt tonu, koyu cilt tonu
+👰‍♀	duvak, duvaklı kadın, kadın
+👰🏻‍♀	açık cilt tonu, duvak, duvaklı kadın, duvaklı kadın: açık cilt tonu, kadın
+👰🏼‍♀	duvak, duvaklı kadın, duvaklı kadın: orta açık cilt tonu, kadın, orta açık cilt tonu
+👰🏽‍♀	duvak, duvaklı kadın, duvaklı kadın: orta cilt tonu, kadın, orta cilt tonu
+👰🏾‍♀	duvak, duvaklı kadın, duvaklı kadın: orta koyu cilt tonu, kadın, orta koyu cilt tonu
+👰🏿‍♀	duvak, duvaklı kadın, duvaklı kadın: koyu cilt tonu, kadın, koyu cilt tonu
 🤰	hamile, hamile kadın, kadın
 🤰🏻	açık cilt tonu, hamile, hamile kadın: açık cilt tonu, kadın
 🤰🏼	hamile, hamile kadın: orta açık cilt tonu, kadın, orta açık cilt tonu
@@ -1027,6 +1182,24 @@
 🤱🏽	bebek, emziren kadın, emziren kadın: orta cilt tonu, emzirme, göğüs, orta cilt tonu
 🤱🏾	bebek, emziren kadın, emziren kadın: orta koyu cilt tonu, emzirme, göğüs, orta koyu cilt tonu
 🤱🏿	bebek, emziren kadın, emziren kadın: koyu cilt tonu, emzirme, göğüs, koyu cilt tonu
+👩‍🍼	bakım, bebek, bebek emziren kadın, emzirme, kadın
+👩🏻‍🍼	açık cilt tonu, bakım, bebek, bebek emziren kadın, bebek emziren kadın: açık cilt tonu, emzirme, kadın
+👩🏼‍🍼	bakım, bebek, bebek emziren kadın, bebek emziren kadın: orta açık cilt tonu, emzirme, kadın, orta açık cilt tonu
+👩🏽‍🍼	bakım, bebek, bebek emziren kadın, bebek emziren kadın: orta cilt tonu, emzirme, kadın, orta cilt tonu
+👩🏾‍🍼	bakım, bebek, bebek emziren kadın, bebek emziren kadın: orta koyu cilt tonu, emzirme, kadın, orta koyu cilt tonu
+👩🏿‍🍼	bakım, bebek, bebek emziren kadın, bebek emziren kadın: koyu cilt tonu, emzirme, kadın, koyu cilt tonu
+👨‍🍼	bakıcılık, bebek, bebek emziren erkek, emzirme, erkek
+👨🏻‍🍼	açık cilt tonu, bakıcılık, bebek, bebek emziren erkek, bebek emziren erkek: açık cilt tonu, emzirme, erkek
+👨🏼‍🍼	bakıcılık, bebek, bebek emziren erkek, bebek emziren erkek: orta açık cilt tonu, emzirme, erkek, orta açık cilt tonu
+👨🏽‍🍼	bakıcılık, bebek, bebek emziren erkek, bebek emziren erkek: orta cilt tonu, emzirme, erkek, orta cilt tonu
+👨🏾‍🍼	bakıcılık, bebek, bebek emziren erkek, bebek emziren erkek: orta koyu cilt tonu, emzirme, erkek, orta koyu cilt tonu
+👨🏿‍🍼	bakıcılık, bebek, bebek emziren erkek, bebek emziren erkek: koyu cilt tonu, emzirme, erkek, koyu cilt tonu
+🧑‍🍼	bakıcılık, bebek, bebek emziren kişi, emzirme, kişi
+🧑🏻‍🍼	açık cilt tonu, bakıcılık, bebek, bebek emziren kişi, bebek emziren kişi: açık cilt tonu, emzirme, kişi
+🧑🏼‍🍼	bakıcılık, bebek, bebek emziren kişi, bebek emziren kişi: orta açık cilt tonu, emzirme, kişi, orta açık cilt tonu
+🧑🏽‍🍼	bakıcılık, bebek, bebek emziren kişi, bebek emziren kişi: orta cilt tonu, emzirme, kişi, orta cilt tonu
+🧑🏾‍🍼	bakıcılık, bebek, bebek emziren kişi, bebek emziren kişi: orta koyu cilt tonu, emzirme, kişi, orta koyu cilt tonu
+🧑🏿‍🍼	bakıcılık, bebek, bebek emziren kişi, bebek emziren kişi: koyu cilt tonu, emzirme, kişi, koyu cilt tonu
 👼	bebek melek, melek, peri masalı, yüz
 👼🏻	açık cilt tonu, bebek melek, bebek melek: açık cilt tonu, melek, peri masalı, yüz
 👼🏼	bebek melek, bebek melek: orta açık cilt tonu, melek, orta açık cilt tonu, peri masalı, yüz
@@ -1045,6 +1218,12 @@
 🤶🏽	Noel Anne, Noel Anne: orta cilt tonu, anne, noel, orta cilt tonu
 🤶🏾	Noel Anne, Noel Anne: orta koyu cilt tonu, anne, noel, orta koyu cilt tonu
 🤶🏿	Noel Anne, Noel Anne: koyu cilt tonu, anne, koyu cilt tonu, noel
+🧑‍🎄	Noel figürü, cinsiyet belirtmeyen noel karakteri, noel
+🧑🏻‍🎄	Noel figürü, açık cilt tonu, cinsiyet belirtmeyen noel karakteri, cinsiyet belirtmeyen noel karakteri: açık cilt tonu, noel
+🧑🏼‍🎄	Noel figürü, cinsiyet belirtmeyen noel karakteri, cinsiyet belirtmeyen noel karakteri: orta açık cilt tonu, noel, orta açık cilt tonu
+🧑🏽‍🎄	Noel figürü, cinsiyet belirtmeyen noel karakteri, cinsiyet belirtmeyen noel karakteri: orta cilt tonu, noel, orta cilt tonu
+🧑🏾‍🎄	Noel figürü, cinsiyet belirtmeyen noel karakteri, cinsiyet belirtmeyen noel karakteri: orta koyu cilt tonu, noel, orta koyu cilt tonu
+🧑🏿‍🎄	Noel figürü, cinsiyet belirtmeyen noel karakteri, cinsiyet belirtmeyen noel karakteri: koyu cilt tonu, koyu cilt tonu, noel
 🦸	iyi, kadın kahraman, kahraman, süper güç, süper kahraman
 🦸🏻	açık cilt tonu, iyi, kadın kahraman, kahraman, süper güç, süper kahraman, süper kahraman: açık cilt tonu
 🦸🏼	iyi, kadın kahraman, kahraman, orta açık cilt tonu, süper güç, süper kahraman, süper kahraman: orta açık cilt tonu
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	diz çöken, diz çöken kadın, diz çöken kadın: orta cilt tonu, kadın, orta cilt tonu
 🧎🏾‍♀	diz çöken, diz çöken kadın, diz çöken kadın: orta koyu cilt tonu, kadın, orta koyu cilt tonu
 🧎🏿‍♀	diz çöken, diz çöken kadın, diz çöken kadın: koyu cilt tonu, kadın, koyu cilt tonu
+🧑‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kişi, kör
+🧑🏻‍🦯	açık cilt tonu, erişilebilirlik, görme engelli, görme engelli bastonlu kişi, görme engelli bastonlu kişi: açık cilt tonu, kör
+🧑🏼‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kişi, görme engelli bastonlu kişi: orta açık cilt tonu, kör, orta açık cilt tonu
+🧑🏽‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kişi, görme engelli bastonlu kişi: orta cilt tonu, kör, orta cilt tonu
+🧑🏾‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kişi, görme engelli bastonlu kişi: orta koyu cilt tonu, kör, orta koyu cilt tonu
+🧑🏿‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kişi, görme engelli bastonlu kişi: koyu cilt tonu, koyu cilt tonu, kör
 👨‍🦯	erişilebilirlik, erkek, görme engelli, görme engelli bastonlu erkek
 👨🏻‍🦯	açık cilt tonu, erişilebilirlik, erkek, görme engelli, görme engelli bastonlu erkek, görme engelli bastonlu erkek: açık cilt tonu
 👨🏼‍🦯	erişilebilirlik, erkek, görme engelli, görme engelli bastonlu erkek, görme engelli bastonlu erkek: orta açık cilt tonu, orta açık cilt tonu
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kadın, görme engelli bastonlu kadın: orta cilt tonu, kadın, orta cilt tonu
 👩🏾‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kadın, görme engelli bastonlu kadın: orta koyu cilt tonu, kadın, orta koyu cilt tonu
 👩🏿‍🦯	erişilebilirlik, görme engelli, görme engelli bastonlu kadın, görme engelli bastonlu kadın: koyu cilt tonu, kadın, koyu cilt tonu
+🧑‍🦼	elektrikli tekerlekli sandalyede kişi, erişilebilirlik, tekerlekli sandalye
+🧑🏻‍🦼	açık cilt tonu, elektrikli tekerlekli sandalyede kişi, elektrikli tekerlekli sandalyede kişi: açık cilt tonu, erişilebilirlik, tekerlekli sandalye
+🧑🏼‍🦼	elektrikli tekerlekli sandalyede kişi, elektrikli tekerlekli sandalyede kişi: orta açık cilt tonu, erişilebilirlik, orta açık cilt tonu, tekerlekli sandalye
+🧑🏽‍🦼	elektrikli tekerlekli sandalyede kişi, elektrikli tekerlekli sandalyede kişi: orta cilt tonu, erişilebilirlik, orta cilt tonu, tekerlekli sandalye
+🧑🏾‍🦼	elektrikli tekerlekli sandalyede kişi, elektrikli tekerlekli sandalyede kişi: orta koyu cilt tonu, erişilebilirlik, orta koyu cilt tonu, tekerlekli sandalye
+🧑🏿‍🦼	elektrikli tekerlekli sandalyede kişi, elektrikli tekerlekli sandalyede kişi: koyu cilt tonu, erişilebilirlik, koyu cilt tonu, tekerlekli sandalye
 👨‍🦼	elektrikli tekerlekli sandalyede erkek, erişilebilirlik, erkek, tekerlekli sandalye
 👨🏻‍🦼	açık cilt tonu, elektrikli tekerlekli sandalyede erkek, elektrikli tekerlekli sandalyede erkek: açık cilt tonu, erişilebilirlik, erkek, tekerlekli sandalye
 👨🏼‍🦼	elektrikli tekerlekli sandalyede erkek, elektrikli tekerlekli sandalyede erkek: orta açık cilt tonu, erişilebilirlik, erkek, orta açık cilt tonu, tekerlekli sandalye
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	elektrikli tekerlekli sandalyede kadın, elektrikli tekerlekli sandalyede kadın: orta cilt tonu, erişilebilirlik, kadın, orta cilt tonu, tekerlekli sandalye
 👩🏾‍🦼	elektrikli tekerlekli sandalyede kadın, elektrikli tekerlekli sandalyede kadın: orta koyu cilt tonu, erişilebilirlik, kadın, orta koyu cilt tonu, tekerlekli sandalye
 👩🏿‍🦼	elektrikli tekerlekli sandalyede kadın, elektrikli tekerlekli sandalyede kadın: koyu cilt tonu, erişilebilirlik, kadın, koyu cilt tonu, tekerlekli sandalye
+🧑‍🦽	erişilebilirlik, tekerlekli sandalye, tekerlekli sandalyede kişi
+🧑🏻‍🦽	açık cilt tonu, erişilebilirlik, tekerlekli sandalye, tekerlekli sandalyede kişi, tekerlekli sandalyede kişi: açık cilt tonu
+🧑🏼‍🦽	erişilebilirlik, orta açık cilt tonu, tekerlekli sandalye, tekerlekli sandalyede kişi, tekerlekli sandalyede kişi: orta açık cilt tonu
+🧑🏽‍🦽	erişilebilirlik, orta cilt tonu, tekerlekli sandalye, tekerlekli sandalyede kişi, tekerlekli sandalyede kişi: orta cilt tonu
+🧑🏾‍🦽	erişilebilirlik, orta koyu cilt tonu, tekerlekli sandalye, tekerlekli sandalyede kişi, tekerlekli sandalyede kişi: orta koyu cilt tonu
+🧑🏿‍🦽	erişilebilirlik, koyu cilt tonu, tekerlekli sandalye, tekerlekli sandalyede kişi, tekerlekli sandalyede kişi: koyu cilt tonu
 👨‍🦽	erişilebilirlik, erkek, tekerlekli sandalye, tekerlekli sandalyede erkek
 👨🏻‍🦽	açık cilt tonu, erişilebilirlik, erkek, tekerlekli sandalye, tekerlekli sandalyede erkek, tekerlekli sandalyede erkek: açık cilt tonu
 👨🏼‍🦽	erişilebilirlik, erkek, orta açık cilt tonu, tekerlekli sandalye, tekerlekli sandalyede erkek, tekerlekli sandalyede erkek: orta açık cilt tonu
@@ -1339,7 +1536,7 @@
 🕴🏽	erkek, havalanan takım elbiseli adam, havalanan takım elbiseli adam: orta cilt tonu, iş, işadamı, orta cilt tonu, takım elbise
 🕴🏾	erkek, havalanan takım elbiseli adam, havalanan takım elbiseli adam: orta koyu cilt tonu, iş, işadamı, orta koyu cilt tonu, takım elbise
 🕴🏿	erkek, havalanan takım elbiseli adam, havalanan takım elbiseli adam: koyu cilt tonu, iş, işadamı, koyu cilt tonu, takım elbise
-👯	kadın, kişiler, kız, tavşan kulaklar, tavşan kulaklı kişi, tavşan kulaklı kişiler
+👯	dansçı, parti, tavşan kulaklar, tavşan kulaklı kişiler
 👯‍♂	adam, dansçı, erkek, partiye katılma, tavşan kulak, tavşan kulaklı erkek, tavşan kulaklı erkekler
 👯‍♀	bayan, dansçı, kadın, partiye katılma, tavşan kulak, tavşan kulaklı kadın, tavşan kulaklı kadınlar
 🧖	buhar odası, buhar odasındaki kişi, sauna
@@ -1643,15 +1840,25 @@
 🛌🏿	koyu cilt tonu, otel, uyuma, yatakta yatan kişi, yatakta yatan kişi: koyu cilt tonu
 🧑‍🤝‍🧑	el, el ele, el ele tutuşan insanlar, kişi, tutmak, tutuşan eller, çift
 🧑🏻‍🤝‍🧑🏻	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: açık cilt tonu, kişi, tutmak, tutuşan eller, çift
+🧑🏻‍🤝‍🧑🏼	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: açık cilt tonu orta açık cilt tonu, kişi, orta açık cilt tonu, tutmak, tutuşan eller, çift
+🧑🏻‍🤝‍🧑🏽	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: açık cilt tonu orta cilt tonu, kişi, orta cilt tonu, tutmak, tutuşan eller, çift
+🧑🏻‍🤝‍🧑🏾	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: açık cilt tonu orta koyu cilt tonu, kişi, orta koyu cilt tonu, tutmak, tutuşan eller, çift
+🧑🏻‍🤝‍🧑🏿	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: açık cilt tonu koyu cilt tonu, kişi, koyu cilt tonu, tutmak, tutuşan eller, çift
 🧑🏼‍🤝‍🧑🏻	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta açık cilt tonu açık cilt tonu, kişi, orta açık cilt tonu, tutmak, tutuşan eller, çift
 🧑🏼‍🤝‍🧑🏼	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta açık cilt tonu, kişi, orta açık cilt tonu, tutmak, tutuşan eller, çift
+🧑🏼‍🤝‍🧑🏽	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta açık cilt tonu orta cilt tonu, kişi, orta açık cilt tonu, orta cilt tonu, tutmak, tutuşan eller, çift
+🧑🏼‍🤝‍🧑🏾	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta açık cilt tonu orta koyu cilt tonu, kişi, orta açık cilt tonu, orta koyu cilt tonu, tutmak, tutuşan eller, çift
+🧑🏼‍🤝‍🧑🏿	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta açık cilt tonu koyu cilt tonu, kişi, koyu cilt tonu, orta açık cilt tonu, tutmak, tutuşan eller, çift
 🧑🏽‍🤝‍🧑🏻	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta cilt tonu açık cilt tonu, kişi, orta cilt tonu, tutmak, tutuşan eller, çift
 🧑🏽‍🤝‍🧑🏼	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta cilt tonu orta açık cilt tonu, kişi, orta açık cilt tonu, orta cilt tonu, tutmak, tutuşan eller, çift
 🧑🏽‍🤝‍🧑🏽	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta cilt tonu, kişi, orta cilt tonu, tutmak, tutuşan eller, çift
+🧑🏽‍🤝‍🧑🏾	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta cilt tonu orta koyu cilt tonu, kişi, orta cilt tonu, orta koyu cilt tonu, tutmak, tutuşan eller, çift
+🧑🏽‍🤝‍🧑🏿	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta cilt tonu koyu cilt tonu, kişi, koyu cilt tonu, orta cilt tonu, tutmak, tutuşan eller, çift
 🧑🏾‍🤝‍🧑🏻	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta koyu cilt tonu açık cilt tonu, kişi, orta koyu cilt tonu, tutmak, tutuşan eller, çift
 🧑🏾‍🤝‍🧑🏼	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta koyu cilt tonu orta açık cilt tonu, kişi, orta açık cilt tonu, orta koyu cilt tonu, tutmak, tutuşan eller, çift
 🧑🏾‍🤝‍🧑🏽	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta koyu cilt tonu orta cilt tonu, kişi, orta cilt tonu, orta koyu cilt tonu, tutmak, tutuşan eller, çift
 🧑🏾‍🤝‍🧑🏾	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta koyu cilt tonu, kişi, orta koyu cilt tonu, tutmak, tutuşan eller, çift
+🧑🏾‍🤝‍🧑🏿	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: orta koyu cilt tonu koyu cilt tonu, kişi, koyu cilt tonu, orta koyu cilt tonu, tutmak, tutuşan eller, çift
 🧑🏿‍🤝‍🧑🏻	açık cilt tonu, el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: koyu cilt tonu açık cilt tonu, kişi, koyu cilt tonu, tutmak, tutuşan eller, çift
 🧑🏿‍🤝‍🧑🏼	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: koyu cilt tonu orta açık cilt tonu, kişi, koyu cilt tonu, orta açık cilt tonu, tutmak, tutuşan eller, çift
 🧑🏿‍🤝‍🧑🏽	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: koyu cilt tonu orta cilt tonu, kişi, koyu cilt tonu, orta cilt tonu, tutmak, tutuşan eller, çift
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	el, el ele, el ele tutuşan insanlar, el ele tutuşan insanlar: koyu cilt tonu, kişi, koyu cilt tonu, tutmak, tutuşan eller, çift
 👭	el, el ele tutuşan, el ele tutuşan kadınlar, kadınlar, çift
 👭🏻	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: açık cilt tonu, kadınlar, çift
+👩🏻‍🤝‍👩🏼	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: açık cilt tonu orta açık cilt tonu, kadınlar, orta açık cilt tonu, çift
+👩🏻‍🤝‍👩🏽	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: açık cilt tonu orta cilt tonu, kadınlar, orta cilt tonu, çift
+👩🏻‍🤝‍👩🏾	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: açık cilt tonu orta koyu cilt tonu, kadınlar, orta koyu cilt tonu, çift
+👩🏻‍🤝‍👩🏿	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: açık cilt tonu koyu cilt tonu, kadınlar, koyu cilt tonu, çift
 👩🏼‍🤝‍👩🏻	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta açık cilt tonu açık cilt tonu, kadınlar, orta açık cilt tonu, çift
 👭🏼	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta açık cilt tonu, kadınlar, orta açık cilt tonu, çift
+👩🏼‍🤝‍👩🏽	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta açık cilt tonu orta cilt tonu, kadınlar, orta açık cilt tonu, orta cilt tonu, çift
+👩🏼‍🤝‍👩🏾	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta açık cilt tonu orta koyu cilt tonu, kadınlar, orta açık cilt tonu, orta koyu cilt tonu, çift
+👩🏼‍🤝‍👩🏿	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta açık cilt tonu koyu cilt tonu, kadınlar, koyu cilt tonu, orta açık cilt tonu, çift
 👩🏽‍🤝‍👩🏻	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta cilt tonu açık cilt tonu, kadınlar, orta cilt tonu, çift
 👩🏽‍🤝‍👩🏼	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta cilt tonu orta açık cilt tonu, kadınlar, orta açık cilt tonu, orta cilt tonu, çift
 👭🏽	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta cilt tonu, kadınlar, orta cilt tonu, çift
+👩🏽‍🤝‍👩🏾	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta cilt tonu orta koyu cilt tonu, kadınlar, orta cilt tonu, orta koyu cilt tonu, çift
+👩🏽‍🤝‍👩🏿	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta cilt tonu koyu cilt tonu, kadınlar, koyu cilt tonu, orta cilt tonu, çift
 👩🏾‍🤝‍👩🏻	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta koyu cilt tonu açık cilt tonu, kadınlar, orta koyu cilt tonu, çift
 👩🏾‍🤝‍👩🏼	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta koyu cilt tonu orta açık cilt tonu, kadınlar, orta açık cilt tonu, orta koyu cilt tonu, çift
 👩🏾‍🤝‍👩🏽	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta koyu cilt tonu orta cilt tonu, kadınlar, orta cilt tonu, orta koyu cilt tonu, çift
 👭🏾	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta koyu cilt tonu, kadınlar, orta koyu cilt tonu, çift
+👩🏾‍🤝‍👩🏿	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: orta koyu cilt tonu koyu cilt tonu, kadınlar, koyu cilt tonu, orta koyu cilt tonu, çift
 👩🏿‍🤝‍👩🏻	açık cilt tonu, el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: koyu cilt tonu açık cilt tonu, kadınlar, koyu cilt tonu, çift
 👩🏿‍🤝‍👩🏼	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: koyu cilt tonu orta açık cilt tonu, kadınlar, koyu cilt tonu, orta açık cilt tonu, çift
 👩🏿‍🤝‍👩🏽	el, el ele tutuşan, el ele tutuşan kadınlar, el ele tutuşan kadınlar: koyu cilt tonu orta cilt tonu, kadınlar, koyu cilt tonu, orta cilt tonu, çift
@@ -1699,22 +1916,32 @@
 👩🏿‍🤝‍👨🏽	el ele tutuşan, el ele tutuşan erkek ve kadın, el ele tutuşan erkek ve kadın: koyu cilt tonu orta cilt tonu, erkek, kadın, koyu cilt tonu, orta cilt tonu, çift
 👩🏿‍🤝‍👨🏾	el ele tutuşan, el ele tutuşan erkek ve kadın, el ele tutuşan erkek ve kadın: koyu cilt tonu orta koyu cilt tonu, erkek, kadın, koyu cilt tonu, orta koyu cilt tonu, çift
 👫🏿	el ele tutuşan, el ele tutuşan erkek ve kadın, el ele tutuşan erkek ve kadın: koyu cilt tonu, erkek, kadın, koyu cilt tonu, çift
-👬	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan iki erkek, erkek, kişiler, çift
-👬🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, çift
-👨🏼‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta açık cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta açık cilt tonu, çift
-👬🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta açık cilt tonu, çift
-👨🏽‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta cilt tonu, çift
-👨🏽‍🤝‍👨🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu orta açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta açık cilt tonu, orta cilt tonu, çift
-👬🏽	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta cilt tonu, çift
-👨🏾‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta koyu cilt tonu, çift
-👨🏾‍🤝‍👨🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu orta açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta açık cilt tonu, orta koyu cilt tonu, çift
-👨🏾‍🤝‍👨🏽	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu orta cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta cilt tonu, orta koyu cilt tonu, çift
-👬🏾	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, orta koyu cilt tonu, çift
-👨🏿‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, koyu cilt tonu, çift
-👨🏿‍🤝‍👨🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu orta açık cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, koyu cilt tonu, orta açık cilt tonu, çift
-👨🏿‍🤝‍👨🏽	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu orta cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, koyu cilt tonu, orta cilt tonu, çift
-👨🏿‍🤝‍👨🏾	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, koyu cilt tonu, orta koyu cilt tonu, çift
-👬🏿	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu, el ele tutuşan iki erkek, erkek, kişiler, koyu cilt tonu, çift
+👬	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan iki erkek, erkek, ikizler, kişiler, çift
+👬🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, çift
+👨🏻‍🤝‍👨🏼	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: açık cilt tonu orta açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta açık cilt tonu, çift
+👨🏻‍🤝‍👨🏽	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: açık cilt tonu orta cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta cilt tonu, çift
+👨🏻‍🤝‍👨🏾	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: açık cilt tonu orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta koyu cilt tonu, çift
+👨🏻‍🤝‍👨🏿	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: açık cilt tonu koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, çift
+👨🏼‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta açık cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta açık cilt tonu, çift
+👬🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta açık cilt tonu, çift
+👨🏼‍🤝‍👨🏽	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta açık cilt tonu orta cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta açık cilt tonu, orta cilt tonu, çift
+👨🏼‍🤝‍👨🏾	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta açık cilt tonu orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta açık cilt tonu, orta koyu cilt tonu, çift
+👨🏼‍🤝‍👨🏿	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta açık cilt tonu koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, orta açık cilt tonu, çift
+👨🏽‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta cilt tonu, çift
+👨🏽‍🤝‍👨🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu orta açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta açık cilt tonu, orta cilt tonu, çift
+👬🏽	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta cilt tonu, çift
+👨🏽‍🤝‍👨🏾	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta cilt tonu, orta koyu cilt tonu, çift
+👨🏽‍🤝‍👨🏿	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta cilt tonu koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, orta cilt tonu, çift
+👨🏾‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta koyu cilt tonu, çift
+👨🏾‍🤝‍👨🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu orta açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta açık cilt tonu, orta koyu cilt tonu, çift
+👨🏾‍🤝‍👨🏽	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu orta cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta cilt tonu, orta koyu cilt tonu, çift
+👬🏾	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, orta koyu cilt tonu, çift
+👨🏾‍🤝‍👨🏿	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: orta koyu cilt tonu koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, orta koyu cilt tonu, çift
+👨🏿‍🤝‍👨🏻	açık cilt tonu, el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, çift
+👨🏿‍🤝‍👨🏼	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu orta açık cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, orta açık cilt tonu, çift
+👨🏿‍🤝‍👨🏽	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu orta cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, orta cilt tonu, çift
+👨🏿‍🤝‍👨🏾	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, orta koyu cilt tonu, çift
+👬🏿	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, çift
 💏	kişiler, romantizm, öpücük, öpüşme
 👩‍❤‍💋‍👨	erkek, kadın, kişiler, romantizm, öpücük, öpücük: kadın erkek, öpüşme
 👨‍❤‍💋‍👨	erkek, kişiler, romantizm, öpücük, öpücük: erkek erkek, öpüşme
@@ -1752,6 +1979,7 @@
 🗣️	bağırma, kafa, konuşan kişi, konuşma, profil, siluet, yüz
 👤	büst, kişiler, siluet, siluet büst
 👥	büst, kişiler, siluet, siluet büstler
+🫂	güle güle, hoşçakal, hoşçakalın, kucaklaşan insanlar, merhaba, sağol, sağolun, selam, teşekkür, teşekkürler
 👣	ayak, ayak izi, gövde, iz
 🦰	kırmızı, kızıl, kızıl saç
 🦱	afro, kıvırcık, kıvırcık saç, lüle
@@ -1771,6 +1999,7 @@
 🦝	meraklı, rakun, sinsi
 🐱	hayvan, kedi, kedi yüzü, yüz
 🐈️	hayvan, kedi
+🐈‍⬛	kara, kara kedi, kedi, uğursuz
 🦁	aslan, aslan yüzü, burç, yüz
 🐯	kaplan, kaplan yüzü, yüz
 🐅	kaplan
@@ -1780,6 +2009,7 @@
 🦄	tek boynuzlu at, unicorn, yüz
 🦓	zebra, çizgili, şeritli
 🦌	geyik, hayvan
+🦬	bizon, bufalo, sürü
 🐮	hayvan, inek, inek yüzü, yüz
 🐂	boğa, boğa burcu, burçlar, öküz
 🐃	buffalo, manda, su
@@ -1796,6 +2026,7 @@
 🦙	alpaka, guanako, lama, vikunya, yün
 🦒	noktalar, puanlar, zürafa
 🐘	fil
+🦣	büyük, fil dişi, mamut, nesli tükenen, soyu tükenen
 🦏	gergedan, hayvan
 🦛	hipo, hipopotam, su aygırı
 🐭	fare, fare yüzü, hayvan, yüz
@@ -1805,9 +2036,11 @@
 🐰	hayvan, tavşan, tavşan yüzü, yüz
 🐇	hayvan, tavşan
 🐿️	sincap
+🦫	baraj, kunduz
 🦔	dikenli, kirpi
 🦇	hayvan, vampir, yarasa
 🐻	ayı, yüz
+🐻‍❄	arktik, ayı, beyaz, kutup ayısı
 🐨	hayvan, koala, koala ayısı
 🐼	panda, yüz
 🦥	tembel, tembel hayvan, yavaş
@@ -1829,6 +2062,8 @@
 🦆	kuş, ördek
 🦢	kuğu, kuğu yavrusu, kuş, çirkin ördek yavrusu
 🦉	baykuş, bilge, kuş
+🦤	Mauritius, büyük, dodo kuşu, nesli tükenmiş, soyu tükenmiş
+🪶	hafif, kuş, kuş tüyü, tüylü, uçma
 🦩	flamingo, gösterişli, tropikal
 🦚	dişi tavus kuşu, gururlu, gösterişli, kuş, tavus kuşu
 🦜	konuşma, korsan, kuş, papağan
@@ -1844,6 +2079,7 @@
 🐳	balina, hayvan, su püskürten, su püskürten balina
 🐋	balina, hayvan
 🐬	hayvan, yunus
+🦭	ayı balığı, denizaslanı, fok, fok balığı
 🐟️	balık, hayvan
 🐠	balık, hayvan, tropikal balık
 🐡	balon balığı, balık, hayvan
@@ -1855,12 +2091,16 @@
 🐛	böcek, hayvan, kırkayak, tırtıl
 🐜	böcek, karınca
 🐝	arı, bal arısı, hayvan
+🪲	böcek, haşere
 🐞	böcek, hanım, hanımböceği, hayvan, uğur böceği
 🦗	cırcır böceği, çekirge
+🪳	böcek, hamam böceği, haşere, karafatma
 🕷️	böcek, örümcek
 🕸️	örümcek, örümcek ağı
 🦂	akrep, burç
 🦟	ateş, böcek, hastalık, sivrisinek, sıtma, virüs
+🪰	böcek, hastalık, karasinek, larva, sinek, çürüme
+🪱	kurt, kurtçuk, parazit, solucan
 🦠	amip, bakteri, mikrop, virüs
 💐	buket, romantizm, çiçek
 🌸	kiraz, kiraz çiçeği, çiçek, çiçek izleme
@@ -1873,6 +2113,7 @@
 🌼	bitki, çiçek, çiçek açma
 🌷	bitki, lale, çiçek
 🌱	fide, filizlenme, genç
+🪴	bitki, ev, ev bitkisi, saksı, saksı bitkisi, yetiştirme
 🌲	ağaç, yaprak dökmeyen, yaprak dökmeyen ağaç
 🌳	ağaç, yaprak döken, yaprak döken ağaç
 🌴	ağaç, palmiye, palmiye ağacı
@@ -1898,8 +2139,10 @@
 🍑	meyve, şeftali
 🍒	kiraz, meyve
 🍓	meyve, yumuşak meyve, çilek
+🫐	dağ mersini, mavi, mersin, yaban mersini
 🥝	kivi, meyve, yiyecek
 🍅	domates, sebze
+🫒	yiyecek, zeytin
 🥥	Hindistan cevizi, palmiye, pina colada
 🥑	avokado, meyve, yiyecek
 🍆	patlıcan, sebze
@@ -1907,6 +2150,7 @@
 🥕	havuç, sebze, yiyecek
 🌽	başak, mısır koçanı
 🌶️	acı, acı biber, biber, bitki
+🫑	biber, dolma biber, dolmalık biber, sebze
 🥒	salatalık, sebze, turşu, yiyecek
 🥬	karalahana, lahana, marul, yeşil yapraklı sebze, çin lahanası
 🥦	brokoli, yabani lahana
@@ -1918,8 +2162,9 @@
 🍞	ekmek, ekmek dilimi, restoran
 🥐	ay çöreği, ekmek, fransız, kruvasan, yiyecek
 🥖	baget, baget ekmek, ekmek, fransız, yiyecek
+🫓	bazlama, lavaş, naan, pide, pita, yassı ekmek
 🥨	burgu, pretzel
-🥯	fırın, simit, sürme peynir
+🥯	bagel, fırın, simit, sürme peynir
 🥞	gözleme, krep, pankek, yiyecek
 🧇	hamur, vafıl, waffle
 🧀	peynir, peynir dilimi
@@ -1934,12 +2179,14 @@
 🥪	ekmek, sandviç
 🌮	Meksika sandviçi, tako
 🌯	Meksika dürümü, burito
+🫔	Meksika yemeği, dürüm, tamale
 🥙	döner, dürüm, falafel, kebap, pide, sarma, yiyecek
 🧆	falafel, köfte, nohut
 🥚	yiyecek, yumurta
 🍳	pişirme, restoran, yemek pişirme
 🥘	güveç, küçük, paella, sahanda yemek, tava, yiyecek
 🍲	restoran, tencere yemeği, yemek tenceresi
+🫕	erimiş, fondü, kap, peynir, çikolata, İsviçre
 🥣	kahvaltı, kaşıklı kase, pirinç lapası, tahıl gevreği
 🥗	salata, yeşil, yeşil salata, yiyecek
 🍿	mısır, patlamış mısır
@@ -1985,6 +2232,7 @@
 🍼	biberon, içecek, süt, şişe
 🥛	bardak, içecek, süt, süt bardağı
 ☕️	dumanı tüten, içecek, kahve, sıcak, sıcak içecek, çay
+🫖	demlik, içecek, çay, çaydanlık
 🍵	içecek, çay, çay fincanı
 🍶	bar, fincan, içecek, restoran, sake, sake şişesi ve fincanı, şişe
 🍾	bar, içki, mantar, patlayan mantarlı şişe, şişe
@@ -1996,6 +2244,7 @@
 🥂	bardak, içecek, kadeh tokuşturma, kutlama, tokuşturma
 🥃	bardak, kısa ve geniş, kısa ve geniş bardak, likör, tek içki, viski
 🥤	pipetli bardak
+🧋	baloncuk, bubble tea, inci, inci çayı, süt, çay
 🧃	içecek kutusu, kutu meyve suyu
 🧉	içecek, mate çayı
 🧊	aysberg, buz küpü, soğuk
@@ -2025,6 +2274,9 @@
 🏛️	bina, klasik, tarihi, tarihi yapı
 🏗️	bina, bina inşaatı, inşaat
 🧱	duvar, harç, kil, tuğla, tuğlalar
+🪨	ağır, katı, kaya, kayalık, sert, taş
+🪵	ahşap, ağaç, kereste, kütük, tomruk
+🛖	ev, kulübe, yurt
 🏘️	bina, ev, evler
 🏚️	bina, ev, harabe, terkedilmiş ev
 🏠️	bina, ev
@@ -2092,6 +2344,7 @@
 🚗	araba, otomobil, taşıt
 🚘️	araba, otomobil, taşıt, yaklaşan, yaklaşan araba
 🚙	araba, cip, eğlence taşıtı, taşıt
+🛻	kamyon, kamyonet, pikap
 🚚	kamyon, nakliye kamyonu, taşıt
 🚛	taşıt, treyler, tır, çekici, çekici kamyon
 🚜	taşıt, traktör
@@ -2104,6 +2357,7 @@
 🚲️	bisiklet, taşıt
 🛴	ayak, ayakla sürülen skuter, skuter
 🛹	kaykay, tahta
+🛼	paten, tekerlek, tekerlekli paten
 🚏	durak, otobüs, otobüs durağı
 🛣️	anayol, cadde, otoban
 🛤️	tren, tren yolu
@@ -2274,13 +2528,16 @@
 🪁	süzülme, uçma, uçurtma
 🎱	bilardo, oyun, sekiz top
 🔮	fal, fal bakma, kristal, kristal küre, küre
-🧿	boncuk, kem göz, muska, nazar, nazarlık, tılsım
+🪄	büyücü, cadı, sihir, sihirli asa
+🧿	boncuk, kem göz, mavi boncuk, muska, nazar, nazarlık, tılsım
 🎮️	kontrol cihazı, oyun, oyun kontrol cihazı, video oyunu
 🕹️	oyun, oyun çubuğu, video oyunu
 🎰	kumar, kumar makinesi, oyun
 🎲	oyun, oyun zarı, zar
-🧩	ipucu, kenetleme, parça, puzzle, yapboz
+🧩	ipucu, kenetleme, parça, puzzle, yapboz, yapboz parçası
 🧸	dolgu, oyun, oyuncak, oyuncak ayı, pelüş
+🪅	kutlama, parti, pinyata
+🪆	Rusya, bebek, iç içe, matruşka
 ♠️	iskambil, kart, maça, pik
 ♥️	iskambil, kart, kupa, kör
 ♦️	iskambil, karo, kart
@@ -2293,7 +2550,9 @@
 🖼️	müze, resim, resimli çerçeve, sanat, yağlı boya, çerçeve
 🎨	boya, boya paleti, palet, sanat, sanatçı, sanatçı paleti
 🧵	dikiş, iplik, iğne, makara
+🪡	dikiş, dikiş iğnesi, dikme, iğne, nakış, sökük, terzi
 🧶	iplik yumağı, kroşe, top, yumak
+🪢	bağlı, denizci düğümü, dolaşık, düğüm, halat, sicim
 👓️	giyim, gözlük
 🕶️	göz, gözlük, güneş gözlüğü, kara
 🥽	göz koruması, kaynak, koruyucu gözlük, yüzme
@@ -2319,6 +2578,7 @@
 👝	giyim, para kesesi, çanta
 🛍️	alışveriş, alışveriş çantası, otel, çanta
 🎒	okul, okul sırt çantası, okul çantası, sırt çantası
+🩴	deniz terliği, kumsal terliği, parmak arası, parmak arası terlik, sandalet
 👞	ayakkabı, erkek ayakkabısı, giyim
 👟	ayakkabı, bez ayakkabı, giyim, koşu ayakkabısı
 🥾	bot, kamp, sırt çantası, yürüyüş, yürüyüş botu
@@ -2332,6 +2592,7 @@
 🎩	eğlence, silindir şapka, şapka
 🎓️	kep, kutlama, mezuniyet, mezuniyet kepi
 🧢	beyzbol şapkası, siperli şapka
+🪖	asker, asker kaskı, askerlik, kask, ordu, savaşçı
 ⛑️	haç, kask, yardım, yardım ekibi kaskı, yüz, şapka
 📿	boncuk, din, dua, giyim, kolye, tesbih, tespih
 💄	kozmetik, makyaj, ruj
@@ -2356,12 +2617,14 @@
 🎧️	eğlence, kulaklık
 📻️	radyo, video
 🎷	alet, müzik, müzik aleti, saksafon
+🪗	akordeon, akordiyon
 🎸	alet, gitar, müzik, müzik aleti
 🎹	alet, klavye, müzik, müzik aleti, müzik klavyesi
 🎺	alet, müzik, müzik aleti, trompet
 🎻	alet, keman, müzik, müzik aleti
 🪕	banjo, müzik, yaylı
 🥁	davul, müzik, tokmak
+🪘	conga, davul, ritm, tempo, uzun davul, vuruş
 📱	cep telefonu, mobil telefon, telefon
 📲	mobil telefon, ok işaretli cep telefonu, telefon, çağrı yapmak
 ☎️	telefon
@@ -2415,6 +2678,7 @@
 🔖	işaret, yer işareti
 🏷️	etiket
 💰️	dolar çantası, para, para torbası, çanta
+🪙	altın, bozuk para, gümüş, hazine, jeton, metal, para, sikke
 💴	banknot, döviz, para, yen, yen banknot
 💵	banknot, dolar, dolar banknot, döviz, para
 💶	avro, banknot, döviz, euro, euro banknot, para
@@ -2423,8 +2687,6 @@
 💳️	kart, kredi, kredi kartı
 🧾	defter tutma, kanıt, kayıt, makbuz, muhasebe
 💹	grafik, piyasa, yen simgeli artış grafiği, yukarı giden grafik, yukarı yönlü
-💱	bozdurma, döviz, kambiyo, para
-💲	dolar, dolar işareti, koyu renk dolar işareti, para
 ✉️	e-mail, e-posta, mektup, zarf
 📧	e-posta, ileti, iletişim, mektup, posta
 📨	alınan posta, e-posta, gelen, gelen zarf, iletişim, mektup, posta, zarf
@@ -2482,9 +2744,12 @@
 🗡️	bıçak, hançer, silah
 ⚔️	kılıç, silah, çapraz, çapraz kılıçlar, çarpı, çatma
 🔫	revolver, silah, tabanca
+🪃	avustralya, bumerang, geri tepme, sekme, tepki
 🏹	araç, burç, ok, ok ve yay, okçu, silah, yay
 🛡️	kalkan, silah
+🪚	alet, kereste, marangoz, testere
 🔧	araç, ingiliz anahtarı, somun anahtarı
+🪛	alet, sıkma, tornavida, vida
 🔩	araç, somun, somun ve vida, vida
 ⚙️	alet, dişli
 🗜️	alet, mengene, sıkıştırma
@@ -2492,8 +2757,10 @@
 🦯	erişilebilirlik, görme engelli, görme engelli bastonu
 🔗	bağlantı işareti, bağlantılar, iki halka
 ⛓️	zincir
+🪝	askı, eğri, kanca, çengel
 🧰	alet, alet çantası, sandık, tamirci
 🧲	at nalı, manyetik, mıknatıs, çekim
+🪜	adım, basamak, merdiven, tırmanış
 ⚗️	alet, damıtıcı, imbik, kimya
 🧪	bilim, deney, deney tüpü, kimya, kimyacı, laboratuvar
 🧫	bakteri, biyolog, biyoloji, kültür, laboratuvar, petri kabı
@@ -2502,31 +2769,40 @@
 🔭	alet, teleskop
 📡	anten, iletişim, uydu, uydu anteni, çanak
 💉	doktor, ilaç, iğne, şırınga
-🩸	ilaç, kan bağışı, kan damlası, âdet
+🩸	aybaşı, ilaç, kan bağışı, kan damlası, mens, regl, âdet
 💊	doktor, hap, ilaç
-🩹	yapışkanlı bandaj
+🩹	bandaj, bant, yapışkanlı bandaj, yara bandı
 🩺	doktor, kalp, stetoskop, tıp
 🚪	kapı
+🛗	asansör, erişilebilirlik, lift
+🪞	ayna, reflektör, spekulum, yansıma, yansıtıcı
+🪟	açılım, manzara, pencere, saydam, temiz hava, çerçeve, şeffaf
 🛏️	otel, uyuma, yatak
 🛋️	kanepe, kanepe ve lamba, lamba, otel
 🪑	iskemle, oturma, sandalye
 🚽	WC, klozet, tuvalet
+🪠	açıcı, lavabo açıcı, lavabo pompası, tuvalet, çekme
 🚿	duş, su
 🛁	banyo, banyo küveti
+🪤	fare kapanı, kapan, kıskaç, tuzak
 🪒	keskin, tıraş, ustura
 🧴	güneş kremi, losyon, losyon şişesi, nemlendirici, şampuan
 🧷	bebek bezi, punk rock, çengelli iğne
 🧹	cadı, süpürge, süpürme, temizlik
 🧺	piknik, sepet, çamaşır, çiftçilik
 🧻	kağıt havlu, kağıt rulosu, tuvalet kağıdı
+🪣	fıçı, kap, kepçe, kova
 🧼	banyo, kalıp, köpük, sabun, sabunluk, temizlik
+🪥	banyo, dental, diş, diş fırçası, fırça, hijyen, lavabo
 🧽	emici, gözenekli, sünger, temizlik
 🧯	ateş, söndürme, yangın, yangın söndürücü
 🛒	alışveriş, alışveriş arabası, araba, pazar arabası
 🚬	işaret, sigara, sigara içilebilir, sigara içme
 ⚰️	cenaze, tabut, ölüm
+🪦	defin, mezar, mezar taşı, mezarlık
 ⚱️	cenaze, kül, kül kavanozu, vazo, ölüm
 🗿	Moyai, heykel, moyai heykeli
+🪧	gösteri, işaret, protesto, tabela
 🏧	ATM işareti, otomatik, vezne
 🚮	işaret, çöp kutusu, çöp kutusu işareti, çöpü yerine atın
 🚰	içilebilir su, içme suyu, işaret
@@ -2625,8 +2901,22 @@
 📴	cep telefonu, cep telefonu kapalı, kapalı, mobil, telefon
 ♀️	bayan, kadın, kadın sembolü
 ♂️	adam, erkek, erkek sembolü
-⚕️	Asklepios, medikal sembol, tıbbi sembol, tıp, tıp sembolü, tıp çalışanı
+⚧️	transgender, transgender sembolü, transseksüel
+✖️	iptal, işaret, x, ×, çarpma, çarpım, çarpım işareti
+➕	+, artı, artı işareti, işaret, matematik
+➖	-, eksi, eksi işareti, işaret, matematik, −
+➗	bölü, bölü işareti, işaret, matematik, ÷
 ♾️	evrensel, sonsuz, sonsuzluk, sınırsız
+‼️	!, !!, işaret, noktalama, çift ünlem, ünlem
+⁉️	!, !?, ?, işaret, noktalama, soru, ünlem, ünlemli soru işareti
+❓️	?, işaret, noktalama, soru, soru işareti
+❔	?, beyaz soru işareti, işaret, noktalama, soru
+❕	!, beyaz ünlem işareti, işaret, noktalama, ünlem
+❗️	!, noktalama, ünlem, ünlem işareti
+〰️	dalgalı, dalgalı çizgi, uzun ses işareti, çizgi
+💱	bozdurma, döviz, kambiyo, para
+💲	dolar, dolar işareti, koyu renk dolar işareti, para
+⚕️	Asklepios, medikal sembol, tıbbi sembol, tıp, tıp sembolü, tıp çalışanı
 ♻️	evrensel, geri dönüşüm, geri dönüşüm simgesi, işaret, koyu renk evrensel geri dönüşüm simgesi
 ⚜	fleur-de-lis, zambak
 🔱	amblem, çıpa, üçlü çatal, üçlü çatal işareti
@@ -2636,25 +2926,14 @@
 ✅	düğme, işaret, onay, onay işareti düğmesi, ✓
 ☑️	kutu, kutulu, onay, seçili onay işareti, seçilmiş onay kutusu, ✓
 ✔️	işaret, onay, onay işareti, ✓
-✖️	iptal, işaret, x, ×, çarpma, çarpım, çarpım işareti
 ❌	iptal, işaret, x, ×, çarpma, çarpı, çarpı işareti
 ❎	kare, x, ×, çarpı işareti düğmesi
-➕	+, artı, artı işareti, işaret, matematik
-➖	-, eksi, eksi işareti, işaret, matematik, −
-➗	bölü, bölü işareti, işaret, matematik, ÷
 ➰	döngü, dönüş, kıvrık döngü
 ➿	Japonya, kıvrık döngü, çift kıvrık döngü, ücretsiz numara
 〽️	işaret, parça, parça değiştirme işareti
 ✳️	*, asterisk, sekiz uçlu yıldız, yıldız
 ✴️	*, sekiz noktalı yıldız, yıldız
 ❇️	*, parlama
-‼️	!, !!, işaret, noktalama, çift ünlem, ünlem
-⁉️	!, !?, ?, işaret, noktalama, soru, ünlem, ünlemli soru işareti
-❓️	?, işaret, noktalama, soru, soru işareti
-❔	?, beyaz soru işareti, işaret, noktalama, soru
-❕	!, beyaz ünlem işareti, işaret, noktalama, ünlem
-❗️	!, noktalama, ünlem, ünlem işareti
-〰️	dalgalı, dalgalı çizgi, uzun ses işareti, çizgi
 ©️	c, telif hakkı, telif hakkı işareti
 ®️	r, tescil işareti, tescilli, tescilli işareti
 ™️	işaret, ticari marka, ticari marka işareti
@@ -2684,7 +2963,7 @@
 🆓	FREE düğmesi, bedava, bedelsiz, işaret, ücretsiz, ücretsiz işareti
 ℹ️	bilgi, i harfi
 🆔	ID düğmesi, işaret, kimlik, kimlik işareti
-Ⓜ️	daire, daire içinde M harfi, daire içinde m harfi, m
+Ⓜ️	daire, daire içinde M harfi, m
 🆕	NEW düğmesi, Yeni işareti, işaret, yeni
 🆖	NG düğmesi, NG işareti, işaret, ng
 🅾️	0 düğmesi (kan grubu), O, O grubu kan, kan, kan grubu, kan grubu O
@@ -2750,6 +3029,7 @@
 🏴	bayrak, siyah bayrak
 🏳️	bayrak, beyaz bayrak
 🏳‍🌈	bayrak, gökkuşağı, gökkuşağı bayrağı
+🏳‍⚧	açık mavi, bayrak, beyaz, pembe, transgender, transgender bayrağı
 🏴‍☠	Jolly Roger, hazine, korsan, korsan bayrağı, yağmacı
 🇦🇨	bayrak, bayrak: Ascension Adası
 🇦🇩	bayrak, bayrak: Andorra
@@ -2795,7 +3075,7 @@
 🇨🇫	bayrak, bayrak: Orta Afrika Cumhuriyeti
 🇨🇬	bayrak, bayrak: Kongo - Brazavil
 🇨🇭	bayrak, bayrak: İsviçre
-🇨🇮	bayrak, bayrak: Fildişi Sahili
+🇨🇮	bayrak, bayrak: Côte d’Ivoire
 🇨🇰	bayrak, bayrak: Cook Adaları
 🇨🇱	bayrak, bayrak: Şili
 🇨🇲	bayrak, bayrak: Kamerun
@@ -2944,7 +3224,7 @@
 🇵🇼	bayrak, bayrak: Palau
 🇵🇾	bayrak, bayrak: Paraguay
 🇶🇦	bayrak, bayrak: Katar
-🇷🇪	bayrak, bayrak: Réunion
+🇷🇪	bayrak, bayrak: Reunion
 🇷🇴	bayrak, bayrak: Romanya
 🇷🇸	bayrak, bayrak: Sırbistan
 🇷🇺	bayrak, bayrak: Rusya
@@ -2965,7 +3245,7 @@
 🇸🇴	bayrak, bayrak: Somali
 🇸🇷	bayrak, bayrak: Surinam
 🇸🇸	bayrak, bayrak: Güney Sudan
-🇸🇹	bayrak, bayrak: São Tomé ve Príncipe
+🇸🇹	bayrak, bayrak: Sao Tome ve Principe
 🇸🇻	bayrak, bayrak: El Salvador
 🇸🇽	bayrak, bayrak: Sint Maarten
 🇸🇾	bayrak, bayrak: Suriye

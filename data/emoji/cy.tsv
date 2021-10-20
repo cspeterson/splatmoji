@@ -19,6 +19,7 @@
 ☺️	amlinelliad, gwên, wyneb, wyneb yn gwenu, ymlacio
 😚	caeedig, cusan, llygad, wyneb, wyneb yn rhoi cusan â llygaid ynghau
 😙	cusan, gwên, llygad, wyneb, wyneb yn rhoi cusan â gwên yn y llygaid
+🥲	balch, cyffwrdd, deugryn, diolchgar, gwenu, rhyddhad, wyneb yn gwenu gyda deugryn
 😋	blasu, blasus, gwenu, wyneb, wyneb yn blasu bwyd blasus
 😛	tafod, wyneb, wyneb â thafod yng ngolwg
 😜	jôc, tafod, winc, wyneb, wyneb â thafod yng ngolwg a llygaid yn wincio
@@ -57,6 +58,7 @@
 🤯	pen yn ffrwydro, syn
 🤠	cowboi, cowmones, het, wyneb, wyneb het cowboi
 🥳	corn, dathliad, het, parti, wyneb yn partïo
+🥸	cuddwisg, incognito, sbectol, trwyn, wyneb, wyneb mewn cuddwisg
 😎	gwên, llygad, sbectol haul, wyneb, wyneb yn gwenu â sbectol haul
 🤓	clyfar, wyneb, wyneb clyfar
 🧐	clòs, wyneb gyda monocl
@@ -183,6 +185,12 @@
 👌🏽	arlliw croen canolog, corff, llaw, llaw ocê, llaw ocê: arlliw croen canolog, ok
 👌🏾	arlliw croen canolig-tywyll, corff, llaw, llaw ocê, llaw ocê: arlliw croen canolig-tywyll, ok
 👌🏿	arlliw croen tywyll, corff, llaw, llaw ocê, llaw ocê: arlliw croen tywyll, ok
+🤌	arwydd â llaw, bysedd, bysedd wedi’u pinsio, holi, sarcastig, wedi pinsio
+🤌🏻	arlliw croen golau, arwydd â llaw, bysedd, bysedd wedi’u pinsio, bysedd wedi’u pinsio: arlliw croen golau, holi, sarcastig, wedi pinsio
+🤌🏼	arlliw croen canolig-golau, arwydd â llaw, bysedd, bysedd wedi’u pinsio, bysedd wedi’u pinsio: arlliw croen canolig-golau, holi, sarcastig, wedi pinsio
+🤌🏽	arlliw croen canolog, arwydd â llaw, bysedd, bysedd wedi’u pinsio, bysedd wedi’u pinsio: arlliw croen canolog, holi, sarcastig, wedi pinsio
+🤌🏾	arlliw croen canolig-tywyll, arwydd â llaw, bysedd, bysedd wedi’u pinsio, bysedd wedi’u pinsio: arlliw croen canolig-tywyll, holi, sarcastig, wedi pinsio
+🤌🏿	arlliw croen tywyll, arwydd â llaw, bysedd, bysedd wedi’u pinsio, bysedd wedi’u pinsio: arlliw croen tywyll, holi, sarcastig, wedi pinsio
 🤏	bach iawn, bysedd yn pinshio
 🤏🏻	arlliw croen golau, bach iawn, bysedd yn pinshio, bysedd yn pinshio: arlliw croen golau
 🤏🏼	arlliw croen canolig-golau, bach iawn, bysedd yn pinshio, bysedd yn pinshio: arlliw croen canolig-golau
@@ -379,6 +387,8 @@
 👃🏾	arlliw croen canolig-tywyll, corff, trwyn, trwyn: arlliw croen canolig-tywyll
 👃🏿	arlliw croen tywyll, corff, trwyn, trwyn: arlliw croen tywyll
 🧠	deallus, ymennydd
+🫀	Y galon, canol, cardioleg, curiad y galon, organ, pwlse
+🫁	Yr ysgyfaint, allanadliad, anadl, anadlu, mewnanadliad, organ
 🦷	dant, deintydd
 🦴	asgwrn, ysgerbwd
 👀	corff, llygad, llygaid, wyneb
@@ -421,6 +431,30 @@
 👱🏽	arlliw croen canolog, gwallt golau, person â gwallt golau, person â gwallt golau: arlliw croen canolog
 👱🏾	arlliw croen canolig-tywyll, gwallt golau, person â gwallt golau, person â gwallt golau: arlliw croen canolig-tywyll
 👱🏿	arlliw croen tywyll, gwallt golau, person â gwallt golau, person â gwallt golau: arlliw croen tywyll
+🧑‍🦰	gwallt coch, niwtral o ran rhyw, oedolyn, oedolyn: gwallt coch
+🧑🏻‍🦰	arlliw croen golau, gwallt coch, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen golau, gwallt coch
+🧑🏼‍🦰	arlliw croen canolig-golau, gwallt coch, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-golau, gwallt coch
+🧑🏽‍🦰	arlliw croen canolog, gwallt coch, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolog, gwallt coch
+🧑🏾‍🦰	arlliw croen canolig-tywyll, gwallt coch, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-tywyll, gwallt coch
+🧑🏿‍🦰	arlliw croen tywyll, gwallt coch, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen tywyll, gwallt coch
+🧑‍🦱	gwallt cyrliog, niwtral o ran rhyw, oedolyn, oedolyn: gwallt cyrliog
+🧑🏻‍🦱	arlliw croen golau, gwallt cyrliog, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen golau, gwallt cyrliog
+🧑🏼‍🦱	arlliw croen canolig-golau, gwallt cyrliog, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-golau, gwallt cyrliog
+🧑🏽‍🦱	arlliw croen canolog, gwallt cyrliog, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolog, gwallt cyrliog
+🧑🏾‍🦱	arlliw croen canolig-tywyll, gwallt cyrliog, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-tywyll, gwallt cyrliog
+🧑🏿‍🦱	arlliw croen tywyll, gwallt cyrliog, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen tywyll, gwallt cyrliog
+🧑‍🦳	gwallt gwyn, niwtral o ran rhyw, oedolyn, oedolyn: gwallt gwyn
+🧑🏻‍🦳	arlliw croen golau, gwallt gwyn, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen golau, gwallt gwyn
+🧑🏼‍🦳	arlliw croen canolig-golau, gwallt gwyn, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-golau, gwallt gwyn
+🧑🏽‍🦳	arlliw croen canolog, gwallt gwyn, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolog, gwallt gwyn
+🧑🏾‍🦳	arlliw croen canolig-tywyll, gwallt gwyn, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-tywyll, gwallt gwyn
+🧑🏿‍🦳	arlliw croen tywyll, gwallt gwyn, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen tywyll, gwallt gwyn
+🧑‍🦲	moel, niwtral o ran rhyw, oedolyn, oedolyn: moel
+🧑🏻‍🦲	arlliw croen golau, moel, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen golau, moel
+🧑🏼‍🦲	arlliw croen canolig-golau, moel, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-golau, moel
+🧑🏽‍🦲	arlliw croen canolog, moel, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolog, moel
+🧑🏾‍🦲	arlliw croen canolig-tywyll, moel, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen canolig-tywyll, moel
+🧑🏿‍🦲	arlliw croen tywyll, moel, niwtral o ran rhyw, oedolyn, oedolyn: arlliw croen tywyll, moel
 👨	dyn, gwrywaidd
 👨🏻	arlliw croen golau, dyn, dyn: arlliw croen golau, gwrywaidd
 👨🏼	arlliw croen canolig-golau, dyn, dyn: arlliw croen canolig-golau, gwrywaidd
@@ -697,6 +731,12 @@
 🤷🏽‍♀	amheuaeth, anwybodaeth, arlliw croen canolog, codi gwar, menyw, menyw yn codi gwar, menyw yn codi gwar: arlliw croen canolog
 🤷🏾‍♀	amheuaeth, anwybodaeth, arlliw croen canolig-tywyll, codi gwar, menyw, menyw yn codi gwar, menyw yn codi gwar: arlliw croen canolig-tywyll
 🤷🏿‍♀	amheuaeth, anwybodaeth, arlliw croen tywyll, codi gwar, menyw, menyw yn codi gwar, menyw yn codi gwar: arlliw croen tywyll
+🧑‍⚕	gofal iechyd, gweithiwr iechyd, meddyg, nyrs, therapydd
+🧑🏻‍⚕	arlliw croen golau, gofal iechyd, gweithiwr iechyd, gweithiwr iechyd: arlliw croen golau, meddyg, nyrs, therapydd
+🧑🏼‍⚕	arlliw croen canolig-golau, gofal iechyd, gweithiwr iechyd, gweithiwr iechyd: arlliw croen canolig-golau, meddyg, nyrs, therapydd
+🧑🏽‍⚕	arlliw croen canolog, gofal iechyd, gweithiwr iechyd, gweithiwr iechyd: arlliw croen canolog, meddyg, nyrs, therapydd
+🧑🏾‍⚕	arlliw croen canolig-tywyll, gofal iechyd, gweithiwr iechyd, gweithiwr iechyd: arlliw croen canolig-tywyll, meddyg, nyrs, therapydd
+🧑🏿‍⚕	arlliw croen tywyll, gofal iechyd, gweithiwr iechyd, gweithiwr iechyd: arlliw croen tywyll, meddyg, nyrs, therapydd
 👨‍⚕	gofal iechyd, gweithiwr iechyd gwrywaidd, gwrywaidd, meddyg, nyrs
 👨🏻‍⚕	arlliw croen golau, gofal iechyd, gweithiwr iechyd gwrywaidd, gweithiwr iechyd gwrywaidd: arlliw croen golau, gwrywaidd, meddyg, nyrs
 👨🏼‍⚕	arlliw croen canolig-golau, gofal iechyd, gweithiwr iechyd gwrywaidd, gweithiwr iechyd gwrywaidd: arlliw croen canolig-golau, gwrywaidd, meddyg, nyrs
@@ -709,6 +749,12 @@
 👩🏽‍⚕	arlliw croen canolog, benywaidd, gofal iechyd, gweithiwr iechyd benywaidd, gweithiwr iechyd benywaidd: arlliw croen canolog, meddyg, nyrs
 👩🏾‍⚕	arlliw croen canolig-tywyll, benywaidd, gofal iechyd, gweithiwr iechyd benywaidd, gweithiwr iechyd benywaidd: arlliw croen canolig-tywyll, meddyg, nyrs
 👩🏿‍⚕	arlliw croen tywyll, benywaidd, gofal iechyd, gweithiwr iechyd benywaidd, gweithiwr iechyd benywaidd: arlliw croen tywyll, meddyg, nyrs
+🧑‍🎓	myfyriwr, person sy’n astudio, wedi graddio
+🧑🏻‍🎓	arlliw croen golau, myfyriwr, person sy’n astudio, person sy’n astudio: arlliw croen golau, wedi graddio
+🧑🏼‍🎓	arlliw croen canolig-golau, myfyriwr, person sy’n astudio, person sy’n astudio: arlliw croen canolig-golau, wedi graddio
+🧑🏽‍🎓	arlliw croen canolog, myfyriwr, person sy’n astudio, person sy’n astudio: arlliw croen canolog, wedi graddio
+🧑🏾‍🎓	arlliw croen canolig-tywyll, myfyriwr, person sy’n astudio, person sy’n astudio: arlliw croen canolig-tywyll, wedi graddio
+🧑🏿‍🎓	arlliw croen tywyll, myfyriwr, person sy’n astudio, person sy’n astudio: arlliw croen tywyll, wedi graddio
 👨‍🎓	dyn, graddio, gwrywaidd, myfyriwr
 👨🏻‍🎓	arlliw croen golau, dyn, graddio, gwrywaidd, myfyriwr, myfyriwr: arlliw croen golau
 👨🏼‍🎓	arlliw croen canolig-golau, dyn, graddio, gwrywaidd, myfyriwr, myfyriwr: arlliw croen canolig-golau
@@ -721,6 +767,12 @@
 👩🏽‍🎓	arlliw croen canolog, benywaidd, graddio, menyw, myfyrwraig, myfyrwraig: arlliw croen canolog
 👩🏾‍🎓	arlliw croen canolig-tywyll, benywaidd, graddio, menyw, myfyrwraig, myfyrwraig: arlliw croen canolig-tywyll
 👩🏿‍🎓	arlliw croen tywyll, benywaidd, graddio, menyw, myfyrwraig, myfyrwraig: arlliw croen tywyll
+🧑‍🏫	atho, athrawes, hyfforddwr, person sy’n addysgu
+🧑🏻‍🏫	arlliw croen golau, atho, athrawes, hyfforddwr, person sy’n addysgu, person sy’n addysgu: arlliw croen golau
+🧑🏼‍🏫	arlliw croen canolig-golau, atho, athrawes, hyfforddwr, person sy’n addysgu, person sy’n addysgu: arlliw croen canolig-golau
+🧑🏽‍🏫	arlliw croen canolog, atho, athrawes, hyfforddwr, person sy’n addysgu, person sy’n addysgu: arlliw croen canolog
+🧑🏾‍🏫	arlliw croen canolig-tywyll, atho, athrawes, hyfforddwr, person sy’n addysgu, person sy’n addysgu: arlliw croen canolig-tywyll
+🧑🏿‍🏫	arlliw croen tywyll, atho, athrawes, hyfforddwr, person sy’n addysgu, person sy’n addysgu: arlliw croen tywyll
 👨‍🏫	athro, dyn, gwrywaidd, hyfforddwr
 👨🏻‍🏫	arlliw croen golau, athro, athro: arlliw croen golau, dyn, gwrywaidd, hyfforddwr
 👨🏼‍🏫	arlliw croen canolig-golau, athro, athro: arlliw croen canolig-golau, dyn, gwrywaidd, hyfforddwr
@@ -733,6 +785,12 @@
 👩🏽‍🏫	arlliw croen canolog, athrawes, athrawes: arlliw croen canolog, benywaidd, hyfforddwraig, menyw
 👩🏾‍🏫	arlliw croen canolig-tywyll, athrawes, athrawes: arlliw croen canolig-tywyll, benywaidd, hyfforddwraig, menyw
 👩🏿‍🏫	arlliw croen tywyll, athrawes, athrawes: arlliw croen tywyll, benywaidd, hyfforddwraig, menyw
+🧑‍⚖	barnwr, clorian, person sy’n barnu
+🧑🏻‍⚖	arlliw croen golau, barnwr, clorian, person sy’n barnu, person sy’n barnu: arlliw croen golau
+🧑🏼‍⚖	arlliw croen canolig-golau, barnwr, clorian, person sy’n barnu, person sy’n barnu: arlliw croen canolig-golau
+🧑🏽‍⚖	arlliw croen canolog, barnwr, clorian, person sy’n barnu, person sy’n barnu: arlliw croen canolog
+🧑🏾‍⚖	arlliw croen canolig-tywyll, barnwr, clorian, person sy’n barnu, person sy’n barnu: arlliw croen canolig-tywyll
+🧑🏿‍⚖	arlliw croen tywyll, barnwr, clorian, person sy’n barnu, person sy’n barnu: arlliw croen tywyll
 👨‍⚖	barnwr, clorian, cyfiawnder, dyn, gwrywaidd
 👨🏻‍⚖	arlliw croen golau, barnwr, barnwr: arlliw croen golau, clorian, cyfiawnder, dyn, gwrywaidd
 👨🏼‍⚖	arlliw croen canolig-golau, barnwr, barnwr: arlliw croen canolig-golau, clorian, cyfiawnder, dyn, gwrywaidd
@@ -745,6 +803,12 @@
 👩🏽‍⚖	arlliw croen canolog, barnwres, barnwres: arlliw croen canolog, benywaidd, clorian, cyfiawnder, menyw
 👩🏾‍⚖	arlliw croen canolig-tywyll, barnwres, barnwres: arlliw croen canolig-tywyll, benywaidd, clorian, cyfiawnder, menyw
 👩🏿‍⚖	arlliw croen tywyll, barnwres, barnwres: arlliw croen tywyll, benywaidd, clorian, cyfiawnder, menyw
+🧑‍🌾	ffarmwr, garddwr, person sy’n ffermio, ranshwr
+🧑🏻‍🌾	arlliw croen golau, ffarmwr, garddwr, person sy’n ffermio, person sy’n ffermio: arlliw croen golau, ranshwr
+🧑🏼‍🌾	arlliw croen canolig-golau, ffarmwr, garddwr, person sy’n ffermio, person sy’n ffermio: arlliw croen canolig-golau, ranshwr
+🧑🏽‍🌾	arlliw croen canolog, ffarmwr, garddwr, person sy’n ffermio, person sy’n ffermio: arlliw croen canolog, ranshwr
+🧑🏾‍🌾	arlliw croen canolig-tywyll, ffarmwr, garddwr, person sy’n ffermio, person sy’n ffermio: arlliw croen canolig-tywyll, ranshwr
+🧑🏿‍🌾	arlliw croen tywyll, ffarmwr, garddwr, person sy’n ffermio, person sy’n ffermio: arlliw croen tywyll, ranshwr
 👨‍🌾	dyn, ffermwr, garddwr, gwrywaidd
 👨🏻‍🌾	arlliw croen golau, dyn, ffermwr, ffermwr: arlliw croen golau, garddwr, gwrywaidd
 👨🏼‍🌾	arlliw croen canolig-golau, dyn, ffermwr, ffermwr: arlliw croen canolig-golau, garddwr, gwrywaidd
@@ -757,6 +821,12 @@
 👩🏽‍🌾	arlliw croen canolog, benywaidd, ffarmwraig, ffarmwraig: arlliw croen canolog, ffermio, garddio, menyw
 👩🏾‍🌾	arlliw croen canolig-tywyll, benywaidd, ffarmwraig, ffarmwraig: arlliw croen canolig-tywyll, ffermio, garddio, menyw
 👩🏿‍🌾	arlliw croen tywyll, benywaidd, ffarmwraig, ffarmwraig: arlliw croen tywyll, ffermio, garddio, menyw
+🧑‍🍳	cogydd, person sy’n coginio, sieff
+🧑🏻‍🍳	arlliw croen golau, cogydd, person sy’n coginio, person sy’n coginio: arlliw croen golau, sieff
+🧑🏼‍🍳	arlliw croen canolig-golau, cogydd, person sy’n coginio, person sy’n coginio: arlliw croen canolig-golau, sieff
+🧑🏽‍🍳	arlliw croen canolog, cogydd, person sy’n coginio, person sy’n coginio: arlliw croen canolog, sieff
+🧑🏾‍🍳	arlliw croen canolig-tywyll, cogydd, person sy’n coginio, person sy’n coginio: arlliw croen canolig-tywyll, sieff
+🧑🏿‍🍳	arlliw croen tywyll, cogydd, person sy’n coginio, person sy’n coginio: arlliw croen tywyll, sieff
 👨‍🍳	coginio, cogydd, dyn, gwrywaidd
 👨🏻‍🍳	arlliw croen golau, coginio, cogydd, cogydd: arlliw croen golau, dyn, gwrywaidd
 👨🏼‍🍳	arlliw croen canolig-golau, coginio, cogydd, cogydd: arlliw croen canolig-golau, dyn, gwrywaidd
@@ -769,6 +839,12 @@
 👩🏽‍🍳	arlliw croen canolog, benywaidd, coginio, cogydd, cogyddes, cogyddes: arlliw croen canolog, menyw
 👩🏾‍🍳	arlliw croen canolig-tywyll, benywaidd, coginio, cogydd, cogyddes, cogyddes: arlliw croen canolig-tywyll, menyw
 👩🏿‍🍳	arlliw croen tywyll, benywaidd, coginio, cogydd, cogyddes, cogyddes: arlliw croen tywyll, menyw
+🧑‍🔧	crefftwr, mecanig, plymer, trydanwr
+🧑🏻‍🔧	arlliw croen golau, crefftwr, mecanig, mecanig: arlliw croen golau, plymer, trydanwr
+🧑🏼‍🔧	arlliw croen canolig-golau, crefftwr, mecanig, mecanig: arlliw croen canolig-golau, plymer, trydanwr
+🧑🏽‍🔧	arlliw croen canolog, crefftwr, mecanig, mecanig: arlliw croen canolog, plymer, trydanwr
+🧑🏾‍🔧	arlliw croen canolig-tywyll, crefftwr, mecanig, mecanig: arlliw croen canolig-tywyll, plymer, trydanwr
+🧑🏿‍🔧	arlliw croen tywyll, crefftwr, mecanig, mecanig: arlliw croen tywyll, plymer, trydanwr
 👨‍🔧	dyn, peiriannydd, peiriannydd gwrywaidd, plymwr, trydanwr
 👨🏻‍🔧	arlliw croen golau, dyn, peiriannydd, peiriannydd gwrywaidd, peiriannydd gwrywaidd: arlliw croen golau, plymwr, trydanwr
 👨🏼‍🔧	arlliw croen canolig-golau, dyn, peiriannydd, peiriannydd gwrywaidd, peiriannydd gwrywaidd: arlliw croen canolig-golau, plymwr, trydanwr
@@ -781,6 +857,12 @@
 👩🏽‍🔧	arlliw croen canolog, benywaidd, peiriannydd, peiriannydd benywaidd: arlliw croen canolog, plymio, trydanwr
 👩🏾‍🔧	arlliw croen canolig-tywyll, benywaidd, peiriannydd, peiriannydd benywaidd: arlliw croen canolig-tywyll, plymio, trydanwr
 👩🏿‍🔧	arlliw croen tywyll, benywaidd, peiriannydd, peiriannydd benywaidd: arlliw croen tywyll, plymio, trydanwr
+🧑‍🏭	diwydiannol, ffatri, gweithiwr, person sy’n gweithio mewn ffatri, rhes gydosod
+🧑🏻‍🏭	arlliw croen golau, diwydiannol, ffatri, gweithiwr, person sy’n gweithio mewn ffatri, person sy’n gweithio mewn ffatri: arlliw croen golau, rhes gydosod
+🧑🏼‍🏭	arlliw croen canolig-golau, diwydiannol, ffatri, gweithiwr, person sy’n gweithio mewn ffatri, person sy’n gweithio mewn ffatri: arlliw croen canolig-golau, rhes gydosod
+🧑🏽‍🏭	arlliw croen canolog, diwydiannol, ffatri, gweithiwr, person sy’n gweithio mewn ffatri, person sy’n gweithio mewn ffatri: arlliw croen canolog, rhes gydosod
+🧑🏾‍🏭	arlliw croen canolig-tywyll, diwydiannol, ffatri, gweithiwr, person sy’n gweithio mewn ffatri, person sy’n gweithio mewn ffatri: arlliw croen canolig-tywyll, rhes gydosod
+🧑🏿‍🏭	arlliw croen tywyll, diwydiannol, ffatri, gweithiwr, person sy’n gweithio mewn ffatri, person sy’n gweithio mewn ffatri: arlliw croen tywyll, rhes gydosod
 👨‍🏭	cydosod, diwydiant, dyn, ffatri, gweithiwr ffatri
 👨🏻‍🏭	arlliw croen golau, cydosod, diwydiant, dyn, ffatri, gweithiwr ffatri, gweithiwr ffatri: arlliw croen golau
 👨🏼‍🏭	arlliw croen canolig-golau, cydosod, diwydiant, dyn, ffatri, gweithiwr ffatri, gweithiwr ffatri: arlliw croen canolig-golau
@@ -793,6 +875,12 @@
 👩🏽‍🏭	arlliw croen canolog, benyw, cydosod, diwydiant, ffatri, gweithwraig ffatri, gweithwraig ffatri: arlliw croen canolog
 👩🏾‍🏭	arlliw croen canolig-tywyll, benyw, cydosod, diwydiant, ffatri, gweithwraig ffatri, gweithwraig ffatri: arlliw croen canolig-tywyll
 👩🏿‍🏭	arlliw croen tywyll, benyw, cydosod, diwydiant, ffatri, gweithwraig ffatri, gweithwraig ffatri: arlliw croen tywyll
+🧑‍💼	busnes, coler wen, gweithiwr swyddfa, pensaer, rheolwr
+🧑🏻‍💼	arlliw croen golau, busnes, coler wen, gweithiwr swyddfa, gweithiwr swyddfa: arlliw croen golau, pensaer, rheolwr
+🧑🏼‍💼	arlliw croen canolig-golau, busnes, coler wen, gweithiwr swyddfa, gweithiwr swyddfa: arlliw croen canolig-golau, pensaer, rheolwr
+🧑🏽‍💼	arlliw croen canolog, busnes, coler wen, gweithiwr swyddfa, gweithiwr swyddfa: arlliw croen canolog, pensaer, rheolwr
+🧑🏾‍💼	arlliw croen canolig-tywyll, busnes, coler wen, gweithiwr swyddfa, gweithiwr swyddfa: arlliw croen canolig-tywyll, pensaer, rheolwr
+🧑🏿‍💼	arlliw croen tywyll, busnes, coler wen, gweithiwr swyddfa, gweithiwr swyddfa: arlliw croen tywyll, pensaer, rheolwr
 👨‍💼	busnes, dyn, gweithiwr swyddfa gwrywaidd, pensaer, swyddfa
 👨🏻‍💼	arlliw croen golau, busnes, dyn, gweithiwr swyddfa gwrywaidd, gweithiwr swyddfa gwrywaidd: arlliw croen golau, pensaer, swyddfa
 👨🏼‍💼	arlliw croen canolig-golau, busnes, dyn, gweithiwr swyddfa gwrywaidd, gweithiwr swyddfa gwrywaidd: arlliw croen canolig-golau, pensaer, swyddfa
@@ -805,6 +893,12 @@
 👩🏽‍💼	arlliw croen canolog, busnes, gweithiwr swyddfa benywaidd, gweithiwr swyddfa benywaidd: arlliw croen canolog, menyw, pensaer, swyddfa
 👩🏾‍💼	arlliw croen canolig-tywyll, busnes, gweithiwr swyddfa benywaidd, gweithiwr swyddfa benywaidd: arlliw croen canolig-tywyll, menyw, pensaer, swyddfa
 👩🏿‍💼	arlliw croen tywyll, busnes, gweithiwr swyddfa benywaidd, gweithiwr swyddfa benywaidd: arlliw croen tywyll, menyw, pensaer, swyddfa
+🧑‍🔬	biolegydd, cemegydd, ffisegydd, gwyddonydd, peiriannydd, person sy’n ymwneud â gwyddoniaeth
+🧑🏻‍🔬	arlliw croen golau, biolegydd, cemegydd, ffisegydd, gwyddonydd, peiriannydd, person sy’n ymwneud â gwyddoniaeth, person sy’n ymwneud â gwyddoniaeth: arlliw croen golau
+🧑🏼‍🔬	arlliw croen canolig-golau, biolegydd, cemegydd, ffisegydd, gwyddonydd, peiriannydd, person sy’n ymwneud â gwyddoniaeth, person sy’n ymwneud â gwyddoniaeth: arlliw croen canolig-golau
+🧑🏽‍🔬	arlliw croen canolog, biolegydd, cemegydd, ffisegydd, gwyddonydd, peiriannydd, person sy’n ymwneud â gwyddoniaeth, person sy’n ymwneud â gwyddoniaeth: arlliw croen canolog
+🧑🏾‍🔬	arlliw croen canolig-tywyll, biolegydd, cemegydd, ffisegydd, gwyddonydd, peiriannydd, person sy’n ymwneud â gwyddoniaeth, person sy’n ymwneud â gwyddoniaeth: arlliw croen canolig-tywyll
+🧑🏿‍🔬	arlliw croen tywyll, biolegydd, cemegydd, ffisegydd, gwyddonydd, peiriannydd, person sy’n ymwneud â gwyddoniaeth, person sy’n ymwneud â gwyddoniaeth: arlliw croen tywyll
 👨‍🔬	biolegydd, cemegydd, dyn, gwyddonydd
 👨🏻‍🔬	arlliw croen golau, biolegydd, cemegydd, dyn, gwyddonydd, gwyddonydd: arlliw croen golau
 👨🏼‍🔬	arlliw croen canolig-golau, biolegydd, cemegydd, dyn, gwyddonydd, gwyddonydd: arlliw croen canolig-golau
@@ -817,6 +911,12 @@
 👩🏽‍🔬	arlliw croen canolog, biolegydd, cemegydd, gwyddonwraig, gwyddonwraig: arlliw croen canolog, menyw
 👩🏾‍🔬	arlliw croen canolig-tywyll, biolegydd, cemegydd, gwyddonwraig, gwyddonwraig: arlliw croen canolig-tywyll, menyw
 👩🏿‍🔬	arlliw croen tywyll, biolegydd, cemegydd, gwyddonwraig, gwyddonwraig: arlliw croen tywyll, menyw
+🧑‍💻	codiwr, datblygydd, dyfeisiwr, meddalwedd, technolegydd
+🧑🏻‍💻	arlliw croen golau, codiwr, datblygydd, dyfeisiwr, meddalwedd, technolegydd, technolegydd: arlliw croen golau
+🧑🏼‍💻	arlliw croen canolig-golau, codiwr, datblygydd, dyfeisiwr, meddalwedd, technolegydd, technolegydd: arlliw croen canolig-golau
+🧑🏽‍💻	arlliw croen canolog, codiwr, datblygydd, dyfeisiwr, meddalwedd, technolegydd, technolegydd: arlliw croen canolog
+🧑🏾‍💻	arlliw croen canolig-tywyll, codiwr, datblygydd, dyfeisiwr, meddalwedd, technolegydd, technolegydd: arlliw croen canolig-tywyll
+🧑🏿‍💻	arlliw croen tywyll, codiwr, datblygydd, dyfeisiwr, meddalwedd, technolegydd, technolegydd: arlliw croen tywyll
 👨‍💻	codydd, datblygydd, dyfeisio, dyn, technolegwr
 👨🏻‍💻	arlliw croen golau, codydd, datblygydd, dyfeisio, dyn, technolegwr, technolegwr: arlliw croen golau
 👨🏼‍💻	arlliw croen canolig-golau, codydd, datblygydd, dyfeisio, dyn, technolegwr, technolegwr: arlliw croen canolig-golau
@@ -829,6 +929,12 @@
 👩🏽‍💻	arlliw croen canolog, codydd, datblygydd, dyfeisio, menyw, technolegwraig, technolegwraig: arlliw croen canolog
 👩🏾‍💻	arlliw croen canolig-tywyll, codydd, datblygydd, dyfeisio, menyw, technolegwraig, technolegwraig: arlliw croen canolig-tywyll
 👩🏿‍💻	arlliw croen tywyll, codydd, datblygydd, dyfeisio, menyw, technolegwraig, technolegwraig: arlliw croen tywyll
+🧑‍🎤	actor, cantor, diddanwr, person sy’n canu, roc, seren
+🧑🏻‍🎤	actor, arlliw croen golau, cantor, diddanwr, person sy’n canu, person sy’n canu: arlliw croen golau, roc, seren
+🧑🏼‍🎤	actor, arlliw croen canolig-golau, cantor, diddanwr, person sy’n canu, person sy’n canu: arlliw croen canolig-golau, roc, seren
+🧑🏽‍🎤	actor, arlliw croen canolog, cantor, diddanwr, person sy’n canu, person sy’n canu: arlliw croen canolog, roc, seren
+🧑🏾‍🎤	actor, arlliw croen canolig-tywyll, cantor, diddanwr, person sy’n canu, person sy’n canu: arlliw croen canolig-tywyll, roc, seren
+🧑🏿‍🎤	actor, arlliw croen tywyll, cantor, diddanwr, person sy’n canu, person sy’n canu: arlliw croen tywyll, roc, seren
 👨‍🎤	actor, adlonni, cantor, dyn
 👨🏻‍🎤	actor, adlonni, arlliw croen golau, cantor, cantor: arlliw croen golau, dyn
 👨🏼‍🎤	actor, adlonni, arlliw croen canolig-golau, cantor, cantor: arlliw croen canolig-golau, dyn
@@ -841,6 +947,12 @@
 👩🏽‍🎤	actor, adlonni, arlliw croen canolog, cantores, cantores: arlliw croen canolog, menyw
 👩🏾‍🎤	actor, adlonni, arlliw croen canolig-tywyll, cantores, cantores: arlliw croen canolig-tywyll, menyw
 👩🏿‍🎤	actor, adlonni, arlliw croen tywyll, cantores, cantores: arlliw croen tywyll, menyw
+🧑‍🎨	artist, palet
+🧑🏻‍🎨	arlliw croen golau, artist, artist: arlliw croen golau, palet
+🧑🏼‍🎨	arlliw croen canolig-golau, artist, artist: arlliw croen canolig-golau, palet
+🧑🏽‍🎨	arlliw croen canolog, artist, artist: arlliw croen canolog, palet
+🧑🏾‍🎨	arlliw croen canolig-tywyll, artist, artist: arlliw croen canolig-tywyll, palet
+🧑🏿‍🎨	arlliw croen tywyll, artist, artist: arlliw croen tywyll, palet
 👨‍🎨	arlunydd, dyn, palet
 👨🏻‍🎨	arlliw croen golau, arlunydd, arlunydd: arlliw croen golau, dyn, palet
 👨🏼‍🎨	arlliw croen canolig-golau, arlunydd, arlunydd: arlliw croen canolig-golau, dyn, palet
@@ -853,6 +965,12 @@
 👩🏽‍🎨	arlliw croen canolog, arlunwraig, arlunwraig: arlliw croen canolog, benyw, palet
 👩🏾‍🎨	arlliw croen canolig-tywyll, arlunwraig, arlunwraig: arlliw croen canolig-tywyll, benyw, palet
 👩🏿‍🎨	arlliw croen tywyll, arlunwraig, arlunwraig: arlliw croen tywyll, benyw, palet
+🧑‍✈	awyren, peilot
+🧑🏻‍✈	arlliw croen golau, awyren, peilot, peilot: arlliw croen golau
+🧑🏼‍✈	arlliw croen canolig-golau, awyren, peilot, peilot: arlliw croen canolig-golau
+🧑🏽‍✈	arlliw croen canolog, awyren, peilot, peilot: arlliw croen canolog
+🧑🏾‍✈	arlliw croen canolig-tywyll, awyren, peilot, peilot: arlliw croen canolig-tywyll
+🧑🏿‍✈	arlliw croen tywyll, awyren, peilot, peilot: arlliw croen tywyll
 👨‍✈	awyren, dyn, gwrywaidd, peilot, peilot gwrywaidd
 👨🏻‍✈	arlliw croen golau, awyren, dyn, gwrywaidd, peilot, peilot gwrywaidd: arlliw croen golau
 👨🏼‍✈	arlliw croen canolig-golau, awyren, dyn, gwrywaidd, peilot, peilot gwrywaidd: arlliw croen canolig-golau
@@ -865,6 +983,12 @@
 👩🏽‍✈	arlliw croen canolog, awyren, benywaidd, menyw, peilot, peilot benywaidd: arlliw croen canolog
 👩🏾‍✈	arlliw croen canolig-tywyll, awyren, benywaidd, menyw, peilot, peilot benywaidd: arlliw croen canolig-tywyll
 👩🏿‍✈	arlliw croen tywyll, awyren, benywaidd, menyw, peilot, peilot benywaidd: arlliw croen tywyll
+🧑‍🚀	gofod-deithiwr, gofodwr, roced
+🧑🏻‍🚀	arlliw croen golau, gofod-deithiwr, gofod-deithiwr: arlliw croen golau, gofodwr, roced
+🧑🏼‍🚀	arlliw croen canolig-golau, gofod-deithiwr, gofod-deithiwr: arlliw croen canolig-golau, gofodwr, roced
+🧑🏽‍🚀	arlliw croen canolog, gofod-deithiwr, gofod-deithiwr: arlliw croen canolog, gofodwr, roced
+🧑🏾‍🚀	arlliw croen canolig-tywyll, gofod-deithiwr, gofod-deithiwr: arlliw croen canolig-tywyll, gofodwr, roced
+🧑🏿‍🚀	arlliw croen tywyll, gofod-deithiwr, gofod-deithiwr: arlliw croen tywyll, gofodwr, roced
 👨‍🚀	dyn, gofod, gofodwr, roced
 👨🏻‍🚀	arlliw croen golau, dyn, gofod, gofodwr, gofodwr: arlliw croen golau, roced
 👨🏼‍🚀	arlliw croen canolig-golau, dyn, gofod, gofodwr, gofodwr: arlliw croen canolig-golau, roced
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	arlliw croen canolog, gofod, gofodwraig, gofodwraig: arlliw croen canolog, menyw, roced
 👩🏾‍🚀	arlliw croen canolig-tywyll, gofod, gofodwraig, gofodwraig: arlliw croen canolig-tywyll, menyw, roced
 👩🏿‍🚀	arlliw croen tywyll, gofod, gofodwraig, gofodwraig: arlliw croen tywyll, menyw, roced
+🧑‍🚒	diffoddwr tân, injan dân
+🧑🏻‍🚒	arlliw croen golau, diffoddwr tân, diffoddwr tân: arlliw croen golau, injan dân
+🧑🏼‍🚒	arlliw croen canolig-golau, diffoddwr tân, diffoddwr tân: arlliw croen canolig-golau, injan dân
+🧑🏽‍🚒	arlliw croen canolog, diffoddwr tân, diffoddwr tân: arlliw croen canolog, injan dân
+🧑🏾‍🚒	arlliw croen canolig-tywyll, diffoddwr tân, diffoddwr tân: arlliw croen canolig-tywyll, injan dân
+🧑🏿‍🚒	arlliw croen tywyll, diffoddwr tân, diffoddwr tân: arlliw croen tywyll, injan dân
 👨‍🚒	dyn, dyn tân, lori tân
 👨🏻‍🚒	arlliw croen golau, dyn, dyn tân, dyn tân: arlliw croen golau, lori tân
 👨🏼‍🚒	arlliw croen canolig-golau, dyn, dyn tân, dyn tân: arlliw croen canolig-golau, lori tân
@@ -943,6 +1073,7 @@
 💂🏽‍♀	arlliw croen canolog, benywaidd, gwarchod, gwarchodydd benywaidd, gwarchodydd benywaidd: arlliw croen canolog, menyw
 💂🏾‍♀	arlliw croen canolig-tywyll, benywaidd, gwarchod, gwarchodydd benywaidd, gwarchodydd benywaidd: arlliw croen canolig-tywyll, menyw
 💂🏿‍♀	arlliw croen tywyll, benywaidd, gwarchod, gwarchodydd benywaidd, gwarchodydd benywaidd: arlliw croen tywyll, menyw
+🥷	cudd, cuddio, ninja, ymladdwr
 👷	adeiladu, adeiladwr, gweithiwr, het
 👷🏻	adeiladu, adeiladwr, adeiladwr: arlliw croen golau, arlliw croen golau, gweithiwr, het
 👷🏼	adeiladu, adeiladwr, adeiladwr: arlliw croen canolig-golau, arlliw croen canolig-golau, gweithiwr, het
@@ -1003,18 +1134,42 @@
 🧕🏽	arlliw croen canolog, hijab, mantilla, menyw â phensgarff, menyw â phensgarff: arlliw croen canolog, pensgarff, tichel
 🧕🏾	arlliw croen canolig-tywyll, hijab, mantilla, menyw â phensgarff, menyw â phensgarff: arlliw croen canolig-tywyll, pensgarff, tichel
 🧕🏿	arlliw croen tywyll, hijab, mantilla, menyw â phensgarff, menyw â phensgarff: arlliw croen tywyll, pensgarff, tichel
-🤵	dyn, dyn mewn tycs, priodfab, tycs
-🤵🏻	arlliw croen golau, dyn, dyn mewn tycs, dyn mewn tycs: arlliw croen golau, priodfab, tycs
-🤵🏼	arlliw croen canolig-golau, dyn, dyn mewn tycs, dyn mewn tycs: arlliw croen canolig-golau, priodfab, tycs
-🤵🏽	arlliw croen canolog, dyn, dyn mewn tycs, dyn mewn tycs: arlliw croen canolog, priodfab, tycs
-🤵🏾	arlliw croen canolig-tywyll, dyn, dyn mewn tycs, dyn mewn tycs: arlliw croen canolig-tywyll, priodfab, tycs
-🤵🏿	arlliw croen tywyll, dyn, dyn mewn tycs, dyn mewn tycs: arlliw croen tywyll, priodfab, tycs
-👰	fêl, priodas, priodferch, priodferch â fêl
-👰🏻	arlliw croen golau, fêl, priodas, priodferch, priodferch â fêl, priodferch â fêl: arlliw croen golau
-👰🏼	arlliw croen canolig-golau, fêl, priodas, priodferch, priodferch â fêl, priodferch â fêl: arlliw croen canolig-golau
-👰🏽	arlliw croen canolog, fêl, priodas, priodferch, priodferch â fêl, priodferch â fêl: arlliw croen canolog
-👰🏾	arlliw croen canolig-tywyll, fêl, priodas, priodferch, priodferch â fêl, priodferch â fêl: arlliw croen canolig-tywyll
-👰🏿	arlliw croen tywyll, fêl, priodas, priodferch, priodferch â fêl, priodferch â fêl: arlliw croen tywyll
+🤵	person, person mewn siaced ginio, priodfab, siaced ginio
+🤵🏻	arlliw croen golau, person, person mewn siaced ginio, person mewn siaced ginio: arlliw croen golau, priodfab, siaced ginio
+🤵🏼	arlliw croen canolig-golau, person, person mewn siaced ginio, person mewn siaced ginio: arlliw croen canolig-golau, priodfab, siaced ginio
+🤵🏽	arlliw croen canolog, person, person mewn siaced ginio, person mewn siaced ginio: arlliw croen canolog, priodfab, siaced ginio
+🤵🏾	arlliw croen canolig-tywyll, person, person mewn siaced ginio, person mewn siaced ginio: arlliw croen canolig-tywyll, priodfab, siaced ginio
+🤵🏿	arlliw croen tywyll, person, person mewn siaced ginio, person mewn siaced ginio: arlliw croen tywyll, priodfab, siaced ginio
+🤵‍♂	dyn, dyn mewn siaced ginio, siaced ginio
+🤵🏻‍♂	arlliw croen golau, dyn, dyn mewn siaced ginio, dyn mewn siaced ginio: arlliw croen golau, siaced ginio
+🤵🏼‍♂	arlliw croen canolig-golau, dyn, dyn mewn siaced ginio, dyn mewn siaced ginio: arlliw croen canolig-golau, siaced ginio
+🤵🏽‍♂	arlliw croen canolog, dyn, dyn mewn siaced ginio, dyn mewn siaced ginio: arlliw croen canolog, siaced ginio
+🤵🏾‍♂	arlliw croen canolig-tywyll, dyn, dyn mewn siaced ginio, dyn mewn siaced ginio: arlliw croen canolig-tywyll, siaced ginio
+🤵🏿‍♂	arlliw croen tywyll, dyn, dyn mewn siaced ginio, dyn mewn siaced ginio: arlliw croen tywyll, siaced ginio
+🤵‍♀	menyw, menyw mewn siaced ginio, siaced ginio
+🤵🏻‍♀	arlliw croen golau, menyw, menyw mewn siaced ginio, menyw mewn siaced ginio: arlliw croen golau, siaced ginio
+🤵🏼‍♀	arlliw croen canolig-golau, menyw, menyw mewn siaced ginio, menyw mewn siaced ginio: arlliw croen canolig-golau, siaced ginio
+🤵🏽‍♀	arlliw croen canolog, menyw, menyw mewn siaced ginio, menyw mewn siaced ginio: arlliw croen canolog, siaced ginio
+🤵🏾‍♀	arlliw croen canolig-tywyll, menyw, menyw mewn siaced ginio, menyw mewn siaced ginio: arlliw croen canolig-tywyll, siaced ginio
+🤵🏿‍♀	arlliw croen tywyll, menyw, menyw mewn siaced ginio, menyw mewn siaced ginio: arlliw croen tywyll, siaced ginio
+👰	llen, person yn gwisgo llen, priodas, priodferch
+👰🏻	arlliw croen golau, llen, person yn gwisgo llen, person yn gwisgo llen: arlliw croen golau, priodas, priodferch
+👰🏼	arlliw croen canolig-golau, llen, person yn gwisgo llen, person yn gwisgo llen: arlliw croen canolig-golau, priodas, priodferch
+👰🏽	arlliw croen canolog, llen, person yn gwisgo llen, person yn gwisgo llen: arlliw croen canolog, priodas, priodferch
+👰🏾	arlliw croen canolig-tywyll, llen, person yn gwisgo llen, person yn gwisgo llen: arlliw croen canolig-tywyll, priodas, priodferch
+👰🏿	arlliw croen tywyll, llen, person yn gwisgo llen, person yn gwisgo llen: arlliw croen tywyll, priodas, priodferch
+👰‍♂	dyn, dyn yn gwisgo llen, llen
+👰🏻‍♂	arlliw croen golau, dyn, dyn yn gwisgo llen, dyn yn gwisgo llen: arlliw croen golau, llen
+👰🏼‍♂	arlliw croen canolig-golau, dyn, dyn yn gwisgo llen, dyn yn gwisgo llen: arlliw croen canolig-golau, llen
+👰🏽‍♂	arlliw croen canolog, dyn, dyn yn gwisgo llen, dyn yn gwisgo llen: arlliw croen canolog, llen
+👰🏾‍♂	arlliw croen canolig-tywyll, dyn, dyn yn gwisgo llen, dyn yn gwisgo llen: arlliw croen canolig-tywyll, llen
+👰🏿‍♂	arlliw croen tywyll, dyn, dyn yn gwisgo llen, dyn yn gwisgo llen: arlliw croen tywyll, llen
+👰‍♀	llen, menyw, menyw yn gwisgo llen
+👰🏻‍♀	arlliw croen golau, llen, menyw, menyw yn gwisgo llen, menyw yn gwisgo llen: arlliw croen golau
+👰🏼‍♀	arlliw croen canolig-golau, llen, menyw, menyw yn gwisgo llen, menyw yn gwisgo llen: arlliw croen canolig-golau
+👰🏽‍♀	arlliw croen canolog, llen, menyw, menyw yn gwisgo llen, menyw yn gwisgo llen: arlliw croen canolog
+👰🏾‍♀	arlliw croen canolig-tywyll, llen, menyw, menyw yn gwisgo llen, menyw yn gwisgo llen: arlliw croen canolig-tywyll
+👰🏿‍♀	arlliw croen tywyll, llen, menyw, menyw yn gwisgo llen, menyw yn gwisgo llen: arlliw croen tywyll
 🤰	beichiog, menyw, menyw feichiog
 🤰🏻	arlliw croen golau, beichiog, menyw, menyw feichiog, menyw feichiog: arlliw croen golau
 🤰🏼	arlliw croen canolig-golau, beichiog, menyw, menyw feichiog, menyw feichiog: arlliw croen canolig-golau
@@ -1027,6 +1182,24 @@
 🤱🏽	arlliw croen canolog, babi, bron, bwydo o’r fron, bwydo o’r fron: arlliw croen canolog, nyrsio
 🤱🏾	arlliw croen canolig-tywyll, babi, bron, bwydo o’r fron, bwydo o’r fron: arlliw croen canolig-tywyll, nyrsio
 🤱🏿	arlliw croen tywyll, babi, bron, bwydo o’r fron, bwydo o’r fron: arlliw croen tywyll, nyrsio
+👩‍🍼	babi, bwydo, maethu, menyw, menyw yn bwydo babi
+👩🏻‍🍼	arlliw croen golau, babi, bwydo, maethu, menyw, menyw yn bwydo babi, menyw yn bwydo babi: arlliw croen golau
+👩🏼‍🍼	arlliw croen canolig-golau, babi, bwydo, maethu, menyw, menyw yn bwydo babi, menyw yn bwydo babi: arlliw croen canolig-golau
+👩🏽‍🍼	arlliw croen canolog, babi, bwydo, maethu, menyw, menyw yn bwydo babi, menyw yn bwydo babi: arlliw croen canolog
+👩🏾‍🍼	arlliw croen canolig-tywyll, babi, bwydo, maethu, menyw, menyw yn bwydo babi, menyw yn bwydo babi: arlliw croen canolig-tywyll
+👩🏿‍🍼	arlliw croen tywyll, babi, bwydo, maethu, menyw, menyw yn bwydo babi, menyw yn bwydo babi: arlliw croen tywyll
+👨‍🍼	babi, bwydo, dyn, dyn yn bwydo babi, maethu
+👨🏻‍🍼	arlliw croen golau, babi, bwydo, dyn, dyn yn bwydo babi, dyn yn bwydo babi: arlliw croen golau, maethu
+👨🏼‍🍼	arlliw croen canolig-golau, babi, bwydo, dyn, dyn yn bwydo babi, dyn yn bwydo babi: arlliw croen canolig-golau, maethu
+👨🏽‍🍼	arlliw croen canolog, babi, bwydo, dyn, dyn yn bwydo babi, dyn yn bwydo babi: arlliw croen canolog, maethu
+👨🏾‍🍼	arlliw croen canolig-tywyll, babi, bwydo, dyn, dyn yn bwydo babi, dyn yn bwydo babi: arlliw croen canolig-tywyll, maethu
+👨🏿‍🍼	arlliw croen tywyll, babi, bwydo, dyn, dyn yn bwydo babi, dyn yn bwydo babi: arlliw croen tywyll, maethu
+🧑‍🍼	babi, bwydo, maethu, person, person yn bwydo babi
+🧑🏻‍🍼	arlliw croen golau, babi, bwydo, maethu, person, person yn bwydo babi, person yn bwydo babi: arlliw croen golau
+🧑🏼‍🍼	arlliw croen canolig-golau, babi, bwydo, maethu, person, person yn bwydo babi, person yn bwydo babi: arlliw croen canolig-golau
+🧑🏽‍🍼	arlliw croen canolog, babi, bwydo, maethu, person, person yn bwydo babi, person yn bwydo babi: arlliw croen canolog
+🧑🏾‍🍼	arlliw croen canolig-tywyll, babi, bwydo, maethu, person, person yn bwydo babi, person yn bwydo babi: arlliw croen canolig-tywyll
+🧑🏿‍🍼	arlliw croen tywyll, babi, bwydo, maethu, person, person yn bwydo babi, person yn bwydo babi: arlliw croen tywyll
 👼	angel, babi, babi angel, ffantasi, wyneb
 👼🏻	angel, arlliw croen golau, babi, babi angel: arlliw croen golau, ffantasi, wyneb
 👼🏼	angel, arlliw croen canolig-golau, babi, babi angel: arlliw croen canolig-golau, ffantasi, wyneb
@@ -1045,6 +1218,12 @@
 🤶🏽	Siân Corn, Siân Corn: arlliw croen canolog, arlliw croen canolog, mam, y Nadolig
 🤶🏾	Siân Corn, Siân Corn: arlliw croen canolig-tywyll, arlliw croen canolig-tywyll, mam, y Nadolig
 🤶🏿	Siân Corn, Siân Corn: arlliw croen tywyll, arlliw croen tywyll, mam, y Nadolig
+🧑‍🎄	Claus, nadolig, mx claus
+🧑🏻‍🎄	Claus, nadolig, arlliw croen golau, mx claus, mx claus: arlliw croen golau
+🧑🏼‍🎄	Claus, nadolig, arlliw croen canolig-golau, mx claus, mx claus: arlliw croen canolig-golau
+🧑🏽‍🎄	Claus, nadolig, arlliw croen canolog, mx claus, mx claus: arlliw croen canolog
+🧑🏾‍🎄	Claus, nadolig, arlliw croen canolig-tywyll, mx claus, mx claus: arlliw croen canolig-tywyll
+🧑🏿‍🎄	Claus, nadolig, arlliw croen tywyll, mx claus, mx claus: arlliw croen tywyll
 🦸	archarwr, archbŵer, arwr, arwres, da
 🦸🏻	archarwr, archarwr: arlliw croen golau, archbŵer, arlliw croen golau, arwr, arwres, da
 🦸🏼	archarwr, archarwr: arlliw croen canolig-golau, archbŵer, arlliw croen canolig-golau, arwr, arwres, da
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	arlliw croen canolog, menyw / penlinio, menyw yn penlinio, menyw yn penlinio: arlliw croen canolog
 🧎🏾‍♀	arlliw croen canolig-tywyll, menyw / penlinio, menyw yn penlinio, menyw yn penlinio: arlliw croen canolig-tywyll
 🧎🏿‍♀	arlliw croen tywyll, menyw / penlinio, menyw yn penlinio, menyw yn penlinio: arlliw croen tywyll
+🧑‍🦯	dall, hygyrchedd, person â ffon gerdded
+🧑🏻‍🦯	arlliw croen golau, dall, hygyrchedd, person â ffon gerdded, person â ffon gerdded: arlliw croen golau
+🧑🏼‍🦯	arlliw croen canolig-golau, dall, hygyrchedd, person â ffon gerdded, person â ffon gerdded: arlliw croen canolig-golau
+🧑🏽‍🦯	arlliw croen canolog, dall, hygyrchedd, person â ffon gerdded, person â ffon gerdded: arlliw croen canolog
+🧑🏾‍🦯	arlliw croen canolig-tywyll, dall, hygyrchedd, person â ffon gerdded, person â ffon gerdded: arlliw croen canolig-tywyll
+🧑🏿‍🦯	arlliw croen tywyll, dall, hygyrchedd, person â ffon gerdded, person â ffon gerdded: arlliw croen tywyll
 👨‍🦯	dall, dyn, dyn â ffon wen, hygyrchedd
 👨🏻‍🦯	arlliw croen golau, dall, dyn, dyn â ffon wen, dyn â ffon wen: arlliw croen golau, hygyrchedd
 👨🏼‍🦯	arlliw croen canolig-golau, dall, dyn, dyn â ffon wen, dyn â ffon wen: arlliw croen canolig-golau, hygyrchedd
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	arlliw croen canolog, dall, hygyrchedd, menyw, menyw â ffon wen, menyw â ffon wen: arlliw croen canolog
 👩🏾‍🦯	arlliw croen canolig-tywyll, dall, hygyrchedd, menyw, menyw â ffon wen, menyw â ffon wen: arlliw croen canolig-tywyll
 👩🏿‍🦯	arlliw croen tywyll, dall, hygyrchedd, menyw, menyw â ffon wen, menyw â ffon wen: arlliw croen tywyll
+🧑‍🦼	cadair olwyn, hygyrchedd, person mewn cadair olwyn drydan
+🧑🏻‍🦼	arlliw croen golau, cadair olwyn, hygyrchedd, person mewn cadair olwyn drydan, person mewn cadair olwyn drydan: arlliw croen golau
+🧑🏼‍🦼	arlliw croen canolig-golau, cadair olwyn, hygyrchedd, person mewn cadair olwyn drydan, person mewn cadair olwyn drydan: arlliw croen canolig-golau
+🧑🏽‍🦼	arlliw croen canolog, cadair olwyn, hygyrchedd, person mewn cadair olwyn drydan, person mewn cadair olwyn drydan: arlliw croen canolog
+🧑🏾‍🦼	arlliw croen canolig-tywyll, cadair olwyn, hygyrchedd, person mewn cadair olwyn drydan, person mewn cadair olwyn drydan: arlliw croen canolig-tywyll
+🧑🏿‍🦼	arlliw croen tywyll, cadair olwyn, hygyrchedd, person mewn cadair olwyn drydan, person mewn cadair olwyn drydan: arlliw croen tywyll
 👨‍🦼	cadair olwyn, dyn, dyn mewn cadair olwyn fodur, hygyrchedd
 👨🏻‍🦼	arlliw croen golau, cadair olwyn, dyn, dyn mewn cadair olwyn fodur, dyn mewn cadair olwyn fodur: arlliw croen golau, hygyrchedd
 👨🏼‍🦼	arlliw croen canolig-golau, cadair olwyn, dyn, dyn mewn cadair olwyn fodur, dyn mewn cadair olwyn fodur: arlliw croen canolig-golau, hygyrchedd
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	arlliw croen canolog, cadair olwyn, hygyrchedd, menyw, menyw mewn cadair olwyn fodur, menyw mewn cadair olwyn fodur: arlliw croen canolog
 👩🏾‍🦼	arlliw croen canolig-tywyll, cadair olwyn, hygyrchedd, menyw, menyw mewn cadair olwyn fodur, menyw mewn cadair olwyn fodur: arlliw croen canolig-tywyll
 👩🏿‍🦼	arlliw croen tywyll, cadair olwyn, hygyrchedd, menyw, menyw mewn cadair olwyn fodur, menyw mewn cadair olwyn fodur: arlliw croen tywyll
+🧑‍🦽	cadair olwyn, hygyrchedd, person mewn cadair olwyn â llaw
+🧑🏻‍🦽	arlliw croen golau, cadair olwyn, hygyrchedd, person mewn cadair olwyn â llaw, person mewn cadair olwyn â llaw: arlliw croen golau
+🧑🏼‍🦽	arlliw croen canolig-golau, cadair olwyn, hygyrchedd, person mewn cadair olwyn â llaw, person mewn cadair olwyn â llaw: arlliw croen canolig-golau
+🧑🏽‍🦽	arlliw croen canolog, cadair olwyn, hygyrchedd, person mewn cadair olwyn â llaw, person mewn cadair olwyn â llaw: arlliw croen canolog
+🧑🏾‍🦽	arlliw croen canolig-tywyll, cadair olwyn, hygyrchedd, person mewn cadair olwyn â llaw, person mewn cadair olwyn â llaw: arlliw croen canolig-tywyll
+🧑🏿‍🦽	arlliw croen tywyll, cadair olwyn, hygyrchedd, person mewn cadair olwyn â llaw, person mewn cadair olwyn â llaw: arlliw croen tywyll
 👨‍🦽	cadair olwyn, dyn, dyn mewn cadair olwyn, hygyrchedd
 👨🏻‍🦽	arlliw croen golau, cadair olwyn, dyn, dyn mewn cadair olwyn, dyn mewn cadair olwyn: arlliw croen golau, hygyrchedd
 👨🏼‍🦽	arlliw croen canolig-golau, cadair olwyn, dyn, dyn mewn cadair olwyn, dyn mewn cadair olwyn: arlliw croen canolig-golau, hygyrchedd
@@ -1643,15 +1840,25 @@
 🛌🏿	arlliw croen tywyll, cysgu, gwesty, person mewn gwely, person mewn gwely: arlliw croen tywyll
 🧑‍🤝‍🧑	cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo
 🧑🏻‍🤝‍🧑🏻	arlliw croen golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen golau
+🧑🏻‍🤝‍🧑🏼	arlliw croen canolig-golau, arlliw croen golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen golau, arlliw croen canolig-golau
+🧑🏻‍🤝‍🧑🏽	arlliw croen canolog, arlliw croen golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen golau, arlliw croen canolog
+🧑🏻‍🤝‍🧑🏾	arlliw croen canolig-tywyll, arlliw croen golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen golau, arlliw croen canolig-tywyll
+🧑🏻‍🤝‍🧑🏿	arlliw croen golau, arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen golau, arlliw croen tywyll
 🧑🏼‍🤝‍🧑🏻	arlliw croen canolig-golau, arlliw croen golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-golau, arlliw croen golau
 🧑🏼‍🤝‍🧑🏼	arlliw croen canolig-golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-golau
+🧑🏼‍🤝‍🧑🏽	arlliw croen canolig-golau, arlliw croen canolog, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-golau, arlliw croen canolog
+🧑🏼‍🤝‍🧑🏾	arlliw croen canolig-golau, arlliw croen canolig-tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-golau, arlliw croen canolig-tywyll
+🧑🏼‍🤝‍🧑🏿	arlliw croen canolig-golau, arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-golau, arlliw croen tywyll
 🧑🏽‍🤝‍🧑🏻	arlliw croen canolog, arlliw croen golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolog, arlliw croen golau
 🧑🏽‍🤝‍🧑🏼	arlliw croen canolig-golau, arlliw croen canolog, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolog, arlliw croen canolig-golau
 🧑🏽‍🤝‍🧑🏽	arlliw croen canolog, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolog
+🧑🏽‍🤝‍🧑🏾	arlliw croen canolig-tywyll, arlliw croen canolog, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolog, arlliw croen canolig-tywyll
+🧑🏽‍🤝‍🧑🏿	arlliw croen canolog, arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolog, arlliw croen tywyll
 🧑🏾‍🤝‍🧑🏻	arlliw croen canolig-tywyll, arlliw croen golau, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen golau
 🧑🏾‍🤝‍🧑🏼	arlliw croen canolig-golau, arlliw croen canolig-tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen canolig-golau
 🧑🏾‍🤝‍🧑🏽	arlliw croen canolig-tywyll, arlliw croen canolog, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen canolog
 🧑🏾‍🤝‍🧑🏾	arlliw croen canolig-tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-tywyll
+🧑🏾‍🤝‍🧑🏿	arlliw croen canolig-tywyll, arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen tywyll
 🧑🏿‍🤝‍🧑🏻	arlliw croen golau, arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen tywyll, arlliw croen golau
 🧑🏿‍🤝‍🧑🏼	arlliw croen canolig-golau, arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen tywyll, arlliw croen canolig-golau
 🧑🏿‍🤝‍🧑🏽	arlliw croen canolog, arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen tywyll, arlliw croen canolog
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	arlliw croen tywyll, cwpl, dal, dal dwylo, llaw, person, pobl yn dal dwylo, pobl yn dal dwylo: arlliw croen tywyll
 👭	dal, dwy fenyw yn dal dwylo, dwylo, menyw, pâr
 👭🏻	arlliw croen golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen golau, dwylo, menyw, pâr
+👩🏻‍🤝‍👩🏼	arlliw croen canolig-golau, arlliw croen golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen golau, arlliw croen canolig-golau, dwylo, menyw, pâr
+👩🏻‍🤝‍👩🏽	arlliw croen canolog, arlliw croen golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen golau, arlliw croen canolog, dwylo, menyw, pâr
+👩🏻‍🤝‍👩🏾	arlliw croen canolig-tywyll, arlliw croen golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen golau, arlliw croen canolig-tywyll, dwylo, menyw, pâr
+👩🏻‍🤝‍👩🏿	arlliw croen golau, arlliw croen tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen golau, arlliw croen tywyll, dwylo, menyw, pâr
 👩🏼‍🤝‍👩🏻	arlliw croen canolig-golau, arlliw croen golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-golau, arlliw croen golau, dwylo, menyw, pâr
 👭🏼	arlliw croen canolig-golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-golau, dwylo, menyw, pâr
+👩🏼‍🤝‍👩🏽	arlliw croen canolig-golau, arlliw croen canolog, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-golau, arlliw croen canolog, dwylo, menyw, pâr
+👩🏼‍🤝‍👩🏾	arlliw croen canolig-golau, arlliw croen canolig-tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-golau, arlliw croen canolig-tywyll, dwylo, menyw, pâr
+👩🏼‍🤝‍👩🏿	arlliw croen canolig-golau, arlliw croen tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-golau, arlliw croen tywyll, dwylo, menyw, pâr
 👩🏽‍🤝‍👩🏻	arlliw croen canolog, arlliw croen golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolog, arlliw croen golau, dwylo, menyw, pâr
 👩🏽‍🤝‍👩🏼	arlliw croen canolig-golau, arlliw croen canolog, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolog, arlliw croen canolig-golau, dwylo, menyw, pâr
 👭🏽	arlliw croen canolog, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolog, dwylo, menyw, pâr
+👩🏽‍🤝‍👩🏾	arlliw croen canolig-tywyll, arlliw croen canolog, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolog, arlliw croen canolig-tywyll, dwylo, menyw, pâr
+👩🏽‍🤝‍👩🏿	arlliw croen canolog, arlliw croen tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolog, arlliw croen tywyll, dwylo, menyw, pâr
 👩🏾‍🤝‍👩🏻	arlliw croen canolig-tywyll, arlliw croen golau, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen golau, dwylo, menyw, pâr
 👩🏾‍🤝‍👩🏼	arlliw croen canolig-golau, arlliw croen canolig-tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen canolig-golau, dwylo, menyw, pâr
 👩🏾‍🤝‍👩🏽	arlliw croen canolig-tywyll, arlliw croen canolog, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen canolog, dwylo, menyw, pâr
 👭🏾	arlliw croen canolig-tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-tywyll, dwylo, menyw, pâr
+👩🏾‍🤝‍👩🏿	arlliw croen canolig-tywyll, arlliw croen tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen tywyll, dwylo, menyw, pâr
 👩🏿‍🤝‍👩🏻	arlliw croen golau, arlliw croen tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen tywyll, arlliw croen golau, dwylo, menyw, pâr
 👩🏿‍🤝‍👩🏼	arlliw croen canolig-golau, arlliw croen tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen tywyll, arlliw croen canolig-golau, dwylo, menyw, pâr
 👩🏿‍🤝‍👩🏽	arlliw croen canolog, arlliw croen tywyll, dal, dwy fenyw yn dal dwylo, dwy fenyw yn dal dwylo: arlliw croen tywyll, arlliw croen canolog, dwylo, menyw, pâr
@@ -1701,15 +1918,25 @@
 👫🏿	arlliw croen tywyll, dal, dwylo, dyn a menyw yn dal dwylo, dyn a menyw yn dal dwylo: arlliw croen tywyll, pâr
 👬	dal, dau ddyn yn dal dwylo, dwylo, dyn, pâr
 👬🏻	arlliw croen golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen golau, dwylo, dyn, pâr
+👨🏻‍🤝‍👨🏼	arlliw croen canolig-golau, arlliw croen golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen golau, arlliw croen canolig-golau, dwylo, dyn, pâr
+👨🏻‍🤝‍👨🏽	arlliw croen canolog, arlliw croen golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen golau, arlliw croen canolog, dwylo, dyn, pâr
+👨🏻‍🤝‍👨🏾	arlliw croen canolig-tywyll, arlliw croen golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen golau, arlliw croen canolig-tywyll, dwylo, dyn, pâr
+👨🏻‍🤝‍👨🏿	arlliw croen golau, arlliw croen tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen golau, arlliw croen tywyll, dwylo, dyn, pâr
 👨🏼‍🤝‍👨🏻	arlliw croen canolig-golau, arlliw croen golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-golau, arlliw croen golau, dwylo, dyn, pâr
 👬🏼	arlliw croen canolig-golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-golau, dwylo, dyn, pâr
+👨🏼‍🤝‍👨🏽	arlliw croen canolig-golau, arlliw croen canolog, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-golau, arlliw croen canolog, dwylo, dyn, pâr
+👨🏼‍🤝‍👨🏾	arlliw croen canolig-golau, arlliw croen canolig-tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-golau, arlliw croen canolig-tywyll, dwylo, dyn, pâr
+👨🏼‍🤝‍👨🏿	arlliw croen canolig-golau, arlliw croen tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-golau, arlliw croen tywyll, dwylo, dyn, pâr
 👨🏽‍🤝‍👨🏻	arlliw croen canolog, arlliw croen golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolog, arlliw croen golau, dwylo, dyn, pâr
 👨🏽‍🤝‍👨🏼	arlliw croen canolig-golau, arlliw croen canolog, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolog, arlliw croen canolig-golau, dwylo, dyn, pâr
 👬🏽	arlliw croen canolog, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolog, dwylo, dyn, pâr
+👨🏽‍🤝‍👨🏾	arlliw croen canolig-tywyll, arlliw croen canolog, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolog, arlliw croen canolig-tywyll, dwylo, dyn, pâr
+👨🏽‍🤝‍👨🏿	arlliw croen canolog, arlliw croen tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolog, arlliw croen tywyll, dwylo, dyn, pâr
 👨🏾‍🤝‍👨🏻	arlliw croen canolig-tywyll, arlliw croen golau, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen golau, dwylo, dyn, pâr
 👨🏾‍🤝‍👨🏼	arlliw croen canolig-golau, arlliw croen canolig-tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen canolig-golau, dwylo, dyn, pâr
 👨🏾‍🤝‍👨🏽	arlliw croen canolig-tywyll, arlliw croen canolog, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen canolog, dwylo, dyn, pâr
 👬🏾	arlliw croen canolig-tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-tywyll, dwylo, dyn, pâr
+👨🏾‍🤝‍👨🏿	arlliw croen canolig-tywyll, arlliw croen tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen canolig-tywyll, arlliw croen tywyll, dwylo, dyn, pâr
 👨🏿‍🤝‍👨🏻	arlliw croen golau, arlliw croen tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen tywyll, arlliw croen golau, dwylo, dyn, pâr
 👨🏿‍🤝‍👨🏼	arlliw croen canolig-golau, arlliw croen tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen tywyll, arlliw croen canolig-golau, dwylo, dyn, pâr
 👨🏿‍🤝‍👨🏽	arlliw croen canolog, arlliw croen tywyll, dal, dau ddyn yn dal dwylo, dau ddyn yn dal dwylo: arlliw croen tywyll, arlliw croen canolog, dwylo, dyn, pâr
@@ -1752,6 +1979,7 @@
 🗣️	pen, pen yn siarad, siarad, silwét, wyneb
 👤	bron, bron mewn silwét, silwét
 👥	bron, bronnau mewn silwét, silwét
+🫂	cwtsh, diolch, helo, hwyl fawr, pobl yn cofleidio
 👣	corff, dilledyn, olion traed
 🦰	gwallt coch, melyngoch, pen coch
 🦱	afro, cudynnau, cyrliog, gwallt cyrliog
@@ -1766,11 +1994,12 @@
 🦮	ci tywys, dall, hygyrchedd, tywys
 🐕‍🦺	ci, ci cymorth, cymorth, gwasanaeth, hygyrchedd
 🐩	ci, pwdl
-🐺	blaidd, wyneb, wyneb blaidd
-🦊	llwynog, wyneb, wyneb llwynog
+🐺	blaidd, wyneb
+🦊	llwynog, wyneb
 🦝	chwilfrydig, racŵn, slei
 🐱	anifail anwes, cath, wyneb, wyneb cath
 🐈️	anifail anwes, cath
+🐈‍⬛	anlwcus, cath, cath ddu, du
 🦁	llew, wyneb, wyneb llew
 🐯	teigr, wyneb, wyneb teigr
 🐅	teigr
@@ -1780,6 +2009,7 @@
 🦄	uncorn, wyneb, wyneb uncorn
 🦓	sebra, streipen
 🦌	anifail, carw
+🦬	bual, byfflo, haid, ych gwyllt
 🐮	buwch, wyneb, wyneb buwch
 🐂	tarw, ych
 🐃	byfflo, byfflo dwr, dŵr
@@ -1796,6 +2026,7 @@
 🦙	alpaca, guanaco, gwlân, lama, vicuña
 🦒	jiráff, smotiau
 🐘	eliffant
+🦣	diflannu, gwlanog, mamoth, mawr, ysgwthr
 🦏	anifail, rhinoseros
 🦛	afonfarch, hipo
 🐭	llygoden, wyneb, wyneb llygoden
@@ -1804,10 +2035,12 @@
 🐹	anifail anwes, bochdew, wyneb, wyneb bochdew
 🐰	anifail anwes, bwni, cwningen, wyneb, wyneb cwningen
 🐇	anifail anwes, bwni, cwningen
-🐿️	gwiwer resog
+🐿️	gwiwer, gwiwer resog
+🦫	afanc, argae
 🦔	draenog, pigog
 🦇	anifail, fampir, ystlum
 🐻	arth, wyneb, wyneb arth
+🐻‍❄	arctig, arth, arth wen, gwyn
 🐨	arth, coala
 🐼	panda, wyneb, wyneb panda
 🦥	araf, diog, diogyn
@@ -1829,10 +2062,12 @@
 🦆	aderyn, hwyaden
 🦢	aderyn, alarch, cyw alarch, hwyaden fach hyll
 🦉	aderyn, doeth, tylluan
+🦤	Mawrisiws, diflanedig, dodo, mawr
+🪶	aderyn, hediad, plu, pluen, ysgafn
 🦩	cyhydeddol, fflamingo, llachar
 🦚	aderyn, balch, paun, peunes, trawiadol
 🦜	aderyn, môr-leidr, parot, siarad
-🐸	broga, wyneb, wyneb broga
+🐸	broga, wyneb
 🐊	crocodeil
 🐢	crwban y môr
 🦎	madfall, ymlusgiad
@@ -1844,6 +2079,7 @@
 🐳	dŵr, morfil, morfil yn chwythu dŵr, wyneb
 🐋	morfil
 🐬	dolffin, flipper
+🦭	morlew, morlo
 🐟️	pysgod, pysgodyn
 🐠	pysgod trofannol, pysgodyn, trofannol
 🐡	chwydd bysgodyn, pysgod
@@ -1852,15 +2088,19 @@
 🐚	cragen, cragen droellog, troellog
 🐌	malwoden
 🦋	pert, pili-pala, pryfyn
-🐛	chwilen
+🐛	chwilen, pryf
 🐜	chwilen, morgrugyn
 🐝	chwilen, gwenynen
+🪲	chwilen, cleren, pryfyn
 🐞	chwilen, chwilen y wraig
 🦗	ceiliog rhedyn, criciedyn
+🪳	chwilen ddu, cochiad, pla, pryfyn
 🕷️	chwilen, pry copyn
 🕸️	gwe, gwe pry cop, pry copyn
 🦂	sgorpion
 🦟	clefyd, firws, malaria, mosgito, pryfyn, twymyn
+🪰	clefyd, cynrhonyn, pla, pry, wedi pydru
+🪱	anelid, arfilyn, mwydyn, pryf genwair
 🦠	ameba, bacteria, firws, microb
 💐	blodyn, planhigyn, tusw
 🌸	blodeuyn, blodeuyn ceirios, blodyn, ceirios, planhigyn
@@ -1873,6 +2113,7 @@
 🌼	blodeuyn, blodyn, planhigyn
 🌷	blodyn, planhigyn, tiwlip
 🌱	blodyn, eginblanhigyn, ifanc
+🪴	diddefnydd, diflas, meithrin, planhigyn, planhigyn mewn pot, tyfu, tŷ
 🌲	bythwyrdd, coeden, planhigyn
 🌳	coeden, coeden gollddail, collddail, planhigyn
 🌴	coeden, palmwydden, planhigyn
@@ -1898,8 +2139,10 @@
 🍑	eirinen wlanog, ffrwyth, planhigyn
 🍒	ceirios, ffrwyth, planhigyn
 🍓	aeronen, ffrwyth, mefus, planhigyn
+🫐	glas, llus, llusen, llusi duon bach, mwyar
 🥝	bwyd, ciwi, ffrwyth, ffrwyth ciwi
 🍅	llysieuyn, planhigyn, tomato
+🫒	bwyd, olewydd, olif
 🥥	cneuen goco, palmwydden, piña colada
 🥑	afocado, bwyd, ffrwyth
 🍆	llysieuyn, planhigyn, ŵylyst
@@ -1907,6 +2150,7 @@
 🥕	bwyd, llysieuyn, moron
 🌽	corn, planhigyn, tywysen, tywysen o gorn
 🌶️	planhigyn, pupur, pupur twym, twym
+🫑	llysieuyn, pupryn
 🥒	bwyd, ciwcymber, llysieuyn, piclen
 🥬	bok choy, cêl, gwyrdd deiliog, kale, letys
 🥦	bresych gwyllt, brocoli
@@ -1918,6 +2162,7 @@
 🍞	bara, torth
 🥐	bara, bwyd, croissant, ffrengig, rhôl cilgant
 🥖	bara, bwyd, ffon fara, ffrengig
+🫓	Bara fflat, arepa, lavash, naan, pita
 🥨	pretsel, troellog
 🥯	bagel, becws, pâst
 🥞	bwyd, cacennau poeth, crempog, crempogau, crêpe
@@ -1934,12 +2179,14 @@
 🥪	bara, brechdan
 🌮	mecsicanaidd, taco
 🌯	burrito, mecsicanaidd
+🫔	mecsicanaidd, tamale, wedi ei lapio
 🥙	bara gwastad, bara gwastad wedi’i stwffio, bwyd, cebab, falaffel, gyro, wedi stwffio
 🧆	ffalaffel, gwygbysen, peli cig
 🥚	bwyd, wy
 🍳	coginio, ffrio, padell, wy
 🥘	bas, bwyd, casserol, padell, padell fas o fwyd, paella
 🍲	llestr, llestr o fwyd, stiw
+🫕	Swisaidd, caws, fondue, pot, siocled, wedi toddi
 🥣	bowlen â llwy, brecwast, congee, grawnfwyd
 🥗	bwyd, gwyrdd, salad, salad gwyrdd
 🍿	pop gorn
@@ -1985,6 +2232,7 @@
 🍼	babi, botel, botel babi, diod, llaeth
 🥛	diod, gwydraid, gwydraid o laeth, llaeth
 ☕️	coffi, diod, diod boeth, te, twym
+🫖	diod, pot, te, tebot
 🍵	cwpan, cwpan te heb ddolen, diod, te
 🍶	bar, botel, cwpan, diod, sake
 🍾	bar, botel, corcyn, diod, potel gyda chorcyn yn popian
@@ -1996,6 +2244,7 @@
 🥂	clinc, dathlu, diod, gwydr, gwydrau yn tincian
 🥃	gwirod, gwydraid, shot, tymbler, whisgi
 🥤	cwpan â gwellt yfed, soda, sudd
+🧋	llaeth, perl, swigod, te, te swigod
 🧃	blwch diodydd, blwch sudd ffrwythau
 🧉	diod, maté
 🧊	ciwb iâ, oer
@@ -2025,6 +2274,9 @@
 🏛️	adeilad, adeilad clasurol, clasurol
 🏗️	adeilad, adeiladwaith, adeiladwaith adeilad
 🧱	briciau, bricsen, clai, morter, wal
+🪨	cadarn, carreg, carreg fawr, maen, trwm
+🪵	boncyff, coed cadw, coedwydd, pren
+🛖	cwt, iwrt, tŷ, tŷ crwn
 🏘️	adeiladu, tai, tŷ
 🏚️	adeilad, gwag, tŷ, tŷ gwag
 🏠️	adeilad, cartref, tŷ
@@ -2092,6 +2344,7 @@
 🚗	car, cerbyd, modur
 🚘️	car, dod i’ch cwrdd, modur, modur sy’n dod i’ch cwrdd
 🚙	cerbyd, cerbyd hamdden, hamdden
+🛻	lori pickup, pick-up, pickup, tryc
 🚚	cerbyd, dosbarthu, lori, lori dosbarthu
 🚛	cerbyd, lori, lori gymalog, rhannol
 🚜	cerbyd, tractor
@@ -2104,6 +2357,7 @@
 🚲️	beic, cerbyd
 🛴	cicio, sgwter, sgwter cicio
 🛹	bwrdd, sgrialfwrdd
+🛼	esgid, esgid sglefrio, sglefrio
 🚏	arhosfan, arhosfan bws, bws, stop
 🛣️	heol, traffordd
 🛤️	rheilffordd, trac rheilffordd, trên
@@ -2274,6 +2528,7 @@
 🪁	barcud, esgyn, hedfan
 🎱	biliards, gêm, wyth
 🔮	crisial, ffantasi, pêl, pêl grisial, tylwyth teg
+🪄	dewin, dewines, ffon hud, hud
 🧿	amwled nazar, glain, haid, llygad drwg, nazar, talismon
 🎮️	gêm, gêm fideo, rheolydd
 🕹️	ffon reoli, fideo, gêm
@@ -2281,6 +2536,8 @@
 🎲	dis, gêm
 🧩	cliw, cydgloi, darn, jig-so, pos
 🧸	moethus, tedi bêr, tegan, wedi’i stwffio
+🪅	dathliad, parti, piñata
+🪆	dol, doliau sy’n nythu, nythu, rwsia
 ♠️	cardiau, gêm, rhofiau, siwt, siwt rhofiau
 ♥️	calonnau, cardiau, gêm, siwt, siwt calonnau
 ♦️	cardiau, diemwntau, gêm, siwt, siwt diemwntau
@@ -2293,7 +2550,9 @@
 🖼️	amgueddfa, celf, ffrâm, ffrâm gyda llun
 🎨	amgueddfa, celf, paentiad, palet arlunydd
 🧵	edafedd, gwnïo, llinyn, nodwydd, rîl
+🪡	brodwaith, edeifion, gwnïo, nodwydd, nodwydd wnïo, pwythau, teilwra
 🧶	crosio, edau, gwau, pêl
+🪢	clymog, clymu, cwlwm, plethu, rhaff, troi
 👓️	llygad, sbectol
 🕶️	llygad, sbectol, sbectol haul, tywyll
 🥽	amddiffyn llygad, gogls, nofio, weldio
@@ -2319,6 +2578,7 @@
 👝	bag, cwd, dillad
 🛍️	bag, bagiau siopa, gwesty, siopa
 🎒	bag, bag ysgol, ysgol
+🩴	sandal thong, sandalau, sandalau thong, sandalau traeth, thongs, zōri
 👞	dillad, dyn, esgid, esgid dyn
 👟	athletig, dillad, esgid, esgidiau rhedeg, rhedeg
 🥾	bacpacio, cerdded, esgid, esgid gerdded, gwersylla
@@ -2332,6 +2592,7 @@
 🎩	dillad, het, het silc
 🎓️	cap, cap graddio, dathlu, dillad, het
 🧢	cap pel fâs, cap pêl fas
+🪖	byddin, helmed, helmed filitaraidd, milwr, rhyfelwr
 ⛑️	croes, cymorth, helmed â chroes wen, het, wyneb
 📿	dillad, gleiniau, gleiniau gweddïo, gweddi, mwclis
 💄	colur, minlliw
@@ -2356,15 +2617,17 @@
 🎧️	clustffon
 📻️	fideo, radio
 🎷	cerddoriaeth, offeryn, sacs, sacsoffon
+🪗	acordion, blwch gwasgu, consertina
 🎸	cerddoriaeth, gitâr, offeyrn
 🎹	allweddell, cerddoriaeth, offeryn, piano
 🎺	cerddoriaeth, offeryn, trwmped
 🎻	cerddoriaeth, ffidl, offeryn
 🪕	banjo, cerddoriaeth, llinynnau
 🥁	cerddoriaeth, drwm, ffyn curo
+🪘	conga, curiad, drwm, drwm hir, rhythm
 📱	ffôn, ffôn symudol, symudol
 📲	ffôn, ffôn symudol â saeth, galw, saeth, symudol
-☎️	ffôn
+☎️	ffôn, teleffon
 📞	derbyniwr, derbynnydd ffôn, ffôn
 📟️	galwr, peiriant galw
 📠	ffacs, peiriant ffacs
@@ -2415,6 +2678,7 @@
 🔖	marc, nod tudalen
 🏷️	label
 💰️	arian, bag, bag arian, doler
+🪙	arian, aur, darn arian, metel, trysor
 💴	arian cyfredol, banc, papur arian, papur arian yen, yen
 💵	arian cyfredol, banc, doler, papur arian, papur arian doler
 💶	arian cyfredol, banc, ewro, papur arian, papur arian ewro
@@ -2423,8 +2687,6 @@
 💳️	arian, banc, card, cerdyn credyd, credyd
 🧾	cadw llyfrau, cyfrifyddu, derbynneb, prawf, tystiolaeth
 💹	banc, marchnad, siart, siart yn cynyddu â yen, twf
-💱	arian, arian cyfredol, banc, cyfnewid, cyfnewid arian cyfredol
-💲	arian, arian cyfredol, arwydd doler drom, doler
 ✉️	amlen, e-bost
 📧	e-bost, llythyren, post
 📨	amlen, amlen yn dyfod i mewn, derbyn, e-bost, llythyr
@@ -2458,7 +2720,7 @@
 📉	graff, i lawr, siart, siart yn gostwng, trend
 📊	bar, graff, siart, siart bar
 📋️	clipfwrdd
-📌	pin
+📌	pin, pin gwthio
 📍	pin, pin crwn
 📎	clip papur
 🖇️	clip papur, clipiau papur wedi’u cysylltu, linc
@@ -2468,7 +2730,7 @@
 🗃️	blwch, blwch ffeilio cardiau, card, ffeilio
 🗄️	cabinet, ffeil gabinet, ffeilio
 🗑️	bin sbwriel
-🔒️	clô
+🔒️	ar gau, clô, dan glo
 🔓️	agor, cloi, clô agored, datgloi
 🔏	cloi, clô ac ysgrifbin, inc, nib, ysgrifbin
 🔐	allwedd, cloi, clô, clô ynghau gydag allwedd, diogel
@@ -2482,9 +2744,12 @@
 🗡️	arf, cyllell, dagr
 ⚔️	arf, cleddyfau, cleddyfau wedi croesi, wedi croesi
 🔫	arf, dryll, llawddryll, pistol, rifolfer
+🪃	Awstralia, adlam, bwmerang, ôl-effaith
 🏹	bwa, bwa saeth, saeth, saethwr, sidydd
 🛡️	arf, tarian
+🪚	coed cadw, llif, llif gwaith coed, offeryn, saer
 🔧	offeryn, sbaner
+🪛	offeryn, sgriw, sgriwdreifar
 🔩	bollt, nyten, nyten a bollt, offeryn
 ⚙️	gêr, offeryn
 🗜️	cywasgedd, feis, offeryn
@@ -2492,8 +2757,10 @@
 🦯	dall, ffon wen, hygyrchedd
 🔗	dolen, linc
 ⛓️	cadwyn, cadwyni
+🪝	bachyn, cromlin, dal, maglu, pwynt gwerthu, troseddwr
 🧰	blwch offer, cist, mecanydd, offer
 🧲	atyniad, magnet, magnetig, pedol
+🪜	cam, dringo, gris, ysgol, ysgol ddringo
 ⚗️	cemeg, distyllydd, offeryn
 🧪	arbrawf, cemeg, fferyllydd, gwyddoniaeth, lab, tiwb profi
 🧫	bacteria, bioleg, biologydd, dysgl petri, lab, meithrin
@@ -2507,26 +2774,35 @@
 🩹	bandej, bandej glynu
 🩺	calon, meddyg, meddyginiaeth, stethosgop
 🚪	drws
+🛗	hosiad, hygyrchedd, lifft
+🪞	adlewyrchiad, adlewyrchydd, drych, sbecwlwm
+🪟	agoriad, awyr iach, ffenestr, ffrâm, golwg, tryloyw
 🛏️	cysgu, gwely, gwesty
 🛋️	gwesty, lamp, soffa, soffa a lamp
 🪑	cadair, eistedd, sedd
 🚽	toiled
+🪠	cwpan rym, offeryn sugno, plymiwr, plymwr, sugnedd, toiled
 🚿	cawod, dŵr
 🛁	bath, twba bath
+🪤	abwyd, maglu, trap, trap llygod, trap llygoden
 🪒	eillio, miniog, rasel, siafio
 🧴	eli haul, hufen, lleithydd, potel hufen, siampw
 🧷	cewyn, pin diogelwch, roc pync
 🧹	glanhau, wrach, ysgubell, ysgubo
 🧺	basged, ffermio, golchi dillad, picnic
 🧻	papur toiled, rholyn o bapur, tywelion papur
+🪣	bwced, casgen, cerwyn, stwc
 🧼	bar, dysgl sebon, glanhau, sebon, trochion sebon, ymolchi
+🪥	brwsh, brwsh dannedd, dannedd, deintyddol, glanhau, hylendid, ystafell ymolchi
 🧽	amsugno, glanhau, mandyllog, sbwng
-🧯	diffodd, diffoddwr tân, disychedu, tân
+🧯	diffodd, diffoddwr tân, diffoddydd tân, disychedu, tân
 🛒	cert, siopa, troli, troli siopa
 🚬	ysmygu
 ⚰️	arch, marwolaeth
+🪦	bedd, carreg fedd, mynwent
 ⚱️	angladd, marwolaeth, wrn, wrn angladd
 🗿	cerflun, moai, moyai, wyneb
+🪧	arwydd, piced, placard, protest
 🏧	arwydd peiriant codi arian, atm, awtomataidd, banc, clerc
 🚮	arwydd sbwriel mewn bin, bin sbwriel, sbwriel
 🚰	diod, dŵr, dŵr yfed, yfed
@@ -2625,8 +2901,22 @@
 📴	cell, diffodd, ffôn, ffôn symudol wedi’i ddiffodd
 ♀️	arwydd benyw, benywaidd, menyw
 ♂️	arwydd gwrw, dyn, gwrywaidd
-⚕️	arwydd meddygol, esgwlapaidd, meddyginiaeth, staff
+⚧️	symbol trawsryweddol, trawsryweddol
+✖️	arwydd, canslo, lluosi, lluosiad, x, ×
+➕	+, adio, arwydd, math
+➖	-, arwydd, math, tynnu, −
+➗	arwydd, math, rhannu, ÷
 ♾️	am byth, anfeidredd, cyfun, diderfyn
+‼️	!!, atalnodiad, bangbang, ebychnod, ebychnod dwbl, marc
+⁉️	!, !?, ?, cwestiwn, ebychnod, holnod ebychol, marc, marc cwestiwn ag ebychnod
+❓️	?, atalnodiad, cwestiwn, marc, marc cwestiwn
+❔	?, amlinelliad, atalnodiad, cwestiwn, marc, marc cwestiwn gwyn
+❕	!, amlinelliad, atalnodiad, ebychnod, ebychnod gwyn, marc
+❗️	!, atalnodiad, ebychnod, marc
+〰️	atalnodiad, llinell, llinell donnog, tonnog
+💱	arian, arian cyfredol, banc, cyfnewid, cyfnewid arian cyfredol
+💲	arian, arian cyfredol, arwydd doler drom, doler
+⚕️	arwydd meddygol, esgwlapaidd, meddyginiaeth, staff
 ♻️	ailgylchu, symbol ailgylchu
 ⚜	gellesgen
 🔱	angor, arwyddlun, arwyddlun tryfer, llong, tryfer
@@ -2636,25 +2926,14 @@
 ✅	marc, marc tic gwyn trwm, tic, ✓
 ☑️	blwch, blwch pleidlais gyda thic, pleidlais, tic, ✓
 ✔️	marc, marc tic trwm, tic, ✓
-✖️	canslo, lluosi, lluosi x trwm, lluosiad, x, ×
 ❌	canslo, lluosi, marc, marc croes, x, ×
 ❎	botwm croes, marc, sgwâr, x, ×
-➕	+, adio, arwydd adio trwm, math
-➖	-, arwydd tynnu trwm, math, tynnu, −
-➗	arwydd rhannu trwm, math, rhannu, ÷
 ➰	cwrl, dolen, dolen gyrliog
 ➿	cwrl, dolen, dolen gyrliog ddwbl, dwbl
 〽️	marc, marc aryneilio rhannol, rhan
 ✳️	*, asterics, asterics wyth pwynt
 ✴️	*, seren, seren wyth pwynt
 ❇️	*, fflachiad
-‼️	!!, atalnodiad, bangbang, ebychnod, ebychnod dwbl, marc
-⁉️	!, !?, ?, cwestiwn, ebychnod, holnod ebychol, marc, marc cwestiwn ag ebychnod
-❓️	?, atalnodiad, cwestiwn, marc, marc cwestiwn
-❔	?, amlinelliad, atalnodiad, cwestiwn, marc, marc cwestiwn gwyn
-❕	!, amlinelliad, atalnodiad, ebychnod, ebychnod gwyn, marc
-❗️	!, atalnodiad, ebychnod, marc
-〰️	atalnodiad, llinell, llinell donnog, tonnog
 ©️	c, hawlfraint
 ®️	cofrestredig, r
 ™️	marc, nod masnachu
@@ -2750,6 +3029,7 @@
 🏴	chwifio, chwifio baner ddu
 🏳️	chwifio, chwifio baner wen
 🏳‍🌈	baner, baner enfys, enfys
+🏳‍⚧	baner, baner las, pinc a gwyn, trawsryweddol
 🏴‍☠	Jolly Roger, baner môr-leidr, môr-leidr, trysor, ysbeilio
 🇦🇨	baner, baner: Ynys Ascension
 🇦🇩	baner, baner: Andorra
@@ -2768,7 +3048,7 @@
 🇦🇼	baner, baner: Aruba
 🇦🇽	baner, baner: Ynysoedd Åland
 🇦🇿	baner, baner: Azerbaijan
-🇧🇦	baner, baner: Bosnia & Herzegovina
+🇧🇦	baner, baner: Bosnia a Herzegovina
 🇧🇧	baner, baner: Barbados
 🇧🇩	baner, baner: Bangladesh
 🇧🇪	baner, baner: Gwlad Belg
@@ -2900,7 +3180,7 @@
 🇲🇫	baner, baner: Saint Martin
 🇲🇬	baner, baner: Madagascar
 🇲🇭	baner, baner: Ynysoedd Marshall
-🇲🇰	baner, baner: Macedonia
+🇲🇰	baner, baner: Gogledd Macedonia
 🇲🇱	baner, baner: Mali
 🇲🇲	baner, baner: Myanmar (Burma)
 🇲🇳	baner, baner: Mongolia

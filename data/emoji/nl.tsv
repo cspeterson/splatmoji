@@ -19,6 +19,7 @@
 ☺️	gezicht, glimlach, lachend gezicht, omtrek, ontspannen
 😚	gesloten, gezicht, kus, kussend gezicht met gesloten ogen, oog
 😙	gezicht, glimlach, kus, kussend gezicht met lachende ogen, oog
+🥲	aangedaan, dankbaar, enigszins lachend, lachend gezicht met traan, opgelucht, traan, trots
 😋	genieten, gezicht, glimlach, jammie, lachend gezicht dat lippen likt, lekker, mmm
 😛	gezicht, gezicht met uitgestoken tong, tong
 😜	gezicht, grap, knipoog, knipoog met uitgestoken tong, oog, tong
@@ -57,6 +58,7 @@
 🤯	geschokt, ontploffend hoofd
 🤠	cowboy, cowgirl, gezicht, gezicht met cowboyhoed, hoed
 🥳	feest, feestend gezicht, hoedje, roltong, viering
+🥸	bril, gezicht, incognito, neus, vermomd gezicht, vermomming
 😎	bril, gezicht, glimlach, lach, lachen, lachend, lachend gezicht met zonnebril, lachend met zonnebril, mooi weer, ogen, oog, zon, zonnebril
 🤓	geek, gezicht, nerd, nerderig, nerdgezicht
 🧐	gezicht met monocle, saai
@@ -183,6 +185,12 @@
 👌🏽	OK, OK-handgebaar, OK-handgebaar: getinte huidskleur, getinte huidskleur, hand
 👌🏾	OK, OK-handgebaar, OK-handgebaar: donkergetinte huidskleur, donkergetinte huidskleur, hand
 👌🏿	OK, OK-handgebaar, OK-handgebaar: donkere huidskleur, donkere huidskleur, hand
+🤌	handgebaar, ondervraging, samengeknepen, samengeknepen vingers, sarcastisch, vingers
+🤌🏻	handgebaar, lichte huidskleur, ondervraging, samengeknepen, samengeknepen vingers: lichte huidskleur, sarcastisch, vingers
+🤌🏼	handgebaar, lichtgetinte huidskleur, ondervraging, samengeknepen, samengeknepen vingers: lichtgetinte huidskleur, sarcastisch, vingers
+🤌🏽	getinte huidskleur, handgebaar, ondervraging, samengeknepen, samengeknepen vingers: getinte huidskleur, sarcastisch, vingers
+🤌🏾	donkergetinte huidskleur, handgebaar, ondervraging, samengeknepen, samengeknepen vingers: donkergetinte huidskleur, sarcastisch, vingers
+🤌🏿	donkere huidskleur, handgebaar, ondervraging, samengeknepen, samengeknepen vingers: donkere huidskleur, sarcastisch, vingers
 🤏	gebaar voor kleine hoeveelheid, hand met samengeknepen vingers
 🤏🏻	gebaar voor kleine hoeveelheid, hand met samengeknepen vingers, hand met samengeknepen vingers: lichte huidskleur, lichte huidskleur
 🤏🏼	gebaar voor kleine hoeveelheid, hand met samengeknepen vingers, hand met samengeknepen vingers: lichtgetinte huidskleur, lichtgetinte huidskleur
@@ -379,6 +387,8 @@
 👃🏾	donkergetinte huidskleur, lichaam, neus, neus: donkergetinte huidskleur
 👃🏿	donkere huidskleur, lichaam, neus, neus: donkere huidskleur
 🧠	brein, intelligent
+🫀	centrum, hart, hartslag, orgaan, polsslag
+🫁	adem, ademhaling, inademen, longen, orgaan, uitademen
 🦷	tand, tandarts
 🦴	bot, skelet
 👀	gezicht, ogen, oog
@@ -421,6 +431,30 @@
 👱🏽	blond, getinte huidskleur, haar, persoon met blond haar, persoon met blond haar: getinte huidskleur
 👱🏾	blond, donkergetinte huidskleur, haar, persoon met blond haar, persoon met blond haar: donkergetinte huidskleur
 👱🏿	blond, donkere huidskleur, haar, persoon met blond haar, persoon met blond haar: donkere huidskleur
+🧑‍🦰	genderneutraal, rood haar, volwassene, volwassene: rood haar
+🧑🏻‍🦰	genderneutraal, lichte huidskleur, rood haar, volwassene, volwassene: lichte huidskleur, rood haar
+🧑🏼‍🦰	genderneutraal, lichtgetinte huidskleur, rood haar, volwassene, volwassene: lichtgetinte huidskleur, rood haar
+🧑🏽‍🦰	genderneutraal, getinte huidskleur, rood haar, volwassene, volwassene: getinte huidskleur, rood haar
+🧑🏾‍🦰	donkergetinte huidskleur, genderneutraal, rood haar, volwassene, volwassene: donkergetinte huidskleur, rood haar
+🧑🏿‍🦰	donkere huidskleur, genderneutraal, rood haar, volwassene, volwassene: donkere huidskleur, rood haar
+🧑‍🦱	genderneutraal, krullend haar, volwassene, volwassene: krullend haar
+🧑🏻‍🦱	genderneutraal, krullend haar, lichte huidskleur, volwassene, volwassene: lichte huidskleur, krullend haar
+🧑🏼‍🦱	genderneutraal, krullend haar, lichtgetinte huidskleur, volwassene, volwassene: lichtgetinte huidskleur, krullend haar
+🧑🏽‍🦱	genderneutraal, getinte huidskleur, krullend haar, volwassene, volwassene: getinte huidskleur, krullend haar
+🧑🏾‍🦱	donkergetinte huidskleur, genderneutraal, krullend haar, volwassene, volwassene: donkergetinte huidskleur, krullend haar
+🧑🏿‍🦱	donkere huidskleur, genderneutraal, krullend haar, volwassene, volwassene: donkere huidskleur, krullend haar
+🧑‍🦳	genderneutraal, volwassene, volwassene: wit haar, wit haar
+🧑🏻‍🦳	genderneutraal, lichte huidskleur, volwassene, volwassene: lichte huidskleur, wit haar, wit haar
+🧑🏼‍🦳	genderneutraal, lichtgetinte huidskleur, volwassene, volwassene: lichtgetinte huidskleur, wit haar, wit haar
+🧑🏽‍🦳	genderneutraal, getinte huidskleur, volwassene, volwassene: getinte huidskleur, wit haar, wit haar
+🧑🏾‍🦳	donkergetinte huidskleur, genderneutraal, volwassene, volwassene: donkergetinte huidskleur, wit haar, wit haar
+🧑🏿‍🦳	donkere huidskleur, genderneutraal, volwassene, volwassene: donkere huidskleur, wit haar, wit haar
+🧑‍🦲	genderneutraal, kaal, volwassene, volwassene: kaal
+🧑🏻‍🦲	genderneutraal, kaal, lichte huidskleur, volwassene, volwassene: lichte huidskleur, kaal
+🧑🏼‍🦲	genderneutraal, kaal, lichtgetinte huidskleur, volwassene, volwassene: lichtgetinte huidskleur, kaal
+🧑🏽‍🦲	genderneutraal, getinte huidskleur, kaal, volwassene, volwassene: getinte huidskleur, kaal
+🧑🏾‍🦲	donkergetinte huidskleur, genderneutraal, kaal, volwassene, volwassene: donkergetinte huidskleur, kaal
+🧑🏿‍🦲	donkere huidskleur, genderneutraal, kaal, volwassene, volwassene: donkere huidskleur, kaal
 👨	man
 👨🏻	lichte huidskleur, man, man: lichte huidskleur
 👨🏼	lichtgetinte huidskleur, man, man: lichtgetinte huidskleur
@@ -440,29 +474,29 @@
 👱🏾‍♂	blond, donkergetinte huidskleur, haar, man, man met blond haar, man met blond haar: donkergetinte huidskleur
 👱🏿‍♂	blond, donkere huidskleur, haar, man, man met blond haar, man met blond haar: donkere huidskleur
 👨‍🦰	man, man: rood haar, rood haar
-👨🏻‍🦰	lichte huidskleur, man, man: lichte huidskleur en rood haar, rood haar
-👨🏼‍🦰	lichtgetinte huidskleur, man, man: lichtgetinte huidskleur en rood haar, rood haar
-👨🏽‍🦰	getinte huidskleur, man, man: getinte huidskleur en rood haar, rood haar
-👨🏾‍🦰	donkergetinte huidskleur, man, man: donkergetinte huidskleur en rood haar, rood haar
-👨🏿‍🦰	donkere huidskleur, man, man: donkere huidskleur en rood haar, rood haar
+👨🏻‍🦰	lichte huidskleur, man, man: lichte huidskleur, rood haar, rood haar
+👨🏼‍🦰	lichtgetinte huidskleur, man, man: lichtgetinte huidskleur, rood haar, rood haar
+👨🏽‍🦰	getinte huidskleur, man, man: getinte huidskleur, rood haar, rood haar
+👨🏾‍🦰	donkergetinte huidskleur, man, man: donkergetinte huidskleur, rood haar, rood haar
+👨🏿‍🦰	donkere huidskleur, man, man: donkere huidskleur, rood haar, rood haar
 👨‍🦱	krullend haar, man, man: krullend haar
-👨🏻‍🦱	krullend haar, lichte huidskleur, man, man: lichte huidskleur en krullend haar
-👨🏼‍🦱	krullend haar, lichtgetinte huidskleur, man, man: lichtgetinte huidskleur en krullend haar
-👨🏽‍🦱	getinte huidskleur, krullend haar, man, man: getinte huidskleur en krullend haar
-👨🏾‍🦱	donkergetinte huidskleur, krullend haar, man, man: donkergetinte huidskleur en krullend haar
-👨🏿‍🦱	donkere huidskleur, krullend haar, man, man: donkere huidskleur en krullend haar
+👨🏻‍🦱	krullend haar, lichte huidskleur, man, man: lichte huidskleur, krullend haar
+👨🏼‍🦱	krullend haar, lichtgetinte huidskleur, man, man: lichtgetinte huidskleur, krullend haar
+👨🏽‍🦱	getinte huidskleur, krullend haar, man, man: getinte huidskleur, krullend haar
+👨🏾‍🦱	donkergetinte huidskleur, krullend haar, man, man: donkergetinte huidskleur, krullend haar
+👨🏿‍🦱	donkere huidskleur, krullend haar, man, man: donkere huidskleur, krullend haar
 👨‍🦳	man, man: wit haar, wit haar
-👨🏻‍🦳	lichte huidskleur, man, man: lichte huidskleur en wit haar, wit haar
-👨🏼‍🦳	lichtgetinte huidskleur, man, man: lichtgetinte huidskleur en wit haar, wit haar
-👨🏽‍🦳	getinte huidskleur, man, man: getinte huidskleur en wit haar, wit haar
-👨🏾‍🦳	donkergetinte huidskleur, man, man: donkergetinte huidskleur en wit haar, wit haar
-👨🏿‍🦳	donkere huidskleur, man, man: donkere huidskleur en wit haar, wit haar
+👨🏻‍🦳	lichte huidskleur, man, man: lichte huidskleur, wit haar, wit haar
+👨🏼‍🦳	lichtgetinte huidskleur, man, man: lichtgetinte huidskleur, wit haar, wit haar
+👨🏽‍🦳	getinte huidskleur, man, man: getinte huidskleur, wit haar, wit haar
+👨🏾‍🦳	donkergetinte huidskleur, man, man: donkergetinte huidskleur, wit haar, wit haar
+👨🏿‍🦳	donkere huidskleur, man, man: donkere huidskleur, wit haar, wit haar
 👨‍🦲	kaal, man, man: kaal
-👨🏻‍🦲	kaal, lichte huidskleur, man, man: lichte huidskleur en kaal
-👨🏼‍🦲	kaal, lichtgetinte huidskleur, man, man: lichtgetinte huidskleur en kaal
-👨🏽‍🦲	getinte huidskleur, kaal, man, man: getinte huidskleur en kaal
-👨🏾‍🦲	donkergetinte huidskleur, kaal, man, man: donkergetinte huidskleur en kaal
-👨🏿‍🦲	donkere huidskleur, kaal, man, man: donkere huidskleur en kaal
+👨🏻‍🦲	kaal, lichte huidskleur, man, man: lichte huidskleur, kaal
+👨🏼‍🦲	kaal, lichtgetinte huidskleur, man, man: lichtgetinte huidskleur, kaal
+👨🏽‍🦲	getinte huidskleur, kaal, man, man: getinte huidskleur, kaal
+👨🏾‍🦲	donkergetinte huidskleur, kaal, man, man: donkergetinte huidskleur, kaal
+👨🏿‍🦲	donkere huidskleur, kaal, man, man: donkere huidskleur, kaal
 👩	vrouw
 👩🏻	lichte huidskleur, vrouw, vrouw: lichte huidskleur
 👩🏼	lichtgetinte huidskleur, vrouw, vrouw: lichtgetinte huidskleur
@@ -476,29 +510,29 @@
 👱🏾‍♀	blond, donkergetinte huidskleur, haar, vrouw, vrouw met blond haar, vrouw met blond haar: donkergetinte huidskleur
 👱🏿‍♀	blond, donkere huidskleur, haar, vrouw, vrouw met blond haar, vrouw met blond haar: donkere huidskleur
 👩‍🦰	rood haar, vrouw, vrouw: rood haar
-👩🏻‍🦰	lichte huidskleur, rood haar, vrouw, vrouw: lichte huidskleur en rood haar
-👩🏼‍🦰	lichtgetinte huidskleur, rood haar, vrouw, vrouw: lichtgetinte huidskleur en rood haar
-👩🏽‍🦰	getinte huidskleur, rood haar, vrouw, vrouw: getinte huidskleur en rood haar
-👩🏾‍🦰	donkergetinte huidskleur, rood haar, vrouw, vrouw: donkergetinte huidskleur en rood haar
-👩🏿‍🦰	donkere huidskleur, rood haar, vrouw, vrouw: donkere huidskleur en rood haar
+👩🏻‍🦰	lichte huidskleur, rood haar, vrouw, vrouw: lichte huidskleur, rood haar
+👩🏼‍🦰	lichtgetinte huidskleur, rood haar, vrouw, vrouw: lichtgetinte huidskleur, rood haar
+👩🏽‍🦰	getinte huidskleur, rood haar, vrouw, vrouw: getinte huidskleur, rood haar
+👩🏾‍🦰	donkergetinte huidskleur, rood haar, vrouw, vrouw: donkergetinte huidskleur, rood haar
+👩🏿‍🦰	donkere huidskleur, rood haar, vrouw, vrouw: donkere huidskleur, rood haar
 👩‍🦱	krullend haar, vrouw, vrouw: krullend haar
-👩🏻‍🦱	krullend haar, lichte huidskleur, vrouw, vrouw: lichte huidskleur en krullend haar
-👩🏼‍🦱	krullend haar, lichtgetinte huidskleur, vrouw, vrouw: lichtgetinte huidskleur en krullend haar
-👩🏽‍🦱	getinte huidskleur, krullend haar, vrouw, vrouw: getinte huidskleur en krullend haar
-👩🏾‍🦱	donkergetinte huidskleur, krullend haar, vrouw, vrouw: donkergetinte huidskleur en krullend haar
-👩🏿‍🦱	donkere huidskleur, krullend haar, vrouw, vrouw: donkere huidskleur en krullend haar
+👩🏻‍🦱	krullend haar, lichte huidskleur, vrouw, vrouw: lichte huidskleur, krullend haar
+👩🏼‍🦱	krullend haar, lichtgetinte huidskleur, vrouw, vrouw: lichtgetinte huidskleur, krullend haar
+👩🏽‍🦱	getinte huidskleur, krullend haar, vrouw, vrouw: getinte huidskleur, krullend haar
+👩🏾‍🦱	donkergetinte huidskleur, krullend haar, vrouw, vrouw: donkergetinte huidskleur, krullend haar
+👩🏿‍🦱	donkere huidskleur, krullend haar, vrouw, vrouw: donkere huidskleur, krullend haar
 👩‍🦳	vrouw, vrouw: wit haar, wit haar
-👩🏻‍🦳	lichte huidskleur, vrouw, vrouw: lichte huidskleur en wit haar, wit haar
-👩🏼‍🦳	lichtgetinte huidskleur, vrouw, vrouw: lichtgetinte huidskleur en wit haar, wit haar
-👩🏽‍🦳	getinte huidskleur, vrouw, vrouw: getinte huidskleur en wit haar, wit haar
-👩🏾‍🦳	donkergetinte huidskleur, vrouw, vrouw: donkergetinte huidskleur en wit haar, wit haar
-👩🏿‍🦳	donkere huidskleur, vrouw, vrouw: donkere huidskleur en wit haar, wit haar
+👩🏻‍🦳	lichte huidskleur, vrouw, vrouw: lichte huidskleur, wit haar, wit haar
+👩🏼‍🦳	lichtgetinte huidskleur, vrouw, vrouw: lichtgetinte huidskleur, wit haar, wit haar
+👩🏽‍🦳	getinte huidskleur, vrouw, vrouw: getinte huidskleur, wit haar, wit haar
+👩🏾‍🦳	donkergetinte huidskleur, vrouw, vrouw: donkergetinte huidskleur, wit haar, wit haar
+👩🏿‍🦳	donkere huidskleur, vrouw, vrouw: donkere huidskleur, wit haar, wit haar
 👩‍🦲	kaal, vrouw, vrouw: kaal
-👩🏻‍🦲	kaal, lichte huidskleur, vrouw, vrouw: lichte huidskleur en kaal
-👩🏼‍🦲	kaal, lichtgetinte huidskleur, vrouw, vrouw: lichtgetinte huidskleur en kaal
-👩🏽‍🦲	getinte huidskleur, kaal, vrouw, vrouw: getinte huidskleur en kaal
-👩🏾‍🦲	donkergetinte huidskleur, kaal, vrouw, vrouw: donkergetinte huidskleur en kaal
-👩🏿‍🦲	donkere huidskleur, kaal, vrouw, vrouw: donkere huidskleur en kaal
+👩🏻‍🦲	kaal, lichte huidskleur, vrouw, vrouw: lichte huidskleur, kaal
+👩🏼‍🦲	kaal, lichtgetinte huidskleur, vrouw, vrouw: lichtgetinte huidskleur, kaal
+👩🏽‍🦲	getinte huidskleur, kaal, vrouw, vrouw: getinte huidskleur, kaal
+👩🏾‍🦲	donkergetinte huidskleur, kaal, vrouw, vrouw: donkergetinte huidskleur, kaal
+👩🏿‍🦲	donkere huidskleur, kaal, vrouw, vrouw: donkere huidskleur, kaal
 🧓	genderneutraal, oud, oudere volwassene
 🧓🏻	genderneutraal, lichte huidskleur, oud, oudere volwassene, oudere volwassene: lichte huidskleur
 🧓🏼	genderneutraal, lichtgetinte huidskleur, oud, oudere volwassene, oudere volwassene: lichtgetinte huidskleur
@@ -697,42 +731,66 @@
 🤷🏽‍♀	getinte huidskleur, onverschilligheid, onwetendheid, schouderophalen, twijfel, vrouw, vrouw die schouders ophaalt, vrouw die schouders ophaalt: getinte huidskleur
 🤷🏾‍♀	donkergetinte huidskleur, onverschilligheid, onwetendheid, schouderophalen, twijfel, vrouw, vrouw die schouders ophaalt, vrouw die schouders ophaalt: donkergetinte huidskleur
 🤷🏿‍♀	donkere huidskleur, onverschilligheid, onwetendheid, schouderophalen, twijfel, vrouw, vrouw die schouders ophaalt, vrouw die schouders ophaalt: donkere huidskleur
-👨‍⚕	dokter, gezondheidsmedewerker, gezondheidszorg, man, therapeut, verpleger
-👨🏻‍⚕	dokter, gezondheidsmedewerker, gezondheidsmedewerker: lichte huidskleur, gezondheidszorg, lichte huidskleur, man, therapeut, verpleger
-👨🏼‍⚕	dokter, gezondheidsmedewerker, gezondheidsmedewerker: lichtgetinte huidskleur, gezondheidszorg, lichtgetinte huidskleur, man, therapeut, verpleger
-👨🏽‍⚕	dokter, getinte huidskleur, gezondheidsmedewerker, gezondheidsmedewerker: getinte huidskleur, gezondheidszorg, man, therapeut, verpleger
-👨🏾‍⚕	dokter, donkergetinte huidskleur, gezondheidsmedewerker, gezondheidsmedewerker: donkergetinte huidskleur, gezondheidszorg, man, therapeut, verpleger
-👨🏿‍⚕	dokter, donkere huidskleur, gezondheidsmedewerker, gezondheidsmedewerker: donkere huidskleur, gezondheidszorg, man, therapeut, verpleger
+🧑‍⚕	dokter, gezondheidsmedewerker, gezondheidszorg, therapeut, verpleegster
+🧑🏻‍⚕	dokter, gezondheidsmedewerker, gezondheidsmedewerker: lichte huidskleur, gezondheidszorg, lichte huidskleur, therapeut, verpleegster
+🧑🏼‍⚕	dokter, gezondheidsmedewerker, gezondheidsmedewerker: lichtgetinte huidskleur, gezondheidszorg, lichtgetinte huidskleur, therapeut, verpleegster
+🧑🏽‍⚕	dokter, getinte huidskleur, gezondheidsmedewerker, gezondheidsmedewerker: getinte huidskleur, gezondheidszorg, therapeut, verpleegster
+🧑🏾‍⚕	dokter, donkergetinte huidskleur, gezondheidsmedewerker, gezondheidsmedewerker: donkergetinte huidskleur, gezondheidszorg, therapeut, verpleegster
+🧑🏿‍⚕	dokter, donkere huidskleur, gezondheidsmedewerker, gezondheidsmedewerker: donkere huidskleur, gezondheidszorg, therapeut, verpleegster
+👨‍⚕	dokter, gezondheidsmedewerker, gezondheidszorg, man, mannelijke gezondheidsmedewerker, therapeut, verpleger
+👨🏻‍⚕	dokter, gezondheidsmedewerker, gezondheidszorg, lichte huidskleur, man, mannelijke gezondheidsmedewerker, mannelijke gezondheidsmedewerker: lichte huidskleur, therapeut, verpleger
+👨🏼‍⚕	dokter, gezondheidsmedewerker, gezondheidszorg, lichtgetinte huidskleur, man, mannelijke gezondheidsmedewerker, mannelijke gezondheidsmedewerker: lichtgetinte huidskleur, therapeut, verpleger
+👨🏽‍⚕	dokter, getinte huidskleur, gezondheidsmedewerker, gezondheidszorg, man, mannelijke gezondheidsmedewerker, mannelijke gezondheidsmedewerker: getinte huidskleur, therapeut, verpleger
+👨🏾‍⚕	dokter, donkergetinte huidskleur, gezondheidsmedewerker, gezondheidszorg, man, mannelijke gezondheidsmedewerker, mannelijke gezondheidsmedewerker: donkergetinte huidskleur, therapeut, verpleger
+👨🏿‍⚕	dokter, donkere huidskleur, gezondheidsmedewerker, gezondheidszorg, man, mannelijke gezondheidsmedewerker, mannelijke gezondheidsmedewerker: donkere huidskleur, therapeut, verpleger
 👩‍⚕	dokter, gezondheidsmedewerkster, gezondheidszorg, therapeute, verpleegster, vrouw
 👩🏻‍⚕	dokter, gezondheidsmedewerkster, gezondheidsmedewerkster: lichte huidskleur, gezondheidszorg, lichte huidskleur, therapeute, verpleegster, vrouw
 👩🏼‍⚕	dokter, gezondheidsmedewerkster, gezondheidsmedewerkster: lichtgetinte huidskleur, gezondheidszorg, lichtgetinte huidskleur, therapeute, verpleegster, vrouw
 👩🏽‍⚕	dokter, getinte huidskleur, gezondheidsmedewerkster, gezondheidsmedewerkster: getinte huidskleur, gezondheidszorg, therapeute, verpleegster, vrouw
 👩🏾‍⚕	dokter, donkergetinte huidskleur, gezondheidsmedewerkster, gezondheidsmedewerkster: donkergetinte huidskleur, gezondheidszorg, therapeute, verpleegster, vrouw
 👩🏿‍⚕	dokter, donkere huidskleur, gezondheidsmedewerkster, gezondheidsmedewerkster: donkere huidskleur, gezondheidszorg, therapeute, verpleegster, vrouw
-👨‍🎓	jongen, man, scholier, student
-👨🏻‍🎓	jongen, lichte huidskleur, man, scholier, student, student: lichte huidskleur
-👨🏼‍🎓	jongen, lichtgetinte huidskleur, man, scholier, student, student: lichtgetinte huidskleur
-👨🏽‍🎓	getinte huidskleur, jongen, man, scholier, student, student: getinte huidskleur
-👨🏾‍🎓	donkergetinte huidskleur, jongen, man, scholier, student, student: donkergetinte huidskleur
-👨🏿‍🎓	donkere huidskleur, jongen, man, scholier, student, student: donkere huidskleur
+🧑‍🎓	scholier, student
+🧑🏻‍🎓	lichte huidskleur, scholier, student, student: lichte huidskleur
+🧑🏼‍🎓	lichtgetinte huidskleur, scholier, student, student: lichtgetinte huidskleur
+🧑🏽‍🎓	getinte huidskleur, scholier, student, student: getinte huidskleur
+🧑🏾‍🎓	donkergetinte huidskleur, scholier, student, student: donkergetinte huidskleur
+🧑🏿‍🎓	donkere huidskleur, scholier, student, student: donkere huidskleur
+👨‍🎓	jongen, man, mannelijke student, scholier, student
+👨🏻‍🎓	jongen, lichte huidskleur, man, mannelijke student, mannelijke student: lichte huidskleur, scholier, student
+👨🏼‍🎓	jongen, lichtgetinte huidskleur, man, mannelijke student, mannelijke student: lichtgetinte huidskleur, scholier, student
+👨🏽‍🎓	getinte huidskleur, jongen, man, mannelijke student, mannelijke student: getinte huidskleur, scholier, student
+👨🏾‍🎓	donkergetinte huidskleur, jongen, man, mannelijke student, mannelijke student: donkergetinte huidskleur, scholier, student
+👨🏿‍🎓	donkere huidskleur, jongen, man, mannelijke student, mannelijke student: donkere huidskleur, scholier, student
 👩‍🎓	meisje, scholiere, studente, vrouw
 👩🏻‍🎓	lichte huidskleur, meisje, scholiere, studente, studente: lichte huidskleur, vrouw
 👩🏼‍🎓	lichtgetinte huidskleur, meisje, scholiere, studente, studente: lichtgetinte huidskleur, vrouw
 👩🏽‍🎓	getinte huidskleur, meisje, scholiere, studente, studente: getinte huidskleur, vrouw
 👩🏾‍🎓	donkergetinte huidskleur, meisje, scholiere, studente, studente: donkergetinte huidskleur, vrouw
 👩🏿‍🎓	donkere huidskleur, meisje, scholiere, studente, studente: donkere huidskleur, vrouw
-👨‍🏫	docent, leraar, meester, professor
-👨🏻‍🏫	docent, docent: lichte huidskleur, leraar, lichte huidskleur, meester, professor
-👨🏼‍🏫	docent, docent: lichtgetinte huidskleur, leraar, lichtgetinte huidskleur, meester, professor
-👨🏽‍🏫	docent, docent: getinte huidskleur, getinte huidskleur, leraar, meester, professor
-👨🏾‍🏫	docent, docent: donkergetinte huidskleur, donkergetinte huidskleur, leraar, meester, professor
-👨🏿‍🏫	docent, docent: donkere huidskleur, donkere huidskleur, leraar, meester, professor
+🧑‍🏫	docent, leraar, professor
+🧑🏻‍🏫	docent, docent: lichte huidskleur, leraar, lichte huidskleur, professor
+🧑🏼‍🏫	docent, docent: lichtgetinte huidskleur, leraar, lichtgetinte huidskleur, professor
+🧑🏽‍🏫	docent, docent: getinte huidskleur, getinte huidskleur, leraar, professor
+🧑🏾‍🏫	docent, docent: donkergetinte huidskleur, donkergetinte huidskleur, leraar, professor
+🧑🏿‍🏫	docent, docent: donkere huidskleur, donkere huidskleur, leraar, professor
+👨‍🏫	docent, leraar, mannelijke docent, meester, professor
+👨🏻‍🏫	docent, leraar, lichte huidskleur, mannelijke docent, mannelijke docent: lichte huidskleur, meester, professor
+👨🏼‍🏫	docent, leraar, lichtgetinte huidskleur, mannelijke docent, mannelijke docent: lichtgetinte huidskleur, meester, professor
+👨🏽‍🏫	docent, getinte huidskleur, leraar, mannelijke docent, mannelijke docent: getinte huidskleur, meester, professor
+👨🏾‍🏫	docent, donkergetinte huidskleur, leraar, mannelijke docent, mannelijke docent: donkergetinte huidskleur, meester, professor
+👨🏿‍🏫	docent, donkere huidskleur, leraar, mannelijke docent, mannelijke docent: donkere huidskleur, meester, professor
 👩‍🏫	docente, juf, lerares, professor
 👩🏻‍🏫	docente, docente: lichte huidskleur, juf, lerares, lichte huidskleur, professor
 👩🏼‍🏫	docente, docente: lichtgetinte huidskleur, juf, lerares, lichtgetinte huidskleur, professor
 👩🏽‍🏫	docente, docente: getinte huidskleur, getinte huidskleur, juf, lerares, professor
 👩🏾‍🏫	docente, docente: donkergetinte huidskleur, donkergetinte huidskleur, juf, lerares, professor
 👩🏿‍🏫	docente, docente: donkere huidskleur, donkere huidskleur, juf, lerares, professor
+🧑‍⚖	rechter, weegschaal
+🧑🏻‍⚖	lichte huidskleur, rechter, rechter: lichte huidskleur, weegschaal
+🧑🏼‍⚖	lichtgetinte huidskleur, rechter, rechter: lichtgetinte huidskleur, weegschaal
+🧑🏽‍⚖	getinte huidskleur, rechter, rechter: getinte huidskleur, weegschaal
+🧑🏾‍⚖	donkergetinte huidskleur, rechter, rechter: donkergetinte huidskleur, weegschaal
+🧑🏿‍⚖	donkere huidskleur, rechter, rechter: donkere huidskleur, weegschaal
 👨‍⚖	man, mannelijke rechter, rechter
 👨🏻‍⚖	lichte huidskleur, man, mannelijke rechter, mannelijke rechter: lichte huidskleur, rechter
 👨🏼‍⚖	lichtgetinte huidskleur, man, mannelijke rechter, mannelijke rechter: lichtgetinte huidskleur, rechter
@@ -745,144 +803,216 @@
 👩🏽‍⚖	getinte huidskleur, rechter, vrouw, vrouwelijke rechter, vrouwelijke rechter: getinte huidskleur
 👩🏾‍⚖	donkergetinte huidskleur, rechter, vrouw, vrouwelijke rechter, vrouwelijke rechter: donkergetinte huidskleur
 👩🏿‍⚖	donkere huidskleur, rechter, vrouw, vrouwelijke rechter, vrouwelijke rechter: donkere huidskleur
-👨‍🌾	boer, man, tuinder, veehouder
-👨🏻‍🌾	boer, boer: lichte huidskleur, lichte huidskleur, man, tuinder, veehouder
-👨🏼‍🌾	boer, boer: lichtgetinte huidskleur, lichtgetinte huidskleur, man, tuinder, veehouder
-👨🏽‍🌾	boer, boer: getinte huidskleur, getinte huidskleur, man, tuinder, veehouder
-👨🏾‍🌾	boer, boer: donkergetinte huidskleur, donkergetinte huidskleur, man, tuinder, veehouder
-👨🏿‍🌾	boer, boer: donkere huidskleur, donkere huidskleur, man, tuinder, veehouder
+🧑‍🌾	boer, tuinder, veehouder
+🧑🏻‍🌾	boer, boer: lichte huidskleur, lichte huidskleur, tuinder, veehouder
+🧑🏼‍🌾	boer, boer: lichtgetinte huidskleur, lichtgetinte huidskleur, tuinder, veehouder
+🧑🏽‍🌾	boer, boer: getinte huidskleur, getinte huidskleur, tuinder, veehouder
+🧑🏾‍🌾	boer, boer: donkergetinte huidskleur, donkergetinte huidskleur, tuinder, veehouder
+🧑🏿‍🌾	boer, boer: donkere huidskleur, donkere huidskleur, tuinder, veehouder
+👨‍🌾	boer, man, mannelijke boer, tuinder, veehouder
+👨🏻‍🌾	boer, lichte huidskleur, man, mannelijke boer, mannelijke boer: lichte huidskleur, tuinder, veehouder
+👨🏼‍🌾	boer, lichtgetinte huidskleur, man, mannelijke boer, mannelijke boer: lichtgetinte huidskleur, tuinder, veehouder
+👨🏽‍🌾	boer, getinte huidskleur, man, mannelijke boer, mannelijke boer: getinte huidskleur, tuinder, veehouder
+👨🏾‍🌾	boer, donkergetinte huidskleur, man, mannelijke boer, mannelijke boer: donkergetinte huidskleur, tuinder, veehouder
+👨🏿‍🌾	boer, donkere huidskleur, man, mannelijke boer, mannelijke boer: donkere huidskleur, tuinder, veehouder
 👩‍🌾	boerin, tuinder, veehouder, vrouw
 👩🏻‍🌾	boerin, boerin: lichte huidskleur, lichte huidskleur, tuinder, veehouder, vrouw
 👩🏼‍🌾	boerin, boerin: lichtgetinte huidskleur, lichtgetinte huidskleur, tuinder, veehouder, vrouw
 👩🏽‍🌾	boerin, boerin: getinte huidskleur, getinte huidskleur, tuinder, veehouder, vrouw
 👩🏾‍🌾	boerin, boerin: donkergetinte huidskleur, donkergetinte huidskleur, tuinder, veehouder, vrouw
 👩🏿‍🌾	boerin, boerin: donkere huidskleur, donkere huidskleur, tuinder, veehouder, vrouw
-👨‍🍳	chef-kok, kok, man
-👨🏻‍🍳	chef-kok, kok, kok: lichte huidskleur, lichte huidskleur, man
-👨🏼‍🍳	chef-kok, kok, kok: lichtgetinte huidskleur, lichtgetinte huidskleur, man
-👨🏽‍🍳	chef-kok, getinte huidskleur, kok, kok: getinte huidskleur, man
-👨🏾‍🍳	chef-kok, donkergetinte huidskleur, kok, kok: donkergetinte huidskleur, man
-👨🏿‍🍳	chef-kok, donkere huidskleur, kok, kok: donkere huidskleur, man
+🧑‍🍳	chef-kok, kok
+🧑🏻‍🍳	chef-kok, kok, kok: lichte huidskleur, lichte huidskleur
+🧑🏼‍🍳	chef-kok, kok, kok: lichtgetinte huidskleur, lichtgetinte huidskleur
+🧑🏽‍🍳	chef-kok, getinte huidskleur, kok, kok: getinte huidskleur
+🧑🏾‍🍳	chef-kok, donkergetinte huidskleur, kok, kok: donkergetinte huidskleur
+🧑🏿‍🍳	chef-kok, donkere huidskleur, kok, kok: donkere huidskleur
+👨‍🍳	chef-kok, kok, man, mannelijke kok
+👨🏻‍🍳	chef-kok, kok, lichte huidskleur, man, mannelijke kok, mannelijke kok: lichte huidskleur
+👨🏼‍🍳	chef-kok, kok, lichtgetinte huidskleur, man, mannelijke kok, mannelijke kok: lichtgetinte huidskleur
+👨🏽‍🍳	chef-kok, getinte huidskleur, kok, man, mannelijke kok, mannelijke kok: getinte huidskleur
+👨🏾‍🍳	chef-kok, donkergetinte huidskleur, kok, man, mannelijke kok, mannelijke kok: donkergetinte huidskleur
+👨🏿‍🍳	chef-kok, donkere huidskleur, kok, man, mannelijke kok, mannelijke kok: donkere huidskleur
 👩‍🍳	chef-kok, kokkin, vrouw
 👩🏻‍🍳	chef-kok, kokkin, kokkin: lichte huidskleur, lichte huidskleur, vrouw
 👩🏼‍🍳	chef-kok, kokkin, kokkin: lichtgetinte huidskleur, lichtgetinte huidskleur, vrouw
 👩🏽‍🍳	chef-kok, getinte huidskleur, kokkin, kokkin: getinte huidskleur, vrouw
 👩🏾‍🍳	chef-kok, donkergetinte huidskleur, kokkin, kokkin: donkergetinte huidskleur, vrouw
 👩🏿‍🍳	chef-kok, donkere huidskleur, kokkin, kokkin: donkere huidskleur, vrouw
-👨‍🔧	elektricien, handelsman, loodgieter, man, monteur
-👨🏻‍🔧	elektricien, handelsman, lichte huidskleur, loodgieter, man, monteur, monteur: lichte huidskleur
-👨🏼‍🔧	elektricien, handelsman, lichtgetinte huidskleur, loodgieter, man, monteur, monteur: lichtgetinte huidskleur
-👨🏽‍🔧	elektricien, getinte huidskleur, handelsman, loodgieter, man, monteur, monteur: getinte huidskleur
-👨🏾‍🔧	donkergetinte huidskleur, elektricien, handelsman, loodgieter, man, monteur, monteur: donkergetinte huidskleur
-👨🏿‍🔧	donkere huidskleur, elektricien, handelsman, loodgieter, man, monteur, monteur: donkere huidskleur
+🧑‍🔧	elektricien, handelsman, loodgieter, monteur
+🧑🏻‍🔧	elektricien, handelsman, lichte huidskleur, loodgieter, monteur, monteur: lichte huidskleur
+🧑🏼‍🔧	elektricien, handelsman, lichtgetinte huidskleur, loodgieter, monteur, monteur: lichtgetinte huidskleur
+🧑🏽‍🔧	elektricien, getinte huidskleur, handelsman, loodgieter, monteur, monteur: getinte huidskleur
+🧑🏾‍🔧	donkergetinte huidskleur, elektricien, handelsman, loodgieter, monteur, monteur: donkergetinte huidskleur
+🧑🏿‍🔧	donkere huidskleur, elektricien, handelsman, loodgieter, monteur, monteur: donkere huidskleur
+👨‍🔧	elektricien, handelsman, loodgieter, man, mannelijke monteur, monteur
+👨🏻‍🔧	elektricien, handelsman, lichte huidskleur, loodgieter, man, mannelijke monteur, mannelijke monteur: lichte huidskleur, monteur
+👨🏼‍🔧	elektricien, handelsman, lichtgetinte huidskleur, loodgieter, man, mannelijke monteur, mannelijke monteur: lichtgetinte huidskleur, monteur
+👨🏽‍🔧	elektricien, getinte huidskleur, handelsman, loodgieter, man, mannelijke monteur, mannelijke monteur: getinte huidskleur, monteur
+👨🏾‍🔧	donkergetinte huidskleur, elektricien, handelsman, loodgieter, man, mannelijke monteur, mannelijke monteur: donkergetinte huidskleur, monteur
+👨🏿‍🔧	donkere huidskleur, elektricien, handelsman, loodgieter, man, mannelijke monteur, mannelijke monteur: donkere huidskleur, monteur
 👩‍🔧	elektricien, handelsvrouw, loodgieter, monteuse, vrouw
 👩🏻‍🔧	elektricien, handelsvrouw, lichte huidskleur, loodgieter, monteuse, monteuse: lichte huidskleur, vrouw
 👩🏼‍🔧	elektricien, handelsvrouw, lichtgetinte huidskleur, loodgieter, monteuse, monteuse: lichtgetinte huidskleur, vrouw
 👩🏽‍🔧	elektricien, getinte huidskleur, handelsvrouw, loodgieter, monteuse, monteuse: getinte huidskleur, vrouw
 👩🏾‍🔧	donkergetinte huidskleur, elektricien, handelsvrouw, loodgieter, monteuse, monteuse: donkergetinte huidskleur, vrouw
 👩🏿‍🔧	donkere huidskleur, elektricien, handelsvrouw, loodgieter, monteuse, monteuse: donkere huidskleur, vrouw
-👨‍🏭	arbeider, fabriek, fabrieksarbeider, industrieel, lopende band, man
-👨🏻‍🏭	arbeider, fabriek, fabrieksarbeider, fabrieksarbeider: lichte huidskleur, industrieel, lichte huidskleur, lopende band, man
-👨🏼‍🏭	arbeider, fabriek, fabrieksarbeider, fabrieksarbeider: lichtgetinte huidskleur, industrieel, lichtgetinte huidskleur, lopende band, man
-👨🏽‍🏭	arbeider, fabriek, fabrieksarbeider, fabrieksarbeider: getinte huidskleur, getinte huidskleur, industrieel, lopende band, man
-👨🏾‍🏭	arbeider, donkergetinte huidskleur, fabriek, fabrieksarbeider, fabrieksarbeider: donkergetinte huidskleur, industrieel, lopende band, man
-👨🏿‍🏭	arbeider, donkere huidskleur, fabriek, fabrieksarbeider, fabrieksarbeider: donkere huidskleur, industrieel, lopende band, man
+🧑‍🏭	arbeider, fabriek, fabrieksarbeider, industrieel, lopende band
+🧑🏻‍🏭	arbeider, fabriek, fabrieksarbeider, fabrieksarbeider: lichte huidskleur, industrieel, lichte huidskleur, lopende band
+🧑🏼‍🏭	arbeider, fabriek, fabrieksarbeider, fabrieksarbeider: lichtgetinte huidskleur, industrieel, lichtgetinte huidskleur, lopende band
+🧑🏽‍🏭	arbeider, fabriek, fabrieksarbeider, fabrieksarbeider: getinte huidskleur, getinte huidskleur, industrieel, lopende band
+🧑🏾‍🏭	arbeider, donkergetinte huidskleur, fabriek, fabrieksarbeider, fabrieksarbeider: donkergetinte huidskleur, industrieel, lopende band
+🧑🏿‍🏭	arbeider, donkere huidskleur, fabriek, fabrieksarbeider, fabrieksarbeider: donkere huidskleur, industrieel, lopende band
+👨‍🏭	arbeider, fabriek, fabrieksarbeider, industrieel, lopende band, man, mannelijke fabrieksarbeider
+👨🏻‍🏭	arbeider, fabriek, fabrieksarbeider, industrieel, lichte huidskleur, lopende band, man, mannelijke fabrieksarbeider, mannelijke fabrieksarbeider: lichte huidskleur
+👨🏼‍🏭	arbeider, fabriek, fabrieksarbeider, industrieel, lichtgetinte huidskleur, lopende band, man, mannelijke fabrieksarbeider, mannelijke fabrieksarbeider: lichtgetinte huidskleur
+👨🏽‍🏭	arbeider, fabriek, fabrieksarbeider, getinte huidskleur, industrieel, lopende band, man, mannelijke fabrieksarbeider, mannelijke fabrieksarbeider: getinte huidskleur
+👨🏾‍🏭	arbeider, donkergetinte huidskleur, fabriek, fabrieksarbeider, industrieel, lopende band, man, mannelijke fabrieksarbeider, mannelijke fabrieksarbeider: donkergetinte huidskleur
+👨🏿‍🏭	arbeider, donkere huidskleur, fabriek, fabrieksarbeider, industrieel, lopende band, man, mannelijke fabrieksarbeider, mannelijke fabrieksarbeider: donkere huidskleur
 👩‍🏭	arbeidster, fabriek, fabrieksarbeidster, industrieel, lopende band, vrouw
 👩🏻‍🏭	arbeidster, fabriek, fabrieksarbeidster, fabrieksarbeidster: lichte huidskleur, industrieel, lichte huidskleur, lopende band, vrouw
 👩🏼‍🏭	arbeidster, fabriek, fabrieksarbeidster, fabrieksarbeidster: lichtgetinte huidskleur, industrieel, lichtgetinte huidskleur, lopende band, vrouw
 👩🏽‍🏭	arbeidster, fabriek, fabrieksarbeidster, fabrieksarbeidster: getinte huidskleur, getinte huidskleur, industrieel, lopende band, vrouw
 👩🏾‍🏭	arbeidster, donkergetinte huidskleur, fabriek, fabrieksarbeidster, fabrieksarbeidster: donkergetinte huidskleur, industrieel, lopende band, vrouw
 👩🏿‍🏭	arbeidster, donkere huidskleur, fabriek, fabrieksarbeidster, fabrieksarbeidster: donkere huidskleur, industrieel, lopende band, vrouw
-👨‍💼	architect, bedrijf, kantoor, kantoormedewerker, man, manager
-👨🏻‍💼	architect, bedrijf, kantoor, kantoormedewerker, kantoormedewerker: lichte huidskleur, lichte huidskleur, man, manager
-👨🏼‍💼	architect, bedrijf, kantoor, kantoormedewerker, kantoormedewerker: lichtgetinte huidskleur, lichtgetinte huidskleur, man, manager
-👨🏽‍💼	architect, bedrijf, getinte huidskleur, kantoor, kantoormedewerker, kantoormedewerker: getinte huidskleur, man, manager
-👨🏾‍💼	architect, bedrijf, donkergetinte huidskleur, kantoor, kantoormedewerker, kantoormedewerker: donkergetinte huidskleur, man, manager
-👨🏿‍💼	architect, bedrijf, donkere huidskleur, kantoor, kantoormedewerker, kantoormedewerker: donkere huidskleur, man, manager
+🧑‍💼	architect, bedrijf, kantoormedewerker, manager
+🧑🏻‍💼	architect, bedrijf, kantoormedewerker, kantoormedewerker: lichte huidskleur, lichte huidskleur, manager
+🧑🏼‍💼	architect, bedrijf, kantoormedewerker, kantoormedewerker: lichtgetinte huidskleur, lichtgetinte huidskleur, manager
+🧑🏽‍💼	architect, bedrijf, getinte huidskleur, kantoormedewerker, kantoormedewerker: getinte huidskleur, manager
+🧑🏾‍💼	architect, bedrijf, donkergetinte huidskleur, kantoormedewerker, kantoormedewerker: donkergetinte huidskleur, manager
+🧑🏿‍💼	architect, bedrijf, donkere huidskleur, kantoormedewerker, kantoormedewerker: donkere huidskleur, manager
+👨‍💼	architect, bedrijf, kantoor, kantoormedewerker, man, manager, mannelijke kantoormedewerker
+👨🏻‍💼	architect, bedrijf, kantoor, kantoormedewerker, lichte huidskleur, man, manager, mannelijke kantoormedewerker, mannelijke kantoormedewerker: lichte huidskleur
+👨🏼‍💼	architect, bedrijf, kantoor, kantoormedewerker, lichtgetinte huidskleur, man, manager, mannelijke kantoormedewerker, mannelijke kantoormedewerker: lichtgetinte huidskleur
+👨🏽‍💼	architect, bedrijf, getinte huidskleur, kantoor, kantoormedewerker, man, manager, mannelijke kantoormedewerker, mannelijke kantoormedewerker: getinte huidskleur
+👨🏾‍💼	architect, bedrijf, donkergetinte huidskleur, kantoor, kantoormedewerker, man, manager, mannelijke kantoormedewerker, mannelijke kantoormedewerker: donkergetinte huidskleur
+👨🏿‍💼	architect, bedrijf, donkere huidskleur, kantoor, kantoormedewerker, man, manager, mannelijke kantoormedewerker, mannelijke kantoormedewerker: donkere huidskleur
 👩‍💼	architecte, bedrijf, kantoor, kantoormedewerkster, manager, vrouw
 👩🏻‍💼	architecte, bedrijf, kantoor, kantoormedewerkster, kantoormedewerkster: lichte huidskleur, lichte huidskleur, manager, vrouw
 👩🏼‍💼	architecte, bedrijf, kantoor, kantoormedewerkster, kantoormedewerkster: lichtgetinte huidskleur, lichtgetinte huidskleur, manager, vrouw
 👩🏽‍💼	architecte, bedrijf, getinte huidskleur, kantoor, kantoormedewerkster, kantoormedewerkster: getinte huidskleur, manager, vrouw
 👩🏾‍💼	architecte, bedrijf, donkergetinte huidskleur, kantoor, kantoormedewerkster, kantoormedewerkster: donkergetinte huidskleur, manager, vrouw
 👩🏿‍💼	architecte, bedrijf, donkere huidskleur, kantoor, kantoormedewerkster, kantoormedewerkster: donkere huidskleur, manager, vrouw
-👨‍🔬	bioloog, ingenieur, man, natuurkundige, scheikundige, wetenschapper, wiskundige
-👨🏻‍🔬	bioloog, ingenieur, lichte huidskleur, man, natuurkundige, scheikundige, wetenschapper, wetenschapper: lichte huidskleur, wiskundige
-👨🏼‍🔬	bioloog, ingenieur, lichtgetinte huidskleur, man, natuurkundige, scheikundige, wetenschapper, wetenschapper: lichtgetinte huidskleur, wiskundige
-👨🏽‍🔬	bioloog, getinte huidskleur, ingenieur, man, natuurkundige, scheikundige, wetenschapper, wetenschapper: getinte huidskleur, wiskundige
-👨🏾‍🔬	bioloog, donkergetinte huidskleur, ingenieur, man, natuurkundige, scheikundige, wetenschapper, wetenschapper: donkergetinte huidskleur, wiskundige
-👨🏿‍🔬	bioloog, donkere huidskleur, ingenieur, man, natuurkundige, scheikundige, wetenschapper, wetenschapper: donkere huidskleur, wiskundige
+🧑‍🔬	bioloog, ingenieur, natuurkundige, scheikundige, wetenschapper
+🧑🏻‍🔬	bioloog, ingenieur, lichte huidskleur, natuurkundige, scheikundige, wetenschapper, wetenschapper: lichte huidskleur
+🧑🏼‍🔬	bioloog, ingenieur, lichtgetinte huidskleur, natuurkundige, scheikundige, wetenschapper, wetenschapper: lichtgetinte huidskleur
+🧑🏽‍🔬	bioloog, getinte huidskleur, ingenieur, natuurkundige, scheikundige, wetenschapper, wetenschapper: getinte huidskleur
+🧑🏾‍🔬	bioloog, donkergetinte huidskleur, ingenieur, natuurkundige, scheikundige, wetenschapper, wetenschapper: donkergetinte huidskleur
+🧑🏿‍🔬	bioloog, donkere huidskleur, ingenieur, natuurkundige, scheikundige, wetenschapper, wetenschapper: donkere huidskleur
+👨‍🔬	bioloog, ingenieur, man, mannelijke wetenschapper, natuurkundige, scheikundige, wetenschapper, wiskundige
+👨🏻‍🔬	bioloog, ingenieur, lichte huidskleur, man, mannelijke wetenschapper, mannelijke wetenschapper: lichte huidskleur, natuurkundige, scheikundige, wetenschapper, wiskundige
+👨🏼‍🔬	bioloog, ingenieur, lichtgetinte huidskleur, man, mannelijke wetenschapper, mannelijke wetenschapper: lichtgetinte huidskleur, natuurkundige, scheikundige, wetenschapper, wiskundige
+👨🏽‍🔬	bioloog, getinte huidskleur, ingenieur, man, mannelijke wetenschapper, mannelijke wetenschapper: getinte huidskleur, natuurkundige, scheikundige, wetenschapper, wiskundige
+👨🏾‍🔬	bioloog, donkergetinte huidskleur, ingenieur, man, mannelijke wetenschapper, mannelijke wetenschapper: donkergetinte huidskleur, natuurkundige, scheikundige, wetenschapper, wiskundige
+👨🏿‍🔬	bioloog, donkere huidskleur, ingenieur, man, mannelijke wetenschapper, mannelijke wetenschapper: donkere huidskleur, natuurkundige, scheikundige, wetenschapper, wiskundige
 👩‍🔬	biologe, ingenieur, natuurkundige, scheikundige, vrouw, wetenschapster, wiskundige
 👩🏻‍🔬	biologe, ingenieur, lichte huidskleur, natuurkundige, scheikundige, vrouw, wetenschapster, wetenschapster: lichte huidskleur, wiskundige
 👩🏼‍🔬	biologe, ingenieur, lichtgetinte huidskleur, natuurkundige, scheikundige, vrouw, wetenschapster, wetenschapster: lichtgetinte huidskleur, wiskundige
 👩🏽‍🔬	biologe, getinte huidskleur, ingenieur, natuurkundige, scheikundige, vrouw, wetenschapster, wetenschapster: getinte huidskleur, wiskundige
 👩🏾‍🔬	biologe, donkergetinte huidskleur, ingenieur, natuurkundige, scheikundige, vrouw, wetenschapster, wetenschapster: donkergetinte huidskleur, wiskundige
 👩🏿‍🔬	biologe, donkere huidskleur, ingenieur, natuurkundige, scheikundige, vrouw, wetenschapster, wetenschapster: donkere huidskleur, wiskundige
-👨‍💻	man, ontwikkelaar, programmeur, techneut, technoloog
-👨🏻‍💻	lichte huidskleur, man, ontwikkelaar, programmeur, techneut, technoloog, technoloog: lichte huidskleur
-👨🏼‍💻	lichtgetinte huidskleur, man, ontwikkelaar, programmeur, techneut, technoloog, technoloog: lichtgetinte huidskleur
-👨🏽‍💻	getinte huidskleur, man, ontwikkelaar, programmeur, techneut, technoloog, technoloog: getinte huidskleur
-👨🏾‍💻	donkergetinte huidskleur, man, ontwikkelaar, programmeur, techneut, technoloog, technoloog: donkergetinte huidskleur
-👨🏿‍💻	donkere huidskleur, man, ontwikkelaar, programmeur, techneut, technoloog, technoloog: donkere huidskleur
+🧑‍💻	ontwikkelaar, programmeur, techneut, technoloog, uitvinder
+🧑🏻‍💻	lichte huidskleur, ontwikkelaar, programmeur, techneut, technoloog, technoloog: lichte huidskleur, uitvinder
+🧑🏼‍💻	lichtgetinte huidskleur, ontwikkelaar, programmeur, techneut, technoloog, technoloog: lichtgetinte huidskleur, uitvinder
+🧑🏽‍💻	getinte huidskleur, ontwikkelaar, programmeur, techneut, technoloog, technoloog: getinte huidskleur, uitvinder
+🧑🏾‍💻	donkergetinte huidskleur, ontwikkelaar, programmeur, techneut, technoloog, technoloog: donkergetinte huidskleur, uitvinder
+🧑🏿‍💻	donkere huidskleur, ontwikkelaar, programmeur, techneut, technoloog, technoloog: donkere huidskleur, uitvinder
+👨‍💻	man, mannelijke technoloog, ontwikkelaar, programmeur, techneut, technoloog
+👨🏻‍💻	lichte huidskleur, man, mannelijke technoloog, mannelijke technoloog: lichte huidskleur, ontwikkelaar, programmeur, techneut, technoloog
+👨🏼‍💻	lichtgetinte huidskleur, man, mannelijke technoloog, mannelijke technoloog: lichtgetinte huidskleur, ontwikkelaar, programmeur, techneut, technoloog
+👨🏽‍💻	getinte huidskleur, man, mannelijke technoloog, mannelijke technoloog: getinte huidskleur, ontwikkelaar, programmeur, techneut, technoloog
+👨🏾‍💻	donkergetinte huidskleur, man, mannelijke technoloog, mannelijke technoloog: donkergetinte huidskleur, ontwikkelaar, programmeur, techneut, technoloog
+👨🏿‍💻	donkere huidskleur, man, mannelijke technoloog, mannelijke technoloog: donkere huidskleur, ontwikkelaar, programmeur, techneut, technoloog
 👩‍💻	ontwikkelaar, programmeur, techneut, technologe, vrouw
 👩🏻‍💻	lichte huidskleur, ontwikkelaar, programmeur, techneut, technologe, technologe: lichte huidskleur, vrouw
 👩🏼‍💻	lichtgetinte huidskleur, ontwikkelaar, programmeur, techneut, technologe, technologe: lichtgetinte huidskleur, vrouw
 👩🏽‍💻	getinte huidskleur, ontwikkelaar, programmeur, techneut, technologe, technologe: getinte huidskleur, vrouw
 👩🏾‍💻	donkergetinte huidskleur, ontwikkelaar, programmeur, techneut, technologe, technologe: donkergetinte huidskleur, vrouw
 👩🏿‍💻	donkere huidskleur, ontwikkelaar, programmeur, techneut, technologe, technologe: donkere huidskleur, vrouw
-👨‍🎤	acteur, entertainer, man, rock, ster, zanger
-👨🏻‍🎤	acteur, entertainer, lichte huidskleur, man, rock, ster, zanger, zanger: lichte huidskleur
-👨🏼‍🎤	acteur, entertainer, lichtgetinte huidskleur, man, rock, ster, zanger, zanger: lichtgetinte huidskleur
-👨🏽‍🎤	acteur, entertainer, getinte huidskleur, man, rock, ster, zanger, zanger: getinte huidskleur
-👨🏾‍🎤	acteur, donkergetinte huidskleur, entertainer, man, rock, ster, zanger, zanger: donkergetinte huidskleur
-👨🏿‍🎤	acteur, donkere huidskleur, entertainer, man, rock, ster, zanger, zanger: donkere huidskleur
+🧑‍🎤	acteur, entertainer, rock, ster, zanger
+🧑🏻‍🎤	acteur, entertainer, lichte huidskleur, rock, ster, zanger, zanger: lichte huidskleur
+🧑🏼‍🎤	acteur, entertainer, lichtgetinte huidskleur, rock, ster, zanger, zanger: lichtgetinte huidskleur
+🧑🏽‍🎤	acteur, entertainer, getinte huidskleur, rock, ster, zanger, zanger: getinte huidskleur
+🧑🏾‍🎤	acteur, donkergetinte huidskleur, entertainer, rock, ster, zanger, zanger: donkergetinte huidskleur
+🧑🏿‍🎤	acteur, donkere huidskleur, entertainer, rock, ster, zanger, zanger: donkere huidskleur
+👨‍🎤	acteur, entertainer, man, mannelijke zanger, rock, ster, zanger
+👨🏻‍🎤	acteur, entertainer, lichte huidskleur, man, mannelijke zanger, mannelijke zanger: lichte huidskleur, rock, ster, zanger
+👨🏼‍🎤	acteur, entertainer, lichtgetinte huidskleur, man, mannelijke zanger, mannelijke zanger: lichtgetinte huidskleur, rock, ster, zanger
+👨🏽‍🎤	acteur, entertainer, getinte huidskleur, man, mannelijke zanger, mannelijke zanger: getinte huidskleur, rock, ster, zanger
+👨🏾‍🎤	acteur, donkergetinte huidskleur, entertainer, man, mannelijke zanger, mannelijke zanger: donkergetinte huidskleur, rock, ster, zanger
+👨🏿‍🎤	acteur, donkere huidskleur, entertainer, man, mannelijke zanger, mannelijke zanger: donkere huidskleur, rock, ster, zanger
 👩‍🎤	actrice, entertainer, rock, ster, vrouw, zangeres
 👩🏻‍🎤	actrice, entertainer, lichte huidskleur, rock, ster, vrouw, zangeres, zangeres: lichte huidskleur
 👩🏼‍🎤	actrice, entertainer, lichtgetinte huidskleur, rock, ster, vrouw, zangeres, zangeres: lichtgetinte huidskleur
 👩🏽‍🎤	actrice, entertainer, getinte huidskleur, rock, ster, vrouw, zangeres, zangeres: getinte huidskleur
 👩🏾‍🎤	actrice, donkergetinte huidskleur, entertainer, rock, ster, vrouw, zangeres, zangeres: donkergetinte huidskleur
 👩🏿‍🎤	actrice, donkere huidskleur, entertainer, rock, ster, vrouw, zangeres, zangeres: donkere huidskleur
-👨‍🎨	kunstenaar, man, palet
-👨🏻‍🎨	kunstenaar, kunstenaar: lichte huidskleur, lichte huidskleur, man, palet
-👨🏼‍🎨	kunstenaar, kunstenaar: lichtgetinte huidskleur, lichtgetinte huidskleur, man, palet
-👨🏽‍🎨	getinte huidskleur, kunstenaar, kunstenaar: getinte huidskleur, man, palet
-👨🏾‍🎨	donkergetinte huidskleur, kunstenaar, kunstenaar: donkergetinte huidskleur, man, palet
-👨🏿‍🎨	donkere huidskleur, kunstenaar, kunstenaar: donkere huidskleur, man, palet
+🧑‍🎨	kunstenaar, palet
+🧑🏻‍🎨	kunstenaar, kunstenaar: lichte huidskleur, lichte huidskleur, palet
+🧑🏼‍🎨	kunstenaar, kunstenaar: lichtgetinte huidskleur, lichtgetinte huidskleur, palet
+🧑🏽‍🎨	getinte huidskleur, kunstenaar, kunstenaar: getinte huidskleur, palet
+🧑🏾‍🎨	donkergetinte huidskleur, kunstenaar, kunstenaar: donkergetinte huidskleur, palet
+🧑🏿‍🎨	donkere huidskleur, kunstenaar, kunstenaar: donkere huidskleur, palet
+👨‍🎨	kunstenaar, man, mannelijke kunstenaar, palet
+👨🏻‍🎨	kunstenaar, lichte huidskleur, man, mannelijke kunstenaar, mannelijke kunstenaar: lichte huidskleur, palet
+👨🏼‍🎨	kunstenaar, lichtgetinte huidskleur, man, mannelijke kunstenaar, mannelijke kunstenaar: lichtgetinte huidskleur, palet
+👨🏽‍🎨	getinte huidskleur, kunstenaar, man, mannelijke kunstenaar, mannelijke kunstenaar: getinte huidskleur, palet
+👨🏾‍🎨	donkergetinte huidskleur, kunstenaar, man, mannelijke kunstenaar, mannelijke kunstenaar: donkergetinte huidskleur, palet
+👨🏿‍🎨	donkere huidskleur, kunstenaar, man, mannelijke kunstenaar, mannelijke kunstenaar: donkere huidskleur, palet
 👩‍🎨	kunstenares, palet, vrouw
 👩🏻‍🎨	kunstenares, kunstenares: lichte huidskleur, lichte huidskleur, palet, vrouw
 👩🏼‍🎨	kunstenares, kunstenares: lichtgetinte huidskleur, lichtgetinte huidskleur, palet, vrouw
 👩🏽‍🎨	getinte huidskleur, kunstenares, kunstenares: getinte huidskleur, palet, vrouw
 👩🏾‍🎨	donkergetinte huidskleur, kunstenares, kunstenares: donkergetinte huidskleur, palet, vrouw
 👩🏿‍🎨	donkere huidskleur, kunstenares, kunstenares: donkere huidskleur, palet, vrouw
-👨‍✈	man, piloot, vliegtuig
-👨🏻‍✈	lichte huidskleur, man, piloot, piloot: lichte huidskleur, vliegtuig
-👨🏼‍✈	lichtgetinte huidskleur, man, piloot, piloot: lichtgetinte huidskleur, vliegtuig
-👨🏽‍✈	getinte huidskleur, man, piloot, piloot: getinte huidskleur, vliegtuig
-👨🏾‍✈	donkergetinte huidskleur, man, piloot, piloot: donkergetinte huidskleur, vliegtuig
-👨🏿‍✈	donkere huidskleur, man, piloot, piloot: donkere huidskleur, vliegtuig
+🧑‍✈	piloot, vliegtuig
+🧑🏻‍✈	lichte huidskleur, piloot, piloot: lichte huidskleur, vliegtuig
+🧑🏼‍✈	lichtgetinte huidskleur, piloot, piloot: lichtgetinte huidskleur, vliegtuig
+🧑🏽‍✈	getinte huidskleur, piloot, piloot: getinte huidskleur, vliegtuig
+🧑🏾‍✈	donkergetinte huidskleur, piloot, piloot: donkergetinte huidskleur, vliegtuig
+🧑🏿‍✈	donkere huidskleur, piloot, piloot: donkere huidskleur, vliegtuig
+👨‍✈	man, mannelijke piloot, piloot, vliegtuig
+👨🏻‍✈	lichte huidskleur, man, mannelijke piloot, mannelijke piloot: lichte huidskleur, piloot, vliegtuig
+👨🏼‍✈	lichtgetinte huidskleur, man, mannelijke piloot, mannelijke piloot: lichtgetinte huidskleur, piloot, vliegtuig
+👨🏽‍✈	getinte huidskleur, man, mannelijke piloot, mannelijke piloot: getinte huidskleur, piloot, vliegtuig
+👨🏾‍✈	donkergetinte huidskleur, man, mannelijke piloot, mannelijke piloot: donkergetinte huidskleur, piloot, vliegtuig
+👨🏿‍✈	donkere huidskleur, man, mannelijke piloot, mannelijke piloot: donkere huidskleur, piloot, vliegtuig
 👩‍✈	pilote, vliegtuig, vrouw
 👩🏻‍✈	lichte huidskleur, pilote, pilote: lichte huidskleur, vliegtuig, vrouw
 👩🏼‍✈	lichtgetinte huidskleur, pilote, pilote: lichtgetinte huidskleur, vliegtuig, vrouw
 👩🏽‍✈	getinte huidskleur, pilote, pilote: getinte huidskleur, vliegtuig, vrouw
 👩🏾‍✈	donkergetinte huidskleur, pilote, pilote: donkergetinte huidskleur, vliegtuig, vrouw
 👩🏿‍✈	donkere huidskleur, pilote, pilote: donkere huidskleur, vliegtuig, vrouw
-👨‍🚀	astronaut, man, raket
-👨🏻‍🚀	astronaut, astronaut: lichte huidskleur, lichte huidskleur, man, raket
-👨🏼‍🚀	astronaut, astronaut: lichtgetinte huidskleur, lichtgetinte huidskleur, man, raket
-👨🏽‍🚀	astronaut, astronaut: getinte huidskleur, getinte huidskleur, man, raket
-👨🏾‍🚀	astronaut, astronaut: donkergetinte huidskleur, donkergetinte huidskleur, man, raket
-👨🏿‍🚀	astronaut, astronaut: donkere huidskleur, donkere huidskleur, man, raket
+🧑‍🚀	astronaut, raket
+🧑🏻‍🚀	astronaut, astronaut: lichte huidskleur, lichte huidskleur, raket
+🧑🏼‍🚀	astronaut, astronaut: lichtgetinte huidskleur, lichtgetinte huidskleur, raket
+🧑🏽‍🚀	astronaut, astronaut: getinte huidskleur, getinte huidskleur, raket
+🧑🏾‍🚀	astronaut, astronaut: donkergetinte huidskleur, donkergetinte huidskleur, raket
+🧑🏿‍🚀	astronaut, astronaut: donkere huidskleur, donkere huidskleur, raket
+👨‍🚀	astronaut, man, mannelijke astronaut, raket
+👨🏻‍🚀	astronaut, lichte huidskleur, man, mannelijke astronaut, mannelijke astronaut: lichte huidskleur, raket
+👨🏼‍🚀	astronaut, lichtgetinte huidskleur, man, mannelijke astronaut, mannelijke astronaut: lichtgetinte huidskleur, raket
+👨🏽‍🚀	astronaut, getinte huidskleur, man, mannelijke astronaut, mannelijke astronaut: getinte huidskleur, raket
+👨🏾‍🚀	astronaut, donkergetinte huidskleur, man, mannelijke astronaut, mannelijke astronaut: donkergetinte huidskleur, raket
+👨🏿‍🚀	astronaut, donkere huidskleur, man, mannelijke astronaut, mannelijke astronaut: donkere huidskleur, raket
 👩‍🚀	astronaute, raket, vrouw
 👩🏻‍🚀	astronaute, astronaute: lichte huidskleur, lichte huidskleur, raket, vrouw
 👩🏼‍🚀	astronaute, astronaute: lichtgetinte huidskleur, lichtgetinte huidskleur, raket, vrouw
 👩🏽‍🚀	astronaute, astronaute: getinte huidskleur, getinte huidskleur, raket, vrouw
 👩🏾‍🚀	astronaute, astronaute: donkergetinte huidskleur, donkergetinte huidskleur, raket, vrouw
 👩🏿‍🚀	astronaute, astronaute: donkere huidskleur, donkere huidskleur, raket, vrouw
-👨‍🚒	brandweerman, brandweerwagen, man
-👨🏻‍🚒	brandweerman, brandweerman: lichte huidskleur, brandweerwagen, lichte huidskleur, man
-👨🏼‍🚒	brandweerman, brandweerman: lichtgetinte huidskleur, brandweerwagen, lichtgetinte huidskleur, man
-👨🏽‍🚒	brandweerman, brandweerman: getinte huidskleur, brandweerwagen, getinte huidskleur, man
-👨🏾‍🚒	brandweerman, brandweerman: donkergetinte huidskleur, brandweerwagen, donkergetinte huidskleur, man
-👨🏿‍🚒	brandweerman, brandweerman: donkere huidskleur, brandweerwagen, donkere huidskleur, man
+🧑‍🚒	brandweerman, brandweerwagen
+🧑🏻‍🚒	brandweerman, brandweerman: lichte huidskleur, brandweerwagen, lichte huidskleur
+🧑🏼‍🚒	brandweerman, brandweerman: lichtgetinte huidskleur, brandweerwagen, lichtgetinte huidskleur
+🧑🏽‍🚒	brandweerman, brandweerman: getinte huidskleur, brandweerwagen, getinte huidskleur
+🧑🏾‍🚒	brandweerman, brandweerman: donkergetinte huidskleur, brandweerwagen, donkergetinte huidskleur
+🧑🏿‍🚒	brandweerman, brandweerman: donkere huidskleur, brandweerwagen, donkere huidskleur
+👨‍🚒	brandweerman, brandweerwagen, man, mannelijke brandweerman
+👨🏻‍🚒	brandweerman, brandweerwagen, lichte huidskleur, man, mannelijke brandweerman, mannelijke brandweerman: lichte huidskleur
+👨🏼‍🚒	brandweerman, brandweerwagen, lichtgetinte huidskleur, man, mannelijke brandweerman, mannelijke brandweerman: lichtgetinte huidskleur
+👨🏽‍🚒	brandweerman, brandweerwagen, getinte huidskleur, man, mannelijke brandweerman, mannelijke brandweerman: getinte huidskleur
+👨🏾‍🚒	brandweerman, brandweerwagen, donkergetinte huidskleur, man, mannelijke brandweerman, mannelijke brandweerman: donkergetinte huidskleur
+👨🏿‍🚒	brandweerman, brandweerwagen, donkere huidskleur, man, mannelijke brandweerman, mannelijke brandweerman: donkere huidskleur
 👩‍🚒	brandweervrouw, brandweerwagen, vrouw
 👩🏻‍🚒	brandweervrouw, brandweervrouw: lichte huidskleur, brandweerwagen, lichte huidskleur, vrouw
 👩🏼‍🚒	brandweervrouw, brandweervrouw: lichtgetinte huidskleur, brandweerwagen, lichtgetinte huidskleur, vrouw
@@ -943,6 +1073,7 @@
 💂🏽‍♀	getinte huidskleur, vrouw, vrouwelijke wachter, vrouwelijke wachter: getinte huidskleur, wachter
 💂🏾‍♀	donkergetinte huidskleur, vrouw, vrouwelijke wachter, vrouwelijke wachter: donkergetinte huidskleur, wachter
 💂🏿‍♀	donkere huidskleur, vrouw, vrouwelijke wachter, vrouwelijke wachter: donkere huidskleur, wachter
+🥷	geheim, krijger, ninja, verborgen
 👷	bouw, bouwvakker, helm, klusser
 👷🏻	bouw, bouwvakker, bouwvakker: lichte huidskleur, helm, klusser, lichte huidskleur
 👷🏼	bouw, bouwvakker, bouwvakker: lichtgetinte huidskleur, helm, klusser, lichtgetinte huidskleur
@@ -1003,18 +1134,42 @@
 🧕🏽	getinte huidskleur, hidjab, hoofddoek, mantilla, vrouw met hoofddoek, vrouw met hoofddoek: getinte huidskleur
 🧕🏾	donkergetinte huidskleur, hidjab, hoofddoek, mantilla, vrouw met hoofddoek, vrouw met hoofddoek: donkergetinte huidskleur
 🧕🏿	donkere huidskleur, hidjab, hoofddoek, mantilla, vrouw met hoofddoek, vrouw met hoofddoek: donkere huidskleur
-🤵	bruidegom, man, man in smoking, smoking, tuxedo
-🤵🏻	bruidegom, lichte huidskleur, man, man in smoking, man in smoking: lichte huidskleur, smoking, tuxedo
-🤵🏼	bruidegom, lichtgetinte huidskleur, man, man in smoking, man in smoking: lichtgetinte huidskleur, smoking, tuxedo
-🤵🏽	bruidegom, getinte huidskleur, man, man in smoking, man in smoking: getinte huidskleur, smoking, tuxedo
-🤵🏾	bruidegom, donkergetinte huidskleur, man, man in smoking, man in smoking: donkergetinte huidskleur, smoking, tuxedo
-🤵🏿	bruidegom, donkere huidskleur, man, man in smoking, man in smoking: donkere huidskleur, smoking, tuxedo
-👰	gesluierde bruid, huwelijk, mensen, sluier
-👰🏻	gesluierde bruid, gesluierde bruid: lichte huidskleur, huwelijk, lichte huidskleur, mensen, sluier
-👰🏼	gesluierde bruid, gesluierde bruid: lichtgetinte huidskleur, huwelijk, lichtgetinte huidskleur, mensen, sluier
-👰🏽	gesluierde bruid, gesluierde bruid: getinte huidskleur, getinte huidskleur, huwelijk, mensen, sluier
-👰🏾	donkergetinte huidskleur, gesluierde bruid, gesluierde bruid: donkergetinte huidskleur, huwelijk, mensen, sluier
-👰🏿	donkere huidskleur, gesluierde bruid, gesluierde bruid: donkere huidskleur, huwelijk, mensen, sluier
+🤵	bruidegom, persoon, persoon in smoking, smoking
+🤵🏻	bruidegom, lichte huidskleur, persoon, persoon in smoking, persoon in smoking: lichte huidskleur, smoking
+🤵🏼	bruidegom, lichtgetinte huidskleur, persoon, persoon in smoking, persoon in smoking: lichtgetinte huidskleur, smoking
+🤵🏽	bruidegom, getinte huidskleur, persoon, persoon in smoking, persoon in smoking: getinte huidskleur, smoking
+🤵🏾	bruidegom, donkergetinte huidskleur, persoon, persoon in smoking, persoon in smoking: donkergetinte huidskleur, smoking
+🤵🏿	bruidegom, donkere huidskleur, persoon, persoon in smoking, persoon in smoking: donkere huidskleur, smoking
+🤵‍♂	man, man in smoking, smoking
+🤵🏻‍♂	lichte huidskleur, man, man in smoking, man in smoking: lichte huidskleur, smoking
+🤵🏼‍♂	lichtgetinte huidskleur, man, man in smoking, man in smoking: lichtgetinte huidskleur, smoking
+🤵🏽‍♂	getinte huidskleur, man, man in smoking, man in smoking: getinte huidskleur, smoking
+🤵🏾‍♂	donkergetinte huidskleur, man, man in smoking, man in smoking: donkergetinte huidskleur, smoking
+🤵🏿‍♂	donkere huidskleur, man, man in smoking, man in smoking: donkere huidskleur, smoking
+🤵‍♀	smoking, vrouw, vrouw in smoking
+🤵🏻‍♀	lichte huidskleur, smoking, vrouw, vrouw in smoking, vrouw in smoking: lichte huidskleur
+🤵🏼‍♀	lichtgetinte huidskleur, smoking, vrouw, vrouw in smoking, vrouw in smoking: lichtgetinte huidskleur
+🤵🏽‍♀	getinte huidskleur, smoking, vrouw, vrouw in smoking, vrouw in smoking: getinte huidskleur
+🤵🏾‍♀	donkergetinte huidskleur, smoking, vrouw, vrouw in smoking, vrouw in smoking: donkergetinte huidskleur
+🤵🏿‍♀	donkere huidskleur, smoking, vrouw, vrouw in smoking, vrouw in smoking: donkere huidskleur
+👰	bruid, huwelijk, persoon, persoon met sluier, sluier
+👰🏻	bruid, huwelijk, lichte huidskleur, persoon, persoon met sluier, persoon met sluier: lichte huidskleur, sluier
+👰🏼	bruid, huwelijk, lichtgetinte huidskleur, persoon, persoon met sluier, persoon met sluier: lichtgetinte huidskleur, sluier
+👰🏽	bruid, getinte huidskleur, huwelijk, persoon, persoon met sluier, persoon met sluier: getinte huidskleur, sluier
+👰🏾	bruid, donkergetinte huidskleur, huwelijk, persoon, persoon met sluier, persoon met sluier: donkergetinte huidskleur, sluier
+👰🏿	bruid, donkere huidskleur, huwelijk, persoon, persoon met sluier, persoon met sluier: donkere huidskleur, sluier
+👰‍♂	man, man met sluier, sluier
+👰🏻‍♂	lichte huidskleur, man, man met sluier, man met sluier: lichte huidskleur, sluier
+👰🏼‍♂	lichtgetinte huidskleur, man, man met sluier, man met sluier: lichtgetinte huidskleur, sluier
+👰🏽‍♂	getinte huidskleur, man, man met sluier, man met sluier: getinte huidskleur, sluier
+👰🏾‍♂	donkergetinte huidskleur, man, man met sluier, man met sluier: donkergetinte huidskleur, sluier
+👰🏿‍♂	donkere huidskleur, man, man met sluier, man met sluier: donkere huidskleur, sluier
+👰‍♀	sluier, vrouw, vrouw met sluier
+👰🏻‍♀	lichte huidskleur, sluier, vrouw, vrouw met sluier, vrouw met sluier: lichte huidskleur
+👰🏼‍♀	lichtgetinte huidskleur, sluier, vrouw, vrouw met sluier, vrouw met sluier: lichtgetinte huidskleur
+👰🏽‍♀	getinte huidskleur, sluier, vrouw, vrouw met sluier, vrouw met sluier: getinte huidskleur
+👰🏾‍♀	donkergetinte huidskleur, sluier, vrouw, vrouw met sluier, vrouw met sluier: donkergetinte huidskleur
+👰🏿‍♀	donkere huidskleur, sluier, vrouw, vrouw met sluier, vrouw met sluier: donkere huidskleur
 🤰	vrouw, zwanger, zwangere vrouw
 🤰🏻	lichte huidskleur, vrouw, zwanger, zwangere vrouw, zwangere vrouw: lichte huidskleur
 🤰🏼	lichtgetinte huidskleur, vrouw, zwanger, zwangere vrouw, zwangere vrouw: lichtgetinte huidskleur
@@ -1027,6 +1182,24 @@
 🤱🏽	baby, borst, borstvoeding, borstvoeding: getinte huidskleur, de borst geven, getinte huidskleur
 🤱🏾	baby, borst, borstvoeding, borstvoeding: donkergetinte huidskleur, de borst geven, donkergetinte huidskleur
 🤱🏿	baby, borst, borstvoeding, borstvoeding: donkere huidskleur, de borst geven, donkere huidskleur
+👩‍🍼	baby, borstvoeding, voeding, vrouw, vrouw die een baby voedt
+👩🏻‍🍼	baby, borstvoeding, lichte huidskleur, voeding, vrouw, vrouw die een baby voedt, vrouw die een baby voedt: lichte huidskleur
+👩🏼‍🍼	baby, borstvoeding, lichtgetinte huidskleur, voeding, vrouw, vrouw die een baby voedt, vrouw die een baby voedt: lichtgetinte huidskleur
+👩🏽‍🍼	baby, borstvoeding, getinte huidskleur, voeding, vrouw, vrouw die een baby voedt, vrouw die een baby voedt: getinte huidskleur
+👩🏾‍🍼	baby, borstvoeding, donkergetinte huidskleur, voeding, vrouw, vrouw die een baby voedt, vrouw die een baby voedt: donkergetinte huidskleur
+👩🏿‍🍼	baby, borstvoeding, donkere huidskleur, voeding, vrouw, vrouw die een baby voedt, vrouw die een baby voedt: donkere huidskleur
+👨‍🍼	baby, borstvoeding, man, man die een baby voedt, voeding
+👨🏻‍🍼	baby, borstvoeding, lichte huidskleur, man, man die een baby voedt, man die een baby voedt: lichte huidskleur, voeding
+👨🏼‍🍼	baby, borstvoeding, lichtgetinte huidskleur, man, man die een baby voedt, man die een baby voedt: lichtgetinte huidskleur, voeding
+👨🏽‍🍼	baby, borstvoeding, getinte huidskleur, man, man die een baby voedt, man die een baby voedt: getinte huidskleur, voeding
+👨🏾‍🍼	baby, borstvoeding, donkergetinte huidskleur, man, man die een baby voedt, man die een baby voedt: donkergetinte huidskleur, voeding
+👨🏿‍🍼	baby, borstvoeding, donkere huidskleur, man, man die een baby voedt, man die een baby voedt: donkere huidskleur, voeding
+🧑‍🍼	baby, borstvoeding, persoon, persoon die een baby voedt, voeding
+🧑🏻‍🍼	baby, borstvoeding, lichte huidskleur, persoon, persoon die een baby voedt, persoon die een baby voedt: lichte huidskleur, voeding
+🧑🏼‍🍼	baby, borstvoeding, lichtgetinte huidskleur, persoon, persoon die een baby voedt, persoon die een baby voedt: lichtgetinte huidskleur, voeding
+🧑🏽‍🍼	baby, borstvoeding, getinte huidskleur, persoon, persoon die een baby voedt, persoon die een baby voedt: getinte huidskleur, voeding
+🧑🏾‍🍼	baby, borstvoeding, donkergetinte huidskleur, persoon, persoon die een baby voedt, persoon die een baby voedt: donkergetinte huidskleur, voeding
+🧑🏿‍🍼	baby, borstvoeding, donkere huidskleur, persoon, persoon die een baby voedt, persoon die een baby voedt: donkere huidskleur, voeding
 👼	baby, baby-engel, engel, fantasie, gezicht, sprookje
 👼🏻	baby, baby-engel, baby-engel: lichte huidskleur, engel, fantasie, gezicht, lichte huidskleur, sprookje
 👼🏼	baby, baby-engel, baby-engel: lichtgetinte huidskleur, engel, fantasie, gezicht, lichtgetinte huidskleur, sprookje
@@ -1045,6 +1218,12 @@
 🤶🏽	getinte huidskleur, kerstmis, kerstvrouw, kerstvrouw: getinte huidskleur, moedertje kerst
 🤶🏾	donkergetinte huidskleur, kerstmis, kerstvrouw, kerstvrouw: donkergetinte huidskleur, moedertje kerst
 🤶🏿	donkere huidskleur, kerstmis, kerstvrouw, kerstvrouw: donkere huidskleur, moedertje kerst
+🧑‍🎄	Kerstman, kerst, kersttransgender
+🧑🏻‍🎄	Kerstman, kerst, kersttransgender, kersttransgender: lichte huidskleur, lichte huidskleur
+🧑🏼‍🎄	Kerstman, kerst, kersttransgender, kersttransgender: lichtgetinte huidskleur, lichtgetinte huidskleur
+🧑🏽‍🎄	Kerstman, kerst, getinte huidskleur, kersttransgender, kersttransgender: getinte huidskleur
+🧑🏾‍🎄	Kerstman, kerst, donkergetinte huidskleur, kersttransgender, kersttransgender: donkergetinte huidskleur
+🧑🏿‍🎄	Kerstman, kerst, donkere huidskleur, kersttransgender, kersttransgender: donkere huidskleur
 🦸	goed, held, heldin, superheld, superkrachten
 🦸🏻	goed, held, heldin, lichte huidskleur, superheld, superheld: lichte huidskleur, superkrachten
 🦸🏼	goed, held, heldin, lichtgetinte huidskleur, superheld, superheld: lichtgetinte huidskleur, superkrachten
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	getinte huidskleur, knielend, knielende vrouw, knielende vrouw: getinte huidskleur, vrouw
 🧎🏾‍♀	donkergetinte huidskleur, knielend, knielende vrouw, knielende vrouw: donkergetinte huidskleur, vrouw
 🧎🏿‍♀	donkere huidskleur, knielend, knielende vrouw, knielende vrouw: donkere huidskleur, vrouw
+🧑‍🦯	blind, persoon met taststok, toegankelijkheid
+🧑🏻‍🦯	blind, lichte huidskleur, persoon met taststok, persoon met taststok: lichte huidskleur, toegankelijkheid
+🧑🏼‍🦯	blind, lichtgetinte huidskleur, persoon met taststok, persoon met taststok: lichtgetinte huidskleur, toegankelijkheid
+🧑🏽‍🦯	blind, getinte huidskleur, persoon met taststok, persoon met taststok: getinte huidskleur, toegankelijkheid
+🧑🏾‍🦯	blind, donkergetinte huidskleur, persoon met taststok, persoon met taststok: donkergetinte huidskleur, toegankelijkheid
+🧑🏿‍🦯	blind, donkere huidskleur, persoon met taststok, persoon met taststok: donkere huidskleur, toegankelijkheid
 👨‍🦯	blind, man, man met taststok, toegankelijkheid
 👨🏻‍🦯	blind, lichte huidskleur, man, man met taststok, man met taststok: lichte huidskleur, toegankelijkheid
 👨🏼‍🦯	blind, lichtgetinte huidskleur, man, man met taststok, man met taststok: lichtgetinte huidskleur, toegankelijkheid
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	blind, getinte huidskleur, toegankelijkheid, vrouw, vrouw met taststok, vrouw met taststok: getinte huidskleur
 👩🏾‍🦯	blind, donkergetinte huidskleur, toegankelijkheid, vrouw, vrouw met taststok, vrouw met taststok: donkergetinte huidskleur
 👩🏿‍🦯	blind, donkere huidskleur, toegankelijkheid, vrouw, vrouw met taststok, vrouw met taststok: donkere huidskleur
+🧑‍🦼	persoon in elektrische rolstoel, rolstoel, toegankelijkheid
+🧑🏻‍🦼	lichte huidskleur, persoon in elektrische rolstoel, persoon in elektrische rolstoel: lichte huidskleur, rolstoel, toegankelijkheid
+🧑🏼‍🦼	lichtgetinte huidskleur, persoon in elektrische rolstoel, persoon in elektrische rolstoel: lichtgetinte huidskleur, rolstoel, toegankelijkheid
+🧑🏽‍🦼	getinte huidskleur, persoon in elektrische rolstoel, persoon in elektrische rolstoel: getinte huidskleur, rolstoel, toegankelijkheid
+🧑🏾‍🦼	donkergetinte huidskleur, persoon in elektrische rolstoel, persoon in elektrische rolstoel: donkergetinte huidskleur, rolstoel, toegankelijkheid
+🧑🏿‍🦼	donkere huidskleur, persoon in elektrische rolstoel, persoon in elektrische rolstoel: donkere huidskleur, rolstoel, toegankelijkheid
 👨‍🦼	man, man in elektrische rolstoel, rolstoel, toegankelijkheid
 👨🏻‍🦼	lichte huidskleur, man, man in elektrische rolstoel, man in elektrische rolstoel: lichte huidskleur, rolstoel, toegankelijkheid
 👨🏼‍🦼	lichtgetinte huidskleur, man, man in elektrische rolstoel, man in elektrische rolstoel: lichtgetinte huidskleur, rolstoel, toegankelijkheid
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	getinte huidskleur, rolstoel, toegankelijkheid, vrouw, vrouw in elektrische rolstoel, vrouw in elektrische rolstoel: getinte huidskleur
 👩🏾‍🦼	donkergetinte huidskleur, rolstoel, toegankelijkheid, vrouw, vrouw in elektrische rolstoel, vrouw in elektrische rolstoel: donkergetinte huidskleur
 👩🏿‍🦼	donkere huidskleur, rolstoel, toegankelijkheid, vrouw, vrouw in elektrische rolstoel, vrouw in elektrische rolstoel: donkere huidskleur
+🧑‍🦽	persoon in rolstoel, rolstoel, toegankelijkheid
+🧑🏻‍🦽	lichte huidskleur, persoon in rolstoel, persoon in rolstoel: lichte huidskleur, rolstoel, toegankelijkheid
+🧑🏼‍🦽	lichtgetinte huidskleur, persoon in rolstoel, persoon in rolstoel: lichtgetinte huidskleur, rolstoel, toegankelijkheid
+🧑🏽‍🦽	getinte huidskleur, persoon in rolstoel, persoon in rolstoel: getinte huidskleur, rolstoel, toegankelijkheid
+🧑🏾‍🦽	donkergetinte huidskleur, persoon in rolstoel, persoon in rolstoel: donkergetinte huidskleur, rolstoel, toegankelijkheid
+🧑🏿‍🦽	donkere huidskleur, persoon in rolstoel, persoon in rolstoel: donkere huidskleur, rolstoel, toegankelijkheid
 👨‍🦽	man, man in rolstoel, rolstoel, toegankelijkheid
 👨🏻‍🦽	lichte huidskleur, man, man in rolstoel, man in rolstoel: lichte huidskleur, rolstoel, toegankelijkheid
 👨🏼‍🦽	lichtgetinte huidskleur, man, man in rolstoel, man in rolstoel: lichtgetinte huidskleur, rolstoel, toegankelijkheid
@@ -1643,115 +1840,146 @@
 🛌🏿	donkere huidskleur, hotel, persoon in bed, persoon in bed: donkere huidskleur, slapen
 🧑‍🤝‍🧑	hand, hand in hand, personen hand in hand, persoon, stel, vasthouden
 🧑🏻‍🤝‍🧑🏻	hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: lichte huidskleur, persoon, stel, vasthouden
-🧑🏼‍🤝‍🧑🏻	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: lichtgetinte huidskleur en lichte huidskleur, persoon, stel, vasthouden
+🧑🏻‍🤝‍🧑🏼	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: lichte huidskleur, lichtgetinte huidskleur, persoon, stel, vasthouden
+🧑🏻‍🤝‍🧑🏽	getinte huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: lichte huidskleur, getinte huidskleur, persoon, stel, vasthouden
+🧑🏻‍🤝‍🧑🏾	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: lichte huidskleur, donkergetinte huidskleur, persoon, stel, vasthouden
+🧑🏻‍🤝‍🧑🏿	donkere huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: lichte huidskleur, donkere huidskleur, persoon, stel, vasthouden
+🧑🏼‍🤝‍🧑🏻	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: lichtgetinte huidskleur, lichte huidskleur, persoon, stel, vasthouden
 🧑🏼‍🤝‍🧑🏼	hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: lichtgetinte huidskleur, persoon, stel, vasthouden
-🧑🏽‍🤝‍🧑🏻	getinte huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: getinte huidskleur en lichte huidskleur, persoon, stel, vasthouden
-🧑🏽‍🤝‍🧑🏼	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: getinte huidskleur en lichtgetinte huidskleur, persoon, stel, vasthouden
+🧑🏼‍🤝‍🧑🏽	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: lichtgetinte huidskleur, getinte huidskleur, persoon, stel, vasthouden
+🧑🏼‍🤝‍🧑🏾	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: lichtgetinte huidskleur, donkergetinte huidskleur, persoon, stel, vasthouden
+🧑🏼‍🤝‍🧑🏿	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: lichtgetinte huidskleur, donkere huidskleur, persoon, stel, vasthouden
+🧑🏽‍🤝‍🧑🏻	getinte huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: getinte huidskleur, lichte huidskleur, persoon, stel, vasthouden
+🧑🏽‍🤝‍🧑🏼	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: getinte huidskleur, lichtgetinte huidskleur, persoon, stel, vasthouden
 🧑🏽‍🤝‍🧑🏽	getinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: getinte huidskleur, persoon, stel, vasthouden
-🧑🏾‍🤝‍🧑🏻	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: donkergetinte huidskleur en lichte huidskleur, persoon, stel, vasthouden
-🧑🏾‍🤝‍🧑🏼	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: donkergetinte huidskleur en lichtgetinte huidskleur, persoon, stel, vasthouden
-🧑🏾‍🤝‍🧑🏽	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkergetinte huidskleur en getinte huidskleur, persoon, stel, vasthouden
+🧑🏽‍🤝‍🧑🏾	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: getinte huidskleur, donkergetinte huidskleur, persoon, stel, vasthouden
+🧑🏽‍🤝‍🧑🏿	donkere huidskleur, getinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: getinte huidskleur, donkere huidskleur, persoon, stel, vasthouden
+🧑🏾‍🤝‍🧑🏻	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: donkergetinte huidskleur, lichte huidskleur, persoon, stel, vasthouden
+🧑🏾‍🤝‍🧑🏼	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: donkergetinte huidskleur, lichtgetinte huidskleur, persoon, stel, vasthouden
+🧑🏾‍🤝‍🧑🏽	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkergetinte huidskleur, getinte huidskleur, persoon, stel, vasthouden
 🧑🏾‍🤝‍🧑🏾	donkergetinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkergetinte huidskleur, persoon, stel, vasthouden
-🧑🏿‍🤝‍🧑🏻	donkere huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: donkere huidskleur en lichte huidskleur, persoon, stel, vasthouden
-🧑🏿‍🤝‍🧑🏼	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: donkere huidskleur en lichtgetinte huidskleur, persoon, stel, vasthouden
-🧑🏿‍🤝‍🧑🏽	donkere huidskleur, getinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkere huidskleur en getinte huidskleur, persoon, stel, vasthouden
-🧑🏿‍🤝‍🧑🏾	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkere huidskleur en donkergetinte huidskleur, persoon, stel, vasthouden
+🧑🏾‍🤝‍🧑🏿	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkergetinte huidskleur, donkere huidskleur, persoon, stel, vasthouden
+🧑🏿‍🤝‍🧑🏻	donkere huidskleur, hand, hand in hand, lichte huidskleur, personen hand in hand, personen hand in hand: donkere huidskleur, lichte huidskleur, persoon, stel, vasthouden
+🧑🏿‍🤝‍🧑🏼	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, personen hand in hand, personen hand in hand: donkere huidskleur, lichtgetinte huidskleur, persoon, stel, vasthouden
+🧑🏿‍🤝‍🧑🏽	donkere huidskleur, getinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkere huidskleur, getinte huidskleur, persoon, stel, vasthouden
+🧑🏿‍🤝‍🧑🏾	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkere huidskleur, donkergetinte huidskleur, persoon, stel, vasthouden
 🧑🏿‍🤝‍🧑🏿	donkere huidskleur, hand, hand in hand, personen hand in hand, personen hand in hand: donkere huidskleur, persoon, stel, vasthouden
 👭	hand, hand in hand, stel, vrouwen, vrouwen hand in hand
 👭🏻	hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichte huidskleur
-👩🏼‍🤝‍👩🏻	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichtgetinte huidskleur en lichte huidskleur
+👩🏻‍🤝‍👩🏼	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichte huidskleur, lichtgetinte huidskleur
+👩🏻‍🤝‍👩🏽	getinte huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichte huidskleur, getinte huidskleur
+👩🏻‍🤝‍👩🏾	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichte huidskleur, donkergetinte huidskleur
+👩🏻‍🤝‍👩🏿	donkere huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichte huidskleur, donkere huidskleur
+👩🏼‍🤝‍👩🏻	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichtgetinte huidskleur, lichte huidskleur
 👭🏼	hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichtgetinte huidskleur
-👩🏽‍🤝‍👩🏻	getinte huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: getinte huidskleur en lichte huidskleur
-👩🏽‍🤝‍👩🏼	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: getinte huidskleur en lichtgetinte huidskleur
+👩🏼‍🤝‍👩🏽	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichtgetinte huidskleur, getinte huidskleur
+👩🏼‍🤝‍👩🏾	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichtgetinte huidskleur, donkergetinte huidskleur
+👩🏼‍🤝‍👩🏿	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: lichtgetinte huidskleur, donkere huidskleur
+👩🏽‍🤝‍👩🏻	getinte huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: getinte huidskleur, lichte huidskleur
+👩🏽‍🤝‍👩🏼	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: getinte huidskleur, lichtgetinte huidskleur
 👭🏽	getinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: getinte huidskleur
-👩🏾‍🤝‍👩🏻	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur en lichte huidskleur
-👩🏾‍🤝‍👩🏼	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur en lichtgetinte huidskleur
-👩🏾‍🤝‍👩🏽	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur en getinte huidskleur
+👩🏽‍🤝‍👩🏾	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: getinte huidskleur, donkergetinte huidskleur
+👩🏽‍🤝‍👩🏿	donkere huidskleur, getinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: getinte huidskleur, donkere huidskleur
+👩🏾‍🤝‍👩🏻	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur, lichte huidskleur
+👩🏾‍🤝‍👩🏼	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur, lichtgetinte huidskleur
+👩🏾‍🤝‍👩🏽	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur, getinte huidskleur
 👭🏾	donkergetinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur
-👩🏿‍🤝‍👩🏻	donkere huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur en lichte huidskleur
-👩🏿‍🤝‍👩🏼	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur en lichtgetinte huidskleur
-👩🏿‍🤝‍👩🏽	donkere huidskleur, getinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur en getinte huidskleur
-👩🏿‍🤝‍👩🏾	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur en donkergetinte huidskleur
+👩🏾‍🤝‍👩🏿	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkergetinte huidskleur, donkere huidskleur
+👩🏿‍🤝‍👩🏻	donkere huidskleur, hand, hand in hand, lichte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur, lichte huidskleur
+👩🏿‍🤝‍👩🏼	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur, lichtgetinte huidskleur
+👩🏿‍🤝‍👩🏽	donkere huidskleur, getinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur, getinte huidskleur
+👩🏿‍🤝‍👩🏾	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur, donkergetinte huidskleur
 👭🏿	donkere huidskleur, hand, hand in hand, stel, vrouwen, vrouwen hand in hand, vrouwen hand in hand: donkere huidskleur
 👫	hand, hand in hand, man, man en vrouw hand in hand, stel, vasthouden, vrouw
 👫🏻	hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur, stel, vasthouden, vrouw
-👩🏻‍🤝‍👨🏼	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur en lichtgetinte huidskleur, stel, vasthouden, vrouw
-👩🏻‍🤝‍👨🏽	getinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur en getinte huidskleur, stel, vasthouden, vrouw
-👩🏻‍🤝‍👨🏾	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur en donkergetinte huidskleur, stel, vasthouden, vrouw
-👩🏻‍🤝‍👨🏿	donkere huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur en donkere huidskleur, stel, vasthouden, vrouw
-👩🏼‍🤝‍👨🏻	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur en lichte huidskleur, stel, vasthouden, vrouw
+👩🏻‍🤝‍👨🏼	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur, lichtgetinte huidskleur, stel, vasthouden, vrouw
+👩🏻‍🤝‍👨🏽	getinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur, getinte huidskleur, stel, vasthouden, vrouw
+👩🏻‍🤝‍👨🏾	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur, donkergetinte huidskleur, stel, vasthouden, vrouw
+👩🏻‍🤝‍👨🏿	donkere huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichte huidskleur, donkere huidskleur, stel, vasthouden, vrouw
+👩🏼‍🤝‍👨🏻	hand, hand in hand, lichte huidskleur, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur, lichte huidskleur, stel, vasthouden, vrouw
 👫🏼	hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur, stel, vasthouden, vrouw
-👩🏼‍🤝‍👨🏽	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur en getinte huidskleur, stel, vasthouden, vrouw
-👩🏼‍🤝‍👨🏾	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur en donkergetinte huidskleur, stel, vasthouden, vrouw
-👩🏼‍🤝‍👨🏿	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur en donkere huidskleur, stel, vasthouden, vrouw
-👩🏽‍🤝‍👨🏻	getinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur en lichte huidskleur, stel, vasthouden, vrouw
-👩🏽‍🤝‍👨🏼	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur en lichtgetinte huidskleur, stel, vasthouden, vrouw
+👩🏼‍🤝‍👨🏽	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur, getinte huidskleur, stel, vasthouden, vrouw
+👩🏼‍🤝‍👨🏾	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur, donkergetinte huidskleur, stel, vasthouden, vrouw
+👩🏼‍🤝‍👨🏿	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: lichtgetinte huidskleur, donkere huidskleur, stel, vasthouden, vrouw
+👩🏽‍🤝‍👨🏻	getinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur, lichte huidskleur, stel, vasthouden, vrouw
+👩🏽‍🤝‍👨🏼	getinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur, lichtgetinte huidskleur, stel, vasthouden, vrouw
 👫🏽	getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur, stel, vasthouden, vrouw
-👩🏽‍🤝‍👨🏾	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur en donkergetinte huidskleur, stel, vasthouden, vrouw
-👩🏽‍🤝‍👨🏿	donkere huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur en donkere huidskleur, stel, vasthouden, vrouw
-👩🏾‍🤝‍👨🏻	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur en lichte huidskleur, stel, vasthouden, vrouw
-👩🏾‍🤝‍👨🏼	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur en lichtgetinte huidskleur, stel, vasthouden, vrouw
-👩🏾‍🤝‍👨🏽	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur en getinte huidskleur, stel, vasthouden, vrouw
+👩🏽‍🤝‍👨🏾	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur, donkergetinte huidskleur, stel, vasthouden, vrouw
+👩🏽‍🤝‍👨🏿	donkere huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: getinte huidskleur, donkere huidskleur, stel, vasthouden, vrouw
+👩🏾‍🤝‍👨🏻	donkergetinte huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur, lichte huidskleur, stel, vasthouden, vrouw
+👩🏾‍🤝‍👨🏼	donkergetinte huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur, lichtgetinte huidskleur, stel, vasthouden, vrouw
+👩🏾‍🤝‍👨🏽	donkergetinte huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur, getinte huidskleur, stel, vasthouden, vrouw
 👫🏾	donkergetinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur, stel, vasthouden, vrouw
-👩🏾‍🤝‍👨🏿	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur en donkere huidskleur, stel, vasthouden, vrouw
-👩🏿‍🤝‍👨🏻	donkere huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur en lichte huidskleur, stel, vasthouden, vrouw
-👩🏿‍🤝‍👨🏼	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur en lichtgetinte huidskleur, stel, vasthouden, vrouw
-👩🏿‍🤝‍👨🏽	donkere huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur en getinte huidskleur, stel, vasthouden, vrouw
-👩🏿‍🤝‍👨🏾	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur en donkergetinte huidskleur, stel, vasthouden, vrouw
+👩🏾‍🤝‍👨🏿	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkergetinte huidskleur, donkere huidskleur, stel, vasthouden, vrouw
+👩🏿‍🤝‍👨🏻	donkere huidskleur, hand, hand in hand, lichte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur, lichte huidskleur, stel, vasthouden, vrouw
+👩🏿‍🤝‍👨🏼	donkere huidskleur, hand, hand in hand, lichtgetinte huidskleur, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur, lichtgetinte huidskleur, stel, vasthouden, vrouw
+👩🏿‍🤝‍👨🏽	donkere huidskleur, getinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur, getinte huidskleur, stel, vasthouden, vrouw
+👩🏿‍🤝‍👨🏾	donkere huidskleur, donkergetinte huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur, donkergetinte huidskleur, stel, vasthouden, vrouw
 👫🏿	donkere huidskleur, hand, hand in hand, man, man en vrouw hand in hand, man en vrouw hand in hand: donkere huidskleur, stel, vasthouden, vrouw
 👬	Tweelingen, hand in hand, man, mannen, mannen hand in hand, stel, sterrenbeeld, tweeling
 👬🏻	Tweelingen, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichte huidskleur, stel, sterrenbeeld, tweeling
-👨🏼‍🤝‍👨🏻	Tweelingen, hand in hand, lichte huidskleur, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichtgetinte huidskleur en lichte huidskleur, stel, sterrenbeeld, tweeling
+👨🏻‍🤝‍👨🏼	Tweelingen, hand in hand, lichte huidskleur, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichte huidskleur, lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏻‍🤝‍👨🏽	Tweelingen, getinte huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichte huidskleur, getinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏻‍🤝‍👨🏾	Tweelingen, donkergetinte huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichte huidskleur, donkergetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏻‍🤝‍👨🏿	Tweelingen, donkere huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichte huidskleur, donkere huidskleur, stel, sterrenbeeld, tweeling
+👨🏼‍🤝‍👨🏻	Tweelingen, hand in hand, lichte huidskleur, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichtgetinte huidskleur, lichte huidskleur, stel, sterrenbeeld, tweeling
 👬🏼	Tweelingen, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
-👨🏽‍🤝‍👨🏻	Tweelingen, getinte huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: getinte huidskleur en lichte huidskleur, stel, sterrenbeeld, tweeling
-👨🏽‍🤝‍👨🏼	Tweelingen, getinte huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: getinte huidskleur en lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏼‍🤝‍👨🏽	Tweelingen, getinte huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichtgetinte huidskleur, getinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏼‍🤝‍👨🏾	Tweelingen, donkergetinte huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichtgetinte huidskleur, donkergetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏼‍🤝‍👨🏿	Tweelingen, donkere huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: lichtgetinte huidskleur, donkere huidskleur, stel, sterrenbeeld, tweeling
+👨🏽‍🤝‍👨🏻	Tweelingen, getinte huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: getinte huidskleur, lichte huidskleur, stel, sterrenbeeld, tweeling
+👨🏽‍🤝‍👨🏼	Tweelingen, getinte huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: getinte huidskleur, lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
 👬🏽	Tweelingen, getinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: getinte huidskleur, stel, sterrenbeeld, tweeling
-👨🏾‍🤝‍👨🏻	Tweelingen, donkergetinte huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur en lichte huidskleur, stel, sterrenbeeld, tweeling
-👨🏾‍🤝‍👨🏼	Tweelingen, donkergetinte huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur en lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
-👨🏾‍🤝‍👨🏽	Tweelingen, donkergetinte huidskleur, getinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur en getinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏽‍🤝‍👨🏾	Tweelingen, donkergetinte huidskleur, getinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: getinte huidskleur, donkergetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏽‍🤝‍👨🏿	Tweelingen, donkere huidskleur, getinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: getinte huidskleur, donkere huidskleur, stel, sterrenbeeld, tweeling
+👨🏾‍🤝‍👨🏻	Tweelingen, donkergetinte huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur, lichte huidskleur, stel, sterrenbeeld, tweeling
+👨🏾‍🤝‍👨🏼	Tweelingen, donkergetinte huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur, lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏾‍🤝‍👨🏽	Tweelingen, donkergetinte huidskleur, getinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur, getinte huidskleur, stel, sterrenbeeld, tweeling
 👬🏾	Tweelingen, donkergetinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur, stel, sterrenbeeld, tweeling
-👨🏿‍🤝‍👨🏻	Tweelingen, donkere huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur en lichte huidskleur, stel, sterrenbeeld, tweeling
-👨🏿‍🤝‍👨🏼	Tweelingen, donkere huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur en lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
-👨🏿‍🤝‍👨🏽	Tweelingen, donkere huidskleur, getinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur en getinte huidskleur, stel, sterrenbeeld, tweeling
-👨🏿‍🤝‍👨🏾	Tweelingen, donkere huidskleur, donkergetinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur en donkergetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏾‍🤝‍👨🏿	Tweelingen, donkere huidskleur, donkergetinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkergetinte huidskleur, donkere huidskleur, stel, sterrenbeeld, tweeling
+👨🏿‍🤝‍👨🏻	Tweelingen, donkere huidskleur, hand in hand, lichte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur, lichte huidskleur, stel, sterrenbeeld, tweeling
+👨🏿‍🤝‍👨🏼	Tweelingen, donkere huidskleur, hand in hand, lichtgetinte huidskleur, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur, lichtgetinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏿‍🤝‍👨🏽	Tweelingen, donkere huidskleur, getinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur, getinte huidskleur, stel, sterrenbeeld, tweeling
+👨🏿‍🤝‍👨🏾	Tweelingen, donkere huidskleur, donkergetinte huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur, donkergetinte huidskleur, stel, sterrenbeeld, tweeling
 👬🏿	Tweelingen, donkere huidskleur, hand in hand, man, mannen, mannen hand in hand, mannen hand in hand: donkere huidskleur, stel, sterrenbeeld, tweeling
 💏	kus, stelletje
-👩‍❤‍💋‍👨	kus, kus: vrouw en man, man, stelletje, vrouw
-👨‍❤‍💋‍👨	kus, kus: man en man, man, stelletje
-👩‍❤‍💋‍👩	kus, kus: vrouw en vrouw, stelletje, vrouw
+👩‍❤‍💋‍👨	kus, kus: vrouw, man, man, stelletje, vrouw
+👨‍❤‍💋‍👨	kus, kus: man, man, man, stelletje
+👩‍❤‍💋‍👩	kus, kus: vrouw, vrouw, stelletje, vrouw
 💑	liefde, stel met hart, stelletje
-👩‍❤‍👨	liefde, man, stel met hart, stel met hart: vrouw en man, stelletje, vrouw
-👨‍❤‍👨	liefde, man, stel met hart, stel met hart: man en man, stelletje
-👩‍❤‍👩	liefde, stel met hart, stel met hart: vrouw en vrouw, stelletje, vrouw
+👩‍❤‍👨	liefde, man, stel met hart, stel met hart: vrouw, man, stelletje, vrouw
+👨‍❤‍👨	liefde, man, stel met hart, stel met hart: man, man, stelletje
+👩‍❤‍👩	liefde, stel met hart, stel met hart: vrouw, vrouw, stelletje, vrouw
 👪️	gezin, kind, mensen, moeder, vader
-👨‍👩‍👦	gezin, gezin: man, vrouw en jongen, jongen, kind, man, mensen, moeder, vader, vrouw
-👨‍👩‍👧	gezin, gezin: man, vrouw en meisje, kind, man, meisje, mensen, moeder, vader, vrouw
-👨‍👩‍👧‍👦	gezin, gezin: man, vrouw, meisje en jongen, jongen, kind, man, meisje, mensen, moeder, vader, vrouw
-👨‍👩‍👦‍👦	gezin, gezin: man, vrouw, jongen en jongen, jongen, kind, man, mensen, moeder, vader, vrouw
-👨‍👩‍👧‍👧	gezin, gezin: man, vrouw, meisje en meisje, kind, man, meisje, mensen, moeder, vader, vrouw
-👨‍👨‍👦	gezin, gezin: man, man en jongen, jongen, kind, man, mensen, moeder, vader
-👨‍👨‍👧	gezin, gezin: man, man en meisje, kind, man, meisje, mensen, moeder, vader
-👨‍👨‍👧‍👦	gezin, gezin: man, man, meisje en jongen, jongen, kind, man, meisje, mensen, moeder, vader
-👨‍👨‍👦‍👦	gezin, gezin: man, man, jongen en jongen, jongen, kind, man, mensen, moeder, vader
-👨‍👨‍👧‍👧	gezin, gezin: man, man, meisje en meisje, kind, man, meisje, mensen, moeder, vader
-👩‍👩‍👦	gezin, gezin: vrouw, vrouw en jongen, jongen, kind, mensen, moeder, vader, vrouw
-👩‍👩‍👧	gezin, gezin: vrouw, vrouw en meisje, kind, meisje, mensen, moeder, vader, vrouw
-👩‍👩‍👧‍👦	gezin, gezin: vrouw, vrouw, meisje en jongen, jongen, kind, meisje, mensen, moeder, vader, vrouw
-👩‍👩‍👦‍👦	gezin, gezin: vrouw, vrouw, jongen en jongen, jongen, kind, mensen, moeder, vader, vrouw
-👩‍👩‍👧‍👧	gezin, gezin: vrouw, vrouw, meisje en meisje, kind, meisje, mensen, moeder, vader, vrouw
-👨‍👦	gezin, gezin: man en jongen, jongen, kind, man, mensen, moeder, vader
-👨‍👦‍👦	gezin, gezin: man, jongen en jongen, jongen, kind, man, mensen, moeder, vader
-👨‍👧	gezin, gezin: man en meisje, kind, man, meisje, mensen, moeder, vader
-👨‍👧‍👦	gezin, gezin: man, meisje en jongen, jongen, kind, man, meisje, mensen, moeder, vader
-👨‍👧‍👧	gezin, gezin: man, meisje en meisje, kind, man, meisje, mensen, moeder, vader
-👩‍👦	gezin, gezin: vrouw en jongen, jongen, kind, mensen, moeder, vader, vrouw
-👩‍👦‍👦	gezin, gezin: vrouw, jongen en jongen, jongen, kind, mensen, moeder, vader, vrouw
-👩‍👧	gezin, gezin: vrouw en meisje, kind, meisje, mensen, moeder, vader, vrouw
-👩‍👧‍👦	gezin, gezin: vrouw, meisje en jongen, jongen, kind, meisje, mensen, moeder, vader, vrouw
-👩‍👧‍👧	gezin, gezin: vrouw, meisje en meisje, kind, meisje, mensen, moeder, vader, vrouw
+👨‍👩‍👦	gezin, gezin: man, vrouw, jongen, jongen, kind, man, mensen, moeder, vader, vrouw
+👨‍👩‍👧	gezin, gezin: man, vrouw, meisje, kind, man, meisje, mensen, moeder, vader, vrouw
+👨‍👩‍👧‍👦	gezin, gezin: man, vrouw, meisje, jongen, jongen, kind, man, meisje, mensen, moeder, vader, vrouw
+👨‍👩‍👦‍👦	gezin, gezin: man, vrouw, jongen, jongen, jongen, kind, man, mensen, moeder, vader, vrouw
+👨‍👩‍👧‍👧	gezin, gezin: man, vrouw, meisje, meisje, kind, man, meisje, mensen, moeder, vader, vrouw
+👨‍👨‍👦	gezin, gezin: man, man, jongen, jongen, kind, man, mensen, moeder, vader
+👨‍👨‍👧	gezin, gezin: man, man, meisje, kind, man, meisje, mensen, moeder, vader
+👨‍👨‍👧‍👦	gezin, gezin: man, man, meisje, jongen, jongen, kind, man, meisje, mensen, moeder, vader
+👨‍👨‍👦‍👦	gezin, gezin: man, man, jongen, jongen, jongen, kind, man, mensen, moeder, vader
+👨‍👨‍👧‍👧	gezin, gezin: man, man, meisje, meisje, kind, man, meisje, mensen, moeder, vader
+👩‍👩‍👦	gezin, gezin: vrouw, vrouw, jongen, jongen, kind, mensen, moeder, vader, vrouw
+👩‍👩‍👧	gezin, gezin: vrouw, vrouw, meisje, kind, meisje, mensen, moeder, vader, vrouw
+👩‍👩‍👧‍👦	gezin, gezin: vrouw, vrouw, meisje, jongen, jongen, kind, meisje, mensen, moeder, vader, vrouw
+👩‍👩‍👦‍👦	gezin, gezin: vrouw, vrouw, jongen, jongen, jongen, kind, mensen, moeder, vader, vrouw
+👩‍👩‍👧‍👧	gezin, gezin: vrouw, vrouw, meisje, meisje, kind, meisje, mensen, moeder, vader, vrouw
+👨‍👦	gezin, gezin: man, jongen, jongen, kind, man, mensen, moeder, vader
+👨‍👦‍👦	gezin, gezin: man, jongen, jongen, jongen, kind, man, mensen, moeder, vader
+👨‍👧	gezin, gezin: man, meisje, kind, man, meisje, mensen, moeder, vader
+👨‍👧‍👦	gezin, gezin: man, meisje, jongen, jongen, kind, man, meisje, mensen, moeder, vader
+👨‍👧‍👧	gezin, gezin: man, meisje, meisje, kind, man, meisje, mensen, moeder, vader
+👩‍👦	gezin, gezin: vrouw, jongen, jongen, kind, mensen, moeder, vader, vrouw
+👩‍👦‍👦	gezin, gezin: vrouw, jongen, jongen, jongen, kind, mensen, moeder, vader, vrouw
+👩‍👧	gezin, gezin: vrouw, meisje, kind, meisje, mensen, moeder, vader, vrouw
+👩‍👧‍👦	gezin, gezin: vrouw, meisje, jongen, jongen, kind, meisje, mensen, moeder, vader, vrouw
+👩‍👧‍👧	gezin, gezin: vrouw, meisje, meisje, kind, meisje, mensen, moeder, vader, vrouw
 🗣️	gezicht, hoofd, praten, pratend, silhouet, silhouet van sprekend hoofd, spreken, sprekend
 👤	buste, silhouet, silhouet van persoon
 👥	buste, silhouet, silhouet van twee personen
+🫂	bedankt, dag, hallo, omhelzing, personen in een omhelzing
 👣	afdruk, kleding, voetafdruk, voetafdrukken
 🦰	rood haar, rooie, rossig
 🦱	afro, krulhaar, krullen, krullend haar
@@ -1771,6 +1999,7 @@
 🦝	nieuwsgierig, sluw, wasbeer
 🐱	gezicht, huisdier, kat, kattengezicht
 🐈️	huisdier, kat
+🐈‍⬛	kat, ongeluk, zwart, zwarte kat
 🦁	Leo, gezicht, leeuw, sterrenbeeld
 🐯	gezicht, tijger, tijgergezicht
 🐅	tijger
@@ -1780,6 +2009,7 @@
 🦄	eenhoorn, gezicht
 🦓	streep, zebra
 🦌	hert
+🦬	bizon, buffel, kudde, wisent
 🐮	gezicht, koe, koeiengezicht
 🐂	Taurus, os, sterrenbeeld, stier
 🐃	buffel, water, waterbuffel
@@ -1796,6 +2026,7 @@
 🦙	alpaca, guanaco, lama, vicuña, wol
 🦒	giraffe, vlekken
 🐘	olifant
+🦣	groot, mammoet, slagtand, uitsterven, wollig
 🦏	neushoorn
 🦛	hippopotamus, nijlpaard
 🐭	gezicht, muis, muizengezicht
@@ -1805,9 +2036,11 @@
 🐰	gezicht, huisdier, konijn, konijnengezicht, konijntje
 🐇	huisdier, konijn, konijntje
 🐿️	eekhoorn
+🦫	bever, dam
 🦔	egel, stekelig
 🦇	vampier, vleermuis
 🐻	beer, gezicht
+🐻‍❄	beer, ijsbeer, noordpool, wit
 🐨	beer, koala
 🐼	gezicht, panda
 🦥	lui, luiaard, traag
@@ -1829,6 +2062,8 @@
 🦆	eend, vogel
 🦢	lelijk eendje, vogel, zwaan, zwanenjong
 🦉	uil, vogel, wijs, wijsheid
+🦤	Mauritius, dodo, groot, uitsterven
+🪶	licht, pluimage, veer, vliegen
 🦩	flamboyant, flamingo, tropisch
 🦚	opzichtig, pauw, pauwhen, trots, vogel
 🦜	papegaai, piraat, praten, vogel
@@ -1844,6 +2079,7 @@
 🐳	gezicht, spuitend, spuitende walvis, walvis
 🐋	walvis
 🐬	dolfijn, flipper
+🦭	zeehond, zeeleeuw
 🐟️	sterrenbeeld, vis, vissen
 🐠	tropisch, tropische vis, vis
 🐡	kogelvis, vis
@@ -1855,12 +2091,16 @@
 🐛	insect
 🐜	insect, mier
 🐝	bij, honingbij, insect
+🪲	beestje, insect, kever
 🐞	insect, kever, lieveheersbeest, lieveheersbeestje
 🦗	krekel, sprinkhaan
+🪳	bakkerstor, insect, kakkerlak
 🕷️	insect, spin
 🕸️	spin, spinnenweb, web
 🦂	Scorpio, schorpioen, sterrenbeeld
 🦟	insect, koorts, malaria, mug, virus, ziekte
+🪰	daas, huisvlieg, made, rottend, tseetseevlieg, vlieg, ziekte
+🪱	parasiet, regenworm, ringworm, worm
 🦠	amoeba, bacterie, microbe, virus
 💐	bloem, boeket
 🌸	bloem, bloesem, kers, kersenbloesem
@@ -1873,6 +2113,7 @@
 🌼	bloem, bloesem
 🌷	bloem, tulp
 🌱	jong, zaailing
+🪴	groeien, huis, nutteloos, plant, potplant, saai, verzorgen
 🌲	boom, naaldboom
 🌳	bladeren verliezen, boom, loof verliezen, loofboom
 🌴	boom, palm, palmboom
@@ -1898,8 +2139,10 @@
 🍑	fruit, perzik
 🍒	fruit, kers, kersen
 🍓	aardbei, bes, fruit
+🫐	bes, blauw, blauwbes, bosbes, bosbessen
 🥝	fruit, kiwi, voedsel
 🍅	fruit, groente, tomaat
+🫒	olijf, voedsel
 🥥	kokosnoot, palm, pina colada
 🥑	avocado, fruit, voedsel
 🍆	aubergine, groente
@@ -1907,6 +2150,7 @@
 🥕	groente, voedsel, wortel
 🌽	kolf, maïskolf, plant
 🌶️	heet, hete peper, peper
+🫑	capsicum, groente, paprika, peper
 🥒	augurk, groente, komkommer, voedsel
 🥬	bladgroente, boerenkool, kool, paksoi, sla
 🥦	broccoli, wilde kool
@@ -1917,7 +2161,8 @@
 🌰	kastanje, plant
 🍞	brood
 🥐	brood, croissant, frans, voedsel
-🥖	baguette, brood, frans, stokbrood, voedsel
+🥖	brood, frans, stokbrood, voedsel
+🫓	arepa, lavash, naan, pita, platbrood
 🥨	gedraaid, pretzel
 🥯	bagel, bakkerij, spread
 🥞	crêpe, flensjes, pannenkoek, pannenkoeken, voedsel
@@ -1934,12 +2179,14 @@
 🥪	boterham, brood
 🌮	mexicaans, taco
 🌯	burrito, mexicaans, wrap
+🫔	Mexicaans, gevuld, tamale
 🥙	falafel, gevuld, gevuld pitabroodje, gyro, kebab, pitabrood, voedsel
 🧆	falafel, gehaktbal, kikkererwt
 🥚	ei, voedsel
 🍳	bakken, ei, koken, pan
 🥘	casserole, paella, paellapan, pan, voedsel, wok
 🍲	eenpansgerecht, stoofschotel
+🫕	Zwitsers, chocola, fondue, gesmolten, kaas, pan
 🥣	cornflakes, kom met lepel, muesli, ontbijt
 🥗	groen, groene salade, salade, voedsel
 🍿	popcorn
@@ -1985,6 +2232,7 @@
 🍼	baby, babyflesje, drinken, flesje, melk
 🥛	drank, glas, glas melk, melk
 ☕️	drankje, drinken, koffie, stomend, thee, warm, warme drank
+🫖	drinken, pot, thee, theepot
 🍵	drankje, drinken, kop, thee, theekopje, theekopje zonder oor
 🍶	bar, drankje, drinken, fles, kopje, sake
 🍾	bar, drinken, fles, fles met knallende kurk, knallend, kurk
@@ -1996,6 +2244,7 @@
 🥂	drinken, glas, klinken, klinkende glazen, vieren
 🥃	borrel, drank, glas, tumbler, tumblerglas, whiskey, whisky
 🥤	beker met rietje, frisdrank, sap
+🧋	bubbel, bubbelthee, melk, parel, thee
 🧃	pakje drinken, pakje sap
 🧉	drank, maté
 🧊	ijsberg, ijsklontje, koud
@@ -2025,6 +2274,9 @@
 🏛️	klassiek, klassiek gebouw
 🏗️	bouw, woningbouw
 🧱	baksteen, bakstenen, cement, klei, muur
+🪨	rots, rotsblok, steen
+🪵	balk, boomstam, hout, timmerhout
+🛖	huis, hut, joert, ronde hut
 🏘️	huizen
 🏚️	huis, vervallen, vervallen huis
 🏠️	huis, thuis
@@ -2092,6 +2344,7 @@
 🚗	auto, automobiel
 🚘️	auto, automobiel, naderend, naderende auto
 🚙	SUV, auto, kampeerauto, voertuig
+🛻	bestelbak, laadbak, laadbakwagen, pick-up
 🚚	bestelbus, bezorging, bus
 🚛	truck, vrachtauto, vrachtwagen, vrachtwagen met oplegger
 🚜	tractor, voertuig
@@ -2104,6 +2357,7 @@
 🚲️	fiets, rijwiel
 🛴	autoped, step, steppen
 🛹	deck, skateboard
+🛼	rollerskate, rolschaats, schaats
 🚏	bus, bushalte, halte
 🛣️	autosnelweg, snelweg, weg
 🛤️	spoor, trein, treinspoor
@@ -2126,7 +2380,7 @@
 🛩️	vliegmachine, vliegtuig, vliegtuigje
 🛫	inchecken, vertrek, vertrek van vliegtuig, vertrekken, vliegmachine, vliegtuig
 🛬	aankomen, aankomst, aankomst van vliegtuig, landen, vliegmachine, vliegtuig
-🪂	hanggliden, parachute, parachutespringen, parasailen, skydiven
+🪂	hanggliden, parachute, parasailen, skydiven
 💺	stoel
 🚁	helikopter, voertuig
 🚟	spoor, zweeftrein, zwevend
@@ -2274,6 +2528,7 @@
 🪁	vliegen, vlieger, zweven
 🎱	8, 8 ball, acht, bal, biljart, spel
 🔮	bol, kristal, kristallen bol, waarzeggen, waarzeggerij
+🪄	heks, magie, tovenaar, toverstok
 🧿	Nazar, Nazar-amulet, amulet, boze oog, kraal, talisman
 🎮️	controller, game, gamecontroller, videogame
 🕹️	game, joystick, videogame
@@ -2281,6 +2536,8 @@
 🎲	dobbelsteen, dobbelstenen, spel
 🧩	aanwijzing, gekoppeld, legpuzzel, puzzel, puzzelstukje
 🧸	knuffel, pluche, speelgoed, speeltje, teddybeer
+🪅	feest, piñata, viering
+🪆	matroesjka, pop, poppetjes, rusland
 ♠️	kaart, kaarten, ruiten, schoppen, spel
 ♥️	hart, harten, kaart, kaarten, spel
 ♦️	kaart, kaarten, ruit, ruiten, spel
@@ -2293,7 +2550,9 @@
 🖼️	afbeelding, kunst, lijst, lijst met afbeelding, museum, schilderij
 🎨	kunst, museum, palet, schilderij, schilderspalet
 🧵	draad, garen, klos, naaien, naald
+🪡	borduren, hechten, hechtingen, kleermaken, naaien, naald
 🧶	bal, breien, haken, wol
+🪢	knoop, knopen, kronkel, streng, touw
 👓️	bril, brillen, kleding, oog
 🕶️	bril, brillen, donker, oog, zonnebril
 🥽	lassen, oogbescherming, oogscherm, zwemmen
@@ -2319,6 +2578,7 @@
 👝	enveloptas, kleding, tas, tasje
 🛍️	boodschappentassen, hotel, tas, winkelen
 🎒	rugzak, school, schooltas, tas
+🩴	teenslipper
 👞	herenschoen, kleding, man, schoen
 👟	atletiek, kleding, schoen, sneaker, sportschoen
 🥾	kamperen, schoen, trotteur, wandelen, wandelschoen
@@ -2332,6 +2592,7 @@
 🎩	hoed, hoge hoed, hoog, kleding
 🎓️	academische baret, eindexamen, hoed, kleding, viering
 🧢	baseballcap, pet
+🪖	legerhelm
 ⛑️	gezicht, helm, helm van reddingswerker, hoed, hulp, kruis
 📿	gebed, gebedssnoer, geloof, ketting, kleding, kralen
 💄	cosmetica, lippenstift, make-up
@@ -2356,12 +2617,14 @@
 🎧️	hoofdtelefoon, oordopje
 📻️	muziek, radio
 🎷	instrument, muziek, muziekinstrument, sax, saxofoon
+🪗	accordeon
 🎸	gitaar, instrument, muziek, muziekinstrument
 🎹	instrument, keyboard, muziek, muziekinstrument, piano
 🎺	instrument, muziek, muziekinstrument, trompet
 🎻	instrument, muziek, muziekinstrument, viool
 🪕	banjo, besnaard, muziek
 🥁	drummen, muziek, trommel, trommelstokken
+🪘	hoge trom
 📱	mobiel, mobiele telefoon, telefoon
 📲	mobiel, mobiel met pijl, mobiele telefoon, ontvangen, pijl, telefoon
 ☎️	telefoon
@@ -2415,6 +2678,7 @@
 🔖	bladwijzer, markering
 🏷️	label
 💰️	dollar, geld, geldzak, zak, zak met geld
+🪙	munt
 💴	bankbiljet, biljet, briefje, geld, valuta, yen, yenbiljet
 💵	bankbiljet, biljet, briefje, dollar, dollarbiljet, geld, valuta
 💶	bankbiljet, biljet, briefje, euro, eurobiljet, geld, valuta
@@ -2423,8 +2687,6 @@
 💳️	bank, creditcard, geld, kaart, krediet
 🧾	administratie, bewijs, boekhouding, kassabon, kwitantie
 💹	diagram, geld, grafiek, groei, stijgende grafiek met yenteken, yen
-💱	geld, geld wisselen, valuta, wisselen
-💲	dollar, dollarteken, geld, vetgedrukt dollarteken
 ✉️	e-mail, email, envelop, mail
 📧	brief, e-mail, mail, post
 📨	brief, e-mail, elektronische post, envelop, inkomend, inkomende post, ontvangen
@@ -2482,9 +2744,12 @@
 🗡️	dolk, mes, wapen
 ⚔️	gekruiste zwaarden, wapen, zwaarden
 🔫	pistool, revolver, wapen
+🪃	boemerang
 🏹	boog, boogschutter, pijl, pijl en boog, wapen
 🛡️	bescherming, schild
+🪚	houtzaag
 🔧	gereedschap, moersleutel
+🪛	schroevendraaier
 🔩	bout, bout en moer, gereedschap, moer
 ⚙️	gereedschap, tandwiel
 🗜️	bankschroef, gereedschap, lijmklem
@@ -2492,8 +2757,10 @@
 🦯	blind, taststok, toegankelijkheid
 🔗	schakels, twee ringen
 ⛓️	ketting, kettingen
+🪝	haak
 🧰	gereedschap, gereedschapskist, kist, monteur
 🧲	aantrekkingskracht, hoefijzer, magneet, magnetisch
+🪜	ladder
 ⚗️	distilleerkolf, gereedschap, scheikunde
 🧪	experiment, laboratorium, reageerbuis, scheikunde, scheikundige, wetenschap
 🧫	bacterie, biologie, bioloog, cultuur, laboratorium, petrischaal
@@ -2507,26 +2774,35 @@
 🩹	pleister, verband
 🩺	dokter, hart, medicijnen, ste­tho­scoop
 🚪	deur
+🛗	hijstoestel, lift, personenlift, toegankelijkheid
+🪞	reflector, speculum, spiegel, weerspiegeling
+🪟	doorzichtig, frisse lucht, kozijn, opening, raam, uitzicht
 🛏️	bed, hotel, slapen
 🛋️	bank, bank en lamp, hotel, lamp
 🪑	hoge stoel, stoel, zitten
 🚽	toilet, wc
+🪠	loodgieter, ontstopper, toilet, zuiger, zuigkracht
 🚿	douche, water
 🛁	bad, badkuip
+🪤	aas, muizenval, strik, valstrik
 🪒	scheermes, scheren, scherp
 🧴	hydraterende lotion, lotion, lotionfles, shampoo, zonnebrandolie
 🧷	luier, punk, veiligheidsspeld
 🧹	bezem, heks, schoonmaken, vegen
 🧺	mand, oogsten, picknick, wasgoed
 🧻	keukenrol, rol papier, wc-rol
+🪣	aker, emmer, putemmer, vat
 🧼	baden, schoonmaken, schuim, stuk zeep, zeep, zeephouder
+🪥	tandenborstel
 🧽	absorberend, poreus, schoonmaken, spons
 🧯	blussen, brandblusapparaat, doven, vuur
 🛒	shoppen, wagen, wagentje, winkelen, winkelwagen
 🚬	roken, roken toegestaan, symbool
 ⚰️	dood, doodskist, kist
+🪦	grafsteen
 ⚱️	as, dood, urn
 🗿	beeld, moai, moai-beeld, paaseiliand
+🪧	plakkaat
 🏧	automaat, pinautomaat, pinnen
 🚮	afval in prullenbak gooien, prullenbak, prullenbaksymbool, symbool
 🚰	drinkwater, drinkwatersymbool
@@ -2553,13 +2829,13 @@
 🔞	18, niemand onder de 18, onder de 18, onder de 18 verboden
 ☢️	radioactief, symbool
 ☣️	bio, biologisch, biologisch gevaar, gevaar
-⬆️	noord, omhoog, pijl, pijl omhoog
+⬆️	noord, pijl, pijl omhoog, richting
 ↗️	noordoost, pijl, pijl rechtsomhoog, rechtsboven, rechtsomhoog
-➡️	oost, pijl, pijl naar rechts, rechts
+➡️	oost, pijl, pijl naar rechts, richting
 ↘️	pijl, pijl rechtsomlaag, rechtsbeneden, rechtsomlaag, zuidoost
-⬇️	omlaag, pijl, pijl omlaag, zuid
+⬇️	omlaag, pijl, pijl omlaag, richting, zuid
 ↙️	linksbeneden, linksomlaag, pijl, pijl linksomlaag, zuidwest
-⬅️	links, pijl, pijl naar links, west
+⬅️	pijl, pijl naar links, richting, west
 ↖️	linksboven, linksomhoog, noordwest, pijl, pijl linksomhoog
 ↕️	pijl, pijl omhoog en omlaag
 ↔️	pijl, pijl naar links en rechts
@@ -2625,8 +2901,22 @@
 📴	mobiel, mobiele telefoon, mobiele telefoon uit, telefoon, telefoon uit, uit
 ♀️	symbool, teken, vrouw, vrouwelijkheidssymbool
 ♂️	man, mannelijkheidssymbool, symbool, teken
-⚕️	dokter, esculaap
+⚧️	transgender, transgendersymbool
+✖️	annuleren, teken, vermenigvuldigen, vermenigvuldiging, x, ×
+➕	+, plus, teken, wiskunde
+➖	-, min, teken, wiskunde, −
+➗	delen, teken, wiskunde, ÷
 ♾️	eeuwig, grenzeloos, oneindig, universeel
+‼️	!, !!, dubbel uitroepteken, interpunctie, teken, uitroep
+⁉️	!, !?, ?, in­ter­punc­tie, teken, uitroep, uitroepteken en vraagteken, vraag, vraagteken-uitroepteken
+❓️	?, interpunctie, teken, vraag, vraagteken
+❔	?, contour, interpunctie, teken, vraag, wit vraagteken
+❕	!, contour, interpunctie, teken, uitroep, wit uitroepteken
+❗️	!, interpunctie, teken, uitroep, uitroepteken
+〰️	golvend, golvend streepje, lang geluid, streepje
+💱	geld, geld wisselen, valuta, wisselen
+💲	dollar, dollarteken, geld, vetgedrukt dollarteken
+⚕️	dokter, esculaap
 ♻️	gevuld universeel recycling-symbool, recycling, recycling-symbool, symbool, universeel
 ⚜	fleur de lis, frans, franse lelie, symbool
 🔱	anker, drietand, drietand-symbool, embleem
@@ -2636,25 +2926,14 @@
 ✅	knop, knop voor vinkje, teken, vinkje, ✓
 ☑️	vak, vinkje, vinkje in vak, ✓
 ✔️	teken, vinkje, ✓
-✖️	annuleren, dikgedrukt vermenigvuldigingsteken, teken, vermenigvuldigen, vermenigvuldiging, vermenigvuldigingsteken, x, ×
 ❌	annuleren, kruis, teken, vermenigvuldigen, vermenigvuldiging, x, ×
 ❎	knop voor kruis, teken, vierkant, x, ×
-➕	+, plus, plusteken, teken, wiskunde
-➖	-, min, minteken, teken, wiskunde, −
-➗	deelteken, delen, teken, wiskunde, ÷
 ➰	gedraaid, gekrulde lus, lus
 ➿	Japan, dubbele gekrulde lus, gekrulde lus, gratis bellen
 〽️	markering, rolwisseling, rolwisselingsmarkering, teken
 ✳️	*, achtpuntige asterisk, asterisk
 ✴️	*, achtpuntige ster, ster
 ❇️	*, sprankelen, sprankeling
-‼️	!, !!, dubbel uitroepteken, interpunctie, teken, uitroep
-⁉️	!, !?, ?, in­ter­punc­tie, teken, uitroep, uitroepteken en vraagteken, vraag, vraagteken-uitroepteken
-❓️	?, interpunctie, teken, vraag, vraagteken
-❔	?, contour, interpunctie, teken, vraag, wit vraagteken
-❕	!, contour, interpunctie, teken, uitroep, wit uitroepteken
-❗️	!, interpunctie, teken, uitroep, uitroepteken
-〰️	golvend, golvend streepje, lang geluid, streepje
 ©️	c, copyright
 ®️	gedeponeerd, r
 ™️	handelsmerk, handelsmerksymbool, symbool
@@ -2750,6 +3029,7 @@
 🏴	vlag, zwart, zwarte vlag
 🏳️	vlag, wit, witte vlag
 🏳‍🌈	regenboog, regenboogvlag, vlag
+🏳‍⚧	lichtblauw, roze, transgender, transgendervlag, vlag, wit
 🏴‍☠	Jolly Roger, piraat, piratenvlag, plunderen, schat
 🇦🇨	vlag, vlag: Ascension
 🇦🇩	vlag, vlag: Andorra

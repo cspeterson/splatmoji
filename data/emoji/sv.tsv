@@ -19,6 +19,7 @@
 ☺️	leende ansikte, smiley
 😚	glad, puss, pussande ansikte med slutna ögon
 😙	glad, puss, pussande ansikte med leende ögon
+🥲	berörd, leende, lättad, stolt, tacksam, tår, tårögt leende ansikte
 😋	ansikte som njuter av god mat, god mat, gott, leende ansikte, smakar gott
 😛	ansikte, ansikte räcker ut tungan, räcker ut tungan, tunga
 😜	blinkande ansikte, blinkande ansikte räcker ut tungan, räcker ut tungan och blinkar
@@ -57,6 +58,7 @@
 🤯	chockad, exploderande huvud
 🤠	ansikte, ansikte med cowboyhatt, cowboy, cowgirl, hatt
 🥳	fest, festande ansikte, hatt, kalas, party, tuta
+🥸	anonym, ansikte, glasögon, mask, maskerat ansikte, näsa
 😎	cool, leende, leende ansikte med solglasögon, solglasögon
 🤓	ansikte, glasögon, nörd, nördansikte
 🧐	ansikte med monokel, gammaldags, torr
@@ -183,6 +185,12 @@
 👌🏽	OK, OK-tecken, OK-tecken: mellanfärgad hy, hand, mellanfärgad hy, tecken
 👌🏾	OK, OK-tecken, OK-tecken: mellanmörk hy, hand, mellanmörk hy, tecken
 👌🏿	OK, OK-tecken, OK-tecken: mörk hy, hand, mörk hy, tecken
+🤌	fingerportmonnä, fingrar, frågande, handgest, knyten, sarkastisk
+🤌🏻	fingerportmonnä, fingerportmonnä: ljus hy, fingrar, frågande, handgest, knyten, ljus hy, sarkastisk
+🤌🏼	fingerportmonnä, fingerportmonnä: mellanljus hy, fingrar, frågande, handgest, knyten, mellanljus hy, sarkastisk
+🤌🏽	fingerportmonnä, fingerportmonnä: mellanfärgad hy, fingrar, frågande, handgest, knyten, mellanfärgad hy, sarkastisk
+🤌🏾	fingerportmonnä, fingerportmonnä: mellanmörk hy, fingrar, frågande, handgest, knyten, mellanmörk hy, sarkastisk
+🤌🏿	fingerportmonnä, fingerportmonnä: mörk hy, fingrar, frågande, handgest, knyten, mörk hy, sarkastisk
 🤏	liten mängd, nypande hand
 🤏🏻	liten mängd, ljus hy, nypande hand, nypande hand: ljus hy
 🤏🏼	liten mängd, mellanljus hy, nypande hand, nypande hand: mellanljus hy
@@ -346,8 +354,8 @@
 💪🏽	mellanfärgad hy, muskler, spänd biceps, spänd biceps: mellanfärgad hy, stark
 💪🏾	mellanmörk hy, muskler, spänd biceps, spänd biceps: mellanmörk hy, stark
 💪🏿	muskler, mörk hy, spänd biceps, spänd biceps: mörk hy, stark
-🦾	mekanisk arm
-🦿	mekaniskt ben
+🦾	bionisk arm, mekanisk arm, protes
+🦿	bioniskt ben, mekaniskt ben, protes
 🦵	ben, lem, sparka
 🦵🏻	ben, ben: ljus hy, lem, ljus hy, sparka
 🦵🏼	ben, ben: mellanljus hy, lem, mellanljus hy, sparka
@@ -379,6 +387,8 @@
 👃🏾	kropp, mellanmörk hy, näsa, näsa: mellanmörk hy
 👃🏿	kropp, mörk hy, näsa, näsa: mörk hy
 🧠	hjärna, klok
+🫀	hjärta, kardiologi, organ, puls
+🫁	andning, exhalering, inhalering, lungor, organ
 🦷	tand, tandläkare
 🦴	benknota, skelett
 👀	öga, ögon
@@ -421,6 +431,30 @@
 👱🏽	blond, blond person, blond person: mellanfärgad hy, mellanfärgad hy, människor
 👱🏾	blond, blond person, blond person: mellanmörk hy, mellanmörk hy, människor
 👱🏿	blond, blond person, blond person: mörk hy, människor, mörk hy
+🧑‍🦰	könsneutral, person, person: rödhårig, rödhårig, vuxen
+🧑🏻‍🦰	könsneutral, ljus hy, person, person: ljus hy, rödhårig, rödhårig, vuxen
+🧑🏼‍🦰	könsneutral, mellanljus hy, person, person: mellanljus hy, rödhårig, rödhårig, vuxen
+🧑🏽‍🦰	könsneutral, mellanfärgad hy, person, person: mellanfärgad hy, rödhårig, rödhårig, vuxen
+🧑🏾‍🦰	könsneutral, mellanmörk hy, person, person: mellanmörk hy, rödhårig, rödhårig, vuxen
+🧑🏿‍🦰	könsneutral, mörk hy, person, person: mörk hy, rödhårig, rödhårig, vuxen
+🧑‍🦱	könsneutral, lockigt hår, person, person: lockigt hår, vuxen
+🧑🏻‍🦱	könsneutral, ljus hy, lockigt hår, person, person: ljus hy, lockigt hår, vuxen
+🧑🏼‍🦱	könsneutral, lockigt hår, mellanljus hy, person, person: mellanljus hy, lockigt hår, vuxen
+🧑🏽‍🦱	könsneutral, lockigt hår, mellanfärgad hy, person, person: mellanfärgad hy, lockigt hår, vuxen
+🧑🏾‍🦱	könsneutral, lockigt hår, mellanmörk hy, person, person: mellanmörk hy, lockigt hår, vuxen
+🧑🏿‍🦱	könsneutral, lockigt hår, mörk hy, person, person: mörk hy, lockigt hår, vuxen
+🧑‍🦳	könsneutral, person, person: vithårig, vithårig, vuxen
+🧑🏻‍🦳	könsneutral, ljus hy, person, person: ljus hy, vithårig, vithårig, vuxen
+🧑🏼‍🦳	könsneutral, mellanljus hy, person, person: mellanljus hy, vithårig, vithårig, vuxen
+🧑🏽‍🦳	könsneutral, mellanfärgad hy, person, person: mellanfärgad hy, vithårig, vithårig, vuxen
+🧑🏾‍🦳	könsneutral, mellanmörk hy, person, person: mellanmörk hy, vithårig, vithårig, vuxen
+🧑🏿‍🦳	könsneutral, mörk hy, person, person: mörk hy, vithårig, vithårig, vuxen
+🧑‍🦲	könsneutral, person, person: skallig, skallig, vuxen
+🧑🏻‍🦲	könsneutral, ljus hy, person, person: ljus hy, skallig, skallig, vuxen
+🧑🏼‍🦲	könsneutral, mellanljus hy, person, person: mellanljus hy, skallig, skallig, vuxen
+🧑🏽‍🦲	könsneutral, mellanfärgad hy, person, person: mellanfärgad hy, skallig, skallig, vuxen
+🧑🏾‍🦲	könsneutral, mellanmörk hy, person, person: mellanmörk hy, skallig, skallig, vuxen
+🧑🏿‍🦲	könsneutral, mörk hy, person, person: mörk hy, skallig, skallig, vuxen
 👨	man, vuxen
 👨🏻	ljus hy, man, man: ljus hy, vuxen
 👨🏼	man, man: mellanljus hy, mellanljus hy, vuxen
@@ -595,18 +629,18 @@
 💁🏽	information, mellanfärgad hy, människor, reception, receptionist, receptionist: mellanfärgad hy
 💁🏾	information, mellanmörk hy, människor, reception, receptionist, receptionist: mellanmörk hy
 💁🏿	information, människor, mörk hy, reception, receptionist, receptionist: mörk hy
-💁‍♂	dricks, hjälpa, hjälpande man, information, man
-💁🏻‍♂	dricks, hjälpa, hjälpande man, hjälpande man: ljus hy, information, ljus hy, man
-💁🏼‍♂	dricks, hjälpa, hjälpande man, hjälpande man: mellanljus hy, information, man, mellanljus hy
-💁🏽‍♂	dricks, hjälpa, hjälpande man, hjälpande man: mellanfärgad hy, information, man, mellanfärgad hy
-💁🏾‍♂	dricks, hjälpa, hjälpande man, hjälpande man: mellanmörk hy, information, man, mellanmörk hy
-💁🏿‍♂	dricks, hjälpa, hjälpande man, hjälpande man: mörk hy, information, man, mörk hy
-💁‍♀	dricks, hjälpa, hjälpande kvinna, information, kvinna
-💁🏻‍♀	dricks, hjälpa, hjälpande kvinna, hjälpande kvinna: ljus hy, information, kvinna, ljus hy
-💁🏼‍♀	dricks, hjälpa, hjälpande kvinna, hjälpande kvinna: mellanljus hy, information, kvinna, mellanljus hy
-💁🏽‍♀	dricks, hjälpa, hjälpande kvinna, hjälpande kvinna: mellanfärgad hy, information, kvinna, mellanfärgad hy
-💁🏾‍♀	dricks, hjälpa, hjälpande kvinna, hjälpande kvinna: mellanmörk hy, information, kvinna, mellanmörk hy
-💁🏿‍♀	dricks, hjälpa, hjälpande kvinna, hjälpande kvinna: mörk hy, information, kvinna, mörk hy
+💁‍♂	hjälpa, hjälpande man, information, man
+💁🏻‍♂	hjälpa, hjälpande man, hjälpande man: ljus hy, information, ljus hy, man
+💁🏼‍♂	hjälpa, hjälpande man, hjälpande man: mellanljus hy, information, man, mellanljus hy
+💁🏽‍♂	hjälpa, hjälpande man, hjälpande man: mellanfärgad hy, information, man, mellanfärgad hy
+💁🏾‍♂	hjälpa, hjälpande man, hjälpande man: mellanmörk hy, information, man, mellanmörk hy
+💁🏿‍♂	hjälpa, hjälpande man, hjälpande man: mörk hy, information, man, mörk hy
+💁‍♀	hjälpa, hjälpande kvinna, information, kvinna
+💁🏻‍♀	hjälpa, hjälpande kvinna, hjälpande kvinna: ljus hy, information, kvinna, ljus hy
+💁🏼‍♀	hjälpa, hjälpande kvinna, hjälpande kvinna: mellanljus hy, information, kvinna, mellanljus hy
+💁🏽‍♀	hjälpa, hjälpande kvinna, hjälpande kvinna: mellanfärgad hy, information, kvinna, mellanfärgad hy
+💁🏾‍♀	hjälpa, hjälpande kvinna, hjälpande kvinna: mellanmörk hy, information, kvinna, mellanmörk hy
+💁🏿‍♀	hjälpa, hjälpande kvinna, hjälpande kvinna: mörk hy, information, kvinna, mörk hy
 🙋	person, person som räcker upp handen, räcker upp handen
 🙋🏻	ljus hy, person, person som räcker upp handen, person som räcker upp handen: ljus hy, räcker upp handen
 🙋🏼	mellanljus hy, person, person som räcker upp handen, person som räcker upp handen: mellanljus hy, räcker upp handen
@@ -631,12 +665,12 @@
 🧏🏽	döv, hörsel, hörselskadad person, hörselskadad person: mellanfärgad hy, mellanfärgad hy, tillgänglighet, öra
 🧏🏾	döv, hörsel, hörselskadad person, hörselskadad person: mellanmörk hy, mellanmörk hy, tillgänglighet, öra
 🧏🏿	döv, hörsel, hörselskadad person, hörselskadad person: mörk hy, mörk hy, tillgänglighet, öra
-🧏‍♂	hörselskada, hörselskadad man, man
-🧏🏻‍♂	hörselskada, hörselskadad man, hörselskadad man: ljus hy, ljus hy, man
-🧏🏼‍♂	hörselskada, hörselskadad man, hörselskadad man: mellanljus hy, man, mellanljus hy
-🧏🏽‍♂	hörselskada, hörselskadad man, hörselskadad man: mellanfärgad hy, man, mellanfärgad hy
-🧏🏾‍♂	hörselskada, hörselskadad man, hörselskadad man: mellanmörk hy, man, mellanmörk hy
-🧏🏿‍♂	hörselskada, hörselskadad man, hörselskadad man: mörk hy, man, mörk hy
+🧏‍♂	hörselskadad, hörselskadad man, man
+🧏🏻‍♂	hörselskadad, hörselskadad man: ljus hy, ljus hy, man
+🧏🏼‍♂	hörselskadad, hörselskadad man: mellanljus hy, man, mellanljus hy
+🧏🏽‍♂	hörselskadad, hörselskadad man: mellanfärgad hy, man, mellanfärgad hy
+🧏🏾‍♂	hörselskadad, hörselskadad man: mellanmörk hy, man, mellanmörk hy
+🧏🏿‍♂	hörselskadad, hörselskadad man: mörk hy, man, mörk hy
 🧏‍♀	hörselskada kvinna, hörselskadad, kvinna
 🧏🏻‍♀	hörselskada kvinna, hörselskada kvinna: ljus hy, hörselskadad, kvinna, ljus hy
 🧏🏼‍♀	hörselskada kvinna, hörselskada kvinna: mellanljus hy, hörselskadad, kvinna, mellanljus hy
@@ -697,6 +731,12 @@
 🤷🏽‍♀	axelryckning, kvinna, kvinna som rycker på axlarna, kvinna som rycker på axlarna: mellanfärgad hy, likgiltighet, mellanfärgad hy, okunskap, tvivel
 🤷🏾‍♀	axelryckning, kvinna, kvinna som rycker på axlarna, kvinna som rycker på axlarna: mellanmörk hy, likgiltighet, mellanmörk hy, okunskap, tvivel
 🤷🏿‍♀	axelryckning, kvinna, kvinna som rycker på axlarna, kvinna som rycker på axlarna: mörk hy, likgiltighet, mörk hy, okunskap, tvivel
+🧑‍⚕	läkare
+🧑🏻‍⚕	ljus hy, läkare, läkare: ljus hy
+🧑🏼‍⚕	läkare, läkare: mellanljus hy, mellanljus hy
+🧑🏽‍⚕	läkare, läkare: mellanfärgad hy, mellanfärgad hy
+🧑🏾‍⚕	läkare, läkare: mellanmörk hy, mellanmörk hy
+🧑🏿‍⚕	läkare, läkare: mörk hy, mörk hy
 👨‍⚕	doktor, hälsovård, läkare, man, manlig, manlig läkare, skötare
 👨🏻‍⚕	doktor, hälsovård, ljus hy, läkare, man, manlig, manlig läkare: ljus hy, skötare
 👨🏼‍⚕	doktor, hälsovård, läkare, man, manlig, manlig läkare: mellanljus hy, mellanljus hy, skötare
@@ -709,6 +749,12 @@
 👩🏽‍⚕	doktor, hälsovård, kvinna, kvinnlig, kvinnlig läkare: mellanfärgad hy, läkare, mellanfärgad hy, skötare
 👩🏾‍⚕	doktor, hälsovård, kvinna, kvinnlig, kvinnlig läkare: mellanmörk hy, läkare, mellanmörk hy, skötare
 👩🏿‍⚕	doktor, hälsovård, kvinna, kvinnlig, kvinnlig läkare: mörk hy, läkare, mörk hy, skötare
+🧑‍🎓	student, studerande
+🧑🏻‍🎓	ljus hy, student, student: ljus hy, studerande
+🧑🏼‍🎓	mellanljus hy, student, student: mellanljus hy, studerande
+🧑🏽‍🎓	mellanfärgad hy, student, student: mellanfärgad hy, studerande
+🧑🏾‍🎓	mellanmörk hy, student, student: mellanmörk hy, studerande
+🧑🏿‍🎓	mörk hy, student, student: mörk hy, studerande
 👨‍🎓	man, manlig, manlig student, student, studerande
 👨🏻‍🎓	ljus hy, man, manlig, manlig student: ljus hy, student, studerande
 👨🏼‍🎓	man, manlig, manlig student: mellanljus hy, mellanljus hy, student, studerande
@@ -721,6 +767,12 @@
 👩🏽‍🎓	kvinna, kvinnlig, kvinnlig student: mellanfärgad hy, mellanfärgad hy, student, studerande
 👩🏾‍🎓	kvinna, kvinnlig, kvinnlig student: mellanmörk hy, mellanmörk hy, student, studerande
 👩🏿‍🎓	kvinna, kvinnlig, kvinnlig student: mörk hy, mörk hy, student, studerande
+🧑‍🏫	instruktör, lärare, professor
+🧑🏻‍🏫	instruktör, ljus hy, lärare, lärare: ljus hy, professor
+🧑🏼‍🏫	instruktör, lärare, lärare: mellanljus hy, mellanljus hy, professor
+🧑🏽‍🏫	instruktör, lärare, lärare: mellanfärgad hy, mellanfärgad hy, professor
+🧑🏾‍🏫	instruktör, lärare, lärare: mellanmörk hy, mellanmörk hy, professor
+🧑🏿‍🏫	instruktör, lärare, lärare: mörk hy, mörk hy, professor
 👨‍🏫	instruktör, lärare, man, manlig, manlig lärare, professor
 👨🏻‍🏫	instruktör, ljus hy, lärare, man, manlig, manlig lärare: ljus hy, professor
 👨🏼‍🏫	instruktör, lärare, man, manlig, manlig lärare: mellanljus hy, mellanljus hy, professor
@@ -733,6 +785,12 @@
 👩🏽‍🏫	instruktör, kvinna, kvinnlig, kvinnlig lärare, kvinnlig lärare: mellanfärgad hy, lärarinna, mellanfärgad hy, professor
 👩🏾‍🏫	instruktör, kvinna, kvinnlig, kvinnlig lärare, kvinnlig lärare: mellanmörk hy, lärarinna, mellanmörk hy, professor
 👩🏿‍🏫	instruktör, kvinna, kvinnlig, kvinnlig lärare, kvinnlig lärare: mörk hy, lärarinna, mörk hy, professor
+🧑‍⚖	advokat, domare
+🧑🏻‍⚖	advokat, domare, domare: ljus hy, ljus hy
+🧑🏼‍⚖	advokat, domare, domare: mellanljus hy, mellanljus hy
+🧑🏽‍⚖	advokat, domare, domare: mellanfärgad hy, mellanfärgad hy
+🧑🏾‍⚖	advokat, domare, domare: mellanmörk hy, mellanmörk hy
+🧑🏿‍⚖	advokat, domare, domare: mörk hy, mörk hy
 👨‍⚖	advokat, jurist, man, manlig, manlig domare
 👨🏻‍⚖	advokat, jurist, ljus hy, man, manlig, manlig domare, manlig domare: ljus hy
 👨🏼‍⚖	advokat, jurist, man, manlig, manlig domare, manlig domare: mellanljus hy, mellanljus hy
@@ -745,6 +803,12 @@
 👩🏽‍⚖	advokat, jurist, kvinna, kvinnlig, kvinnlig domare, kvinnlig domare: mellanfärgad hy, mellanfärgad hy
 👩🏾‍⚖	advokat, jurist, kvinna, kvinnlig, kvinnlig domare, kvinnlig domare: mellanmörk hy, mellanmörk hy
 👩🏿‍⚖	advokat, jurist, kvinna, kvinnlig, kvinnlig domare, kvinnlig domare: mörk hy, mörk hy
+🧑‍🌾	bonde, jordbrukare, lantbrukare
+🧑🏻‍🌾	bonde, bonde: ljus hy, jordbrukare, lantbrukare, ljus hy
+🧑🏼‍🌾	bonde, bonde: mellanljus hy, jordbrukare, lantbrukare, mellanljus hy
+🧑🏽‍🌾	bonde, bonde: mellanfärgad hy, jordbrukare, lantbrukare, mellanfärgad hy
+🧑🏾‍🌾	bonde, bonde: mellanmörk hy, jordbrukare, lantbrukare, mellanmörk hy
+🧑🏿‍🌾	bonde, bonde: mörk hy, jordbrukare, lantbrukare, mörk hy
 👨‍🌾	bonde, jordbruk, man, manlig bonde, trädgårdsmästare
 👨🏻‍🌾	bonde, jordbruk, ljus hy, man, manlig bonde, manlig bonde: ljus hy, trädgårdsmästare
 👨🏼‍🌾	bonde, jordbruk, man, manlig bonde, manlig bonde: mellanljus hy, mellanljus hy, trädgårdsmästare
@@ -757,6 +821,12 @@
 👩🏽‍🌾	bonde, jordbruk, kvinna, kvinnlig bonde, kvinnlig bonde: mellanfärgad hy, mellanfärgad hy, trädgårdsmästare
 👩🏾‍🌾	bonde, jordbruk, kvinna, kvinnlig bonde, kvinnlig bonde: mellanmörk hy, mellanmörk hy, trädgårdsmästare
 👩🏿‍🌾	bonde, jordbruk, kvinna, kvinnlig bonde, kvinnlig bonde: mörk hy, mörk hy, trädgårdsmästare
+🧑‍🍳	kock, köksmästare
+🧑🏻‍🍳	kock, kock: ljus hy, köksmästare, ljus hy
+🧑🏼‍🍳	kock, kock: mellanljus hy, köksmästare, mellanljus hy
+🧑🏽‍🍳	kock, kock: mellanfärgad hy, köksmästare, mellanfärgad hy
+🧑🏾‍🍳	kock, kock: mellanmörk hy, köksmästare, mellanmörk hy
+🧑🏿‍🍳	kock, kock: mörk hy, köksmästare, mörk hy
 👨‍🍳	man, manlig kock, matlagning, restaurang
 👨🏻‍🍳	ljus hy, man, manlig kock, manlig kock: ljus hy, matlagning, restaurang
 👨🏼‍🍳	man, manlig kock, manlig kock: mellanljus hy, matlagning, mellanljus hy, restaurang
@@ -769,6 +839,12 @@
 👩🏽‍🍳	kvinna, kvinnlig kock, kvinnlig kock: mellanfärgad hy, matlaging, mellanfärgad hy, restaurang
 👩🏾‍🍳	kvinna, kvinnlig kock, kvinnlig kock: mellanmörk hy, matlaging, mellanmörk hy, restaurang
 👩🏿‍🍳	kvinna, kvinnlig kock, kvinnlig kock: mörk hy, matlaging, mörk hy, restaurang
+🧑‍🔧	elektriker, mekaniker, rörmontör
+🧑🏻‍🔧	elektriker, ljus hy, mekaniker, mekaniker: ljus hy, rörmontör
+🧑🏼‍🔧	elektriker, mekaniker, mekaniker: mellanljus hy, mellanljus hy, rörmontör
+🧑🏽‍🔧	elektriker, mekaniker, mekaniker: mellanfärgad hy, mellanfärgad hy, rörmontör
+🧑🏾‍🔧	elektriker, mekaniker, mekaniker: mellanmörk hy, mellanmörk hy, rörmontör
+🧑🏿‍🔧	elektriker, mekaniker, mekaniker: mörk hy, mörk hy, rörmontör
 👨‍🔧	bil, elektriker, man, manlig mekaniker, mekaniker, motor, rörmokare
 👨🏻‍🔧	bil, elektriker, ljus hy, man, manlig mekaniker, manlig mekaniker: ljus hy, mekaniker, motor, rörmokare
 👨🏼‍🔧	bil, elektriker, man, manlig mekaniker, manlig mekaniker: mellanljus hy, mekaniker, mellanljus hy, motor, rörmokare
@@ -781,6 +857,12 @@
 👩🏽‍🔧	bil, kvinna, kvinnlig mekaniker, kvinnlig mekaniker: mellanfärgad hy, mekaniker, mellanfärgad hy, motor
 👩🏾‍🔧	bil, kvinna, kvinnlig mekaniker, kvinnlig mekaniker: mellanmörk hy, mekaniker, mellanmörk hy, motor
 👩🏿‍🔧	bil, kvinna, kvinnlig mekaniker, kvinnlig mekaniker: mörk hy, mekaniker, motor, mörk hy
+🧑‍🏭	arbetare, fabriksarbetare, industri, industriarbetare
+🧑🏻‍🏭	arbetare, fabriksarbetare, fabriksarbetare: ljus hy, industri, industriarbetare, ljus hy
+🧑🏼‍🏭	arbetare, fabriksarbetare, fabriksarbetare: mellanljus hy, industri, industriarbetare, mellanljus hy
+🧑🏽‍🏭	arbetare, fabriksarbetare, fabriksarbetare: mellanfärgad hy, industri, industriarbetare, mellanfärgad hy
+🧑🏾‍🏭	arbetare, fabriksarbetare, fabriksarbetare: mellanmörk hy, industri, industriarbetare, mellanmörk hy
+🧑🏿‍🏭	arbetare, fabriksarbetare, fabriksarbetare: mörk hy, industri, industriarbetare, mörk hy
 👨‍🏭	fabrik, industri, man, manlig fabriksarbetare, produktion
 👨🏻‍🏭	fabrik, industri, ljus hy, man, manlig fabriksarbetare, manlig fabriksarbetare: ljus hy, produktion
 👨🏼‍🏭	fabrik, industri, man, manlig fabriksarbetare, manlig fabriksarbetare: mellanljus hy, mellanljus hy, produktion
@@ -793,6 +875,12 @@
 👩🏽‍🏭	fabrik, industri, kvinna, kvinnlig fabriksarbetare, kvinnlig fabriksarbetare: mellanfärgad hy, mellanfärgad hy, produktion
 👩🏾‍🏭	fabrik, industri, kvinna, kvinnlig fabriksarbetare, kvinnlig fabriksarbetare: mellanmörk hy, mellanmörk hy, produktion
 👩🏿‍🏭	fabrik, industri, kvinna, kvinnlig fabriksarbetare, kvinnlig fabriksarbetare: mörk hy, mörk hy, produktion
+🧑‍💼	affärsman, arkitekt, kontorist, tjänsteman, ämbetsman
+🧑🏻‍💼	affärsman, arkitekt, kontorist, kontorist: ljus hy, ljus hy, tjänsteman, ämbetsman
+🧑🏼‍💼	affärsman, arkitekt, kontorist, kontorist: mellanljus hy, mellanljus hy, tjänsteman, ämbetsman
+🧑🏽‍💼	affärsman, arkitekt, kontorist, kontorist: mellanfärgad hy, mellanfärgad hy, tjänsteman, ämbetsman
+🧑🏾‍💼	affärsman, arkitekt, kontorist, kontorist: mellanmörk hy, mellanmörk hy, tjänsteman, ämbetsman
+🧑🏿‍💼	affärsman, arkitekt, kontorist, kontorist: mörk hy, mörk hy, tjänsteman, ämbetsman
 👨‍💼	chef, kontor, kontorstjänsteman, man, näringsliv
 👨🏻‍💼	chef, kontor, kontorstjänsteman, kontorstjänsteman: ljus hy, ljus hy, man, näringsliv
 👨🏼‍💼	chef, kontor, kontorstjänsteman, kontorstjänsteman: mellanljus hy, man, mellanljus hy, näringsliv
@@ -805,6 +893,12 @@
 👩🏽‍💼	chef, kontor, kontorstjänstekvinna, kontorstjänstekvinna: mellanfärgad hy, kvinna, mellanfärgad hy, näringsliv
 👩🏾‍💼	chef, kontor, kontorstjänstekvinna, kontorstjänstekvinna: mellanmörk hy, kvinna, mellanmörk hy, näringsliv
 👩🏿‍💼	chef, kontor, kontorstjänstekvinna, kontorstjänstekvinna: mörk hy, kvinna, mörk hy, näringsliv
+🧑‍🔬	biolog, forskare, fysiker, kemist, vetenskapsman
+🧑🏻‍🔬	biolog, forskare, forskare: ljus hy, fysiker, kemist, ljus hy, vetenskapsman
+🧑🏼‍🔬	biolog, forskare, forskare: mellanljus hy, fysiker, kemist, mellanljus hy, vetenskapsman
+🧑🏽‍🔬	biolog, forskare, forskare: mellanfärgad hy, fysiker, kemist, mellanfärgad hy, vetenskapsman
+🧑🏾‍🔬	biolog, forskare, forskare: mellanmörk hy, fysiker, kemist, mellanmörk hy, vetenskapsman
+🧑🏿‍🔬	biolog, forskare, forskare: mörk hy, fysiker, kemist, mörk hy, vetenskapsman
 👨‍🔬	kemi, laboratorium, man, manlig forskare, vetenskap, vetenskapsman
 👨🏻‍🔬	kemi, laboratorium, ljus hy, man, manlig forskare, manlig forskare: ljus hy, vetenskap, vetenskapsman
 👨🏼‍🔬	kemi, laboratorium, man, manlig forskare, manlig forskare: mellanljus hy, mellanljus hy, vetenskap, vetenskapsman
@@ -817,6 +911,12 @@
 👩🏽‍🔬	kemi, kvinna, kvinnlig forskare, kvinnlig forskare: mellanfärgad hy, laboratorium, mellanfärgad hy, vetenskap
 👩🏾‍🔬	kemi, kvinna, kvinnlig forskare, kvinnlig forskare: mellanmörk hy, laboratorium, mellanmörk hy, vetenskap
 👩🏿‍🔬	kemi, kvinna, kvinnlig forskare, kvinnlig forskare: mörk hy, laboratorium, mörk hy, vetenskap
+🧑‍💻	IT-tekniker, ingenjör, mjukvarutekniker, uppfinnare, utvecklare
+🧑🏻‍💻	IT-tekniker, IT-tekniker: ljus hy, ingenjör, ljus hy, mjukvarutekniker, uppfinnare, utvecklare
+🧑🏼‍💻	IT-tekniker, IT-tekniker: mellanljus hy, ingenjör, mellanljus hy, mjukvarutekniker, uppfinnare, utvecklare
+🧑🏽‍💻	IT-tekniker, IT-tekniker: mellanfärgad hy, ingenjör, mellanfärgad hy, mjukvarutekniker, uppfinnare, utvecklare
+🧑🏾‍💻	IT-tekniker, IT-tekniker: mellanmörk hy, ingenjör, mellanmörk hy, mjukvarutekniker, uppfinnare, utvecklare
+🧑🏿‍💻	IT-tekniker, IT-tekniker: mörk hy, ingenjör, mjukvarutekniker, mörk hy, uppfinnare, utvecklare
 👨‍💻	IT, data, man, manlig IT-expert, teknologi
 👨🏻‍💻	IT, data, ljus hy, man, manlig IT-expert, manlig IT-expert: ljus hy, teknologi
 👨🏼‍💻	IT, data, man, manlig IT-expert, manlig IT-expert: mellanljus hy, mellanljus hy, teknologi
@@ -829,6 +929,12 @@
 👩🏽‍💻	IT, data, kvinna, kvinnlig IT-expert, kvinnlig IT-expert: mellanfärgad hy, mellanfärgad hy, teknologi
 👩🏾‍💻	IT, data, kvinna, kvinnlig IT-expert, kvinnlig IT-expert: mellanmörk hy, mellanmörk hy, teknologi
 👩🏿‍💻	IT, data, kvinna, kvinnlig IT-expert, kvinnlig IT-expert: mörk hy, mörk hy, teknologi
+🧑‍🎤	sångare
+🧑🏻‍🎤	ljus hy, sångare, sångare: ljus hy
+🧑🏼‍🎤	mellanljus hy, sångare, sångare: mellanljus hy
+🧑🏽‍🎤	mellanfärgad hy, sångare, sångare: mellanfärgad hy
+🧑🏾‍🎤	mellanmörk hy, sångare, sångare: mellanmörk hy
+🧑🏿‍🎤	mörk hy, sångare, sångare: mörk hy
 👨‍🎤	artist, konsert, kändis, man, manlig sångare, stjärna
 👨🏻‍🎤	artist, konsert, kändis, ljus hy, man, manlig sångare, manlig sångare: ljus hy, stjärna
 👨🏼‍🎤	artist, konsert, kändis, man, manlig sångare, manlig sångare: mellanljus hy, mellanljus hy, stjärna
@@ -841,6 +947,12 @@
 👩🏽‍🎤	artist, konsert, kvinna, kvinnlig sångare, kvinnlig sångare: mellanfärgad hy, kändis, mellanfärgad hy, stjärna
 👩🏾‍🎤	artist, konsert, kvinna, kvinnlig sångare, kvinnlig sångare: mellanmörk hy, kändis, mellanmörk hy, stjärna
 👩🏿‍🎤	artist, konsert, kvinna, kvinnlig sångare, kvinnlig sångare: mörk hy, kändis, mörk hy, stjärna
+🧑‍🎨	artist, konstnär
+🧑🏻‍🎨	artist, konstnär, konstnär: ljus hy, ljus hy
+🧑🏼‍🎨	artist, konstnär, konstnär: mellanljus hy, mellanljus hy
+🧑🏽‍🎨	artist, konstnär, konstnär: mellanfärgad hy, mellanfärgad hy
+🧑🏾‍🎨	artist, konstnär, konstnär: mellanmörk hy, mellanmörk hy
+🧑🏿‍🎨	artist, konstnär, konstnär: mörk hy, mörk hy
 👨‍🎨	man, manlig konstnär, målare, palett
 👨🏻‍🎨	ljus hy, man, manlig konstnär, manlig konstnär: ljus hy, målare, palett
 👨🏼‍🎨	man, manlig konstnär, manlig konstnär: mellanljus hy, mellanljus hy, målare, palett
@@ -853,6 +965,12 @@
 👩🏽‍🎨	kvinna, kvinnlig konstnär, kvinnlig konstnär: mellanfärgad hy, mellanfärgad hy, målare, palett
 👩🏾‍🎨	kvinna, kvinnlig konstnär, kvinnlig konstnär: mellanmörk hy, mellanmörk hy, målare, palett
 👩🏿‍🎨	kvinna, kvinnlig konstnär, kvinnlig konstnär: mörk hy, målare, mörk hy, palett
+🧑‍✈	flygkapten, pilot
+🧑🏻‍✈	flygkapten, ljus hy, pilot, pilot: ljus hy
+🧑🏼‍✈	flygkapten, mellanljus hy, pilot, pilot: mellanljus hy
+🧑🏽‍✈	flygkapten, mellanfärgad hy, pilot, pilot: mellanfärgad hy
+🧑🏾‍✈	flygkapten, mellanmörk hy, pilot, pilot: mellanmörk hy
+🧑🏿‍✈	flygkapten, mörk hy, pilot, pilot: mörk hy
 👨‍✈	flyga, man, manlig pilot, pilot
 👨🏻‍✈	flyga, ljus hy, man, manlig pilot, manlig pilot: ljus hy, pilot
 👨🏼‍✈	flyga, man, manlig pilot, manlig pilot: mellanljus hy, mellanljus hy, pilot
@@ -865,6 +983,12 @@
 👩🏽‍✈	flyga, kvinna, kvinnlig pilot, kvinnlig pilot: mellanfärgad hy, mellanfärgad hy, pilot
 👩🏾‍✈	flyga, kvinna, kvinnlig pilot, kvinnlig pilot: mellanmörk hy, mellanmörk hy, pilot
 👩🏿‍✈	flyga, kvinna, kvinnlig pilot, kvinnlig pilot: mörk hy, mörk hy, pilot
+🧑‍🚀	astronaut, kosmonaut
+🧑🏻‍🚀	astronaut, astronaut: ljus hy, kosmonaut, ljus hy
+🧑🏼‍🚀	astronaut, astronaut: mellanljus hy, kosmonaut, mellanljus hy
+🧑🏽‍🚀	astronaut, astronaut: mellanfärgad hy, kosmonaut, mellanfärgad hy
+🧑🏾‍🚀	astronaut, astronaut: mellanmörk hy, kosmonaut, mellanmörk hy
+🧑🏿‍🚀	astronaut, astronaut: mörk hy, kosmonaut, mörk hy
 👨‍🚀	astronaut, man, manlig astronaut, raket, rymden
 👨🏻‍🚀	astronaut, ljus hy, man, manlig astronaut, manlig astronaut: ljus hy, raket, rymden
 👨🏼‍🚀	astronaut, man, manlig astronaut, manlig astronaut: mellanljus hy, mellanljus hy, raket, rymden
@@ -877,12 +1001,18 @@
 👩🏽‍🚀	astronaut, kvinna, kvinnlig astronaut, kvinnlig astronaut: mellanfärgad hy, mellanfärgad hy, raket, rymden
 👩🏾‍🚀	astronaut, kvinna, kvinnlig astronaut, kvinnlig astronaut: mellanmörk hy, mellanmörk hy, raket, rymden
 👩🏿‍🚀	astronaut, kvinna, kvinnlig astronaut, kvinnlig astronaut: mörk hy, mörk hy, raket, rymden
-👨‍🚒	brandbil, brandman, brandväsendet, man
-👨🏻‍🚒	brandbil, brandman, brandman: ljus hy, brandväsendet, ljus hy, man
-👨🏼‍🚒	brandbil, brandman, brandman: mellanljus hy, brandväsendet, man, mellanljus hy
-👨🏽‍🚒	brandbil, brandman, brandman: mellanfärgad hy, brandväsendet, man, mellanfärgad hy
-👨🏾‍🚒	brandbil, brandman, brandman: mellanmörk hy, brandväsendet, man, mellanmörk hy
-👨🏿‍🚒	brandbil, brandman, brandman: mörk hy, brandväsendet, man, mörk hy
+🧑‍🚒	brandbil, brandman
+🧑🏻‍🚒	brandbil, brandman, brandman: ljus hy, ljus hy
+🧑🏼‍🚒	brandbil, brandman, brandman: mellanljus hy, mellanljus hy
+🧑🏽‍🚒	brandbil, brandman, brandman: mellanfärgad hy, mellanfärgad hy
+🧑🏾‍🚒	brandbil, brandman, brandman: mellanmörk hy, mellanmörk hy
+🧑🏿‍🚒	brandbil, brandman, brandman: mörk hy, mörk hy
+👨‍🚒	brandbil, brandman, brandväsendet, man, manlig brandman
+👨🏻‍🚒	brandbil, brandman, brandväsendet, ljus hy, man, manlig brandman, manlig brandman: ljus hy
+👨🏼‍🚒	brandbil, brandman, brandväsendet, man, manlig brandman, manlig brandman: mellanljus hy, mellanljus hy
+👨🏽‍🚒	brandbil, brandman, brandväsendet, man, manlig brandman, manlig brandman: mellanfärgad hy, mellanfärgad hy
+👨🏾‍🚒	brandbil, brandman, brandväsendet, man, manlig brandman, manlig brandman: mellanmörk hy, mellanmörk hy
+👨🏿‍🚒	brandbil, brandman, brandväsendet, man, manlig brandman, manlig brandman: mörk hy, mörk hy
 👩‍🚒	brandbil, brandväsendet, kvinna, kvinnlig brandman
 👩🏻‍🚒	brandbil, brandväsendet, kvinna, kvinnlig brandman, kvinnlig brandman: ljus hy, ljus hy
 👩🏼‍🚒	brandbil, brandväsendet, kvinna, kvinnlig brandman, kvinnlig brandman: mellanljus hy, mellanljus hy
@@ -943,6 +1073,7 @@
 💂🏽‍♀	grenadjär, kvinna, kvinnlig grenadjär, kvinnlig grenadjär: mellanfärgad hy, kvinnlig vakt, mellanfärgad hy, vaktbyte, vaktparad
 💂🏾‍♀	grenadjär, kvinna, kvinnlig grenadjär, kvinnlig grenadjär: mellanmörk hy, kvinnlig vakt, mellanmörk hy, vaktbyte, vaktparad
 💂🏿‍♀	grenadjär, kvinna, kvinnlig grenadjär, kvinnlig grenadjär: mörk hy, kvinnlig vakt, mörk hy, vaktbyte, vaktparad
+🥷	flygare, hemligt, ninja, pilot
 👷	arbetare, byggarbetare, hatt
 👷🏻	arbetare, byggarbetare, byggarbetare: ljus hy, hatt, ljus hy
 👷🏼	arbetare, byggarbetare, byggarbetare: mellanljus hy, hatt, mellanljus hy
@@ -1003,18 +1134,42 @@
 🧕🏽	hijab, kvinna i sjal, kvinna i sjal: mellanfärgad hy, mellanfärgad hy, sjal, slöja
 🧕🏾	hijab, kvinna i sjal, kvinna i sjal: mellanmörk hy, mellanmörk hy, sjal, slöja
 🧕🏿	hijab, kvinna i sjal, kvinna i sjal: mörk hy, mörk hy, sjal, slöja
-🤵	brudgum, man, man i smoking, smoking
-🤵🏻	brudgum, ljus hy, man, man i smoking, man i smoking: ljus hy, smoking
-🤵🏼	brudgum, man, man i smoking, man i smoking: mellanljus hy, mellanljus hy, smoking
-🤵🏽	brudgum, man, man i smoking, man i smoking: mellanfärgad hy, mellanfärgad hy, smoking
-🤵🏾	brudgum, man, man i smoking, man i smoking: mellanmörk hy, mellanmörk hy, smoking
-🤵🏿	brudgum, man, man i smoking, man i smoking: mörk hy, mörk hy, smoking
-👰	brud, brud med slöja, bröllop, slöja
-👰🏻	brud, brud med slöja, brud med slöja: ljus hy, bröllop, ljus hy, slöja
-👰🏼	brud, brud med slöja, brud med slöja: mellanljus hy, bröllop, mellanljus hy, slöja
-👰🏽	brud, brud med slöja, brud med slöja: mellanfärgad hy, bröllop, mellanfärgad hy, slöja
-👰🏾	brud, brud med slöja, brud med slöja: mellanmörk hy, bröllop, mellanmörk hy, slöja
-👰🏿	brud, brud med slöja, brud med slöja: mörk hy, bröllop, mörk hy, slöja
+🤵	brudgum, person, person i smoking, smoking
+🤵🏻	brudgum, ljus hy, person, person i smoking, person i smoking: ljus hy, smoking
+🤵🏼	brudgum, mellanljus hy, person, person i smoking, person i smoking: mellanljus hy, smoking
+🤵🏽	brudgum, mellanfärgad hy, person, person i smoking, person i smoking: mellanfärgad hy, smoking
+🤵🏾	brudgum, mellanmörk hy, person, person i smoking, person i smoking: mellanmörk hy, smoking
+🤵🏿	brudgum, mörk hy, person, person i smoking, person i smoking: mörk hy, smoking
+🤵‍♂	man, man i smoking, smoking
+🤵🏻‍♂	ljus hy, man, man i smoking, man i smoking: ljus hy, smoking
+🤵🏼‍♂	man, man i smoking, man i smoking: mellanljus hy, mellanljus hy, smoking
+🤵🏽‍♂	man, man i smoking, man i smoking: mellanfärgad hy, mellanfärgad hy, smoking
+🤵🏾‍♂	man, man i smoking, man i smoking: mellanmörk hy, mellanmörk hy, smoking
+🤵🏿‍♂	man, man i smoking, man i smoking: mörk hy, mörk hy, smoking
+🤵‍♀	kvinna, kvinna i smoking, smoking
+🤵🏻‍♀	kvinna, kvinna i smoking, kvinna i smoking: ljus hy, ljus hy, smoking
+🤵🏼‍♀	kvinna, kvinna i smoking, kvinna i smoking: mellanljus hy, mellanljus hy, smoking
+🤵🏽‍♀	kvinna, kvinna i smoking, kvinna i smoking: mellanfärgad hy, mellanfärgad hy, smoking
+🤵🏾‍♀	kvinna, kvinna i smoking, kvinna i smoking: mellanmörk hy, mellanmörk hy, smoking
+🤵🏿‍♀	kvinna, kvinna i smoking, kvinna i smoking: mörk hy, mörk hy, smoking
+👰	brud, brudslöja, bröllop, person, person i brudslöja
+👰🏻	brud, brudslöja, bröllop, ljus hy, person, person i brudslöja, person i brudslöja: ljus hy
+👰🏼	brud, brudslöja, bröllop, mellanljus hy, person, person i brudslöja, person i brudslöja: mellanljus hy
+👰🏽	brud, brudslöja, bröllop, mellanfärgad hy, person, person i brudslöja, person i brudslöja: mellanfärgad hy
+👰🏾	brud, brudslöja, bröllop, mellanmörk hy, person, person i brudslöja, person i brudslöja: mellanmörk hy
+👰🏿	brud, brudslöja, bröllop, mörk hy, person, person i brudslöja, person i brudslöja: mörk hy
+👰‍♂	brudslöja, man, man i brudslöja
+👰🏻‍♂	brudslöja, ljus hy, man, man i brudslöja, man i brudslöja: ljus hy
+👰🏼‍♂	brudslöja, man, man i brudslöja, man i brudslöja: mellanljus hy, mellanljus hy
+👰🏽‍♂	brudslöja, man, man i brudslöja, man i brudslöja: mellanfärgad hy, mellanfärgad hy
+👰🏾‍♂	brudslöja, man, man i brudslöja, man i brudslöja: mellanmörk hy, mellanmörk hy
+👰🏿‍♂	brudslöja, man, man i brudslöja, man i brudslöja: mörk hy, mörk hy
+👰‍♀	brudslöja, kvinna, kvinna i brudslöja
+👰🏻‍♀	brudslöja, kvinna, kvinna i brudslöja, kvinna i brudslöja: ljus hy, ljus hy
+👰🏼‍♀	brudslöja, kvinna, kvinna i brudslöja, kvinna i brudslöja: mellanljus hy, mellanljus hy
+👰🏽‍♀	brudslöja, kvinna, kvinna i brudslöja, kvinna i brudslöja: mellanfärgad hy, mellanfärgad hy
+👰🏾‍♀	brudslöja, kvinna, kvinna i brudslöja, kvinna i brudslöja: mellanmörk hy, mellanmörk hy
+👰🏿‍♀	brudslöja, kvinna, kvinna i brudslöja, kvinna i brudslöja: mörk hy, mörk hy
 🤰	gravid, gravid kvinna, kvinna
 🤰🏻	gravid, gravid kvinna: ljus hy, kvinna, ljus hy
 🤰🏼	gravid, gravid kvinna: mellanljus hy, kvinna, mellanljus hy
@@ -1027,6 +1182,24 @@
 🤱🏽	amma, amning, amning: mellanfärgad hy, baby, bröst, mellanfärgad hy
 🤱🏾	amma, amning, amning: mellanmörk hy, baby, bröst, mellanmörk hy
 🤱🏿	amma, amning, amning: mörk hy, baby, bröst, mörk hy
+👩‍🍼	amma, kvinna, kvinna matar spädbarn, mata, spädbarn
+👩🏻‍🍼	amma, kvinna, kvinna matar spädbarn, kvinna matar spädbarn: ljus hy, ljus hy, mata, spädbarn
+👩🏼‍🍼	amma, kvinna, kvinna matar spädbarn, kvinna matar spädbarn: mellanljus hy, mata, mellanljus hy, spädbarn
+👩🏽‍🍼	amma, kvinna, kvinna matar spädbarn, kvinna matar spädbarn: mellanfärgad hy, mata, mellanfärgad hy, spädbarn
+👩🏾‍🍼	amma, kvinna, kvinna matar spädbarn, kvinna matar spädbarn: mellanmörk hy, mata, mellanmörk hy, spädbarn
+👩🏿‍🍼	amma, kvinna, kvinna matar spädbarn, kvinna matar spädbarn: mörk hy, mata, mörk hy, spädbarn
+👨‍🍼	amma, man, man matar spädbarn, mata, spädbarn
+👨🏻‍🍼	amma, ljus hy, man, man matar spädbarn, man matar spädbarn: ljus hy, mata, spädbarn
+👨🏼‍🍼	amma, man, man matar spädbarn, man matar spädbarn: mellanljus hy, mata, mellanljus hy, spädbarn
+👨🏽‍🍼	amma, man, man matar spädbarn, man matar spädbarn: mellanfärgad hy, mata, mellanfärgad hy, spädbarn
+👨🏾‍🍼	amma, man, man matar spädbarn, man matar spädbarn: mellanmörk hy, mata, mellanmörk hy, spädbarn
+👨🏿‍🍼	amma, man, man matar spädbarn, man matar spädbarn: mörk hy, mata, mörk hy, spädbarn
+🧑‍🍼	amma, mata, person, person ammar spädbarn, person matar spädbarn, spädbarn
+🧑🏻‍🍼	amma, ljus hy, mata, person, person ammar spädbarn: ljus hy, person matar spädbarn, spädbarn
+🧑🏼‍🍼	amma, mata, mellanljus hy, person, person ammar spädbarn: mellanljus hy, person matar spädbarn, spädbarn
+🧑🏽‍🍼	amma, mata, mellanfärgad hy, person, person ammar spädbarn: mellanfärgad hy, person matar spädbarn, spädbarn
+🧑🏾‍🍼	amma, mata, mellanmörk hy, person, person ammar spädbarn: mellanmörk hy, person matar spädbarn, spädbarn
+🧑🏿‍🍼	amma, mata, mörk hy, person, person ammar spädbarn: mörk hy, person matar spädbarn, spädbarn
 👼	bebisängel, saga, ängel
 👼🏻	bebisängel, bebisängel: ljus hy, ljus hy, saga, ängel
 👼🏼	bebisängel, bebisängel: mellanljus hy, mellanljus hy, saga, ängel
@@ -1045,12 +1218,18 @@
 🤶🏽	jul, mellanfärgad hy, mor, nisse, tomtemor, tomtemor: mellanfärgad hy
 🤶🏾	jul, mellanmörk hy, mor, nisse, tomtemor, tomtemor: mellanmörk hy
 🤶🏿	jul, mor, mörk hy, nisse, tomtemor, tomtemor: mörk hy
-🦸	god, hjälte, hjältinna, man, superhjälte, superkraft, superkrafter
-🦸🏻	god, hjälte, hjältinna, ljus hy, man, superhjälte, superhjälte: ljus hy, superkraft, superkrafter
-🦸🏼	god, hjälte, hjältinna, man, mellanljus hy, superhjälte, superhjälte: mellanljus hy, superkraft, superkrafter
-🦸🏽	god, hjälte, hjältinna, man, mellanfärgad hy, superhjälte, superhjälte: mellanfärgad hy, superkraft, superkrafter
-🦸🏾	god, hjälte, hjältinna, man, mellanmörk hy, superhjälte, superhjälte: mellanmörk hy, superkraft, superkrafter
-🦸🏿	god, hjälte, hjältinna, man, mörk hy, superhjälte, superhjälte: mörk hy, superkraft, superkrafter
+🧑‍🎄	könsneutral tomte, tomte, jul
+🧑🏻‍🎄	könsneutral tomte, könsneutral tomte: ljus hy, ljus hy, tomte, jul
+🧑🏼‍🎄	könsneutral tomte, könsneutral tomte: mellanljus hy, mellanljus hy, tomte, jul
+🧑🏽‍🎄	könsneutral tomte, könsneutral tomte: mellanfärgad hy, mellanfärgad hy, tomte, jul
+🧑🏾‍🎄	könsneutral tomte, könsneutral tomte: mellanmörk hy, mellanmörk hy, tomte, jul
+🧑🏿‍🎄	könsneutral tomte, könsneutral tomte: mörk hy, mörk hy, tomte, jul
+🦸	god, hjälte, hjältinna, superhjälte, superkraft, superkrafter
+🦸🏻	god, hjälte, hjältinna, ljus hy, superhjälte, superhjälte: ljus hy, superkraft, superkrafter
+🦸🏼	god, hjälte, hjältinna, mellanljus hy, superhjälte, superhjälte: mellanljus hy, superkraft, superkrafter
+🦸🏽	god, hjälte, hjältinna, mellanfärgad hy, superhjälte, superhjälte: mellanfärgad hy, superkraft, superkrafter
+🦸🏾	god, hjälte, hjältinna, mellanmörk hy, superhjälte, superhjälte: mellanmörk hy, superkraft, superkrafter
+🦸🏿	god, hjälte, hjältinna, mörk hy, superhjälte, superhjälte: mörk hy, superkraft, superkrafter
 🦸‍♂	god, hjälte, man, manlig superhjälte, superkraft
 🦸🏻‍♂	god, hjälte, ljus hy, man, manlig superhjälte, manlig superhjälte: ljus hy, superkraft
 🦸🏼‍♂	god, hjälte, man, manlig superhjälte, manlig superhjälte: mellanljus hy, mellanljus hy, superkraft
@@ -1183,18 +1362,18 @@
 💆🏽	ansiktsmassage, behandling, massage, mellanfärgad hy, person som blir masserad, person som blir masserad: mellanfärgad hy
 💆🏾	ansiktsmassage, behandling, massage, mellanmörk hy, person som blir masserad, person som blir masserad: mellanmörk hy
 💆🏿	ansiktsmassage, behandling, massage, mörk hy, person som blir masserad, person som blir masserad: mörk hy
-💆‍♂	avslapning, huvudmassage, man, man som blir masserad, man som får massage, massage
-💆🏻‍♂	avslapning, huvudmassage, ljus hy, man, man som blir masserad, man som blir masserad: ljus hy, man som får massage, massage
-💆🏼‍♂	avslapning, huvudmassage, man, man som blir masserad, man som blir masserad: mellanljus hy, man som får massage, massage, mellanljus hy
-💆🏽‍♂	avslapning, huvudmassage, man, man som blir masserad, man som blir masserad: mellanfärgad hy, man som får massage, massage, mellanfärgad hy
-💆🏾‍♂	avslapning, huvudmassage, man, man som blir masserad, man som blir masserad: mellanmörk hy, man som får massage, massage, mellanmörk hy
-💆🏿‍♂	avslapning, huvudmassage, man, man som blir masserad, man som blir masserad: mörk hy, man som får massage, massage, mörk hy
-💆‍♀	avslapning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som får massage, massage
-💆🏻‍♀	avslapning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: ljus hy, kvinna som får massage, ljus hy, massage
-💆🏼‍♀	avslapning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mellanljus hy, kvinna som får massage, massage, mellanljus hy
-💆🏽‍♀	avslapning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mellanfärgad hy, kvinna som får massage, massage, mellanfärgad hy
-💆🏾‍♀	avslapning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mellanmörk hy, kvinna som får massage, massage, mellanmörk hy
-💆🏿‍♀	avslapning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mörk hy, kvinna som får massage, massage, mörk hy
+💆‍♂	avslappning, huvudmassage, man, man som blir masserad, man som får massage, massage
+💆🏻‍♂	avslappning, huvudmassage, ljus hy, man, man som blir masserad, man som blir masserad: ljus hy, man som får massage, massage
+💆🏼‍♂	avslappning, huvudmassage, man, man som blir masserad, man som blir masserad: mellanljus hy, man som får massage, massage, mellanljus hy
+💆🏽‍♂	avslappning, huvudmassage, man, man som blir masserad, man som blir masserad: mellanfärgad hy, man som får massage, massage, mellanfärgad hy
+💆🏾‍♂	avslappning, huvudmassage, man, man som blir masserad, man som blir masserad: mellanmörk hy, man som får massage, massage, mellanmörk hy
+💆🏿‍♂	avslappning, huvudmassage, man, man som blir masserad, man som blir masserad: mörk hy, man som får massage, massage, mörk hy
+💆‍♀	avslappning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som får massage, massage
+💆🏻‍♀	avslappning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: ljus hy, kvinna som får massage, ljus hy, massage
+💆🏼‍♀	avslappning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mellanljus hy, kvinna som får massage, massage, mellanljus hy
+💆🏽‍♀	avslappning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mellanfärgad hy, kvinna som får massage, massage, mellanfärgad hy
+💆🏾‍♀	avslappning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mellanmörk hy, kvinna som får massage, massage, mellanmörk hy
+💆🏿‍♀	avslappning, huvudmassage, kvinna, kvinna som blir masserad, kvinna som blir masserad: mörk hy, kvinna som får massage, massage, mörk hy
 💇	frisör, hårklippning, person som får håret klippt, skönhet
 💇🏻	frisör, hårklippning, ljus hy, person som får håret klippt, person som får håret klippt: ljus hy, skönhet
 💇🏼	frisör, hårklippning, mellanljus hy, person som får håret klippt, person som får håret klippt: mellanljus hy, skönhet
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	knäsittande, knäsittande kvinna: mellanfärgad hy, knästående, kvinna, mellanfärgad hy
 🧎🏾‍♀	knäsittande, knäsittande kvinna: mellanmörk hy, knästående, kvinna, mellanmörk hy
 🧎🏿‍♀	knäsittande, knäsittande kvinna: mörk hy, knästående, kvinna, mörk hy
+🧑‍🦯	hjälpmedel, person med vit käpp, synskadad
+🧑🏻‍🦯	hjälpmedel, ljus hy, person med vit käpp, person med vit käpp: ljus hy, synskadad
+🧑🏼‍🦯	hjälpmedel, mellanljus hy, person med vit käpp, person med vit käpp: mellanljus hy, synskadad
+🧑🏽‍🦯	hjälpmedel, mellanfärgad hy, person med vit käpp, person med vit käpp: mellanfärgad hy, synskadad
+🧑🏾‍🦯	hjälpmedel, mellanmörk hy, person med vit käpp, person med vit käpp: mellanmörk hy, synskadad
+🧑🏿‍🦯	hjälpmedel, mörk hy, person med vit käpp, person med vit käpp: mörk hy, synskadad
 👨‍🦯	blind, blindkäpp, man, man med vit käpp, vit käpp
 👨🏻‍🦯	blind, blindkäpp, ljus hy, man, man med vit käpp, man med vit käpp: ljus hy, vit käpp
 👨🏼‍🦯	blind, blindkäpp, man, man med vit käpp, man med vit käpp: mellanljus hy, mellanljus hy, vit käpp
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	blind, blindkäpp, kvinna, kvinna med vit käpp, kvinna med vit käpp: mellanfärgad hy, mellanfärgad hy, vit käpp
 👩🏾‍🦯	blind, blindkäpp, kvinna, kvinna med vit käpp, kvinna med vit käpp: mellanmörk hy, mellanmörk hy, vit käpp
 👩🏿‍🦯	blind, blindkäpp, kvinna, kvinna med vit käpp, kvinna med vit käpp: mörk hy, mörk hy, vit käpp
+🧑‍🦼	eldriven rullstol, elektrisk rullstol, person i permobil, tillträde
+🧑🏻‍🦼	eldriven rullstol, elektrisk rullstol, ljus hy, person i permobil, person i permobil: ljus hy, tillträde
+🧑🏼‍🦼	eldriven rullstol, elektrisk rullstol, mellanljus hy, person i permobil, person i permobil: mellanljus hy, tillträde
+🧑🏽‍🦼	eldriven rullstol, elektrisk rullstol, mellanfärgad hy, person i permobil, person i permobil: mellanfärgad hy, tillträde
+🧑🏾‍🦼	eldriven rullstol, elektrisk rullstol, mellanmörk hy, person i permobil, person i permobil: mellanmörk hy, tillträde
+🧑🏿‍🦼	eldriven rullstol, elektrisk rullstol, mörk hy, person i permobil, person i permobil: mörk hy, tillträde
 👨‍🦼	man, man i permobil, permobil, rullstol
 👨🏻‍🦼	ljus hy, man, man i permobil, man i permobil: ljus hy, permobil, rullstol
 👨🏼‍🦼	man, man i permobil, man i permobil: mellanljus hy, mellanljus hy, permobil, rullstol
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	kvinna, kvinna i permobil, kvinna i permobil: mellanfärgad hy, mellanfärgad hy, permobil, rullstol
 👩🏾‍🦼	kvinna, kvinna i permobil, kvinna i permobil: mellanmörk hy, mellanmörk hy, permobil, rullstol
 👩🏿‍🦼	kvinna, kvinna i permobil, kvinna i permobil: mörk hy, mörk hy, permobil, rullstol
+🧑‍🦽	person i manuell rullstol, rullstol, tillträde
+🧑🏻‍🦽	ljus hy, person i manuell rullstol, person i manuell rullstol: ljus hy, rullstol, tillträde
+🧑🏼‍🦽	mellanljus hy, person i manuell rullstol, person i manuell rullstol: mellanljus hy, rullstol, tillträde
+🧑🏽‍🦽	mellanfärgad hy, person i manuell rullstol, person i manuell rullstol: mellanfärgad hy, rullstol, tillträde
+🧑🏾‍🦽	mellanmörk hy, person i manuell rullstol, person i manuell rullstol: mellanmörk hy, rullstol, tillträde
+🧑🏿‍🦽	mörk hy, person i manuell rullstol, person i manuell rullstol: mörk hy, rullstol, tillträde
 👨‍🦽	man, man i manuell rullstol, rullstol
 👨🏻‍🦽	ljus hy, man, man i manuell rullstol, man i manuell rullstol: ljus hy, rullstol
 👨🏼‍🦽	man, man i manuell rullstol, man i manuell rullstol: mellanljus hy, mellanljus hy, rullstol
@@ -1641,33 +1838,53 @@
 🛌🏽	hotell, mellanfärgad hy, person i en säng, person i en säng: mellanfärgad hy, säng, sömn
 🛌🏾	hotell, mellanmörk hy, person i en säng, person i en säng: mellanmörk hy, säng, sömn
 🛌🏿	hotell, mörk hy, person i en säng, person i en säng: mörk hy, säng, sömn
-🧑‍🤝‍🧑	Personer som håller hand
-🧑🏻‍🤝‍🧑🏻	Personer som håller hand, Personer som håller hand: ljus hy, ljus hy
-🧑🏼‍🤝‍🧑🏻	Personer som håller hand, Personer som håller hand: mellanljus hy, ljus hy, ljus hy, mellanljus hy
-🧑🏼‍🤝‍🧑🏼	Personer som håller hand, Personer som håller hand: mellanljus hy, mellanljus hy
-🧑🏽‍🤝‍🧑🏻	Personer som håller hand, Personer som håller hand: mellanfärgad hy, ljus hy, ljus hy, mellanfärgad hy
-🧑🏽‍🤝‍🧑🏼	Personer som håller hand, Personer som håller hand: mellanfärgad hy, mellanljus hy, mellanfärgad hy, mellanljus hy
-🧑🏽‍🤝‍🧑🏽	Personer som håller hand, Personer som håller hand: mellanfärgad hy, mellanfärgad hy
-🧑🏾‍🤝‍🧑🏻	Personer som håller hand, Personer som håller hand: mellanmörk hy, ljus hy, ljus hy, mellanmörk hy
-🧑🏾‍🤝‍🧑🏼	Personer som håller hand, Personer som håller hand: mellanmörk hy, mellanljus hy, mellanljus hy, mellanmörk hy
-🧑🏾‍🤝‍🧑🏽	Personer som håller hand, Personer som håller hand: mellanmörk hy, mellanfärgad hy, mellanfärgad hy, mellanmörk hy
-🧑🏾‍🤝‍🧑🏾	Personer som håller hand, Personer som håller hand: mellanmörk hy, mellanmörk hy
-🧑🏿‍🤝‍🧑🏻	Personer som håller hand, Personer som håller hand: mörk hy, ljus hy, ljus hy, mörk hy
-🧑🏿‍🤝‍🧑🏼	Personer som håller hand, Personer som håller hand: mörk hy, mellanljus hy, mellanljus hy, mörk hy
-🧑🏿‍🤝‍🧑🏽	Personer som håller hand, Personer som håller hand: mörk hy, mellanfärgad hy, mellanfärgad hy, mörk hy
-🧑🏿‍🤝‍🧑🏾	Personer som håller hand, Personer som håller hand: mörk hy, mellanmörk hy, mellanmörk hy, mörk hy
-🧑🏿‍🤝‍🧑🏿	Personer som håller hand, Personer som håller hand: mörk hy, mörk hy
+🧑‍🤝‍🧑	håller hand, människor, par, personer som håller hand
+🧑🏻‍🤝‍🧑🏻	håller hand, ljus hy, människor, par, personer som håller hand, personer som håller hand: ljus hy
+🧑🏻‍🤝‍🧑🏼	håller hand, ljus hy, mellanljus hy, människor, par, personer som håller hand, personer som håller hand: ljus hy, mellanljus hy
+🧑🏻‍🤝‍🧑🏽	håller hand, ljus hy, mellanfärgad hy, människor, par, personer som håller hand, personer som håller hand: ljus hy, mellanfärgad hy
+🧑🏻‍🤝‍🧑🏾	håller hand, ljus hy, mellanmörk hy, människor, par, personer som håller hand, personer som håller hand: ljus hy, mellanmörk hy
+🧑🏻‍🤝‍🧑🏿	håller hand, ljus hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: ljus hy, mörk hy
+🧑🏼‍🤝‍🧑🏻	håller hand, ljus hy, mellanljus hy, människor, par, personer som håller hand, personer som håller hand: mellanljus hy, ljus hy
+🧑🏼‍🤝‍🧑🏼	håller hand, mellanljus hy, människor, par, personer som håller hand, personer som håller hand: mellanljus hy
+🧑🏼‍🤝‍🧑🏽	håller hand, mellanfärgad hy, mellanljus hy, människor, par, personer som håller hand, personer som håller hand: mellanljus hy, mellanfärgad hy
+🧑🏼‍🤝‍🧑🏾	håller hand, mellanljus hy, mellanmörk hy, människor, par, personer som håller hand, personer som håller hand: mellanljus hy, mellanmörk hy
+🧑🏼‍🤝‍🧑🏿	håller hand, mellanljus hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: mellanljus hy, mörk hy
+🧑🏽‍🤝‍🧑🏻	håller hand, ljus hy, mellanfärgad hy, människor, par, personer som håller hand, personer som håller hand: mellanfärgad hy, ljus hy
+🧑🏽‍🤝‍🧑🏼	håller hand, mellanfärgad hy, mellanljus hy, människor, par, personer som håller hand, personer som håller hand: mellanfärgad hy, mellanljus hy
+🧑🏽‍🤝‍🧑🏽	håller hand, mellanfärgad hy, människor, par, personer som håller hand, personer som håller hand: mellanfärgad hy
+🧑🏽‍🤝‍🧑🏾	håller hand, mellanfärgad hy, mellanmörk hy, människor, par, personer som håller hand, personer som håller hand: mellanfärgad hy, mellanmörk hy
+🧑🏽‍🤝‍🧑🏿	håller hand, mellanfärgad hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: mellanfärgad hy, mörk hy
+🧑🏾‍🤝‍🧑🏻	håller hand, ljus hy, mellanmörk hy, människor, par, personer som håller hand, personer som håller hand: mellanmörk hy, ljus hy
+🧑🏾‍🤝‍🧑🏼	håller hand, mellanljus hy, mellanmörk hy, människor, par, personer som håller hand, personer som håller hand: mellanmörk hy, mellanljus hy
+🧑🏾‍🤝‍🧑🏽	håller hand, mellanfärgad hy, mellanmörk hy, människor, par, personer som håller hand, personer som håller hand: mellanmörk hy, mellanfärgad hy
+🧑🏾‍🤝‍🧑🏾	håller hand, mellanmörk hy, människor, par, personer som håller hand, personer som håller hand: mellanmörk hy
+🧑🏾‍🤝‍🧑🏿	håller hand, mellanmörk hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: mellanmörk hy, mörk hy
+🧑🏿‍🤝‍🧑🏻	håller hand, ljus hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: mörk hy, ljus hy
+🧑🏿‍🤝‍🧑🏼	håller hand, mellanljus hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: mörk hy, mellanljus hy
+🧑🏿‍🤝‍🧑🏽	håller hand, mellanfärgad hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: mörk hy, mellanfärgad hy
+🧑🏿‍🤝‍🧑🏾	håller hand, mellanmörk hy, människor, mörk hy, par, personer som håller hand, personer som håller hand: mörk hy, mellanmörk hy
+🧑🏿‍🤝‍🧑🏿	håller hand, människor, mörk hy, par, personer som håller hand, personer som håller hand: mörk hy
 👭	håller hand, människor, par, två kvinnor, två kvinnor håller hand
 👭🏻	håller hand, ljus hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: ljus hy
+👩🏻‍🤝‍👩🏼	håller hand, ljus hy, mellanljus hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: ljus hy, mellanljus hy
+👩🏻‍🤝‍👩🏽	håller hand, ljus hy, mellanfärgad hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: ljus hy, mellanfärgad hy
+👩🏻‍🤝‍👩🏾	håller hand, ljus hy, mellanmörk hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: ljus hy, mellanmörk hy
+👩🏻‍🤝‍👩🏿	håller hand, ljus hy, människor, mörk hy, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: ljus hy, mörk hy
 👩🏼‍🤝‍👩🏻	håller hand, ljus hy, mellanljus hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanljus hy, ljus hy
 👭🏼	håller hand, mellanljus hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanljus hy
+👩🏼‍🤝‍👩🏽	håller hand, mellanfärgad hy, mellanljus hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanljus hy, mellanfärgad hy
+👩🏼‍🤝‍👩🏾	håller hand, mellanljus hy, mellanmörk hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanljus hy, mellanmörk hy
+👩🏼‍🤝‍👩🏿	håller hand, mellanljus hy, människor, mörk hy, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanljus hy, mörk hy
 👩🏽‍🤝‍👩🏻	håller hand, ljus hy, mellanfärgad hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanfärgad hy, ljus hy
 👩🏽‍🤝‍👩🏼	håller hand, mellanfärgad hy, mellanljus hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanfärgad hy, mellanljus hy
 👭🏽	håller hand, mellanfärgad hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanfärgad hy
+👩🏽‍🤝‍👩🏾	håller hand, mellanfärgad hy, mellanmörk hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanfärgad hy, mellanmörk hy
+👩🏽‍🤝‍👩🏿	håller hand, mellanfärgad hy, människor, mörk hy, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanfärgad hy, mörk hy
 👩🏾‍🤝‍👩🏻	håller hand, ljus hy, mellanmörk hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanmörk hy, ljus hy
 👩🏾‍🤝‍👩🏼	håller hand, mellanljus hy, mellanmörk hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanmörk hy, mellanljus hy
 👩🏾‍🤝‍👩🏽	håller hand, mellanfärgad hy, mellanmörk hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanmörk hy, mellanfärgad hy
 👭🏾	håller hand, mellanmörk hy, människor, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanmörk hy
+👩🏾‍🤝‍👩🏿	håller hand, mellanmörk hy, människor, mörk hy, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mellanmörk hy, mörk hy
 👩🏿‍🤝‍👩🏻	håller hand, ljus hy, människor, mörk hy, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mörk hy, ljus hy
 👩🏿‍🤝‍👩🏼	håller hand, mellanljus hy, människor, mörk hy, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mörk hy, mellanljus hy
 👩🏿‍🤝‍👩🏽	håller hand, mellanfärgad hy, människor, mörk hy, par, två kvinnor, två kvinnor håller hand, två kvinnor håller hand: mörk hy, mellanfärgad hy
@@ -1701,15 +1918,25 @@
 👫🏿	håller hand, man och kvinna håller hand, man och kvinna håller hand: mörk hy, människor, mörk hy, par
 👬	håller hand, människor, par, två män, två män håller hand
 👬🏻	håller hand, ljus hy, människor, par, två män, två män håller hand, två män håller hand: ljus hy
+👨🏻‍🤝‍👨🏼	håller hand, ljus hy, mellanljus hy, människor, par, två män, två män håller hand, två män håller hand: ljus hy, mellanljus hy
+👨🏻‍🤝‍👨🏽	håller hand, ljus hy, mellanfärgad hy, människor, par, två män, två män håller hand, två män håller hand: ljus hy, mellanfärgad hy
+👨🏻‍🤝‍👨🏾	håller hand, ljus hy, mellanmörk hy, människor, par, två män, två män håller hand, två män håller hand: ljus hy, mellanmörk hy
+👨🏻‍🤝‍👨🏿	håller hand, ljus hy, människor, mörk hy, par, två män, två män håller hand, två män håller hand: ljus hy, mörk hy
 👨🏼‍🤝‍👨🏻	håller hand, ljus hy, mellanljus hy, människor, par, två män, två män håller hand, två män håller hand: mellanljus hy, ljus hy
 👬🏼	håller hand, mellanljus hy, människor, par, två män, två män håller hand, två män håller hand: mellanljus hy
+👨🏼‍🤝‍👨🏽	håller hand, mellanfärgad hy, mellanljus hy, människor, par, två män, två män håller hand, två män håller hand: mellanljus hy, mellanfärgad hy
+👨🏼‍🤝‍👨🏾	håller hand, mellanljus hy, mellanmörk hy, människor, par, två män, två män håller hand, två män håller hand: mellanljus hy, mellanmörk hy
+👨🏼‍🤝‍👨🏿	håller hand, mellanljus hy, människor, mörk hy, par, två män, två män håller hand, två män håller hand: mellanljus hy, mörk hy
 👨🏽‍🤝‍👨🏻	håller hand, ljus hy, mellanfärgad hy, människor, par, två män, två män håller hand, två män håller hand: mellanfärgad hy, ljus hy
 👨🏽‍🤝‍👨🏼	håller hand, mellanfärgad hy, mellanljus hy, människor, par, två män, två män håller hand, två män håller hand: mellanfärgad hy, mellanljus hy
 👬🏽	håller hand, mellanfärgad hy, människor, par, två män, två män håller hand, två män håller hand: mellanfärgad hy
+👨🏽‍🤝‍👨🏾	håller hand, mellanfärgad hy, mellanmörk hy, människor, par, två män, två män håller hand, två män håller hand: mellanfärgad hy, mellanmörk hy
+👨🏽‍🤝‍👨🏿	håller hand, mellanfärgad hy, människor, mörk hy, par, två män, två män håller hand, två män håller hand: mellanfärgad hy, mörk hy
 👨🏾‍🤝‍👨🏻	håller hand, ljus hy, mellanmörk hy, människor, par, två män, två män håller hand, två män håller hand: mellanmörk hy, ljus hy
 👨🏾‍🤝‍👨🏼	håller hand, mellanljus hy, mellanmörk hy, människor, par, två män, två män håller hand, två män håller hand: mellanmörk hy, mellanljus hy
 👨🏾‍🤝‍👨🏽	håller hand, mellanfärgad hy, mellanmörk hy, människor, par, två män, två män håller hand, två män håller hand: mellanmörk hy, mellanfärgad hy
 👬🏾	håller hand, mellanmörk hy, människor, par, två män, två män håller hand, två män håller hand: mellanmörk hy
+👨🏾‍🤝‍👨🏿	håller hand, mellanmörk hy, människor, mörk hy, par, två män, två män håller hand, två män håller hand: mellanmörk hy, mörk hy
 👨🏿‍🤝‍👨🏻	håller hand, ljus hy, människor, mörk hy, par, två män, två män håller hand, två män håller hand: mörk hy, ljus hy
 👨🏿‍🤝‍👨🏼	håller hand, mellanljus hy, människor, mörk hy, par, två män, två män håller hand, två män håller hand: mörk hy, mellanljus hy
 👨🏿‍🤝‍👨🏽	håller hand, mellanfärgad hy, människor, mörk hy, par, två män, två män håller hand, två män håller hand: mörk hy, mellanfärgad hy
@@ -1752,6 +1979,7 @@
 🗣️	silhuett, silhuett som talar, talar
 👤	figur, figur i silhuett, människa
 👥	figurer, figurer i silhuett, människor
+🫂	adjö, hej, kram, personer kramas, tack
 👣	avtryck, fotavtryck, fötter
 🦰	rödhårig, röllig, rött hår
 🦱	afrohår, korkskruvar, lockar, lockigt hår
@@ -1771,6 +1999,7 @@
 🦝	nyfiken, slug, tvättbjörn
 🐱	djur, katt, kattansikte
 🐈️	djur, katt
+🐈‍⬛	katt, otur, svart, svart katt
 🦁	djur, lejon, lejonansikte
 🐯	djur, tiger, tigeransikte
 🐅	djur, tiger
@@ -1780,6 +2009,7 @@
 🦄	djur, enhörning, enhörningsansikte
 🦓	ränder, zebra
 🦌	djur, hjort
+🦬	bisonoxe, buffalo, hjord, visent
 🐮	djur, ko, koansikte
 🐂	oxe, oxen, stjärntecken, tjur
 🐃	djur, vattenbuffel
@@ -1793,9 +2023,10 @@
 🐐	get, stenbock, stjärntecken
 🐪	dromedar, puckel
 🐫	kamel, puckel, pucklar
-🦙	alpaca, guangaco, lama, ull, vicuña
+🦙	alpaca, guanaco, lama, ull, vicuña
 🦒	giraff, prickar
 🐘	djur, elefant
+🦣	betar, mammut, stor, utrotad
 🦏	djur, horn, noshörning, näsa
 🦛	flodhäst, hovdjur
 🐭	djur, mus, musansikte
@@ -1805,9 +2036,11 @@
 🐰	djur, kanin, kaninansikte
 🐇	djur, kanin
 🐿️	djur, jordekorre
+🦫	bäver, damm
 🦔	igelkott, taggig
 🦇	djur, fladdermus, vampyr
 🐻	björn, björnansikte, djur
+🐻‍❄	björn, is, isbjörn, vit
 🐨	djur, koala, koalabjörn
 🐼	djur, panda, pandaansikte
 🦥	lat, långsam, sengångare
@@ -1820,7 +2053,7 @@
 🐔	fågel, höna
 🐓	fågel, tupp
 🐣	fågel, kläckt, kyckling, nykläckt kyckling
-🐤	djur, klyckling, kyckling
+🐤	djur, kyckling
 🐥	fågel, kyckling, kyckling framifrån
 🐦️	djur, fågel
 🐧	fågel, pingvin
@@ -1829,6 +2062,8 @@
 🦆	and, fågel
 🦢	den fula ankungen, fågel, svan
 🦉	fågel, uggla, vis
+🦤	Dront, dront, stor, utrotad
+🪶	fjäder, fjäderdräkt, fågel, fågelfjäder, lätt
 🦩	flambojant, flamingo, tropisk
 🦚	fågel, praktfull, påfågel, stolt
 🦜	fågel, papegoja, pirat, prata
@@ -1844,6 +2079,7 @@
 🐳	djur, val, val som sprutar vatten, vatten
 🐋	djur, val
 🐬	delfin, djur
+🦭	säl
 🐟️	fisk, fiskarna, stjärntecken
 🐠	djur, fisk, tropisk, tropisk fisk
 🐡	blåsfisk, djur, fisk
@@ -1855,12 +2091,16 @@
 🐛	djur, kryp, larv, tusenfoting
 🐜	djur, insekt, myra
 🐝	bi, djur, geting, insekt
+🪲	insekt, skalbagge, småkryp
 🐞	djur, insekt, nyckelpiga, skalbagge
 🦗	gräshoppa, syrsa
+🪳	insekt, kackerlacka, skadedjur
 🕷️	djur, insekt, spindel
 🕸️	nät, spindel, spindelnät
 🦂	skorpion, skorpionen, stjärntecken
 🦟	insekt, malaria, mygga, sjukdom, virus
+🪰	asätande insekt, fluga, sjukdom
+🪱	daggmask, mask, parasit, ringmask
 🦠	amöba, bakterie, mikrob, virus
 💐	blombukett, blommor, kärlek
 🌸	blomma, körsbär, körsbärsblomma
@@ -1873,6 +2113,7 @@
 🌼	blomma, blomster, växt
 🌷	blomma, tulpan
 🌱	grodd, skott
+🪴	inomhus, krukväxt, odla, växt
 🌲	barrträd, gran, träd, vintergrön
 🌳	lövfällande, lövträd, träd
 🌴	palm, träd
@@ -1898,8 +2139,10 @@
 🍑	frukt, persika
 🍒	frukt, körsbär
 🍓	bär, frukt, jordgubbe
+🫐	blåbär
 🥝	frukt, kiwi, kiwifrukt, mat
 🍅	grönsak, tomat
+🫒	mat, oliv
 🥥	kokosnöt, palm, piña colada
 🥑	avokado, frukt, mat
 🍆	aubergine, grönsak, äggplanta
@@ -1907,8 +2150,9 @@
 🥕	grönsak, mat, morot, rotfrukt
 🌽	majs, majskolv
 🌶️	chili, peppar, starkt, växt
+🫑	grönsak, paprika, röd paprika
 🥒	grönsak, gurka, mat
-🥬	bok choy, grönkål, kål, sallad
+🥬	bok choy, grönkål, kål, sallad, sallat
 🥦	broccoli, kål
 🧄	smaksättning, vitlök
 🧅	lök, smaksättning
@@ -1918,6 +2162,7 @@
 🍞	bröd, limpa
 🥐	bröd, croissant, fransk, mat
 🥖	baguette, bröd, fransk, mat
+🫓	naanbröd, pitabröd, tunnbröd
 🥨	pretzel, snurrad
 🥯	bagel, bakverk, bröd
 🥞	crêpes, mat, pannkaka, pannkakor
@@ -1934,12 +2179,14 @@
 🥪	bröd, macka, smörgås
 🌮	fredagsmys, mat, mexikanskt, taco
 🌯	burrito, fredagsmys, mat, mexikanskt
+🫔	mexikanskt, tamale, wrap
 🥙	falafel, gyro, kebab, mat, pita, pitabröd
 🧆	falafel, kikärter, köttbulle
 🥚	mat, ägg
 🍳	laga mat, matlagning
 🥘	mat, paella, stekpanna
 🍲	gryta, mat, varm gryta
+🫕	choklad, fondue, gryta, ost, schweiziskt, smältande
 🥣	flingor, frukost, skål och sked
 🥗	grön, grönsallad, mat, sallad
 🍿	bio, popcorn, snacks
@@ -1985,6 +2232,7 @@
 🍼	dryck, flaska, mjölk, nappflaska
 🥛	dryck, glas, mjölk, mjölkglas
 ☕️	dryck, kaffe, te, varm, varm dryck, ångande
+🫖	dryck, kanna, te, tekanna
 🍵	te, tekopp, varm dryck
 🍶	dryck, flaska, flaska och kopp med saké, kopp, sake
 🍾	bubbel, champagne, fest, nyår
@@ -1996,6 +2244,7 @@
 🥂	dryck, fira, glas, skål, skålande glas
 🥃	brännvin, glas, shot, sprit, whisky, whiskyglas
 🥤	juice, läskedryck, mugg med sugrör
+🧋	bubbelte, milkshake, pärlor, te
 🧃	dryckesförpackning, dryckeskartong
 🧉	dryck, mate-te
 🧊	isberg, isbit, kallt
@@ -2025,6 +2274,9 @@
 🏛️	byggnad, klassisk byggnad, sevärdhet
 🏗️	byggarbetsplats, bygge
 🧱	bruk, lera, tegelsten, tegelstenar, vägg
+🪨	berg, bumling, klippa, sten
+🪵	stockar, timmerstockar, trä, trästockar, ved
+🛖	hydda, koja, kåta
 🏘️	byggnader, flera hus, hus
 🏚️	fallfärdigt hus, förfallet, hus, öde, ödehus
 🏠️	byggnad, hus
@@ -2067,17 +2319,17 @@
 🎢	berg- och dalbana, karusell, nöjespark
 💈	barberare, barberarstolpe, frisör, stolpe
 🎪	cirkus, cirkustält, tält
-🚂	fordon, lok, tåg, ånglok
+🚂	fordon, lok, lokomotiv, tåg, ånglok
 🚃	fordon, järnväg, tåg, tågvagn
 🚄	fordon, snabbtåg, tåg
-🚅	fordon, loket på ett snabbtåg, tåg
+🚅	Shinkansen, TGV, fordon, höghastighetståg, tåg
 🚆	fordon, järnväg, tåg
 🚇️	fordon, metro, tunnelbana
 🚈	fordon, lättbana, snabbspårväg
 🚉	station, tåg, tågstation
 🚊	fordon, spårvagn
 🚝	balkbana, fordon, monorail, tåg
-🚞	bergsbana, bergståg, fordon
+🚞	bergbana, bergsbana, bergståg, fordon
 🚋	fordon, spårvagn, spårvagnsvagn
 🚌	buss, fordon
 🚍️	buss, fordon, mötande, mötande buss
@@ -2092,6 +2344,7 @@
 🚗	bil, fordon
 🚘️	bil, fordon, mötande, mötande bil
 🚙	SUV, bil, fordon
+🛻	lastbil, pickup, transportvagn, varubil
 🚚	budbil, fordon, skåpbil
 🚛	fordon, lastbil
 🚜	fordon, traktor
@@ -2100,15 +2353,16 @@
 🛵	motor, skoter
 🦽	manuell rullstol, tillgänglighet
 🦼	eldriven rullstol, tillgänglighet
-🛺	automatisk riksha, tuk-tuk
+🛺	automatisk riksha, motorriksha, tuk-tuk
 🚲️	cykel, fordon
 🛴	cykel, sparka, sparkcykel
 🛹	bräda, skateboard
+🛼	rullskridsko
 🚏	buss, busshållplats, hållplats
 🛣️	motorväg, väg
 🛤️	järnväg, räls, tåg
 🛢️	olja, oljefat
-⛽️	bensin, bensinpump, bränsle
+⛽️	bensin, bensinpump, bränsle, bränslepump
 🚨	lampa, polisbil, polisbilslampa, saftblandare
 🚥	trafikljus, vågräta trafikljus
 🚦	lodräta trafikljus, trafikljus
@@ -2130,18 +2384,18 @@
 💺	flygstol, stol
 🚁	fordon, helikopter
 🚟	fordon, hängbana
-🚠	fordon, linbana
-🚡	fordon, kabinbana
+🚠	fordon, gondolbana, linbana
+🚡	fordon, funifor, kabinbana, linbana
 🛰️	fordon, rymden, satellit
 🚀	fordon, raket, rymdraket
 🛸	UFO, flygande tefat
-🛎️	hotell, klocka, plingklocka
+🛎️	hotell, klocka, plingklocka, receptionsklocka
 🧳	bagage, packning, resa
 ⌛️	sand, timglas, utrunnet timglas
 ⏳️	sand, tid, timglas, timglas med rinnande sand
 ⌚️	armbandsur, klocka
 ⏰	klocka, väckarklocka
-⏱️	klocka, stoppur, tid
+⏱️	klocka, kronograf, stoppur, tid, tidtagarur
 ⏲️	klocka, tid, timer
 🕰️	klocka, mantelklocka
 🕛️	00.00, 24.00, klockan tolv, tolv
@@ -2274,6 +2528,7 @@
 🪁	flyga, flygande drake, sväva
 🎱	biljard, biljardboll, åttan
 🔮	framtiden, kristallkula, spåkula
+🪄	trollkarl, trollkonst, trollspö, tro´llstav
 🧿	amulett, nazar, onda ögat, onda ögat-sten
 🎮️	kontroll, spel, tv-spel, tv-spelskontroll
 🕹️	joystick, spak, spel, styrspak
@@ -2281,6 +2536,8 @@
 🎲	spel, speltärning, tärning
 🧩	bit, ledtråd, pussel, pusselbit, sammanfoga
 🧸	gosedjur, leksak, mjukdjur, nallebjörn
+🪅	fest, kalas, piñata
+🪆	babuschkadocka, matrjosjka, rysk docka, ryska dockor
 ♠️	färg, kort, spader
 ♥️	färg, hjärter, kort
 ♦️	färg, kort, ruter
@@ -2293,7 +2550,9 @@
 🖼️	bild i ram, konst, museum, tavla
 🎨	färger, färgpalett, konst, palett
 🧵	nål, spole, tråd, trådrulle
+🪡	broderi, nål, skräddarsy, stygn, synål
 🧶	garn, garnnystan, sticka, virka
+🪢	knop, knut, rep, tågvirke
 👓️	accessoarer, brillor, glasögon, ögon
 🕶️	glasögon, solglasögon
 🥽	simglasögon, simma, svetsning, ögonskydd
@@ -2319,6 +2578,7 @@
 👝	accessoar, clutch, kuvertväska
 🛍️	påsar, shopping, shoppingpåsar
 🎒	ryggsäck, skolväska, väska
+🩴	flip-flops, remsko, sandaler
 👞	herrsko, sko, skor
 👟	gympasko, sko, sneaker
 🥾	camping, pjäxor, vandring, vandringskänga
@@ -2332,13 +2592,14 @@
 🎩	hatt, hög hatt
 🎓️	examen, examenshatt, hatt, högtid
 🧢	basebollkeps, skärmmössa
+🪖	armé, hjälm, krigare, militär, militärhjälm, soldat
 ⛑️	hjälm, hjälm med vitt kors, hjälp, räddningsarbetare, räddningsarbetarhjälm, utryckningspersonal
 📿	bön, halsband, radband, religion
 💄	läppstift, makeup, smink
 💍	diamant, kärlek, ring, romantik
 💎	diamant, juvel, kärlek, ädelsten
 🔇	avstängd högtalare, tyst
-🔈️	högtalare, volym
+🔈️	högtalare, högtalare med låg volym, låg volym
 🔉	högtalare, högtalare med medium volym, volym
 🔊	högtalare, högtalare med hög volym, volym
 📢	handhögtalare, kommunikation
@@ -2356,12 +2617,14 @@
 🎧️	hörlur, musik
 📻️	radio, video
 🎷	musik, musikinstrument, saxofon
+🪗	ackordeon, dragharmonika, dragspel
 🎸	gitarr, musik, musikinstrument
 🎹	klaviatur, musik, musikinstrument, piano
 🎺	musik, musikinstrument, trumpet
 🎻	fiol, musik, musikinstrument, violin
 🪕	banjo, musik, sträng
 🥁	musik, trumma, trumpinnar
+🪘	congatrumma, djembe, rytm, takt, trumma
 📱	mobil, mobiltelefon, telefon
 📲	mobil, mobiltelefon med pil, ringa, telefon
 ☎️	telefon
@@ -2415,16 +2678,15 @@
 🔖	bokmärke, märke
 🏷️	etikett
 💰️	pengapåse, pengar, säck
+🪙	guld, mynt, pengar, silver, skatt
 💴	pengar, sedel, yen, yensedel
 💵	dollar, dollarsedel, pengar, sedel
 💶	euro, eurosedel, pengar, sedel
 💷	pengar, pund, pundsedel, sedel
 💸	flygande sedlar, pengar, pengar med vingar
 💳️	betalkort, kort, kreditkort
-🧾	bevis, bokföring, kvitto, underlägg
+🧾	belägg, bevis, bokföring, kvitto, redovisning
 💹	diagram, diagram stigande marknad, stigande diagram med yen, stigande marknad, uppåtpekande
-💱	pengar, valuta, valutaväxling, växelkurs
-💲	dollar, dollartecken, pengar
 ✉️	brev, kuvert, mail
 📧	brev, e-post, e-postsymbol, kommunikation, mail, mejl
 📨	e-post, inkommande brev, kommunikation, kuvert, mottaget brev
@@ -2458,7 +2720,7 @@
 📉	diagram, graf, nedåtgående trend
 📊	diagram, stapeldiagram, staplar
 📋️	clipboard, skrivplatta, urklipp
-📌	häftstift, stift
+📌	kartnål, stift
 📍	knappnål, nål, stift
 📎	gem
 🖇️	gem, ihopsatta gem, länkade gem
@@ -2482,9 +2744,12 @@
 🗡️	dolk, kniv, vapen
 ⚔️	korsade, korslagda svärd, svärd, vapen
 🔫	pistol, revolver, vapen
+🪃	australien, boomerang, bumerang, flyga tillbaka
 🏹	båge, bågskytt, pil och båge, pilbåge, vapen
 🛡️	sköld, vapen
+🪚	fogsvans, snickare, såg, trä, verktyg
 🔧	skiftnyckel, verktyg
+🪛	skruvmejsel, verktyg
 🔩	mutter, skruv, skruv och mutter
 ⚙️	kugge, kugghjul
 🗜️	skruvtving, tving, verktyg
@@ -2492,8 +2757,10 @@
 🦯	blind, blindkäpp, tillgänglighet
 🔗	länk, länkar, länksymbol, två ringar
 ⛓️	kedja, kedjor
+🪝	hake, klo, krok, snärja
 🧰	låda, mekaniker, verktyg, verktygslåda
 🧲	hästsko, magnet, magnetisk
+🪜	klätterstege, klättra, steg, stege
 ⚗️	kemi, retort
 🧪	experiment, kemi, kemist, labb, provrör, vetenskap
 🧫	bakterie, biolog, biologi, labb, petriskål
@@ -2507,26 +2774,35 @@
 🩹	bandage, plåster
 🩺	doktor, hjärta, medicin, stetoskop
 🚪	dörr
+🛗	hiss, lift, tillgång, vinsch
+🪞	reflektor, spegel, spegelglas
+🪟	fönster, genomskinlig, ram, utsikt, öppning
 🛏️	hotell, säng, sömn
 🛋️	hotell, lampa, soffa, soffa och lampa
 🪑	sitta, stol, säte
 🚽	toalett
+🪠	rörmokare, sugkopp, toalett, vaskrensare
 🚿	dusch, vatten
 🛁	bad, badkar
+🪤	bete, fälla, musfälla, snara
 🪒	raka, rakhyvel, vass
 🧴	kräm, lotion, lotionflaska, shampoo, solkräm
 🧷	blöja, punkrock, säkerhetsnål
 🧹	häxa, kvast, sopa, städa
 🧺	jordbruk, korg, picknick, tvätt
-🧻	pappershandduk, toalettpapper, toarulle
+🧻	pappershanddukar, toalettpapper, toarulle
+🪣	hink, kärl, spann, ämbar
 🧼	bada, duscha, lödder, skål, tvål, tvålbit
+🪥	borste, ren, tandborste, tandhygien, tvätta, tänder
 🧽	mjuk, rengörande, tvättsvamp
 🧯	brandsläckare, eld, kväva, släcka
 🛒	handla, inköp, shopping, shoppingvagn, vagn
 🚬	cigarett, rökning, rökning tillåtet, symbol
 ⚰️	begravning, kista
+🪦	begravningsplats, grav, gravplats, gravsten, minneslund
 ⚱️	aska, begravning, begravningsurna, urna
 🗿	påskön, staty
+🪧	demonstration, plakat, protest, skylt
 🏧	bankomat, bankomatskylt, pengar, uttagsautomat
 🚮	slänga skräp, soptunna, symbol
 🚰	drickbart vatten, dricksvatten, symbol
@@ -2553,13 +2829,13 @@
 🔞	barnförbjuden, ej för minderåriga, förbjudet, minderåriga, åldersgräns
 ☢️	fara, joniserande strålning, radioaktiv, radioaktiva ämnen, strålning, varning, varning för strålrisk
 ☣️	biologisk, biologisk fara, fara, skylt, varning
-⬆️	pil, uppåt, uppåtpil
+⬆️	norr, pil, riktning, uppåtpil, väderstreck
 ↗️	höger, pil, uppåt, uppåtpil höger
-➡️	höger, högerpil, pil
+➡️	höger, högerpil, pil, riktning, väderstreck, öst
 ↘️	höger, nedåt, nedåtpil höger, pil
-⬇️	nedåt, nedåtpil, pil
+⬇️	nedåt, nedåtpil, pil, riktning, söder, väderstreck
 ↙️	nedåt, nedåtpil vänster, pil, vänster
-⬅️	pil, vänster, vänsterpil
+⬅️	pil, riktning, väderstreck, vänsterpil, väster
 ↖️	pil, uppåt, uppåtpil vänster, vänster
 ↕️	nedåt, pil, pil upp och ned, uppåt
 ↔️	höger, pil, pil höger och vänster, vänster
@@ -2625,8 +2901,22 @@
 📴	avstängd, avstängd mobil, mobil av, telefon
 ♀️	kvinna, kvinnlig, kvinnosymbol
 ♂️	man, manlig, manssymbol
+⚧️	transgender, transgendersymbol
+✖️	avbryt, multiplicera, multiplikation, tecken, x, ×
+➕	+, addera, matte, plus, tecken
+➖	-, matte, minus, minustecken, tecken, −
+➗	dividera, division, matte, tecken, ÷
+♾️	evig, obegränsad, oändlighet, universal
+‼️	dubbla utropstecken, två, utropstecken
+⁉️	frågetecken, utropstecken, utropstecken och frågetecken
+❓️	fråga, frågetecken
+❔	fråga, frågetecken, vitt frågetecken
+❕	kommatering, utropstecken, vitt, vitt utropstecken
+❗️	kommatering, rött, utropstecken
+〰️	tankstreck, vågig, vågigt tankstreck
+💱	pengar, valuta, valutaväxling, växelkurs
+💲	dollar, dollartecken, pengar
 ⚕️	aesculapius, medicin, medicinsk symbol, personal
-♾️	evig, oändlighet, universal
 ♻️	symbol, återvinning, återvinningssymbol
 ⚜	fleur de lys, fransk lilja, heraldisk lilja
 🔱	hav, treudd
@@ -2636,25 +2926,14 @@
 ✅	bock, vit bockmarkering, vit fet bockmarkering
 ☑️	avbockad, bock, kryssruta, kryssruta med bock, kryssruta med bockmarkering
 ✔️	avbockad, bock, bockmarkering
-✖️	kryss, multiplikation, multiplikationstecken
 ❌	X, kryss, rött kryss
 ❎	X i ruta, kryss, vitt kryss i ruta
-➕	matte, plus, plustecken
-➖	matte, minus, minustecken
-➗	division, divisionstecken, matte
 ➰	kurva, slinga, ögla
 ➿	dubbel ögla, öglor
 〽️	japansk, japansk kommatering, kommatering
 ✳️	spetsig, stjärna, åttauddig, åttauddig spetsig stjärna
 ✴️	stjärna, åttauddig, åttauddig stjärna
 ❇️	glittra, gnistra
-‼️	dubbla utropstecken, två, utropstecken
-⁉️	frågetecken, utropstecken, utropstecken och frågetecken
-❓️	fråga, frågetecken
-❔	fråga, frågetecken, vitt frågetecken
-❕	kommatering, utropstecken, vitt, vitt utropstecken
-❗️	kommatering, rött, utropstecken
-〰️	tankstreck, vågig, vågigt tankstreck
 ©️	copyright, upphovsrätt, upphovsrättssymbol
 ®️	registrerat, registrerat varumärke
 ™️	skyddat varumärke, varumärke
@@ -2750,6 +3029,7 @@
 🏴	flagga, svart flagga
 🏳️	flagga, vit flagga
 🏳‍🌈	flagga, regnbåge, regnbågsflagga
+🏳‍⚧	flagga, transflagga, transgender
 🏴‍☠	pirater, plundra, sjörövarflagga, skatter
 🇦🇨	flagga, flagga: Ascension
 🇦🇩	flagga, flagga: Andorra
@@ -2795,7 +3075,7 @@
 🇨🇫	flagga, flagga: Centralafrikanska republiken
 🇨🇬	flagga, flagga: Kongo-Brazzaville
 🇨🇭	flagga, flagga: Schweiz
-🇨🇮	flagga, flagga: Elfenbenskusten
+🇨🇮	flagga, flagga: Côte d’Ivoire
 🇨🇰	flagga, flagga: Cooköarna
 🇨🇱	flagga, flagga: Chile
 🇨🇲	flagga, flagga: Kamerun

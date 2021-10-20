@@ -19,6 +19,7 @@
 ☺️	lice, nasmejano lice, osmeh, rumeno, zadovoljno
 😚	lice, lice koje ljubi sa zatvorenim očima, oči, poljubac, zatvoreno
 😙	lice, lice koje ljubi sa nasmejanim očima, osmeh, oči, poljubac
+🥲	dirnut, nasmejano lice sa suzom, osmeh, ponosan, relieved, suza, zahvalan
 😋	fino, lice, lice koje uživa u ukusnoj hrani, njam, osmeh, ukusno
 😛	jezik, lice, lice koje se plazi
 😜	jezik, lice, lice koje se plazi i namiguje, namigivanje, oči, šala
@@ -57,6 +58,7 @@
 🤯	glava eksplodira, šokirano
 🤠	kauboj, lice, lice kauboja, šešir
 🥳	lice na žurci, proslava, šešir, žurka
+🥸	maska, naočari, nos, prerušeno lice
 😎	kul, lice, naočare, naočare za sunce, nasmejano lice sa naočarima za sunce, osmeh, oči, sunce, vreme
 🤓	lice, pametnjaković, štreber, štrebersko lice
 🧐	lice sa monoklom, začepljen
@@ -183,12 +185,18 @@
 👌🏽	ni svetla ni tamna koža, ruka, telo, u redu, znak rukom „u redu“, znak rukom „u redu“: ni svetla ni tamna koža, šaka
 👌🏾	ruka, srednje tamna koža, telo, u redu, znak rukom „u redu“, znak rukom „u redu“: srednje tamna koža, šaka
 👌🏿	ruka, tamna koža, telo, u redu, znak rukom „u redu“, znak rukom „u redu“: tamna koža, šaka
-🤏	malo, ruka štipa
-🤏🏻	malo, ruka štipa, ruka štipa: svetla koža, svetla koža
-🤏🏼	malo, ruka štipa, ruka štipa: srednje svetla koža, srednje svetla koža
-🤏🏽	malo, ni svetla ni tamna koža, ruka štipa, ruka štipa: ni svetla ni tamna koža
-🤏🏾	malo, ruka štipa, ruka štipa: srednje tamna koža, srednje tamna koža
-🤏🏿	malo, ruka štipa, ruka štipa: tamna koža, tamna koža
+🤌	sarkastično, skupljeni prsti, upitno, znak rukom
+🤌🏻	sarkastično, skupljeni prsti, skupljeni prsti: svetla koža, svetla koža, upitno, znak rukom
+🤌🏼	sarkastično, skupljeni prsti, skupljeni prsti: srednje svetla koža, srednje svetla koža, upitno, znak rukom
+🤌🏽	ni svetla ni tamna koža, sarkastično, skupljeni prsti, skupljeni prsti: ni svetla ni tamna koža, upitno, znak rukom
+🤌🏾	sarkastično, skupljeni prsti, skupljeni prsti: srednje tamna koža, srednje tamna koža, upitno, znak rukom
+🤌🏿	sarkastično, skupljeni prsti, skupljeni prsti: tamna koža, tamna koža, upitno, znak rukom
+🤏	malo, prstohvat, ruka štipa
+🤏🏻	malo, prstohvat, ruka štipa, ruka štipa: svetla koža, svetla koža
+🤏🏼	malo, prstohvat, ruka štipa, ruka štipa: srednje svetla koža, srednje svetla koža
+🤏🏽	malo, ni svetla ni tamna koža, prstohvat, ruka štipa, ruka štipa: ni svetla ni tamna koža
+🤏🏾	malo, prstohvat, ruka štipa, ruka štipa: srednje tamna koža, srednje tamna koža
+🤏🏿	malo, prstohvat, ruka štipa, ruka štipa: tamna koža, tamna koža
 ✌️	pobeda, ruka, telo, v, znak pobede, šaka
 ✌🏻	pobeda, ruka, svetla koža, telo, v, znak pobede, znak pobede: svetla koža, šaka
 ✌🏼	pobeda, ruka, srednje svetla koža, telo, v, znak pobede, znak pobede: srednje svetla koža, šaka
@@ -348,12 +356,12 @@
 💪🏿	biceps, mišić, stegnut, stegnuti biceps, stegnuti biceps: tamna koža, tamna koža, telo
 🦾	mehanička ruka, pristupačnost, proteza
 🦿	mehanična noga, pristupačnost, proteza
-🦵	noga, udov, šut
-🦵🏻	noga, noga: svetla koža, svetla koža, udov, šut
-🦵🏼	noga, noga: srednje svetla koža, srednje svetla koža, udov, šut
-🦵🏽	ni svetla ni tamna koža, noga, noga: ni svetla ni tamna koža, udov, šut
-🦵🏾	noga, noga: srednje tamna koža, srednje tamna koža, udov, šut
-🦵🏿	noga, noga: tamna koža, tamna koža, udov, šut
+🦵	noga, šut
+🦵🏻	noga, noga: svetla koža, svetla koža, šut
+🦵🏼	noga, noga: srednje svetla koža, srednje svetla koža, šut
+🦵🏽	ni svetla ni tamna koža, noga, noga: ni svetla ni tamna koža, šut
+🦵🏾	noga, noga: srednje tamna koža, srednje tamna koža, šut
+🦵🏿	noga, noga: tamna koža, tamna koža, šut
 🦶	stopalo, zgaziti
 🦶🏻	stopalo, stopalo: svetla koža, svetla koža, zgaziti
 🦶🏼	srednje svetla koža, stopalo, stopalo: srednje svetla koža, zgaziti
@@ -379,6 +387,8 @@
 👃🏾	nos, nos: srednje tamna koža, srednje tamna koža, telo
 👃🏿	nos, nos: tamna koža, tamna koža, telo
 🧠	inteligentno, mozak
+🫀	centar, kardiologija, organ, otkucaj srca, puls, srce
+🫁	dah, disanje, izdisaj, organ, pluća, udisaj
 🦷	zub, zubar
 🦴	kost, kostur
 👀	lice, oko, oči
@@ -421,6 +431,30 @@
 👱🏽	ni svetla ni tamna koža, osoba sa plavom kosom, osoba sa plavom kosom: ni svetla ni tamna koža, plava kosa
 👱🏾	osoba sa plavom kosom, osoba sa plavom kosom: srednje tamna koža, plava kosa, srednje tamna koža
 👱🏿	osoba sa plavom kosom, osoba sa plavom kosom: tamna koža, plava kosa, tamna koža
+🧑‍🦰	crvena kosa, neutralan pol, odrasla osoba, odrasla osoba: crvena kosa
+🧑🏻‍🦰	crvena kosa, neutralan pol, odrasla osoba, odrasla osoba: svetla koža i crvena kosa, svetla koža
+🧑🏼‍🦰	crvena kosa, neutralan pol, odrasla osoba, odrasla osoba: srednje svetla koža i crvena kosa, srednje svetla koža
+🧑🏽‍🦰	crvena kosa, neutralan pol, ni svetla ni tamna koža, odrasla osoba, odrasla osoba: ni svetla ni tamna koža i crvena kosa
+🧑🏾‍🦰	crvena kosa, neutralan pol, odrasla osoba, odrasla osoba: srednje tamna koža i crvena kosa, srednje tamna koža
+🧑🏿‍🦰	crvena kosa, neutralan pol, odrasla osoba, odrasla osoba: tamna koža i crvena kosa, tamna koža
+🧑‍🦱	kovrdžava kosa, neutralan pol, odrasla osoba, odrasla osoba: kovrdžava kosa
+🧑🏻‍🦱	kovrdžava kosa, neutralan pol, odrasla osoba, odrasla osoba: svetla koža i kovrdžava kosa, svetla koža
+🧑🏼‍🦱	kovrdžava kosa, neutralan pol, odrasla osoba, odrasla osoba: srednje svetla koža i kovrdžava kosa, srednje svetla koža
+🧑🏽‍🦱	kovrdžava kosa, neutralan pol, ni svetla ni tamna koža, odrasla osoba, odrasla osoba: ni svetla ni tamna koža i kovrdžava kosa
+🧑🏾‍🦱	kovrdžava kosa, neutralan pol, odrasla osoba, odrasla osoba: srednje tamna koža i kovrdžava kosa, srednje tamna koža
+🧑🏿‍🦱	kovrdžava kosa, neutralan pol, odrasla osoba, odrasla osoba: tamna koža i kovrdžava kosa, tamna koža
+🧑‍🦳	neutralan pol, odrasla osoba, odrasla osoba: seda kosa, seda kosa
+🧑🏻‍🦳	neutralan pol, odrasla osoba, odrasla osoba: svetla koža i seda kosa, seda kosa, svetla koža
+🧑🏼‍🦳	neutralan pol, odrasla osoba, odrasla osoba: srednje svetla koža i seda kosa, seda kosa, srednje svetla koža
+🧑🏽‍🦳	neutralan pol, ni svetla ni tamna koža, odrasla osoba, odrasla osoba: ni svetla ni tamna koža i seda kosa, seda kosa
+🧑🏾‍🦳	neutralan pol, odrasla osoba, odrasla osoba: srednje tamna koža i seda kosa, seda kosa, srednje tamna koža
+🧑🏿‍🦳	neutralan pol, odrasla osoba, odrasla osoba: tamna koža i seda kosa, seda kosa, tamna koža
+🧑‍🦲	neutralan pol, odrasla osoba, odrasla osoba: ćelav, ćelav
+🧑🏻‍🦲	neutralan pol, odrasla osoba, odrasla osoba: svetla koža i ćelav, svetla koža, ćelav
+🧑🏼‍🦲	neutralan pol, odrasla osoba, odrasla osoba: srednje svetla koža i ćelav, srednje svetla koža, ćelav
+🧑🏽‍🦲	neutralan pol, ni svetla ni tamna koža, odrasla osoba, odrasla osoba: ni svetla ni tamna koža i ćelav, ćelav
+🧑🏾‍🦲	neutralan pol, odrasla osoba, odrasla osoba: srednje tamna koža i ćelav, srednje tamna koža, ćelav
+🧑🏿‍🦲	neutralan pol, odrasla osoba, odrasla osoba: tamna koža i ćelav, tamna koža, ćelav
 👨	muškarac
 👨🏻	muškarac, muškarac: svetla koža, svetla koža
 👨🏼	muškarac, muškarac: srednje svetla koža, srednje svetla koža
@@ -697,18 +731,30 @@
 🤷🏽‍♀	gestikulacija, neznanje, ni svetla ni tamna koža, ravnodušnost, žena, žena sleže ramenima, žena sleže ramenima: ni svetla ni tamna koža
 🤷🏾‍♀	gestikulacija, neznanje, ravnodušnost, srednje tamna koža, žena, žena sleže ramenima, žena sleže ramenima: srednje tamna koža
 🤷🏿‍♀	gestikulacija, neznanje, ravnodušnost, tamna koža, žena, žena sleže ramenima, žena sleže ramenima: tamna koža
-👨‍⚕	doktor, lekar, muškarac, zdravstveni radnik, zdravstvo
-👨🏻‍⚕	doktor, lekar, muškarac, svetla koža, zdravstveni radnik, zdravstveni radnik: svetla koža, zdravstvo
-👨🏼‍⚕	doktor, lekar, muškarac, srednje svetla koža, zdravstveni radnik, zdravstveni radnik: srednje svetla koža, zdravstvo
-👨🏽‍⚕	doktor, lekar, muškarac, ni svetla ni tamna koža, zdravstveni radnik, zdravstveni radnik: ni svetla ni tamna koža, zdravstvo
-👨🏾‍⚕	doktor, lekar, muškarac, srednje tamna koža, zdravstveni radnik, zdravstveni radnik: srednje tamna koža, zdravstvo
-👨🏿‍⚕	doktor, lekar, muškarac, tamna koža, zdravstveni radnik, zdravstveni radnik: tamna koža, zdravstvo
+🧑‍⚕	doktor, lekar, medicinska sestra, zdravstveni radnik, zdravstvo
+🧑🏻‍⚕	doktor, lekar, medicinska sestra, svetla koža, zdravstveni radnik, zdravstveni radnik: svetla koža, zdravstvo
+🧑🏼‍⚕	doktor, lekar, medicinska sestra, srednje svetla koža, zdravstveni radnik, zdravstveni radnik: srednje svetla koža, zdravstvo
+🧑🏽‍⚕	doktor, lekar, medicinska sestra, ni svetla ni tamna koža, zdravstveni radnik, zdravstveni radnik: ni svetla ni tamna koža, zdravstvo
+🧑🏾‍⚕	doktor, lekar, medicinska sestra, srednje tamna koža, zdravstveni radnik, zdravstveni radnik: srednje tamna koža, zdravstvo
+🧑🏿‍⚕	doktor, lekar, medicinska sestra, tamna koža, zdravstveni radnik, zdravstveni radnik: tamna koža, zdravstvo
+👨‍⚕	doktor, lekar, muškarac, muškarac zdravstveni radnik, zdravstveni radnik, zdravstvo
+👨🏻‍⚕	doktor, lekar, muškarac, muškarac zdravstveni radnik, muškarac zdravstveni radnik: svetla koža, svetla koža, zdravstveni radnik, zdravstvo
+👨🏼‍⚕	doktor, lekar, muškarac, muškarac zdravstveni radnik, muškarac zdravstveni radnik: srednje svetla koža, srednje svetla koža, zdravstveni radnik, zdravstvo
+👨🏽‍⚕	doktor, lekar, muškarac, muškarac zdravstveni radnik, muškarac zdravstveni radnik: ni svetla ni tamna koža, ni svetla ni tamna koža, zdravstveni radnik, zdravstvo
+👨🏾‍⚕	doktor, lekar, muškarac, muškarac zdravstveni radnik, muškarac zdravstveni radnik: srednje tamna koža, srednje tamna koža, zdravstveni radnik, zdravstvo
+👨🏿‍⚕	doktor, lekar, muškarac, muškarac zdravstveni radnik, muškarac zdravstveni radnik: tamna koža, tamna koža, zdravstveni radnik, zdravstvo
 👩‍⚕	doktor, lekar, zdravstvena radnica, zdravstvo, žena
 👩🏻‍⚕	doktor, lekar, svetla koža, zdravstvena radnica, zdravstvena radnica: svetla koža, zdravstvo, žena
 👩🏼‍⚕	doktor, lekar, srednje svetla koža, zdravstvena radnica, zdravstvena radnica: srednje svetla koža, zdravstvo, žena
 👩🏽‍⚕	doktor, lekar, ni svetla ni tamna koža, zdravstvena radnica, zdravstvena radnica: ni svetla ni tamna koža, zdravstvo, žena
 👩🏾‍⚕	doktor, lekar, srednje tamna koža, zdravstvena radnica, zdravstvena radnica: srednje tamna koža, zdravstvo, žena
 👩🏿‍⚕	doktor, lekar, tamna koža, zdravstvena radnica, zdravstvena radnica: tamna koža, zdravstvo, žena
+🧑‍🎓	diplomac, student/kinja
+🧑🏻‍🎓	diplomac, student/kinja, student/kinja: svetla koža, svetla koža
+🧑🏼‍🎓	diplomac, srednje svetla koža, student/kinja, student/kinja: srednje svetla koža
+🧑🏽‍🎓	diplomac, ni svetla ni tamna koža, student/kinja, student/kinja: ni svetla ni tamna koža
+🧑🏾‍🎓	diplomac, srednje tamna koža, student/kinja, student/kinja: srednje tamna koža
+🧑🏿‍🎓	diplomac, student/kinja, student/kinja: tamna koža, tamna koža
 👨‍🎓	diploma, matura, muškarac, student
 👨🏻‍🎓	diploma, matura, muškarac, student, student: svetla koža, svetla koža
 👨🏼‍🎓	diploma, matura, muškarac, srednje svetla koža, student, student: srednje svetla koža
@@ -721,6 +767,12 @@
 👩🏽‍🎓	diploma, matura, ni svetla ni tamna koža, student, studentkinja, studentkinja: ni svetla ni tamna koža, žena
 👩🏾‍🎓	diploma, matura, srednje tamna koža, student, studentkinja, studentkinja: srednje tamna koža, žena
 👩🏿‍🎓	diploma, matura, student, studentkinja, studentkinja: tamna koža, tamna koža, žena
+🧑‍🏫	instruktor, profesor, učitelj
+🧑🏻‍🏫	instruktor, profesor, svetla koža, učitelj, učitelj: svetla koža
+🧑🏼‍🏫	instruktor, profesor, srednje svetla koža, učitelj, učitelj: srednje svetla koža
+🧑🏽‍🏫	instruktor, ni svetla ni tamna koža, profesor, učitelj, učitelj: ni svetla ni tamna koža
+🧑🏾‍🏫	instruktor, profesor, srednje tamna koža, učitelj, učitelj: srednje tamna koža
+🧑🏿‍🏫	instruktor, profesor, tamna koža, učitelj, učitelj: tamna koža
 👨‍🏫	muškarac, profesor, učitelj
 👨🏻‍🏫	muškarac, profesor, profesor: svetla koža, svetla koža, učitelj
 👨🏼‍🏫	muškarac, profesor, profesor: srednje svetla koža, srednje svetla koža, učitelj
@@ -733,6 +785,12 @@
 👩🏽‍🏫	ni svetla ni tamna koža, profesor, profesorka, profesorka: ni svetla ni tamna koža, učitelj, žena
 👩🏾‍🏫	profesor, profesorka, profesorka: srednje tamna koža, srednje tamna koža, učitelj, žena
 👩🏿‍🏫	profesor, profesorka, profesorka: tamna koža, tamna koža, učitelj, žena
+🧑‍⚖	pravda, sudija, sudija/nica
+🧑🏻‍⚖	pravda, sudija, sudija/nica, sudija/nica: svetla koža, svetla koža
+🧑🏼‍⚖	pravda, srednje svetla koža, sudija, sudija/nica, sudija/nica: srednje svetla koža
+🧑🏽‍⚖	ni svetla ni tamna koža, pravda, sudija, sudija/nica, sudija/nica: ni svetla ni tamna koža
+🧑🏾‍⚖	pravda, srednje tamna koža, sudija, sudija/nica, sudija/nica: srednje tamna koža
+🧑🏿‍⚖	pravda, sudija, sudija/nica, sudija/nica: tamna koža, tamna koža
 👨‍⚖	muškarac, muškarac sudija, pravda, sudija
 👨🏻‍⚖	muškarac, muškarac sudija: svetla koža, pravda, sudija, svetla koža
 👨🏼‍⚖	muškarac, muškarac sudija: srednje svetla koža, pravda, srednje svetla koža, sudija
@@ -745,42 +803,66 @@
 👩🏽‍⚖	ni svetla ni tamna koža, pravda, sudija, žena, žena sudija: ni svetla ni tamna koža
 👩🏾‍⚖	pravda, srednje tamna koža, sudija, žena, žena sudija: srednje tamna koža
 👩🏿‍⚖	pravda, sudija, tamna koža, žena, žena sudija: tamna koža
-👨‍🌾	bašta, farma, muškarac, poljoprivrednik, selo
-👨🏻‍🌾	bašta, farma, muškarac, poljoprivrednik, poljoprivrednik: svetla koža, selo, svetla koža
-👨🏼‍🌾	bašta, farma, muškarac, poljoprivrednik, poljoprivrednik: srednje svetla koža, selo, srednje svetla koža
-👨🏽‍🌾	bašta, farma, muškarac, ni svetla ni tamna koža, poljoprivrednik, poljoprivrednik: ni svetla ni tamna koža, selo
-👨🏾‍🌾	bašta, farma, muškarac, poljoprivrednik, poljoprivrednik: srednje tamna koža, selo, srednje tamna koža
-👨🏿‍🌾	bašta, farma, muškarac, poljoprivrednik, poljoprivrednik: tamna koža, selo, tamna koža
+🧑‍🌾	baštovan, poljoprivrednik
+🧑🏻‍🌾	baštovan, poljoprivrednik, poljoprivrednik: svetla koža, svetla koža
+🧑🏼‍🌾	baštovan, poljoprivrednik, poljoprivrednik: srednje svetla koža, srednje svetla koža
+🧑🏽‍🌾	baštovan, ni svetla ni tamna koža, poljoprivrednik, poljoprivrednik: ni svetla ni tamna koža
+🧑🏾‍🌾	baštovan, poljoprivrednik, poljoprivrednik: srednje tamna koža, srednje tamna koža
+🧑🏿‍🌾	baštovan, poljoprivrednik, poljoprivrednik: tamna koža, tamna koža
+👨‍🌾	bašta, farma, muškarac, muškarac poljoprivrednik, poljoprivrednik, selo
+👨🏻‍🌾	bašta, farma, muškarac, muškarac poljoprivrednik: svetla koža, poljoprivrednik, selo, svetla koža
+👨🏼‍🌾	bašta, farma, muškarac, muškarac poljoprivrednik: srednje svetla koža, poljoprivrednik, selo, srednje svetla koža
+👨🏽‍🌾	bašta, farma, muškarac, muškarac poljoprivrednik: ni svetla ni tamna koža, ni svetla ni tamna koža, poljoprivrednik, selo
+👨🏾‍🌾	bašta, farma, muškarac, muškarac poljoprivrednik: srednje tamna koža, poljoprivrednik, selo, srednje tamna koža
+👨🏿‍🌾	bašta, farma, muškarac, muškarac poljoprivrednik: tamna koža, poljoprivrednik, selo, tamna koža
 👩‍🌾	bašta, farma, poljoprivrednica, selo, žena
 👩🏻‍🌾	bašta, farma, poljoprivrednica, poljoprivrednica: svetla koža, selo, svetla koža, žena
 👩🏼‍🌾	bašta, farma, poljoprivrednica, poljoprivrednica: srednje svetla koža, selo, srednje svetla koža, žena
 👩🏽‍🌾	bašta, farma, ni svetla ni tamna koža, poljoprivrednica, poljoprivrednica: ni svetla ni tamna koža, selo, žena
 👩🏾‍🌾	bašta, farma, poljoprivrednica, poljoprivrednica: srednje tamna koža, selo, srednje tamna koža, žena
 👩🏿‍🌾	bašta, farma, poljoprivrednica, poljoprivrednica: tamna koža, selo, tamna koža, žena
-👨‍🍳	kuhinja, kuvar, muškarac, šef
-👨🏻‍🍳	kuhinja, kuvar, kuvar: svetla koža, muškarac, svetla koža, šef
-👨🏼‍🍳	kuhinja, kuvar, kuvar: srednje svetla koža, muškarac, srednje svetla koža, šef
-👨🏽‍🍳	kuhinja, kuvar, kuvar: ni svetla ni tamna koža, muškarac, ni svetla ni tamna koža, šef
-👨🏾‍🍳	kuhinja, kuvar, kuvar: srednje tamna koža, muškarac, srednje tamna koža, šef
-👨🏿‍🍳	kuhinja, kuvar, kuvar: tamna koža, muškarac, tamna koža, šef
+🧑‍🍳	kuvar, šef
+🧑🏻‍🍳	kuvar, kuvar: svetla koža, svetla koža, šef
+🧑🏼‍🍳	kuvar, kuvar: srednje svetla koža, srednje svetla koža, šef
+🧑🏽‍🍳	kuvar, kuvar: ni svetla ni tamna koža, ni svetla ni tamna koža, šef
+🧑🏾‍🍳	kuvar, kuvar: srednje tamna koža, srednje tamna koža, šef
+🧑🏿‍🍳	kuvar, kuvar: tamna koža, tamna koža, šef
+👨‍🍳	kuhinja, kuvar, muškarac, muškarac kuvar, šef
+👨🏻‍🍳	kuhinja, kuvar, muškarac, muškarac kuvar: svetla koža, svetla koža, šef
+👨🏼‍🍳	kuhinja, kuvar, muškarac, muškarac kuvar: srednje svetla koža, srednje svetla koža, šef
+👨🏽‍🍳	kuhinja, kuvar, muškarac, muškarac kuvar: ni svetla ni tamna koža, ni svetla ni tamna koža, šef
+👨🏾‍🍳	kuhinja, kuvar, muškarac, muškarac kuvar: srednje tamna koža, srednje tamna koža, šef
+👨🏿‍🍳	kuhinja, kuvar, muškarac, muškarac kuvar: tamna koža, tamna koža, šef
 👩‍🍳	kuhinja, kuvar, kuvarica, šef, žena
 👩🏻‍🍳	kuhinja, kuvar, kuvarica, kuvarica: svetla koža, svetla koža, šef, žena
 👩🏼‍🍳	kuhinja, kuvar, kuvarica, kuvarica: srednje svetla koža, srednje svetla koža, šef, žena
 👩🏽‍🍳	kuhinja, kuvar, kuvarica, kuvarica: ni svetla ni tamna koža, ni svetla ni tamna koža, šef, žena
 👩🏾‍🍳	kuhinja, kuvar, kuvarica, kuvarica: srednje tamna koža, srednje tamna koža, šef, žena
 👩🏿‍🍳	kuhinja, kuvar, kuvarica, kuvarica: tamna koža, tamna koža, šef, žena
-👨‍🔧	alat, majstor, mehaničar, muškarac
-👨🏻‍🔧	alat, majstor, mehaničar, mehaničar: svetla koža, muškarac, svetla koža
-👨🏼‍🔧	alat, majstor, mehaničar, mehaničar: srednje svetla koža, muškarac, srednje svetla koža
-👨🏽‍🔧	alat, majstor, mehaničar, mehaničar: ni svetla ni tamna koža, muškarac, ni svetla ni tamna koža
-👨🏾‍🔧	alat, majstor, mehaničar, mehaničar: srednje tamna koža, muškarac, srednje tamna koža
-👨🏿‍🔧	alat, majstor, mehaničar, mehaničar: tamna koža, muškarac, tamna koža
+🧑‍🔧	električar, majstor, mehaničar, vodoinstalater
+🧑🏻‍🔧	električar, majstor, mehaničar, mehaničar: svetla koža, svetla koža, vodoinstalater
+🧑🏼‍🔧	električar, majstor, mehaničar, mehaničar: srednje svetla koža, srednje svetla koža, vodoinstalater
+🧑🏽‍🔧	električar, majstor, mehaničar, mehaničar: ni svetla ni tamna koža, ni svetla ni tamna koža, vodoinstalater
+🧑🏾‍🔧	električar, majstor, mehaničar, mehaničar: srednje tamna koža, srednje tamna koža, vodoinstalater
+🧑🏿‍🔧	električar, majstor, mehaničar, mehaničar: tamna koža, tamna koža, vodoinstalater
+👨‍🔧	alat, majstor, mehaničar, muškarac, muškarac mehaničar
+👨🏻‍🔧	alat, majstor, mehaničar, muškarac, muškarac mehaničar: svetla koža, svetla koža
+👨🏼‍🔧	alat, majstor, mehaničar, muškarac, muškarac mehaničar: srednje svetla koža, srednje svetla koža
+👨🏽‍🔧	alat, majstor, mehaničar, muškarac, muškarac mehaničar: ni svetla ni tamna koža, ni svetla ni tamna koža
+👨🏾‍🔧	alat, majstor, mehaničar, muškarac, muškarac mehaničar: srednje tamna koža, srednje tamna koža
+👨🏿‍🔧	alat, majstor, mehaničar, muškarac, muškarac mehaničar: tamna koža, tamna koža
 👩‍🔧	alat, majstor, mehaničarka, žena
 👩🏻‍🔧	alat, majstor, mehaničarka, mehaničarka: svetla koža, svetla koža, žena
 👩🏼‍🔧	alat, majstor, mehaničarka, mehaničarka: srednje svetla koža, srednje svetla koža, žena
 👩🏽‍🔧	alat, majstor, mehaničarka, mehaničarka: ni svetla ni tamna koža, ni svetla ni tamna koža, žena
 👩🏾‍🔧	alat, majstor, mehaničarka, mehaničarka: srednje tamna koža, srednje tamna koža, žena
 👩🏿‍🔧	alat, majstor, mehaničarka, mehaničarka: tamna koža, tamna koža, žena
+🧑‍🏭	fabrika, industrija, proizvodna traka, radnik, radnik u fabrici
+🧑🏻‍🏭	fabrika, industrija, proizvodna traka, radnik, radnik u fabrici, radnik u fabrici: svetla koža, svetla koža
+🧑🏼‍🏭	fabrika, industrija, proizvodna traka, radnik, radnik u fabrici, radnik u fabrici: srednje svetla koža, srednje svetla koža
+🧑🏽‍🏭	fabrika, industrija, ni svetla ni tamna koža, proizvodna traka, radnik, radnik u fabrici, radnik u fabrici: ni svetla ni tamna koža
+🧑🏾‍🏭	fabrika, industrija, proizvodna traka, radnik, radnik u fabrici, radnik u fabrici: srednje tamna koža, srednje tamna koža
+🧑🏿‍🏭	fabrika, industrija, proizvodna traka, radnik, radnik u fabrici, radnik u fabrici: tamna koža, tamna koža
 👨‍🏭	fabrika, industrija, muškarac, radnik
 👨🏻‍🏭	fabrika, industrija, muškarac, radnik, radnik: svetla koža, svetla koža
 👨🏼‍🏭	fabrika, industrija, muškarac, radnik, radnik: srednje svetla koža, srednje svetla koža
@@ -793,6 +875,12 @@
 👩🏽‍🏭	fabrika, industrija, ni svetla ni tamna koža, radnica, radnica: ni svetla ni tamna koža, žena
 👩🏾‍🏭	fabrika, industrija, radnica, radnica: srednje tamna koža, srednje tamna koža, žena
 👩🏿‍🏭	fabrika, industrija, radnica, radnica: tamna koža, tamna koža, žena
+🧑‍💼	arhitekta, biznis, kancelarijski radnik, menadžer
+🧑🏻‍💼	arhitekta, biznis, kancelarijski radnik, kancelarijski radnik: svetla koža, menadžer, svetla koža
+🧑🏼‍💼	arhitekta, biznis, kancelarijski radnik, kancelarijski radnik: srednje svetla koža, menadžer, srednje svetla koža
+🧑🏽‍💼	arhitekta, biznis, kancelarijski radnik, kancelarijski radnik: ni svetla ni tamna koža, menadžer, ni svetla ni tamna koža
+🧑🏾‍💼	arhitekta, biznis, kancelarijski radnik, kancelarijski radnik: srednje tamna koža, menadžer, srednje tamna koža
+🧑🏿‍💼	arhitekta, biznis, kancelarijski radnik, kancelarijski radnik: tamna koža, menadžer, tamna koža
 👨‍💼	asistent, kancelarija, muškarac, muškarac u kancelariji, sekretarica
 👨🏻‍💼	asistent, kancelarija, muškarac, muškarac u kancelariji, muškarac u kancelariji: svetla koža, sekretarica, svetla koža
 👨🏼‍💼	asistent, kancelarija, muškarac, muškarac u kancelariji, muškarac u kancelariji: srednje svetla koža, sekretarica, srednje svetla koža
@@ -805,6 +893,12 @@
 👩🏽‍💼	asistent, kancelarija, ni svetla ni tamna koža, sekretarica, žena, žena u kancelariji, žena u kancelariji: ni svetla ni tamna koža
 👩🏾‍💼	asistent, kancelarija, sekretarica, srednje tamna koža, žena, žena u kancelariji, žena u kancelariji: srednje tamna koža
 👩🏿‍💼	asistent, kancelarija, sekretarica, tamna koža, žena, žena u kancelariji, žena u kancelariji: tamna koža
+🧑‍🔬	biologičar, fizičar, hemičar, inženjer, naučnik, naučnik/ca
+🧑🏻‍🔬	biologičar, fizičar, hemičar, inženjer, naučnik, naučnik/ca, naučnik/ca: svetla koža, svetla koža
+🧑🏼‍🔬	biologičar, fizičar, hemičar, inženjer, naučnik, naučnik/ca, naučnik/ca: srednje svetla koža, srednje svetla koža
+🧑🏽‍🔬	biologičar, fizičar, hemičar, inženjer, naučnik, naučnik/ca, naučnik/ca: ni svetla ni tamna koža, ni svetla ni tamna koža
+🧑🏾‍🔬	biologičar, fizičar, hemičar, inženjer, naučnik, naučnik/ca, naučnik/ca: srednje tamna koža, srednje tamna koža
+🧑🏿‍🔬	biologičar, fizičar, hemičar, inženjer, naučnik, naučnik/ca, naučnik/ca: tamna koža, tamna koža
 👨‍🔬	biolog, hemičar, muškarac, naučnik
 👨🏻‍🔬	biolog, hemičar, muškarac, naučnik, naučnik: svetla koža, svetla koža
 👨🏼‍🔬	biolog, hemičar, muškarac, naučnik, naučnik: srednje svetla koža, srednje svetla koža
@@ -817,42 +911,66 @@
 👩🏽‍🔬	biolog, hemičar, naučnica, naučnica: ni svetla ni tamna koža, naučnik, ni svetla ni tamna koža, žena
 👩🏾‍🔬	biolog, hemičar, naučnica, naučnica: srednje tamna koža, naučnik, srednje tamna koža, žena
 👩🏿‍🔬	biolog, hemičar, naučnica, naučnica: tamna koža, naučnik, tamna koža, žena
-👨‍💻	muškarac, programer, pronalazač, softver, tehnolog
-👨🏻‍💻	muškarac, programer, pronalazač, softver, svetla koža, tehnolog, tehnolog: svetla koža
-👨🏼‍💻	muškarac, programer, pronalazač, softver, srednje svetla koža, tehnolog, tehnolog: srednje svetla koža
-👨🏽‍💻	muškarac, ni svetla ni tamna koža, programer, pronalazač, softver, tehnolog, tehnolog: ni svetla ni tamna koža
-👨🏾‍💻	muškarac, programer, pronalazač, softver, srednje tamna koža, tehnolog, tehnolog: srednje tamna koža
-👨🏿‍💻	muškarac, programer, pronalazač, softver, tamna koža, tehnolog, tehnolog: tamna koža
+🧑‍💻	programer, pronalazač, softver, softveraš, tehnolog
+🧑🏻‍💻	programer, pronalazač, softver, softveraš, svetla koža, tehnolog, tehnolog: svetla koža
+🧑🏼‍💻	programer, pronalazač, softver, softveraš, srednje svetla koža, tehnolog, tehnolog: srednje svetla koža
+🧑🏽‍💻	ni svetla ni tamna koža, programer, pronalazač, softver, softveraš, tehnolog, tehnolog: ni svetla ni tamna koža
+🧑🏾‍💻	programer, pronalazač, softver, softveraš, srednje tamna koža, tehnolog, tehnolog: srednje tamna koža
+🧑🏿‍💻	programer, pronalazač, softver, softveraš, tamna koža, tehnolog, tehnolog: tamna koža
+👨‍💻	muškarac, muškarac tehnolog, programer, pronalazač, softver, tehnolog
+👨🏻‍💻	muškarac, muškarac tehnolog: svetla koža, programer, pronalazač, softver, svetla koža, tehnolog
+👨🏼‍💻	muškarac, muškarac tehnolog: srednje svetla koža, programer, pronalazač, softver, srednje svetla koža, tehnolog
+👨🏽‍💻	muškarac, muškarac tehnolog: ni svetla ni tamna koža, ni svetla ni tamna koža, programer, pronalazač, softver, tehnolog
+👨🏾‍💻	muškarac, muškarac tehnolog: srednje tamna koža, programer, pronalazač, softver, srednje tamna koža, tehnolog
+👨🏿‍💻	muškarac, muškarac tehnolog: tamna koža, programer, pronalazač, softver, tamna koža, tehnolog
 👩‍💻	programer, pronalazač, softver, žena, žena tehnolog
 👩🏻‍💻	programer, pronalazač, softver, svetla koža, žena, žena tehnolog, žena tehnolog: svetla koža
 👩🏼‍💻	programer, pronalazač, softver, srednje svetla koža, žena, žena tehnolog, žena tehnolog: srednje svetla koža
 👩🏽‍💻	ni svetla ni tamna koža, programer, pronalazač, softver, žena, žena tehnolog, žena tehnolog: ni svetla ni tamna koža
 👩🏾‍💻	programer, pronalazač, softver, srednje tamna koža, žena, žena tehnolog, žena tehnolog: srednje tamna koža
 👩🏿‍💻	programer, pronalazač, softver, tamna koža, žena, žena tehnolog, žena tehnolog: tamna koža
-👨‍🎤	glumac, muškarac, pevač, rok
-👨🏻‍🎤	glumac, muškarac, pevač, pevač: svetla koža, rok, svetla koža
-👨🏼‍🎤	glumac, muškarac, pevač, pevač: srednje svetla koža, rok, srednje svetla koža
-👨🏽‍🎤	glumac, muškarac, ni svetla ni tamna koža, pevač, pevač: ni svetla ni tamna koža, rok
-👨🏾‍🎤	glumac, muškarac, pevač, pevač: srednje tamna koža, rok, srednje tamna koža
-👨🏿‍🎤	glumac, muškarac, pevač, pevač: tamna koža, rok, tamna koža
+🧑‍🎤	glumac, pevač, rok, zabavljač, zvezda
+🧑🏻‍🎤	glumac, pevač, pevač: svetla koža, rok, svetla koža, zabavljač, zvezda
+🧑🏼‍🎤	glumac, pevač, pevač: srednje svetla koža, rok, srednje svetla koža, zabavljač, zvezda
+🧑🏽‍🎤	glumac, ni svetla ni tamna koža, pevač, pevač: ni svetla ni tamna koža, rok, zabavljač, zvezda
+🧑🏾‍🎤	glumac, pevač, pevač: srednje tamna koža, rok, srednje tamna koža, zabavljač, zvezda
+🧑🏿‍🎤	glumac, pevač, pevač: tamna koža, rok, tamna koža, zabavljač, zvezda
+👨‍🎤	glumac, muškarac, muškarac pevač, pevač, rok
+👨🏻‍🎤	glumac, muškarac, muškarac pevač: svetla koža, pevač, rok, svetla koža
+👨🏼‍🎤	glumac, muškarac, muškarac pevač: srednje svetla koža, pevač, rok, srednje svetla koža
+👨🏽‍🎤	glumac, muškarac, muškarac pevač: ni svetla ni tamna koža, ni svetla ni tamna koža, pevač, rok
+👨🏾‍🎤	glumac, muškarac, muškarac pevač: srednje tamna koža, pevač, rok, srednje tamna koža
+👨🏿‍🎤	glumac, muškarac, muškarac pevač: tamna koža, pevač, rok, tamna koža
 👩‍🎤	glumica, pevačica, rok, žena
 👩🏻‍🎤	glumica, pevačica, pevačica: svetla koža, rok, svetla koža, žena
 👩🏼‍🎤	glumica, pevačica, pevačica: srednje svetla koža, rok, srednje svetla koža, žena
 👩🏽‍🎤	glumica, ni svetla ni tamna koža, pevačica, pevačica: ni svetla ni tamna koža, rok, žena
 👩🏾‍🎤	glumica, pevačica, pevačica: srednje tamna koža, rok, srednje tamna koža, žena
 👩🏿‍🎤	glumica, pevačica, pevačica: tamna koža, rok, tamna koža, žena
-👨‍🎨	muškarac, slikar, slikarstvo, umetnik
-👨🏻‍🎨	muškarac, slikar, slikarstvo, svetla koža, umetnik, umetnik: svetla koža
-👨🏼‍🎨	muškarac, slikar, slikarstvo, srednje svetla koža, umetnik, umetnik: srednje svetla koža
-👨🏽‍🎨	muškarac, ni svetla ni tamna koža, slikar, slikarstvo, umetnik, umetnik: ni svetla ni tamna koža
-👨🏾‍🎨	muškarac, slikar, slikarstvo, srednje tamna koža, umetnik, umetnik: srednje tamna koža
-👨🏿‍🎨	muškarac, slikar, slikarstvo, tamna koža, umetnik, umetnik: tamna koža
+🧑‍🎨	slikar, umetnik
+🧑🏻‍🎨	slikar, svetla koža, umetnik, umetnik: svetla koža
+🧑🏼‍🎨	slikar, srednje svetla koža, umetnik, umetnik: srednje svetla koža
+🧑🏽‍🎨	ni svetla ni tamna koža, slikar, umetnik, umetnik: ni svetla ni tamna koža
+🧑🏾‍🎨	slikar, srednje tamna koža, umetnik, umetnik: srednje tamna koža
+🧑🏿‍🎨	slikar, tamna koža, umetnik, umetnik: tamna koža
+👨‍🎨	muškarac, muškarac umetnik, slikar, slikarstvo, umetnik
+👨🏻‍🎨	muškarac, muškarac umetnik: svetla koža, slikar, slikarstvo, svetla koža, umetnik
+👨🏼‍🎨	muškarac, muškarac umetnik: srednje svetla koža, slikar, slikarstvo, srednje svetla koža, umetnik
+👨🏽‍🎨	muškarac, muškarac umetnik: ni svetla ni tamna koža, ni svetla ni tamna koža, slikar, slikarstvo, umetnik
+👨🏾‍🎨	muškarac, muškarac umetnik: srednje tamna koža, slikar, slikarstvo, srednje tamna koža, umetnik
+👨🏿‍🎨	muškarac, muškarac umetnik: tamna koža, slikar, slikarstvo, tamna koža, umetnik
 👩‍🎨	slikar, slikarstvo, umetnica, umetnik, žena
 👩🏻‍🎨	slikar, slikarstvo, svetla koža, umetnica, umetnica: svetla koža, umetnik, žena
 👩🏼‍🎨	slikar, slikarstvo, srednje svetla koža, umetnica, umetnica: srednje svetla koža, umetnik, žena
 👩🏽‍🎨	ni svetla ni tamna koža, slikar, slikarstvo, umetnica, umetnica: ni svetla ni tamna koža, umetnik, žena
 👩🏾‍🎨	slikar, slikarstvo, srednje tamna koža, umetnica, umetnica: srednje tamna koža, umetnik, žena
 👩🏿‍🎨	slikar, slikarstvo, tamna koža, umetnica, umetnica: tamna koža, umetnik, žena
+🧑‍✈	avion, pilot, pilot/kinja
+🧑🏻‍✈	avion, pilot, pilot/kinja, pilot/kinja: svetla koža, svetla koža
+🧑🏼‍✈	avion, pilot, pilot/kinja, pilot/kinja: srednje svetla koža, srednje svetla koža
+🧑🏽‍✈	avion, ni svetla ni tamna koža, pilot, pilot/kinja, pilot/kinja: ni svetla ni tamna koža
+🧑🏾‍✈	avion, pilot, pilot/kinja, pilot/kinja: srednje tamna koža, srednje tamna koža
+🧑🏿‍✈	avion, pilot, pilot/kinja, pilot/kinja: tamna koža, tamna koža
 👨‍✈	avion, muškarac, pilot
 👨🏻‍✈	avion, muškarac, pilot, pilot: svetla koža, svetla koža
 👨🏼‍✈	avion, muškarac, pilot, pilot: srednje svetla koža, srednje svetla koža
@@ -865,6 +983,12 @@
 👩🏽‍✈	avion, ni svetla ni tamna koža, pilot, žena, žena pilot: ni svetla ni tamna koža
 👩🏾‍✈	avion, pilot, srednje tamna koža, žena, žena pilot: srednje tamna koža
 👩🏿‍✈	avion, pilot, tamna koža, žena, žena pilot: tamna koža
+🧑‍🚀	astronaut, raketa
+🧑🏻‍🚀	astronaut, astronaut: svetla koža, raketa, svetla koža
+🧑🏼‍🚀	astronaut, astronaut: srednje svetla koža, raketa, srednje svetla koža
+🧑🏽‍🚀	astronaut, astronaut: ni svetla ni tamna koža, ni svetla ni tamna koža, raketa
+🧑🏾‍🚀	astronaut, astronaut: srednje tamna koža, raketa, srednje tamna koža
+🧑🏿‍🚀	astronaut, astronaut: tamna koža, raketa, tamna koža
 👨‍🚀	astronaut, kosmonaut, muškarac, raketa, svemir
 👨🏻‍🚀	astronaut, kosmonaut, kosmonaut: svetla koža, muškarac, raketa, svemir, svetla koža
 👨🏼‍🚀	astronaut, kosmonaut, kosmonaut: srednje svetla koža, muškarac, raketa, srednje svetla koža, svemir
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronaut, kosmonautkinja, kosmonautkinja: ni svetla ni tamna koža, ni svetla ni tamna koža, raketa, svemir, žena
 👩🏾‍🚀	astronaut, kosmonautkinja, kosmonautkinja: srednje tamna koža, raketa, srednje tamna koža, svemir, žena
 👩🏿‍🚀	astronaut, kosmonautkinja, kosmonautkinja: tamna koža, raketa, svemir, tamna koža, žena
+🧑‍🚒	vatrogasac, vatrogasac / žena vatrogasac, vatrogasno vozilo
+🧑🏻‍🚒	svetla koža, vatrogasac, vatrogasac / žena vatrogasac, vatrogasac / žena vatrogasac: svetla koža, vatrogasno vozilo
+🧑🏼‍🚒	srednje svetla koža, vatrogasac, vatrogasac / žena vatrogasac, vatrogasac / žena vatrogasac: srednje svetla koža, vatrogasno vozilo
+🧑🏽‍🚒	ni svetla ni tamna koža, vatrogasac, vatrogasac / žena vatrogasac, vatrogasac / žena vatrogasac: ni svetla ni tamna koža, vatrogasno vozilo
+🧑🏾‍🚒	srednje tamna koža, vatrogasac, vatrogasac / žena vatrogasac, vatrogasac / žena vatrogasac: srednje tamna koža, vatrogasno vozilo
+🧑🏿‍🚒	tamna koža, vatrogasac, vatrogasac / žena vatrogasac, vatrogasac / žena vatrogasac: tamna koža, vatrogasno vozilo
 👨‍🚒	kamion, muškarac, vatra, vatrogasac
 👨🏻‍🚒	kamion, muškarac, svetla koža, vatra, vatrogasac, vatrogasac: svetla koža
 👨🏼‍🚒	kamion, muškarac, srednje svetla koža, vatra, vatrogasac, vatrogasac: srednje svetla koža
@@ -943,6 +1073,7 @@
 💂🏽‍♀	gardistkinja, gardistkinja: ni svetla ni tamna koža, ni svetla ni tamna koža, stražar, čuvar, žena
 💂🏾‍♀	gardistkinja, gardistkinja: srednje tamna koža, srednje tamna koža, stražar, čuvar, žena
 💂🏿‍♀	gardistkinja, gardistkinja: tamna koža, stražar, tamna koža, čuvar, žena
+🥷	borac, nevidljiv, nindža, skriven
 👷	građevinski, građevinski radnik, radnik, šlem
 👷🏻	građevinski, građevinski radnik: svetla koža, radnik, svetla koža, šlem
 👷🏼	građevinski, građevinski radnik: srednje svetla koža, radnik, srednje svetla koža, šlem
@@ -1009,12 +1140,36 @@
 🤵🏽	mladoženja, ni svetla ni tamna koža, smoking, čovek, čovek u smokingu, čovek u smokingu: ni svetla ni tamna koža
 🤵🏾	mladoženja, smoking, srednje tamna koža, čovek, čovek u smokingu, čovek u smokingu: srednje tamna koža
 🤵🏿	mladoženja, smoking, tamna koža, čovek, čovek u smokingu, čovek u smokingu: tamna koža
+🤵‍♂	muškarac, muškarac u smokingu, smoking
+🤵🏻‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: svetla koža, smoking, svetla koža
+🤵🏼‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: srednje svetla koža, smoking, srednje svetla koža
+🤵🏽‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: ni svetla ni tamna koža, ni svetla ni tamna koža, smoking
+🤵🏾‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: srednje tamna koža, smoking, srednje tamna koža
+🤵🏿‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: tamna koža, smoking, tamna koža
+🤵‍♀	smoking, žena, žena u smokingu
+🤵🏻‍♀	smoking, svetla koža, žena, žena u smokingu, žena u smokingu: svetla koža
+🤵🏼‍♀	smoking, srednje svetla koža, žena, žena u smokingu, žena u smokingu: srednje svetla koža
+🤵🏽‍♀	ni svetla ni tamna koža, smoking, žena, žena u smokingu, žena u smokingu: ni svetla ni tamna koža
+🤵🏾‍♀	smoking, srednje tamna koža, žena, žena u smokingu, žena u smokingu: srednje tamna koža
+🤵🏿‍♀	smoking, tamna koža, žena, žena u smokingu, žena u smokingu: tamna koža
 👰	nevesta, nevesta sa velom, venčanje, veo
 👰🏻	nevesta, nevesta sa velom, nevesta sa velom: svetla koža, svetla koža, venčanje, veo
 👰🏼	nevesta, nevesta sa velom, nevesta sa velom: srednje svetla koža, srednje svetla koža, venčanje, veo
 👰🏽	nevesta, nevesta sa velom, nevesta sa velom: ni svetla ni tamna koža, ni svetla ni tamna koža, venčanje, veo
 👰🏾	nevesta, nevesta sa velom, nevesta sa velom: srednje tamna koža, srednje tamna koža, venčanje, veo
 👰🏿	nevesta, nevesta sa velom, nevesta sa velom: tamna koža, tamna koža, venčanje, veo
+👰‍♂	muškarac, muškarac sa velom, veo
+👰🏻‍♂	muškarac, muškarac sa velom, muškarac sa velom: svetla koža, svetla koža, veo
+👰🏼‍♂	muškarac, muškarac sa velom, muškarac sa velom: srednje svetla koža, srednje svetla koža, veo
+👰🏽‍♂	muškarac, muškarac sa velom, muškarac sa velom: ni svetla ni tamna koža, ni svetla ni tamna koža, veo
+👰🏾‍♂	muškarac, muškarac sa velom, muškarac sa velom: srednje tamna koža, srednje tamna koža, veo
+👰🏿‍♂	muškarac, muškarac sa velom, muškarac sa velom: tamna koža, tamna koža, veo
+👰‍♀	veo, žena, žena sa velom
+👰🏻‍♀	svetla koža, veo, žena, žena sa velom, žena sa velom: svetla koža
+👰🏼‍♀	srednje svetla koža, veo, žena, žena sa velom, žena sa velom: srednje svetla koža
+👰🏽‍♀	ni svetla ni tamna koža, veo, žena, žena sa velom, žena sa velom: ni svetla ni tamna koža
+👰🏾‍♀	srednje tamna koža, veo, žena, žena sa velom, žena sa velom: srednje tamna koža
+👰🏿‍♀	tamna koža, veo, žena, žena sa velom, žena sa velom: tamna koža
 🤰	trudnica, žena
 🤰🏻	svetla koža, trudnica, trudnica: svetla koža, žena
 🤰🏼	srednje svetla koža, trudnica, trudnica: srednje svetla koža, žena
@@ -1027,6 +1182,24 @@
 🤱🏽	beba, dojenje, dojenje: ni svetla ni tamna koža, grudi, ni svetla ni tamna koža
 🤱🏾	beba, dojenje, dojenje: srednje tamna koža, grudi, srednje tamna koža
 🤱🏿	beba, dojenje, dojenje: tamna koža, grudi, tamna koža
+👩‍🍼	beba, dojenje, hranjenje, žena, žena hrani bebu
+👩🏻‍🍼	beba, dojenje, hranjenje, svetla koža, žena, žena hrani bebu, žena hrani bebu: svetla koža
+👩🏼‍🍼	beba, dojenje, hranjenje, srednje svetla koža, žena, žena hrani bebu, žena hrani bebu: srednje svetla koža
+👩🏽‍🍼	beba, dojenje, hranjenje, ni svetla ni tamna koža, žena, žena hrani bebu, žena hrani bebu: ni svetla ni tamna koža
+👩🏾‍🍼	beba, dojenje, hranjenje, srednje tamna koža, žena, žena hrani bebu, žena hrani bebu: srednje tamna koža
+👩🏿‍🍼	beba, dojenje, hranjenje, tamna koža, žena, žena hrani bebu, žena hrani bebu: tamna koža
+👨‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu
+👨🏻‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: svetla koža, svetla koža
+👨🏼‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: srednje svetla koža, srednje svetla koža
+👨🏽‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: ni svetla ni tamna koža, ni svetla ni tamna koža
+👨🏾‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: srednje tamna koža, srednje tamna koža
+👨🏿‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: tamna koža, tamna koža
+🧑‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu
+🧑🏻‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: svetla koža, svetla koža
+🧑🏼‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: srednje svetla koža, srednje svetla koža
+🧑🏽‍🍼	beba, dojenje, hranjenje, ni svetla ni tamna koža, osoba, osoba hrani bebu, osoba hrani bebu: ni svetla ni tamna koža
+🧑🏾‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: srednje tamna koža, srednje tamna koža
+🧑🏿‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: tamna koža, tamna koža
 👼	anđeo, bajka, beba, beba anđeo, lice, mašta
 👼🏻	anđeo, bajka, beba, beba anđeo: svetla koža, lice, mašta, svetla koža
 👼🏼	anđeo, bajka, beba, beba anđeo: srednje svetla koža, lice, mašta, srednje svetla koža
@@ -1045,6 +1218,12 @@
 🤶🏽	baka, baka Mraz, baka Mraz: ni svetla ni tamna koža, božić, mraz, ni svetla ni tamna koža
 🤶🏾	baka, baka Mraz, baka Mraz: srednje tamna koža, božić, mraz, srednje tamna koža
 🤶🏿	baka, baka Mraz, baka Mraz: tamna koža, božić, mraz, tamna koža
+🧑‍🎄	Mraz, Božić, osoba Mraz
+🧑🏻‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: svetla koža, svetla koža
+🧑🏼‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: srednje svetla koža, srednje svetla koža
+🧑🏽‍🎄	Mraz, Božić, ni svetla ni tamna koža, osoba Mraz, osoba Mraz: ni svetla ni tamna koža
+🧑🏾‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: srednje tamna koža, srednje tamna koža
+🧑🏿‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: tamna koža, tamna koža
 🦸	dobro, heroj, super heroj, super moć
 🦸🏻	dobro, heroj, super heroj, super heroj: svetla koža, super moć, svetla koža
 🦸🏼	dobro, heroj, srednje svetla koža, super heroj, super heroj: srednje svetla koža, super moć
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	kleči, ni svetla ni tamna koža, žena, žena kleči: ni svetla ni tamna koža
 🧎🏾‍♀	kleči, srednje tamna koža, žena, žena kleči: srednje tamna koža
 🧎🏿‍♀	kleči, tamna koža, žena, žena kleči: tamna koža
+🧑‍🦯	osoba sa pomoćnim štapom, pristupačnost, slep
+🧑🏻‍🦯	osoba sa pomoćnim štapom, osoba sa pomoćnim štapom: svetla koža, pristupačnost, slep, svetla koža
+🧑🏼‍🦯	osoba sa pomoćnim štapom, osoba sa pomoćnim štapom: srednje svetla koža, pristupačnost, slep, srednje svetla koža
+🧑🏽‍🦯	ni svetla ni tamna koža, osoba sa pomoćnim štapom, osoba sa pomoćnim štapom: ni svetla ni tamna koža, pristupačnost, slep
+🧑🏾‍🦯	osoba sa pomoćnim štapom, osoba sa pomoćnim štapom: srednje tamna koža, pristupačnost, slep, srednje tamna koža
+🧑🏿‍🦯	osoba sa pomoćnim štapom, osoba sa pomoćnim štapom: tamna koža, pristupačnost, slep, tamna koža
 👨‍🦯	pristupačnost, slep, čovek, čovek sa pomoćnim štapom
 👨🏻‍🦯	pristupačnost, slep, svetla koža, čovek, čovek sa pomoćnim štapom, čovek sa pomoćnim štapom: svetla koža
 👨🏼‍🦯	pristupačnost, slep, srednje svetla koža, čovek, čovek sa pomoćnim štapom, čovek sa pomoćnim štapom: srednje svetla koža
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	ni svetla ni tamna koža, pristupačnost, slepa, žena, žena sa pomoćnim štapom, žena sa pomoćnim štapom: ni svetla ni tamna koža
 👩🏾‍🦯	pristupačnost, slepa, srednje tamna koža, žena, žena sa pomoćnim štapom, žena sa pomoćnim štapom: srednje tamna koža
 👩🏿‍🦯	pristupačnost, slepa, tamna koža, žena, žena sa pomoćnim štapom, žena sa pomoćnim štapom: tamna koža
+🧑‍🦼	kolica, osoba u motornim kolicima, pristupačnost
+🧑🏻‍🦼	kolica, osoba u motornim kolicima, osoba u motornim kolicima: svetla koža, pristupačnost, svetla koža
+🧑🏼‍🦼	kolica, osoba u motornim kolicima, osoba u motornim kolicima: srednje svetla koža, pristupačnost, srednje svetla koža
+🧑🏽‍🦼	kolica, ni svetla ni tamna koža, osoba u motornim kolicima, osoba u motornim kolicima: ni svetla ni tamna koža, pristupačnost
+🧑🏾‍🦼	kolica, osoba u motornim kolicima, osoba u motornim kolicima: srednje tamna koža, pristupačnost, srednje tamna koža
+🧑🏿‍🦼	kolica, osoba u motornim kolicima, osoba u motornim kolicima: tamna koža, pristupačnost, tamna koža
 👨‍🦼	dostupnost, kolica, čovek, čovek u motornim kolicima
 👨🏻‍🦼	dostupnost, kolica, svetla koža, čovek, čovek u motornim kolicima, čovek u motornim kolicima: svetla koža
 👨🏼‍🦼	dostupnost, kolica, srednje svetla koža, čovek, čovek u motornim kolicima, čovek u motornim kolicima: srednje svetla koža
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	dostupnost, kolica, ni svetla ni tamna koža, žena, žena u motornim kolicima, žena u motornim kolicima: ni svetla ni tamna koža
 👩🏾‍🦼	dostupnost, kolica, srednje tamna koža, žena, žena u motornim kolicima, žena u motornim kolicima: srednje tamna koža
 👩🏿‍🦼	dostupnost, kolica, tamna koža, žena, žena u motornim kolicima, žena u motornim kolicima: tamna koža
+🧑‍🦽	kolica, osoba u mehaničkim kolicima, pristupačnost
+🧑🏻‍🦽	kolica, osoba u mehaničkim kolicima, osoba u mehaničkim kolicima: svetla koža, pristupačnost, svetla koža
+🧑🏼‍🦽	kolica, osoba u mehaničkim kolicima, osoba u mehaničkim kolicima: srednje svetla koža, pristupačnost, srednje svetla koža
+🧑🏽‍🦽	kolica, ni svetla ni tamna koža, osoba u mehaničkim kolicima, osoba u mehaničkim kolicima: ni svetla ni tamna koža, pristupačnost
+🧑🏾‍🦽	kolica, osoba u mehaničkim kolicima, osoba u mehaničkim kolicima: srednje tamna koža, pristupačnost, srednje tamna koža
+🧑🏿‍🦽	kolica, osoba u mehaničkim kolicima, osoba u mehaničkim kolicima: tamna koža, pristupačnost, tamna koža
 👨‍🦽	dostupnost, kolica, čovek, čovek u mehaničkim kolicima
 👨🏻‍🦽	dostupnost, kolica, svetla koža, čovek, čovek u mehaničkim kolicima, čovek u mehaničkim kolicima: svetla koža
 👨🏼‍🦽	dostupnost, kolica, srednje svetla koža, čovek, čovek u mehaničkim kolicima, čovek u mehaničkim kolicima: srednje svetla koža
@@ -1643,78 +1840,108 @@
 🛌🏿	hotel, osoba u krevetu, osoba u krevetu: tamna koža, spavanje, tamna koža
 🧑‍🤝‍🧑	osobe se drže za ruke
 🧑🏻‍🤝‍🧑🏻	osobe se drže za ruke, osobe se drže za ruke: svetla koža, svetla koža
+🧑🏻‍🤝‍🧑🏼	osobe se drže za ruke, osobe se drže za ruke: svetla koža i srednje svetla koža, srednje svetla koža, svetla koža
+🧑🏻‍🤝‍🧑🏽	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: svetla koža i ni svetla ni tamna koža, svetla koža
+🧑🏻‍🤝‍🧑🏾	osobe se drže za ruke, osobe se drže za ruke: svetla koža i srednje tamna koža, srednje tamna koža, svetla koža
+🧑🏻‍🤝‍🧑🏿	osobe se drže za ruke, osobe se drže za ruke: svetla koža i tamna koža, svetla koža, tamna koža
 🧑🏼‍🤝‍🧑🏻	osobe se drže za ruke, osobe se drže za ruke: srednje svetla koža i svetla koža, srednje svetla koža, svetla koža
 🧑🏼‍🤝‍🧑🏼	osobe se drže za ruke, osobe se drže za ruke: srednje svetla koža, srednje svetla koža
+🧑🏼‍🤝‍🧑🏽	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: srednje svetla koža i ni svetla ni tamna koža, srednje svetla koža
+🧑🏼‍🤝‍🧑🏾	osobe se drže za ruke, osobe se drže za ruke: srednje svetla koža i srednje tamna koža, srednje svetla koža, srednje tamna koža
+🧑🏼‍🤝‍🧑🏿	osobe se drže za ruke, osobe se drže za ruke: srednje svetla koža i tamna koža, srednje svetla koža, tamna koža
 🧑🏽‍🤝‍🧑🏻	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: ni svetla ni tamna koža i svetla koža, svetla koža
 🧑🏽‍🤝‍🧑🏼	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: ni svetla ni tamna koža i srednje svetla koža, srednje svetla koža
 🧑🏽‍🤝‍🧑🏽	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: ni svetla ni tamna koža
+🧑🏽‍🤝‍🧑🏾	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: ni svetla ni tamna koža i srednje tamna koža, srednje tamna koža
+🧑🏽‍🤝‍🧑🏿	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: ni svetla ni tamna koža i tamna koža, tamna koža
 🧑🏾‍🤝‍🧑🏻	osobe se drže za ruke, osobe se drže za ruke: srednje tamna koža i svetla koža, srednje tamna koža, svetla koža
 🧑🏾‍🤝‍🧑🏼	osobe se drže za ruke, osobe se drže za ruke: srednje tamna koža i srednje svetla koža, srednje svetla koža, srednje tamna koža
 🧑🏾‍🤝‍🧑🏽	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: srednje tamna koža i ni svetla ni tamna koža, srednje tamna koža
 🧑🏾‍🤝‍🧑🏾	osobe se drže za ruke, osobe se drže za ruke: srednje tamna koža, srednje tamna koža
+🧑🏾‍🤝‍🧑🏿	osobe se drže za ruke, osobe se drže za ruke: srednje tamna koža i tamna koža, srednje tamna koža, tamna koža
 🧑🏿‍🤝‍🧑🏻	osobe se drže za ruke, osobe se drže za ruke: tamna koža i svetla koža, svetla koža, tamna koža
 🧑🏿‍🤝‍🧑🏼	osobe se drže za ruke, osobe se drže za ruke: tamna koža i srednje svetla koža, srednje svetla koža, tamna koža
 🧑🏿‍🤝‍🧑🏽	ni svetla ni tamna koža, osobe se drže za ruke, osobe se drže za ruke: tamna koža i ni svetla ni tamna koža, tamna koža
 🧑🏿‍🤝‍🧑🏾	osobe se drže za ruke, osobe se drže za ruke: tamna koža i srednje tamna koža, srednje tamna koža, tamna koža
 🧑🏿‍🤝‍🧑🏿	osobe se drže za ruke, osobe se drže za ruke: tamna koža, tamna koža
-👭	držanje, dve žene se drže za ruke, par, ruke, žene
-👭🏻	držanje, dve žene se drže za ruke, dve žene se drže za ruke: svetla koža, par, ruke, svetla koža, žene
-👩🏼‍🤝‍👩🏻	držanje, dve žene se drže za ruke, dve žene se drže za ruke: srednje svetla koža i svetla koža, par, ruke, srednje svetla koža, svetla koža, žene
-👭🏼	držanje, dve žene se drže za ruke, dve žene se drže za ruke: srednje svetla koža, par, ruke, srednje svetla koža, žene
-👩🏽‍🤝‍👩🏻	držanje, dve žene se drže za ruke, dve žene se drže za ruke: ni svetla ni tamna koža i svetla koža, ni svetla ni tamna koža, par, ruke, svetla koža, žene
-👩🏽‍🤝‍👩🏼	držanje, dve žene se drže za ruke, dve žene se drže za ruke: ni svetla ni tamna koža i srednje svetla koža, ni svetla ni tamna koža, par, ruke, srednje svetla koža, žene
-👭🏽	držanje, dve žene se drže za ruke, dve žene se drže za ruke: ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, žene
-👩🏾‍🤝‍👩🏻	držanje, dve žene se drže za ruke, dve žene se drže za ruke: srednje tamna koža i svetla koža, par, ruke, srednje tamna koža, svetla koža, žene
-👩🏾‍🤝‍👩🏼	držanje, dve žene se drže za ruke, dve žene se drže za ruke: srednje tamna koža i srednje svetla koža, par, ruke, srednje svetla koža, srednje tamna koža, žene
-👩🏾‍🤝‍👩🏽	držanje, dve žene se drže za ruke, dve žene se drže za ruke: srednje tamna koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, srednje tamna koža, žene
-👭🏾	držanje, dve žene se drže za ruke, dve žene se drže za ruke: srednje tamna koža, par, ruke, srednje tamna koža, žene
-👩🏿‍🤝‍👩🏻	držanje, dve žene se drže za ruke, dve žene se drže za ruke: tamna koža i svetla koža, par, ruke, svetla koža, tamna koža, žene
-👩🏿‍🤝‍👩🏼	držanje, dve žene se drže za ruke, dve žene se drže za ruke: tamna koža i srednje svetla koža, par, ruke, srednje svetla koža, tamna koža, žene
-👩🏿‍🤝‍👩🏽	držanje, dve žene se drže za ruke, dve žene se drže za ruke: tamna koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, tamna koža, žene
-👩🏿‍🤝‍👩🏾	držanje, dve žene se drže za ruke, dve žene se drže za ruke: tamna koža i srednje tamna koža, par, ruke, srednje tamna koža, tamna koža, žene
-👭🏿	držanje, dve žene se drže za ruke, dve žene se drže za ruke: tamna koža, par, ruke, tamna koža, žene
-👫	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, žena
-👫🏻	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: svetla koža, par, ruke, svetla koža, žena
-👩🏻‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: svetla koža i srednje svetla koža, par, ruke, srednje svetla koža, svetla koža, žena
-👩🏻‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: svetla koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, svetla koža, žena
-👩🏻‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: svetla koža i srednje tamna koža, par, ruke, srednje tamna koža, svetla koža, žena
-👩🏻‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: svetla koža i tamna koža, par, ruke, svetla koža, tamna koža, žena
-👩🏼‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje svetla koža i svetla koža, par, ruke, srednje svetla koža, svetla koža, žena
-👫🏼	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje svetla koža, par, ruke, srednje svetla koža, žena
-👩🏼‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje svetla koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, srednje svetla koža, žena
-👩🏼‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje svetla koža i srednje tamna koža, par, ruke, srednje svetla koža, srednje tamna koža, žena
-👩🏼‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje svetla koža i tamna koža, par, ruke, srednje svetla koža, tamna koža, žena
-👩🏽‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: ni svetla ni tamna koža i svetla koža, ni svetla ni tamna koža, par, ruke, svetla koža, žena
-👩🏽‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: ni svetla ni tamna koža i srednje svetla koža, ni svetla ni tamna koža, par, ruke, srednje svetla koža, žena
-👫🏽	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, žena
-👩🏽‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: ni svetla ni tamna koža i srednje tamna koža, ni svetla ni tamna koža, par, ruke, srednje tamna koža, žena
-👩🏽‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: ni svetla ni tamna koža i tamna koža, ni svetla ni tamna koža, par, ruke, tamna koža, žena
-👩🏾‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje tamna koža i svetla koža, par, ruke, srednje tamna koža, svetla koža, žena
-👩🏾‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje tamna koža i srednje svetla koža, par, ruke, srednje svetla koža, srednje tamna koža, žena
-👩🏾‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje tamna koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, srednje tamna koža, žena
-👫🏾	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje tamna koža, par, ruke, srednje tamna koža, žena
-👩🏾‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: srednje tamna koža i tamna koža, par, ruke, srednje tamna koža, tamna koža, žena
-👩🏿‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: tamna koža i svetla koža, par, ruke, svetla koža, tamna koža, žena
-👩🏿‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: tamna koža i srednje svetla koža, par, ruke, srednje svetla koža, tamna koža, žena
-👩🏿‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: tamna koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, tamna koža, žena
-👩🏿‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: tamna koža i srednje tamna koža, par, ruke, srednje tamna koža, tamna koža, žena
-👫🏿	držanje, muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: tamna koža, par, ruke, tamna koža, žena
-👬	blizanci, držanje, dvojica muškaraca se drže za ruke, muškarac, par, ruke, zodijak
-👬🏻	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: svetla koža, muškarac, par, ruke, svetla koža, zodijak
-👨🏼‍🤝‍👨🏻	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: srednje svetla koža i svetla koža, muškarac, par, ruke, srednje svetla koža, svetla koža, zodijak
-👬🏼	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: srednje svetla koža, muškarac, par, ruke, srednje svetla koža, zodijak
-👨🏽‍🤝‍👨🏻	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: ni svetla ni tamna koža i svetla koža, muškarac, ni svetla ni tamna koža, par, ruke, svetla koža, zodijak
-👨🏽‍🤝‍👨🏼	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: ni svetla ni tamna koža i srednje svetla koža, muškarac, ni svetla ni tamna koža, par, ruke, srednje svetla koža, zodijak
-👬🏽	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: ni svetla ni tamna koža, muškarac, ni svetla ni tamna koža, par, ruke, zodijak
-👨🏾‍🤝‍👨🏻	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: srednje tamna koža i svetla koža, muškarac, par, ruke, srednje tamna koža, svetla koža, zodijak
-👨🏾‍🤝‍👨🏼	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: srednje tamna koža i srednje svetla koža, muškarac, par, ruke, srednje svetla koža, srednje tamna koža, zodijak
-👨🏾‍🤝‍👨🏽	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: srednje tamna koža i ni svetla ni tamna koža, muškarac, ni svetla ni tamna koža, par, ruke, srednje tamna koža, zodijak
-👬🏾	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: srednje tamna koža, muškarac, par, ruke, srednje tamna koža, zodijak
-👨🏿‍🤝‍👨🏻	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: tamna koža i svetla koža, muškarac, par, ruke, svetla koža, tamna koža, zodijak
-👨🏿‍🤝‍👨🏼	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: tamna koža i srednje svetla koža, muškarac, par, ruke, srednje svetla koža, tamna koža, zodijak
-👨🏿‍🤝‍👨🏽	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: tamna koža i ni svetla ni tamna koža, muškarac, ni svetla ni tamna koža, par, ruke, tamna koža, zodijak
-👨🏿‍🤝‍👨🏾	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: tamna koža i srednje tamna koža, muškarac, par, ruke, srednje tamna koža, tamna koža, zodijak
-👬🏿	blizanci, držanje, dvojica muškaraca se drže za ruke, dvojica muškaraca se drže za ruke: tamna koža, muškarac, par, ruke, tamna koža, zodijak
+👭	držanje, par, ruke, žene, žene se drže za ruke
+👭🏻	držanje, par, ruke, svetla koža, žene, žene se drže za ruke, žene se drže za ruke: svetla koža
+👩🏻‍🤝‍👩🏼	držanje, par, ruke, srednje svetla koža, svetla koža, žene, žene se drže za ruke, žene se drže za ruke: svetla koža i srednje svetla koža
+👩🏻‍🤝‍👩🏽	držanje, ni svetla ni tamna koža, par, ruke, svetla koža, žene, žene se drže za ruke, žene se drže za ruke: svetla koža i ni svetla ni tamna koža
+👩🏻‍🤝‍👩🏾	držanje, par, ruke, srednje tamna koža, svetla koža, žene, žene se drže za ruke, žene se drže za ruke: svetla koža i srednje tamna koža
+👩🏻‍🤝‍👩🏿	držanje, par, ruke, svetla koža, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: svetla koža i tamna koža
+👩🏼‍🤝‍👩🏻	držanje, par, ruke, srednje svetla koža, svetla koža, žene, žene se drže za ruke, žene se drže za ruke: srednje svetla koža i svetla koža
+👭🏼	držanje, par, ruke, srednje svetla koža, žene, žene se drže za ruke, žene se drže za ruke: srednje svetla koža
+👩🏼‍🤝‍👩🏽	držanje, ni svetla ni tamna koža, par, ruke, srednje svetla koža, žene, žene se drže za ruke, žene se drže za ruke: srednje svetla koža i ni svetla ni tamna koža
+👩🏼‍🤝‍👩🏾	držanje, par, ruke, srednje svetla koža, srednje tamna koža, žene, žene se drže za ruke, žene se drže za ruke: srednje svetla koža i srednje tamna koža
+👩🏼‍🤝‍👩🏿	držanje, par, ruke, srednje svetla koža, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: srednje svetla koža i tamna koža
+👩🏽‍🤝‍👩🏻	držanje, ni svetla ni tamna koža, par, ruke, svetla koža, žene, žene se drže za ruke, žene se drže za ruke: ni svetla ni tamna koža i svetla koža
+👩🏽‍🤝‍👩🏼	držanje, ni svetla ni tamna koža, par, ruke, srednje svetla koža, žene, žene se drže za ruke, žene se drže za ruke: ni svetla ni tamna koža i srednje svetla koža
+👭🏽	držanje, ni svetla ni tamna koža, par, ruke, žene, žene se drže za ruke, žene se drže za ruke: ni svetla ni tamna koža
+👩🏽‍🤝‍👩🏾	držanje, ni svetla ni tamna koža, par, ruke, srednje tamna koža, žene, žene se drže za ruke, žene se drže za ruke: ni svetla ni tamna koža i srednje tamna koža
+👩🏽‍🤝‍👩🏿	držanje, ni svetla ni tamna koža, par, ruke, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: ni svetla ni tamna koža i tamna koža
+👩🏾‍🤝‍👩🏻	držanje, par, ruke, srednje tamna koža, svetla koža, žene, žene se drže za ruke, žene se drže za ruke: srednje tamna koža i svetla koža
+👩🏾‍🤝‍👩🏼	držanje, par, ruke, srednje svetla koža, srednje tamna koža, žene, žene se drže za ruke, žene se drže za ruke: srednje tamna koža i srednje svetla koža
+👩🏾‍🤝‍👩🏽	držanje, ni svetla ni tamna koža, par, ruke, srednje tamna koža, žene, žene se drže za ruke, žene se drže za ruke: srednje tamna koža i ni svetla ni tamna koža
+👭🏾	držanje, par, ruke, srednje tamna koža, žene, žene se drže za ruke, žene se drže za ruke: srednje tamna koža
+👩🏾‍🤝‍👩🏿	držanje, par, ruke, srednje tamna koža, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: srednje tamna koža i tamna koža
+👩🏿‍🤝‍👩🏻	držanje, par, ruke, svetla koža, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: tamna koža i svetla koža
+👩🏿‍🤝‍👩🏼	držanje, par, ruke, srednje svetla koža, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: tamna koža i srednje svetla koža
+👩🏿‍🤝‍👩🏽	držanje, ni svetla ni tamna koža, par, ruke, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: tamna koža i ni svetla ni tamna koža
+👩🏿‍🤝‍👩🏾	držanje, par, ruke, srednje tamna koža, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: tamna koža i srednje tamna koža
+👭🏿	držanje, par, ruke, tamna koža, žene, žene se drže za ruke, žene se drže za ruke: tamna koža
+👫	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, žena, žena i muškarac se drže za ruke
+👫🏻	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: svetla koža
+👩🏻‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje svetla koža, svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: svetla koža i srednje svetla koža
+👩🏻‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: svetla koža i ni svetla ni tamna koža
+👩🏻‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje tamna koža, svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: svetla koža i srednje tamna koža
+👩🏻‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, svetla koža, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: svetla koža i tamna koža
+👩🏼‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje svetla koža, svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje svetla koža i svetla koža
+👫🏼	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje svetla koža
+👩🏼‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, srednje svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje svetla koža i ni svetla ni tamna koža
+👩🏼‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje svetla koža, srednje tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje svetla koža i srednje tamna koža
+👩🏼‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje svetla koža, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje svetla koža i tamna koža
+👩🏽‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: ni svetla ni tamna koža i svetla koža
+👩🏽‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, srednje svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: ni svetla ni tamna koža i srednje svetla koža
+👫🏽	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: ni svetla ni tamna koža
+👩🏽‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, srednje tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: ni svetla ni tamna koža i srednje tamna koža
+👩🏽‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: ni svetla ni tamna koža i tamna koža
+👩🏾‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje tamna koža, svetla koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje tamna koža i svetla koža
+👩🏾‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje svetla koža, srednje tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje tamna koža i srednje svetla koža
+👩🏾‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, srednje tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje tamna koža i ni svetla ni tamna koža
+👫🏾	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje tamna koža
+👩🏾‍🤝‍👨🏿	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje tamna koža, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: srednje tamna koža i tamna koža
+👩🏿‍🤝‍👨🏻	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, svetla koža, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: tamna koža i svetla koža
+👩🏿‍🤝‍👨🏼	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje svetla koža, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: tamna koža i srednje svetla koža
+👩🏿‍🤝‍👨🏽	držanje, muškarac, muškarac i žena se drže za ruke, ni svetla ni tamna koža, par, ruke, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: tamna koža i ni svetla ni tamna koža
+👩🏿‍🤝‍👨🏾	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, srednje tamna koža, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: tamna koža i srednje tamna koža
+👫🏿	držanje, muškarac, muškarac i žena se drže za ruke, par, ruke, tamna koža, žena, žena i muškarac se drže za ruke, žena i muškarac se drže za ruke: tamna koža
+👬	blizanci, držanje, muškarac, muškarci se drže za ruke, par, ruke, zodijak
+👬🏻	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: svetla koža, par, ruke, svetla koža, zodijak
+👨🏻‍🤝‍👨🏼	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: svetla koža i srednje svetla koža, par, ruke, srednje svetla koža, svetla koža, zodijak
+👨🏻‍🤝‍👨🏽	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: svetla koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, svetla koža, zodijak
+👨🏻‍🤝‍👨🏾	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: svetla koža i srednje tamna koža, par, ruke, srednje tamna koža, svetla koža, zodijak
+👨🏻‍🤝‍👨🏿	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: svetla koža i tamna koža, par, ruke, svetla koža, tamna koža, zodijak
+👨🏼‍🤝‍👨🏻	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje svetla koža i svetla koža, par, ruke, srednje svetla koža, svetla koža, zodijak
+👬🏼	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje svetla koža, par, ruke, srednje svetla koža, zodijak
+👨🏼‍🤝‍👨🏽	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje svetla koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, srednje svetla koža, zodijak
+👨🏼‍🤝‍👨🏾	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje svetla koža i srednje tamna koža, par, ruke, srednje svetla koža, srednje tamna koža, zodijak
+👨🏼‍🤝‍👨🏿	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje svetla koža i tamna koža, par, ruke, srednje svetla koža, tamna koža, zodijak
+👨🏽‍🤝‍👨🏻	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: ni svetla ni tamna koža i svetla koža, ni svetla ni tamna koža, par, ruke, svetla koža, zodijak
+👨🏽‍🤝‍👨🏼	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: ni svetla ni tamna koža i srednje svetla koža, ni svetla ni tamna koža, par, ruke, srednje svetla koža, zodijak
+👬🏽	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, zodijak
+👨🏽‍🤝‍👨🏾	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: ni svetla ni tamna koža i srednje tamna koža, ni svetla ni tamna koža, par, ruke, srednje tamna koža, zodijak
+👨🏽‍🤝‍👨🏿	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: ni svetla ni tamna koža i tamna koža, ni svetla ni tamna koža, par, ruke, tamna koža, zodijak
+👨🏾‍🤝‍👨🏻	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje tamna koža i svetla koža, par, ruke, srednje tamna koža, svetla koža, zodijak
+👨🏾‍🤝‍👨🏼	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje tamna koža i srednje svetla koža, par, ruke, srednje svetla koža, srednje tamna koža, zodijak
+👨🏾‍🤝‍👨🏽	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje tamna koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, srednje tamna koža, zodijak
+👬🏾	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje tamna koža, par, ruke, srednje tamna koža, zodijak
+👨🏾‍🤝‍👨🏿	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: srednje tamna koža i tamna koža, par, ruke, srednje tamna koža, tamna koža, zodijak
+👨🏿‍🤝‍👨🏻	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: tamna koža i svetla koža, par, ruke, svetla koža, tamna koža, zodijak
+👨🏿‍🤝‍👨🏼	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: tamna koža i srednje svetla koža, par, ruke, srednje svetla koža, tamna koža, zodijak
+👨🏿‍🤝‍👨🏽	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: tamna koža i ni svetla ni tamna koža, ni svetla ni tamna koža, par, ruke, tamna koža, zodijak
+👨🏿‍🤝‍👨🏾	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: tamna koža i srednje tamna koža, par, ruke, srednje tamna koža, tamna koža, zodijak
+👬🏿	blizanci, držanje, muškarac, muškarci se drže za ruke, muškarci se drže za ruke: tamna koža, par, ruke, tamna koža, zodijak
 💏	par, poljubac, romantika
 👩‍❤‍💋‍👨	muškarac, par, poljubac, poljubac: žena i muškarac, romantika, žena
 👨‍❤‍💋‍👨	muškarac, par, poljubac, poljubac: muškarac i muškarac, romantika
@@ -1752,6 +1979,7 @@
 🗣️	glava, glava koja govori, govor, lice, silueta
 👤	gornji deo tela, silueta, silueta čoveka
 👥	gornji deo tela, silueta, siluete ljudi
+🫂	doviđenja, hvala, ljudi se grle, zagrljaj, zdravo
 👣	noge, otisak, otisci stopala, stopala, telo
 🦰	crvena kosa, crvenokos
 🦱	afro, kovrdžava kosa, kovrdže
@@ -1763,15 +1991,16 @@
 🦧	majmun, orangutan
 🐶	lice, lice psa, ljubimac, pas
 🐕️	ljubimac, pas
-🦮	dostupnost, pas vodič, slep, vodič
-🐕‍🦺	dostupnost, pas, pomoć, službeni pas, usluga
+🦮	pas vodič, pristup, slep, vodič
+🐕‍🦺	pas, pomoć, pristup, službeni pas
 🐩	ljubimac, pas, pudla
-🐺	lice, lice vuka, vuk
-🦊	lija, lisica, životinja
+🐺	lice, vuk
+🦊	lice, lija, lisica
 🦝	lukav, radoznao, rakun
 🐱	lice, lice mačke, ljubimac, mačka
 🐈️	ljubimac, mačka
-🦁	lav, lice, lice lava, zodijak
+🐈‍⬛	crna mačka, crno, mačka, nesreća
+🦁	horoskop, lav, lice, zodijak
 🐯	lice, lice tigra, tigar
 🐅	tigar
 🐆	leopard
@@ -1780,6 +2009,7 @@
 🦄	jednorog, lice, lice jednoroga
 🦓	pruge, zebra
 🦌	jelen, životinja
+🦬	bizon, bufalo, krdo
 🐮	krava, lice, lice krave
 🐂	bik, govedo, vo, zodijak
 🐃	bivo, voda, vodeni bivo
@@ -1796,6 +2026,7 @@
 🦙	alpaka, lama, vuna
 🦒	pege, žirafa
 🐘	slon
+🦣	istrebljen, kljova, mamut, veliko
 🦏	nosorog, životinja
 🦛	nil. konj, nilski konj
 🐭	lice, lice miša, miš
@@ -1805,23 +2036,25 @@
 🐰	kunić, lice, lice zeca, ljubimac, zec
 🐇	kunić, ljubimac, zec
 🐿️	veverica
+🦫	brana, dabar
 🦔	bodljikavo, jež
 🦇	slepi miš, vampir, šišmiš, životinja
-🐻	lice, lice medveda, medved
+🐻	lice, medved
+🐻‍❄	arktički, belo, medved, polarni medved
 🐨	koala, medved
-🐼	lice, lice pande, panda
+🐼	lice, panda
 🦥	lenj, lenjivac, spor
 🦦	igranje, pecanje, vidra
 🦨	smrad, tvor
 🦘	Australija, kengur, skače, torbar
 🦡	jazavac, napast, pred sudom
 🐾	otisak, otisci šapa, stopala, šape
-🦃	ćurka
-🐔	kokoška
-🐓	petao, pevac
-🐣	beba, izleganje, pile, pile u jajetu
-🐤	beba, pile
-🐥	beba, pile, pile spreda
+🦃	ptica, ćurka
+🐔	kokoška, ptica
+🐓	petao, pevac, ptica
+🐣	beba, izleganje, pile, pile u jajetu, ptica
+🐤	beba, pile, ptica
+🐥	beba, pile, pile spreda, ptica
 🐦️	ptica
 🐧	pingvin
 🕊️	golubica, letenje, mir, ptica
@@ -1829,10 +2062,12 @@
 🦆	patka, ptica
 🦢	labud, ptica, ružno pače
 🦉	buljavo, mudrost, ptica, sova
+🦤	Mauricijus, dodo, istrebljeno, veliko
+🪶	lako, let, pero, ptica
 🦩	flamingo, tropski, upadljiv
 🦚	paun, ponosan, ptica, razmetljiv
 🦜	govori, papagaj, pirat, ptica
-🐸	lice, žaba, žablje lice
+🐸	lice, žaba
 🐊	krokodil
 🐢	kornjača
 🦎	gmizavac, gušter, reptil
@@ -1844,6 +2079,7 @@
 🐳	kit, kit koji prska, lice, mlaz
 🐋	kit
 🐬	delfin, peraje
+🦭	foka, morski lav
 🐟️	riba, ribe, zodijak
 🐠	riba, tropska riba, tropsko
 🐡	naduvana riba, riba
@@ -1855,12 +2091,16 @@
 🐛	gusenica, insekt
 🐜	insekt, mrav
 🐝	insekt, pčela
+🪲	buba, insekt
 🐞	buba, bubamara, insekt
 🦗	skakavac, zrikavac
+🪳	buba, bubašvaba, insekt, napast
 🕷️	insekt, pauk
 🕸️	mreža, pauk, paukova mreža
 🦂	zodijak, škorpija, škorpion
 🦟	bolest, insekt, komarac, malarija, tigrasti
+🪰	bolest, muva, napast, trulo
+🪱	crv, glista, parazit
 🦠	ameba, bakterija, mikrob, virus
 💐	biljka, buket, cvet, romantika
 🌸	biljka, cvet, cvet trešnje, trešnja
@@ -1873,6 +2113,7 @@
 🌼	biljka, cvet
 🌷	biljka, cvet, lala
 🌱	biljka, mladica, mlado
+🪴	biljka, biljka u saksiji, dosadno, kuća, nega, raste
 🌲	biljka, drvo, četinar
 🌳	biljka, drvo, listopadno, listopadno drvo
 🌴	biljka, drvo, palma
@@ -1898,8 +2139,10 @@
 🍑	biljka, breskva, voće
 🍒	biljka, trešnja, trešnje, voće
 🍓	biljka, jagoda, voće
+🫐	borovnica, borovnice, plavo
 🥝	hrana, kivi, voće
 🍅	biljka, paradajz, povrće
+🫒	hrana, maslina, maslinka
 🥥	kokos, palma, pinakolada
 🥑	avokado, hrana, voće
 🍆	biljka, patlidžan, povrće
@@ -1907,6 +2150,7 @@
 🥕	hrana, povrće, šargarepa
 🌽	biljka, klip, klip kukuruza, kukuruz
 🌶️	biljka, ljuta papričica, ljuto, paprika, papričica
+🫑	babura, paprika, povrće
 🥒	hrana, krastavac, povrće
 🥬	blitva, kelj, kupus, lisnato zeleno povrće, zelena salata
 🥦	brokoli, brokule, divlji kupus
@@ -1918,6 +2162,7 @@
 🍞	hleb, vekna
 🥐	hrana, kroasan, pecivo, pekara
 🥖	baget, hleb, hrana, pecivo, pekara
+🫓	lavaš, nan, pita hleb, pljosnat hleb
 🥨	pereca, uvrnuto
 🥯	bejgl, pekara
 🥞	hrana, palačinke
@@ -1934,12 +2179,14 @@
 🥪	hleb, sendvič
 🌮	meksička, tako
 🌯	burito, meksička
+🫔	meksički, tamale, zavitak
 🥙	giros, hrana, kebab, punjeno, tortilja
 🧆	falafel, leblebije, ćufte
 🥚	hrana, jaje
 🍳	jaje, jaje u tiganju, pečenje, tiganj
 🥘	hrana, paelja, plitko, tava, tiganj hrane
 🍲	gulaš, činija, činija hrane
+🫕	fondu, sir, topljeno, čokolada, šerpa, švajacarski
 🥣	doručak, pahuljice, činija sa kašikom
 🥗	hrana, salata, zdravo, zelena salata, zeleno
 🍿	kokice
@@ -1985,6 +2232,7 @@
 🍼	beba, bočica, flašica za bebe, mleko, piti
 🥛	mleko, piće, čaša, čaša mleka
 ☕️	kafa, napitak, topli napitak, vruće, čaj
+🫖	piće, čaj, čajnik
 🍵	napitak, piti, čaj, šolja, šoljica bez drške
 🍶	bar, boca, napitak, piće, sake, šolja
 🍾	bar, boca, boca iz koje izleće čep, piće, čep, šampanjac
@@ -1996,6 +2244,7 @@
 🥂	piće, slavlje, čaše, čaše nazdravljaju, živeli
 🥃	piće, viski, čaša, čaša za žestinu, žestina
 🥤	gazirano, sok, čaša sa slamčicom
+🧋	bobice, mleko, čaj, čaj sa bobicama
 🧃	piće u tetrapaku, sok u tetrapaku
 🧉	mate, piće
 🧊	hladno, kocka leda, ledeni breg
@@ -2025,6 +2274,9 @@
 🏛️	antika, antička građevina, građevina, zgrada
 🏗️	gradilište, gradnja, zgrada
 🧱	cigla, cigle, glina, zid
+🪨	kamen, stena, teško, čvrsto
+🪵	deblo, drvo, stablo
+🛖	koliba, kuća, okrugla koliba
 🏘️	kuća, kuće, zgrada
 🏚️	kuća, zapuštena kuća, zapušteno, zgrada
 🏠️	dom, kuća, zgrada
@@ -2092,6 +2344,7 @@
 🚗	automobil, vozilo
 🚘️	automobil, automobil spreda, dolazak, vozilo
 🚙	kamp-vozilo, rekreacija, vozilo
+🛻	pikap, pikap vozilo, teretno vozilo
 🚚	dostava, kamion, teretni kamion, vozilo
 🚛	kamion, kamion sa prikolicom, prikolica, vozilo, zglob
 🚜	traktor, vozilo
@@ -2104,6 +2357,7 @@
 🚲️	bicikl, vozilo
 🛴	trotinet
 🛹	skejt, skejtbord
+🛼	koturaljka, rolšua
 🚏	autobus, autobuska stanica, stanica
 🛣️	autoput, put
 🛤️	voz, železnica, železnička pruga
@@ -2274,6 +2528,7 @@
 🪁	jedrenje, letenje, zmaj na vetar
 🎱	8, bilijar, igra, kugla, osam
 🔮	alat, bajka, kristal, kristalna kugla, kugla, sudbina
+🪄	magija, veštica, čarobni štapić, čarobnjak
 🧿	amajlija, nazar, talisman, urok
 🎮️	igra, kontroler, video igra
 🕹️	džojstik, igra, video igra
@@ -2281,6 +2536,8 @@
 🎲	igra, kockica, kockica za igru, kockice
 🧩	deo, deo slagalice, slagalica, uklapanje
 🧸	igračka, medvedić, plišana, punjena
+🪅	pinjata, proslava, žurka
+🪆	babuška, lutka, lutka u lutki, rusija
 ♠️	igra, karta, pik
 ♥️	herc, igra, karta
 ♦️	igra, karo, karta
@@ -2293,7 +2550,9 @@
 🖼️	muzej, ram, ram sa slikom, slika, slikarstvo, umetnost
 🎨	muzej, paleta, slikarska paleta, slikarstvo, umetnost
 🧵	igla, konac, nit, šivenje
+🪡	igla, igla za šivenje, vez, šivenje, štep
 🧶	klupko, pletenje, predivo, štrikanje
+🪢	konopac, uvrnuti, vezati, zapetljano, čvor
 👓️	naočari, oko
 🕶️	naočari, naočari za sunce, oko, tamno
 🥽	plivanje, varenje, zaštita očiju, zaštitne naočari
@@ -2319,6 +2578,7 @@
 👝	neseser, odeća, torba
 🛍️	hotel, kupovanje, torba, torbe za kupovinu
 🎒	torba, škola, školski ranac
+🩴	japanka, japanke, sandale za plažu
 👞	cipela, muška cipela, muškarci, obuća
 👟	cipela, obuća, patika, sport
 🥾	cipela, cipela za planinarenje, kampovanje, planinarenje, ruksak
@@ -2332,6 +2592,7 @@
 🎩	cilindar, odeća, šešir
 🎓️	diploma, kapa, kapa za diplomce, kićanka, matura, odeća, proslava
 🧢	kapa za bejzbol, kačket
+🪖	ratnik, vojnik, vojska, šlem
 ⛑️	kaciga, kaciga sa belim krstom, krst, lice, pomoć, šlem
 📿	brojanica, molitva, odeća, ogrlica, perle, religija
 💄	karmin, kozmetika, šminka
@@ -2356,12 +2617,14 @@
 🎧️	slušalica
 📻️	radio
 🎷	instrument, muzika, saksofon
+🪗	harmonika
 🎸	gitara, instrument, muzika
 🎹	instrument, klavijatura, klavir, muzika
 🎺	instrument, muzika, truba
 🎻	instrument, muzika, violina
 🪕	bendžo, muzika, žice
 🥁	bubanj, doboš, muzika, palice
+🪘	bubanj, konga, ritam, timpan
 📱	mobilni, mobilni telefon, telefon
 📲	dolazni poziv, mobilni, mobilni telefon sa strelicom, strelica, telefon
 ☎️	telefon
@@ -2415,6 +2678,7 @@
 🔖	obeleživač stranica u knjizi, oznaka
 🏷️	oznaka
 💰️	dolar, novac, vreća, vreća novca
+🪙	blago, metal, novac, novčić, srebro, zlato
 💴	banka, jen, novac, novčanica, novčanica sa znakom jena, valuta
 💵	banka, dolar, novac, novčanica, novčanica sa znakom dolara, valuta
 💶	banka, evro, novac, novčanica, novčanica sa znakom evra, valuta
@@ -2423,8 +2687,6 @@
 💳️	banka, kartica, kredit, kreditna kartica, novac
 🧾	dokaz, knjigovodstvo, potvrda, priznanica, računovodstvo
 💹	banka, grafikon, grafikon porasta sa znakom jena, jen, novac, rast, trend, tržište, uzlazni, valuta
-💱	banka, konverzija valuta, menjačnica, novac, valuta
-💲	crni znak za dolar, dolar, novac, valuta
 ✉️	e-pošta, imejl, koverta
 📧	imejl, pismo, pošta
 📨	dolazno, imejl, koverta, koverta koja stiže, pismo, pošta, primanje
@@ -2482,9 +2744,12 @@
 🗡️	bodež, nož, oružje
 ⚔️	mačevi, oružje, ukršteni mačevi, ukršteno
 🔫	alat, oružje, pištolj, revolver
+🪃	australija, bumerang, posledice, vraćanje
 🏹	alat, luk, luk i strela, oružje, strela, strelac, zodijak
 🛡️	oružje, štit
+🪚	alat, stolar, testera
 🔧	alat, francuski ključ
+🪛	alat, šrafciger, šrafiti
 🔩	alat, navrtka, navrtka i zavrtanj, zavrtanj
 ⚙️	alat, zupčanik
 🗜️	alat, stega
@@ -2492,8 +2757,10 @@
 🦯	beli štap, dostupnost, slep
 🔗	karika, karike, veza
 ⛓️	lanac, lanci
+🪝	kuka, zakrivljeno
 🧰	alat, kutija za alat, mehaničar, sanduk
 🧲	magnet, magnetni, potkovica, privlačenje
+🪜	merdevine, peti se
 ⚗️	alat, alembik, hemija
 🧪	eksperiment, epruveta, hemija, hemičar, laboratorija, nauka
 🧫	bakterija, biolog, biologija, kultura, laboratorija, petrijeva šolja
@@ -2507,26 +2774,35 @@
 🩹	flaster, zavoj
 🩺	lekar, medicina, srce, stetoskop
 🚪	vrata
+🛗	dostupnost, lift
+🪞	odraz, ogledalo, refleksija, reflektor
+🪟	okvir, otvor, pogled, providno, prozor, svež vazduh
 🛏️	hotel, krevet, spavanje
 🛋️	hotel, kauč, kauč i lampa, lampa
 🪑	mesto, sedište, stolica
 🚽	toalet, ve-ce šolja
+🪠	otpušiti, otpušivač, snaga, toalet, vodoinstalater
 🚿	tuš, voda
 🛁	kada, kupanje
+🪤	mamac, mišolovka, nameštaljka, zamka
 🪒	brijanje, brijač, izbrijan
 🧴	boca za losion, hidratantna krema, losion, preparat za sunčanje, šampon
 🧷	pank-rok, pelena, zihernadla
 🧹	brisanje, metla, veštica, čišćenje
 🧺	korpa, piknik, poljoprivreda, pranje veša
 🧻	papirni ubrusi, rolna papira, toalet-papir
+🪣	kofa
 🧼	bar, kupanje, posuda za sapun, sapun, sapunica, čišćenje
+🪥	higijena, kupatilo, oprati, zubi, zubna, četkica, četkica za zube
 🧽	porozan, sunđer, upijanje, čišćenje
 🧯	gasiti, požar, protivpožarni aparat, suzbijati
 🛒	kolica, kolica za kupovinu, korpa, kupovina, samousluga
 🚬	cigareta, pušenje
 ⚰️	kovčeg, smrt
+🪦	grob, groblje, nadgrobna ploča, nadgrobni kamen, nadgrobni spomenik
 ⚱️	posmrtna urna, sahrana, smrt, urna
 🗿	kipovi, lice, moai
+🪧	demonstracije, plakat, protest, transparent, znak
 🏧	bankomat, znak za bankomat
 🚮	bacanje otpada u korpu, korpa za otpatke, otpad
 🚰	pitka, piće, voda, voda za piće
@@ -2622,11 +2898,25 @@
 🔆	dugme za povećavanje osvetljenosti, osvetljenost, svetlo
 📶	mobilni, prijem, signal, telefon, traka, trake jačine signala
 📳	mobilni, režim, režim vibracije, telefon, vibracija
-📴	isključen mobilni telefon, isključeno, mobilni, mobilni telefon, telefon
+📴	isključen mobilni telefon, isključeno, mobilni, telefon
 ♀️	žena, ženski znak, žensko
 ♂️	muškarac, muški znak, muško
-⚕️	eskulapijus, medicina, medicinski znak, osoblje, znak
+⚧️	transrodni simbol, transrodno
+✖️	crni znak za množenje, množenje, otkazivanje, puta, x
+➕	crni znak plus, matematika, plus
+➖	crni znak minus, matematika, minus
+➗	crni znak za deljenje, deljenje, matematika
 ♾️	beskonačnost, bezgranično, univerzalno, večno
+‼️	dvostruki uzvičnik, interpunkcija, uzvičnik, znak
+⁉️	interpunkcija, pitanje, upitnik, uzvičnik, uzvičnik i upitnik, znak
+❓️	interpunkcija, pitanje, upitnik, znak
+❔	beli upitnik, interpunkcija, obris, pitanje, znak
+❕	beli uzvičnik, interpunkcija, obris, uzvičnik, znak
+❗️	interpunkcija, uzvičnik, znak
+〰️	crta, interpunkcija, talasasta crta, talasasto
+💱	banka, konverzija valuta, menjačnica, novac, valuta
+💲	crni znak za dolar, dolar, novac, valuta
+⚕️	eskulapijus, medicina, medicinski znak, osoblje, znak
 ♻️	recikliranje, simbol za recikliranje
 ⚜	heraldika, ljiljan
 🔱	alat, amblem, amblem trozupca, brod, sidro, trozubac
@@ -2636,25 +2926,14 @@
 ✅	dugme sa znakom potvrde, potvrda, znak
 ☑️	okvir, opcija, opcija sa znakom potvrde, znak
 ✔️	crni znak potvrde, potvrda, znak
-✖️	crni znak za množenje, množenje, otkazivanje, puta, x
 ❌	iks, množenje, otkazivanje, puta, x, znak
 ❎	dugme sa znakom iks, kvadrat, znak
-➕	crni znak plus, matematika, plus
-➖	crni znak minus, matematika, minus
-➗	crni znak za deljenje, deljenje, matematika
 ➰	petlja, zaobljeno
 ➿	dvostruka petlja, dvostruko, petlja, zaobljeno
 〽️	deo, znak, znak za razdvajanje delova
 ✳️	osmokraka zvezda, zvezdica
 ✴️	osmokraka zvezdica, zvezda
 ❇️	iskra
-‼️	dvostruki uzvičnik, interpunkcija, uzvičnik, znak
-⁉️	interpunkcija, pitanje, upitnik, uzvičnik, uzvičnik i upitnik, znak
-❓️	interpunkcija, pitanje, upitnik, znak
-❔	beli upitnik, interpunkcija, obris, pitanje, znak
-❕	beli uzvičnik, interpunkcija, obris, uzvičnik, znak
-❗️	interpunkcija, uzvičnik, znak
-〰️	crta, interpunkcija, talasasta crta, talasasto
 ©️	autorska prava
 ®️	registrovano
 ™️	zaštitni znak, znak, žig
@@ -2750,6 +3029,7 @@
 🏴	crna zastava, vijorenje, zastava
 🏳️	bela zastava, vijorenje, zastava
 🏳‍🌈	duga, dugina zastava, vijori, zastava
+🏳‍⚧	bela, pink, svetloplava, transrodna zazstava, transrodno, zastava
 🏴‍☠	Veseli Rodžer, blago, pirat, piratska zastava, pljačka
 🇦🇨	zastava, zastava: Ostrvo Asension
 🇦🇩	zastava, zastava: Andora
@@ -2824,7 +3104,7 @@
 🇪🇷	zastava, zastava: Eritreja
 🇪🇸	zastava, zastava: Španija
 🇪🇹	zastava, zastava: Etiopija
-🇪🇺	zastava, zastava: Evropska Unija
+🇪🇺	zastava, zastava: Evropska unija
 🇫🇮	zastava, zastava: Finska
 🇫🇯	zastava, zastava: Fidži
 🇫🇰	zastava, zastava: Foklandska Ostrva

@@ -19,6 +19,7 @@
 ☺️	Lächeln, fröhlich, lächelnd, lächelndes Gesicht
 😚	Gesicht, küssendes Gesicht mit geschlossenen Augen, rote Wangen
 😙	Gesicht, Kuss, küssendes Gesicht mit lächelnden Augen, lächelnde Augen
+🥲	Träne, berührt, dankbar, erleichtert, lachendes Gesicht mit Träne, lächelnd, stolz
 😋	Gesicht, lecker, leckeres Essen, sich die Lippen leckendes Gesicht
 😛	Gesicht, Gesicht mit herausgestreckter Zunge, herausgestreckte Zunge
 😜	Gesicht, Zwinkern, herausgestreckte Zunge, zwinkerndes Gesicht mit herausgestreckter Zunge
@@ -57,6 +58,7 @@
 🤯	explodierender Kopf, geschockt
 🤠	Cowboy, Gesicht, Gesicht mit Cowboyhut, Hut
 🥳	Feiern, Party, Partygesicht
+🥸	Brille mit Nase, Verkleidung, inkognito, verkleidet, verkleidetes Gesicht
 😎	Gesicht, Sonnenbrille, cool, lächelndes Gesicht mit Sonnenbrille
 🤓	Gesicht, Nerd, Strebergesicht
 🧐	Gesicht mit Monokel, Monokel
@@ -183,6 +185,12 @@
 👌🏽	Hand, OK, OK-Zeichen, OK-Zeichen: mittlere Hautfarbe, exzellent, in Ordnung, mittlere Hautfarbe, perfekt
 👌🏾	Hand, OK, OK-Zeichen, OK-Zeichen: mitteldunkle Hautfarbe, exzellent, in Ordnung, mitteldunkle Hautfarbe, perfekt
 👌🏿	Hand, OK, OK-Zeichen, OK-Zeichen: dunkle Hautfarbe, dunkle Hautfarbe, exzellent, in Ordnung, perfekt
+🤌	Finger, Handgeste, sarkastisch, zusammengedrückt, zusammengedrückte Finger
+🤌🏻	Finger, Handgeste, helle Hautfarbe, sarkastisch, zusammengedrückt, zusammengedrückte Finger, zusammengedrückte Finger: helle Hautfarbe
+🤌🏼	Finger, Handgeste, mittelhelle Hautfarbe, sarkastisch, zusammengedrückt, zusammengedrückte Finger, zusammengedrückte Finger: mittelhelle Hautfarbe
+🤌🏽	Finger, Handgeste, mittlere Hautfarbe, sarkastisch, zusammengedrückt, zusammengedrückte Finger, zusammengedrückte Finger: mittlere Hautfarbe
+🤌🏾	Finger, Handgeste, mitteldunkle Hautfarbe, sarkastisch, zusammengedrückt, zusammengedrückte Finger, zusammengedrückte Finger: mitteldunkle Hautfarbe
+🤌🏿	Finger, Handgeste, dunkle Hautfarbe, sarkastisch, zusammengedrückt, zusammengedrückte Finger, zusammengedrückte Finger: dunkle Hautfarbe
 🤏	Wenig-Geste, klein, kleine Menge, kleiner Betrag, unbedeutend, wenig
 🤏🏻	Wenig-Geste, Wenig-Geste: helle Hautfarbe, helle Hautfarbe, klein, kleine Menge, kleiner Betrag, unbedeutend, wenig
 🤏🏼	Wenig-Geste, Wenig-Geste: mittelhelle Hautfarbe, klein, kleine Menge, kleiner Betrag, mittelhelle Hautfarbe, unbedeutend, wenig
@@ -379,6 +387,8 @@
 👃🏾	Körperteil, Nase, Nase: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👃🏿	Körperteil, Nase, Nase: dunkle Hautfarbe, dunkle Hautfarbe
 🧠	Gehirn, intelligent
+🫀	Herz (Organ), Herzschlag, Mitte, Organ, pulsieren
+🫁	Atem, Lungen, Organ, atmen, ausatmen, einatmen
 🦷	Zahn, Zahn ziehen, Zahnarzt, Zahnärztin
 🦴	Knochen, Skelett
 👀	Auge, Augen, Gesicht
@@ -421,6 +431,30 @@
 👱🏽	Gesicht, Person: blondes Haar, Person: mittlere Hautfarbe, blondes Haar, blonde Haare, blonde Person, blondes Haar, mittlere Hautfarbe
 👱🏾	Gesicht, Person: blondes Haar, Person: mitteldunkle Hautfarbe, blondes Haar, blonde Haare, blonde Person, blondes Haar, mitteldunkle Hautfarbe
 👱🏿	Gesicht, Person: blondes Haar, Person: dunkle Hautfarbe, blondes Haar, blonde Haare, blonde Person, blondes Haar, dunkle Hautfarbe
+🧑‍🦰	Erwachsener, Erwachsener: rotes Haar, geschlechtsneutral, rotes Haar
+🧑🏻‍🦰	Erwachsener, Erwachsener: helle Hautfarbe, rotes Haar, geschlechtsneutral, helle Hautfarbe, rotes Haar
+🧑🏼‍🦰	Erwachsener, Erwachsener: mittelhelle Hautfarbe, rotes Haar, geschlechtsneutral, mittelhelle Hautfarbe, rotes Haar
+🧑🏽‍🦰	Erwachsener, Erwachsener: mittlere Hautfarbe, rotes Haar, geschlechtsneutral, mittlere Hautfarbe, rotes Haar
+🧑🏾‍🦰	Erwachsener, Erwachsener: mitteldunkle Hautfarbe, rotes Haar, geschlechtsneutral, mitteldunkle Hautfarbe, rotes Haar
+🧑🏿‍🦰	Erwachsener, Erwachsener: dunkle Hautfarbe, rotes Haar, dunkle Hautfarbe, geschlechtsneutral, rotes Haar
+🧑‍🦱	Erwachsener, Erwachsener: lockiges Haar, geschlechtsneutral, lockiges Haar
+🧑🏻‍🦱	Erwachsener, Erwachsener: helle Hautfarbe, lockiges Haar, geschlechtsneutral, helle Hautfarbe, lockiges Haar
+🧑🏼‍🦱	Erwachsener, Erwachsener: mittelhelle Hautfarbe, lockiges Haar, geschlechtsneutral, lockiges Haar, mittelhelle Hautfarbe
+🧑🏽‍🦱	Erwachsener, Erwachsener: mittlere Hautfarbe, lockiges Haar, geschlechtsneutral, lockiges Haar, mittlere Hautfarbe
+🧑🏾‍🦱	Erwachsener, Erwachsener: mitteldunkle Hautfarbe, lockiges Haar, geschlechtsneutral, lockiges Haar, mitteldunkle Hautfarbe
+🧑🏿‍🦱	Erwachsener, Erwachsener: dunkle Hautfarbe, lockiges Haar, dunkle Hautfarbe, geschlechtsneutral, lockiges Haar
+🧑‍🦳	Erwachsener, Erwachsener: weißes Haar, geschlechtsneutral, weißes Haar
+🧑🏻‍🦳	Erwachsener, Erwachsener: helle Hautfarbe, weißes Haar, geschlechtsneutral, helle Hautfarbe, weißes Haar
+🧑🏼‍🦳	Erwachsener, Erwachsener: mittelhelle Hautfarbe, weißes Haar, geschlechtsneutral, mittelhelle Hautfarbe, weißes Haar
+🧑🏽‍🦳	Erwachsener, Erwachsener: mittlere Hautfarbe, weißes Haar, geschlechtsneutral, mittlere Hautfarbe, weißes Haar
+🧑🏾‍🦳	Erwachsener, Erwachsener: mitteldunkle Hautfarbe, weißes Haar, geschlechtsneutral, mitteldunkle Hautfarbe, weißes Haar
+🧑🏿‍🦳	Erwachsener, Erwachsener: dunkle Hautfarbe, weißes Haar, dunkle Hautfarbe, geschlechtsneutral, weißes Haar
+🧑‍🦲	Erwachsener, Erwachsener: Glatze, Glatze, geschlechtsneutral
+🧑🏻‍🦲	Erwachsener, Erwachsener: helle Hautfarbe, Glatze, Glatze, geschlechtsneutral, helle Hautfarbe
+🧑🏼‍🦲	Erwachsener, Erwachsener: mittelhelle Hautfarbe, Glatze, Glatze, geschlechtsneutral, mittelhelle Hautfarbe
+🧑🏽‍🦲	Erwachsener, Erwachsener: mittlere Hautfarbe, Glatze, Glatze, geschlechtsneutral, mittlere Hautfarbe
+🧑🏾‍🦲	Erwachsener, Erwachsener: mitteldunkle Hautfarbe, Glatze, Glatze, geschlechtsneutral, mitteldunkle Hautfarbe
+🧑🏿‍🦲	Erwachsener, Erwachsener: dunkle Hautfarbe, Glatze, Glatze, dunkle Hautfarbe, geschlechtsneutral
 👨	Mann
 👨🏻	Mann, Mann: helle Hautfarbe, helle Hautfarbe
 👨🏼	Mann, Mann: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -697,6 +731,12 @@
 🤷🏽‍♀	Frau, Zweifel, gleichgültig, keine Ahnung, mittlere Hautfarbe, schulterzuckende Frau, schulterzuckende Frau: mittlere Hautfarbe
 🤷🏾‍♀	Frau, Zweifel, gleichgültig, keine Ahnung, mitteldunkle Hautfarbe, schulterzuckende Frau, schulterzuckende Frau: mitteldunkle Hautfarbe
 🤷🏿‍♀	Frau, Zweifel, dunkle Hautfarbe, gleichgültig, keine Ahnung, schulterzuckende Frau, schulterzuckende Frau: dunkle Hautfarbe
+🧑‍⚕	Arzt, Arzt/Ärztin, Gesundheitswesen, Krankenschwester, Therapeut
+🧑🏻‍⚕	Arzt, Arzt/Ärztin, Arzt/Ärztin: helle Hautfarbe, Gesundheitswesen, Krankenschwester, Therapeut, helle Hautfarbe
+🧑🏼‍⚕	Arzt, Arzt/Ärztin, Arzt/Ärztin: mittelhelle Hautfarbe, Gesundheitswesen, Krankenschwester, Therapeut, mittelhelle Hautfarbe
+🧑🏽‍⚕	Arzt, Arzt/Ärztin, Arzt/Ärztin: mittlere Hautfarbe, Gesundheitswesen, Krankenschwester, Therapeut, mittlere Hautfarbe
+🧑🏾‍⚕	Arzt, Arzt/Ärztin, Arzt/Ärztin: mitteldunkle Hautfarbe, Gesundheitswesen, Krankenschwester, Therapeut, mitteldunkle Hautfarbe
+🧑🏿‍⚕	Arzt, Arzt/Ärztin, Arzt/Ärztin: dunkle Hautfarbe, Gesundheitswesen, Krankenschwester, Therapeut, dunkle Hautfarbe
 👨‍⚕	Arzt, Arztkittel, Doktor
 👨🏻‍⚕	Arzt, Arzt: helle Hautfarbe, Arztkittel, Doktor, helle Hautfarbe
 👨🏼‍⚕	Arzt, Arzt: mittelhelle Hautfarbe, Arztkittel, Doktor, mittelhelle Hautfarbe
@@ -709,6 +749,12 @@
 👩🏽‍⚕	Arztkittel, mittlere Hautfarbe, Ärztin, Ärztin: mittlere Hautfarbe
 👩🏾‍⚕	Arztkittel, mitteldunkle Hautfarbe, Ärztin, Ärztin: mitteldunkle Hautfarbe
 👩🏿‍⚕	Arztkittel, dunkle Hautfarbe, Ärztin, Ärztin: dunkle Hautfarbe
+🧑‍🎓	Absolvent, Student, Student(in)
+🧑🏻‍🎓	Absolvent, Student, Student(in), Student(in): helle Hautfarbe, helle Hautfarbe
+🧑🏼‍🎓	Absolvent, Student, Student(in), Student(in): mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍🎓	Absolvent, Student, Student(in), Student(in): mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍🎓	Absolvent, Student, Student(in), Student(in): mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍🎓	Absolvent, Student, Student(in), Student(in): dunkle Hautfarbe, dunkle Hautfarbe
 👨‍🎓	Absolvent, Doktorhut, Student, Uni
 👨🏻‍🎓	Absolvent, Doktorhut, Student, Student: helle Hautfarbe, Uni, helle Hautfarbe
 👨🏼‍🎓	Absolvent, Doktorhut, Student, Student: mittelhelle Hautfarbe, Uni, mittelhelle Hautfarbe
@@ -721,6 +767,12 @@
 👩🏽‍🎓	Absolventin, Doktorhut, Studentin, Studentin: mittlere Hautfarbe, Uni, mittlere Hautfarbe
 👩🏾‍🎓	Absolventin, Doktorhut, Studentin, Studentin: mitteldunkle Hautfarbe, Uni, mitteldunkle Hautfarbe
 👩🏿‍🎓	Absolventin, Doktorhut, Studentin, Studentin: dunkle Hautfarbe, Uni, dunkle Hautfarbe
+🧑‍🏫	Dozent, Lehrer, Lehrer(in), Professor
+🧑🏻‍🏫	Dozent, Lehrer, Lehrer(in), Lehrer(in): helle Hautfarbe, Professor, helle Hautfarbe
+🧑🏼‍🏫	Dozent, Lehrer, Lehrer(in), Lehrer(in): mittelhelle Hautfarbe, Professor, mittelhelle Hautfarbe
+🧑🏽‍🏫	Dozent, Lehrer, Lehrer(in), Lehrer(in): mittlere Hautfarbe, Professor, mittlere Hautfarbe
+🧑🏾‍🏫	Dozent, Lehrer, Lehrer(in), Lehrer(in): mitteldunkle Hautfarbe, Professor, mitteldunkle Hautfarbe
+🧑🏿‍🏫	Dozent, Lehrer, Lehrer(in), Lehrer(in): dunkle Hautfarbe, Professor, dunkle Hautfarbe
 👨‍🏫	Dozent, Lehrer, Professor
 👨🏻‍🏫	Dozent, Lehrer, Lehrer: helle Hautfarbe, Professor, helle Hautfarbe
 👨🏼‍🏫	Dozent, Lehrer, Lehrer: mittelhelle Hautfarbe, Professor, mittelhelle Hautfarbe
@@ -733,6 +785,12 @@
 👩🏽‍🏫	Dozentin, Lehrerin, Lehrerin: mittlere Hautfarbe, Professorin, mittlere Hautfarbe
 👩🏾‍🏫	Dozentin, Lehrerin, Lehrerin: mitteldunkle Hautfarbe, Professorin, mitteldunkle Hautfarbe
 👩🏿‍🏫	Dozentin, Lehrerin, Lehrerin: dunkle Hautfarbe, Professorin, dunkle Hautfarbe
+🧑‍⚖	Richter(in), Waage
+🧑🏻‍⚖	Richter(in), Richter(in): helle Hautfarbe, Waage, helle Hautfarbe
+🧑🏼‍⚖	Richter(in), Richter(in): mittelhelle Hautfarbe, Waage, mittelhelle Hautfarbe
+🧑🏽‍⚖	Richter(in), Richter(in): mittlere Hautfarbe, Waage, mittlere Hautfarbe
+🧑🏾‍⚖	Richter(in), Richter(in): mitteldunkle Hautfarbe, Waage, mitteldunkle Hautfarbe
+🧑🏿‍⚖	Richter(in), Richter(in): dunkle Hautfarbe, Waage, dunkle Hautfarbe
 👨‍⚖	Gerechtigkeit, Recht, Richter
 👨🏻‍⚖	Gerechtigkeit, Recht, Richter, Richter: helle Hautfarbe, helle Hautfarbe
 👨🏼‍⚖	Gerechtigkeit, Recht, Richter, Richter: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -745,6 +803,12 @@
 👩🏽‍⚖	Gerechtigkeit, Recht, Richterin, Richterin: mittlere Hautfarbe, mittlere Hautfarbe
 👩🏾‍⚖	Gerechtigkeit, Recht, Richterin, Richterin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍⚖	Gerechtigkeit, Recht, Richterin, Richterin: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍🌾	Bauer, Bauer/Bäuerin, Farmer, Gärtner, Landwirt
+🧑🏻‍🌾	Bauer, Bauer/Bäuerin, Bauer/Bäuerin: helle Hautfarbe, Farmer, Gärtner, Landwirt, helle Hautfarbe
+🧑🏼‍🌾	Bauer, Bauer/Bäuerin, Bauer/Bäuerin: mittelhelle Hautfarbe, Farmer, Gärtner, Landwirt, mittelhelle Hautfarbe
+🧑🏽‍🌾	Bauer, Bauer/Bäuerin, Bauer/Bäuerin: mittlere Hautfarbe, Farmer, Gärtner, Landwirt, mittlere Hautfarbe
+🧑🏾‍🌾	Bauer, Bauer/Bäuerin, Bauer/Bäuerin: mitteldunkle Hautfarbe, Farmer, Gärtner, Landwirt, mitteldunkle Hautfarbe
+🧑🏿‍🌾	Bauer, Bauer/Bäuerin, Bauer/Bäuerin: dunkle Hautfarbe, Farmer, Gärtner, Landwirt, dunkle Hautfarbe
 👨‍🌾	Bauer, Landwirt, Ähre
 👨🏻‍🌾	Bauer, Bauer: helle Hautfarbe, Landwirt, helle Hautfarbe, Ähre
 👨🏼‍🌾	Bauer, Bauer: mittelhelle Hautfarbe, Landwirt, mittelhelle Hautfarbe, Ähre
@@ -757,6 +821,12 @@
 👩🏽‍🌾	Bäuerin, Bäuerin: mittlere Hautfarbe, Landwirtin, mittlere Hautfarbe, Ähre
 👩🏾‍🌾	Bäuerin, Bäuerin: mitteldunkle Hautfarbe, Landwirtin, mitteldunkle Hautfarbe, Ähre
 👩🏿‍🌾	Bäuerin, Bäuerin: dunkle Hautfarbe, Landwirtin, dunkle Hautfarbe, Ähre
+🧑‍🍳	Koch, Koch/Köchin
+🧑🏻‍🍳	Koch, Koch/Köchin, Koch/Köchin: helle Hautfarbe, helle Hautfarbe
+🧑🏼‍🍳	Koch, Koch/Köchin, Koch/Köchin: mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍🍳	Koch, Koch/Köchin, Koch/Köchin: mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍🍳	Koch, Koch/Köchin, Koch/Köchin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍🍳	Koch, Koch/Köchin, Koch/Köchin: dunkle Hautfarbe, dunkle Hautfarbe
 👨‍🍳	Koch, Kochen
 👨🏻‍🍳	Koch, Koch: helle Hautfarbe, Kochen, helle Hautfarbe
 👨🏼‍🍳	Koch, Koch: mittelhelle Hautfarbe, Kochen, mittelhelle Hautfarbe
@@ -769,6 +839,12 @@
 👩🏽‍🍳	Köchin, Köchin: mittlere Hautfarbe, kochen, mittlere Hautfarbe
 👩🏾‍🍳	Köchin, Köchin: mitteldunkle Hautfarbe, kochen, mitteldunkle Hautfarbe
 👩🏿‍🍳	Köchin, Köchin: dunkle Hautfarbe, dunkle Hautfarbe, kochen
+🧑‍🔧	Elektriker, Klempner, Mechaniker, Mechaniker(in)
+🧑🏻‍🔧	Elektriker, Klempner, Mechaniker, Mechaniker(in), Mechaniker(in): helle Hautfarbe, helle Hautfarbe
+🧑🏼‍🔧	Elektriker, Klempner, Mechaniker, Mechaniker(in), Mechaniker(in): mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍🔧	Elektriker, Klempner, Mechaniker, Mechaniker(in), Mechaniker(in): mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍🔧	Elektriker, Klempner, Mechaniker, Mechaniker(in), Mechaniker(in): mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍🔧	Elektriker, Klempner, Mechaniker, Mechaniker(in), Mechaniker(in): dunkle Hautfarbe, dunkle Hautfarbe
 👨‍🔧	Elektriker, Handwerker, Klempner, Mechaniker
 👨🏻‍🔧	Elektriker, Handwerker, Klempner, Mechaniker, Mechaniker: helle Hautfarbe, helle Hautfarbe
 👨🏼‍🔧	Elektriker, Handwerker, Klempner, Mechaniker, Mechaniker: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -781,6 +857,12 @@
 👩🏽‍🔧	Elektrikerin, Handwerkerin, Klempnerin, Mechanikerin, Mechanikerin: mittlere Hautfarbe, mittlere Hautfarbe
 👩🏾‍🔧	Elektrikerin, Handwerkerin, Klempnerin, Mechanikerin, Mechanikerin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍🔧	Elektrikerin, Handwerkerin, Klempnerin, Mechanikerin, Mechanikerin: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍🏭	Arbeiter, Fabrik, Fabrikarbeiter(in), Montage, industriell
+🧑🏻‍🏭	Arbeiter, Fabrik, Fabrikarbeiter(in), Fabrikarbeiter(in): helle Hautfarbe, Montage, helle Hautfarbe, industriell
+🧑🏼‍🏭	Arbeiter, Fabrik, Fabrikarbeiter(in), Fabrikarbeiter(in): mittelhelle Hautfarbe, Montage, industriell, mittelhelle Hautfarbe
+🧑🏽‍🏭	Arbeiter, Fabrik, Fabrikarbeiter(in), Fabrikarbeiter(in): mittlere Hautfarbe, Montage, industriell, mittlere Hautfarbe
+🧑🏾‍🏭	Arbeiter, Fabrik, Fabrikarbeiter(in), Fabrikarbeiter(in): mitteldunkle Hautfarbe, Montage, industriell, mitteldunkle Hautfarbe
+🧑🏿‍🏭	Arbeiter, Fabrik, Fabrikarbeiter(in), Fabrikarbeiter(in): dunkle Hautfarbe, Montage, dunkle Hautfarbe, industriell
 👨‍🏭	Fabrik, Fabrikarbeiter
 👨🏻‍🏭	Fabrik, Fabrikarbeiter, Fabrikarbeiter: helle Hautfarbe, helle Hautfarbe
 👨🏼‍🏭	Fabrik, Fabrikarbeiter, Fabrikarbeiter: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -793,6 +875,12 @@
 👩🏽‍🏭	Fabrik, Fabrikarbeiterin, Fabrikarbeiterin: mittlere Hautfarbe, mittlere Hautfarbe
 👩🏾‍🏭	Fabrik, Fabrikarbeiterin, Fabrikarbeiterin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍🏭	Fabrik, Fabrikarbeiterin, Fabrikarbeiterin: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍💼	Architekt, Business, Büroangestellte(r), Manager, Schlips und Kragen
+🧑🏻‍💼	Architekt, Business, Büroangestellte(r), Büroangestellte(r): helle Hautfarbe, Manager, Schlips und Kragen, helle Hautfarbe
+🧑🏼‍💼	Architekt, Business, Büroangestellte(r), Büroangestellte(r): mittelhelle Hautfarbe, Manager, Schlips und Kragen, mittelhelle Hautfarbe
+🧑🏽‍💼	Architekt, Business, Büroangestellte(r), Büroangestellte(r): mittlere Hautfarbe, Manager, Schlips und Kragen, mittlere Hautfarbe
+🧑🏾‍💼	Architekt, Business, Büroangestellte(r), Büroangestellte(r): mitteldunkle Hautfarbe, Manager, Schlips und Kragen, mitteldunkle Hautfarbe
+🧑🏿‍💼	Architekt, Business, Büroangestellte(r), Büroangestellte(r): dunkle Hautfarbe, Manager, Schlips und Kragen, dunkle Hautfarbe
 👨‍💼	Angestellter, Büro, Büroangestellter, Manager
 👨🏻‍💼	Angestellter, Büro, Büroangestellter, Büroangestellter: helle Hautfarbe, Manager, helle Hautfarbe
 👨🏼‍💼	Angestellter, Büro, Büroangestellter, Büroangestellter: mittelhelle Hautfarbe, Manager, mittelhelle Hautfarbe
@@ -805,6 +893,12 @@
 👩🏽‍💼	Angestellte, Büro, Büroangestellte, Büroangestellte: mittlere Hautfarbe, Mangerin, mittlere Hautfarbe
 👩🏾‍💼	Angestellte, Büro, Büroangestellte, Büroangestellte: mitteldunkle Hautfarbe, Mangerin, mitteldunkle Hautfarbe
 👩🏿‍💼	Angestellte, Büro, Büroangestellte, Büroangestellte: dunkle Hautfarbe, Mangerin, dunkle Hautfarbe
+🧑‍🔬	Biologe, Chemiker, Ingenieur, Physiker, Wissenschaftler, Wissenschaftler(in)
+🧑🏻‍🔬	Biologe, Chemiker, Ingenieur, Physiker, Wissenschaftler, Wissenschaftler(in), Wissenschaftler(in): helle Hautfarbe, helle Hautfarbe
+🧑🏼‍🔬	Biologe, Chemiker, Ingenieur, Physiker, Wissenschaftler, Wissenschaftler(in), Wissenschaftler(in): mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍🔬	Biologe, Chemiker, Ingenieur, Physiker, Wissenschaftler, Wissenschaftler(in), Wissenschaftler(in): mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍🔬	Biologe, Chemiker, Ingenieur, Physiker, Wissenschaftler, Wissenschaftler(in), Wissenschaftler(in): mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍🔬	Biologe, Chemiker, Ingenieur, Physiker, Wissenschaftler, Wissenschaftler(in), Wissenschaftler(in): dunkle Hautfarbe, dunkle Hautfarbe
 👨‍🔬	Forscher, Labor, Wissenschaftler
 👨🏻‍🔬	Forscher, Labor, Wissenschaftler, Wissenschaftler: helle Hautfarbe, helle Hautfarbe
 👨🏼‍🔬	Forscher, Labor, Wissenschaftler, Wissenschaftler: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -817,6 +911,12 @@
 👩🏽‍🔬	Forscherin, Labor, Wissenschaftlerin, Wissenschaftlerin: mittlere Hautfarbe, mittlere Hautfarbe
 👩🏾‍🔬	Forscherin, Labor, Wissenschaftlerin, Wissenschaftlerin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍🔬	Forscherin, Labor, Wissenschaftlerin, Wissenschaftlerin: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍💻	Entwickler, Erfinder, IT-Experte/IT-Expertin, Programmierer, Software, Technologe
+🧑🏻‍💻	Entwickler, Erfinder, IT-Experte/IT-Expertin, IT-Experte/IT-Expertin: helle Hautfarbe, Programmierer, Software, Technologe, helle Hautfarbe
+🧑🏼‍💻	Entwickler, Erfinder, IT-Experte/IT-Expertin, IT-Experte/IT-Expertin: mittelhelle Hautfarbe, Programmierer, Software, Technologe, mittelhelle Hautfarbe
+🧑🏽‍💻	Entwickler, Erfinder, IT-Experte/IT-Expertin, IT-Experte/IT-Expertin: mittlere Hautfarbe, Programmierer, Software, Technologe, mittlere Hautfarbe
+🧑🏾‍💻	Entwickler, Erfinder, IT-Experte/IT-Expertin, IT-Experte/IT-Expertin: mitteldunkle Hautfarbe, Programmierer, Software, Technologe, mitteldunkle Hautfarbe
+🧑🏿‍💻	Entwickler, Erfinder, IT-Experte/IT-Expertin, IT-Experte/IT-Expertin: dunkle Hautfarbe, Programmierer, Software, Technologe, dunkle Hautfarbe
 👨‍💻	Bildschirm, Computer, Entwickler, IT-Experte
 👨🏻‍💻	Bildschirm, Computer, Entwickler, IT-Experte, IT-Experte: helle Hautfarbe, helle Hautfarbe
 👨🏼‍💻	Bildschirm, Computer, Entwickler, IT-Experte, IT-Experte: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -829,6 +929,12 @@
 👩🏽‍💻	Bildschirm, Computer, Entwickler, IT-Expertin, IT-Expertin: mittlere Hautfarbe, mittlere Hautfarbe
 👩🏾‍💻	Bildschirm, Computer, Entwickler, IT-Expertin, IT-Expertin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍💻	Bildschirm, Computer, Entwickler, IT-Expertin, IT-Expertin: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍🎤	Entertainer, Rock, Schauspieler, Star, Sänger, Sänger(in)
+🧑🏻‍🎤	Entertainer, Rock, Schauspieler, Star, Sänger, Sänger(in), Sänger(in): helle Hautfarbe, helle Hautfarbe
+🧑🏼‍🎤	Entertainer, Rock, Schauspieler, Star, Sänger, Sänger(in), Sänger(in): mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍🎤	Entertainer, Rock, Schauspieler, Star, Sänger, Sänger(in), Sänger(in): mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍🎤	Entertainer, Rock, Schauspieler, Star, Sänger, Sänger(in), Sänger(in): mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍🎤	Entertainer, Rock, Schauspieler, Star, Sänger, Sänger(in), Sänger(in): dunkle Hautfarbe, dunkle Hautfarbe
 👨‍🎤	Mann, Mikrofon, Popstar, Sänger
 👨🏻‍🎤	Mann, Mikrofon, Popstar, Sänger, Sänger: helle Hautfarbe, helle Hautfarbe
 👨🏼‍🎤	Mann, Mikrofon, Popstar, Sänger, Sänger: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -841,6 +947,12 @@
 👩🏽‍🎤	Frau, Mikrofon, Popstar, Sängerin, Sängerin: mittlere Hautfarbe, mittlere Hautfarbe
 👩🏾‍🎤	Frau, Mikrofon, Popstar, Sängerin, Sängerin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍🎤	Frau, Mikrofon, Popstar, Sängerin, Sängerin: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍🎨	Künstler, Künstler(in), Palette
+🧑🏻‍🎨	Künstler, Künstler(in), Künstler(in): helle Hautfarbe, Palette, helle Hautfarbe
+🧑🏼‍🎨	Künstler, Künstler(in), Künstler(in): mittelhelle Hautfarbe, Palette, mittelhelle Hautfarbe
+🧑🏽‍🎨	Künstler, Künstler(in), Künstler(in): mittlere Hautfarbe, Palette, mittlere Hautfarbe
+🧑🏾‍🎨	Künstler, Künstler(in), Künstler(in): mitteldunkle Hautfarbe, Palette, mitteldunkle Hautfarbe
+🧑🏿‍🎨	Künstler, Künstler(in), Künstler(in): dunkle Hautfarbe, Palette, dunkle Hautfarbe
 👨‍🎨	Farbpalette, Künstler, Maler, Mann
 👨🏻‍🎨	Farbpalette, Künstler, Künstler: helle Hautfarbe, Maler, Mann, helle Hautfarbe
 👨🏼‍🎨	Farbpalette, Künstler, Künstler: mittelhelle Hautfarbe, Maler, Mann, mittelhelle Hautfarbe
@@ -853,6 +965,12 @@
 👩🏽‍🎨	Farbpalette, Frau, Künstlerin, Künstlerin: mittlere Hautfarbe, Malerin, mittlere Hautfarbe
 👩🏾‍🎨	Farbpalette, Frau, Künstlerin, Künstlerin: mitteldunkle Hautfarbe, Malerin, mitteldunkle Hautfarbe
 👩🏿‍🎨	Farbpalette, Frau, Künstlerin, Künstlerin: dunkle Hautfarbe, Malerin, dunkle Hautfarbe
+🧑‍✈	Flugzeug, Pilot, Pilot(in)
+🧑🏻‍✈	Flugzeug, Pilot, Pilot(in), Pilot(in): helle Hautfarbe, helle Hautfarbe
+🧑🏼‍✈	Flugzeug, Pilot, Pilot(in), Pilot(in): mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍✈	Flugzeug, Pilot, Pilot(in), Pilot(in): mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍✈	Flugzeug, Pilot, Pilot(in), Pilot(in): mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍✈	Flugzeug, Pilot, Pilot(in), Pilot(in): dunkle Hautfarbe, dunkle Hautfarbe
 👨‍✈	Flugzeug, Mann, Pilot
 👨🏻‍✈	Flugzeug, Mann, Pilot, Pilot: helle Hautfarbe, helle Hautfarbe
 👨🏼‍✈	Flugzeug, Mann, Pilot, Pilot: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -865,6 +983,12 @@
 👩🏽‍✈	Flugzeug, Frau, Pilotin, Pilotin: mittlere Hautfarbe, mittlere Hautfarbe
 👩🏾‍✈	Flugzeug, Frau, Pilotin, Pilotin: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍✈	Flugzeug, Frau, Pilotin, Pilotin: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍🚀	Astronaut, Astronaut(in), Rakete
+🧑🏻‍🚀	Astronaut, Astronaut(in), Astronaut(in): helle Hautfarbe, Rakete, helle Hautfarbe
+🧑🏼‍🚀	Astronaut, Astronaut(in), Astronaut(in): mittelhelle Hautfarbe, Rakete, mittelhelle Hautfarbe
+🧑🏽‍🚀	Astronaut, Astronaut(in), Astronaut(in): mittlere Hautfarbe, Rakete, mittlere Hautfarbe
+🧑🏾‍🚀	Astronaut, Astronaut(in), Astronaut(in): mitteldunkle Hautfarbe, Rakete, mitteldunkle Hautfarbe
+🧑🏿‍🚀	Astronaut, Astronaut(in), Astronaut(in): dunkle Hautfarbe, Rakete, dunkle Hautfarbe
 👨‍🚀	Astronaut, Mann, Raumfahrt, Weltraum
 👨🏻‍🚀	Astronaut, Astronaut: helle Hautfarbe, Mann, Raumfahrt, Weltraum, helle Hautfarbe
 👨🏼‍🚀	Astronaut, Astronaut: mittelhelle Hautfarbe, Mann, Raumfahrt, Weltraum, mittelhelle Hautfarbe
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	Astronautin, Astronautin: mittlere Hautfarbe, Frau, Raumfahrt, Weltraum, mittlere Hautfarbe
 👩🏾‍🚀	Astronautin, Astronautin: mitteldunkle Hautfarbe, Frau, Raumfahrt, Weltraum, mitteldunkle Hautfarbe
 👩🏿‍🚀	Astronautin, Astronautin: dunkle Hautfarbe, Frau, Raumfahrt, Weltraum, dunkle Hautfarbe
+🧑‍🚒	Feuerwehrfahrzeug, Feuerwehrmann, Feuerwehrmann/-frau
+🧑🏻‍🚒	Feuerwehrfahrzeug, Feuerwehrmann, Feuerwehrmann/-frau, Feuerwehrmann/-frau: helle Hautfarbe, helle Hautfarbe
+🧑🏼‍🚒	Feuerwehrfahrzeug, Feuerwehrmann, Feuerwehrmann/-frau, Feuerwehrmann/-frau: mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍🚒	Feuerwehrfahrzeug, Feuerwehrmann, Feuerwehrmann/-frau, Feuerwehrmann/-frau: mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍🚒	Feuerwehrfahrzeug, Feuerwehrmann, Feuerwehrmann/-frau, Feuerwehrmann/-frau: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍🚒	Feuerwehrfahrzeug, Feuerwehrmann, Feuerwehrmann/-frau, Feuerwehrmann/-frau: dunkle Hautfarbe, dunkle Hautfarbe
 👨‍🚒	Feuerwehrhelm, Feuerwehrmann, Mann
 👨🏻‍🚒	Feuerwehrhelm, Feuerwehrmann, Feuerwehrmann: helle Hautfarbe, Mann, helle Hautfarbe
 👨🏼‍🚒	Feuerwehrhelm, Feuerwehrmann, Feuerwehrmann: mittelhelle Hautfarbe, Mann, mittelhelle Hautfarbe
@@ -943,6 +1073,7 @@
 💂🏽‍♀	Buckingham Palace, Wachfrau, Wachfrau: mittlere Hautfarbe, mittlere Hautfarbe
 💂🏾‍♀	Buckingham Palace, Wachfrau, Wachfrau: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 💂🏿‍♀	Buckingham Palace, Wachfrau, Wachfrau: dunkle Hautfarbe, dunkle Hautfarbe
+🥷	Ausdauer, Kämpfer, Ninja, vermummt
 👷	Bauarbeiter, Bauarbeiter(in), Gesicht, Helm
 👷🏻	Bauarbeiter, Bauarbeiter(in), Bauarbeiter(in): helle Hautfarbe, Gesicht, Helm, helle Hautfarbe
 👷🏼	Bauarbeiter, Bauarbeiter(in), Bauarbeiter(in): mittelhelle Hautfarbe, Gesicht, Helm, mittelhelle Hautfarbe
@@ -1003,18 +1134,42 @@
 🧕🏽	Frau mit Kopftuch, Frau mit Kopftuch: mittlere Hautfarbe, Hidschāb, Kopftuch, Mantilla, Tichel, mittlere Hautfarbe
 🧕🏾	Frau mit Kopftuch, Frau mit Kopftuch: mitteldunkle Hautfarbe, Hidschāb, Kopftuch, Mantilla, Tichel, mitteldunkle Hautfarbe
 🧕🏿	Frau mit Kopftuch, Frau mit Kopftuch: dunkle Hautfarbe, Hidschāb, Kopftuch, Mantilla, Tichel, dunkle Hautfarbe
-🤵	Bräutigam, Mann, Mann im Anzug, Smoking
-🤵🏻	Bräutigam, Mann, Mann im Anzug, Mann im Anzug: helle Hautfarbe, Smoking, helle Hautfarbe
-🤵🏼	Bräutigam, Mann, Mann im Anzug, Mann im Anzug: mittelhelle Hautfarbe, Smoking, mittelhelle Hautfarbe
-🤵🏽	Bräutigam, Mann, Mann im Anzug, Mann im Anzug: mittlere Hautfarbe, Smoking, mittlere Hautfarbe
-🤵🏾	Bräutigam, Mann, Mann im Anzug, Mann im Anzug: mitteldunkle Hautfarbe, Smoking, mitteldunkle Hautfarbe
-🤵🏿	Bräutigam, Mann, Mann im Anzug, Mann im Anzug: dunkle Hautfarbe, Smoking, dunkle Hautfarbe
-👰	Braut, Braut mit Schleier, Gesicht, Hochzeit, Schleier
-👰🏻	Braut, Braut mit Schleier, Braut mit Schleier: helle Hautfarbe, Gesicht, Hochzeit, Schleier, helle Hautfarbe
-👰🏼	Braut, Braut mit Schleier, Braut mit Schleier: mittelhelle Hautfarbe, Gesicht, Hochzeit, Schleier, mittelhelle Hautfarbe
-👰🏽	Braut, Braut mit Schleier, Braut mit Schleier: mittlere Hautfarbe, Gesicht, Hochzeit, Schleier, mittlere Hautfarbe
-👰🏾	Braut, Braut mit Schleier, Braut mit Schleier: mitteldunkle Hautfarbe, Gesicht, Hochzeit, Schleier, mitteldunkle Hautfarbe
-👰🏿	Braut, Braut mit Schleier, Braut mit Schleier: dunkle Hautfarbe, Gesicht, Hochzeit, Schleier, dunkle Hautfarbe
+🤵	Bräutigam, Person, Person im Smoking, Smoking
+🤵🏻	Bräutigam, Person, Person im Smoking, Person im Smoking: helle Hautfarbe, Smoking, helle Hautfarbe
+🤵🏼	Bräutigam, Person, Person im Smoking, Person im Smoking: mittelhelle Hautfarbe, Smoking, mittelhelle Hautfarbe
+🤵🏽	Bräutigam, Person, Person im Smoking, Person im Smoking: mittlere Hautfarbe, Smoking, mittlere Hautfarbe
+🤵🏾	Bräutigam, Person, Person im Smoking, Person im Smoking: mitteldunkle Hautfarbe, Smoking, mitteldunkle Hautfarbe
+🤵🏿	Bräutigam, Person, Person im Smoking, Person im Smoking: dunkle Hautfarbe, Smoking, dunkle Hautfarbe
+🤵‍♂	Mann, Mann im Smoking, Smoking
+🤵🏻‍♂	Mann, Mann im Smoking, Mann im Smoking: helle Hautfarbe, Smoking, helle Hautfarbe
+🤵🏼‍♂	Mann, Mann im Smoking, Mann im Smoking: mittelhelle Hautfarbe, Smoking, mittelhelle Hautfarbe
+🤵🏽‍♂	Mann, Mann im Smoking, Mann im Smoking: mittlere Hautfarbe, Smoking, mittlere Hautfarbe
+🤵🏾‍♂	Mann, Mann im Smoking, Mann im Smoking: mitteldunkle Hautfarbe, Smoking, mitteldunkle Hautfarbe
+🤵🏿‍♂	Mann, Mann im Smoking, Mann im Smoking: dunkle Hautfarbe, Smoking, dunkle Hautfarbe
+🤵‍♀	Frau, Frau im Smoking, Smoking
+🤵🏻‍♀	Frau, Frau im Smoking, Frau im Smoking: helle Hautfarbe, Smoking, helle Hautfarbe
+🤵🏼‍♀	Frau, Frau im Smoking, Frau im Smoking: mittelhelle Hautfarbe, Smoking, mittelhelle Hautfarbe
+🤵🏽‍♀	Frau, Frau im Smoking, Frau im Smoking: mittlere Hautfarbe, Smoking, mittlere Hautfarbe
+🤵🏾‍♀	Frau, Frau im Smoking, Frau im Smoking: mitteldunkle Hautfarbe, Smoking, mitteldunkle Hautfarbe
+🤵🏿‍♀	Frau, Frau im Smoking, Frau im Smoking: dunkle Hautfarbe, Smoking, dunkle Hautfarbe
+👰	Braut, Hochzeit, Person, Person mit Schleier, Schleier
+👰🏻	Braut, Hochzeit, Person, Person mit Schleier, Person mit Schleier: helle Hautfarbe, Schleier, helle Hautfarbe
+👰🏼	Braut, Hochzeit, Person, Person mit Schleier, Person mit Schleier: mittelhelle Hautfarbe, Schleier, mittelhelle Hautfarbe
+👰🏽	Braut, Hochzeit, Person, Person mit Schleier, Person mit Schleier: mittlere Hautfarbe, Schleier, mittlere Hautfarbe
+👰🏾	Braut, Hochzeit, Person, Person mit Schleier, Person mit Schleier: mitteldunkle Hautfarbe, Schleier, mitteldunkle Hautfarbe
+👰🏿	Braut, Hochzeit, Person, Person mit Schleier, Person mit Schleier: dunkle Hautfarbe, Schleier, dunkle Hautfarbe
+👰‍♂	Mann, Mann mit Schleier, Schleier
+👰🏻‍♂	Mann, Mann mit Schleier, Mann mit Schleier: helle Hautfarbe, Schleier, helle Hautfarbe
+👰🏼‍♂	Mann, Mann mit Schleier, Mann mit Schleier: mittelhelle Hautfarbe, Schleier, mittelhelle Hautfarbe
+👰🏽‍♂	Mann, Mann mit Schleier, Mann mit Schleier: mittlere Hautfarbe, Schleier, mittlere Hautfarbe
+👰🏾‍♂	Mann, Mann mit Schleier, Mann mit Schleier: mitteldunkle Hautfarbe, Schleier, mitteldunkle Hautfarbe
+👰🏿‍♂	Mann, Mann mit Schleier, Mann mit Schleier: dunkle Hautfarbe, Schleier, dunkle Hautfarbe
+👰‍♀	Frau, Frau mit Schleier, Schleier
+👰🏻‍♀	Frau, Frau mit Schleier, Frau mit Schleier: helle Hautfarbe, Schleier, helle Hautfarbe
+👰🏼‍♀	Frau, Frau mit Schleier, Frau mit Schleier: mittelhelle Hautfarbe, Schleier, mittelhelle Hautfarbe
+👰🏽‍♀	Frau, Frau mit Schleier, Frau mit Schleier: mittlere Hautfarbe, Schleier, mittlere Hautfarbe
+👰🏾‍♀	Frau, Frau mit Schleier, Frau mit Schleier: mitteldunkle Hautfarbe, Schleier, mitteldunkle Hautfarbe
+👰🏿‍♀	Frau, Frau mit Schleier, Frau mit Schleier: dunkle Hautfarbe, Schleier, dunkle Hautfarbe
 🤰	Frau, schwanger, schwangere Frau
 🤰🏻	Frau, helle Hautfarbe, schwanger, schwangere Frau, schwangere Frau: helle Hautfarbe
 🤰🏼	Frau, mittelhelle Hautfarbe, schwanger, schwangere Frau, schwangere Frau: mittelhelle Hautfarbe
@@ -1027,6 +1182,24 @@
 🤱🏽	Baby, Brust, Stillen, Stillen: mittlere Hautfarbe, mittlere Hautfarbe
 🤱🏾	Baby, Brust, Stillen, Stillen: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 🤱🏿	Baby, Brust, Stillen, Stillen: dunkle Hautfarbe, dunkle Hautfarbe
+👩‍🍼	Baby, Frau, stillen, stillend, stillende Frau
+👩🏻‍🍼	Baby, Frau, helle Hautfarbe, stillen, stillend, stillende Frau, stillende Frau: helle Hautfarbe
+👩🏼‍🍼	Baby, Frau, mittelhelle Hautfarbe, stillen, stillend, stillende Frau, stillende Frau: mittelhelle Hautfarbe
+👩🏽‍🍼	Baby, Frau, mittlere Hautfarbe, stillen, stillend, stillende Frau, stillende Frau: mittlere Hautfarbe
+👩🏾‍🍼	Baby, Frau, mitteldunkle Hautfarbe, stillen, stillend, stillende Frau, stillende Frau: mitteldunkle Hautfarbe
+👩🏿‍🍼	Baby, Frau, dunkle Hautfarbe, stillen, stillend, stillende Frau, stillende Frau: dunkle Hautfarbe
+👨‍🍼	Baby, Mann, stillen, stillend, stillender Mann
+👨🏻‍🍼	Baby, Mann, helle Hautfarbe, stillen, stillend, stillender Mann, stillender Mann: helle Hautfarbe
+👨🏼‍🍼	Baby, Mann, mittelhelle Hautfarbe, stillen, stillend, stillender Mann, stillender Mann: mittelhelle Hautfarbe
+👨🏽‍🍼	Baby, Mann, mittlere Hautfarbe, stillen, stillend, stillender Mann, stillender Mann: mittlere Hautfarbe
+👨🏾‍🍼	Baby, Mann, mitteldunkle Hautfarbe, stillen, stillend, stillender Mann, stillender Mann: mitteldunkle Hautfarbe
+👨🏿‍🍼	Baby, Mann, dunkle Hautfarbe, stillen, stillend, stillender Mann, stillender Mann: dunkle Hautfarbe
+🧑‍🍼	Baby, Person, stillen, stillend, stillende Person
+🧑🏻‍🍼	Baby, Person, helle Hautfarbe, stillen, stillend, stillende Person, stillende Person: helle Hautfarbe
+🧑🏼‍🍼	Baby, Person, mittelhelle Hautfarbe, stillen, stillend, stillende Person, stillende Person: mittelhelle Hautfarbe
+🧑🏽‍🍼	Baby, Person, mittlere Hautfarbe, stillen, stillend, stillende Person, stillende Person: mittlere Hautfarbe
+🧑🏾‍🍼	Baby, Person, mitteldunkle Hautfarbe, stillen, stillend, stillende Person, stillende Person: mitteldunkle Hautfarbe
+🧑🏿‍🍼	Baby, Person, dunkle Hautfarbe, stillen, stillend, stillende Person, stillende Person: dunkle Hautfarbe
 👼	Engel, Gesicht, Märchen, Putte
 👼🏻	Engel, Gesicht, Märchen, Putte, Putte: helle Hautfarbe, helle Hautfarbe
 👼🏼	Engel, Gesicht, Märchen, Putte, Putte: mittelhelle Hautfarbe, mittelhelle Hautfarbe
@@ -1045,6 +1218,12 @@
 🤶🏽	Weihnachten, Weihnachtsfrau, Weihnachtsfrau: mittlere Hautfarbe, mittlere Hautfarbe
 🤶🏾	Weihnachten, Weihnachtsfrau, Weihnachtsfrau: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 🤶🏿	Weihnachten, Weihnachtsfrau, Weihnachtsfrau: dunkle Hautfarbe, dunkle Hautfarbe
+🧑‍🎄	Weihnachten, Weihnachtsperson
+🧑🏻‍🎄	Weihnachten, Weihnachtsperson, Weihnachtsperson: helle Hautfarbe, helle Hautfarbe
+🧑🏼‍🎄	Weihnachten, Weihnachtsperson, Weihnachtsperson: mittelhelle Hautfarbe, mittelhelle Hautfarbe
+🧑🏽‍🎄	Weihnachten, Weihnachtsperson, Weihnachtsperson: mittlere Hautfarbe, mittlere Hautfarbe
+🧑🏾‍🎄	Weihnachten, Weihnachtsperson, Weihnachtsperson: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏿‍🎄	Weihnachten, Weihnachtsperson, Weihnachtsperson: dunkle Hautfarbe, dunkle Hautfarbe
 🦸	Comic, Held, Superheld, Superkraft, gut, Übermensch
 🦸🏻	Comic, Held, Held: helle Hautfarbe, Superheld, Superkraft, gut, helle Hautfarbe, Übermensch
 🦸🏼	Comic, Held, Held: mittelhelle Hautfarbe, Superheld, Superkraft, gut, mittelhelle Hautfarbe, Übermensch
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	Frau, kniend, kniende Frau, kniende Frau: mittlere Hautfarbe, mittlere Hautfarbe
 🧎🏾‍♀	Frau, kniend, kniende Frau, kniende Frau: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 🧎🏿‍♀	Frau, dunkle Hautfarbe, kniend, kniende Frau, kniende Frau: dunkle Hautfarbe
+🧑‍🦯	Barrierefreiheit, Person mit Gehstock, blind
+🧑🏻‍🦯	Barrierefreiheit, Person mit Gehstock, Person mit Gehstock: helle Hautfarbe, blind, helle Hautfarbe
+🧑🏼‍🦯	Barrierefreiheit, Person mit Gehstock, Person mit Gehstock: mittelhelle Hautfarbe, blind, mittelhelle Hautfarbe
+🧑🏽‍🦯	Barrierefreiheit, Person mit Gehstock, Person mit Gehstock: mittlere Hautfarbe, blind, mittlere Hautfarbe
+🧑🏾‍🦯	Barrierefreiheit, Person mit Gehstock, Person mit Gehstock: mitteldunkle Hautfarbe, blind, mitteldunkle Hautfarbe
+🧑🏿‍🦯	Barrierefreiheit, Person mit Gehstock, Person mit Gehstock: dunkle Hautfarbe, blind, dunkle Hautfarbe
 👨‍🦯	Barrierefreiheit, Mann, Mann mit Gehstock, blind, sehbehindert
 👨🏻‍🦯	Barrierefreiheit, Mann, Mann mit Gehstock, Mann mit Gehstock: helle Hautfarbe, blind, helle Hautfarbe, sehbehindert
 👨🏼‍🦯	Barrierefreiheit, Mann, Mann mit Gehstock, Mann mit Gehstock: mittelhelle Hautfarbe, blind, mittelhelle Hautfarbe, sehbehindert
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	Barrierefreiheit, Frau, Frau mit Gehstock, Frau mit Gehstock: mittlere Hautfarbe, blind, mittlere Hautfarbe
 👩🏾‍🦯	Barrierefreiheit, Frau, Frau mit Gehstock, Frau mit Gehstock: mitteldunkle Hautfarbe, blind, mitteldunkle Hautfarbe
 👩🏿‍🦯	Barrierefreiheit, Frau, Frau mit Gehstock, Frau mit Gehstock: dunkle Hautfarbe, blind, dunkle Hautfarbe
+🧑‍🦼	Barrierefreiheit, Person in motorisiertem Rollstuhl, Rollstuhl
+🧑🏻‍🦼	Barrierefreiheit, Person in motorisiertem Rollstuhl, Person in motorisiertem Rollstuhl: helle Hautfarbe, Rollstuhl, helle Hautfarbe
+🧑🏼‍🦼	Barrierefreiheit, Person in motorisiertem Rollstuhl, Person in motorisiertem Rollstuhl: mittelhelle Hautfarbe, Rollstuhl, mittelhelle Hautfarbe
+🧑🏽‍🦼	Barrierefreiheit, Person in motorisiertem Rollstuhl, Person in motorisiertem Rollstuhl: mittlere Hautfarbe, Rollstuhl, mittlere Hautfarbe
+🧑🏾‍🦼	Barrierefreiheit, Person in motorisiertem Rollstuhl, Person in motorisiertem Rollstuhl: mitteldunkle Hautfarbe, Rollstuhl, mitteldunkle Hautfarbe
+🧑🏿‍🦼	Barrierefreiheit, Person in motorisiertem Rollstuhl, Person in motorisiertem Rollstuhl: dunkle Hautfarbe, Rollstuhl, dunkle Hautfarbe
 👨‍🦼	Barrierefreiheit, Mann, Mann in elektrischem Rollstuhl, Rollstuhl
 👨🏻‍🦼	Barrierefreiheit, Mann, Mann in elektrischem Rollstuhl, Mann in elektrischem Rollstuhl: helle Hautfarbe, Rollstuhl, helle Hautfarbe
 👨🏼‍🦼	Barrierefreiheit, Mann, Mann in elektrischem Rollstuhl, Mann in elektrischem Rollstuhl: mittelhelle Hautfarbe, Rollstuhl, mittelhelle Hautfarbe
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	Barrierefreiheit, Frau, Frau in elektrischem Rollstuhl, Frau in elektrischem Rollstuhl: mittlere Hautfarbe, Rollstuhl, mittlere Hautfarbe
 👩🏾‍🦼	Barrierefreiheit, Frau, Frau in elektrischem Rollstuhl, Frau in elektrischem Rollstuhl: mitteldunkle Hautfarbe, Rollstuhl, mitteldunkle Hautfarbe
 👩🏿‍🦼	Barrierefreiheit, Frau, Frau in elektrischem Rollstuhl, Frau in elektrischem Rollstuhl: dunkle Hautfarbe, Rollstuhl, dunkle Hautfarbe
+🧑‍🦽	Barrierefreiheit, Person in manuellem Rollstuhl, Rollstuhl
+🧑🏻‍🦽	Barrierefreiheit, Person in manuellem Rollstuhl, Person in manuellem Rollstuhl: helle Hautfarbe, Rollstuhl, helle Hautfarbe
+🧑🏼‍🦽	Barrierefreiheit, Person in manuellem Rollstuhl, Person in manuellem Rollstuhl: mittelhelle Hautfarbe, Rollstuhl, mittelhelle Hautfarbe
+🧑🏽‍🦽	Barrierefreiheit, Person in manuellem Rollstuhl, Person in manuellem Rollstuhl: mittlere Hautfarbe, Rollstuhl, mittlere Hautfarbe
+🧑🏾‍🦽	Barrierefreiheit, Person in manuellem Rollstuhl, Person in manuellem Rollstuhl: mitteldunkle Hautfarbe, Rollstuhl, mitteldunkle Hautfarbe
+🧑🏿‍🦽	Barrierefreiheit, Person in manuellem Rollstuhl, Person in manuellem Rollstuhl: dunkle Hautfarbe, Rollstuhl, dunkle Hautfarbe
 👨‍🦽	Barrierefreiheit, Mann, Mann in manuellem Rollstuhl, Rollstuhl
 👨🏻‍🦽	Barrierefreiheit, Mann, Mann in manuellem Rollstuhl, Mann in manuellem Rollstuhl: helle Hautfarbe, Rollstuhl, helle Hautfarbe
 👨🏼‍🦽	Barrierefreiheit, Mann, Mann in manuellem Rollstuhl, Mann in manuellem Rollstuhl: mittelhelle Hautfarbe, Rollstuhl, mittelhelle Hautfarbe
@@ -1643,15 +1840,25 @@
 🛌🏿	Bett, dunkle Hautfarbe, im Bett liegende Person, im Bett liegende Person: dunkle Hautfarbe, schlafen
 🧑‍🤝‍🧑	Hände, Hände halten, Paar, sich an den Händen haltende Personen
 🧑🏻‍🤝‍🧑🏻	Hände, Hände halten, Paar, helle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: helle Hautfarbe
+🧑🏻‍🤝‍🧑🏼	Hände, Hände halten, Paar, helle Hautfarbe, mittelhelle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: helle Hautfarbe, mittelhelle Hautfarbe
+🧑🏻‍🤝‍🧑🏽	Hände, Hände halten, Paar, helle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: helle Hautfarbe, mittlere Hautfarbe
+🧑🏻‍🤝‍🧑🏾	Hände, Hände halten, Paar, helle Hautfarbe, mitteldunkle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: helle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏻‍🤝‍🧑🏿	Hände, Hände halten, Paar, dunkle Hautfarbe, helle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: helle Hautfarbe, dunkle Hautfarbe
 🧑🏼‍🤝‍🧑🏻	Hände, Hände halten, Paar, helle Hautfarbe, mittelhelle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittelhelle Hautfarbe, helle Hautfarbe
 🧑🏼‍🤝‍🧑🏼	Hände, Hände halten, Paar, mittelhelle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittelhelle Hautfarbe
+🧑🏼‍🤝‍🧑🏽	Hände, Hände halten, Paar, mittelhelle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittelhelle Hautfarbe, mittlere Hautfarbe
+🧑🏼‍🤝‍🧑🏾	Hände, Hände halten, Paar, mitteldunkle Hautfarbe, mittelhelle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittelhelle Hautfarbe, mitteldunkle Hautfarbe
+🧑🏼‍🤝‍🧑🏿	Hände, Hände halten, Paar, dunkle Hautfarbe, mittelhelle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittelhelle Hautfarbe, dunkle Hautfarbe
 🧑🏽‍🤝‍🧑🏻	Hände, Hände halten, Paar, helle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittlere Hautfarbe, helle Hautfarbe
 🧑🏽‍🤝‍🧑🏼	Hände, Hände halten, Paar, mittelhelle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittlere Hautfarbe, mittelhelle Hautfarbe
 🧑🏽‍🤝‍🧑🏽	Hände, Hände halten, Paar, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittlere Hautfarbe
+🧑🏽‍🤝‍🧑🏾	Hände, Hände halten, Paar, mitteldunkle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittlere Hautfarbe, mitteldunkle Hautfarbe
+🧑🏽‍🤝‍🧑🏿	Hände, Hände halten, Paar, dunkle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mittlere Hautfarbe, dunkle Hautfarbe
 🧑🏾‍🤝‍🧑🏻	Hände, Hände halten, Paar, helle Hautfarbe, mitteldunkle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mitteldunkle Hautfarbe, helle Hautfarbe
 🧑🏾‍🤝‍🧑🏼	Hände, Hände halten, Paar, mitteldunkle Hautfarbe, mittelhelle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mitteldunkle Hautfarbe, mittelhelle Hautfarbe
 🧑🏾‍🤝‍🧑🏽	Hände, Hände halten, Paar, mitteldunkle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mitteldunkle Hautfarbe, mittlere Hautfarbe
 🧑🏾‍🤝‍🧑🏾	Hände, Hände halten, Paar, mitteldunkle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mitteldunkle Hautfarbe
+🧑🏾‍🤝‍🧑🏿	Hände, Hände halten, Paar, dunkle Hautfarbe, mitteldunkle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: mitteldunkle Hautfarbe, dunkle Hautfarbe
 🧑🏿‍🤝‍🧑🏻	Hände, Hände halten, Paar, dunkle Hautfarbe, helle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: dunkle Hautfarbe, helle Hautfarbe
 🧑🏿‍🤝‍🧑🏼	Hände, Hände halten, Paar, dunkle Hautfarbe, mittelhelle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: dunkle Hautfarbe, mittelhelle Hautfarbe
 🧑🏿‍🤝‍🧑🏽	Hände, Hände halten, Paar, dunkle Hautfarbe, mittlere Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: dunkle Hautfarbe, mittlere Hautfarbe
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	Hände, Hände halten, Paar, dunkle Hautfarbe, sich an den Händen haltende Personen, sich an den Händen haltende Personen: dunkle Hautfarbe
 👭	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen
 👭🏻	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: helle Hautfarbe
+👩🏻‍🤝‍👩🏼	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: helle Hautfarbe, mittelhelle Hautfarbe, mittelhelle Hautfarbe
+👩🏻‍🤝‍👩🏽	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: helle Hautfarbe, mittlere Hautfarbe, mittlere Hautfarbe
+👩🏻‍🤝‍👩🏾	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: helle Hautfarbe, mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+👩🏻‍🤝‍👩🏿	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, dunkle Hautfarbe, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: helle Hautfarbe, dunkle Hautfarbe
 👩🏼‍🤝‍👩🏻	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: mittelhelle Hautfarbe, helle Hautfarbe, mittelhelle Hautfarbe
 👭🏼	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mittelhelle Hautfarbe, mittelhelle Hautfarbe
+👩🏼‍🤝‍👩🏽	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mittelhelle Hautfarbe, mittlere Hautfarbe, mittelhelle Hautfarbe, mittlere Hautfarbe
+👩🏼‍🤝‍👩🏾	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mittelhelle Hautfarbe, mitteldunkle Hautfarbe, mitteldunkle Hautfarbe, mittelhelle Hautfarbe
+👩🏼‍🤝‍👩🏿	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, dunkle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: mittelhelle Hautfarbe, dunkle Hautfarbe, mittelhelle Hautfarbe
 👩🏽‍🤝‍👩🏻	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: mittlere Hautfarbe, helle Hautfarbe, mittlere Hautfarbe
 👩🏽‍🤝‍👩🏼	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mittlere Hautfarbe, mittelhelle Hautfarbe, mittelhelle Hautfarbe, mittlere Hautfarbe
 👭🏽	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mittlere Hautfarbe, mittlere Hautfarbe
+👩🏽‍🤝‍👩🏾	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mittlere Hautfarbe, mitteldunkle Hautfarbe, mitteldunkle Hautfarbe, mittlere Hautfarbe
+👩🏽‍🤝‍👩🏿	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, dunkle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: mittlere Hautfarbe, dunkle Hautfarbe, mittlere Hautfarbe
 👩🏾‍🤝‍👩🏻	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: mitteldunkle Hautfarbe, helle Hautfarbe, mitteldunkle Hautfarbe
 👩🏾‍🤝‍👩🏼	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mitteldunkle Hautfarbe, mittelhelle Hautfarbe, mitteldunkle Hautfarbe, mittelhelle Hautfarbe
 👩🏾‍🤝‍👩🏽	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mitteldunkle Hautfarbe, mittlere Hautfarbe, mitteldunkle Hautfarbe, mittlere Hautfarbe
 👭🏾	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, händchenhaltende Frauen, händchenhaltende Frauen: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+👩🏾‍🤝‍👩🏿	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, dunkle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: mitteldunkle Hautfarbe, dunkle Hautfarbe, mitteldunkle Hautfarbe
 👩🏿‍🤝‍👩🏻	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, dunkle Hautfarbe, helle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: dunkle Hautfarbe, helle Hautfarbe
 👩🏿‍🤝‍👩🏼	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, dunkle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: dunkle Hautfarbe, mittelhelle Hautfarbe, mittelhelle Hautfarbe
 👩🏿‍🤝‍👩🏽	Frauen, Händchen halten, Paar, Pärchen aus Frau und Frau, dunkle Hautfarbe, händchenhaltende Frauen, händchenhaltende Frauen: dunkle Hautfarbe, mittlere Hautfarbe, mittlere Hautfarbe
@@ -1701,15 +1918,25 @@
 👫🏿	Frau, Händchen halten, Mann, Mann und Frau halten Hände, Mann und Frau halten Hände: dunkle Hautfarbe, Paar, Pärchen aus Frau und Mann, dunkle Hautfarbe
 👬	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer
 👬🏻	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: helle Hautfarbe
+👨🏻‍🤝‍👨🏼	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: helle Hautfarbe, mittelhelle Hautfarbe, mittelhelle Hautfarbe
+👨🏻‍🤝‍👨🏽	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: helle Hautfarbe, mittlere Hautfarbe, mittlere Hautfarbe
+👨🏻‍🤝‍👨🏾	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: helle Hautfarbe, mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+👨🏻‍🤝‍👨🏿	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, dunkle Hautfarbe, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: helle Hautfarbe, dunkle Hautfarbe
 👨🏼‍🤝‍👨🏻	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: mittelhelle Hautfarbe, helle Hautfarbe, mittelhelle Hautfarbe
 👬🏼	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mittelhelle Hautfarbe, mittelhelle Hautfarbe
+👨🏼‍🤝‍👨🏽	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mittelhelle Hautfarbe, mittlere Hautfarbe, mittelhelle Hautfarbe, mittlere Hautfarbe
+👨🏼‍🤝‍👨🏾	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mittelhelle Hautfarbe, mitteldunkle Hautfarbe, mitteldunkle Hautfarbe, mittelhelle Hautfarbe
+👨🏼‍🤝‍👨🏿	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, dunkle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: mittelhelle Hautfarbe, dunkle Hautfarbe, mittelhelle Hautfarbe
 👨🏽‍🤝‍👨🏻	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: mittlere Hautfarbe, helle Hautfarbe, mittlere Hautfarbe
 👨🏽‍🤝‍👨🏼	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mittlere Hautfarbe, mittelhelle Hautfarbe, mittelhelle Hautfarbe, mittlere Hautfarbe
 👬🏽	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mittlere Hautfarbe, mittlere Hautfarbe
+👨🏽‍🤝‍👨🏾	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mittlere Hautfarbe, mitteldunkle Hautfarbe, mitteldunkle Hautfarbe, mittlere Hautfarbe
+👨🏽‍🤝‍👨🏿	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, dunkle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: mittlere Hautfarbe, dunkle Hautfarbe, mittlere Hautfarbe
 👨🏾‍🤝‍👨🏻	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: mitteldunkle Hautfarbe, helle Hautfarbe, mitteldunkle Hautfarbe
 👨🏾‍🤝‍👨🏼	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mitteldunkle Hautfarbe, mittelhelle Hautfarbe, mitteldunkle Hautfarbe, mittelhelle Hautfarbe
 👨🏾‍🤝‍👨🏽	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mitteldunkle Hautfarbe, mittlere Hautfarbe, mitteldunkle Hautfarbe, mittlere Hautfarbe
 👬🏾	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, händchenhaltende Männer, händchenhaltende Männer: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
+👨🏾‍🤝‍👨🏿	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, dunkle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: mitteldunkle Hautfarbe, dunkle Hautfarbe, mitteldunkle Hautfarbe
 👨🏿‍🤝‍👨🏻	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, dunkle Hautfarbe, helle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: dunkle Hautfarbe, helle Hautfarbe
 👨🏿‍🤝‍👨🏼	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, dunkle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: dunkle Hautfarbe, mittelhelle Hautfarbe, mittelhelle Hautfarbe
 👨🏿‍🤝‍👨🏽	Händchen halten, Männer, Paar, Pärchen aus Mann und Mann, dunkle Hautfarbe, händchenhaltende Männer, händchenhaltende Männer: dunkle Hautfarbe, mittlere Hautfarbe, mittlere Hautfarbe
@@ -1752,6 +1979,7 @@
 🗣️	Gesicht, Kopf, Silhouette, sprechen, sprechend, sprechender Kopf
 👤	Büste, Person, Silhouette einer Büste
 👥	Büsten, Personen, Silhouette mehrerer Büsten
+🫂	Danke, Hallo, Tschüss, Umarmung, sich umarmende Personen
 👣	Abdruck, Fuß, Fußabdruck, Fußabdrücke
 🦰	Rotschopf, rote Haare, rotes Haar, rothaarig
 🦱	Afro, Lockenkopf, lockig, lockiges Haar
@@ -1771,6 +1999,7 @@
 🦝	Waschbär, neugierig
 🐱	Gesicht, Katze, Katzengesicht, Tier
 🐈️	Haustier, Katze, Tier
+🐈‍⬛	Katze, Pech, Unglück, schwarz, schwarze Katze
 🦁	Gesicht, Löwe, Löwengesicht, Sternzeichen, Tierkreis
 🐯	Gesicht, Tier, Tiger, Tigergesicht
 🐅	Tier, Tiger
@@ -1780,6 +2009,7 @@
 🦄	Einhorn, Einhorngesicht, Gesicht
 🦓	Streifen, Zebra
 🦌	Gesicht, Hirsch, Tier
+🦬	Bison, Büffel, Herde, Wisent
 🐮	Gesicht, Kuh, Kuhgesicht, Tier
 🐂	Ochse, Sternzeichen, Stier, Tier, Tierkreis
 🐃	Büffel, Tier, Wasser, Wasserbüffel
@@ -1796,6 +2026,7 @@
 🦙	Alpaca, Lama, Wolle
 🦒	Flecken, Giraffe
 🐘	Elefant, Tier
+🦣	Aussterben, Mammut, Stoßzahn, groß, wollig
 🦏	Nashorn, Rhinozeros, Tier
 🦛	Hippo, Nilpferd
 🐭	Gesicht, Maus, Mäusegesicht, Tier
@@ -1805,9 +2036,11 @@
 🐰	Gesicht, Hase, Hasengesicht, Tier
 🐇	Hase, Kaninchen, Tier
 🐿️	Streifenhörnchen, Tier
+🦫	Biber, Damm
 🦔	Igel, stachelig
 🦇	Fledermaus, Tier, Vampir
 🐻	Bär, Bärengesicht, Gesicht, Tier
+🐻‍❄	Arktis, Eisbär, Nordpol, weiß
 🐨	Koala, Koalabär, Tier
 🐼	Gesicht, Panda, Pandabär, Pandagesicht, Tier
 🦥	Faultier, faul, langsam
@@ -1829,6 +2062,8 @@
 🦆	Ente, Vogel
 🦢	Schwan, Vogel, hässliches Entlein
 🦉	Eule, Vogel, weise
+🦤	Aussterben, Dodo, Mauritius, groß
+🪶	Feder, Federn, fliegen, leicht
 🦩	Flamingo, Tropen, farbenfroh, farbfroh, tropisch
 🦚	Pfau, Vogel, stolz, stolzieren
 🦜	Papagei, Pirat, Vogel, Wiederholen
@@ -1844,6 +2079,7 @@
 🐳	Tier, Wal, blasender Wal
 🐋	Tier, Wal
 🐬	Delfin, Tier
+🦭	Seehund, Seelöwe
 🐟️	Fisch, Fische, Sternzeichen, Tier, Tierkreis
 🐠	Fisch, Tier, Tropenfisch
 🐡	Fisch, Kugelfisch, Tier
@@ -1855,12 +2091,16 @@
 🐛	Insekt, Raupe, Tier
 🐜	Ameise, Insekt, Tier
 🐝	Biene, Honigbiene, Hummel, Tier
+🪲	Insekt, Käfer
 🐞	Glückskäfer, Käfer, Marienkäfer, Tier
 🦗	Grille, Heuschrecke
+🪳	Insekt, Kakerlake, Schabe
 🕷️	Insekt, Spinne, Tier
 🕸️	Netz, Spinne, Spinnennetz
 🦂	Skorpion, Sternzeichen, Tierkreis
 🦟	Fieber, Insekt, Malaria, Moskito
+🪰	Fliege, Krankheit, Made, Pest, verfaulen
+🪱	Parasit, Regenwurm, Ringelwurm, Wurm
 🦠	Amöbe, Bakterie, Einzeller, Mikrobe
 💐	Blumen, Blumenstrauß, Bouquet
 🌸	Blume, Blüte, Kirschblüte, Kirsche, Pflanze
@@ -1873,6 +2113,7 @@
 🌼	Blume, Blüte, Pflanze, gelbe Blüte
 🌷	Blume, Blüte, Pflanze, Tulpe
 🌱	Spross, junge Pflanze
+🪴	Haus, Pflanze, Topfpflanze, langweilig, nutzlos, pflegen, wachsen
 🌲	Baum, Nadelbaum, Pflanze
 🌳	Baum, Laub, Laubbaum, Pflanze
 🌴	Baum, Palme, Pflanze
@@ -1898,8 +2139,10 @@
 🍑	Frucht, Obst, Pfirsich
 🍒	Frucht, Kirsche, Kirschen, Obst
 🍓	Beere, Erdbeere, Frucht, Obst
+🫐	Beere, Blaubeere, Blaubeeren, Heidelbeere, blau
 🥝	Frucht, Kiwi, Obst
 🍅	Gemüse, Tomate
+🫒	Lebensmittel, Olive
 🥥	Kokosnuss, Palme, Piña Colada
 🥑	Avocado, Frucht
 🍆	Aubergine, Gemüse
@@ -1907,6 +2150,7 @@
 🥕	Gemüse, Karotte, Mohrrübe, Möhre
 🌽	Mais, Maiskolben
 🌶️	Chili, Paprika, Peperoni, Pfeffer, Pflanze, scharf
+🫑	Gemüse, Gemüsepaprika, Paprika
 🥒	Essen, Gemüse, Gurke
 🥬	Gemüse, Grünzeug, Kohl, Salat, Spinat
 🥦	Brokkoli, Gemüsekohl
@@ -1918,6 +2162,7 @@
 🍞	Brot, Brotlaib, Laib Brot
 🥐	Croissant, Frühstück, Frühstückshörnchen, französisch
 🥖	Baguette, Frühstück, französisch
+🫓	Arepa, Fladenbrot, Lavasch, Naan, Pita
 🥨	Brezel, gedreht
 🥯	Backwaren, Bagel, Bäckerei
 🥞	Eierpfannkuchen, Essen, Pfannkuchen
@@ -1934,12 +2179,14 @@
 🥪	Brot, Sandwich
 🌮	Taco, mexikanisch
 🌯	Burrito, mexikanisch
+🫔	Tamale, eingewickelt, mexikanisch
 🥙	Döner, Döner Kebab, Falafel, Wrap
 🧆	Bällchen, Falafel, Kichererbsen
 🥚	Ei, Frühstück, Frühstücksei
 🍳	Kochen, Pfanne, Spiegelei in Bratpfanne
 🥘	Essen, Paella, Pfannengericht, Reispfanne
 🍲	Eintopf, Gericht, Topf mit Essen
+🫕	Fondue, Käse, Schokolade, Topf, geschmolzen, schweizerisch
 🥣	Cerealien, Frühstück, Reisbrei, Schüssel mit Löffel
 🥗	Essen, Salat
 🍿	Popcorn, Snack
@@ -1985,6 +2232,7 @@
 🍼	Baby, Babyflasche, Fläschchen, Kind, Milch, trinken
 🥛	Getränk, Glas, Glas Milch, Milch
 ☕️	Getränk, Heißgetränk, Kaffee, Tee, dampfend, heiß, trinken
+🫖	Kanne, Tee, Teekanne, trinken
 🍵	Tee, Teetasse, Teetasse ohne Henkel
 🍶	Flasche, Getränk, Sake, Sake-Flasche und -tasse, Tasse, trinken
 🍾	Champagner, Flasche, Flasche mit knallendem Korken, Korken, Sekt, trinken
@@ -1996,6 +2244,7 @@
 🥂	Getränk, Sekt, Sektgläser, anstoßen, feiern
 🥃	Bar, Trinkglas, Whiskey
 🥤	Becher mit Strohhalm, Saft, Selters
+🧋	Blase, Bubble Tea, Milch, Perle, Tee
 🧃	Saftpackung, Trinkpäckchen
 🧉	Getränk, Mate-Tee
 🧊	Eisberg, Eiswürfel, kalt
@@ -2025,6 +2274,9 @@
 🏛️	Gebäude, antik, antikes Gebäude, klassizistisch
 🏗️	Bau, Kran, bauen
 🧱	Klinker, Mauerwerk, Wand, Ziegel, Ziegelstein
+🪨	Felsen, Stein
+🪵	Feuerholz, Holz, Holzscheite
+🛖	Haus, Hütte, Jurte, Rundhaus
 🏘️	Gebäude, Haus, Häuser, Wohnhaus, Wohnhäuser, Wohnsiedlung
 🏚️	Gebäude, Haus, heruntergekommen, verfallen, verfallenes Haus, verlassen
 🏠️	Gebäude, Haus, Zuhause
@@ -2092,6 +2344,7 @@
 🚗	Auto, Fahrzeug
 🚘️	Auto, Automobil, Fahrzeug, Vorderansicht Auto
 🚙	Wohnmobil, verreisen
+🛻	Laster, Lieferwagen, Pick-up
 🚚	LKW, Lastwagen, Lieferwagen
 🚛	LKW, Lastwagen, Sattelzug
 🚜	Landwirtschaft, Traktor, Trecker
@@ -2104,6 +2357,7 @@
 🚲️	Fahrrad, Rad
 🛴	Tretroller
 🛹	Skateboard, Skateboard fahren
+🛼	Rollen, Rollschuh, Schuh
 🚏	Bus, Bushaltestelle, Haltestelle
 🛣️	Autobahn, Schnellstraße
 🛤️	Bahngleis, Schienen
@@ -2274,6 +2528,7 @@
 🪁	Drachen, fliegen, hochfliegen
 🎱	8-Ball, Billardkugel, Kugel, Spiel
 🔮	Kristallkugel, Wahrsager
+🪄	Hexe, Zauberei, Zauberer, Zauberin, Zauberstab
 🧿	Glücksbringer, Nazar, Nazar-Amulett, Talisman
 🎮️	Gamepad, Gaming, Videospiel
 🕹️	Gaming, Joystick, Videospiel
@@ -2281,6 +2536,8 @@
 🎲	Spiel, Spielwürfel, Würfel
 🧩	Puzzle, Puzzlestück, Puzzleteil
 🧸	Kuscheltier, Plüschteddy, Plüschtier, Spielzeug, Teddybär
+🪅	Feier, Party, Piñata
+🪆	Matroschka, Puppe, Russland
 ♠️	Kartenspiel, Pik
 ♥️	Herz, Kartenspiel
 ♦️	Karo, Kartenspiel
@@ -2293,7 +2550,9 @@
 🖼️	Bild, Gemälde, Kunst, Rahmen, Zeichnung, gerahmtes Bild, malen
 🎨	Farben, Kunst, Künstler, Mischpalette, Palette
 🧵	Faden, Nadel, Nähen, Zwirn
+🪡	Nadel, Nähnadel, Nähte, Stiche, nähen, schneidern, sticken
 🧶	Häkeln, Stricken, Wolle, Wollknäuel
+🪢	Knoten, Schnur, Seil, binden, zusammendrehen
 👓️	Accessoire, Brille
 🕶️	Augen, Brille, Sonnenbrille, dunkel
 🥽	Augenschutz, Schutzbrille, Schweißen, Schwimmen
@@ -2319,6 +2578,7 @@
 👝	Accessoire, Clutch, Tasche
 🛍️	Einkaufen, Einkaufstüten, Shopping, einkaufen, shoppen
 🎒	Ranzen, Rucksack, Schule, Schulranzen, Tornister
+🩴	Zehensandale, Zehensandalen
 👞	Herren, Herrenschuh, Schuh
 👟	Schuh, Sneaker, Sportschuh, sportlich
 🥾	Camping, Wandern, Wanderstiefel, Wanderung
@@ -2332,6 +2592,7 @@
 🎩	Hut, Kopfbedeckung, Zylinder, Zylinderhut
 🎓️	Abschlussfeier, Doktorhut
 🧢	Baseballkappe, Baseballmütze, Schirmkappe
+🪖	Helm, Kämpfer, Militär, Militärhelm, Soldat
 ⛑️	Helm, Helm mit weißem Kreuz, Hilfe, Rettungshelm, bergen, retten
 📿	Gebet, Gebetskette, Kette, Religion, Rosenkranz
 💄	Kosmetik, Lippenstift, Make-up, Schminke
@@ -2356,12 +2617,14 @@
 🎧️	Kopfhörer, Musik, Unterhaltung
 📻️	Musik, Radio
 🎷	Instrument, Musik, Musikinstrument, Saxofon
+🪗	Akkordeon, Akkordeons, Concertina, Quetschkommode, Quetschkommoden, Ziehharmonika, Ziehharmonikas
 🎸	Gitarre, Instrument, Musik, Musikinstrument
 🎹	Instrument, Klaviatur, Musik, Musikinstrument, Tastatur, Tasten
 🎺	Instrument, Musik, Musikinstrument, Trompete
 🎻	Geige, Instrument, Musik, Musikinstrument
 🪕	Banjo, Musik, Streichinstrument
 🥁	Trommel, Trommelstöcke
+🪘	Conga, Rhythmus, afrikanische Trommel
 📱	Handy, Mobiltelefon, Smartphone
 📲	Anruf, Mobiltelefon, Mobiltelefon mit Pfeil, Pfeil
 ☎️	Festnetz, Telefon
@@ -2415,6 +2678,7 @@
 🔖	Lesen, Lesezeichen
 🏷️	Etikett, Label, Marke
 💰️	Geld, Geldsack, Sack
+🪙	Geld, Gold, Metall, Münze, Schatz, Silber
 💴	Geld, Geldschein, Yen, Yen-Banknote
 💵	Dollar, Dollar-Banknote, Geld, Geldschein
 💶	Euro, Euro-Banknote, Geld, Geldschein
@@ -2423,8 +2687,6 @@
 💳️	Guthaben, Karte, Kreditkarte
 🧾	Beleg, Belege, Buchhaltung, Rechnung, Rechnungslegung
 💹	Diagramm, Markt, steigender Trend mit Yen-Zeichen
-💱	Geld, Geldwechsel, Wechsel, Währung
-💲	Dollar, Dollarzeichen, Geld, Währung
 ✉️	Brief, Briefumschlag, E-Mail
 📧	Brief, E-Mail, E-Mail-Symbol
 📨	E-Mail, eingehender Briefumschlag, empfangen
@@ -2482,9 +2744,12 @@
 🗡️	Dolch, Waffe
 ⚔️	Schwerter, gekreuzt, gekreuzte Schwerter
 🔫	Pistole, Revolver, Waffe
+🪃	Australien, Boomerang, Bumerang
 🏹	Bogen, Pfeil, Pfeil und Bogen
 🛡️	Schild, Schutzschild
+🪚	Handsäge, Holz, Säge, Tischler, Werkzeug
 🔧	Schraubenschlüssel, Werkzeug
+🪛	Schraube, Schraubenzieher, Werkzeug
 🔩	Mutter und Schraube, Schraube
 ⚙️	Werkzeug, Zahnrad
 🗜️	Schraubzwinge, Werkzeug
@@ -2492,8 +2757,10 @@
 🦯	Barrierefreiheit, Gehstock, blind
 🔗	Kettenglieder, Verknüpfungssymbol, zwei Ringe
 ⛓️	Eisen, Kette, Ketten
+🪝	Angelhaken, Haken
 🧰	Mechaniker, Werkzeug, Werkzeugkasten
 🧲	Anziehungskraft, Magnet, magnetisch
+🪜	Leiter, Sprosse, Stufe, klettern
 ⚗️	Destillierapparat, Werkzeug
 🧪	Chemie, Experiment, Labor, Reagenzglas, Versuche
 🧫	Bakterien, Bakterienkultur, Biologie, Petrischale
@@ -2507,26 +2774,35 @@
 🩹	Heftpflaster, Pflaster
 🩺	Arzt, Herz, Medizin, Stethoskop
 🚪	Eingang, Tür, geschlossen
+🛗	Aufzug, Fahrstuhl, Lift
+🪞	Reflexion, Spiegel, Spiegelbild
+🪟	Aussicht, Fenster, Rahmen, durchsichtig, frische Luft, Öffnung
 🛏️	Bett, Hotel, schlafen, Übernachtung
 🛋️	Lampe, Sofa, Sofa und Lampe
 🪑	Stuhl, sitzen
 🚽	Toilette, WC
+🪠	Pömpel, Saugglocke, Saugglocken, Toilette, verstopft
 🚿	Dusche
 🛁	Bad, Badewanne, Badezimmer
+🪤	Falle, Mäusefalle
 🪒	Rasierer, rasieren, scharf
 🧴	Creme, Feuchtigkeitscreme, Körpercreme, Shampoo, Sonnencreme
 🧷	Punk, Sicherheitsnadel, Windel
 🧹	Besen, Fegen, Hexe, Kehren
 🧺	Korb, Picknick, Wäsche
 🧻	Klopapier, Küchenrolle, Papiertücher, Toilettenpapier
+🪣	Behälter, Bottich, Eimer, Kübel
 🧼	Baden, Seife, Seifenschale, säubern
+🪥	Badezimmer, Bürste, Zahnbürste, Zahnhygiene, Zähne, sauber
 🧽	Schwamm, absorbieren, aufsaugen, porös
 🧯	Feuer, Feuerlöscher, löschen
 🛒	Einkaufswagen, einkaufen
 🚬	Rauchen, Rauchersymbol, Zigarette
 ⚰️	Beerdigung, Sarg, Tod, tot
+🪦	Friedhof, Grab, Grabstein
 ⚱️	Beerdigung, Tod, Urne, tot
 🗿	Gesicht, Maske, Statue
+🪧	Demonstration, Mahnwache, Plakat, Protest, Schild
 🏧	ATM, Symbol „Geldautomat“
 🚮	Müll, Sauberkeit, Symbol „Papierkorb“
 🚰	Trinkwasser, Wasser
@@ -2625,8 +2901,22 @@
 📴	Handy aus, Mobiltelefon, Mobiltelefon aus, ausschalten
 ♀️	Frau, Frauensymbol, Zeichen, weiblich
 ♂️	Mann, Männersymbol, Symbol, Zeichen
-⚕️	Apotheke, Asklepiosstab, Medizin, Äskulapstab
+⚧️	Symbol für Transgender, Transgender
+✖️	Multiplikation, Multiplikationszeichen, abbrechen, multiplizieren, x
+➕	Plus, Pluszeichen
+➖	Minus, Minuszeichen
+➗	Divisionszeichen, geteilt
 ♾️	Unendlichkeit, für immer, grenzenlos, unendlich
+‼️	Ausrufezeichen, Satzzeichen, doppelt, doppeltes Ausrufezeichen, rot
+⁉️	Ausrufe- und Fragezeichen, Ausrufezeichen, Fragezeichen, Satzzeichen, rot
+❓️	Fragezeichen, Rotes Fragezeichen, Satzzeichen, rot, rotes Fragezeichen
+❔	Satzzeichen, weiß, weißes Fragezeichen
+❕	Satzzeichen, weiß, weißes Ausrufezeichen
+❗️	Ausrufezeichen, Rotes Ausrufezeichen, Satzzeichen, rot, rotes Ausrufezeichen
+〰️	Linie, Wellenlinie, gewellt
+💱	Geld, Geldwechsel, Wechsel, Währung
+💲	Dollar, Dollarzeichen, Geld, Währung
+⚕️	Apotheke, Asklepiosstab, Medizin, Äskulapstab
 ♻️	Recycling, Recycling-Symbol
 ⚜	Fleur-de-Lis, Lilie
 🔱	Anker, Dreizack, Triton
@@ -2636,25 +2926,14 @@
 ✅	abgehakt, erledigt, weißes Häkchen
 ☑️	Abstimmungsfeld, Abstimmungsfeld mit Häkchen, Häkchen, Wahlurne
 ✔️	Häkchen, abhaken, erledigt, kräftiges Häkchen
-✖️	Multiplikation, Multiplikationszeichen, abbrechen, multiplizieren, x
 ❌	Kreuzzeichen, Multiplikation, abbrechen, durchgestrichen, multiplizieren, x
 ❎	Kreuz, Kreuzsymbol im Quadrat, X
-➕	Plus, Pluszeichen
-➖	Minus, Minuszeichen
-➗	Divisionszeichen, geteilt
 ➰	Schleife
 ➿	Doppelschleife, Rechteck, Schleife
 〽️	Teilalternationszeichen, Zeichensetzung, japanisch
 ✳️	Achtzackiger Stern, Quadrat, Stern, achtzackig, achtzackiger Stern, grün
 ✴️	Stern, Stern mit acht Zacken
 ❇️	Funkeln
-‼️	Ausrufezeichen, Satzzeichen, doppelt, doppeltes Ausrufezeichen, rot
-⁉️	Ausrufe- und Fragezeichen, Ausrufezeichen, Fragezeichen, Satzzeichen, rot
-❓️	Fragezeichen, Rotes Fragezeichen, Satzzeichen, rot, rotes Fragezeichen
-❔	Satzzeichen, weiß, weißes Fragezeichen
-❕	Satzzeichen, weiß, weißes Ausrufezeichen
-❗️	Ausrufezeichen, Rotes Ausrufezeichen, Satzzeichen, rot, rotes Ausrufezeichen
-〰️	Linie, Wellenlinie, gewellt
 ©️	C, Copyright
 ®️	Markenzeichen, R, Registered-Trademark
 ™️	Markenzeichen, TM, Trademark
@@ -2750,6 +3029,7 @@
 🏴	Fahne, schwarze Fahne, schwarze Flagge, wehen
 🏳️	Fahne, wehen, weiße Fahne, weiße Flagge
 🏳‍🌈	Fahne, Regenbogen, Regenbogenflagge, bunt
+🏳‍⚧	Flagge, Transgender, Transgender-Flagge
 🏴‍☠	Jolly Roger, Pirat, Piratenfahne, Piratenflagge, Schatz
 🇦🇨	Flagge, Flagge: Ascension
 🇦🇩	Flagge, Flagge: Andorra
@@ -2969,7 +3249,7 @@
 🇸🇻	Flagge, Flagge: El Salvador
 🇸🇽	Flagge, Flagge: Sint Maarten
 🇸🇾	Flagge, Flagge: Syrien
-🇸🇿	Flagge, Flagge: Swasiland
+🇸🇿	Flagge, Flagge: Eswatini
 🇹🇦	Flagge, Flagge: Tristan da Cunha
 🇹🇨	Flagge, Flagge: Turks- und Caicosinseln
 🇹🇩	Flagge, Flagge: Tschad

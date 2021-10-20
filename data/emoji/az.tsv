@@ -19,6 +19,7 @@
 ☺️	gülümsəyən üz, rahat, sakit, təbəssüm, üz
 😚	bağlı, bağlı gözlərlə öpən üz, göz, öpüş, üz
 😙	göz, gülən gözlərlə öpən üz, təbəssüm, öpüş, üz
+🥲	göz yaşları ilə gülümsəyən üz, göz yaşı, gülümsəyir, həyəcanlı, lovğa, məmnun, yüngül
 😋	dadlı, dadlı yeməkdən həzz alan üz, həzz almaq, təbəssüm, um, yum, üz
 😛	dil, dilini çıxarmış üz, üz
 😜	dil, dilini çıxarmış və göz vuran üz, göz, göz vurmaq, zarafat, üz
@@ -57,6 +58,7 @@
 🤯	partlayan baş, şoka düşmüş
 🤠	papaqlı, papaqlı qaqaş üzü, qaqaş, üz
 🥳	bayram etmək, buynuz, papaq, parti, parti edən üz
+🥸	burun, eynəklər, inkoqnito, maskalama, maskalanmış üz, üz
 😎	eynək, göz, gün eynəyi, gün eynəyi ilə gülən üz, günəş
 🤓	axmaq, axmaq üz, gicbəsər, üz
 🧐	monokllu üz, stuffy
@@ -183,6 +185,12 @@
 👌🏽	ok, ok işarəsi, ok işarəsi: orta dəri tonu, orqan, orta dəri tonu, əl
 👌🏾	ok, ok işarəsi, ok işarəsi: orta-tünd dəri tonu, orqan, orta-tünd dəri tonu, əl
 👌🏿	ok, ok işarəsi, ok işarəsi: tünd dəri tonu, orqan, tünd dəri tonu, əl
+🤌	barmaqlar, sarkastik, sorğu-sual, çimdik, əl jesti
+🤌🏻	açıq dəri tonu, barmaqlar, sarkastik, sorğu-sual, çimdik, çimdik: açıq dəri tonu, əl jesti
+🤌🏼	barmaqlar, orta-açıq dəri tonu, sarkastik, sorğu-sual, çimdik, çimdik: orta-açıq dəri tonu, əl jesti
+🤌🏽	barmaqlar, orta dəri tonu, sarkastik, sorğu-sual, çimdik, çimdik: orta dəri tonu, əl jesti
+🤌🏾	barmaqlar, orta-tünd dəri tonu, sarkastik, sorğu-sual, çimdik, çimdik: orta-tünd dəri tonu, əl jesti
+🤌🏿	barmaqlar, sarkastik, sorğu-sual, tünd dəri tonu, çimdik, çimdik: tünd dəri tonu, əl jesti
 🤏	kiçik say, sıxan əl
 🤏🏻	açıq dəri tonu, kiçik say, sıxan əl, sıxan əl: açıq dəri tonu
 🤏🏼	kiçik say, orta-açıq dəri tonu, sıxan əl, sıxan əl: orta-açıq dəri tonu
@@ -379,7 +387,9 @@
 👃🏾	burun, burun: orta-tünd dəri tonu, bədən, orta-tünd dəri tonu
 👃🏿	burun, burun: tünd dəri tonu, bədən, tünd dəri tonu
 🧠	beyin, intelligent
-🦷	dantist, diş
+🫀	mərkəz, orqan, puls, ürək, ürək döyüntüsü
+🫁	ağciyərlər, nəfəs, nəfəsalma, nəfəsvermə, orqan, tərləmə
+🦷	diş, stomatoloq
 🦴	skelet, sümük
 👀	göz, gözlər, üz
 👁️	göz, orqan
@@ -421,6 +431,30 @@
 👱🏽	orta dəri tonu, sarı saçlı adam, sarı saçlı adam: orta dəri tonu, sarışın
 👱🏾	orta-tünd dəri tonu, sarı saçlı adam, sarı saçlı adam: orta-tünd dəri tonu, sarışın
 👱🏿	sarı saçlı adam, sarı saçlı adam: tünd dəri tonu, sarışın, tünd dəri tonu
+🧑‍🦰	böyük, böyük: qırmızı saç, gender-neytral, qırmızı saç
+🧑🏻‍🦰	açıq dəri tonu, böyük, böyük: açıq dəri tonu, qırmızı saç, gender-neytral, qırmızı saç
+🧑🏼‍🦰	böyük, böyük: orta-açıq dəri tonu, qırmızı saç, gender-neytral, orta-açıq dəri tonu, qırmızı saç
+🧑🏽‍🦰	böyük, böyük: orta dəri tonu, qırmızı saç, gender-neytral, orta dəri tonu, qırmızı saç
+🧑🏾‍🦰	böyük, böyük: orta-tünd dəri tonu, qırmızı saç, gender-neytral, orta-tünd dəri tonu, qırmızı saç
+🧑🏿‍🦰	böyük, böyük: tünd dəri tonu, qırmızı saç, gender-neytral, qırmızı saç, tünd dəri tonu
+🧑‍🦱	buruq saç, böyük, böyük: buruq saç, gender-neytral
+🧑🏻‍🦱	açıq dəri tonu, buruq saç, böyük, böyük: açıq dəri tonu, buruq saç, gender-neytral
+🧑🏼‍🦱	buruq saç, böyük, böyük: orta-açıq dəri tonu, buruq saç, gender-neytral, orta-açıq dəri tonu
+🧑🏽‍🦱	buruq saç, böyük, böyük: orta dəri tonu, buruq saç, gender-neytral, orta dəri tonu
+🧑🏾‍🦱	buruq saç, böyük, böyük: orta-tünd dəri tonu, buruq saç, gender-neytral, orta-tünd dəri tonu
+🧑🏿‍🦱	buruq saç, böyük, böyük: tünd dəri tonu, buruq saç, gender-neytral, tünd dəri tonu
+🧑‍🦳	ağ saç, böyük, böyük: ağ saç, gender-neytral
+🧑🏻‍🦳	açıq dəri tonu, ağ saç, böyük, böyük: açıq dəri tonu, ağ saç, gender-neytral
+🧑🏼‍🦳	ağ saç, böyük, böyük: orta-açıq dəri tonu, ağ saç, gender-neytral, orta-açıq dəri tonu
+🧑🏽‍🦳	ağ saç, böyük, böyük: orta dəri tonu, ağ saç, gender-neytral, orta dəri tonu
+🧑🏾‍🦳	ağ saç, böyük, böyük: orta-tünd dəri tonu, ağ saç, gender-neytral, orta-tünd dəri tonu
+🧑🏿‍🦳	ağ saç, böyük, böyük: tünd dəri tonu, ağ saç, gender-neytral, tünd dəri tonu
+🧑‍🦲	böyük, böyük: keçəl, gender-neytral, keçəl
+🧑🏻‍🦲	açıq dəri tonu, böyük, böyük: açıq dəri tonu, keçəl, gender-neytral, keçəl
+🧑🏼‍🦲	böyük, böyük: orta-açıq dəri tonu, keçəl, gender-neytral, keçəl, orta-açıq dəri tonu
+🧑🏽‍🦲	böyük, böyük: orta dəri tonu, keçəl, gender-neytral, keçəl, orta dəri tonu
+🧑🏾‍🦲	böyük, böyük: orta-tünd dəri tonu, keçəl, gender-neytral, keçəl, orta-tünd dəri tonu
+🧑🏿‍🦲	böyük, böyük: tünd dəri tonu, keçəl, gender-neytral, keçəl, tünd dəri tonu
 👨	kişi
 👨🏻	açıq dəri tonu, kişi, kişi: açıq dəri tonu
 👨🏼	kişi, kişi: orta-açıq dəri tonu, orta-açıq dəri tonu
@@ -697,6 +731,12 @@
 🤷🏽‍♀	bilməzlik, laqeydlik, orta dəri tonu, qadın, çiynini çəkmək, çiynini çəkən qadın, çiynini çəkən qadın: orta dəri tonu, şübhə
 🤷🏾‍♀	bilməzlik, laqeydlik, orta-tünd dəri tonu, qadın, çiynini çəkmək, çiynini çəkən qadın, çiynini çəkən qadın: orta-tünd dəri tonu, şübhə
 🤷🏿‍♀	bilməzlik, laqeydlik, qadın, tünd dəri tonu, çiynini çəkmək, çiynini çəkən qadın, çiynini çəkən qadın: tünd dəri tonu, şübhə
+🧑‍⚕	həkim, səhiyyə, terapist, tibb işçisi
+🧑🏻‍⚕	açıq dəri tonu, həkim, səhiyyə, terapist, tibb işçisi, tibb işçisi: açıq dəri tonu
+🧑🏼‍⚕	həkim, orta-açıq dəri tonu, səhiyyə, terapist, tibb işçisi, tibb işçisi: orta-açıq dəri tonu
+🧑🏽‍⚕	həkim, orta dəri tonu, səhiyyə, terapist, tibb işçisi, tibb işçisi: orta dəri tonu
+🧑🏾‍⚕	həkim, orta-tünd dəri tonu, səhiyyə, terapist, tibb işçisi, tibb işçisi: orta-tünd dəri tonu
+🧑🏿‍⚕	həkim, səhiyyə, terapist, tibb işçisi, tibb işçisi: tünd dəri tonu, tünd dəri tonu
 👨‍⚕	həkim, kişi, kişi həkim, səhiyyə, terapevt, xəstə baxıcısı
 👨🏻‍⚕	açıq dəri tonu, həkim, kişi, kişi həkim: açıq dəri tonu, səhiyyə, terapevt, xəstə baxıcısı
 👨🏼‍⚕	həkim, kişi, kişi həkim: orta-açıq dəri tonu, orta-açıq dəri tonu, səhiyyə, terapevt, xəstə baxıcısı
@@ -709,6 +749,12 @@
 👩🏽‍⚕	həkim, orta dəri tonu, qadın, qadın həkim: orta dəri tonu, səhiyyə, terapevt, tibb bacısı
 👩🏾‍⚕	həkim, orta-tünd dəri tonu, qadın, qadın həkim: orta-tünd dəri tonu, səhiyyə, terapevt, tibb bacısı
 👩🏿‍⚕	həkim, qadın, qadın həkim: tünd dəri tonu, səhiyyə, terapevt, tibb bacısı, tünd dəri tonu
+🧑‍🎓	məzun, tələbə
+🧑🏻‍🎓	açıq dəri tonu, məzun, tələbə, tələbə: açıq dəri tonu
+🧑🏼‍🎓	məzun, orta-açıq dəri tonu, tələbə, tələbə: orta-açıq dəri tonu
+🧑🏽‍🎓	məzun, orta dəri tonu, tələbə, tələbə: orta dəri tonu
+🧑🏾‍🎓	məzun, orta-tünd dəri tonu, tələbə, tələbə: orta-tünd dəri tonu
+🧑🏿‍🎓	məzun, tünd dəri tonu, tələbə, tələbə: tünd dəri tonu
 👨‍🎓	kişi, məzun, oğlan tələbə, tələbə
 👨🏻‍🎓	açıq dəri tonu, kişi, məzun, oğlan tələbə, oğlan tələbə: açıq dəri tonu, tələbə
 👨🏼‍🎓	kişi, məzun, orta-açıq dəri tonu, oğlan tələbə, oğlan tələbə: orta-açıq dəri tonu, tələbə
@@ -721,6 +767,12 @@
 👩🏽‍🎓	məzun, orta dəri tonu, qadın, qız tələbə, qız tələbə: orta dəri tonu, tələbə
 👩🏾‍🎓	məzun, orta-tünd dəri tonu, qadın, qız tələbə, qız tələbə: orta-tünd dəri tonu, tələbə
 👩🏿‍🎓	məzun, qadın, qız tələbə, qız tələbə: tünd dəri tonu, tünd dəri tonu, tələbə
+🧑‍🏫	instruktor, müəllim, professor
+🧑🏻‍🏫	açıq dəri tonu, instruktor, müəllim, müəllim: açıq dəri tonu, professor
+🧑🏼‍🏫	instruktor, müəllim, müəllim: orta-açıq dəri tonu, orta-açıq dəri tonu, professor
+🧑🏽‍🏫	instruktor, müəllim, müəllim: orta dəri tonu, orta dəri tonu, professor
+🧑🏾‍🏫	instruktor, müəllim, müəllim: orta-tünd dəri tonu, orta-tünd dəri tonu, professor
+🧑🏿‍🏫	instruktor, müəllim, müəllim: tünd dəri tonu, professor, tünd dəri tonu
 👨‍🏫	kişi, kişi müəllim, müəllim, professor
 👨🏻‍🏫	açıq dəri tonu, kişi, kişi müəllim: açıq dəri tonu, müəllim, professor
 👨🏼‍🏫	kişi, kişi müəllim: orta-açıq dəri tonu, müəllim, orta-açıq dəri tonu, professor
@@ -733,6 +785,12 @@
 👩🏽‍🏫	müəllim, orta dəri tonu, professor, qadın, qadın müəllim: orta dəri tonu
 👩🏾‍🏫	müəllim, orta-tünd dəri tonu, professor, qadın, qadın müəllim: orta-tünd dəri tonu
 👩🏿‍🏫	müəllim, professor, qadın, qadın müəllim: tünd dəri tonu, tünd dəri tonu
+🧑‍⚖	hakim, tərəzi
+🧑🏻‍⚖	açıq dəri tonu, hakim, hakim: açıq dəri tonu, tərəzi
+🧑🏼‍⚖	hakim, hakim: orta-açıq dəri tonu, orta-açıq dəri tonu, tərəzi
+🧑🏽‍⚖	hakim, hakim: orta dəri tonu, orta dəri tonu, tərəzi
+🧑🏾‍⚖	hakim, hakim: orta-tünd dəri tonu, orta-tünd dəri tonu, tərəzi
+🧑🏿‍⚖	hakim, hakim: tünd dəri tonu, tünd dəri tonu, tərəzi
 👨‍⚖	kişi, kişi hakim, tərəzi, ədalət
 👨🏻‍⚖	açıq dəri tonu, kişi, kişi hakim, kişi hakim: açıq dəri tonu, tərəzi, ədalət
 👨🏼‍⚖	kişi, kişi hakim, kişi hakim: orta-açıq dəri tonu, orta-açıq dəri tonu, tərəzi, ədalət
@@ -745,6 +803,12 @@
 👩🏽‍⚖	hakim, orta dəri tonu, qadın, qadın hakim: orta dəri tonu, tərəzi
 👩🏾‍⚖	hakim, orta-tünd dəri tonu, qadın, qadın hakim: orta-tünd dəri tonu, tərəzi
 👩🏿‍⚖	hakim, qadın, qadın hakim: tünd dəri tonu, tünd dəri tonu, tərəzi
+🧑‍🌾	bağban, fermer, rençer
+🧑🏻‍🌾	açıq dəri tonu, bağban, fermer, fermer: açıq dəri tonu, rençer
+🧑🏼‍🌾	bağban, fermer, fermer: orta-açıq dəri tonu, orta-açıq dəri tonu, rençer
+🧑🏽‍🌾	bağban, fermer, fermer: orta dəri tonu, orta dəri tonu, rençer
+🧑🏾‍🌾	bağban, fermer, fermer: orta-tünd dəri tonu, orta-tünd dəri tonu, rençer
+🧑🏿‍🌾	bağban, fermer, fermer: tünd dəri tonu, rençer, tünd dəri tonu
 👨‍🌾	bağban, fermer, kişi, kişi fermer
 👨🏻‍🌾	açıq dəri tonu, bağban, fermer, kişi, kişi fermer: açıq dəri tonu
 👨🏼‍🌾	bağban, fermer, kişi, kişi fermer: orta-açıq dəri tonu, orta-açıq dəri tonu
@@ -757,6 +821,12 @@
 👩🏽‍🌾	bağban, fermer, orta dəri tonu, qadın, qadın fermer: orta dəri tonu
 👩🏾‍🌾	bağban, fermer, orta-tünd dəri tonu, qadın, qadın fermer: orta-tünd dəri tonu
 👩🏿‍🌾	bağban, fermer, qadın, qadın fermer: tünd dəri tonu, tünd dəri tonu
+🧑‍🍳	aşpaz, baş aşpaz
+🧑🏻‍🍳	açıq dəri tonu, aşpaz, aşpaz: açıq dəri tonu, baş aşpaz
+🧑🏼‍🍳	aşpaz, aşpaz: orta-açıq dəri tonu, baş aşpaz, orta-açıq dəri tonu
+🧑🏽‍🍳	aşpaz, aşpaz: orta dəri tonu, baş aşpaz, orta dəri tonu
+🧑🏾‍🍳	aşpaz, aşpaz: orta-tünd dəri tonu, baş aşpaz, orta-tünd dəri tonu
+🧑🏿‍🍳	aşpaz, aşpaz: tünd dəri tonu, baş aşpaz, tünd dəri tonu
 👨‍🍳	aşbaz, kişi, kişi aşbaz, şef
 👨🏻‍🍳	açıq dəri tonu, aşbaz, kişi, kişi aşbaz: açıq dəri tonu, şef
 👨🏼‍🍳	aşbaz, kişi, kişi aşbaz: orta-açıq dəri tonu, orta-açıq dəri tonu, şef
@@ -769,6 +839,12 @@
 👩🏽‍🍳	aşbaz, orta dəri tonu, qadın, qadın aşbaz: orta dəri tonu, şef
 👩🏾‍🍳	aşbaz, orta-tünd dəri tonu, qadın, qadın aşbaz: orta-tünd dəri tonu, şef
 👩🏿‍🍳	aşbaz, qadın, qadın aşbaz: tünd dəri tonu, tünd dəri tonu, şef
+🧑‍🔧	elektrik, mexanik, santexnik, ticarətçi
+🧑🏻‍🔧	açıq dəri tonu, elektrik, mexanik, mexanik: açıq dəri tonu, santexnik, ticarətçi
+🧑🏼‍🔧	elektrik, mexanik, mexanik: orta-açıq dəri tonu, orta-açıq dəri tonu, santexnik, ticarətçi
+🧑🏽‍🔧	elektrik, mexanik, mexanik: orta dəri tonu, orta dəri tonu, santexnik, ticarətçi
+🧑🏾‍🔧	elektrik, mexanik, mexanik: orta-tünd dəri tonu, orta-tünd dəri tonu, santexnik, ticarətçi
+🧑🏿‍🔧	elektrik, mexanik, mexanik: tünd dəri tonu, santexnik, ticarətçi, tünd dəri tonu
 👨‍🔧	elektrik, kişi, kişi mexanik, mexanik, peşəkar, çilingər
 👨🏻‍🔧	açıq dəri tonu, elektrik, kişi, kişi mexanik: açıq dəri tonu, mexanik, peşəkar, çilingər
 👨🏼‍🔧	elektrik, kişi, kişi mexanik: orta-açıq dəri tonu, mexanik, orta-açıq dəri tonu, peşəkar, çilingər
@@ -781,6 +857,12 @@
 👩🏽‍🔧	elektrik, mexanik, orta dəri tonu, peşəkar, qadın, qadın mexanik: orta dəri tonu, çilingər
 👩🏾‍🔧	elektrik, mexanik, orta-tünd dəri tonu, peşəkar, qadın, qadın mexanik: orta-tünd dəri tonu, çilingər
 👩🏿‍🔧	elektrik, mexanik, peşəkar, qadın, qadın mexanik: tünd dəri tonu, tünd dəri tonu, çilingər
+🧑‍🏭	fabrik, fabrik işçisi, işçi, sənaye, yığım
+🧑🏻‍🏭	açıq dəri tonu, fabrik, fabrik işçisi, fabrik işçisi: açıq dəri tonu, işçi, sənaye, yığım
+🧑🏼‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta-açıq dəri tonu, işçi, orta-açıq dəri tonu, sənaye, yığım
+🧑🏽‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta dəri tonu, işçi, orta dəri tonu, sənaye, yığım
+🧑🏾‍🏭	fabrik, fabrik işçisi, fabrik işçisi: orta-tünd dəri tonu, işçi, orta-tünd dəri tonu, sənaye, yığım
+🧑🏿‍🏭	fabrik, fabrik işçisi, fabrik işçisi: tünd dəri tonu, işçi, sənaye, tünd dəri tonu, yığım
 👨‍🏭	fabrik, işçi, kişi, kişi fabrik işçisi, sənaye, yığım
 👨🏻‍🏭	açıq dəri tonu, fabrik, işçi, kişi, kişi fabrik işçisi, kişi fabrik işçisi: açıq dəri tonu, sənaye, yığım
 👨🏼‍🏭	fabrik, işçi, kişi, kişi fabrik işçisi, kişi fabrik işçisi: orta-açıq dəri tonu, orta-açıq dəri tonu, sənaye, yığım
@@ -793,6 +875,12 @@
 👩🏽‍🏭	fabrik, işçi, orta dəri tonu, qadın, qadın fabrik işçisi, qadın fabrik işçisi: orta dəri tonu, sənaye, yığım
 👩🏾‍🏭	fabrik, işçi, orta-tünd dəri tonu, qadın, qadın fabrik işçisi, qadın fabrik işçisi: orta-tünd dəri tonu, sənaye, yığım
 👩🏿‍🏭	fabrik, işçi, qadın, qadın fabrik işçisi, qadın fabrik işçisi: tünd dəri tonu, sənaye, tünd dəri tonu, yığım
+🧑‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis işçisi
+🧑🏻‍💼	açıq dəri tonu, ağ yaxalıqlı, biznes, memar, menecer, ofis işçisi, ofis işçisi: açıq dəri tonu
+🧑🏼‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis işçisi, ofis işçisi: orta-açıq dəri tonu, orta-açıq dəri tonu
+🧑🏽‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis işçisi, ofis işçisi: orta dəri tonu, orta dəri tonu
+🧑🏾‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis işçisi, ofis işçisi: orta-tünd dəri tonu, orta-tünd dəri tonu
+🧑🏿‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis işçisi, ofis işçisi: tünd dəri tonu, tünd dəri tonu
 👨‍💼	ağ yaxalıqlı, biznes, kişi, kişi ofis işçisi, memar, menecer, ofis
 👨🏻‍💼	açıq dəri tonu, ağ yaxalıqlı, biznes, kişi, kişi ofis işçisi, kişi ofis işçisi: açıq dəri tonu, memar, menecer, ofis
 👨🏼‍💼	ağ yaxalıqlı, biznes, kişi, kişi ofis işçisi, kişi ofis işçisi: orta-açıq dəri tonu, memar, menecer, ofis, orta-açıq dəri tonu
@@ -805,6 +893,12 @@
 👩🏽‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis, orta dəri tonu, qadın, qadın ofis işçisi, qadın ofis işçisi: orta dəri tonu
 👩🏾‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis, orta-tünd dəri tonu, qadın, qadın ofis işçisi, qadın ofis işçisi: orta-tünd dəri tonu
 👩🏿‍💼	ağ yaxalıqlı, biznes, memar, menecer, ofis, qadın, qadın ofis işçisi, qadın ofis işçisi: tünd dəri tonu, tünd dəri tonu
+🧑‍🔬	alim, bioloq, fizik, kimyaçı, mühəndis, qadın
+🧑🏻‍🔬	alim, alim: açıq dəri tonu, açıq dəri tonu, bioloq, fizik, kimyaçı, mühəndis, qadın
+🧑🏼‍🔬	alim, alim: orta-açıq dəri tonu, bioloq, fizik, kimyaçı, mühəndis, orta-açıq dəri tonu, qadın
+🧑🏽‍🔬	alim, alim: orta dəri tonu, bioloq, fizik, kimyaçı, mühəndis, orta dəri tonu, qadın
+🧑🏾‍🔬	alim, alim: orta-tünd dəri tonu, bioloq, fizik, kimyaçı, mühəndis, orta-tünd dəri tonu, qadın
+🧑🏿‍🔬	alim, alim: tünd dəri tonu, bioloq, fizik, kimyaçı, mühəndis, qadın, tünd dəri tonu
 👨‍🔬	alim, bioloq, fizik, kimyaçı, kişi, kişi alim, mühəndis, riyaziyyatçı
 👨🏻‍🔬	alim, açıq dəri tonu, bioloq, fizik, kimyaçı, kişi, kişi alim: açıq dəri tonu, mühəndis, riyaziyyatçı
 👨🏼‍🔬	alim, bioloq, fizik, kimyaçı, kişi, kişi alim: orta-açıq dəri tonu, mühəndis, orta-açıq dəri tonu, riyaziyyatçı
@@ -817,6 +911,12 @@
 👩🏽‍🔬	alim, bioloq, fizik, kimyaçı, mühəndis, orta dəri tonu, qadın, qadın alim: orta dəri tonu, riyaziyyatçı
 👩🏾‍🔬	alim, bioloq, fizik, kimyaçı, mühəndis, orta-tünd dəri tonu, qadın, qadın alim: orta-tünd dəri tonu, riyaziyyatçı
 👩🏿‍🔬	alim, bioloq, fizik, kimyaçı, mühəndis, qadın, qadın alim: tünd dəri tonu, riyaziyyatçı, tünd dəri tonu
+🧑‍💻	ixtiraçı, proqram təminatı, texnoloq, tərtibatçı, şifrələyici
+🧑🏻‍💻	açıq dəri tonu, ixtiraçı, proqram təminatı, texnoloq, texnoloq: açıq dəri tonu, tərtibatçı, şifrələyici
+🧑🏼‍💻	ixtiraçı, orta-açıq dəri tonu, proqram təminatı, texnoloq, texnoloq: orta-açıq dəri tonu, tərtibatçı, şifrələyici
+🧑🏽‍💻	ixtiraçı, orta dəri tonu, proqram təminatı, texnoloq, texnoloq: orta dəri tonu, tərtibatçı, şifrələyici
+🧑🏾‍💻	ixtiraçı, orta-tünd dəri tonu, proqram təminatı, texnoloq, texnoloq: orta-tünd dəri tonu, tərtibatçı, şifrələyici
+🧑🏿‍💻	ixtiraçı, proqram təminatı, texnoloq, texnoloq: tünd dəri tonu, tünd dəri tonu, tərtibatçı, şifrələyici
 👨‍💻	ixtiraçı, kişi, kişi texnoloq, proqram təminatı, texnoloq, tərtibatçı, şifrələyici
 👨🏻‍💻	açıq dəri tonu, ixtiraçı, kişi, kişi texnoloq: açıq dəri tonu, proqram təminatı, texnoloq, tərtibatçı, şifrələyici
 👨🏼‍💻	ixtiraçı, kişi, kişi texnoloq: orta-açıq dəri tonu, orta-açıq dəri tonu, proqram təminatı, texnoloq, tərtibatçı, şifrələyici
@@ -829,6 +929,12 @@
 👩🏽‍💻	ixtiraçı, orta dəri tonu, proqram təminatı, qadın, qadın texnoloq: orta dəri tonu, texnoloq, tərtibatçı, şifrələyici
 👩🏾‍💻	ixtiraçı, orta-tünd dəri tonu, proqram təminatı, qadın, qadın texnoloq: orta-tünd dəri tonu, texnoloq, tərtibatçı, şifrələyici
 👩🏿‍💻	ixtiraçı, proqram təminatı, qadın, qadın texnoloq: tünd dəri tonu, texnoloq, tünd dəri tonu, tərtibatçı, şifrələyici
+🧑‍🎤	aktyor, estrada artisti, müğənni, rok, ulduz
+🧑🏻‍🎤	aktyor, açıq dəri tonu, estrada artisti, müğənni, müğənni: açıq dəri tonu, rok, ulduz
+🧑🏼‍🎤	aktyor, estrada artisti, müğənni, müğənni: orta-açıq dəri tonu, orta-açıq dəri tonu, rok, ulduz
+🧑🏽‍🎤	aktyor, estrada artisti, müğənni, müğənni: orta dəri tonu, orta dəri tonu, rok, ulduz
+🧑🏾‍🎤	aktyor, estrada artisti, müğənni, müğənni: orta-tünd dəri tonu, orta-tünd dəri tonu, rok, ulduz
+🧑🏿‍🎤	aktyor, estrada artisti, müğənni, müğənni: tünd dəri tonu, rok, tünd dəri tonu, ulduz
 👨‍🎤	aktyor, estrada artisti, kişi, kişi müğənni, müğənni, rok, ulduz
 👨🏻‍🎤	aktyor, açıq dəri tonu, estrada artisti, kişi, kişi müğənni: açıq dəri tonu, müğənni, rok, ulduz
 👨🏼‍🎤	aktyor, estrada artisti, kişi, kişi müğənni: orta-açıq dəri tonu, müğənni, orta-açıq dəri tonu, rok, ulduz
@@ -841,6 +947,12 @@
 👩🏽‍🎤	aktyor, estrada artisti, müğənni, orta dəri tonu, qadın, qadın müğənni: orta dəri tonu, rok, ulduz
 👩🏾‍🎤	aktyor, estrada artisti, müğənni, orta-tünd dəri tonu, qadın, qadın müğənni: orta-tünd dəri tonu, rok, ulduz
 👩🏿‍🎤	aktyor, estrada artisti, müğənni, qadın, qadın müğənni: tünd dəri tonu, rok, tünd dəri tonu, ulduz
+🧑‍🎨	aktyor, palitra
+🧑🏻‍🎨	aktyor, aktyor: açıq dəri tonu, açıq dəri tonu, palitra
+🧑🏼‍🎨	aktyor, aktyor: orta-açıq dəri tonu, orta-açıq dəri tonu, palitra
+🧑🏽‍🎨	aktyor, aktyor: orta dəri tonu, orta dəri tonu, palitra
+🧑🏾‍🎨	aktyor, aktyor: orta-tünd dəri tonu, orta-tünd dəri tonu, palitra
+🧑🏿‍🎨	aktyor, aktyor: tünd dəri tonu, palitra, tünd dəri tonu
 👨‍🎨	kişi, kişi rəssam, palitra, rəssam
 👨🏻‍🎨	açıq dəri tonu, kişi, kişi rəssam: açıq dəri tonu, palitra, rəssam
 👨🏼‍🎨	kişi, kişi rəssam: orta-açıq dəri tonu, orta-açıq dəri tonu, palitra, rəssam
@@ -853,18 +965,30 @@
 👩🏽‍🎨	orta dəri tonu, palitra, qadın, qadın rəssam: orta dəri tonu, rəssam
 👩🏾‍🎨	orta-tünd dəri tonu, palitra, qadın, qadın rəssam: orta-tünd dəri tonu, rəssam
 👩🏿‍🎨	palitra, qadın, qadın rəssam: tünd dəri tonu, rəssam, tünd dəri tonu
+🧑‍✈	pilot, təyyarə
+🧑🏻‍✈	açıq dəri tonu, pilot, pilot: açıq dəri tonu, təyyarə
+🧑🏼‍✈	orta-açıq dəri tonu, pilot, pilot: orta-açıq dəri tonu, təyyarə
+🧑🏽‍✈	orta dəri tonu, pilot, pilot: orta dəri tonu, təyyarə
+🧑🏾‍✈	orta-tünd dəri tonu, pilot, pilot: orta-tünd dəri tonu, təyyarə
+🧑🏿‍✈	pilot, pilot: tünd dəri tonu, tünd dəri tonu, təyyarə
 👨‍✈	kişi, kişi pilot, pilot, təyyarə
 👨🏻‍✈	açıq dəri tonu, kişi, kişi pilot: açıq dəri tonu, pilot, təyyarə
 👨🏼‍✈	kişi, kişi pilot: orta-açıq dəri tonu, orta-açıq dəri tonu, pilot, təyyarə
 👨🏽‍✈	kişi, kişi pilot: orta dəri tonu, orta dəri tonu, pilot, təyyarə
 👨🏾‍✈	kişi, kişi pilot: orta-tünd dəri tonu, orta-tünd dəri tonu, pilot, təyyarə
 👨🏿‍✈	kişi, kişi pilot: tünd dəri tonu, pilot, tünd dəri tonu, təyyarə
-👩‍✈	pilot təyyarə, qadın, qadın pilot
-👩🏻‍✈	açıq dəri tonu, pilot təyyarə, qadın, qadın pilot, qadın pilot: açıq dəri tonu
-👩🏼‍✈	orta-açıq dəri tonu, pilot təyyarə, qadın, qadın pilot, qadın pilot: orta-açıq dəri tonu
-👩🏽‍✈	orta dəri tonu, pilot təyyarə, qadın, qadın pilot, qadın pilot: orta dəri tonu
-👩🏾‍✈	orta-tünd dəri tonu, pilot təyyarə, qadın, qadın pilot, qadın pilot: orta-tünd dəri tonu
-👩🏿‍✈	pilot təyyarə, qadın, qadın pilot, qadın pilot: tünd dəri tonu, tünd dəri tonu
+👩‍✈	pilot, qadın, qadın pilot, təyyarə
+👩🏻‍✈	açıq dəri tonu, pilot, qadın, qadın pilot: açıq dəri tonu, təyyarə
+👩🏼‍✈	orta-açıq dəri tonu, pilot, qadın, qadın pilot: orta-açıq dəri tonu, təyyarə
+👩🏽‍✈	orta dəri tonu, pilot, qadın, qadın pilot: orta dəri tonu, təyyarə
+👩🏾‍✈	orta-tünd dəri tonu, pilot, qadın, qadın pilot: orta-tünd dəri tonu, təyyarə
+👩🏿‍✈	pilot, qadın, qadın pilot: tünd dəri tonu, tünd dəri tonu, təyyarə
+🧑‍🚀	astronavt, raket
+🧑🏻‍🚀	astronavt, astronavt: açıq dəri tonu, açıq dəri tonu, raket
+🧑🏼‍🚀	astronavt, astronavt: orta-açıq dəri tonu, orta-açıq dəri tonu, raket
+🧑🏽‍🚀	astronavt, astronavt: orta dəri tonu, orta dəri tonu, raket
+🧑🏾‍🚀	astronavt, astronavt: orta-tünd dəri tonu, orta-tünd dəri tonu, raket
+🧑🏿‍🚀	astronavt, astronavt: tünd dəri tonu, raket, tünd dəri tonu
 👨‍🚀	astronavt, kişi, kişi astronavt, kosmos, raket
 👨🏻‍🚀	astronavt, açıq dəri tonu, kişi, kişi astronavt: açıq dəri tonu, kosmos, raket
 👨🏼‍🚀	astronavt, kişi, kişi astronavt: orta-açıq dəri tonu, kosmos, orta-açıq dəri tonu, raket
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronavt, kosmos, orta dəri tonu, qadın, qadın astronavt: orta dəri tonu, raket
 👩🏾‍🚀	astronavt, kosmos, orta-tünd dəri tonu, qadın, qadın astronavt: orta-tünd dəri tonu, raket
 👩🏿‍🚀	astronavt, kosmos, qadın, qadın astronavt: tünd dəri tonu, raket, tünd dəri tonu
+🧑‍🚒	yanğınsöndürən, yanğınsöndürən maşın
+🧑🏻‍🚒	açıq dəri tonu, yanğınsöndürən, yanğınsöndürən maşın, yanğınsöndürən maşın: açıq dəri tonu
+🧑🏼‍🚒	orta-açıq dəri tonu, yanğınsöndürən, yanğınsöndürən maşın, yanğınsöndürən maşın: orta-açıq dəri tonu
+🧑🏽‍🚒	orta dəri tonu, yanğınsöndürən, yanğınsöndürən maşın, yanğınsöndürən maşın: orta dəri tonu
+🧑🏾‍🚒	orta-tünd dəri tonu, yanğınsöndürən, yanğınsöndürən maşın, yanğınsöndürən maşın: orta-tünd dəri tonu
+🧑🏿‍🚒	tünd dəri tonu, yanğınsöndürən, yanğınsöndürən maşın, yanğınsöndürən maşın: tünd dəri tonu
 👨‍🚒	kişi, kişi yanğınsöndürən, yanğınsöndürən, yanğınsöndürən maşın
 👨🏻‍🚒	açıq dəri tonu, kişi, kişi yanğınsöndürən: açıq dəri tonu, yanğınsöndürən, yanğınsöndürən maşın
 👨🏼‍🚒	kişi, kişi yanğınsöndürən: orta-açıq dəri tonu, orta-açıq dəri tonu, yanğınsöndürən, yanğınsöndürən maşın
@@ -943,6 +1073,7 @@
 💂🏽‍♀	keşikçi, orta dəri tonu, qadın, qadın keşikçi: orta dəri tonu
 💂🏾‍♀	keşikçi, orta-tünd dəri tonu, qadın, qadın keşikçi: orta-tünd dəri tonu
 💂🏿‍♀	keşikçi, qadın, qadın keşikçi: tünd dəri tonu, tünd dəri tonu
+🥷	döyüşçü, gizli, gizlilik, nindza
 👷	işçi, papaq, tikinti, tikinti işçisi
 👷🏻	açıq dəri tonu, işçi, papaq, tikinti, tikinti işçisi, tikinti işçisi: açıq dəri tonu
 👷🏼	işçi, orta-açıq dəri tonu, papaq, tikinti, tikinti işçisi, tikinti işçisi: orta-açıq dəri tonu
@@ -1003,18 +1134,42 @@
 🧕🏽	hicab, mantilya, orta dəri tonu, tişel, şərf, şərfli qadın, şərfli qadın: orta dəri tonu
 🧕🏾	hicab, mantilya, orta-tünd dəri tonu, tişel, şərf, şərfli qadın, şərfli qadın: orta-tünd dəri tonu
 🧕🏿	hicab, mantilya, tişel, tünd dəri tonu, şərf, şərfli qadın, şərfli qadın: tünd dəri tonu
-🤵	adam, smokinq, smokinqli kişi
-🤵🏻	adam, açıq dəri tonu, smokinq, smokinqli kişi, smokinqli kişi: açıq dəri tonu
-🤵🏼	adam, orta-açıq dəri tonu, smokinq, smokinqli kişi, smokinqli kişi: orta-açıq dəri tonu
-🤵🏽	adam, orta dəri tonu, smokinq, smokinqli kişi, smokinqli kişi: orta dəri tonu
-🤵🏾	adam, orta-tünd dəri tonu, smokinq, smokinqli kişi, smokinqli kişi: orta-tünd dəri tonu
-🤵🏿	adam, smokinq, smokinqli kişi, smokinqli kişi: tünd dəri tonu, tünd dəri tonu
-👰	duvaq, duvaqlı gəlin, gəlin, toy
-👰🏻	açıq dəri tonu, duvaq, duvaqlı gəlin, duvaqlı gəlin: açıq dəri tonu, gəlin, toy
-👰🏼	duvaq, duvaqlı gəlin, duvaqlı gəlin: orta-açıq dəri tonu, gəlin, orta-açıq dəri tonu, toy
-👰🏽	duvaq, duvaqlı gəlin, duvaqlı gəlin: orta dəri tonu, gəlin, orta dəri tonu, toy
-👰🏾	duvaq, duvaqlı gəlin, duvaqlı gəlin: orta-tünd dəri tonu, gəlin, orta-tünd dəri tonu, toy
-👰🏿	duvaq, duvaqlı gəlin, duvaqlı gəlin: tünd dəri tonu, gəlin, toy, tünd dəri tonu
+🤵	bəy, smokinq, smokinqli şəxs, şəxs
+🤵🏻	açıq dəri tonu, bəy, smokinq, smokinqli şəxs, smokinqli şəxs: açıq dəri tonu, şəxs
+🤵🏼	bəy, orta-açıq dəri tonu, smokinq, smokinqli şəxs, smokinqli şəxs: orta-açıq dəri tonu, şəxs
+🤵🏽	bəy, orta dəri tonu, smokinq, smokinqli şəxs, smokinqli şəxs: orta dəri tonu, şəxs
+🤵🏾	bəy, orta-tünd dəri tonu, smokinq, smokinqli şəxs, smokinqli şəxs: orta-tünd dəri tonu, şəxs
+🤵🏿	bəy, smokinq, smokinqli şəxs, smokinqli şəxs: tünd dəri tonu, tünd dəri tonu, şəxs
+🤵‍♂	adam, smokinq, smokinqli adam
+🤵🏻‍♂	adam, açıq dəri tonu, smokinq, smokinqli adam, smokinqli adam: açıq dəri tonu
+🤵🏼‍♂	adam, orta-açıq dəri tonu, smokinq, smokinqli adam, smokinqli adam: orta-açıq dəri tonu
+🤵🏽‍♂	adam, orta dəri tonu, smokinq, smokinqli adam, smokinqli adam: orta dəri tonu
+🤵🏾‍♂	adam, orta-tünd dəri tonu, smokinq, smokinqli adam, smokinqli adam: orta-tünd dəri tonu
+🤵🏿‍♂	adam, smokinq, smokinqli adam, smokinqli adam: tünd dəri tonu, tünd dəri tonu
+🤵‍♀	qadın, smokinq, smokinqli qadın
+🤵🏻‍♀	açıq dəri tonu, qadın, smokinq, smokinqli qadın, smokinqli qadın: açıq dəri tonu
+🤵🏼‍♀	orta-açıq dəri tonu, qadın, smokinq, smokinqli qadın, smokinqli qadın: orta-açıq dəri tonu
+🤵🏽‍♀	orta dəri tonu, qadın, smokinq, smokinqli qadın, smokinqli qadın: orta dəri tonu
+🤵🏾‍♀	orta-tünd dəri tonu, qadın, smokinq, smokinqli qadın, smokinqli qadın: orta-tünd dəri tonu
+🤵🏿‍♀	qadın, smokinq, smokinqli qadın, smokinqli qadın: tünd dəri tonu, tünd dəri tonu
+👰	duvaq, duvaqlı şəxs, gəlin, toy, şəxs
+👰🏻	açıq dəri tonu, duvaq, duvaqlı şəxs, duvaqlı şəxs: açıq dəri tonu, gəlin, toy, şəxs
+👰🏼	duvaq, duvaqlı şəxs, duvaqlı şəxs: orta-açıq dəri tonu, gəlin, orta-açıq dəri tonu, toy, şəxs
+👰🏽	duvaq, duvaqlı şəxs, duvaqlı şəxs: orta dəri tonu, gəlin, orta dəri tonu, toy, şəxs
+👰🏾	duvaq, duvaqlı şəxs, duvaqlı şəxs: orta-tünd dəri tonu, gəlin, orta-tünd dəri tonu, toy, şəxs
+👰🏿	duvaq, duvaqlı şəxs, duvaqlı şəxs: tünd dəri tonu, gəlin, toy, tünd dəri tonu, şəxs
+👰‍♂	adam, duvaq, duvaqlı adam
+👰🏻‍♂	adam, açıq dəri tonu, duvaq, duvaqlı adam, duvaqlı adam: açıq dəri tonu
+👰🏼‍♂	adam, duvaq, duvaqlı adam, duvaqlı adam: orta-açıq dəri tonu, orta-açıq dəri tonu
+👰🏽‍♂	adam, duvaq, duvaqlı adam, duvaqlı adam: orta dəri tonu, orta dəri tonu
+👰🏾‍♂	adam, duvaq, duvaqlı adam, duvaqlı adam: orta-tünd dəri tonu, orta-tünd dəri tonu
+👰🏿‍♂	adam, duvaq, duvaqlı adam, duvaqlı adam: tünd dəri tonu, tünd dəri tonu
+👰‍♀	duvaq, duvaqlı qadın, qadın
+👰🏻‍♀	açıq dəri tonu, duvaq, duvaqlı qadın, duvaqlı qadın: açıq dəri tonu, qadın
+👰🏼‍♀	duvaq, duvaqlı qadın, duvaqlı qadın: orta-açıq dəri tonu, orta-açıq dəri tonu, qadın
+👰🏽‍♀	duvaq, duvaqlı qadın, duvaqlı qadın: orta dəri tonu, orta dəri tonu, qadın
+👰🏾‍♀	duvaq, duvaqlı qadın, duvaqlı qadın: orta-tünd dəri tonu, orta-tünd dəri tonu, qadın
+👰🏿‍♀	duvaq, duvaqlı qadın, duvaqlı qadın: tünd dəri tonu, qadın, tünd dəri tonu
 🤰	hamilə, hamilə qadın, qadın, uşaq
 🤰🏻	açıq dəri tonu, hamilə, hamilə qadın: açıq dəri tonu, qadın, uşaq
 🤰🏼	hamilə, hamilə qadın: orta-açıq dəri tonu, orta-açıq dəri tonu, qadın, uşaq
@@ -1027,24 +1182,48 @@
 🤱🏽	döş, körpə, orta dəri tonu, uşaq əmizdirmə, uşaq əmizdirmə: orta dəri tonu, yedirtmə
 🤱🏾	döş, körpə, orta-tünd dəri tonu, uşaq əmizdirmə, uşaq əmizdirmə: orta-tünd dəri tonu, yedirtmə
 🤱🏿	döş, körpə, tünd dəri tonu, uşaq əmizdirmə, uşaq əmizdirmə: tünd dəri tonu, yedirtmə
+👩‍🍼	bəsləyən, körpə, körpə əmizdirən qadın, qadın, əmizdirən
+👩🏻‍🍼	açıq dəri tonu, bəsləyən, körpə, körpə əmizdirən qadın: açıq dəri tonu, qadın, əmizdirən
+👩🏼‍🍼	bəsləyən, körpə, körpə əmizdirən qadın: orta-açıq dəri tonu, orta-açıq dəri tonu, qadın, əmizdirən
+👩🏽‍🍼	bəsləyən, körpə, körpə əmizdirən qadın: orta dəri tonu, orta dəri tonu, qadın, əmizdirən
+👩🏾‍🍼	bəsləyən, körpə, körpə əmizdirən qadın: orta-tünd dəri tonu, orta-tünd dəri tonu, qadın, əmizdirən
+👩🏿‍🍼	bəsləyən, körpə, körpə əmizdirən qadın: tünd dəri tonu, qadın, tünd dəri tonu, əmizdirən
+👨‍🍼	bəsləyən, kişi, körpə, körpə əmizdirən kişi, əmizdirən
+👨🏻‍🍼	açıq dəri tonu, bəsləyən, kişi, körpə, körpə əmizdirən kişi: açıq dəri tonu, əmizdirən
+👨🏼‍🍼	bəsləyən, kişi, körpə, körpə əmizdirən kişi: orta-açıq dəri tonu, orta-açıq dəri tonu, əmizdirən
+👨🏽‍🍼	bəsləyən, kişi, körpə, körpə əmizdirən kişi: orta dəri tonu, orta dəri tonu, əmizdirən
+👨🏾‍🍼	bəsləyən, kişi, körpə, körpə əmizdirən kişi: orta-tünd dəri tonu, orta-tünd dəri tonu, əmizdirən
+👨🏿‍🍼	bəsləyən, kişi, körpə, körpə əmizdirən kişi: tünd dəri tonu, tünd dəri tonu, əmizdirən
+🧑‍🍼	körpə əmizdirən şəxs, körpə, əmizdirən, bəsləyən, şəxs
+🧑🏻‍🍼	açıq dəri tonu, körpə əmizdirən şəxs, körpə əmizdirən şəxs: açıq dəri tonu, körpə, əmizdirən, bəsləyən, şəxs
+🧑🏼‍🍼	körpə əmizdirən şəxs, körpə əmizdirən şəxs: orta-açıq dəri tonu, körpə, əmizdirən, bəsləyən, şəxs, orta-açıq dəri tonu
+🧑🏽‍🍼	körpə əmizdirən şəxs, körpə əmizdirən şəxs: orta dəri tonu, körpə, əmizdirən, bəsləyən, şəxs, orta dəri tonu
+🧑🏾‍🍼	körpə əmizdirən şəxs, körpə əmizdirən şəxs: orta-tünd dəri tonu, körpə, əmizdirən, bəsləyən, şəxs, orta-tünd dəri tonu
+🧑🏿‍🍼	körpə əmizdirən şəxs, körpə əmizdirən şəxs: tünd dəri tonu, körpə, əmizdirən, bəsləyən, şəxs, tünd dəri tonu
 👼	fantastika, körpə, körpə mələk, mələk, nağıl, üz
 👼🏻	açıq dəri tonu, fantastika, körpə, körpə mələk: açıq dəri tonu, mələk, nağıl, üz
 👼🏼	fantastika, körpə, körpə mələk: orta-açıq dəri tonu, mələk, nağıl, orta-açıq dəri tonu, üz
 👼🏽	fantastika, körpə, körpə mələk: orta dəri tonu, mələk, nağıl, orta dəri tonu, üz
 👼🏾	fantastika, körpə, körpə mələk: orta-tünd dəri tonu, mələk, nağıl, orta-tünd dəri tonu, üz
 👼🏿	fantastika, körpə, körpə mələk: tünd dəri tonu, mələk, nağıl, tünd dəri tonu, üz
-🎅	Santa Klaus, ata, bayram, fantastika, milad, nağıl, santa, santa klaus
-🎅🏻	Santa Klaus, Santa Klaus: açıq dəri tonu, ata, açıq dəri tonu, bayram, fantastika, milad, nağıl, santa, santa klaus
-🎅🏼	Santa Klaus, Santa Klaus: orta-açıq dəri tonu, ata, bayram, fantastika, milad, nağıl, orta-açıq dəri tonu, santa, santa klaus
-🎅🏽	Santa Klaus, Santa Klaus: orta dəri tonu, ata, bayram, fantastika, milad, nağıl, orta dəri tonu, santa, santa klaus
-🎅🏾	Santa Klaus, Santa Klaus: orta-tünd dəri tonu, ata, bayram, fantastika, milad, nağıl, orta-tünd dəri tonu, santa, santa klaus
-🎅🏿	Santa Klaus, Santa Klaus: tünd dəri tonu, ata, bayram, fantastika, milad, nağıl, santa, santa klaus, tünd dəri tonu
+🎅	Santa Klaus, ata, bayram, milad, nağıl, santa, santa klaus
+🎅🏻	Santa Klaus, Santa Klaus: açıq dəri tonu, ata, açıq dəri tonu, bayram, milad, nağıl, santa, santa klaus
+🎅🏼	Santa Klaus, Santa Klaus: orta-açıq dəri tonu, ata, bayram, milad, nağıl, orta-açıq dəri tonu, santa, santa klaus
+🎅🏽	Santa Klaus, Santa Klaus: orta dəri tonu, ata, bayram, milad, nağıl, orta dəri tonu, santa, santa klaus
+🎅🏾	Santa Klaus, Santa Klaus: orta-tünd dəri tonu, ata, bayram, milad, nağıl, orta-tünd dəri tonu, santa, santa klaus
+🎅🏿	Santa Klaus, Santa Klaus: tünd dəri tonu, ata, bayram, milad, nağıl, santa, santa klaus, tünd dəri tonu
 🤶	Klaus, Milad, ana, bayram, xanım, xanım Klaus
 🤶🏻	Klaus, Milad, ana, açıq dəri tonu, bayram, xanım, xanım Klaus: açıq dəri tonu
 🤶🏼	Klaus, Milad, ana, bayram, orta-açıq dəri tonu, xanım, xanım Klaus: orta-açıq dəri tonu
 🤶🏽	Klaus, Milad, ana, bayram, orta dəri tonu, xanım, xanım Klaus: orta dəri tonu
 🤶🏾	Klaus, Milad, ana, bayram, orta-tünd dəri tonu, xanım, xanım Klaus: orta-tünd dəri tonu
 🤶🏿	Klaus, Milad, ana, bayram, tünd dəri tonu, xanım, xanım Klaus: tünd dəri tonu
+🧑‍🎄	Klaus, milad, mx klaus
+🧑🏻‍🎄	Klaus, milad, açıq dəri tonu, mx klaus, mx klaus: açıq dəri tonu
+🧑🏼‍🎄	Klaus, milad, mx klaus, mx klaus: orta-açıq dəri tonu, orta-açıq dəri tonu
+🧑🏽‍🎄	Klaus, milad, mx klaus, mx klaus: orta dəri tonu, orta dəri tonu
+🧑🏾‍🎄	Klaus, milad, mx klaus, mx klaus: orta-tünd dəri tonu, orta-tünd dəri tonu
+🧑🏿‍🎄	Klaus, milad, mx klaus, mx klaus: tünd dəri tonu, tünd dəri tonu
 🦸	qəhrəman, supergüc, superqəhrəman, xeyirxah
 🦸🏻	açıq dəri tonu, qəhrəman, supergüc, superqəhrəman, superqəhrəman: açıq dəri tonu, xeyirxah
 🦸🏼	orta-açıq dəri tonu, qəhrəman, supergüc, superqəhrəman, superqəhrəman: orta-açıq dəri tonu, xeyirxah
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	dizi üstündə, dizi üstündə qadın, dizi üstündə qadın: orta dəri tonu, orta dəri tonu, qadın
 🧎🏾‍♀	dizi üstündə, dizi üstündə qadın, dizi üstündə qadın: orta-tünd dəri tonu, orta-tünd dəri tonu, qadın
 🧎🏿‍♀	dizi üstündə, dizi üstündə qadın, dizi üstündə qadın: tünd dəri tonu, qadın, tünd dəri tonu
+🧑‍🦯	kor, xüsusi funksiyalar, zondlayan çəlikli adam
+🧑🏻‍🦯	açıq dəri tonu, kor, xüsusi funksiyalar, zondlayan çəlikli adam, zondlayan çəlikli adam: açıq dəri tonu
+🧑🏼‍🦯	kor, orta-açıq dəri tonu, xüsusi funksiyalar, zondlayan çəlikli adam, zondlayan çəlikli adam: orta-açıq dəri tonu
+🧑🏽‍🦯	kor, orta dəri tonu, xüsusi funksiyalar, zondlayan çəlikli adam, zondlayan çəlikli adam: orta dəri tonu
+🧑🏾‍🦯	kor, orta-tünd dəri tonu, xüsusi funksiyalar, zondlayan çəlikli adam, zondlayan çəlikli adam: orta-tünd dəri tonu
+🧑🏿‍🦯	kor, tünd dəri tonu, xüsusi funksiyalar, zondlayan çəlikli adam, zondlayan çəlikli adam: tünd dəri tonu
 👨‍🦯	kişi, kor, zond ilə kişi
 👨🏻‍🦯	açıq dəri tonu, kişi, kor, zond ilə kişi, zond ilə kişi: açıq dəri tonu
 👨🏼‍🦯	kişi, kor, orta-açıq dəri tonu, zond ilə kişi, zond ilə kişi: orta-açıq dəri tonu
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	kor, orta dəri tonu, qadın, zond ilə qadın, zond ilə qadın: orta dəri tonu
 👩🏾‍🦯	kor, orta-tünd dəri tonu, qadın, zond ilə qadın, zond ilə qadın: orta-tünd dəri tonu
 👩🏿‍🦯	kor, qadın, tünd dəri tonu, zond ilə qadın, zond ilə qadın: tünd dəri tonu
+🧑‍🦼	motorlu kresloda oturmuş adam, təkərli kreslo, xüsusi funksiyalar
+🧑🏻‍🦼	açıq dəri tonu, motorlu kresloda oturmuş adam, motorlu kresloda oturmuş adam: açıq dəri tonu, təkərli kreslo, xüsusi funksiyalar
+🧑🏼‍🦼	motorlu kresloda oturmuş adam, motorlu kresloda oturmuş adam: orta-açıq dəri tonu, orta-açıq dəri tonu, təkərli kreslo, xüsusi funksiyalar
+🧑🏽‍🦼	motorlu kresloda oturmuş adam, motorlu kresloda oturmuş adam: orta dəri tonu, orta dəri tonu, təkərli kreslo, xüsusi funksiyalar
+🧑🏾‍🦼	motorlu kresloda oturmuş adam, motorlu kresloda oturmuş adam: orta-tünd dəri tonu, orta-tünd dəri tonu, təkərli kreslo, xüsusi funksiyalar
+🧑🏿‍🦼	motorlu kresloda oturmuş adam, motorlu kresloda oturmuş adam: tünd dəri tonu, tünd dəri tonu, təkərli kreslo, xüsusi funksiyalar
 👨‍🦼	kişi, motorlu, motorlu oturacaqda kişi, oturacaqda
 👨🏻‍🦼	açıq dəri tonu, kişi, motorlu, motorlu oturacaqda kişi: açıq dəri tonu, oturacaqda
 👨🏼‍🦼	kişi, motorlu, motorlu oturacaqda kişi: orta-açıq dəri tonu, orta-açıq dəri tonu, oturacaqda
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	motorlu, motorlu oturacaqda qadın: orta dəri tonu, orta dəri tonu, oturacaqda, qadın
 👩🏾‍🦼	motorlu, motorlu oturacaqda qadın: orta-tünd dəri tonu, orta-tünd dəri tonu, oturacaqda, qadın
 👩🏿‍🦼	motorlu, motorlu oturacaqda qadın: tünd dəri tonu, oturacaqda, qadın, tünd dəri tonu
+🧑‍🦽	əl arabasında adam
+🧑🏻‍🦽	açıq dəri tonu, əl arabasında adam, əl arabasında adam: açıq dəri tonu
+🧑🏼‍🦽	orta-açıq dəri tonu, əl arabasında adam, əl arabasında adam: orta-açıq dəri tonu
+🧑🏽‍🦽	orta dəri tonu, əl arabasında adam, əl arabasında adam: orta dəri tonu
+🧑🏾‍🦽	orta-tünd dəri tonu, əl arabasında adam, əl arabasında adam: orta-tünd dəri tonu
+🧑🏿‍🦽	tünd dəri tonu, əl arabasında adam, əl arabasında adam: tünd dəri tonu
 👨‍🦽	kişi, manual, manual oturacaqda kişi, oturacaqda
 👨🏻‍🦽	açıq dəri tonu, kişi, manual, manual oturacaqda kişi: açıq dəri tonu, oturacaqda
 👨🏼‍🦽	kişi, manual, manual oturacaqda kişi: orta-açıq dəri tonu, orta-açıq dəri tonu, oturacaqda
@@ -1643,15 +1840,25 @@
 🛌🏿	otel, tünd dəri tonu, yataqda uzanmış adam, yataqda uzanmış adam: tünd dəri tonu, yatmaq
 🧑‍🤝‍🧑	cütlük, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutmaq
 🧑🏻‍🤝‍🧑🏻	açıq dəri tonu, cütlük, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: açıq dəri tonu, əl-ələ tutmaq
+🧑🏻‍🤝‍🧑🏼	açıq dəri tonu, cütlük, orta-açıq dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: açıq dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
+🧑🏻‍🤝‍🧑🏽	açıq dəri tonu, cütlük, orta dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: açıq dəri tonu, orta dəri tonu, əl-ələ tutmaq
+🧑🏻‍🤝‍🧑🏾	açıq dəri tonu, cütlük, orta-tünd dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: açıq dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
+🧑🏻‍🤝‍🧑🏿	açıq dəri tonu, cütlük, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: açıq dəri tonu, tünd dəri tonu, əl-ələ tutmaq
 🧑🏼‍🤝‍🧑🏻	açıq dəri tonu, cütlük, orta-açıq dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-açıq dəri tonu, açıq dəri tonu, əl-ələ tutmaq
 🧑🏼‍🤝‍🧑🏼	cütlük, orta-açıq dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-açıq dəri tonu, əl-ələ tutmaq
+🧑🏼‍🤝‍🧑🏽	cütlük, orta dəri tonu, orta-açıq dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-açıq dəri tonu, orta dəri tonu, əl-ələ tutmaq
+🧑🏼‍🤝‍🧑🏾	cütlük, orta-açıq dəri tonu, orta-tünd dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-açıq dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
+🧑🏼‍🤝‍🧑🏿	cütlük, orta-açıq dəri tonu, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-açıq dəri tonu, tünd dəri tonu, əl-ələ tutmaq
 🧑🏽‍🤝‍🧑🏻	açıq dəri tonu, cütlük, orta dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta dəri tonu, açıq dəri tonu, əl-ələ tutmaq
 🧑🏽‍🤝‍🧑🏼	cütlük, orta dəri tonu, orta-açıq dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
 🧑🏽‍🤝‍🧑🏽	cütlük, orta dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta dəri tonu, əl-ələ tutmaq
+🧑🏽‍🤝‍🧑🏾	cütlük, orta dəri tonu, orta-tünd dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
+🧑🏽‍🤝‍🧑🏿	cütlük, orta dəri tonu, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta dəri tonu, tünd dəri tonu, əl-ələ tutmaq
 🧑🏾‍🤝‍🧑🏻	açıq dəri tonu, cütlük, orta-tünd dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-tünd dəri tonu, açıq dəri tonu, əl-ələ tutmaq
 🧑🏾‍🤝‍🧑🏼	cütlük, orta-açıq dəri tonu, orta-tünd dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-tünd dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
 🧑🏾‍🤝‍🧑🏽	cütlük, orta dəri tonu, orta-tünd dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-tünd dəri tonu, orta dəri tonu, əl-ələ tutmaq
 🧑🏾‍🤝‍🧑🏾	cütlük, orta-tünd dəri tonu, tutmaq, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-tünd dəri tonu, əl-ələ tutmaq
+🧑🏾‍🤝‍🧑🏿	cütlük, orta-tünd dəri tonu, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: orta-tünd dəri tonu, tünd dəri tonu, əl-ələ tutmaq
 🧑🏿‍🤝‍🧑🏻	açıq dəri tonu, cütlük, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: tünd dəri tonu, açıq dəri tonu, əl-ələ tutmaq
 🧑🏿‍🤝‍🧑🏼	cütlük, orta-açıq dəri tonu, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: tünd dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
 🧑🏿‍🤝‍🧑🏽	cütlük, orta dəri tonu, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: tünd dəri tonu, orta dəri tonu, əl-ələ tutmaq
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	cütlük, tutmaq, tünd dəri tonu, əl, əl-ələ tutan adamlar, əl-ələ tutan adamlar: tünd dəri tonu, əl-ələ tutmaq
 👭	cütlük, qadın, tutmaq, əl, əl-ələ tutan iki qadın
 👭🏻	açıq dəri tonu, cütlük, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: açıq dəri tonu
+👩🏻‍🤝‍👩🏼	açıq dəri tonu, cütlük, orta-açıq dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: açıq dəri tonu, orta-açıq dəri tonu
+👩🏻‍🤝‍👩🏽	açıq dəri tonu, cütlük, orta dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: açıq dəri tonu, orta dəri tonu
+👩🏻‍🤝‍👩🏾	açıq dəri tonu, cütlük, orta-tünd dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: açıq dəri tonu, orta-tünd dəri tonu
+👩🏻‍🤝‍👩🏿	açıq dəri tonu, cütlük, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: açıq dəri tonu, tünd dəri tonu
 👩🏼‍🤝‍👩🏻	açıq dəri tonu, cütlük, orta-açıq dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-açıq dəri tonu, açıq dəri tonu
 👭🏼	cütlük, orta-açıq dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-açıq dəri tonu
+👩🏼‍🤝‍👩🏽	cütlük, orta dəri tonu, orta-açıq dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-açıq dəri tonu, orta dəri tonu
+👩🏼‍🤝‍👩🏾	cütlük, orta-açıq dəri tonu, orta-tünd dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-açıq dəri tonu, orta-tünd dəri tonu
+👩🏼‍🤝‍👩🏿	cütlük, orta-açıq dəri tonu, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-açıq dəri tonu, tünd dəri tonu
 👩🏽‍🤝‍👩🏻	açıq dəri tonu, cütlük, orta dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta dəri tonu, açıq dəri tonu
 👩🏽‍🤝‍👩🏼	cütlük, orta dəri tonu, orta-açıq dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta dəri tonu, orta-açıq dəri tonu
 👭🏽	cütlük, orta dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta dəri tonu
+👩🏽‍🤝‍👩🏾	cütlük, orta dəri tonu, orta-tünd dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta dəri tonu, orta-tünd dəri tonu
+👩🏽‍🤝‍👩🏿	cütlük, orta dəri tonu, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta dəri tonu, tünd dəri tonu
 👩🏾‍🤝‍👩🏻	açıq dəri tonu, cütlük, orta-tünd dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-tünd dəri tonu, açıq dəri tonu
 👩🏾‍🤝‍👩🏼	cütlük, orta-açıq dəri tonu, orta-tünd dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-tünd dəri tonu, orta-açıq dəri tonu
 👩🏾‍🤝‍👩🏽	cütlük, orta dəri tonu, orta-tünd dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-tünd dəri tonu, orta dəri tonu
 👭🏾	cütlük, orta-tünd dəri tonu, qadın, tutmaq, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-tünd dəri tonu
+👩🏾‍🤝‍👩🏿	cütlük, orta-tünd dəri tonu, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: orta-tünd dəri tonu, tünd dəri tonu
 👩🏿‍🤝‍👩🏻	açıq dəri tonu, cütlük, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: tünd dəri tonu, açıq dəri tonu
 👩🏿‍🤝‍👩🏼	cütlük, orta-açıq dəri tonu, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: tünd dəri tonu, orta-açıq dəri tonu
 👩🏿‍🤝‍👩🏽	cütlük, orta dəri tonu, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan iki qadın, əl-ələ tutan iki qadın: tünd dəri tonu, orta dəri tonu
@@ -1699,22 +1916,32 @@
 👩🏿‍🤝‍👨🏽	cütlük, kişi, orta dəri tonu, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan kişi və qadın, əl-ələ tutan kişi və qadın: tünd dəri tonu, orta dəri tonu, əl-ələ tutmaq
 👩🏿‍🤝‍👨🏾	cütlük, kişi, orta-tünd dəri tonu, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan kişi və qadın, əl-ələ tutan kişi və qadın: tünd dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
 👫🏿	cütlük, kişi, qadın, tutmaq, tünd dəri tonu, əl, əl-ələ tutan kişi və qadın, əl-ələ tutan kişi və qadın: tünd dəri tonu, əl-ələ tutmaq
-👬	cütlük, kişi, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi
-👬🏻	açıq dəri tonu, cütlük, kişi, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: açıq dəri tonu
-👨🏼‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-açıq dəri tonu, açıq dəri tonu
-👬🏼	cütlük, kişi, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-açıq dəri tonu
-👨🏽‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, orta dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu, açıq dəri tonu
-👨🏽‍🤝‍👨🏼	cütlük, kişi, orta dəri tonu, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu, orta-açıq dəri tonu
-👬🏽	cütlük, kişi, orta dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu
-👨🏾‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, açıq dəri tonu
-👨🏾‍🤝‍👨🏼	cütlük, kişi, orta-açıq dəri tonu, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, orta-açıq dəri tonu
-👨🏾‍🤝‍👨🏽	cütlük, kişi, orta dəri tonu, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, orta dəri tonu
-👬🏾	cütlük, kişi, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu
-👨🏿‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, açıq dəri tonu
-👨🏿‍🤝‍👨🏼	cütlük, kişi, orta-açıq dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, orta-açıq dəri tonu
-👨🏿‍🤝‍👨🏽	cütlük, kişi, orta dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, orta dəri tonu
-👨🏿‍🤝‍👨🏾	cütlük, kişi, orta-tünd dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, orta-tünd dəri tonu
-👬🏿	cütlük, kişi, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl, əl-ələ tutan, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu
+👬	cütlük, kişi, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutmaq
+👬🏻	açıq dəri tonu, cütlük, kişi, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: açıq dəri tonu, əl-ələ tutmaq
+👨🏻‍🤝‍👨🏼	açıq dəri tonu, cütlük, kişi, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: açıq dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
+👨🏻‍🤝‍👨🏽	açıq dəri tonu, cütlük, kişi, orta dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: açıq dəri tonu, orta dəri tonu, əl-ələ tutmaq
+👨🏻‍🤝‍👨🏾	açıq dəri tonu, cütlük, kişi, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: açıq dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
+👨🏻‍🤝‍👨🏿	açıq dəri tonu, cütlük, kişi, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: açıq dəri tonu, tünd dəri tonu, əl-ələ tutmaq
+👨🏼‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-açıq dəri tonu, açıq dəri tonu, əl-ələ tutmaq
+👬🏼	cütlük, kişi, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-açıq dəri tonu, əl-ələ tutmaq
+👨🏼‍🤝‍👨🏽	cütlük, kişi, orta dəri tonu, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-açıq dəri tonu, orta dəri tonu, əl-ələ tutmaq
+👨🏼‍🤝‍👨🏾	cütlük, kişi, orta-açıq dəri tonu, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-açıq dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
+👨🏼‍🤝‍👨🏿	cütlük, kişi, orta-açıq dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-açıq dəri tonu, tünd dəri tonu, əl-ələ tutmaq
+👨🏽‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, orta dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu, açıq dəri tonu, əl-ələ tutmaq
+👨🏽‍🤝‍👨🏼	cütlük, kişi, orta dəri tonu, orta-açıq dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
+👬🏽	cütlük, kişi, orta dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu, əl-ələ tutmaq
+👨🏽‍🤝‍👨🏾	cütlük, kişi, orta dəri tonu, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
+👨🏽‍🤝‍👨🏿	cütlük, kişi, orta dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta dəri tonu, tünd dəri tonu, əl-ələ tutmaq
+👨🏾‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, açıq dəri tonu, əl-ələ tutmaq
+👨🏾‍🤝‍👨🏼	cütlük, kişi, orta-açıq dəri tonu, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
+👨🏾‍🤝‍👨🏽	cütlük, kişi, orta dəri tonu, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, orta dəri tonu, əl-ələ tutmaq
+👬🏾	cütlük, kişi, orta-tünd dəri tonu, tutmaq, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, əl-ələ tutmaq
+👨🏾‍🤝‍👨🏿	cütlük, kişi, orta-tünd dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: orta-tünd dəri tonu, tünd dəri tonu, əl-ələ tutmaq
+👨🏿‍🤝‍👨🏻	açıq dəri tonu, cütlük, kişi, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, açıq dəri tonu, əl-ələ tutmaq
+👨🏿‍🤝‍👨🏼	cütlük, kişi, orta-açıq dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, orta-açıq dəri tonu, əl-ələ tutmaq
+👨🏿‍🤝‍👨🏽	cütlük, kişi, orta dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, orta dəri tonu, əl-ələ tutmaq
+👨🏿‍🤝‍👨🏾	cütlük, kişi, orta-tünd dəri tonu, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, orta-tünd dəri tonu, əl-ələ tutmaq
+👬🏿	cütlük, kişi, tutmaq, tünd dəri tonu, zodiak, əkizlər, əl-ələ tutan iki kişi, əl-ələ tutan iki kişi: tünd dəri tonu, əl-ələ tutmaq
 💏	cütlük, romantika, öpüş
 👩‍❤‍💋‍👨	cütlük, kişi, qadın, romantika, öpüş, öpüş: qadın, kişi
 👨‍❤‍💋‍👨	cütlük, kişi, romantika, öpüş, öpüş: kişi, kişi
@@ -1752,6 +1979,7 @@
 🗣️	baş, danışan, danışan baş, danışmaq, siluet, üz
 👤	büst, büst silueti, siluet
 👥	büst, büst siluetləri, siluet
+🫂	qucaqlaşan insanlar, qucaqlaşma, salam, sağ ol, təşəkkürlər
 👣	ayaq izi, ayaq izləri, geyim, iz
 🦰	kürən, qırmızı saç
 🦱	afro, buruq, buruq saç, zülf
@@ -1771,6 +1999,7 @@
 🦝	hiyləgər, maraq içində olan, yenot
 🐱	ev heyvanı, pişik, pişik üzü, üz
 🐈️	ev heyvanı, pişik
+🐈‍⬛	pişik, qara, qara pişik, uğursuz
 🦁	aslan, zodiak, üz, şir, şir üzü
 🐯	pələng, pələng üzü, üz
 🐅	pələng
@@ -1780,6 +2009,7 @@
 🦄	təkbuynuz, təkbuynuz üzü, üz
 🦓	zebra, zolaq
 🦌	heyvan, maral
+🦬	bizon, kəl, sürü, zubr
 🐮	inək, inək üzü, üz
 🐂	buğa, zodiak, öküz
 🐃	camış, su, su camışı
@@ -1796,6 +2026,7 @@
 🦙	alpaka, lama, quanako, vikunya, yun
 🦒	ləkələr, zürafə
 🐘	fil
+🦣	böyük, diş, mamont, xovlu, yox olma
 🦏	heyvan, kərgədan
 🦛	hippo, hippopotam
 🐭	siçan, siçan üzü, üz
@@ -1805,9 +2036,11 @@
 🐰	dovşan, dovşan üzü, ev heyvanı, üz
 🐇	dovşan, ev heyvanı
 🐿️	brunduk, burunduk
+🦫	dişi, qunduz
 🦔	kirpi, tikanlı
 🦇	vampir, yarasa
 🐻	ayı, ayı üzü, üz
+🐻‍❄	arktika, ayı, ağ, qütb ayısı
 🐨	ayı, koala
 🐼	panda, panda üzü, üz
 🦥	tənbəl, yavaş
@@ -1829,12 +2062,14 @@
 🦆	quş, ördək
 🦢	qu, qu balası, quş, suya girmə
 🦉	bayquş, müdrik, quş
+🦤	Mavriki, böyük, dodo, yox olma
+🪶	lələk, quş, tük, uçuş, yüngül
 🦩	flaminqo, rəngli, tropik
 🦚	farmazon, quş, qürrəli, tovuz
 🦜	pirat, quş, söhbət, tutuquşu
 🐸	qurbağa, qurbağa üzü, üz
 🐊	timsah
-🐢	tısbağa
+🐢	bağa, su tısbağası, tısbağa
 🦎	kərtənkələ, sürünən
 🐍	daşıyan, ilan, ilandaşıyan, zodiak
 🐲	nağıl, üz, əjdaha, əjdaha üzü
@@ -1844,6 +2079,7 @@
 🐳	balina, püskürtmək, su püskürdən balina, üz
 🐋	balina, kit
 🐬	delfin, üzgəc
+🦭	dəniş şiri, suiti
 🐟️	balıq, balıqlar, zodiak
 🐠	balıq, tropik, tropik balıq
 🐡	balıq, iynəqarın balıq
@@ -1855,12 +2091,16 @@
 🐛	böcək, həşərat
 🐜	həşərat, qarışqa
 🐝	arı, bal arısı, həşərat
+🪲	böcək, həşərat, tarakan
 🐞	böcək, həşərat, parabizən, parabüzən
 🦗	cırcırama, çəyirtkə
+🪳	həşərat, mətbəxqurdu, parazit, tarakan
 🕷️	hörümçək, həşərat
 🕸️	hörümçək, hörümçək toru, tor
 🦂	zodiak, əqrəb
-🦟	ağcaqənəd, həşərat, malariya, qızdırma, virus, xəstəlik
+🦟	ağcaqanad, həşərat, malariya, qızdırma, virus, xəstəlik
+🪰	milçək, sürfə, xəstəlik, ziyanverici, çürümə
+🪱	həlqəvi qurd, soxulcan, torpaq qurdu
 🦠	amöb, bakteriya, mikrob, virus
 💐	buket, gül
 🌸	albalı, albalı çiçəyi, bitki, gül, çiçək
@@ -1873,6 +2113,7 @@
 🌼	bitki, gül, çiçək
 🌷	bitki, gül, liliya
 🌱	bitki, cavan, şitil
+🪴	becərmək, bitki, dibçək bitkisi, ev, faydasız, qazma, yetişdirmə
 🌲	ağac, bitki, həmişəyaşıl
 🌳	ağac, bitki, enliyarpaqlı, enliyarpaqlı ağac, tökmək
 🌴	ağac, bitki, palma, palma ağacı
@@ -1898,8 +2139,10 @@
 🍑	meyvə, şaftalı
 🍒	albalı, bitki, meyvə
 🍓	giləmeyvə, meyvə, çiyələk
+🫐	giləmeyvə, qaragilə, qaragilələr
 🥝	kivi, meyvə
 🍅	meyvə, pomidor, tərəvəz
+🫒	meyvə, zeytun
 🥥	kokos, palma
 🥑	avokado, meyvə
 🍆	badımcan, tərəvəz
@@ -1907,6 +2150,7 @@
 🥕	kök, tərəvəz
 🌽	qarğıdalı, qarğıdalı qamışı, qarğıdalı sünbülü, sünbül
 🌶️	acı, acı bibər, bitki, istiot
+🫑	bibər, bolqar bibəri, ispan bibəri, tərəvəz
 🥒	tərəvəz, xiyar
 🥬	göyərti, kahı, kələm, salat
 🥦	brokkoli, yabanı kələm
@@ -1918,6 +2162,7 @@
 🍞	bulka, çörək
 🥐	kruasan, kökə, qəlyanaltı, çay
 🥖	kərpic çörək, tikə, yemək, çörək
+🫓	lavaş, yumru çörək, çörək
 🥨	burulmuş, pretsel
 🥯	bublik, bulki, çörəkxana
 🥞	blin, kökə, yemək
@@ -1934,12 +2179,14 @@
 🥪	sendviç, çörək
 🌮	meksika, tako
 🌯	buritto, meksika
+🫔	dürüm, meksika, tamal
 🥙	bişirmək, qutab, yemək
 🧆	falafel, küftə, noxud
 🥚	yemək, yumurta
 🍳	bişirmək, qızartmaq, tava, yumurta
 🥘	dayaz, dayaz qazan, qazan, qida, yemək
 🍲	qab, raqu, yemək qazanı
+🫕	fondyu, güvəc, isveçrə, pendir, şokolad, əridilmiş
 🥣	dənəvər, qaşıq ilə kasa, səhər yeməyi
 🥗	salat, tərəvəz, yaşıl
 🍿	popkorn
@@ -1985,10 +2232,11 @@
 🍼	içmək, körpə, süd, uşaq şüşəsi, şüşə
 🥛	bir stəkan süd, içki, stəkan, süd
 ☕️	buxarlanan, isti, isti içki, içki, içmək, kofe, çay
+🫖	içmək, kupə, çay, çaynik
 🍵	fincan, içki, içmək, qulpsuz çay fincanı, çay
 🍶	bar, fincan, içki, içmək, sake, şüşə
 🍾	bar, dartmaq, içmək, tıxac, tıxacı çıxan şüşə, şüşə
-🍷	bar, içki, içmək, şüşə, şərab, şərəb bakalı
+🍷	bar, içki, içmək, şüşə, şərab, şərab bakalı, şərəb bakalı
 🍸️	bar, içmək, kokteyl, kokteyl bakalı, şüşə
 🍹	bar, içmək, tropik, tropik içki
 🍺	bar, içmək, krujka, pivə, pivə krujkası
@@ -1996,6 +2244,7 @@
 🥂	badə, badələri qaldırmaq, sağlıq demək, toqquşdurmaq
 🥃	içki, likör, spirtli, viski stəkanı
 🥤	borucuqlu stəkan, soda, şirə
+🧋	köpük, köpüklü çay, mirvari, süd, çay
 🧃	içki qutusu, şirə qutusu
 🧉	içki, mate
 🧊	aysberq, buz kubu, soyuq
@@ -2025,13 +2274,16 @@
 🏛️	bina, klassik, klassik bina
 🏗️	bina, bina tikintisi, tikinti
 🧱	divar, kərpic, sement
+🪨	ağır, bərk, daş, qaya, qaya parçası
+🪵	ağac, kötük, odun, taxta-şalban
+🛖	alaçıq, depo, ev, çadır
 🏘️	bina, ev, ev binaları
 🏚️	baxımsız ev binası, bina, ev, tərk edilmiş
 🏠️	bina, ev, ev binası, mənzil
 🏡	bağ, bağı olan ev, bina, ev, mənzil
 🏢	bina, ofis binası
 🏣	bina, poçt, yapon, yapon poçt idarəsi
-🏤	avropa, bina, poçt, poçt idarəsi
+🏤	Avropa, bina, poçt, poçt idarəsi
 🏥	bina, həkim, tibb, xəstəxana
 🏦	bank, bina
 🏨	bina, otel
@@ -2063,7 +2315,7 @@
 🌉	axşam, gecə körpü, hava, körpü
 ♨️	bulaqlar, buxarlanan, isti, qaynar bulaqlar
 🎠	at, karusel, karusel at
-🎡	feris, feris çarxı, lunapark, çarx
+🎡	lunapark, çarx, şeytan, şeytan çarxı
 🎢	attraksion, lunapark, maneəli dəmir yolu attraksionu, çarx
 💈	bərbər, saç düzümü, sütun, şlaqbaum
 🎪	sirk, sirk çadırı, çadır
@@ -2092,6 +2344,7 @@
 🚗	avtomobil, maşın, nəqliyyat
 🚘️	avtomobil, maşın, nəqliyyat, yaxınlaşan avtomobil, yaxınlaşma
 🚙	nəqliyyat, rekreasiya, rekreasiya avtomobili, rn
+🛻	pikap, pikap yüngül avtomobil, yük avtomobili
 🚚	nəqliyyat, yük maşını, çatdırılma
 🚛	konteynerli maşın, nəqliyyat, yarım, yük maşını
 🚜	nəqliyyat, traktor
@@ -2104,6 +2357,7 @@
 🚲️	nəqliyyat, velosiped
 🛴	samokat, skuter
 🛹	bord, skeytbord
+🛼	diyircək, diyircəkli konki, konki
 🚏	avtobus, avtobus dayanacağı, dayanacaq, dayanmaq
 🛣️	yol, şosse
 🛤️	dəmir yolu, qatar
@@ -2133,8 +2387,8 @@
 🚠	dağ, dağ kanatı, kabel, nəqliyyat, qondola
 🚡	hava, hava tramvayı, kabel, kanat yol, maşın
 🛰️	kosmos, nəqliyyat, peyk
-🚀	kosmos, nəqliyyat, raketa
-🛸	UFO, uşan boşqab
+🚀	kosmos, nəqliyyat, raket
+🛸	UFO, uçan boşqab
 🛎️	otel, xidmət zəngi, xidmətçi, zəng
 🧳	səyahət, yük, əşyaları toplamaq
 ⌛️	qum, qum saatı, taymer
@@ -2241,7 +2495,7 @@
 🏅	idman medalı, medal
 🥇	1-ci yer, qalib, qızıl medal, yarışma
 🥈	2-ci yer, gümüş medal, qalib, yarışma
-🥉	2-cü yer, bürünc medal, qalib, yarışm3
+🥉	3-cü yer, bürünc medal, qalib, yarışma
 ⚽️	futbol, futbol topu, top
 ⚾️	beysbol, top
 🥎	qoltuqaltı, softbol, top, əlçək
@@ -2274,6 +2528,7 @@
 🪁	havada üzmə, uçuş, çərpələng
 🎱	8, bilyard, oyun, səkkiz, top
 🔮	alət, fantastika, kristal, kristal kürə, nağıl, top, var-dövlət
+🪄	cadugər, falçı, sehrli, sehrli çubuq
 🧿	gözdəymə, gözmuncuğu, gözmüncuğu, muncuq, talisman
 🎮️	kontroller, oyun, video oyun
 🕹️	coystik, oyun, video oyun
@@ -2281,6 +2536,8 @@
 🎲	oyun, oyun zəri, zər
 🧩	başsındırma, ipucu, parça, pazl
 🧸	oyuncaq, plüş, plüş ayı, yumşaq
+🪅	bayram, pinyata, şənlik
+🪆	gəlincik, matryoşkalar, rusiya, yuva
 ♠️	dəst, kart, oyun, qaratoxmaq, qaratoxmaq dəsti
 ♥️	dəst, kart, oyun, ürək, ürək dəsti, ürəklər
 ♦️	dəst, kart, oyun, romb, romb dəsti, romblar
@@ -2293,7 +2550,9 @@
 🖼️	incəsənət, muzey, çəkmək, çərçivə, şəkil, şəkilli çərçivə
 🎨	incəsənət, muzey, palitra, rəssam palitrası, çəkmək
 🧵	iynə, kələfçə, sap, tikiş
+🪡	dərzilik, ilgəklər, iynə, naxış, tikiş, tikiş maşınının iynəsi, tikiş yolları
 🧶	iplik, top, toxuma
+🪢	düyün, ip, kəndir, qarışıq-dolaşıq, sapma
 👓️	eynək, geyim, göz, gün eynəyi
 🕶️	eynək, göz, gün eynəyi, tünd
 🥽	göz müdafiyəsi, qaynaq, su eynəyi, üzmək
@@ -2319,6 +2578,7 @@
 👝	geyim, torba, çanta
 🛍️	alış-veriş çantaları, otel, çanta, şoppinq
 🎒	bel çantası, məktəb, məktəbli bel çantası, çanta
+🩴	rezin vyetnamka, səndəllər, vyetnamka, vyetnamkalar, zori, çimərlik səndəlləri
 👞	ayaqqabı, geyim, kişi, kişi ayaqqabısı
 👟	atletik, ayaqqabı, geyim, krossovka, qaçış ayaqqabısı
 🥾	botinka, gəzinti, gəzinti botinkası, kempinq, əşyaları yığmaq
@@ -2329,9 +2589,10 @@
 👢	ayaqqabı, geyim, qadın, qadın çəkməsi, çəkmə
 👑	geyim, kral, kraliça, tac
 👒	geyim, papaq, qadın, qadın şlyapası
-🎩	baş, geyim, papaq, silindir papaq, silindir şlayapa
+🎩	baş, geyim, papaq, silindi şlyapa, silindr papaq, silindr şlyapa
 🎓️	bayram, geyim, kepka, məzuniyyət, məzuniyyət papağı, papaq
 🧢	beysbol kepkası, kepka
+🪖	döyüşçü, dəbilqə, hərbi, hərbi dəbilqə, ordu, əsgər
 ⛑️	ağ xaçlı dəbilqə, dəbilqə, kömək, papaq, xaç, üz
 📿	abid, boyunbağı, din, geyim, muncuq, təsbeh
 💄	dodaq boyası, kosmetika, makiyaj
@@ -2356,12 +2617,14 @@
 🎧️	qulaqlıq
 📻️	radio, video
 🎷	alət, musiqi, saks, saksofon
+🪗	akkordeon, akkordion, konsertino, qarmon
 🎸	alət, gitara, musiqi
 🎹	alət, klaviatura, musiqi, musiqi klaviaturası, piano
 🎺	alət, musiqi, şeypur
 🎻	alət, musiqi, skripka
 🪕	banco, musiqi, simli alət
 🥁	davul, dəf, nağara
+🪘	konqa, ritm, təbil, uzun baraban, vurmaq
 📱	mobil, mobil telefon, telefon
 📲	mobil, ox, oxlu mobil telefon, qəbul etmək, telefon, zəng
 ☎️	telefon
@@ -2415,16 +2678,15 @@
 🔖	işarə, əlfəcin
 🏷️	etiket
 💰️	dollar, kisə, pul, pul torbası, çanta
+🪙	gümüş, metal, pul, qızıl, xırda pul, xəzinə
 💴	bank, banknot, hesab, iena, iena banknotu, yen banknotu
 💵	bank, banknot, dollar, dollar əskinazı
 💶	avro, avro əskinazı, bank, banknot
 💷	bank, funt, funt əskinazı, əskinaz
 💸	bank, dollar, hesab, not, qanadlı pullar, əskinaz
 💳️	bank, kart, kredit, kredit kartı, pul
-🧾	buxhalteriya, dəlil, mühasibat, qəbz, sübut
+🧾	dəlil, mühasibat, mühasibatlıq, qəbz, sübut
 💹	artmaq, artım, bank, bazar, cədvəl, ien ilə qalxan qrafik
-💱	bank, mübadilə, pul, valyuta, valyuta mübadiləsi
-💲	dollar, pul, qalın dollar işarəsi, valyuta
 ✉️	e-poçt, elektron poçt, zərf
 📧	e-poçt, məktub, poçt
 📨	e-poçt, elektron poçt, gələn, gələn zərf, məktub, poçt, qəbul etmək, zərf
@@ -2482,9 +2744,12 @@
 🗡️	bıçaq, silah, xəncər
 ⚔️	kəsişən, kəsişən qılınclar, qılınclar, silah
 🔫	alət, revolver, silah, tapança
+🪃	avstraliya, bumeranq, rikoşet, əksetmə
 🏹	alət, ox, ox və kaman, oxatan, silah, tənzim etmək, zodiak
 🛡️	qalxan, silah
+🪚	alət, bıçqı, dülgər, taxta-şalban, əl mişarı
 🔧	alət, təmir açarı
+🪛	alət, vint, vintaçan
 🔩	alət, bolt, bolt və qayka, qayka
 ⚙️	alət, mexanizm
 🗜️	alət, kəlbətin, sıxma
@@ -2492,8 +2757,10 @@
 🦯	kor, zond, əlverişlilik
 🔗	zəncir
 ⛓️	zəncir, zəncirlər
+🪝	cəftə, qarmaq, satış nöqtəsi, tutmaq, tələyə salmaq, əyri
 🧰	alət, alətlər qutusu, mexanik, çanta
 🧲	cazibə, maqnit, nal
+🪜	addım, dırmaşma, nərdivan, pillə
 ⚗️	alət, distillə qazanı, kimya
 🧪	eksperiment, elm, kimya, kimyaçı, laboratoriya, sınaq şüşəsi
 🧫	Petri qabı, bakteriya, biologiya, bioloq, kultura, laboratoriya
@@ -2507,26 +2774,35 @@
 🩹	bandaj, yapışan bandaj
 🩺	doktor, stetoskop, tibb, ürək
 🚪	qapı
+🛗	lift, qaldırmaq, qaldırıcı, əlverişlilik
+🪞	güzgü, reflektor, əksetdirmə
+🪟	açılır, görünüş, pəncərə, təmiz hava, çərçivə, şəffaf
 🛏️	otel, yataq, yatmaq
 🛋️	divan, divan və lampa, lampa, otel
 🪑	oturacaq, oturmaq, stul
 🚽	tualet
+🪠	lehimçi, porşen, sorma, tualet, vantuz
 🚿	duş, su
 🛁	hamam, vanna
+🪤	siçan tələsi, tutmaq, tələ, tələ yemi
 🪒	iti, kəsici, ülgüc
 🧴	gün kremi, losyon, losyon şüşəsi, nəmləndirici, şampun
 🧷	pank rok, ped, sancaq
 🧹	cadugər, süpürgə, süpürmə, təmizləmə
 🧺	paltar səbəti, piknik, səbət
 🧻	kağız rulonu, tualet kağızı
+🪣	bak, boçka, vedrə, çəllək
 🧼	sabun, sabunqabı, təmizlənmək, çimmək
+🪥	diş, diş fırçası, dişlər, fırça, gigiyena, təmiz, vanna otağı
 🧽	hopdurmaq, məsaməli, süngər, təmizləmək
 🧯	alov, alov söndürən, ocaq, söndürmək
 🛒	alış-veriş, alış-veriş arabası, araba, kisə
 🚬	siqaret
 ⚰️	tabut, ölüm
+🪦	başdaşı, məzar, məzarlıq, qəbirdaşı, qəbiristanlıq
 ⚱️	cənazə, cənazə urnası, urna, ölüm
 🗿	heykəl, moai, üz
+🪧	etiraz, işarə, nümayiş, paya, plakat
 🏧	Bankomat işarəsi, avtomat, bank, bankomat, kassir
 🚮	zibil, zibil qutusu, zibili qutuya atın işarəsi
 🚰	içmək, içməli, içməli su, su
@@ -2553,11 +2829,11 @@
 🔞	18 yaşından aşağı olanlara olmaz, on səkkiz, qadağa
 ☢️	işarə, radioaktiv
 ☣️	biotəhlükəli, işarə
-⬆️	istiqamət, kardinal, ox, üzüyuxarı ox, şimal
+⬆️	istiqamət, ox, üzüyuxarı ox, şimal, əsas
 ↗️	interkardinal, istiqamət, ox, üzüyuxarı sağa yönəlmiş ox, şimal şərq
-➡️	istiqamət, kardinal, ox, sağa ox, şərq
+➡️	istiqamət, ox, sağa ox, şərq, əsas
 ↘️	cənub şərq, interkardinal, istiqamət, ox, üzüaşağı sağa yönəlmiş ox
-⬇️	aşağı, cənub, istiqamət, kardinal, ox, üzüaşağı ox
+⬇️	aşağı, cənub, istiqamət, ox, üzüaşağı ox, əsas
 ↙️	cənub qərb, interkardinal, istiqamət, ox, üzüaşağı sola yönəlmiş ox
 ⬅️	istiqamət, kardinal, ox, qərb, sola ox
 ↖️	interkardinal, istiqamət, ox, üzüyuxarı sola yönəlmiş ox, şimal qərb
@@ -2625,8 +2901,22 @@
 📴	mobil, mobil telefonu söndürün, sönülü, telefon
 ♀️	qadın, qadın işarəsi
 ♂️	kişi, kişi işarəsi
-⚕️	eskulap, heyət, tibb, tibb işarəsi
+⚧️	transgender, transgender simvolu
+✖️	işarə, ləğv et, qalın vurma x, vur, vurma, ×
+➕	plus, qalın plus işarəsi, riyaziyyat
+➖	minus, qalın minus işarəsi, riyaziyyat
+➗	bölmə, qalın bölmə işarəsi, riyaziyyat
 ♾️	həmişəlik, limitsiz, sonsuzluq, universal
+‼️	durğu işarəsi, işarə, nida, qoşa nida, qoşa nida işarəsi
+⁉️	durğu işarəsi, işarə, nida, nida və sual işarələrinin liqaturası, nida və sual işarəsi, sual
+❓️	durğu işarəsi, işarə, sual, sual işarəsi
+❔	ağ sual işarəsi, durğu işarəsi, işarə, qeyd edilmiş, sual
+❕	ağ nida işarəsi, durğu işarəsi, işarə, nida, qeyd edilmiş
+❗️	durğu işarəsi, işarə, nida, nida işarəsi
+〰️	dalğalı tire, dalğavari, durğu işarəsi, tire
+💱	bank, mübadilə, pul, valyuta, valyuta mübadiləsi
+💲	dollar, pul, qalın dollar işarəsi, valyuta
+⚕️	eskulap, heyət, tibb, tibb işarəsi
 ♻️	təkrar istifadə, təkrar istifadə simvolu
 ⚜	zanbaq
 🔱	alət, emblem, gəmi, lövbər, üçdiş, üçdiş emblem
@@ -2636,25 +2926,14 @@
 ✅	ağ qalın təsdiq işarəsi, işarə, işarələ
 ☑️	işarələ, qutu, seçki, təsdiqlənmiş seçki qutusu
 ✔️	işarə, işarələ, qalın təsdiq işarəsi
-✖️	ləğv et, qalın vurma x, vurma, vurmaq, x
 ❌	işarə, ləğv et, vurma, vurmaq, x, çarpazlamaq işarəsi
 ❎	işarə, kvadrat, çarpazlamaq düyməsi
-➕	plus, qalın plus işarəsi, riyaziyyat
-➖	minus, qalın minus işarəsi, riyaziyyat
-➗	bölmə, qalın bölmə işarəsi, riyaziyyat
 ➰	ilmə, spiral, spiral ilmə
 ➿	ikiqat, ikiqat spiral ilmə, ilmə, spiral
 〽️	hissə, hissələri bir-birindən ayırmaq işarəsi, işarə
 ✳️	səkkiz tərəfli ulduz, ulduz
 ✴️	səkkiz guşəli ulduz, ulduz
 ❇️	qığılcım
-‼️	durğu işarəsi, işarə, nida, qoşa nida, qoşa nida işarəsi
-⁉️	durğu işarəsi, işarə, nida, nida və sual işarələrinin liqaturası, nida və sual işarəsi, sual
-❓️	durğu işarəsi, işarə, sual, sual işarəsi
-❔	ağ sual işarəsi, durğu işarəsi, işarə, qeyd edilmiş, sual
-❕	ağ nida işarəsi, durğu işarəsi, işarə, nida, qeyd edilmiş
-❗️	durğu işarəsi, işarə, nida, nida işarəsi
-〰️	dalğalı tire, dalğavari, durğu işarəsi, tire
 ©️	müəllif hüququ
 ®️	qeydiyyata alınmış, qeydiyyatlı
 ™️	işarə, ticarət nişanı, tn
@@ -2750,6 +3029,7 @@
 🏴	dalğalanan, dalğalanan qara bayraq
 🏳️	dalğalanan, dalğalanan ağ bayraq
 🏳‍🌈	bayraq, göy qurşağı, göy qurşağı bayrağı
+🏳‍⚧	bayraq, göy, çəhrayı və ağ bayraq, transgender
 🏴‍☠	cəvahirat, pirat, quldur, quldur bayrağı, Şən Roger
 🇦🇨	bayraq, bayraq: Askenson adası
 🇦🇩	bayraq, bayraq: Andorra
@@ -2850,7 +3130,7 @@
 🇬🇺	bayraq, bayraq: Quam
 🇬🇼	bayraq, bayraq: Qvineya-Bisau
 🇬🇾	bayraq, bayraq: Qayana
-🇭🇰	bayraq, bayraq: Honq Konq Xüsusi İnzibati Ərazi Çin
+🇭🇰	bayraq, bayraq: Honq Konq Xüsusi İnzibati Rayonu Çin
 🇭🇲	bayraq, bayraq: Herd və Makdonald adaları
 🇭🇳	bayraq, bayraq: Honduras
 🇭🇷	bayraq, bayraq: Xorvatiya
@@ -2900,11 +3180,11 @@
 🇲🇫	bayraq, bayraq: Sent Martin
 🇲🇬	bayraq, bayraq: Madaqaskar
 🇲🇭	bayraq, bayraq: Marşal adaları
-🇲🇰	bayraq, bayraq: Makedoniya
+🇲🇰	bayraq, bayraq: Şimali Makedoniya
 🇲🇱	bayraq, bayraq: Mali
 🇲🇲	bayraq, bayraq: Myanma
 🇲🇳	bayraq, bayraq: Monqolustan
-🇲🇴	bayraq, bayraq: Makao Xüsusi İnzibati Ərazi Çin
+🇲🇴	bayraq, bayraq: Makao XİR Çin
 🇲🇵	bayraq, bayraq: Şimali Marian adaları
 🇲🇶	bayraq, bayraq: Martinik
 🇲🇷	bayraq, bayraq: Mavritaniya

@@ -19,6 +19,7 @@
 ☺️	atsipalaidavęs, besišypsantis veidas, veidas, šypsena
 😚	akys, bučinys, bučiuojantis su užmerktomis akimis, užmerktos, veidas
 😙	akys, bučinys, bučiuojantis su besišypsančiomis akimis, veidas, šypsena
+🥲	ašara, besišypsantis, besišypsantis veidas su ašara, dėkingas, palengvėjimas, pasididžiavimas
 😋	besimėgaujantis, niam, skaniu maistu besimėgaujantis veidas, skanu, veidas, šypsena
 😛	liežuvis, veidas, veidas su iškištu liežuviu
 😜	akis, liežuvis, mirksnis, pokštas, veidas, veidas su iškištu liežuviu ir viena primerkta akimi
@@ -57,6 +58,7 @@
 🤯	sprogstanti galva, šokiruotas
 🤠	kaubojaus veidas su skrybėle, kaubojus, skrybėlė, veidas
 🥳	skrybėlė, šventimas, šventė, švenčiantis veidas, švilpynė
+🥸	akiniai, inkognito, nosis, pasislėpęs, paslėptas veidas, veidas
 😎	akiniai nuo saulės, besišypsantis veidas su akiniais nuo saulės, saulė, veidas, šaunus, šviesus
 🤓	moksliukas, moksliuko veidas, pirmūnas, veidas
 🧐	tvankus, veidas su monokliu
@@ -183,6 +185,12 @@
 👌🏽	GERAI ženklas rankomis, GERAI ženklas rankomis: rusvos odos, gerai, ranka, rusvos odos
 👌🏾	GERAI ženklas rankomis, GERAI ženklas rankomis: tamsios odos, gerai, ranka, tamsios odos
 👌🏿	GERAI ženklas rankomis, GERAI ženklas rankomis: itin tamsios odos, gerai, itin tamsios odos, ranka
+🤌	pirštai, rankos gestas, sarkastiškas, suspausti, suspausti pirštai
+🤌🏻	pirštai, rankos gestas, sarkastiškas, suspausti, suspausti pirštai: šviesios odos, šviesios odos
+🤌🏼	pirštai, rankos gestas, sarkastiškas, suspausti, suspausti pirštai: vidutinio gymio, vidutinio gymio
+🤌🏽	pirštai, rankos gestas, rusvos odos, sarkastiškas, suspausti, suspausti pirštai: rusvos odos
+🤌🏾	pirštai, rankos gestas, sarkastiškas, suspausti, suspausti pirštai: tamsios odos, tamsios odos
+🤌🏿	itin tamsios odos, pirštai, rankos gestas, sarkastiškas, suspausti, suspausti pirštai: itin tamsios odos
 🤏	mažas kiekis, žnybianti ranka
 🤏🏻	mažas kiekis, šviesios odos, žnybianti ranka, žnybianti ranka: šviesios odos
 🤏🏼	mažas kiekis, vidutinio gymio, žnybianti ranka, žnybianti ranka: vidutinio gymio
@@ -379,6 +387,8 @@
 👃🏾	kūnas, nosis, nosis: tamsios odos, tamsios odos
 👃🏿	itin tamsios odos, kūnas, nosis, nosis: itin tamsios odos
 🧠	protingas, smegenys
+🫀	centras, organas, pulsas, širdies plakimas, širdis
+🫁	iškvėpimas, kvėpavimas, organas, plaučiai, įkvėpimas
 🦷	dantis, dantistas
 🦴	kaulas, skeletas
 👀	akis, akys, veidas
@@ -421,6 +431,30 @@
 👱🏽	rusvos odos, šviesiaplaukis, šviesiaplaukis žmogus, šviesiaplaukis žmogus: rusvos odos
 👱🏾	tamsios odos, šviesiaplaukis, šviesiaplaukis žmogus, šviesiaplaukis žmogus: tamsios odos
 👱🏿	itin tamsios odos, šviesiaplaukis, šviesiaplaukis žmogus, šviesiaplaukis žmogus: itin tamsios odos
+🧑‍🦰	neutrali lytis, raudoni plaukai, suaugusysis, suaugusysis: raudoni plaukai
+🧑🏻‍🦰	neutrali lytis, raudoni plaukai, suaugusysis, suaugusysis: šviesios odos raudoni plaukai, šviesios odos
+🧑🏼‍🦰	neutrali lytis, raudoni plaukai, suaugusysis, suaugusysis: vidutinio gymio raudoni plaukai, vidutinio gymio
+🧑🏽‍🦰	neutrali lytis, raudoni plaukai, rusvos odos, suaugusysis, suaugusysis: rusvos odos raudoni plaukai
+🧑🏾‍🦰	neutrali lytis, raudoni plaukai, suaugusysis, suaugusysis: tamsios odos raudoni plaukai, tamsios odos
+🧑🏿‍🦰	itin tamsios odos, neutrali lytis, raudoni plaukai, suaugusysis, suaugusysis: itin tamsios odos raudoni plaukai
+🧑‍🦱	garbanoti plaukai, neutrali lytis, suaugusysis, suaugusysis: garbanoti plaukai
+🧑🏻‍🦱	garbanoti plaukai, neutrali lytis, suaugusysis, suaugusysis: šviesios odos garbanoti plaukai, šviesios odos
+🧑🏼‍🦱	garbanoti plaukai, neutrali lytis, suaugusysis, suaugusysis: vidutinio gymio garbanoti plaukai, vidutinio gymio
+🧑🏽‍🦱	garbanoti plaukai, neutrali lytis, rusvos odos, suaugusysis, suaugusysis: rusvos odos garbanoti plaukai
+🧑🏾‍🦱	garbanoti plaukai, neutrali lytis, suaugusysis, suaugusysis: tamsios odos garbanoti plaukai, tamsios odos
+🧑🏿‍🦱	garbanoti plaukai, itin tamsios odos, neutrali lytis, suaugusysis, suaugusysis: itin tamsios odos garbanoti plaukai
+🧑‍🦳	neutrali lytis, suaugusysis, suaugusysis: žili plaukai, žili plaukai
+🧑🏻‍🦳	neutrali lytis, suaugusysis, suaugusysis: šviesios odos žili plaukai, šviesios odos, žili plaukai
+🧑🏼‍🦳	neutrali lytis, suaugusysis, suaugusysis: vidutinio gymio žili plaukai, vidutinio gymio, žili plaukai
+🧑🏽‍🦳	neutrali lytis, rusvos odos, suaugusysis, suaugusysis: rusvos odos žili plaukai, žili plaukai
+🧑🏾‍🦳	neutrali lytis, suaugusysis, suaugusysis: tamsios odos žili plaukai, tamsios odos, žili plaukai
+🧑🏿‍🦳	itin tamsios odos, neutrali lytis, suaugusysis, suaugusysis: itin tamsios odos žili plaukai, žili plaukai
+🧑‍🦲	neutrali lytis, plikas, suaugusysis, suaugusysis: plikas
+🧑🏻‍🦲	neutrali lytis, plikas, suaugusysis, suaugusysis: šviesios odos plikas, šviesios odos
+🧑🏼‍🦲	neutrali lytis, plikas, suaugusysis, suaugusysis: vidutinio gymio plikas, vidutinio gymio
+🧑🏽‍🦲	neutrali lytis, plikas, rusvos odos, suaugusysis, suaugusysis: rusvos odos plikas
+🧑🏾‍🦲	neutrali lytis, plikas, suaugusysis, suaugusysis: tamsios odos plikas, tamsios odos
+🧑🏿‍🦲	itin tamsios odos, neutrali lytis, plikas, suaugusysis, suaugusysis: itin tamsios odos plikas
 👨	vyras
 👨🏻	vyras, vyras: šviesios odos, šviesios odos
 👨🏼	vidutinio gymio, vyras, vyras: vidutinio gymio
@@ -697,6 +731,12 @@
 🤷🏽‍♀	abejingumas, abejojanti moteris, abejojanti moteris: rusvos odos, abejonė, moteris, nežinojimas, rusvos odos, trūkčioti pečiais
 🤷🏾‍♀	abejingumas, abejojanti moteris, abejojanti moteris: tamsios odos, abejonė, moteris, nežinojimas, tamsios odos, trūkčioti pečiais
 🤷🏿‍♀	abejingumas, abejojanti moteris, abejojanti moteris: itin tamsios odos, abejonė, itin tamsios odos, moteris, nežinojimas, trūkčioti pečiais
+🧑‍⚕	gydytojas, slaugymas, sveikatos darbuotojas, sveikatos priežiūra, terapistas
+🧑🏻‍⚕	gydytojas, slaugymas, sveikatos darbuotojas, sveikatos darbuotojas: šviesios odos, sveikatos priežiūra, terapistas, šviesios odos
+🧑🏼‍⚕	gydytojas, slaugymas, sveikatos darbuotojas, sveikatos darbuotojas: vidutinio gymio, sveikatos priežiūra, terapistas, vidutinio gymio
+🧑🏽‍⚕	gydytojas, rusvos odos, slaugymas, sveikatos darbuotojas, sveikatos darbuotojas: rusvos odos, sveikatos priežiūra, terapistas
+🧑🏾‍⚕	gydytojas, slaugymas, sveikatos darbuotojas, sveikatos darbuotojas: tamsios odos, sveikatos priežiūra, tamsios odos, terapistas
+🧑🏿‍⚕	gydytojas, itin tamsios odos, slaugymas, sveikatos darbuotojas, sveikatos darbuotojas: itin tamsios odos, sveikatos priežiūra, terapistas
 👨‍⚕	gydytojas, medikas, slaugytojas, sveikata, terapeutas, vyras
 👨🏻‍⚕	gydytojas, medikas, medikas: šviesios odos, slaugytojas, sveikata, terapeutas, vyras, šviesios odos
 👨🏼‍⚕	gydytojas, medikas, medikas: vidutinio gymio, slaugytojas, sveikata, terapeutas, vidutinio gymio, vyras
@@ -709,6 +749,12 @@
 👩🏽‍⚕	gydytoja, medikė, medikė: rusvos odos, moteris, rusvos odos, seselė, sveikata, terapeutė
 👩🏾‍⚕	gydytoja, medikė, medikė: tamsios odos, moteris, seselė, sveikata, tamsios odos, terapeutė
 👩🏿‍⚕	gydytoja, itin tamsios odos, medikė, medikė: itin tamsios odos, moteris, seselė, sveikata, terapeutė
+🧑‍🎓	baigimas, paskutinio kurso studentas, studentas
+🧑🏻‍🎓	baigimas, paskutinio kurso studentas, paskutinio kurso studentas: šviesios odos, studentas, šviesios odos
+🧑🏼‍🎓	baigimas, paskutinio kurso studentas, paskutinio kurso studentas: vidutinio gymio, studentas, vidutinio gymio
+🧑🏽‍🎓	baigimas, paskutinio kurso studentas, paskutinio kurso studentas: rusvos odos, rusvos odos, studentas
+🧑🏾‍🎓	baigimas, paskutinio kurso studentas, paskutinio kurso studentas: tamsios odos, studentas, tamsios odos
+🧑🏿‍🎓	baigimas, itin tamsios odos, paskutinio kurso studentas, paskutinio kurso studentas: itin tamsios odos, studentas
 👨‍🎓	absolventas, studentas, vyras
 👨🏻‍🎓	absolventas, studentas, studentas: šviesios odos, vyras, šviesios odos
 👨🏼‍🎓	absolventas, studentas, studentas: vidutinio gymio, vidutinio gymio, vyras
@@ -721,6 +767,12 @@
 👩🏽‍🎓	absolventė, moteris, rusvos odos, studentė, studentė: rusvos odos
 👩🏾‍🎓	absolventė, moteris, studentė, studentė: tamsios odos, tamsios odos
 👩🏿‍🎓	absolventė, itin tamsios odos, moteris, studentė, studentė: itin tamsios odos
+🧑‍🏫	dėstytojas, instruktorius, mokantis žmogus, mokytojas
+🧑🏻‍🏫	dėstytojas, instruktorius, mokantis žmogus, mokantis žmogus: šviesios odos, mokytojas, šviesios odos
+🧑🏼‍🏫	dėstytojas, instruktorius, mokantis žmogus, mokantis žmogus: vidutinio gymio, mokytojas, vidutinio gymio
+🧑🏽‍🏫	dėstytojas, instruktorius, mokantis žmogus, mokantis žmogus: rusvos odos, mokytojas, rusvos odos
+🧑🏾‍🏫	dėstytojas, instruktorius, mokantis žmogus, mokantis žmogus: tamsios odos, mokytojas, tamsios odos
+🧑🏿‍🏫	dėstytojas, instruktorius, itin tamsios odos, mokantis žmogus, mokantis žmogus: itin tamsios odos, mokytojas
 👨‍🏫	dėstytojas, mokytojas, profesorius, vyras
 👨🏻‍🏫	dėstytojas, mokytojas, mokytojas: šviesios odos, profesorius, vyras, šviesios odos
 👨🏼‍🏫	dėstytojas, mokytojas, mokytojas: vidutinio gymio, profesorius, vidutinio gymio, vyras
@@ -733,6 +785,12 @@
 👩🏽‍🏫	dėstytoja, mokytoja, mokytoja: rusvos odos, moteris, profesorė, rusvos odos
 👩🏾‍🏫	dėstytoja, mokytoja, mokytoja: tamsios odos, moteris, profesorė, tamsios odos
 👩🏿‍🏫	dėstytoja, itin tamsios odos, mokytoja, mokytoja: itin tamsios odos, moteris, profesorė
+🧑‍⚖	svarstyklės, teisiantis žmogus, teisėjas
+🧑🏻‍⚖	svarstyklės, teisiantis žmogus, teisiantis žmogus: šviesios odos, teisėjas, šviesios odos
+🧑🏼‍⚖	svarstyklės, teisiantis žmogus, teisiantis žmogus: vidutinio gymio, teisėjas, vidutinio gymio
+🧑🏽‍⚖	rusvos odos, svarstyklės, teisiantis žmogus, teisiantis žmogus: rusvos odos, teisėjas
+🧑🏾‍⚖	svarstyklės, tamsios odos, teisiantis žmogus, teisiantis žmogus: tamsios odos, teisėjas
+🧑🏿‍⚖	itin tamsios odos, svarstyklės, teisiantis žmogus, teisiantis žmogus: itin tamsios odos, teisėjas
 👨‍⚖	svarstyklės, teisingumas, teisėjas, vyras
 👨🏻‍⚖	svarstyklės, teisingumas, teisėjas, teisėjas: šviesios odos, vyras, šviesios odos
 👨🏼‍⚖	svarstyklės, teisingumas, teisėjas, teisėjas: vidutinio gymio, vidutinio gymio, vyras
@@ -745,6 +803,12 @@
 👩🏽‍⚖	moteris, rusvos odos, svarstyklės, teisingumas, teisėja, teisėja: rusvos odos
 👩🏾‍⚖	moteris, svarstyklės, tamsios odos, teisingumas, teisėja, teisėja: tamsios odos
 👩🏿‍⚖	itin tamsios odos, moteris, svarstyklės, teisingumas, teisėja, teisėja: itin tamsios odos
+🧑‍🌾	sodininkas, ūkininkas, ūkininkaujantis žmogus
+🧑🏻‍🌾	sodininkas, šviesios odos, ūkininkas, ūkininkaujantis žmogus, ūkininkaujantis žmogus: šviesios odos
+🧑🏼‍🌾	sodininkas, vidutinio gymio, ūkininkas, ūkininkaujantis žmogus, ūkininkaujantis žmogus: vidutinio gymio
+🧑🏽‍🌾	rusvos odos, sodininkas, ūkininkas, ūkininkaujantis žmogus, ūkininkaujantis žmogus: rusvos odos
+🧑🏾‍🌾	sodininkas, tamsios odos, ūkininkas, ūkininkaujantis žmogus, ūkininkaujantis žmogus: tamsios odos
+🧑🏿‍🌾	itin tamsios odos, sodininkas, ūkininkas, ūkininkaujantis žmogus, ūkininkaujantis žmogus: itin tamsios odos
 👨‍🌾	darbininkas, sodininkas, vyras, ūkininkas
 👨🏻‍🌾	darbininkas, sodininkas, vyras, šviesios odos, ūkininkas, ūkininkas: šviesios odos
 👨🏼‍🌾	darbininkas, sodininkas, vidutinio gymio, vyras, ūkininkas, ūkininkas: vidutinio gymio
@@ -757,6 +821,12 @@
 👩🏽‍🌾	darbininkė, moteris, rusvos odos, sodininkė, ūkininkė, ūkininkė: rusvos odos
 👩🏾‍🌾	darbininkė, moteris, sodininkė, tamsios odos, ūkininkė, ūkininkė: tamsios odos
 👩🏿‍🌾	darbininkė, itin tamsios odos, moteris, sodininkė, ūkininkė, ūkininkė: itin tamsios odos
+🧑‍🍳	gaminantis žmogus, virėjas, šefas
+🧑🏻‍🍳	gaminantis žmogus, gaminantis žmogus: šviesios odos, virėjas, šefas, šviesios odos
+🧑🏼‍🍳	gaminantis žmogus, gaminantis žmogus: vidutinio gymio, vidutinio gymio, virėjas, šefas
+🧑🏽‍🍳	gaminantis žmogus, gaminantis žmogus: rusvos odos, rusvos odos, virėjas, šefas
+🧑🏾‍🍳	gaminantis žmogus, gaminantis žmogus: tamsios odos, tamsios odos, virėjas, šefas
+🧑🏿‍🍳	gaminantis žmogus, gaminantis žmogus: itin tamsios odos, itin tamsios odos, virėjas, šefas
 👨‍🍳	virėjas, vyras, šefas
 👨🏻‍🍳	virėjas, virėjas: šviesios odos, vyras, šefas, šviesios odos
 👨🏼‍🍳	vidutinio gymio, virėjas, virėjas: vidutinio gymio, vyras, šefas
@@ -769,6 +839,12 @@
 👩🏽‍🍳	moteris, rusvos odos, virėja, virėja: rusvos odos, šefė
 👩🏾‍🍳	moteris, tamsios odos, virėja, virėja: tamsios odos, šefė
 👩🏿‍🍳	itin tamsios odos, moteris, virėja, virėja: itin tamsios odos, šefė
+🧑‍🔧	elektrikas, mechanikas, remontuojantis žmogus, santechnikas
+🧑🏻‍🔧	elektrikas, mechanikas, remontuojantis žmogus, remontuojantis žmogus: šviesios odos, santechnikas, šviesios odos
+🧑🏼‍🔧	elektrikas, mechanikas, remontuojantis žmogus, remontuojantis žmogus: vidutinio gymio, santechnikas, vidutinio gymio
+🧑🏽‍🔧	elektrikas, mechanikas, remontuojantis žmogus, remontuojantis žmogus: rusvos odos, rusvos odos, santechnikas
+🧑🏾‍🔧	elektrikas, mechanikas, remontuojantis žmogus, remontuojantis žmogus: tamsios odos, santechnikas, tamsios odos
+🧑🏿‍🔧	elektrikas, itin tamsios odos, mechanikas, remontuojantis žmogus, remontuojantis žmogus: itin tamsios odos, santechnikas
 👨‍🔧	elektrikas, mechanikas, prekybininkas, santechnikas, vyras
 👨🏻‍🔧	elektrikas, mechanikas, mechanikas: šviesios odos, prekybininkas, santechnikas, vyras, šviesios odos
 👨🏼‍🔧	elektrikas, mechanikas, mechanikas: vidutinio gymio, prekybininkas, santechnikas, vidutinio gymio, vyras
@@ -781,6 +857,12 @@
 👩🏽‍🔧	elektrikė, mechanikė, mechanikė: rusvos odos, moteris, prekybininkė, rusvos odos, santechnikė
 👩🏾‍🔧	elektrikė, mechanikė, mechanikė: tamsios odos, moteris, prekybininkė, santechnikė, tamsios odos
 👩🏿‍🔧	elektrikė, itin tamsios odos, mechanikė, mechanikė: itin tamsios odos, moteris, prekybininkė, santechnikė
+🧑‍🏭	darbininkas, gamykla, gamyklos darbuotojas, industrinis, surinkimas
+🧑🏻‍🏭	darbininkas, gamykla, gamyklos darbuotojas, gamyklos darbuotojas: šviesios odos, industrinis, surinkimas, šviesios odos
+🧑🏼‍🏭	darbininkas, gamykla, gamyklos darbuotojas, gamyklos darbuotojas: vidutinio gymio, industrinis, surinkimas, vidutinio gymio
+🧑🏽‍🏭	darbininkas, gamykla, gamyklos darbuotojas, gamyklos darbuotojas: rusvos odos, industrinis, rusvos odos, surinkimas
+🧑🏾‍🏭	darbininkas, gamykla, gamyklos darbuotojas, gamyklos darbuotojas: tamsios odos, industrinis, surinkimas, tamsios odos
+🧑🏿‍🏭	darbininkas, gamykla, gamyklos darbuotojas, gamyklos darbuotojas: itin tamsios odos, industrinis, itin tamsios odos, surinkimas
 👨‍🏭	darbuotojas, fabrikas, fabriko darbininkas, gamyba, susirinkimas, vyras
 👨🏻‍🏭	darbuotojas, fabrikas, fabriko darbininkas, fabriko darbininkas: šviesios odos, gamyba, susirinkimas, vyras, šviesios odos
 👨🏼‍🏭	darbuotojas, fabrikas, fabriko darbininkas, fabriko darbininkas: vidutinio gymio, gamyba, susirinkimas, vidutinio gymio, vyras
@@ -793,6 +875,12 @@
 👩🏽‍🏭	darbuotoja, fabrikas, fabriko darbininkė, fabriko darbininkė: rusvos odos, gamyba, moteris, rusvos odos, susirinkimas
 👩🏾‍🏭	darbuotoja, fabrikas, fabriko darbininkė, fabriko darbininkė: tamsios odos, gamyba, moteris, susirinkimas, tamsios odos
 👩🏿‍🏭	darbuotoja, fabrikas, fabriko darbininkė, fabriko darbininkė: itin tamsios odos, gamyba, itin tamsios odos, moteris, susirinkimas
+🧑‍💼	architektas, balta apykaklė, dirbantysis biure, vadybininkas, verslas
+🧑🏻‍💼	architektas, balta apykaklė, dirbantysis biure, dirbantysis biure: šviesios odos, vadybininkas, verslas, šviesios odos
+🧑🏼‍💼	architektas, balta apykaklė, dirbantysis biure, dirbantysis biure: vidutinio gymio, vadybininkas, verslas, vidutinio gymio
+🧑🏽‍💼	architektas, balta apykaklė, dirbantysis biure, dirbantysis biure: rusvos odos, rusvos odos, vadybininkas, verslas
+🧑🏾‍💼	architektas, balta apykaklė, dirbantysis biure, dirbantysis biure: tamsios odos, tamsios odos, vadybininkas, verslas
+🧑🏿‍💼	architektas, balta apykaklė, dirbantysis biure, dirbantysis biure: itin tamsios odos, itin tamsios odos, vadybininkas, verslas
 👨‍💼	architektas, biuras, biuro darbuotojas, darbas įstaigoje, vadybininkas, verslas, vyras
 👨🏻‍💼	architektas, biuras, biuro darbuotojas, biuro darbuotojas: šviesios odos, darbas įstaigoje, vadybininkas, verslas, vyras, šviesios odos
 👨🏼‍💼	architektas, biuras, biuro darbuotojas, biuro darbuotojas: vidutinio gymio, darbas įstaigoje, vadybininkas, verslas, vidutinio gymio, vyras
@@ -805,6 +893,12 @@
 👩🏽‍💼	architektė, biuro darbuotoja, biuro darbuotoja: rusvos odos, darbas įstaigoje, moteris, rusvos odos, vadybininkė, verslas
 👩🏾‍💼	architektė, biuro darbuotoja, biuro darbuotoja: tamsios odos, darbas įstaigoje, moteris, tamsios odos, vadybininkė, verslas
 👩🏿‍💼	architektė, biuro darbuotoja, biuro darbuotoja: itin tamsios odos, darbas įstaigoje, itin tamsios odos, moteris, vadybininkė, verslas
+🧑‍🔬	biologas, chemikas, fizikas, inžinierius, mokslininkas, mokslo darbuotojas
+🧑🏻‍🔬	biologas, chemikas, fizikas, inžinierius, mokslininkas, mokslo darbuotojas, mokslo darbuotojas: šviesios odos, šviesios odos
+🧑🏼‍🔬	biologas, chemikas, fizikas, inžinierius, mokslininkas, mokslo darbuotojas, mokslo darbuotojas: vidutinio gymio, vidutinio gymio
+🧑🏽‍🔬	biologas, chemikas, fizikas, inžinierius, mokslininkas, mokslo darbuotojas, mokslo darbuotojas: rusvos odos, rusvos odos
+🧑🏾‍🔬	biologas, chemikas, fizikas, inžinierius, mokslininkas, mokslo darbuotojas, mokslo darbuotojas: tamsios odos, tamsios odos
+🧑🏿‍🔬	biologas, chemikas, fizikas, inžinierius, itin tamsios odos, mokslininkas, mokslo darbuotojas, mokslo darbuotojas: itin tamsios odos
 👨‍🔬	biologas, chemikas, fizikas, inžinierius, matematikas, mokslininkas, vyras
 👨🏻‍🔬	biologas, chemikas, fizikas, inžinierius, matematikas, mokslininkas, mokslininkas: šviesios odos, vyras, šviesios odos
 👨🏼‍🔬	biologas, chemikas, fizikas, inžinierius, matematikas, mokslininkas, mokslininkas: vidutinio gymio, vidutinio gymio, vyras
@@ -817,6 +911,12 @@
 👩🏽‍🔬	biologė, chemikė, fizikė, inžinierė, matematikė, mokslininkė, mokslininkė: rusvos odos, moteris, rusvos odos
 👩🏾‍🔬	biologė, chemikė, fizikė, inžinierė, matematikė, mokslininkė, mokslininkė: tamsios odos, moteris, tamsios odos
 👩🏿‍🔬	biologė, chemikė, fizikė, inžinierė, itin tamsios odos, matematikė, mokslininkė, mokslininkė: itin tamsios odos, moteris
+🧑‍💻	išradėjas, koderis, programinė įranga, programuotojas, technikas
+🧑🏻‍💻	išradėjas, koderis, programinė įranga, programuotojas, technikas, technikas: šviesios odos, šviesios odos
+🧑🏼‍💻	išradėjas, koderis, programinė įranga, programuotojas, technikas, technikas: vidutinio gymio, vidutinio gymio
+🧑🏽‍💻	išradėjas, koderis, programinė įranga, programuotojas, rusvos odos, technikas, technikas: rusvos odos
+🧑🏾‍💻	išradėjas, koderis, programinė įranga, programuotojas, tamsios odos, technikas, technikas: tamsios odos
+🧑🏿‍💻	itin tamsios odos, išradėjas, koderis, programinė įranga, programuotojas, technikas, technikas: itin tamsios odos
 👨‍💻	išradėjas, kūrėjas, programinė įranga, programuotojas, technologas, vyras
 👨🏻‍💻	išradėjas, kūrėjas, programinė įranga, programuotojas, technologas, technologas: šviesios odos, vyras, šviesios odos
 👨🏼‍💻	išradėjas, kūrėjas, programinė įranga, programuotojas, technologas, technologas: vidutinio gymio, vidutinio gymio, vyras
@@ -829,6 +929,12 @@
 👩🏽‍💻	išradėja, kūrėja, moteris, programinė įranga, programuotoja, rusvos odos, technologė, technologė: rusvos odos
 👩🏾‍💻	išradėja, kūrėja, moteris, programinė įranga, programuotoja, tamsios odos, technologė, technologė: tamsios odos
 👩🏿‍💻	itin tamsios odos, išradėja, kūrėja, moteris, programinė įranga, programuotoja, technologė, technologė: itin tamsios odos
+🧑‍🎤	aktorius, dainininkas, dainuojantis žmogus, linksmintojas, rokas, žvaigždė
+🧑🏻‍🎤	aktorius, dainininkas, dainuojantis žmogus, dainuojantis žmogus: šviesios odos, linksmintojas, rokas, šviesios odos, žvaigždė
+🧑🏼‍🎤	aktorius, dainininkas, dainuojantis žmogus, dainuojantis žmogus: vidutinio gymio, linksmintojas, rokas, vidutinio gymio, žvaigždė
+🧑🏽‍🎤	aktorius, dainininkas, dainuojantis žmogus, dainuojantis žmogus: rusvos odos, linksmintojas, rokas, rusvos odos, žvaigždė
+🧑🏾‍🎤	aktorius, dainininkas, dainuojantis žmogus, dainuojantis žmogus: tamsios odos, linksmintojas, rokas, tamsios odos, žvaigždė
+🧑🏿‍🎤	aktorius, dainininkas, dainuojantis žmogus, dainuojantis žmogus: itin tamsios odos, itin tamsios odos, linksmintojas, rokas, žvaigždė
 👨‍🎤	aktorius, dainininkas, rokas, vyras, žvaigždė
 👨🏻‍🎤	aktorius, dainininkas, dainininkas: šviesios odos, rokas, vyras, šviesios odos, žvaigždė
 👨🏼‍🎤	aktorius, dainininkas, dainininkas: vidutinio gymio, rokas, vidutinio gymio, vyras, žvaigždė
@@ -841,6 +947,12 @@
 👩🏽‍🎤	aktorė, dainininkė, dainininkė: rusvos odos, moteris, rokas, rusvos odos, žvaigždė
 👩🏾‍🎤	aktorė, dainininkė, dainininkė: tamsios odos, moteris, rokas, tamsios odos, žvaigždė
 👩🏿‍🎤	aktorė, dainininkė, dainininkė: itin tamsios odos, itin tamsios odos, moteris, rokas, žvaigždė
+🧑‍🎨	menininkas, paletė, tapytojas
+🧑🏻‍🎨	menininkas, paletė, tapytojas, tapytojas: šviesios odos, šviesios odos
+🧑🏼‍🎨	menininkas, paletė, tapytojas, tapytojas: vidutinio gymio, vidutinio gymio
+🧑🏽‍🎨	menininkas, paletė, rusvos odos, tapytojas, tapytojas: rusvos odos
+🧑🏾‍🎨	menininkas, paletė, tamsios odos, tapytojas, tapytojas: tamsios odos
+🧑🏿‍🎨	itin tamsios odos, menininkas, paletė, tapytojas, tapytojas: itin tamsios odos
 👨‍🎨	dailininkas, paletė, vyras
 👨🏻‍🎨	dailininkas, dailininkas: šviesios odos, paletė, vyras, šviesios odos
 👨🏼‍🎨	dailininkas, dailininkas: vidutinio gymio, paletė, vidutinio gymio, vyras
@@ -853,6 +965,12 @@
 👩🏽‍🎨	dailininkė, dailininkė: rusvos odos, moteris, paletė, rusvos odos
 👩🏾‍🎨	dailininkė, dailininkė: tamsios odos, moteris, paletė, tamsios odos
 👩🏿‍🎨	dailininkė, dailininkė: itin tamsios odos, itin tamsios odos, moteris, paletė
+🧑‍✈	lėktuvas, pilotas, pilotuojantis žmogus
+🧑🏻‍✈	lėktuvas, pilotas, pilotuojantis žmogus, pilotuojantis žmogus: šviesios odos, šviesios odos
+🧑🏼‍✈	lėktuvas, pilotas, pilotuojantis žmogus, pilotuojantis žmogus: vidutinio gymio, vidutinio gymio
+🧑🏽‍✈	lėktuvas, pilotas, pilotuojantis žmogus, pilotuojantis žmogus: rusvos odos, rusvos odos
+🧑🏾‍✈	lėktuvas, pilotas, pilotuojantis žmogus, pilotuojantis žmogus: tamsios odos, tamsios odos
+🧑🏿‍✈	itin tamsios odos, lėktuvas, pilotas, pilotuojantis žmogus, pilotuojantis žmogus: itin tamsios odos
 👨‍✈	lėktuvas, pilotas, vyras
 👨🏻‍✈	lėktuvas, pilotas, pilotas: šviesios odos, vyras, šviesios odos
 👨🏼‍✈	lėktuvas, pilotas, pilotas: vidutinio gymio, vidutinio gymio, vyras
@@ -865,6 +983,12 @@
 👩🏽‍✈	lėktuvas, moteris, pilotė, pilotė: rusvos odos, rusvos odos
 👩🏾‍✈	lėktuvas, moteris, pilotė, pilotė: tamsios odos, tamsios odos
 👩🏿‍✈	itin tamsios odos, lėktuvas, moteris, pilotė, pilotė: itin tamsios odos
+🧑‍🚀	astronautas, kosmonautas, raketa
+🧑🏻‍🚀	astronautas, kosmonautas, kosmonautas: šviesios odos, raketa, šviesios odos
+🧑🏼‍🚀	astronautas, kosmonautas, kosmonautas: vidutinio gymio, raketa, vidutinio gymio
+🧑🏽‍🚀	astronautas, kosmonautas, kosmonautas: rusvos odos, raketa, rusvos odos
+🧑🏾‍🚀	astronautas, kosmonautas, kosmonautas: tamsios odos, raketa, tamsios odos
+🧑🏿‍🚀	astronautas, itin tamsios odos, kosmonautas, kosmonautas: itin tamsios odos, raketa
 👨‍🚀	astronautas, raketa, vyras
 👨🏻‍🚀	astronautas, astronautas: šviesios odos, raketa, vyras, šviesios odos
 👨🏼‍🚀	astronautas, astronautas: vidutinio gymio, raketa, vidutinio gymio, vyras
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronautė, astronautė: rusvos odos, moteris, raketa, rusvos odos
 👩🏾‍🚀	astronautė, astronautė: tamsios odos, moteris, raketa, tamsios odos
 👩🏿‍🚀	astronautė, astronautė: itin tamsios odos, itin tamsios odos, moteris, raketa
+🧑‍🚒	gaisrininkas, gaisrinė mašina, ugniagesys
+🧑🏻‍🚒	gaisrininkas, gaisrinė mašina, ugniagesys, ugniagesys: šviesios odos, šviesios odos
+🧑🏼‍🚒	gaisrininkas, gaisrinė mašina, ugniagesys, ugniagesys: vidutinio gymio, vidutinio gymio
+🧑🏽‍🚒	gaisrininkas, gaisrinė mašina, rusvos odos, ugniagesys, ugniagesys: rusvos odos
+🧑🏾‍🚒	gaisrininkas, gaisrinė mašina, tamsios odos, ugniagesys, ugniagesys: tamsios odos
+🧑🏿‍🚒	gaisrininkas, gaisrinė mašina, itin tamsios odos, ugniagesys, ugniagesys: itin tamsios odos
 👨‍🚒	gaisrininkas, gaisrininkų automobilis, vyras
 👨🏻‍🚒	gaisrininkas, gaisrininkas: šviesios odos, gaisrininkų automobilis, vyras, šviesios odos
 👨🏼‍🚒	gaisrininkas, gaisrininkas: vidutinio gymio, gaisrininkų automobilis, vidutinio gymio, vyras
@@ -943,6 +1073,7 @@
 💂🏽‍♀	moteris, rusvos odos, sargybinė, sargybinė: rusvos odos
 💂🏾‍♀	moteris, sargybinė, sargybinė: tamsios odos, tamsios odos
 💂🏿‍♀	itin tamsios odos, moteris, sargybinė, sargybinė: itin tamsios odos
+🥷	kovotojas, nindzė, užsimaskavęs
 👷	darbuotojas, kepurė, statyba, statybininkas
 👷🏻	darbuotojas, kepurė, statyba, statybininkas, statybininkas: šviesios odos, šviesios odos
 👷🏼	darbuotojas, kepurė, statyba, statybininkas, statybininkas: vidutinio gymio, vidutinio gymio
@@ -1003,18 +1134,42 @@
 🧕🏽	moteris su skarele, moteris su skarele: rusvos odos, rusvos odos, skarelė
 🧕🏾	moteris su skarele, moteris su skarele: tamsios odos, skarelė, tamsios odos
 🧕🏿	itin tamsios odos, moteris su skarele, moteris su skarele: itin tamsios odos, skarelė
-🤵	jaunikis, smokingas, vyras, vyras su smokingu
-🤵🏻	jaunikis, smokingas, vyras, vyras su smokingu, vyras su smokingu: šviesios odos, šviesios odos
-🤵🏼	jaunikis, smokingas, vidutinio gymio, vyras, vyras su smokingu, vyras su smokingu: vidutinio gymio
-🤵🏽	jaunikis, rusvos odos, smokingas, vyras, vyras su smokingu, vyras su smokingu: rusvos odos
-🤵🏾	jaunikis, smokingas, tamsios odos, vyras, vyras su smokingu, vyras su smokingu: tamsios odos
-🤵🏿	itin tamsios odos, jaunikis, smokingas, vyras, vyras su smokingu, vyras su smokingu: itin tamsios odos
+🤵	asmuo su smokingu, jaunikis, smokingas, vyras, vyras su smokingu
+🤵🏻	asmuo su smokingu, asmuo su smokingu: šviesios odos, jaunikis, smokingas, vyras, vyras su smokingu, šviesios odos
+🤵🏼	asmuo su smokingu, asmuo su smokingu: vidutinio gymio, jaunikis, smokingas, vidutinio gymio, vyras, vyras su smokingu
+🤵🏽	asmuo su smokingu, asmuo su smokingu: rusvos odos, jaunikis, rusvos odos, smokingas, vyras, vyras su smokingu
+🤵🏾	asmuo su smokingu, asmuo su smokingu: tamsios odos, jaunikis, smokingas, tamsios odos, vyras, vyras su smokingu
+🤵🏿	asmuo su smokingu, asmuo su smokingu: itin tamsios odos, itin tamsios odos, jaunikis, smokingas, vyras, vyras su smokingu
+🤵‍♂	smokingas, vyras, vyras su smokingu
+🤵🏻‍♂	smokingas, vyras, vyras su smokingu, vyras su smokingu: šviesios odos, šviesios odos
+🤵🏼‍♂	smokingas, vidutinio gymio, vyras, vyras su smokingu, vyras su smokingu: vidutinio gymio
+🤵🏽‍♂	rusvos odos, smokingas, vyras, vyras su smokingu, vyras su smokingu: rusvos odos
+🤵🏾‍♂	smokingas, tamsios odos, vyras, vyras su smokingu, vyras su smokingu: tamsios odos
+🤵🏿‍♂	itin tamsios odos, smokingas, vyras, vyras su smokingu, vyras su smokingu: itin tamsios odos
+🤵‍♀	moteris, moteris su smokingu, smokingas
+🤵🏻‍♀	moteris, moteris su smokingu, moteris su smokingu: šviesios odos, smokingas, šviesios odos
+🤵🏼‍♀	moteris, moteris su smokingu, moteris su smokingu: vidutinio gymio, smokingas, vidutinio gymio
+🤵🏽‍♀	moteris, moteris su smokingu, moteris su smokingu: rusvos odos, rusvos odos, smokingas
+🤵🏾‍♀	moteris, moteris su smokingu, moteris su smokingu: tamsios odos, smokingas, tamsios odos
+🤵🏿‍♀	itin tamsios odos, moteris, moteris su smokingu, moteris su smokingu: itin tamsios odos, smokingas
 👰	nuotaka, nuotaka su veliumu, veliumas, vestuvės
 👰🏻	nuotaka, nuotaka su veliumu, nuotaka su veliumu: šviesios odos, veliumas, vestuvės, šviesios odos
 👰🏼	nuotaka, nuotaka su veliumu, nuotaka su veliumu: vidutinio gymio, veliumas, vestuvės, vidutinio gymio
 👰🏽	nuotaka, nuotaka su veliumu, nuotaka su veliumu: rusvos odos, rusvos odos, veliumas, vestuvės
 👰🏾	nuotaka, nuotaka su veliumu, nuotaka su veliumu: tamsios odos, tamsios odos, veliumas, vestuvės
 👰🏿	itin tamsios odos, nuotaka, nuotaka su veliumu, nuotaka su veliumu: itin tamsios odos, veliumas, vestuvės
+👰‍♂	veliumas, vyras, vyras su veliumu
+👰🏻‍♂	veliumas, vyras, vyras su veliumu, vyras su veliumu: šviesios odos, šviesios odos
+👰🏼‍♂	veliumas, vidutinio gymio, vyras, vyras su veliumu, vyras su veliumu: vidutinio gymio
+👰🏽‍♂	rusvos odos, veliumas, vyras, vyras su veliumu, vyras su veliumu: rusvos odos
+👰🏾‍♂	tamsios odos, veliumas, vyras, vyras su veliumu, vyras su veliumu: tamsios odos
+👰🏿‍♂	itin tamsios odos, veliumas, vyras, vyras su veliumu, vyras su veliumu: itin tamsios odos
+👰‍♀	moteris, moteris su veliumu, veliumas
+👰🏻‍♀	moteris, moteris su veliumu, moteris su veliumu: šviesios odos, veliumas, šviesios odos
+👰🏼‍♀	moteris, moteris su veliumu, moteris su veliumu: vidutinio gymio, veliumas, vidutinio gymio
+👰🏽‍♀	moteris, moteris su veliumu, moteris su veliumu: rusvos odos, rusvos odos, veliumas
+👰🏾‍♀	moteris, moteris su veliumu, moteris su veliumu: tamsios odos, tamsios odos, veliumas
+👰🏿‍♀	itin tamsios odos, moteris, moteris su veliumu, moteris su veliumu: itin tamsios odos, veliumas
 🤰	moteris, neščia, nėščia moteris
 🤰🏻	moteris, neščia, nėščia moteris, nėščia moteris: šviesios odos, šviesios odos
 🤰🏼	moteris, neščia, nėščia moteris, nėščia moteris: vidutinio gymio, vidutinio gymio
@@ -1027,6 +1182,24 @@
 🤱🏽	krūtinė, kūdikis, maitinimas krūtimi, maitinimas krūtimi: rusvos odos, priežiūra, rusvos odos
 🤱🏾	krūtinė, kūdikis, maitinimas krūtimi, maitinimas krūtimi: tamsios odos, priežiūra, tamsios odos
 🤱🏿	itin tamsios odos, krūtinė, kūdikis, maitinimas krūtimi, maitinimas krūtimi: itin tamsios odos, priežiūra
+👩‍🍼	kūdikis, kūdikį maitinanti moteris, maitinimas, maitinimas krūtimi, moteris
+👩🏻‍🍼	kūdikis, kūdikį maitinanti moteris, kūdikį maitinanti moteris: šviesios odos, maitinimas, maitinimas krūtimi, moteris, šviesios odos
+👩🏼‍🍼	kūdikis, kūdikį maitinanti moteris, kūdikį maitinanti moteris: vidutinio gymio, maitinimas, maitinimas krūtimi, moteris, vidutinio gymio
+👩🏽‍🍼	kūdikis, kūdikį maitinanti moteris, kūdikį maitinanti moteris: rusvos odos, maitinimas, maitinimas krūtimi, moteris, rusvos odos
+👩🏾‍🍼	kūdikis, kūdikį maitinanti moteris, kūdikį maitinanti moteris: tamsios odos, maitinimas, maitinimas krūtimi, moteris, tamsios odos
+👩🏿‍🍼	itin tamsios odos, kūdikis, kūdikį maitinanti moteris, kūdikį maitinanti moteris: itin tamsios odos, maitinimas, maitinimas krūtimi, moteris
+👨‍🍼	kūdikis, kūdikį maitinantis vyras, maitinimas, maitinimas krūtimi, vyras
+👨🏻‍🍼	kūdikis, kūdikį maitinantis vyras, kūdikį maitinantis vyras: šviesios odos, maitinimas, maitinimas krūtimi, vyras, šviesios odos
+👨🏼‍🍼	kūdikis, kūdikį maitinantis vyras, kūdikį maitinantis vyras: vidutinio gymio, maitinimas, maitinimas krūtimi, vidutinio gymio, vyras
+👨🏽‍🍼	kūdikis, kūdikį maitinantis vyras, kūdikį maitinantis vyras: rusvos odos, maitinimas, maitinimas krūtimi, rusvos odos, vyras
+👨🏾‍🍼	kūdikis, kūdikį maitinantis vyras, kūdikį maitinantis vyras: tamsios odos, maitinimas, maitinimas krūtimi, tamsios odos, vyras
+👨🏿‍🍼	itin tamsios odos, kūdikis, kūdikį maitinantis vyras, kūdikį maitinantis vyras: itin tamsios odos, maitinimas, maitinimas krūtimi, vyras
+🧑‍🍼	asmuo, kūdikis, kūdikį maitinantis asmuo, maitinimas, maitinimas krūtimi
+🧑🏻‍🍼	asmuo, kūdikis, kūdikį maitinantis asmuo, kūdikį maitinantis asmuo: šviesios odos, maitinimas, maitinimas krūtimi, šviesios odos
+🧑🏼‍🍼	asmuo, kūdikis, kūdikį maitinantis asmuo, kūdikį maitinantis asmuo: vidutinio gymio, maitinimas, maitinimas krūtimi, vidutinio gymio
+🧑🏽‍🍼	asmuo, kūdikis, kūdikį maitinantis asmuo, kūdikį maitinantis asmuo: rusvos odos, maitinimas, maitinimas krūtimi, rusvos odos
+🧑🏾‍🍼	asmuo, kūdikis, kūdikį maitinantis asmuo, kūdikį maitinantis asmuo: tamsios odos, maitinimas, maitinimas krūtimi, tamsios odos
+🧑🏿‍🍼	asmuo, itin tamsios odos, kūdikis, kūdikį maitinantis asmuo, kūdikį maitinantis asmuo: itin tamsios odos, maitinimas, maitinimas krūtimi
 👼	angelas, angeliukas, fantazija, kūdikis, pasaka, veidas
 👼🏻	angelas, angeliukas, angeliukas: šviesios odos, fantazija, kūdikis, pasaka, veidas, šviesios odos
 👼🏼	angelas, angeliukas, angeliukas: vidutinio gymio, fantazija, kūdikis, pasaka, veidas, vidutinio gymio
@@ -1045,6 +1218,12 @@
 🤶🏽	Kalėdos, mama, ponia, ponia Claus, ponia Claus: rusvos odos, rusvos odos, šventė
 🤶🏾	Kalėdos, mama, ponia, ponia Claus, ponia Claus: tamsios odos, tamsios odos, šventė
 🤶🏿	Kalėdos, itin tamsios odos, mama, ponia, ponia Claus, ponia Claus: itin tamsios odos, šventė
+🧑‍🎄	Kalėdos, Kalėdų asmuo
+🧑🏻‍🎄	Kalėdos, Kalėdų asmuo, Kalėdų asmuo: šviesios odos, šviesios odos
+🧑🏼‍🎄	Kalėdos, Kalėdų asmuo, Kalėdų asmuo: vidutinio gymio, vidutinio gymio
+🧑🏽‍🎄	Kalėdos, Kalėdų asmuo, Kalėdų asmuo: rusvos odos, rusvos odos
+🧑🏾‍🎄	Kalėdos, Kalėdų asmuo, Kalėdų asmuo: tamsios odos, tamsios odos
+🧑🏿‍🎄	Kalėdos, Kalėdų asmuo, Kalėdų asmuo: itin tamsios odos, itin tamsios odos
 🦸	geras, herojus, herojė, supergalia, superherojus
 🦸🏻	geras, herojus, herojė, supergalia, superherojus, superherojus: šviesios odos, šviesios odos
 🦸🏼	geras, herojus, herojė, supergalia, superherojus, superherojus: vidutinio gymio, vidutinio gymio
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	klūpanti, klūpanti moteris: rusvos odos, moteris, rusvos odos
 🧎🏾‍♀	klūpanti, klūpanti moteris: tamsios odos, moteris, tamsios odos
 🧎🏿‍♀	itin tamsios odos, klūpanti, klūpanti moteris: itin tamsios odos, moteris
+🧑‍🦯	aklas, prieinamumas, žmogus neregio lazdele
+🧑🏻‍🦯	aklas, prieinamumas, šviesios odos, žmogus neregio lazdele, žmogus neregio lazdele: šviesios odos
+🧑🏼‍🦯	aklas, prieinamumas, vidutinio gymio, žmogus neregio lazdele, žmogus neregio lazdele: vidutinio gymio
+🧑🏽‍🦯	aklas, prieinamumas, rusvos odos, žmogus neregio lazdele, žmogus neregio lazdele: rusvos odos
+🧑🏾‍🦯	aklas, prieinamumas, tamsios odos, žmogus neregio lazdele, žmogus neregio lazdele: tamsios odos
+🧑🏿‍🦯	aklas, itin tamsios odos, prieinamumas, žmogus neregio lazdele, žmogus neregio lazdele: itin tamsios odos
 👨‍🦯	aklas, prieinamumas, vyras, vyras su neregio lazdele
 👨🏻‍🦯	aklas, prieinamumas, vyras, vyras su neregio lazdele, vyras su neregio lazdele: šviesios odos, šviesios odos
 👨🏼‍🦯	aklas, prieinamumas, vidutinio gymio, vyras, vyras su neregio lazdele, vyras su neregio lazdele: vidutinio gymio
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	akla, moteris, moteris su neregio lazdele, moteris su neregio lazdele: rusvos odos, prieinamumas, rusvos odos
 👩🏾‍🦯	akla, moteris, moteris su neregio lazdele, moteris su neregio lazdele: tamsios odos, prieinamumas, tamsios odos
 👩🏿‍🦯	akla, itin tamsios odos, moteris, moteris su neregio lazdele, moteris su neregio lazdele: itin tamsios odos, prieinamumas
+🧑‍🦼	prieinamumas, vežimėlis, žmogus motorizuotame vežimėlyje
+🧑🏻‍🦼	prieinamumas, vežimėlis, šviesios odos, žmogus motorizuotame vežimėlyje, žmogus motorizuotame vežimėlyje: šviesios odos
+🧑🏼‍🦼	prieinamumas, vežimėlis, vidutinio gymio, žmogus motorizuotame vežimėlyje, žmogus motorizuotame vežimėlyje: vidutinio gymio
+🧑🏽‍🦼	prieinamumas, rusvos odos, vežimėlis, žmogus motorizuotame vežimėlyje, žmogus motorizuotame vežimėlyje: rusvos odos
+🧑🏾‍🦼	prieinamumas, tamsios odos, vežimėlis, žmogus motorizuotame vežimėlyje, žmogus motorizuotame vežimėlyje: tamsios odos
+🧑🏿‍🦼	itin tamsios odos, prieinamumas, vežimėlis, žmogus motorizuotame vežimėlyje, žmogus motorizuotame vežimėlyje: itin tamsios odos
 👨‍🦼	prieinamumas, vežimėlis, vyras, vyras motorizuotame vežimėlyje
 👨🏻‍🦼	prieinamumas, vežimėlis, vyras, vyras motorizuotame vežimėlyje, vyras motorizuotame vežimėlyje: šviesios odos, šviesios odos
 👨🏼‍🦼	prieinamumas, vežimėlis, vidutinio gymio, vyras, vyras motorizuotame vežimėlyje, vyras motorizuotame vežimėlyje: vidutinio gymio
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	moteris, moteris motorizuotame vežimėlyje, moteris motorizuotame vežimėlyje: rusvos odos, prieinamumas, rusvos odos, vežimėlis
 👩🏾‍🦼	moteris, moteris motorizuotame vežimėlyje, moteris motorizuotame vežimėlyje: tamsios odos, prieinamumas, tamsios odos, vežimėlis
 👩🏿‍🦼	itin tamsios odos, moteris, moteris motorizuotame vežimėlyje, moteris motorizuotame vežimėlyje: itin tamsios odos, prieinamumas, vežimėlis
+🧑‍🦽	prieinamumas, vežimėlis, žmogus rankomis valdomame vežimėlyje
+🧑🏻‍🦽	prieinamumas, vežimėlis, šviesios odos, žmogus rankomis valdomame vežimėlyje, žmogus rankomis valdomame vežimėlyje: šviesios odos
+🧑🏼‍🦽	prieinamumas, vežimėlis, vidutinio gymio, žmogus rankomis valdomame vežimėlyje, žmogus rankomis valdomame vežimėlyje: vidutinio gymio
+🧑🏽‍🦽	prieinamumas, rusvos odos, vežimėlis, žmogus rankomis valdomame vežimėlyje, žmogus rankomis valdomame vežimėlyje: rusvos odos
+🧑🏾‍🦽	prieinamumas, tamsios odos, vežimėlis, žmogus rankomis valdomame vežimėlyje, žmogus rankomis valdomame vežimėlyje: tamsios odos
+🧑🏿‍🦽	itin tamsios odos, prieinamumas, vežimėlis, žmogus rankomis valdomame vežimėlyje, žmogus rankomis valdomame vežimėlyje: itin tamsios odos
 👨‍🦽	prieinamumas, vežimėlis, vyras, vyras rankomis valdomame vežimėlyje
 👨🏻‍🦽	prieinamumas, vežimėlis, vyras, vyras rankomis valdomame vežimėlyje, vyras rankomis valdomame vežimėlyje: šviesios odos, šviesios odos
 👨🏼‍🦽	prieinamumas, vežimėlis, vidutinio gymio, vyras, vyras rankomis valdomame vežimėlyje, vyras rankomis valdomame vežimėlyje: vidutinio gymio
@@ -1643,15 +1840,25 @@
 🛌🏿	itin tamsios odos, miegoti, viešbutis, žmogus lovoje, žmogus lovoje: itin tamsios odos
 🧑‍🤝‍🧑	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, susikibusios rankos
 🧑🏻‍🤝‍🧑🏻	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: šviesios odos, susikibusios rankos, šviesios odos
+🧑🏻‍🤝‍🧑🏼	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: šviesios odos vidutinio gymio, susikibusios rankos, vidutinio gymio, šviesios odos
+🧑🏻‍🤝‍🧑🏽	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: šviesios odos rusvos odos, rusvos odos, susikibusios rankos, šviesios odos
+🧑🏻‍🤝‍🧑🏾	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: šviesios odos tamsios odos, susikibusios rankos, tamsios odos, šviesios odos
+🧑🏻‍🤝‍🧑🏿	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: šviesios odos itin tamsios odos, susikibusios rankos, šviesios odos
 🧑🏼‍🤝‍🧑🏻	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: vidutinio gymio šviesios odos, susikibusios rankos, vidutinio gymio, šviesios odos
 🧑🏼‍🤝‍🧑🏼	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: vidutinio gymio, susikibusios rankos, vidutinio gymio
+🧑🏼‍🤝‍🧑🏽	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: vidutinio gymio rusvos odos, rusvos odos, susikibusios rankos, vidutinio gymio
+🧑🏼‍🤝‍🧑🏾	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: vidutinio gymio tamsios odos, susikibusios rankos, tamsios odos, vidutinio gymio
+🧑🏼‍🤝‍🧑🏿	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: vidutinio gymio itin tamsios odos, susikibusios rankos, vidutinio gymio
 🧑🏽‍🤝‍🧑🏻	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: rusvos odos šviesios odos, rusvos odos, susikibusios rankos, šviesios odos
 🧑🏽‍🤝‍🧑🏼	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: rusvos odos vidutinio gymio, rusvos odos, susikibusios rankos, vidutinio gymio
 🧑🏽‍🤝‍🧑🏽	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: rusvos odos, rusvos odos, susikibusios rankos
+🧑🏽‍🤝‍🧑🏾	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: rusvos odos tamsios odos, rusvos odos, susikibusios rankos, tamsios odos
+🧑🏽‍🤝‍🧑🏿	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: rusvos odos itin tamsios odos, rusvos odos, susikibusios rankos
 🧑🏾‍🤝‍🧑🏻	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: tamsios odos šviesios odos, susikibusios rankos, tamsios odos, šviesios odos
 🧑🏾‍🤝‍🧑🏼	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: tamsios odos vidutinio gymio, susikibusios rankos, tamsios odos, vidutinio gymio
 🧑🏾‍🤝‍🧑🏽	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: tamsios odos rusvos odos, rusvos odos, susikibusios rankos, tamsios odos
 🧑🏾‍🤝‍🧑🏾	asmuo, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: tamsios odos, susikibusios rankos, tamsios odos
+🧑🏾‍🤝‍🧑🏿	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: tamsios odos itin tamsios odos, susikibusios rankos, tamsios odos
 🧑🏿‍🤝‍🧑🏻	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: itin tamsios odos šviesios odos, susikibusios rankos, šviesios odos
 🧑🏿‍🤝‍🧑🏼	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: itin tamsios odos vidutinio gymio, susikibusios rankos, vidutinio gymio
 🧑🏿‍🤝‍🧑🏽	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: itin tamsios odos rusvos odos, rusvos odos, susikibusios rankos
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	asmuo, itin tamsios odos, laikyti, pora, ranka, rankomis susikibę žmonės, rankomis susikibę žmonės: itin tamsios odos, susikibusios rankos
 👭	dvi moterys, susikibusios už rankų, laikyti, moteris, pora, ranka
 👭🏻	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: šviesios odos, laikyti, moteris, pora, ranka, šviesios odos
+👩🏻‍🤝‍👩🏼	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: šviesios odos vidutinio gymio, laikyti, moteris, pora, ranka, vidutinio gymio, šviesios odos
+👩🏻‍🤝‍👩🏽	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: šviesios odos rusvos odos, laikyti, moteris, pora, ranka, rusvos odos, šviesios odos
+👩🏻‍🤝‍👩🏾	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: šviesios odos tamsios odos, laikyti, moteris, pora, ranka, tamsios odos, šviesios odos
+👩🏻‍🤝‍👩🏿	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: šviesios odos itin tamsios odos, itin tamsios odos, laikyti, moteris, pora, ranka, šviesios odos
 👩🏼‍🤝‍👩🏻	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: vidutinio gymio šviesios odos, laikyti, moteris, pora, ranka, vidutinio gymio, šviesios odos
 👭🏼	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: vidutinio gymio, laikyti, moteris, pora, ranka, vidutinio gymio
+👩🏼‍🤝‍👩🏽	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: vidutinio gymio rusvos odos, laikyti, moteris, pora, ranka, rusvos odos, vidutinio gymio
+👩🏼‍🤝‍👩🏾	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: vidutinio gymio tamsios odos, laikyti, moteris, pora, ranka, tamsios odos, vidutinio gymio
+👩🏼‍🤝‍👩🏿	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: vidutinio gymio itin tamsios odos, itin tamsios odos, laikyti, moteris, pora, ranka, vidutinio gymio
 👩🏽‍🤝‍👩🏻	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: rusvos odos šviesios odos, laikyti, moteris, pora, ranka, rusvos odos, šviesios odos
 👩🏽‍🤝‍👩🏼	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: rusvos odos vidutinio gymio, laikyti, moteris, pora, ranka, rusvos odos, vidutinio gymio
 👭🏽	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: rusvos odos, laikyti, moteris, pora, ranka, rusvos odos
+👩🏽‍🤝‍👩🏾	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: rusvos odos tamsios odos, laikyti, moteris, pora, ranka, rusvos odos, tamsios odos
+👩🏽‍🤝‍👩🏿	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: rusvos odos itin tamsios odos, itin tamsios odos, laikyti, moteris, pora, ranka, rusvos odos
 👩🏾‍🤝‍👩🏻	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: tamsios odos šviesios odos, laikyti, moteris, pora, ranka, tamsios odos, šviesios odos
 👩🏾‍🤝‍👩🏼	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: tamsios odos vidutinio gymio, laikyti, moteris, pora, ranka, tamsios odos, vidutinio gymio
 👩🏾‍🤝‍👩🏽	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: tamsios odos rusvos odos, laikyti, moteris, pora, ranka, rusvos odos, tamsios odos
 👭🏾	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: tamsios odos, laikyti, moteris, pora, ranka, tamsios odos
+👩🏾‍🤝‍👩🏿	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: tamsios odos itin tamsios odos, itin tamsios odos, laikyti, moteris, pora, ranka, tamsios odos
 👩🏿‍🤝‍👩🏻	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: itin tamsios odos šviesios odos, itin tamsios odos, laikyti, moteris, pora, ranka, šviesios odos
 👩🏿‍🤝‍👩🏼	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: itin tamsios odos vidutinio gymio, itin tamsios odos, laikyti, moteris, pora, ranka, vidutinio gymio
 👩🏿‍🤝‍👩🏽	dvi moterys, susikibusios už rankų, dvi moterys, susikibusios už rankų: itin tamsios odos rusvos odos, itin tamsios odos, laikyti, moteris, pora, ranka, rusvos odos
@@ -1701,15 +1918,25 @@
 👫🏿	itin tamsios odos, laikyti, moteris, pora, ranka, vyras, vyras ir moteris, susikibę už rankų, vyras ir moteris, susikibę už rankų: itin tamsios odos
 👬	du vyrai, susikibę už rankų, dvyniai, laikyti, pora, ranka, vyras, zodiakas
 👬🏻	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: šviesios odos, dvyniai, laikyti, pora, ranka, vyras, zodiakas, šviesios odos
+👨🏻‍🤝‍👨🏼	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: šviesios odos vidutinio gymio, dvyniai, laikyti, pora, ranka, vidutinio gymio, vyras, zodiakas, šviesios odos
+👨🏻‍🤝‍👨🏽	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: šviesios odos rusvos odos, dvyniai, laikyti, pora, ranka, rusvos odos, vyras, zodiakas, šviesios odos
+👨🏻‍🤝‍👨🏾	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: šviesios odos tamsios odos, dvyniai, laikyti, pora, ranka, tamsios odos, vyras, zodiakas, šviesios odos
+👨🏻‍🤝‍👨🏿	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: šviesios odos itin tamsios odos, dvyniai, itin tamsios odos, laikyti, pora, ranka, vyras, zodiakas, šviesios odos
 👨🏼‍🤝‍👨🏻	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: vidutinio gymio šviesios odos, dvyniai, laikyti, pora, ranka, vidutinio gymio, vyras, zodiakas, šviesios odos
 👬🏼	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: vidutinio gymio, dvyniai, laikyti, pora, ranka, vidutinio gymio, vyras, zodiakas
+👨🏼‍🤝‍👨🏽	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: vidutinio gymio rusvos odos, dvyniai, laikyti, pora, ranka, rusvos odos, vidutinio gymio, vyras, zodiakas
+👨🏼‍🤝‍👨🏾	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: vidutinio gymio tamsios odos, dvyniai, laikyti, pora, ranka, tamsios odos, vidutinio gymio, vyras, zodiakas
+👨🏼‍🤝‍👨🏿	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: vidutinio gymio itin tamsios odos, dvyniai, itin tamsios odos, laikyti, pora, ranka, vidutinio gymio, vyras, zodiakas
 👨🏽‍🤝‍👨🏻	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: rusvos odos šviesios odos, dvyniai, laikyti, pora, ranka, rusvos odos, vyras, zodiakas, šviesios odos
 👨🏽‍🤝‍👨🏼	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: rusvos odos vidutinio gymio, dvyniai, laikyti, pora, ranka, rusvos odos, vidutinio gymio, vyras, zodiakas
 👬🏽	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: rusvos odos, dvyniai, laikyti, pora, ranka, rusvos odos, vyras, zodiakas
+👨🏽‍🤝‍👨🏾	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: rusvos odos tamsios odos, dvyniai, laikyti, pora, ranka, rusvos odos, tamsios odos, vyras, zodiakas
+👨🏽‍🤝‍👨🏿	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: rusvos odos itin tamsios odos, dvyniai, itin tamsios odos, laikyti, pora, ranka, rusvos odos, vyras, zodiakas
 👨🏾‍🤝‍👨🏻	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: tamsios odos šviesios odos, dvyniai, laikyti, pora, ranka, tamsios odos, vyras, zodiakas, šviesios odos
 👨🏾‍🤝‍👨🏼	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: tamsios odos vidutinio gymio, dvyniai, laikyti, pora, ranka, tamsios odos, vidutinio gymio, vyras, zodiakas
 👨🏾‍🤝‍👨🏽	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: tamsios odos rusvos odos, dvyniai, laikyti, pora, ranka, rusvos odos, tamsios odos, vyras, zodiakas
 👬🏾	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: tamsios odos, dvyniai, laikyti, pora, ranka, tamsios odos, vyras, zodiakas
+👨🏾‍🤝‍👨🏿	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: tamsios odos itin tamsios odos, dvyniai, itin tamsios odos, laikyti, pora, ranka, tamsios odos, vyras, zodiakas
 👨🏿‍🤝‍👨🏻	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: itin tamsios odos šviesios odos, dvyniai, itin tamsios odos, laikyti, pora, ranka, vyras, zodiakas, šviesios odos
 👨🏿‍🤝‍👨🏼	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: itin tamsios odos vidutinio gymio, dvyniai, itin tamsios odos, laikyti, pora, ranka, vidutinio gymio, vyras, zodiakas
 👨🏿‍🤝‍👨🏽	du vyrai, susikibę už rankų, du vyrai, susikibę už rankų: itin tamsios odos rusvos odos, dvyniai, itin tamsios odos, laikyti, pora, ranka, rusvos odos, vyras, zodiakas
@@ -1752,6 +1979,7 @@
 🗣️	galva, kalbanti galva, kalbėjimas, kalbėti, siluetas, veidas
 👤	biustas, biusto siluetas, siluetas
 👥	biustas, biustų siluetai, siluetas
+🫂	apsikabinti, apsikabinę žmonės, dėkui, labas, viso
 👣	drabužiai, kūnas, pėdsakai, pėdsakas
 🦰	raudoni plaukai, raudonplaukis, rausvas
 🦱	afro, garbanos, garbanotas, garbanoti plaukai
@@ -1760,7 +1988,7 @@
 🐵	beždžionė, beždžionės snukutis, veidas
 🐒	beždžionė
 🦍	gorila, gyvūnas
-🦧	bezdžionė, orangutangas
+🦧	beždžionė, orangutangas
 🐶	naminis gyvūnas, veidas, šuns snukutis, šuo
 🐕️	naminis gyvūnas, šuo
 🦮	aklas, prieinamumas, vedlys, šuo vedlys
@@ -1771,6 +1999,7 @@
 🦝	gudrus, meškėnas, smalsus
 🐱	katė, katės snukutis, naminis gyvūnas, veidas
 🐈️	katė, naminis gyvūnas
+🐈‍⬛	juoda, juoda katė, katė, nelaimė
 🦁	liūtas, liūto snukis, veidas, zodiakas
 🐯	tigras, tigro snukis, veidas
 🐅	tigras
@@ -1780,6 +2009,7 @@
 🦄	veidas, vienaragio snukis, vienaragis
 🦓	dryžis, zebras
 🦌	elnias
+🦬	banda, bizonas, buivolas
 🐮	karvė, karvės snukis, veidas
 🐂	bulius, jautis, tauras, zodiakas
 🐃	azijinis, azijinis buivolas, buivolas
@@ -1796,6 +2026,7 @@
 🦙	alpaka, guanakas, lama, lamos vilna, vilna
 🦒	dėmė, žirafa
 🐘	dramblys
+🦣	didelis, iltis, išnykimas, mamutas
 🦏	raganosis
 🦛	begemotas
 🐭	pelė, pelės snukutis, veidas
@@ -1805,9 +2036,11 @@
 🐰	naminis gyvūnas, triušio snukutis, triušis, veidas, zuikis
 🐇	naminis gyvūnas, triušis, triušiukas
 🐿️	voverė
+🦫	bebras, užtvanka
 🦔	ežys, spygliuotas
 🦇	vampyras, šikšnosparnis
 🐻	meška, meškos snukis, veidas
+🐻‍❄	baltasis lokys, baltoji meška, lokys, meška, poliarinis lokys, šiaurė
 🐨	koala, meška
 🐼	panda, pandos snukis, veidas
 🦥	lėtas, tinginys, tingus
@@ -1829,6 +2062,8 @@
 🦆	antis, paukštis
 🦢	bjaurusis ančiukas, gulbė, paukštis
 🦉	išmintis, paukštis, pelėda
+🦤	Mauricijus, didelis, drontas, išnykimas
+🪶	lengvumas, plunksna, skrydis
 🦩	flamingas, spalvingas, tropinis
 🦚	išdidus, mėgstantis pasirodyti, paukštis, povas, povė
 🦜	kalbantis, papūga, paukštis, piratas
@@ -1844,6 +2079,7 @@
 🐳	banginis, purkšti, purškiantis banginis, veidas
 🐋	banginis
 🐬	delfinas, fliperis
+🦭	jūrų liūtas, ruonis
 🐟️	zodiakas, žuvis, žuvys
 🐠	tropinė, tropinė žuvis, žuvis
 🐡	fugu, žuvis
@@ -1855,12 +2091,16 @@
 🐛	vabalas, vabzdys
 🐜	skruzdėlė, vabzdys
 🐝	bitė, vabzdys
+🪲	vabalas, vabaliukas, vabzdys
 🐞	boružė, vabalas, vabzdys
 🦗	svirplys, žiogas
+🪳	tarakonas, vabzdys
 🕷️	vabzdys, voras
 🕸️	tinklas, voras, voratinklis
 🦂	skorpionas, skorpionas (gyvūnas), zodiakas
 🦟	karštinė, maliarija, negalavimas, uodas, vabzdys, virusas
+🪰	cėcė, gyvulinė musė, kambarinė musė, musė, mėšlinė musė, negalavimas
+🪱	kirmėlė, kirmėlės, parazitai, sliekai
 🦠	ameba, bakterija, mikrobas, virusas
 💐	gėlė, puokštė
 🌸	gėlė, vyšnia, vyšnios žiedas, žydėti
@@ -1873,6 +2113,7 @@
 🌼	augalas, gėlė, gėlės žiedas
 🌷	augalas, gėlė, tulpė
 🌱	augalas, daigas, jaunas
+🪴	augalas, augti, bevertis, namas, nuobodus, pasodintas augalas, puoselėti
 🌲	amžinai žaliuojantis medis, medis
 🌳	augalas, lapuotis, medis, mesti
 🌴	medis, palmė
@@ -1898,8 +2139,10 @@
 🍑	persikas, vaisius
 🍒	vaisius, vyšnia, vyšnios
 🍓	braškė, uoga, vaisius
+🫐	mėlyna, mėlynė, mėlynės, uoga
 🥝	kivis, maistas, vaisius
 🍅	augalas, daržovė, pomidoras
+🫒	alyvuogė, maistas
 🥥	kokosas, palmė, pina kolada
 🥑	avokadas, maistas, vaisius
 🍆	augalas, baklažanas, daržovė
@@ -1907,6 +2150,7 @@
 🥕	daržovė, maistas, morka
 🌽	augalas, kukurūzas, kukurūzo burbuolė, varpa
 🌶️	aštrus, aštrusis pipiras, pipiras
+🫑	daržovė, paprika, pipirai
 🥒	agurkas, daržovė, maistas, raugintas
 🥬	kininis kopūstas, kopūstas, lapinė daržovė, salota
 🥦	brokolis, laukinis kopūstas
@@ -1918,6 +2162,7 @@
 🍞	duona, kepalas
 🥐	bandelė, duona, maistas, prancūziškas, raguolis
 🥖	batonas, ilgas, ilgas batonas, maistas, prancūzų
+🫓	arepa, lavašas, naan, paplotis, pita
 🥨	riestainis, susuktas
 🥯	apvalus riestainis, duonos gaminiai, užtepas
 🥞	blynai, maistas
@@ -1934,12 +2179,14 @@
 🥪	duona, sumuštinis
 🌮	meksikietiškas, meksikietiškas paplotėlis
 🌯	buritas, meksikietiškas, suvyniotas
+🫔	meksikietiškas, susuktas, vyniotinis
 🥙	lavašas, maistas, įdaras, įdarytas lavašas
 🧆	falafelis, mėsos kukulis, vištiena
 🥚	kiaušinis, maistas
 🍳	kepimas, keptuvė, kiaušinis, valgio gaminimas
 🥘	maistas, prikaistuvis, prikaistuvis su maistu
 🍲	puodas, puodas su maistu, troškinys
+🫕	dubuo, fondiu, ištirpintas, sūris, šokoladas, šveicariškas
 🥣	dubuo su šaukštu, košė, pusryčiai
 🥗	maistas, salotos, žalios, žalios salotos
 🍿	spragėsiai
@@ -1985,6 +2232,7 @@
 🍼	buteliukas, gerti, kūdikio buteliukas, kūdikis, pienas
 🥛	gėrimas, pienas, pieno stiklinė, sktiklinė
 ☕️	arbata, garuoja, gerti, gėrimas, karšta, karštas gėrimas, kava
+🫖	arbata, arbatinukas, gėrimas, puodas
 🍵	arbata, arbatos puodelis, arbatos puodelis be rankenos, gerti, gėrimas, puodelis
 🍶	baras, butelis, gėrimas, puodelis, sakė
 🍾	baras, butelis, butelis su iššokusiu kamščiu, gėrimas, iššauti, kamštis
@@ -1996,6 +2244,7 @@
 🥂	gėrimas, sudaužti, sudaužtos taurės, taurės, šventimas
 🥃	alkoholis, stiklinė, viskis
 🥤	puodelis su šiaudeliu, soda, sultys
+🧋	arbata, burbulai, burbulinė arbata, pienas
 🧃	gėrimo pakelis, sulčių pakelis
 🧉	gėrimas, matė
 🧊	ledas, ledo kubelis, šaltas
@@ -2025,6 +2274,9 @@
 🏛️	klasikinis, klasikinis pastatas
 🏗️	klasikinis, pastato konstrukcija
 🧱	molis, plyta, plytos, siena, skiedinys
+🪨	akmuo, kietas, riedulys, sunkus, uola, uoliena
+🪵	mediena, rąstas
+🛖	apvalus namas, jurta, namas, namelis
 🏘️	namai
 🏚️	apleistas, apleistas pastatas, namas
 🏠️	namai, namas, pastatas
@@ -2092,6 +2344,7 @@
 🚗	automobilis, transporto priemonė
 🚘️	artėjanti, artėjantis automobilis, automobilis, mašina
 🚙	rekreacijos, rekreacijos automobilis, transporto priemonė
+🛻	pikapas, sunkvežimis
 🚚	krovininis sunkvežimis, pristatymas, sunkvežimis
 🚛	priekaba, pusė, sunkvežimis, sunkvežimis su priekaba
 🚜	traktorius, transporto priemonė
@@ -2104,6 +2357,7 @@
 🚲️	dviratis, transporto priemonė
 🛴	paspirtukas, spirti
 🛹	lenta, riedlentė
+🛼	riedučiai
 🚏	autobusas, autobusų stotelė, stotelė
 🛣️	greitkelis, kelias
 🛤️	geležinkelio bėgiai, geležinkelis, traukinys
@@ -2274,6 +2528,7 @@
 🪁	aitvaras, pakilti, skristi
 🎱	8, 8 kamuoliukas, biliardas, biliardo kamuoliukas, žaidimas
 🔮	fantazija, fortūna, krištolinis, krištolinis rutulys, pasaka, rutulys
+🪄	burtininkas, ragana, stebuklinga lazdelė, stebuklingas
 🧿	amuletas akis, blogio akis, karoliukas, nazaras, talismanas, žavesys
 🎮️	vaizdo žaidimas, valdiklis, žaidimas
 🕹️	vaizdo žaidimas, valdymo svirtis, žaidimas
@@ -2281,6 +2536,8 @@
 🎲	kauliukas, žaidimas
 🧩	dalis, dėlionė, galvosūkis, raktas, susijungiantis
 🧸	kimštas, meškiukas, pliušas, žaislas
+🪅	pinjata, vakarėlis, šventė
+🪆	Rusija, lėlė, matrioška, matrioškos
 ♠️	kortos, pikai, žaidimas
 ♥️	kortos, širdys, žaidimas
 ♦️	būgnai, būgnas, kortos, žaidimas
@@ -2293,7 +2550,9 @@
 🖼️	menas, muziejus, paveikslas, piešinys, rėmas, rėmas su paveikslu
 🎨	dailininko paletė, menas, muziejus, paletė, piešinys
 🧵	adata, gija, ritė, siuvimas, siūlas
+🪡	adata, siuvimas, siuvimo adata, siuvinėjimas, siūlai
 🧶	kamuolys, megzti, nerti, siūlų kamuolys
+🪢	kaklaraištis, mazgas, surišti, virvė
 👓️	akiniai, akys, apranga
 🕶️	akiniai, akiniai nuo saulės, akys, tamsūs
 🥽	akių apsauga, apsauginiai akiniai, plaukimas, suvirinimas
@@ -2319,6 +2578,7 @@
 👝	drabužiai, krepšys, maišelis
 🛍️	apsipirkimas, krepšys, pirkinių krepšeliai, viešbutis
 🎒	krepšys, kuprinė, mokykla, mokyklinė kuprinė
+🩴	dirželiai, paplūdimio sandalai, sandalai, sandalai su dirželiu
 👞	batas, drabužiai, vyras, vyriškas batas
 👟	atletiškas, batas, bėgimo batelis, drabužiai, sportinis batelis
 🥾	batas, kuprinė, stovyklavietė, žygiai, žygio batai
@@ -2332,6 +2592,7 @@
 🎩	aukšta, cilindras, drabužiai, skrybėlė
 🎓️	baigimas, drabužiai, kepurė, kepurėlė, mokyklos baigimo kepurėlė, šventė
 🧢	beisbolo kepuraitė, reklaminė kepurė
+🪖	armija, kareivis, kareiviškas šalmas, kariuomenė, karys, šalmas
 ⛑️	kepurė, kryžius, pagalba, veidas, šalmas, šalmas su baltu kryžiumi
 📿	drabužiai, karoliai, melstis, religija, rožinis, vėrinys
 💄	kosmetika, lūpų dažai, makiažas
@@ -2356,12 +2617,14 @@
 🎧️	ausinės
 📻️	radijas, vaizdo įrašas
 🎷	instrumentas, muzika, saksofonas
+🪗	akordeonas, armonika
 🎸	gitara, instrumentas, muzika
 🎹	instrumentas, klaviatūra, muzika, muzikos klaviatūra, pianinas
 🎺	instrumentas, muzika, trimitas
 🎻	instrumentas, muzika, smuikas
 🪕	bandža, muzika, styginis
 🥁	būgnas, muzika
+🪘	Kongas, būgnas, ilgas būgnas, ritmas
 📱	mobilusis, mobilusis telefonas, telefonas
 📲	mobilusis, mobilusis telefonas su rodykle, rodyklė, skambinti, telefonas
 ☎️	telefonas
@@ -2415,6 +2678,7 @@
 🔖	žyma, žymė
 🏷️	etiketė
 💰️	doleris, maišas, pinigai, pinigų maišas
+🪙	auksas, lobis, metalas, moneta, pinigai, sidabras
 💴	bankas, banknotas, jena, jenos banknotas, pinigai, valiuta
 💵	bankas, banknotas, dolerio banknotas, doleris, pinigai, valiuta
 💶	bankas, banknotas, euras, euro banknotas, pinigai, valiuta
@@ -2423,8 +2687,6 @@
 💳️	bankas, kortelė, kreditas, kredito kortelė, pinigai
 🧾	apskaita, čekis, įrodymai
 💹	augimas, diagrama, didėjimo diagrama su jenos simboliu, jena, tendencijos, valiuta
-💱	bankas, keitimas, pinigai, valiuta, valiutos keitimas
-💲	doleris, paryškintas dolerio ženklas, pinigai, valiuta
 ✉️	el. laiškas, el. paštas, vokas
 📧	el. laiškas, laiškas, paštas
 📨	el. laiškas, gaunamas vokas, gavimas, laiškas, paštas, vokas
@@ -2482,9 +2744,12 @@
 🗡️	durklas, ginklas, peilis
 ⚔️	ginklai, kardai, sukryžiuoti, sukryžiuoti kardai
 🔫	ginklas, pistoletas, revolveris, įrankis
+🪃	australija, bumerangas, grįžimas
 🏹	ginklas, lankas, lankas ir strėlė, strėlė, zodiako, įrankis, šaulys
 🛡️	ginklas, skydas
+🪚	dailidė, mediena, pjūklas, įrankis
 🔧	veržliaraktis, įrankis
+🪛	atsuktuvas, varžtas, įrankis
 🔩	varžtas, veržlė, veržlė ir varžtas, įrankis
 ⚙️	krumpliaratis, įrankis
 🗜️	spaustuvai, suspaudimas, įrankis
@@ -2492,8 +2757,10 @@
 🦯	aklas, neregio lazda, prieinamumas
 🔗	jungtis
 ⛓️	grandinė, grandinės
+🪝	grobis, kablys, sugauti
 🧰	dėžė, mechanikas, įrankis, įrankių rinkinys
 🧲	magnetas, magnetinis, pasaga, trauka
+🪜	kopėčios, lipti, žingsnis
 ⚗️	chemija, distiliavimo indas, įrankis
 🧪	bandymas, chemija, chemikas, laboratorija, mokslas, mėgintuvėlis
 🧫	bakterijos, bakterijų auginimas, biologas, biologija, petri lėkštelė
@@ -2507,26 +2774,35 @@
 🩹	pleistras
 🩺	gydytojas, medicina, stetoskopas, širdis
 🚪	durys
+🛗	elevatorius, keltuvas, liftas, prieinamumas
+🪞	atspindys, atšvaitas, reflektorius, veidrodis
+🪟	atvėrimas, langas, perregimas, rėmas, vaizdas, šviežias oras
 🛏️	lova, miegoti, viešbutis
 🛋️	lempa, sofa, sofa ir lempa, viešbutis
 🪑	kėdė, sėdėti
 🚽	tualetas
+🪠	santechnikas, santechninė pompa, siurbimas, tualetas
 🚿	dušas, vanduo
 🛁	vonia
+🪤	pelėkautai, spąstai
 🪒	aštrus, skusti, skustuvas
 🧴	apsauga nuo saulės, drėkinamasis kremas, losjonas, losjono buteliukas, šampūnas
 🧷	pankrokas, vystyklai, žiogelis
 🧹	ragana, valymas, šlavimas, šluota
 🧺	iškyla, pintinė, skalbiniai, ūkininkavimas
 🧻	popieriaus ritinys, popieriniai rankšluosčiai, tualetinis popierius
+🪣	kibiras
 🧼	maudytis, muilas, muilinti, muilinė, plytelė, praustis
+🪥	dantys, dantų šepetėlis, higiena, valyti, vonios kambarys
 🧽	akytas, kempinė, praustis, sugeriantis
 🧯	gesinti, gesintuvas, ugnis
 🛒	apsipirkimas, parduotuvė, pirkinių vežimėlis, vežimėlis
 🚬	rūkymas
 ⚰️	karstas, mirtis
+🪦	kapas, kapinės, paminklas
 ⚱️	laidojimo urna, laidotuvės, mirtis, urna
 🗿	moai, statula, veidas
+🪧	demonstracija, piketas, plakatas, protestas, ženklas
 🏧	automatinis, bankas, bankomatas, bankomato ženklas, kasininkas
 🚮	šiukšliadėžė, šiukšlių metimo į šiukšliadėžes ženklas, šiukšlė
 🚰	geriamas, geriamasis vanduo, gerti, vanduo
@@ -2625,8 +2901,22 @@
 📴	išjungti, išjungti mobilųjį telefoną, mobilusis, telefonas
 ♀️	moteris, moteriškos lyties ženklas
 ♂️	vyras, vyriškos lyties ženklas
-⚕️	asklepijus, medicina, medicinos simbolis, personalas
+⚧️	translytis, translyčių simbolis
+✖️	atšaukti, dauginti, daugyba, paryškintas daugybos ženklas, x
+➕	matematika, paryškintas pliusas, pliusas
+➖	matematika, minusas, paryškintas minusas
+➗	dalyba, matematika, paryškintas dalybos ženklas
 ♾️	amžinai, begalybė, neribotas, universalus
+‼️	du šauktukai, skyryba, šauktukas, žymė
+⁉️	klausimas, skyryba, šauktukas, šauktukas ir klaustukas, žymė
+❓️	klausimas, klaustukas, skyryba, žymė
+❔	baltas klaustukas, klausimas, kontūras, skyryba, žymė
+❕	baltas šauktukas, kontūras, skyryba, šauktukas, žymė
+❗️	skyryba, šauktukas, žymė
+〰️	brūkšnys, skyryba, vingiuotas, vingiuotas brūkšnys
+💱	bankas, keitimas, pinigai, valiuta, valiutos keitimas
+💲	doleris, paryškintas dolerio ženklas, pinigai, valiuta
+⚕️	asklepijus, medicina, medicinos simbolis, personalas
 ♻️	perdirbimo simbolis, perdirbti
 ⚜	lelija, lelijos simbolis
 🔱	emblema, inkaras, laivas, trišakis, trišakė emblema, įrankis
@@ -2636,25 +2926,14 @@
 ✅	balta paryškinta varnelė, varnelė, žymė
 ☑️	balsavimas, balsavimo laukelis su varnele, laukelis, varnelė
 ✔️	paryškinta varnelė, varnelė, žymė
-✖️	atšaukti, dauginti, daugyba, paryškintas daugybos ženklas, x
 ❌	atšaukti, dauginti, daugyba, kryžiukas, x, žymė
 ❎	kryžiuko mygtukas, kvadratas, žymė
-➕	matematika, paryškintas pliusas, pliusas
-➖	matematika, minusas, paryškintas minusas
-➗	dalyba, matematika, paryškintas dalybos ženklas
 ➰	kilpa, kilpelė, raityti
 ➿	dviguba, dviguba kilpelė, kilpa, raityti
 〽️	dalis, dalių apkeitimo ženklas, žymė
 ✳️	aštuoniakampė žvaigždutė, žvaigždutė
 ✴️	aštuoniakampė žvaigždė, žvaigždė
 ❇️	kibirkštis, kibirkštėlė
-‼️	du šauktukai, skyryba, šauktukas, žymė
-⁉️	klausimas, skyryba, šauktukas, šauktukas ir klaustukas, žymė
-❓️	klausimas, klaustukas, skyryba, žymė
-❔	baltas klaustukas, klausimas, kontūras, skyryba, žymė
-❕	baltas šauktukas, kontūras, skyryba, šauktukas, žymė
-❗️	skyryba, šauktukas, žymė
-〰️	brūkšnys, skyryba, vingiuotas, vingiuotas brūkšnys
 ©️	autorių teisės
 ®️	užregistruota
 ™️	prekės ženklas, žymė
@@ -2750,6 +3029,7 @@
 🏴	juoda vėliava, mojavimas
 🏳️	balta vėliava, mojavimas
 🏳‍🌈	vaivorykštinė vėliava, vaivorykštė
+🏳‍⚧	translytis, vėliava, žydra, rožinė ir balta vėliava
 🏴‍☠	Linksmasis Rodžeris, lobis, piratas, piratų vėliava, plėšikauti
 🇦🇨	vėliava, vėliava: Dangun Žengimo sala
 🇦🇩	vėliava, vėliava: Andora

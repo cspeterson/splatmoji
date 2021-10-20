@@ -19,6 +19,7 @@
 ☺️	buzëqeshje, e qetë, e çlodhur, fytyrë, fytyrë e qeshur
 😚	fytyrë që puth me sytë e mbyllur, puth, puthje, sy, të mbyllur
 😙	fytyrë që puth me sy të qeshur, puthje, sy
+🥲	duke qeshur, fytyrë e qeshur me lot, i lehtësuar, i prekur, krenar, lot, mirënjohës
 😋	buzëqeshje, fytyrë, fytyrë duke shijuar ushqime të shijshme, shijoj
 😛	fytyrë, fytyrë me gjuhën jashtë, gjuhë
 😜	fytyrë, fytyrë me gjuhën jashtë dhe syrin e shkelur, gjuhë, shaka, shkel syrin
@@ -57,6 +58,7 @@
 🤯	i tronditur, kokë që shpërthen
 🤠	fytyrë, fytyrë me kapele lopari, kapele, lopar, lopare
 🥳	bori, festë, fytyrë festive, kapelë, mbrëmje festive
+🥸	fytyrë, fytyrë e maskuar, hundë, kamuflim, maskim, syze
 😎	diell, fytyrë, fytyrë e qeshur me syze dielli, i ndritshëm, syze dielli
 🤓	fytyrë, fytyrë peshkopi, peshkop
 🧐	fytyrë me monokël, hundë të bllokuara
@@ -129,7 +131,7 @@
 💛	e verdhë, zemër, zemër e verdhë
 💚	jeshile, zemër, zemër jeshile
 💙	blu, zemër, zemër blu
-💜	e purpurt, vjollcë, zemër, zemër ngjyrë vjollcë
+💜	vjollcë, zemër ngjyrë vjollcë, zemër vjollcë
 🤎	ngjyrë kafe, zemër, zemër në ngjyrë kafe
 🖤	e zezë, i keq, ligësi, zemër, zemër e zezë
 🤍	e bardhë, zemër, zemër e bardhë
@@ -183,6 +185,12 @@
 👌🏽	dorë, nuancë lëkure zeshkane, në rregull, ok, trup, «ok» me dorë, «ok» me dorë: nuancë lëkure zeshkane
 👌🏾	dorë, nuancë lëkure gjysmë e errët, në rregull, ok, trup, «ok» me dorë, «ok» me dorë: nuancë lëkure gjysmë e errët
 👌🏿	dorë, nuancë lëkure e errët, në rregull, ok, trup, «ok» me dorë, «ok» me dorë: nuancë lëkure e errët
+🤌	gishta, gishta të mbledhur, gjest me dorë, hetim, mbledhur, sarkastik
+🤌🏻	gishta, gishta të mbledhur, gishta të mbledhur: nuancë lëkure e çelët, gjest me dorë, hetim, mbledhur, nuancë lëkure e çelët, sarkastik
+🤌🏼	gishta, gishta të mbledhur, gishta të mbledhur: nuancë lëkure gjysmë e çelët, gjest me dorë, hetim, mbledhur, nuancë lëkure gjysmë e çelët, sarkastik
+🤌🏽	gishta, gishta të mbledhur, gishta të mbledhur: nuancë lëkure zeshkane, gjest me dorë, hetim, mbledhur, nuancë lëkure zeshkane, sarkastik
+🤌🏾	gishta, gishta të mbledhur, gishta të mbledhur: nuancë lëkure gjysmë e errët, gjest me dorë, hetim, mbledhur, nuancë lëkure gjysmë e errët, sarkastik
+🤌🏿	gishta, gishta të mbledhur, gishta të mbledhur: nuancë lëkure e errët, gjest me dorë, hetim, mbledhur, nuancë lëkure e errët, sarkastik
 🤏	dorështrënguar, kurnac, sasi e vogël
 🤏🏻	dorështrënguar, dorështrënguar: nuancë lëkure e çelët, kurnac, nuancë lëkure e çelët, sasi e vogël
 🤏🏼	dorështrënguar, dorështrënguar: nuancë lëkure gjysmë e çelët, kurnac, nuancë lëkure gjysmë e çelët, sasi e vogël
@@ -379,6 +387,8 @@
 👃🏾	hundë, hundë: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, trup
 👃🏿	hundë, hundë: nuancë lëkure e errët, nuancë lëkure e errët, trup
 🧠	i zgjuar, inteligjent, tru
+🫀	organ, puls, qendër, rrahje zemre, zemër
+🫁	frymë, frymëmarrje, frymënxjerrje, mushkëri, organ, respiracion
 🦷	dentist, dhëmb
 🦴	eshtër, skelet
 👀	fytyrë, sy, sytë, trup
@@ -421,6 +431,30 @@
 👱🏽	biond, njeri biond, njeri biond: nuancë lëkure zeshkane, nuancë lëkure zeshkane
 👱🏾	biond, njeri biond, njeri biond: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët
 👱🏿	biond, njeri biond, njeri biond: nuancë lëkure e errët, nuancë lëkure e errët
+🧑‍🦰	adoleshent, adoleshente, e rritur, flokë të kuqe, fëmijë i rritur, fëmijë i rritur: flokë të kuqe, i rritur
+🧑🏻‍🦰	adoleshent, adoleshente, e rritur, flokë të kuqe, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e çelët e flokë të kuqe, i rritur, nuancë lëkure e çelët
+🧑🏼‍🦰	adoleshent, adoleshente, e rritur, flokë të kuqe, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e çelët e flokë të kuqe, i rritur, nuancë lëkure gjysmë e çelët
+🧑🏽‍🦰	adoleshent, adoleshente, e rritur, flokë të kuqe, fëmijë i rritur, fëmijë i rritur: nuancë lëkure zeshkane e flokë të kuqe, i rritur, nuancë lëkure zeshkane
+🧑🏾‍🦰	adoleshent, adoleshente, e rritur, flokë të kuqe, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e errët e flokë të kuqe, i rritur, nuancë lëkure gjysmë e errët
+🧑🏿‍🦰	adoleshent, adoleshente, e rritur, flokë të kuqe, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e errët e flokë të kuqe, i rritur, nuancë lëkure e errët
+🧑‍🦱	adoleshent, adoleshente, e rritur, flokë kaçurrele, fëmijë i rritur, fëmijë i rritur: flokë kaçurrele, i rritur
+🧑🏻‍🦱	adoleshent, adoleshente, e rritur, flokë kaçurrele, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e çelët e flokë kaçurrele, i rritur, nuancë lëkure e çelët
+🧑🏼‍🦱	adoleshent, adoleshente, e rritur, flokë kaçurrele, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e çelët e flokë kaçurrele, i rritur, nuancë lëkure gjysmë e çelët
+🧑🏽‍🦱	adoleshent, adoleshente, e rritur, flokë kaçurrele, fëmijë i rritur, fëmijë i rritur: nuancë lëkure zeshkane e flokë kaçurrele, i rritur, nuancë lëkure zeshkane
+🧑🏾‍🦱	adoleshent, adoleshente, e rritur, flokë kaçurrele, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e errët e flokë kaçurrele, i rritur, nuancë lëkure gjysmë e errët
+🧑🏿‍🦱	adoleshent, adoleshente, e rritur, flokë kaçurrele, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e errët e flokë kaçurrele, i rritur, nuancë lëkure e errët
+🧑‍🦳	adoleshent, adoleshente, e rritur, flokë të bardha, fëmijë i rritur, fëmijë i rritur: flokë të bardha, i rritur
+🧑🏻‍🦳	adoleshent, adoleshente, e rritur, flokë të bardha, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e çelët e flokë të bardha, i rritur, nuancë lëkure e çelët
+🧑🏼‍🦳	adoleshent, adoleshente, e rritur, flokë të bardha, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e çelët e flokë të bardha, i rritur, nuancë lëkure gjysmë e çelët
+🧑🏽‍🦳	adoleshent, adoleshente, e rritur, flokë të bardha, fëmijë i rritur, fëmijë i rritur: nuancë lëkure zeshkane e flokë të bardha, i rritur, nuancë lëkure zeshkane
+🧑🏾‍🦳	adoleshent, adoleshente, e rritur, flokë të bardha, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e errët e flokë të bardha, i rritur, nuancë lëkure gjysmë e errët
+🧑🏿‍🦳	adoleshent, adoleshente, e rritur, flokë të bardha, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e errët e flokë të bardha, i rritur, nuancë lëkure e errët
+🧑‍🦲	adoleshent, adoleshente, e rritur, fëmijë i rritur, fëmijë i rritur: qeros, i rritur, qeros
+🧑🏻‍🦲	adoleshent, adoleshente, e rritur, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e çelët e qeros, i rritur, nuancë lëkure e çelët, qeros
+🧑🏼‍🦲	adoleshent, adoleshente, e rritur, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e çelët e qeros, i rritur, nuancë lëkure gjysmë e çelët, qeros
+🧑🏽‍🦲	adoleshent, adoleshente, e rritur, fëmijë i rritur, fëmijë i rritur: nuancë lëkure zeshkane e qeros, i rritur, nuancë lëkure zeshkane, qeros
+🧑🏾‍🦲	adoleshent, adoleshente, e rritur, fëmijë i rritur, fëmijë i rritur: nuancë lëkure gjysmë e errët e qeros, i rritur, nuancë lëkure gjysmë e errët, qeros
+🧑🏿‍🦲	adoleshent, adoleshente, e rritur, fëmijë i rritur, fëmijë i rritur: nuancë lëkure e errët e qeros, i rritur, nuancë lëkure e errët, qeros
 👨	burrë, mashkull
 👨🏻	burrë, burrë: nuancë lëkure e çelët, mashkull, nuancë lëkure e çelët
 👨🏼	burrë, burrë: nuancë lëkure gjysmë e çelët, mashkull, nuancë lëkure gjysmë e çelët
@@ -697,6 +731,12 @@
 🤷🏽‍♀	dyshime, grua, grua që ngre supet, grua që ngre supet: nuancë lëkure zeshkane, indiferencë, ngritje supesh, nuancë lëkure zeshkane
 🤷🏾‍♀	dyshime, grua, grua që ngre supet, grua që ngre supet: nuancë lëkure gjysmë e errët, indiferencë, ngritje supesh, nuancë lëkure gjysmë e errët
 🤷🏿‍♀	dyshime, grua, grua që ngre supet, grua që ngre supet: nuancë lëkure e errët, indiferencë, ngritje supesh, nuancë lëkure e errët
+🧑‍⚕	doktor, infermier, mjek, person punonjës shëndetësor, terapeut
+🧑🏻‍⚕	doktor, infermier, mjek, nuancë lëkure e çelët, person punonjës shëndetësor, person punonjës shëndetësor: nuancë lëkure e çelët, terapeut
+🧑🏼‍⚕	doktor, infermier, mjek, nuancë lëkure gjysmë e çelët, person punonjës shëndetësor, person punonjës shëndetësor: nuancë lëkure gjysmë e çelët, terapeut
+🧑🏽‍⚕	doktor, infermier, mjek, nuancë lëkure zeshkane, person punonjës shëndetësor, person punonjës shëndetësor: nuancë lëkure zeshkane, terapeut
+🧑🏾‍⚕	doktor, infermier, mjek, nuancë lëkure gjysmë e errët, person punonjës shëndetësor, person punonjës shëndetësor: nuancë lëkure gjysmë e errët, terapeut
+🧑🏿‍⚕	doktor, infermier, mjek, nuancë lëkure e errët, person punonjës shëndetësor, person punonjës shëndetësor: nuancë lëkure e errët, terapeut
 👨‍⚕	burrë, doktor, infermier, kujdes mjekësor, punonjës shëndetësor
 👨🏻‍⚕	burrë, doktor, infermier, kujdes mjekësor, nuancë lëkure e çelët, punonjës shëndetësor, punonjës shëndetësor: nuancë lëkure e çelët
 👨🏼‍⚕	burrë, doktor, infermier, kujdes mjekësor, nuancë lëkure gjysmë e çelët, punonjës shëndetësor, punonjës shëndetësor: nuancë lëkure gjysmë e çelët
@@ -709,6 +749,12 @@
 👩🏽‍⚕	doktore, grua, infermiere, kujdes mjekësor, nuancë lëkure zeshkane, punonjëse shëndetësor, punonjëse shëndetësor: nuancë lëkure zeshkane
 👩🏾‍⚕	doktore, grua, infermiere, kujdes mjekësor, nuancë lëkure gjysmë e errët, punonjëse shëndetësor, punonjëse shëndetësor: nuancë lëkure gjysmë e errët
 👩🏿‍⚕	doktore, grua, infermiere, kujdes mjekësor, nuancë lëkure e errët, punonjëse shëndetësor, punonjëse shëndetësor: nuancë lëkure e errët
+🧑‍🎓	gjimnazist, i diplomuar, person student, student
+🧑🏻‍🎓	gjimnazist, i diplomuar, nuancë lëkure e çelët, person student, person student: nuancë lëkure e çelët, student
+🧑🏼‍🎓	gjimnazist, i diplomuar, nuancë lëkure gjysmë e çelët, person student, person student: nuancë lëkure gjysmë e çelët, student
+🧑🏽‍🎓	gjimnazist, i diplomuar, nuancë lëkure zeshkane, person student, person student: nuancë lëkure zeshkane, student
+🧑🏾‍🎓	gjimnazist, i diplomuar, nuancë lëkure gjysmë e errët, person student, person student: nuancë lëkure gjysmë e errët, student
+🧑🏿‍🎓	gjimnazist, i diplomuar, nuancë lëkure e errët, person student, person student: nuancë lëkure e errët, student
 👨‍🎓	diplomim, mashkull, student
 👨🏻‍🎓	diplomim, mashkull, nuancë lëkure e çelët, student, student: nuancë lëkure e çelët
 👨🏼‍🎓	diplomim, mashkull, nuancë lëkure gjysmë e çelët, student, student: nuancë lëkure gjysmë e çelët
@@ -721,6 +767,12 @@
 👩🏽‍🎓	diplomim, femër, nuancë lëkure zeshkane, studente, studente: nuancë lëkure zeshkane
 👩🏾‍🎓	diplomim, femër, nuancë lëkure gjysmë e errët, studente, studente: nuancë lëkure gjysmë e errët
 👩🏿‍🎓	diplomim, femër, nuancë lëkure e errët, studente, studente: nuancë lëkure e errët
+🧑‍🏫	instruktor, mësues, person mësues, profesor
+🧑🏻‍🏫	instruktor, mësues, nuancë lëkure e çelët, person mësues, person mësues: nuancë lëkure e çelët, profesor
+🧑🏼‍🏫	instruktor, mësues, nuancë lëkure gjysmë e çelët, person mësues, person mësues: nuancë lëkure gjysmë e çelët, profesor
+🧑🏽‍🏫	instruktor, mësues, nuancë lëkure zeshkane, person mësues, person mësues: nuancë lëkure zeshkane, profesor
+🧑🏾‍🏫	instruktor, mësues, nuancë lëkure gjysmë e errët, person mësues, person mësues: nuancë lëkure gjysmë e errët, profesor
+🧑🏿‍🏫	instruktor, mësues, nuancë lëkure e errët, person mësues, person mësues: nuancë lëkure e errët, profesor
 👨‍🏫	burrë, instruktor, mësues, profesor
 👨🏻‍🏫	burrë, instruktor, mësues, mësues: nuancë lëkure e çelët, nuancë lëkure e çelët, profesor
 👨🏼‍🏫	burrë, instruktor, mësues, mësues: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, profesor
@@ -733,6 +785,12 @@
 👩🏽‍🏫	Instruktore, grua, mësuese, mësuese: nuancë lëkure zeshkane, nuancë lëkure zeshkane, profesore
 👩🏾‍🏫	Instruktore, grua, mësuese, mësuese: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, profesore
 👩🏿‍🏫	Instruktore, grua, mësuese, mësuese: nuancë lëkure e errët, nuancë lëkure e errët, profesore
+🧑‍⚖	drejtësi, gjykatës, person gjykatës, peshore
+🧑🏻‍⚖	drejtësi, gjykatës, nuancë lëkure e çelët, person gjykatës, person gjykatës: nuancë lëkure e çelët, peshore
+🧑🏼‍⚖	drejtësi, gjykatës, nuancë lëkure gjysmë e çelët, person gjykatës, person gjykatës: nuancë lëkure gjysmë e çelët, peshore
+🧑🏽‍⚖	drejtësi, gjykatës, nuancë lëkure zeshkane, person gjykatës, person gjykatës: nuancë lëkure zeshkane, peshore
+🧑🏾‍⚖	drejtësi, gjykatës, nuancë lëkure gjysmë e errët, person gjykatës, person gjykatës: nuancë lëkure gjysmë e errët, peshore
+🧑🏿‍⚖	drejtësi, gjykatës, nuancë lëkure e errët, person gjykatës, person gjykatës: nuancë lëkure e errët, peshore
 👨‍⚖	burrë, drejtësi, gjykatës, peshore
 👨🏻‍⚖	burrë, drejtësi, gjykatës, gjykatës: nuancë lëkure e çelët, nuancë lëkure e çelët, peshore
 👨🏼‍⚖	burrë, drejtësi, gjykatës, gjykatës: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, peshore
@@ -745,6 +803,12 @@
 👩🏽‍⚖	drejtësi, gjykatëse, gjykatëse: nuancë lëkure zeshkane, grua, nuancë lëkure zeshkane, peshore
 👩🏾‍⚖	drejtësi, gjykatëse, gjykatëse: nuancë lëkure gjysmë e errët, grua, nuancë lëkure gjysmë e errët, peshore
 👩🏿‍⚖	drejtësi, gjykatëse, gjykatëse: nuancë lëkure e errët, grua, nuancë lëkure e errët, peshore
+🧑‍🌾	bujk, fermer, kopshtar, person bujk
+🧑🏻‍🌾	bujk, fermer, kopshtar, nuancë lëkure e çelët, person bujk, person bujk: nuancë lëkure e çelët
+🧑🏼‍🌾	bujk, fermer, kopshtar, nuancë lëkure gjysmë e çelët, person bujk, person bujk: nuancë lëkure gjysmë e çelët
+🧑🏽‍🌾	bujk, fermer, kopshtar, nuancë lëkure zeshkane, person bujk, person bujk: nuancë lëkure zeshkane
+🧑🏾‍🌾	bujk, fermer, kopshtar, nuancë lëkure gjysmë e errët, person bujk, person bujk: nuancë lëkure gjysmë e errët
+🧑🏿‍🌾	bujk, fermer, kopshtar, nuancë lëkure e errët, person bujk, person bujk: nuancë lëkure e errët
 👨‍🌾	bujk, burrë, kopshtar
 👨🏻‍🌾	bujk, bujk: nuancë lëkure e çelët, burrë, kopshtar, nuancë lëkure e çelët
 👨🏼‍🌾	bujk, bujk: nuancë lëkure gjysmë e çelët, burrë, kopshtar, nuancë lëkure gjysmë e çelët
@@ -757,6 +821,12 @@
 👩🏽‍🌾	bujkeshë, bujkeshë: nuancë lëkure zeshkane, grua, kopshtare, nuancë lëkure zeshkane
 👩🏾‍🌾	bujkeshë, bujkeshë: nuancë lëkure gjysmë e errët, grua, kopshtare, nuancë lëkure gjysmë e errët
 👩🏿‍🌾	bujkeshë, bujkeshë: nuancë lëkure e errët, grua, kopshtare, nuancë lëkure e errët
+🧑‍🍳	kuzhinier, person kuzhinier, shef kuzhine
+🧑🏻‍🍳	kuzhinier, nuancë lëkure e çelët, person kuzhinier, person kuzhinier: nuancë lëkure e çelët, shef kuzhine
+🧑🏼‍🍳	kuzhinier, nuancë lëkure gjysmë e çelët, person kuzhinier, person kuzhinier: nuancë lëkure gjysmë e çelët, shef kuzhine
+🧑🏽‍🍳	kuzhinier, nuancë lëkure zeshkane, person kuzhinier, person kuzhinier: nuancë lëkure zeshkane, shef kuzhine
+🧑🏾‍🍳	kuzhinier, nuancë lëkure gjysmë e errët, person kuzhinier, person kuzhinier: nuancë lëkure gjysmë e errët, shef kuzhine
+🧑🏿‍🍳	kuzhinier, nuancë lëkure e errët, person kuzhinier, person kuzhinier: nuancë lëkure e errët, shef kuzhine
 👨‍🍳	burrë, kuzhinier, kuzhinë
 👨🏻‍🍳	burrë, kuzhinier, kuzhinier: nuancë lëkure e çelët, kuzhinë, nuancë lëkure e çelët
 👨🏼‍🍳	burrë, kuzhinier, kuzhinier: nuancë lëkure gjysmë e çelët, kuzhinë, nuancë lëkure gjysmë e çelët
@@ -769,6 +839,12 @@
 👩🏽‍🍳	grua, kuzhiniere, kuzhiniere: nuancë lëkure zeshkane, kuzhinë, nuancë lëkure zeshkane
 👩🏾‍🍳	grua, kuzhiniere, kuzhiniere: nuancë lëkure gjysmë e errët, kuzhinë, nuancë lëkure gjysmë e errët
 👩🏿‍🍳	grua, kuzhiniere, kuzhiniere: nuancë lëkure e errët, kuzhinë, nuancë lëkure e errët
+🧑‍🔧	elektricist, hidraulik, mekanik, person mekanik, zanatçi
+🧑🏻‍🔧	elektricist, hidraulik, mekanik, nuancë lëkure e çelët, person mekanik, person mekanik: nuancë lëkure e çelët, zanatçi
+🧑🏼‍🔧	elektricist, hidraulik, mekanik, nuancë lëkure gjysmë e çelët, person mekanik, person mekanik: nuancë lëkure gjysmë e çelët, zanatçi
+🧑🏽‍🔧	elektricist, hidraulik, mekanik, nuancë lëkure zeshkane, person mekanik, person mekanik: nuancë lëkure zeshkane, zanatçi
+🧑🏾‍🔧	elektricist, hidraulik, mekanik, nuancë lëkure gjysmë e errët, person mekanik, person mekanik: nuancë lëkure gjysmë e errët, zanatçi
+🧑🏿‍🔧	elektricist, hidraulik, mekanik, nuancë lëkure e errët, person mekanik, person mekanik: nuancë lëkure e errët, zanatçi
 👨‍🔧	burrë, elektricist, hidraulik, mekanik
 👨🏻‍🔧	burrë, elektricist, hidraulik, mekanik, mekanik: nuancë lëkure e çelët, nuancë lëkure e çelët
 👨🏼‍🔧	burrë, elektricist, hidraulik, mekanik, mekanik: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët
@@ -781,6 +857,12 @@
 👩🏽‍🔧	burrë, elektriciste, hidraulike, mekanike, mekanike: nuancë lëkure zeshkane, nuancë lëkure zeshkane
 👩🏾‍🔧	burrë, elektriciste, hidraulike, mekanike, mekanike: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët
 👩🏿‍🔧	burrë, elektriciste, hidraulike, mekanike, mekanike: nuancë lëkure e errët, nuancë lëkure e errët
+🧑‍🏭	fabrikë, industriale, person punëtor fabrike, punëtor, uzinë
+🧑🏻‍🏭	fabrikë, industriale, nuancë lëkure e çelët, person punëtor fabrike, person punëtor fabrike: nuancë lëkure e çelët, punëtor, uzinë
+🧑🏼‍🏭	fabrikë, industriale, nuancë lëkure gjysmë e çelët, person punëtor fabrike, person punëtor fabrike: nuancë lëkure gjysmë e çelët, punëtor, uzinë
+🧑🏽‍🏭	fabrikë, industriale, nuancë lëkure zeshkane, person punëtor fabrike, person punëtor fabrike: nuancë lëkure zeshkane, punëtor, uzinë
+🧑🏾‍🏭	fabrikë, industriale, nuancë lëkure gjysmë e errët, person punëtor fabrike, person punëtor fabrike: nuancë lëkure gjysmë e errët, punëtor, uzinë
+🧑🏿‍🏭	fabrikë, industriale, nuancë lëkure e errët, person punëtor fabrike, person punëtor fabrike: nuancë lëkure e errët, punëtor, uzinë
 👨‍🏭	burrë, fabrikë, industri, montator, punëtor fabrike
 👨🏻‍🏭	burrë, fabrikë, industri, montator, nuancë lëkure e çelët, punëtor fabrike, punëtor fabrike: nuancë lëkure e çelët
 👨🏼‍🏭	burrë, fabrikë, industri, montator, nuancë lëkure gjysmë e çelët, punëtor fabrike, punëtor fabrike: nuancë lëkure gjysmë e çelët
@@ -793,6 +875,12 @@
 👩🏽‍🏭	fabrikë, grua, industri, montatore, nuancë lëkure zeshkane, punëtore fabrike, punëtore fabrike: nuancë lëkure zeshkane
 👩🏾‍🏭	fabrikë, grua, industri, montatore, nuancë lëkure gjysmë e errët, punëtore fabrike, punëtore fabrike: nuancë lëkure gjysmë e errët
 👩🏿‍🏭	fabrikë, grua, industri, montatore, nuancë lëkure e errët, punëtore fabrike, punëtore fabrike: nuancë lëkure e errët
+🧑‍💼	arkitekt, biznes, menaxher, person punonjës zyre, punë zyre
+🧑🏻‍💼	arkitekt, biznes, menaxher, nuancë lëkure e çelët, person punonjës zyre, person punonjës zyre: nuancë lëkure e çelët, punë zyre
+🧑🏼‍💼	arkitekt, biznes, menaxher, nuancë lëkure gjysmë e çelët, person punonjës zyre, person punonjës zyre: nuancë lëkure gjysmë e çelët, punë zyre
+🧑🏽‍💼	arkitekt, biznes, menaxher, nuancë lëkure zeshkane, person punonjës zyre, person punonjës zyre: nuancë lëkure zeshkane, punë zyre
+🧑🏾‍💼	arkitekt, biznes, menaxher, nuancë lëkure gjysmë e errët, person punonjës zyre, person punonjës zyre: nuancë lëkure gjysmë e errët, punë zyre
+🧑🏿‍💼	arkitekt, biznes, menaxher, nuancë lëkure e errët, person punonjës zyre, person punonjës zyre: nuancë lëkure e errët, punë zyre
 👨‍💼	arkitekt, biznes, burrë, menaxher, punonjës zyre
 👨🏻‍💼	arkitekt, biznes, burrë, menaxher, nuancë lëkure e çelët, punonjës zyre, punonjës zyre: nuancë lëkure e çelët
 👨🏼‍💼	arkitekt, biznes, burrë, menaxher, nuancë lëkure gjysmë e çelët, punonjës zyre, punonjës zyre: nuancë lëkure gjysmë e çelët
@@ -805,6 +893,12 @@
 👩🏽‍💼	arkitekte, biznes, grua, menaxher, nuancë lëkure zeshkane, punonjëse zyre, punonjëse zyre: nuancë lëkure zeshkane
 👩🏾‍💼	arkitekte, biznes, grua, menaxher, nuancë lëkure gjysmë e errët, punonjëse zyre, punonjëse zyre: nuancë lëkure gjysmë e errët
 👩🏿‍💼	arkitekte, biznes, grua, menaxher, nuancë lëkure e errët, punonjëse zyre, punonjëse zyre: nuancë lëkure e errët
+🧑‍🔬	biolog, inxhinier, kimist, person shkencëtar, shkencëtar
+🧑🏻‍🔬	biolog, inxhinier, kimist, nuancë lëkure e çelët, person shkencëtar, person shkencëtar: nuancë lëkure e çelët, shkencëtar
+🧑🏼‍🔬	biolog, inxhinier, kimist, nuancë lëkure gjysmë e çelët, person shkencëtar, person shkencëtar: nuancë lëkure gjysmë e çelët, shkencëtar
+🧑🏽‍🔬	biolog, inxhinier, kimist, nuancë lëkure zeshkane, person shkencëtar, person shkencëtar: nuancë lëkure zeshkane, shkencëtar
+🧑🏾‍🔬	biolog, inxhinier, kimist, nuancë lëkure gjysmë e errët, person shkencëtar, person shkencëtar: nuancë lëkure gjysmë e errët, shkencëtar
+🧑🏿‍🔬	biolog, inxhinier, kimist, nuancë lëkure e errët, person shkencëtar, person shkencëtar: nuancë lëkure e errët, shkencëtar
 👨‍🔬	biolog, fizikan, kimist, shkencëtar
 👨🏻‍🔬	biolog, fizikan, kimist, nuancë lëkure e çelët, shkencëtar, shkencëtar: nuancë lëkure e çelët
 👨🏼‍🔬	biolog, fizikan, kimist, nuancë lëkure gjysmë e çelët, shkencëtar, shkencëtar: nuancë lëkure gjysmë e çelët
@@ -817,6 +911,12 @@
 👩🏽‍🔬	biologe, fizikane, kimiste, nuancë lëkure zeshkane, shkencëtare, shkencëtare: nuancë lëkure zeshkane
 👩🏾‍🔬	biologe, fizikane, kimiste, nuancë lëkure gjysmë e errët, shkencëtare, shkencëtare: nuancë lëkure gjysmë e errët
 👩🏿‍🔬	biologe, fizikane, kimiste, nuancë lëkure e errët, shkencëtare, shkencëtare: nuancë lëkure e errët
+🧑‍💻	kodues, person teknolog, shpikës, softuer, teknolog, zhvillues
+🧑🏻‍💻	kodues, nuancë lëkure e çelët, person teknolog, person teknolog: nuancë lëkure e çelët, shpikës, softuer, teknolog, zhvillues
+🧑🏼‍💻	kodues, nuancë lëkure gjysmë e çelët, person teknolog, person teknolog: nuancë lëkure gjysmë e çelët, shpikës, softuer, teknolog, zhvillues
+🧑🏽‍💻	kodues, nuancë lëkure zeshkane, person teknolog, person teknolog: nuancë lëkure zeshkane, shpikës, softuer, teknolog, zhvillues
+🧑🏾‍💻	kodues, nuancë lëkure gjysmë e errët, person teknolog, person teknolog: nuancë lëkure gjysmë e errët, shpikës, softuer, teknolog, zhvillues
+🧑🏿‍💻	kodues, nuancë lëkure e errët, person teknolog, person teknolog: nuancë lëkure e errët, shpikës, softuer, teknolog, zhvillues
 👨‍💻	burrë, kodues, softuer, teknolog, zhvillues
 👨🏻‍💻	burrë, kodues, nuancë lëkure e çelët, softuer, teknolog, teknolog: nuancë lëkure e çelët, zhvillues
 👨🏼‍💻	burrë, kodues, nuancë lëkure gjysmë e çelët, softuer, teknolog, teknolog: nuancë lëkure gjysmë e çelët, zhvillues
@@ -829,6 +929,12 @@
 👩🏽‍💻	grua, koduese, nuancë lëkure zeshkane, softuer, teknologe, teknologe: nuancë lëkure zeshkane, zhvilluese
 👩🏾‍💻	grua, koduese, nuancë lëkure gjysmë e errët, softuer, teknologe, teknologe: nuancë lëkure gjysmë e errët, zhvilluese
 👩🏿‍💻	grua, koduese, nuancë lëkure e errët, softuer, teknologe, teknologe: nuancë lëkure e errët, zhvilluese
+🧑‍🎤	aktor, këngëtar, person këngëtar, yll muzikor, zbavitës
+🧑🏻‍🎤	aktor, këngëtar, nuancë lëkure e çelët, person këngëtar, person këngëtar: nuancë lëkure e çelët, yll muzikor, zbavitës
+🧑🏼‍🎤	aktor, këngëtar, nuancë lëkure gjysmë e çelët, person këngëtar, person këngëtar: nuancë lëkure gjysmë e çelët, yll muzikor, zbavitës
+🧑🏽‍🎤	aktor, këngëtar, nuancë lëkure zeshkane, person këngëtar, person këngëtar: nuancë lëkure zeshkane, yll muzikor, zbavitës
+🧑🏾‍🎤	aktor, këngëtar, nuancë lëkure gjysmë e errët, person këngëtar, person këngëtar: nuancë lëkure gjysmë e errët, yll muzikor, zbavitës
+🧑🏿‍🎤	aktor, këngëtar, nuancë lëkure e errët, person këngëtar, person këngëtar: nuancë lëkure e errët, yll muzikor, zbavitës
 👨‍🎤	aktor, burrë, këngëtar, muzikant
 👨🏻‍🎤	aktor, burrë, këngëtar, këngëtar: nuancë lëkure e çelët, muzikant, nuancë lëkure e çelët
 👨🏼‍🎤	aktor, burrë, këngëtar, këngëtar: nuancë lëkure gjysmë e çelët, muzikant, nuancë lëkure gjysmë e çelët
@@ -841,6 +947,12 @@
 👩🏽‍🎤	aktore, grua, këngëtare, këngëtare: nuancë lëkure zeshkane, muzikante, nuancë lëkure zeshkane
 👩🏾‍🎤	aktore, grua, këngëtare, këngëtare: nuancë lëkure gjysmë e errët, muzikante, nuancë lëkure gjysmë e errët
 👩🏿‍🎤	aktore, grua, këngëtare, këngëtare: nuancë lëkure e errët, muzikante, nuancë lëkure e errët
+🧑‍🎨	artist, paletë piktori, person artist, piktor
+🧑🏻‍🎨	artist, nuancë lëkure e çelët, paletë piktori, person artist, person artist: nuancë lëkure e çelët, piktor
+🧑🏼‍🎨	artist, nuancë lëkure gjysmë e çelët, paletë piktori, person artist, person artist: nuancë lëkure gjysmë e çelët, piktor
+🧑🏽‍🎨	artist, nuancë lëkure zeshkane, paletë piktori, person artist, person artist: nuancë lëkure zeshkane, piktor
+🧑🏾‍🎨	artist, nuancë lëkure gjysmë e errët, paletë piktori, person artist, person artist: nuancë lëkure gjysmë e errët, piktor
+🧑🏿‍🎨	artist, nuancë lëkure e errët, paletë piktori, person artist, person artist: nuancë lëkure e errët, piktor
 👨‍🎨	artist, burrë, paletë, piktor
 👨🏻‍🎨	artist, artist: nuancë lëkure e çelët, burrë, nuancë lëkure e çelët, paletë, piktor
 👨🏼‍🎨	artist, artist: nuancë lëkure gjysmë e çelët, burrë, nuancë lëkure gjysmë e çelët, paletë, piktor
@@ -853,6 +965,12 @@
 👩🏽‍🎨	artiste, artiste: nuancë lëkure zeshkane, grua, nuancë lëkure zeshkane, paletë, piktore
 👩🏾‍🎨	artiste, artiste: nuancë lëkure gjysmë e errët, grua, nuancë lëkure gjysmë e errët, paletë, piktore
 👩🏿‍🎨	artiste, artiste: nuancë lëkure e errët, grua, nuancë lëkure e errët, paletë, piktore
+🧑‍✈	aeroplan, person pilot, pilot
+🧑🏻‍✈	aeroplan, nuancë lëkure e çelët, person pilot, person pilot: nuancë lëkure e çelët, pilot
+🧑🏼‍✈	aeroplan, nuancë lëkure gjysmë e çelët, person pilot, person pilot: nuancë lëkure gjysmë e çelët, pilot
+🧑🏽‍✈	aeroplan, nuancë lëkure zeshkane, person pilot, person pilot: nuancë lëkure zeshkane, pilot
+🧑🏾‍✈	aeroplan, nuancë lëkure gjysmë e errët, person pilot, person pilot: nuancë lëkure gjysmë e errët, pilot
+🧑🏿‍✈	aeroplan, nuancë lëkure e errët, person pilot, person pilot: nuancë lëkure e errët, pilot
 👨‍✈	aeroplan, burrë, pilot
 👨🏻‍✈	aeroplan, burrë, nuancë lëkure e çelët, pilot, pilot: nuancë lëkure e çelët
 👨🏼‍✈	aeroplan, burrë, nuancë lëkure gjysmë e çelët, pilot, pilot: nuancë lëkure gjysmë e çelët
@@ -865,6 +983,12 @@
 👩🏽‍✈	aeroplan, grua, nuancë lëkure zeshkane, pilote, pilote: nuancë lëkure zeshkane
 👩🏾‍✈	aeroplan, grua, nuancë lëkure gjysmë e errët, pilote, pilote: nuancë lëkure gjysmë e errët
 👩🏿‍✈	aeroplan, grua, nuancë lëkure e errët, pilote, pilote: nuancë lëkure e errët
+🧑‍🚀	astronaut, person astronaut, raketë
+🧑🏻‍🚀	astronaut, nuancë lëkure e çelët, person astronaut, person astronaut: nuancë lëkure e çelët, raketë
+🧑🏼‍🚀	astronaut, nuancë lëkure gjysmë e çelët, person astronaut, person astronaut: nuancë lëkure gjysmë e çelët, raketë
+🧑🏽‍🚀	astronaut, nuancë lëkure zeshkane, person astronaut, person astronaut: nuancë lëkure zeshkane, raketë
+🧑🏾‍🚀	astronaut, nuancë lëkure gjysmë e errët, person astronaut, person astronaut: nuancë lëkure gjysmë e errët, raketë
+🧑🏿‍🚀	astronaut, nuancë lëkure e errët, person astronaut, person astronaut: nuancë lëkure e errët, raketë
 👨‍🚀	astronaut, burrë, hapësirë, raketë
 👨🏻‍🚀	astronaut, astronaut: nuancë lëkure e çelët, burrë, hapësirë, nuancë lëkure e çelët, raketë
 👨🏼‍🚀	astronaut, astronaut: nuancë lëkure gjysmë e çelët, burrë, hapësirë, nuancë lëkure gjysmë e çelët, raketë
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronaute, astronaute: nuancë lëkure zeshkane, grua, hapësirë, nuancë lëkure zeshkane, raketë
 👩🏾‍🚀	astronaute, astronaute: nuancë lëkure gjysmë e errët, grua, hapësirë, nuancë lëkure gjysmë e errët, raketë
 👩🏿‍🚀	astronaute, astronaute: nuancë lëkure e errët, grua, hapësirë, nuancë lëkure e errët, raketë
+🧑‍🚒	person zjarrfikës, zjarrfikës, zjarrfikëse
+🧑🏻‍🚒	nuancë lëkure e çelët, person zjarrfikës, person zjarrfikës: nuancë lëkure e çelët, zjarrfikës, zjarrfikëse
+🧑🏼‍🚒	nuancë lëkure gjysmë e çelët, person zjarrfikës, person zjarrfikës: nuancë lëkure gjysmë e çelët, zjarrfikës, zjarrfikëse
+🧑🏽‍🚒	nuancë lëkure zeshkane, person zjarrfikës, person zjarrfikës: nuancë lëkure zeshkane, zjarrfikës, zjarrfikëse
+🧑🏾‍🚒	nuancë lëkure gjysmë e errët, person zjarrfikës, person zjarrfikës: nuancë lëkure gjysmë e errët, zjarrfikës, zjarrfikëse
+🧑🏿‍🚒	nuancë lëkure e errët, person zjarrfikës, person zjarrfikës: nuancë lëkure e errët, zjarrfikës, zjarrfikëse
 👨‍🚒	burrë, makinë zjarrfikëse, zjarrfikës
 👨🏻‍🚒	burrë, makinë zjarrfikëse, nuancë lëkure e çelët, zjarrfikës, zjarrfikës: nuancë lëkure e çelët
 👨🏼‍🚒	burrë, makinë zjarrfikëse, nuancë lëkure gjysmë e çelët, zjarrfikës, zjarrfikës: nuancë lëkure gjysmë e çelët
@@ -943,6 +1073,7 @@
 💂🏽‍♀	grua, nuancë lëkure zeshkane, rojtare, ushtare garde, ushtare garde: nuancë lëkure zeshkane
 💂🏾‍♀	grua, nuancë lëkure gjysmë e errët, rojtare, ushtare garde, ushtare garde: nuancë lëkure gjysmë e errët
 💂🏿‍♀	grua, nuancë lëkure e errët, rojtare, ushtare garde, ushtare garde: nuancë lëkure e errët
+🥷	fshehtësi, i fshehur, luftëtar, ninxhë
 👷	kapelë, ndërtim, punëtor, punëtor ndërtimi
 👷🏻	kapelë, ndërtim, nuancë lëkure e çelët, punëtor, punëtor ndërtimi, punëtor ndërtimi: nuancë lëkure e çelët
 👷🏼	kapelë, ndërtim, nuancë lëkure gjysmë e çelët, punëtor, punëtor ndërtimi, punëtor ndërtimi: nuancë lëkure gjysmë e çelët
@@ -1003,18 +1134,42 @@
 🧕🏽	grua me shami, grua me shami: nuancë lëkure zeshkane, hixhab, mbulesë, nuancë lëkure zeshkane, shami, tikël
 🧕🏾	grua me shami, grua me shami: nuancë lëkure gjysmë e errët, hixhab, mbulesë, nuancë lëkure gjysmë e errët, shami, tikël
 🧕🏿	grua me shami, grua me shami: nuancë lëkure e errët, hixhab, mbulesë, nuancë lëkure e errët, shami, tikël
-🤵	burrë, burrë me kostum, dhëndër, kostum
-🤵🏻	burrë, burrë me kostum, burrë me kostum: nuancë lëkure e çelët, dhëndër, kostum, nuancë lëkure e çelët
-🤵🏼	burrë, burrë me kostum, burrë me kostum: nuancë lëkure gjysmë e çelët, dhëndër, kostum, nuancë lëkure gjysmë e çelët
-🤵🏽	burrë, burrë me kostum, burrë me kostum: nuancë lëkure zeshkane, dhëndër, kostum, nuancë lëkure zeshkane
-🤵🏾	burrë, burrë me kostum, burrë me kostum: nuancë lëkure gjysmë e errët, dhëndër, kostum, nuancë lëkure gjysmë e errët
-🤵🏿	burrë, burrë me kostum, burrë me kostum: nuancë lëkure e errët, dhëndër, kostum, nuancë lëkure e errët
+🤵	burrë, burrë me kostum, dhëndër, kostum, person me kostum
+🤵🏻	burrë, burrë me kostum, dhëndër, kostum, nuancë lëkure e çelët, person me kostum, person me kostum: nuancë lëkure e çelët
+🤵🏼	burrë, burrë me kostum, dhëndër, kostum, nuancë lëkure gjysmë e çelët, person me kostum, person me kostum: nuancë lëkure gjysmë e çelët
+🤵🏽	burrë, burrë me kostum, dhëndër, kostum, nuancë lëkure zeshkane, person me kostum, person me kostum: nuancë lëkure zeshkane
+🤵🏾	burrë, burrë me kostum, dhëndër, kostum, nuancë lëkure gjysmë e errët, person me kostum, person me kostum: nuancë lëkure gjysmë e errët
+🤵🏿	burrë, burrë me kostum, dhëndër, kostum, nuancë lëkure e errët, person me kostum, person me kostum: nuancë lëkure e errët
+🤵‍♂	burrë, burrë me kostum, kostum
+🤵🏻‍♂	burrë, burrë me kostum, burrë me kostum: nuancë lëkure e çelët, kostum, nuancë lëkure e çelët
+🤵🏼‍♂	burrë, burrë me kostum, burrë me kostum: nuancë lëkure gjysmë e çelët, kostum, nuancë lëkure gjysmë e çelët
+🤵🏽‍♂	burrë, burrë me kostum, burrë me kostum: nuancë lëkure zeshkane, kostum, nuancë lëkure zeshkane
+🤵🏾‍♂	burrë, burrë me kostum, burrë me kostum: nuancë lëkure gjysmë e errët, kostum, nuancë lëkure gjysmë e errët
+🤵🏿‍♂	burrë, burrë me kostum, burrë me kostum: nuancë lëkure e errët, kostum, nuancë lëkure e errët
+🤵‍♀	grua, grua me kostum, kostum
+🤵🏻‍♀	grua, grua me kostum, grua me kostum: nuancë lëkure e çelët, kostum, nuancë lëkure e çelët
+🤵🏼‍♀	grua, grua me kostum, grua me kostum: nuancë lëkure gjysmë e çelët, kostum, nuancë lëkure gjysmë e çelët
+🤵🏽‍♀	grua, grua me kostum, grua me kostum: nuancë lëkure zeshkane, kostum, nuancë lëkure zeshkane
+🤵🏾‍♀	grua, grua me kostum, grua me kostum: nuancë lëkure gjysmë e errët, kostum, nuancë lëkure gjysmë e errët
+🤵🏿‍♀	grua, grua me kostum, grua me kostum: nuancë lëkure e errët, kostum, nuancë lëkure e errët
 👰	dasmë, nuse, nuse me vello, vello
 👰🏻	dasmë, nuancë lëkure e çelët, nuse, nuse me vello, nuse me vello: nuancë lëkure e çelët, vello
 👰🏼	dasmë, nuancë lëkure gjysmë e çelët, nuse, nuse me vello, nuse me vello: nuancë lëkure gjysmë e çelët, vello
 👰🏽	dasmë, nuancë lëkure zeshkane, nuse, nuse me vello, nuse me vello: nuancë lëkure zeshkane, vello
 👰🏾	dasmë, nuancë lëkure gjysmë e errët, nuse, nuse me vello, nuse me vello: nuancë lëkure gjysmë e errët, vello
 👰🏿	dasmë, nuancë lëkure e errët, nuse, nuse me vello, nuse me vello: nuancë lëkure e errët, vello
+👰‍♂	burrë, burrë me vello, vello
+👰🏻‍♂	burrë, burrë me vello, burrë me vello: nuancë lëkure e çelët, nuancë lëkure e çelët, vello
+👰🏼‍♂	burrë, burrë me vello, burrë me vello: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, vello
+👰🏽‍♂	burrë, burrë me vello, burrë me vello: nuancë lëkure zeshkane, nuancë lëkure zeshkane, vello
+👰🏾‍♂	burrë, burrë me vello, burrë me vello: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, vello
+👰🏿‍♂	burrë, burrë me vello, burrë me vello: nuancë lëkure e errët, nuancë lëkure e errët, vello
+👰‍♀	grua, grua me vello, vello
+👰🏻‍♀	grua, grua me vello, grua me vello: nuancë lëkure e çelët, nuancë lëkure e çelët, vello
+👰🏼‍♀	grua, grua me vello, grua me vello: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, vello
+👰🏽‍♀	grua, grua me vello, grua me vello: nuancë lëkure zeshkane, nuancë lëkure zeshkane, vello
+👰🏾‍♀	grua, grua me vello, grua me vello: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, vello
+👰🏿‍♀	grua, grua me vello, grua me vello: nuancë lëkure e errët, nuancë lëkure e errët, vello
 🤰	grua, grua shtatzënë, shtatzënë
 🤰🏻	grua, grua shtatzënë: nuancë lëkure e çelët, nuancë lëkure e çelët, shtatzënë
 🤰🏼	grua, grua shtatzënë: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, shtatzënë
@@ -1027,6 +1182,24 @@
 🤱🏽	foshnjë, gji, gji: nuancë lëkure zeshkane, nuancë lëkure zeshkane, ushqim me gji
 🤱🏾	foshnjë, gji, gji: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, ushqim me gji
 🤱🏿	foshnjë, gji, gji: nuancë lëkure e errët, nuancë lëkure e errët, ushqim me gji
+👩‍🍼	foshnjë, grua, grua që ushqen foshnjë, ushqim, ushqim me gji
+👩🏻‍🍼	foshnjë, grua, grua që ushqen foshnjë, grua që ushqen foshnjë: nuancë lëkure e çelët, nuancë lëkure e çelët, ushqim, ushqim me gji
+👩🏼‍🍼	foshnjë, grua, grua që ushqen foshnjë, grua që ushqen foshnjë: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, ushqim, ushqim me gji
+👩🏽‍🍼	foshnjë, grua, grua që ushqen foshnjë, grua që ushqen foshnjë: nuancë lëkure zeshkane, nuancë lëkure zeshkane, ushqim, ushqim me gji
+👩🏾‍🍼	foshnjë, grua, grua që ushqen foshnjë, grua që ushqen foshnjë: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, ushqim, ushqim me gji
+👩🏿‍🍼	foshnjë, grua, grua që ushqen foshnjë, grua që ushqen foshnjë: nuancë lëkure e errët, nuancë lëkure e errët, ushqim, ushqim me gji
+👨‍🍼	burrë, burrë që ushqen foshnjë, foshnjë, ushqim, ushqim me gji
+👨🏻‍🍼	burrë, burrë që ushqen foshnjë, burrë që ushqen foshnjë: nuancë lëkure e çelët, foshnjë, nuancë lëkure e çelët, ushqim, ushqim me gji
+👨🏼‍🍼	burrë, burrë që ushqen foshnjë, burrë që ushqen foshnjë: nuancë lëkure gjysmë e çelët, foshnjë, nuancë lëkure gjysmë e çelët, ushqim, ushqim me gji
+👨🏽‍🍼	burrë, burrë që ushqen foshnjë, burrë që ushqen foshnjë: nuancë lëkure zeshkane, foshnjë, nuancë lëkure zeshkane, ushqim, ushqim me gji
+👨🏾‍🍼	burrë, burrë që ushqen foshnjë, burrë që ushqen foshnjë: nuancë lëkure gjysmë e errët, foshnjë, nuancë lëkure gjysmë e errët, ushqim, ushqim me gji
+👨🏿‍🍼	burrë, burrë që ushqen foshnjë, burrë që ushqen foshnjë: nuancë lëkure e errët, foshnjë, nuancë lëkure e errët, ushqim, ushqim me gji
+🧑‍🍼	foshnjë, person, person që ushqen foshnjë, ushqim, ushqim me gji
+🧑🏻‍🍼	foshnjë, nuancë lëkure e çelët, person, person që ushqen foshnjë, person që ushqen foshnjë: nuancë lëkure e çelët, ushqim, ushqim me gji
+🧑🏼‍🍼	foshnjë, nuancë lëkure gjysmë e çelët, person, person që ushqen foshnjë, person që ushqen foshnjë: nuancë lëkure gjysmë e çelët, ushqim, ushqim me gji
+🧑🏽‍🍼	foshnjë, nuancë lëkure zeshkane, person, person që ushqen foshnjë, person që ushqen foshnjë: nuancë lëkure zeshkane, ushqim, ushqim me gji
+🧑🏾‍🍼	foshnjë, nuancë lëkure gjysmë e errët, person, person që ushqen foshnjë, person që ushqen foshnjë: nuancë lëkure gjysmë e errët, ushqim, ushqim me gji
+🧑🏿‍🍼	foshnjë, nuancë lëkure e errët, person, person që ushqen foshnjë, person që ushqen foshnjë: nuancë lëkure e errët, ushqim, ushqim me gji
 👼	bebe, engjëll, engjëll bebe, fantazi, fytyrë, përrallë
 👼🏻	bebe, engjëll, engjëll bebe: nuancë lëkure e çelët, fantazi, fytyrë, nuancë lëkure e çelët, përrallë
 👼🏼	bebe, engjëll, engjëll bebe: nuancë lëkure gjysmë e çelët, fantazi, fytyrë, nuancë lëkure gjysmë e çelët, përrallë
@@ -1045,6 +1218,12 @@
 🤶🏽	gjyshe, gjyshe krishtlindjesh, gjyshe krishtlindjesh: nuancë lëkure zeshkane, krishtlindje, nuancë lëkure zeshkane
 🤶🏾	gjyshe, gjyshe krishtlindjesh, gjyshe krishtlindjesh: nuancë lëkure gjysmë e errët, krishtlindje, nuancë lëkure gjysmë e errët
 🤶🏿	gjyshe, gjyshe krishtlindjesh, gjyshe krishtlindjesh: nuancë lëkure e errët, krishtlindje, nuancë lëkure e errët
+🧑‍🎄	Klaus, krishtlindje, zx klaus
+🧑🏻‍🎄	Klaus, krishtlindje, nuancë lëkure e çelët, zx klaus, zx klaus: nuancë lëkure e çelët
+🧑🏼‍🎄	Klaus, krishtlindje, nuancë lëkure gjysmë e çelët, zx klaus, zx klaus: nuancë lëkure gjysmë e çelët
+🧑🏽‍🎄	Klaus, krishtlindje, nuancë lëkure zeshkane, zx klaus, zx klaus: nuancë lëkure zeshkane
+🧑🏾‍🎄	Klaus, krishtlindje, nuancë lëkure gjysmë e errët, zx klaus, zx klaus: nuancë lëkure gjysmë e errët
+🧑🏿‍🎄	Klaus, krishtlindje, nuancë lëkure e errët, zx klaus, zx klaus: nuancë lëkure e errët
 🦸	hero, heroinë, superfuqi, superhero, zemërmirë
 🦸🏻	hero, heroinë, nuancë lëkure e çelët, superfuqi, superhero, superhero: nuancë lëkure e çelët, zemërmirë
 🦸🏼	hero, heroinë, nuancë lëkure gjysmë e çelët, superfuqi, superhero, superhero: nuancë lëkure gjysmë e çelët, zemërmirë
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	gjunjëzim, grua, grua në gjunjë, grua në gjunjë: nuancë lëkure zeshkane, nuancë lëkure zeshkane
 🧎🏾‍♀	gjunjëzim, grua, grua në gjunjë, grua në gjunjë: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët
 🧎🏿‍♀	gjunjëzim, grua, grua në gjunjë, grua në gjunjë: nuancë lëkure e errët, nuancë lëkure e errët
+🧑‍🦯	i verbër, person me shkop gjurmimi, qasshmëri
+🧑🏻‍🦯	i verbër, nuancë lëkure e çelët, person me shkop gjurmimi, person me shkop gjurmimi: nuancë lëkure e çelët, qasshmëri
+🧑🏼‍🦯	i verbër, nuancë lëkure gjysmë e çelët, person me shkop gjurmimi, person me shkop gjurmimi: nuancë lëkure gjysmë e çelët, qasshmëri
+🧑🏽‍🦯	i verbër, nuancë lëkure zeshkane, person me shkop gjurmimi, person me shkop gjurmimi: nuancë lëkure zeshkane, qasshmëri
+🧑🏾‍🦯	i verbër, nuancë lëkure gjysmë e errët, person me shkop gjurmimi, person me shkop gjurmimi: nuancë lëkure gjysmë e errët, qasshmëri
+🧑🏿‍🦯	i verbër, nuancë lëkure e errët, person me shkop gjurmimi, person me shkop gjurmimi: nuancë lëkure e errët, qasshmëri
 👨‍🦯	burrë, burrë me shkop gjurmimi, i verbër, qasshmëri
 👨🏻‍🦯	burrë, burrë me shkop gjurmimi, burrë me shkop gjurmimi: nuancë lëkure e çelët, i verbër, nuancë lëkure e çelët, qasshmëri
 👨🏼‍🦯	burrë, burrë me shkop gjurmimi, burrë me shkop gjurmimi: nuancë lëkure gjysmë e çelët, i verbër, nuancë lëkure gjysmë e çelët, qasshmëri
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	e verbër, grua, grua me shkop gjurmimi, grua me shkop gjurmimi: nuancë lëkure zeshkane, nuancë lëkure zeshkane, qasshmëri
 👩🏾‍🦯	e verbër, grua, grua me shkop gjurmimi, grua me shkop gjurmimi: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, qasshmëri
 👩🏿‍🦯	e verbër, grua, grua me shkop gjurmimi, grua me shkop gjurmimi: nuancë lëkure e errët, nuancë lëkure e errët, qasshmëri
+🧑‍🦼	karrocë invalidi, person në karrocë të motorizuar invalidi, qasshmëri
+🧑🏻‍🦼	karrocë invalidi, nuancë lëkure e çelët, person në karrocë të motorizuar invalidi, person në karrocë të motorizuar invalidi: nuancë lëkure e çelët, qasshmëri
+🧑🏼‍🦼	karrocë invalidi, nuancë lëkure gjysmë e çelët, person në karrocë të motorizuar invalidi, person në karrocë të motorizuar invalidi: nuancë lëkure gjysmë e çelët, qasshmëri
+🧑🏽‍🦼	karrocë invalidi, nuancë lëkure zeshkane, person në karrocë të motorizuar invalidi, person në karrocë të motorizuar invalidi: nuancë lëkure zeshkane, qasshmëri
+🧑🏾‍🦼	karrocë invalidi, nuancë lëkure gjysmë e errët, person në karrocë të motorizuar invalidi, person në karrocë të motorizuar invalidi: nuancë lëkure gjysmë e errët, qasshmëri
+🧑🏿‍🦼	karrocë invalidi, nuancë lëkure e errët, person në karrocë të motorizuar invalidi, person në karrocë të motorizuar invalidi: nuancë lëkure e errët, qasshmëri
 👨‍🦼	burrë, burrë në karrocë të motorizuar invalidi, karrocë invalidi, qasshmëri
 👨🏻‍🦼	burrë, burrë në karrocë të motorizuar invalidi, burrë në karrocë të motorizuar invalidi: nuancë lëkure e çelët, karrocë invalidi, nuancë lëkure e çelët, qasshmëri
 👨🏼‍🦼	burrë, burrë në karrocë të motorizuar invalidi, burrë në karrocë të motorizuar invalidi: nuancë lëkure gjysmë e çelët, karrocë invalidi, nuancë lëkure gjysmë e çelët, qasshmëri
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	grua, grua në karrocë të motorizuar invalidi, grua në karrocë të motorizuar invalidi: nuancë lëkure zeshkane, karrocë invalidi, nuancë lëkure zeshkane, qasshmëri
 👩🏾‍🦼	grua, grua në karrocë të motorizuar invalidi, grua në karrocë të motorizuar invalidi: nuancë lëkure gjysmë e errët, karrocë invalidi, nuancë lëkure gjysmë e errët, qasshmëri
 👩🏿‍🦼	grua, grua në karrocë të motorizuar invalidi, grua në karrocë të motorizuar invalidi: nuancë lëkure e errët, karrocë invalidi, nuancë lëkure e errët, qasshmëri
+🧑‍🦽	person në karrocë invalidi manuale
+🧑🏻‍🦽	nuancë lëkure e çelët, person në karrocë invalidi manuale, person në karrocë invalidi manuale: nuancë lëkure e çelët
+🧑🏼‍🦽	nuancë lëkure gjysmë e çelët, person në karrocë invalidi manuale, person në karrocë invalidi manuale: nuancë lëkure gjysmë e çelët
+🧑🏽‍🦽	nuancë lëkure zeshkane, person në karrocë invalidi manuale, person në karrocë invalidi manuale: nuancë lëkure zeshkane
+🧑🏾‍🦽	nuancë lëkure gjysmë e errët, person në karrocë invalidi manuale, person në karrocë invalidi manuale: nuancë lëkure gjysmë e errët
+🧑🏿‍🦽	nuancë lëkure e errët, person në karrocë invalidi manuale, person në karrocë invalidi manuale: nuancë lëkure e errët
 👨‍🦽	burrë, burrë në karrocë manuale invalidi, karrocë invalidi, qasshmëri
 👨🏻‍🦽	burrë, burrë në karrocë manuale invalidi, burrë në karrocë manuale invalidi: nuancë lëkure e çelët, karrocë invalidi, nuancë lëkure e çelët, qasshmëri
 👨🏼‍🦽	burrë, burrë në karrocë manuale invalidi, burrë në karrocë manuale invalidi: nuancë lëkure gjysmë e çelët, karrocë invalidi, nuancë lëkure gjysmë e çelët, qasshmëri
@@ -1643,15 +1840,25 @@
 🛌🏿	fle, gjumë, hotel, njeri në krevat, njeri në krevat: nuancë lëkure e errët, nuancë lëkure e errët
 🧑‍🤝‍🧑	dorë, njerëz, njerëz të kapur për duarsh, të kapur për duarsh, çift
 🧑🏻‍🤝‍🧑🏻	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e çelët, nuancë lëkure e çelët, të kapur për duarsh, çift
+🧑🏻‍🤝‍🧑🏼	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure gjysmë e çelët, nuancë lëkure e çelët, nuancë lëkure gjysmë e çelët, të kapur për duarsh, çift
+🧑🏻‍🤝‍🧑🏽	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure zeshkane, nuancë lëkure e çelët, nuancë lëkure zeshkane, të kapur për duarsh, çift
+🧑🏻‍🤝‍🧑🏾	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure gjysmë e errët, nuancë lëkure e çelët, nuancë lëkure gjysmë e errët, të kapur për duarsh, çift
+🧑🏻‍🤝‍🧑🏿	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure e çelët, të kapur për duarsh, çift
 🧑🏼‍🤝‍🧑🏻	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure e çelët, nuancë lëkure e çelët, nuancë lëkure gjysmë e çelët, të kapur për duarsh, çift
 🧑🏼‍🤝‍🧑🏼	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, të kapur për duarsh, çift
+🧑🏼‍🤝‍🧑🏽	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure zeshkane, nuancë lëkure gjysmë e çelët, nuancë lëkure zeshkane, të kapur për duarsh, çift
+🧑🏼‍🤝‍🧑🏾	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e çelët, të kapur për duarsh, çift
+🧑🏼‍🤝‍🧑🏿	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure gjysmë e çelët, të kapur për duarsh, çift
 🧑🏽‍🤝‍🧑🏻	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure e çelët, nuancë lëkure e çelët, nuancë lëkure zeshkane, të kapur për duarsh, çift
 🧑🏽‍🤝‍🧑🏼	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, nuancë lëkure zeshkane, të kapur për duarsh, çift
 🧑🏽‍🤝‍🧑🏽	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure zeshkane, nuancë lëkure zeshkane, të kapur për duarsh, çift
+🧑🏽‍🤝‍🧑🏾	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, nuancë lëkure zeshkane, të kapur për duarsh, çift
+🧑🏽‍🤝‍🧑🏿	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure zeshkane, të kapur për duarsh, çift
 🧑🏾‍🤝‍🧑🏻	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure e çelët, nuancë lëkure e çelët, nuancë lëkure gjysmë e errët, të kapur për duarsh, çift
 🧑🏾‍🤝‍🧑🏼	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e çelët, të kapur për duarsh, çift
 🧑🏾‍🤝‍🧑🏽	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure zeshkane, nuancë lëkure gjysmë e errët, nuancë lëkure zeshkane, të kapur për duarsh, çift
 🧑🏾‍🤝‍🧑🏾	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, të kapur për duarsh, çift
+🧑🏾‍🤝‍🧑🏿	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure gjysmë e errët, të kapur për duarsh, çift
 🧑🏿‍🤝‍🧑🏻	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e errët e nuancë lëkure e çelët, nuancë lëkure e errët, nuancë lëkure e çelët, të kapur për duarsh, çift
 🧑🏿‍🤝‍🧑🏼	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e errët e nuancë lëkure gjysmë e çelët, nuancë lëkure e errët, nuancë lëkure gjysmë e çelët, të kapur për duarsh, çift
 🧑🏿‍🤝‍🧑🏽	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e errët e nuancë lëkure zeshkane, nuancë lëkure e errët, nuancë lëkure zeshkane, të kapur për duarsh, çift
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	dorë, njerëz, njerëz të kapur për duarsh, njerëz të kapur për duarsh: nuancë lëkure e errët, nuancë lëkure e errët, të kapur për duarsh, çift
 👭	dorë, dy gra të kapura për duarsh, grua, mbaj, çift
 👭🏻	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e çelët, grua, mbaj, nuancë lëkure e çelët, çift
+👩🏻‍🤝‍👩🏼	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e çelët e nuancë lëkure gjysmë e çelët, grua, mbaj, nuancë lëkure e çelët, nuancë lëkure gjysmë e çelët, çift
+👩🏻‍🤝‍👩🏽	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e çelët e nuancë lëkure zeshkane, grua, mbaj, nuancë lëkure e çelët, nuancë lëkure zeshkane, çift
+👩🏻‍🤝‍👩🏾	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e çelët e nuancë lëkure gjysmë e errët, grua, mbaj, nuancë lëkure e çelët, nuancë lëkure gjysmë e errët, çift
+👩🏻‍🤝‍👩🏿	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e çelët e nuancë lëkure e errët, grua, mbaj, nuancë lëkure e errët, nuancë lëkure e çelët, çift
 👩🏼‍🤝‍👩🏻	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure e çelët, grua, mbaj, nuancë lëkure e çelët, nuancë lëkure gjysmë e çelët, çift
 👭🏼	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e çelët, grua, mbaj, nuancë lëkure gjysmë e çelët, çift
+👩🏼‍🤝‍👩🏽	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure zeshkane, grua, mbaj, nuancë lëkure gjysmë e çelët, nuancë lëkure zeshkane, çift
+👩🏼‍🤝‍👩🏾	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure gjysmë e errët, grua, mbaj, nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e çelët, çift
+👩🏼‍🤝‍👩🏿	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure e errët, grua, mbaj, nuancë lëkure e errët, nuancë lëkure gjysmë e çelët, çift
 👩🏽‍🤝‍👩🏻	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure zeshkane e nuancë lëkure e çelët, grua, mbaj, nuancë lëkure e çelët, nuancë lëkure zeshkane, çift
 👩🏽‍🤝‍👩🏼	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure zeshkane e nuancë lëkure gjysmë e çelët, grua, mbaj, nuancë lëkure gjysmë e çelët, nuancë lëkure zeshkane, çift
 👭🏽	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure zeshkane, grua, mbaj, nuancë lëkure zeshkane, çift
+👩🏽‍🤝‍👩🏾	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure zeshkane e nuancë lëkure gjysmë e errët, grua, mbaj, nuancë lëkure gjysmë e errët, nuancë lëkure zeshkane, çift
+👩🏽‍🤝‍👩🏿	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure zeshkane e nuancë lëkure e errët, grua, mbaj, nuancë lëkure e errët, nuancë lëkure zeshkane, çift
 👩🏾‍🤝‍👩🏻	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure e çelët, grua, mbaj, nuancë lëkure e çelët, nuancë lëkure gjysmë e errët, çift
 👩🏾‍🤝‍👩🏼	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure gjysmë e çelët, grua, mbaj, nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e çelët, çift
 👩🏾‍🤝‍👩🏽	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure zeshkane, grua, mbaj, nuancë lëkure gjysmë e errët, nuancë lëkure zeshkane, çift
 👭🏾	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e errët, grua, mbaj, nuancë lëkure gjysmë e errët, çift
+👩🏾‍🤝‍👩🏿	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure e errët, grua, mbaj, nuancë lëkure e errët, nuancë lëkure gjysmë e errët, çift
 👩🏿‍🤝‍👩🏻	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e errët e nuancë lëkure e çelët, grua, mbaj, nuancë lëkure e errët, nuancë lëkure e çelët, çift
 👩🏿‍🤝‍👩🏼	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e errët e nuancë lëkure gjysmë e çelët, grua, mbaj, nuancë lëkure e errët, nuancë lëkure gjysmë e çelët, çift
 👩🏿‍🤝‍👩🏽	dorë, dy gra të kapura për duarsh, dy gra të kapura për duarsh: nuancë lëkure e errët e nuancë lëkure zeshkane, grua, mbaj, nuancë lëkure e errët, nuancë lëkure zeshkane, çift
@@ -1701,15 +1918,25 @@
 👫🏿	burrë, burrë dhe grua që kapin duart, burrë dhe grua që kapin duart: nuancë lëkure e errët, dorë, grua, nuancë lëkure e errët, çift
 👬	binjakë, dy burra të kapur për duarsh, zodiak, çift
 👬🏻	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e çelët, nuancë lëkure e çelët, zodiak, çift
+👨🏻‍🤝‍👨🏼	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure gjysmë e çelët, nuancë lëkure e çelët, nuancë lëkure gjysmë e çelët, zodiak, çift
+👨🏻‍🤝‍👨🏽	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure zeshkane, nuancë lëkure e çelët, nuancë lëkure zeshkane, zodiak, çift
+👨🏻‍🤝‍👨🏾	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure gjysmë e errët, nuancë lëkure e çelët, nuancë lëkure gjysmë e errët, zodiak, çift
+👨🏻‍🤝‍👨🏿	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e çelët e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure e çelët, zodiak, çift
 👨🏼‍🤝‍👨🏻	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure e çelët, nuancë lëkure e çelët, nuancë lëkure gjysmë e çelët, zodiak, çift
 👬🏼	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, zodiak, çift
+👨🏼‍🤝‍👨🏽	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure zeshkane, nuancë lëkure gjysmë e çelët, nuancë lëkure zeshkane, zodiak, çift
+👨🏼‍🤝‍👨🏾	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e çelët, zodiak, çift
+👨🏼‍🤝‍👨🏿	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e çelët e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure gjysmë e çelët, zodiak, çift
 👨🏽‍🤝‍👨🏻	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure e çelët, nuancë lëkure e çelët, nuancë lëkure zeshkane, zodiak, çift
 👨🏽‍🤝‍👨🏼	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e çelët, nuancë lëkure zeshkane, zodiak, çift
 👬🏽	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure zeshkane, nuancë lëkure zeshkane, zodiak, çift
+👨🏽‍🤝‍👨🏾	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, nuancë lëkure zeshkane, zodiak, çift
+👨🏽‍🤝‍👨🏿	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure zeshkane e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure zeshkane, zodiak, çift
 👨🏾‍🤝‍👨🏻	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure e çelët, nuancë lëkure e çelët, nuancë lëkure gjysmë e errët, zodiak, çift
 👨🏾‍🤝‍👨🏼	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure gjysmë e çelët, nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e çelët, zodiak, çift
 👨🏾‍🤝‍👨🏽	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure zeshkane, nuancë lëkure gjysmë e errët, nuancë lëkure zeshkane, zodiak, çift
 👬🏾	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e errët, nuancë lëkure gjysmë e errët, zodiak, çift
+👨🏾‍🤝‍👨🏿	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure gjysmë e errët e nuancë lëkure e errët, nuancë lëkure e errët, nuancë lëkure gjysmë e errët, zodiak, çift
 👨🏿‍🤝‍👨🏻	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e errët e nuancë lëkure e çelët, nuancë lëkure e errët, nuancë lëkure e çelët, zodiak, çift
 👨🏿‍🤝‍👨🏼	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e errët e nuancë lëkure gjysmë e çelët, nuancë lëkure e errët, nuancë lëkure gjysmë e çelët, zodiak, çift
 👨🏿‍🤝‍👨🏽	binjakë, dy burra të kapur për duarsh, dy burra të kapur për duarsh: nuancë lëkure e errët e nuancë lëkure zeshkane, nuancë lëkure e errët, nuancë lëkure zeshkane, zodiak, çift
@@ -1752,6 +1979,7 @@
 🗣️	flas, fytyrë, kokë që flet, siluetë
 👤	bust, bust siluetë, siluetë
 👥	bust, buste siluetë, siluetë
+🫂	faleminderit, mirupafshim, njerëz që përqafohen, përqafim, përshëndetje
 👣	gjurmë, gjurmë këmbe, gjurmë këmbësh, trup, veshje
 🦰	flokë të kuqe, flokë të kuqërremtë, kokëkuq, kuqo
 🦱	afro, flokë kaçurrele, kaçurrele, rrica
@@ -1771,6 +1999,7 @@
 🦝	kureshtar, rakun, tinëzar
 🐱	fytyrë, fytyrë maceje, kafshë shtëpiake, mace
 🐈️	kafshë shtëpiake, mace
+🐈‍⬛	e zezë, i pafat, mace, mace e zezë
 🦁	fytyrë, fytyrë luani, luan, luani, zodiak
 🐯	fytyrë, fytyrë tigri, tigër
 🐅	tigër
@@ -1780,6 +2009,7 @@
 🦄	fytyrë, fytyrë njëbrirëshi, njëbrirësh
 🦓	rripa, shirita, zebër
 🦌	dre, kafshë
+🦬	bizon, buall, gjedh, qe
 🐮	fytyrë, fytyrë lope, lopë
 🐂	dem, demi, zodiak
 🐃	buall, buall indian, ujë
@@ -1796,6 +2026,7 @@
 🦙	lamë, lesh
 🦒	gjirafë, lara, njolla
 🐘	elefant
+🦣	i leshtë, i madh, mamuth, zhdukje, çatall
 🦏	kafshë, rinoqeront
 🦛	hipopotam, kafshë gjigante
 🐭	fytyrë, fytyrë miu, mi
@@ -1805,9 +2036,11 @@
 🐰	fytyrë, fytyrë lepuri, kafshëz, lepur, lepurush
 🐇	kafshëz, lepur, lepurush
 🐿️	ketër
+🦫	kastor, pendë
 🦔	gjembaç, iriq
 🦇	kafshë, lakuriq nate, vampir
 🐻	ari, fytyrë, fytyrë ariu
+🐻‍❄	ari, ari polar, arktik, i bardhë
 🐨	ari, koalë
 🐼	fytyrë, fytyrë pande, pandë
 🦥	i plogësht, majmun i Bengalit, përtac
@@ -1829,6 +2062,8 @@
 🦆	rosak, zog
 🦢	mjellmë, shpend shtegtues
 🦉	buf, urtësi, zog
+🦤	Mauritius, i madh, zhukje, zog i rëndë
+🪶	dritë, fluturim, pendë, pupla, zog
 🦩	flakërues, flamingo, shpend, tropikal
 🦚	mburravec, pallua, shpend
 🦜	llafazan, papagall, shpend, zog piratësh
@@ -1844,6 +2079,7 @@
 🐳	balenë, balenë që hedh ujë, fytyrë, hedh ujë
 🐋	balenë
 🐬	delfin, pendë notimi
+🦭	fokë, fokë luan
 🐟️	peshk, peshqit, zodiak
 🐠	peshk, peshk tropikal, tropikal
 🐡	peshk, peshk tullumbace
@@ -1855,12 +2091,16 @@
 🐛	insekt, shumëkëmbësh
 🐜	insekt, milingonë
 🐝	bletë, insekt
+🪲	brumbull, buburrec, insekt
 🐞	brumbull, insekt, mollëkuqe
 🦗	bulkth, karkalec, karkalec bari
+🪳	buburrec, insekt, insekt i dëmshëm, kacabu
 🕷️	insekt, merimangë
 🕸️	merimangë, rrjetë, rrjetë merimange
 🦂	akrep, akrepi, zodiak
 🦟	ethe, insekt, mushkonjë, sëmundje, virus
+🪰	insekt i dëmshëm, kalbje, krimb, mizë, sëmundje
+🪱	krimb, krimb toke, parasit
 🦠	amebë, bakter, mikrob, virus
 💐	bimë, buqetë, lule, romancë
 🌸	lule, lule qershie, lulëzim, pemë, qershi
@@ -1873,6 +2113,7 @@
 🌼	bimë, lule
 🌷	bimë, lule, tulipan
 🌱	bimë, e re, filiz
+🪴	bimë, bimë në vazo, kot, mërzi, rritje, shtëpi, ushqim
 🌲	bimë, gjelbërim i përjetshëm, pemë
 🌳	bimë, gjetherënëse, pemë, pemë gjetherënëse, rënie
 🌴	bimë, palmë, pemë
@@ -1898,8 +2139,10 @@
 🍑	bimë, frutë, pjeshkë
 🍒	frutë, pemë, qershi
 🍓	bimë, frutë, kokërr, luleshtrydhe
+🫐	blu, boronica, fruta, fruta pylli
 🥝	frutë, kivi, ushqim
 🍅	bimë, domate, perime
+🫒	ulli, ushqim
 🥥	arrë kokosi, palmë, pina-koladë
 🥑	avokado, frutë, ushqim
 🍆	bimë, patëllxhan, perime
@@ -1907,6 +2150,7 @@
 🥕	karotë, perime, ushqim
 🌽	bimë, kalli, kalli misri, misër
 🌶️	bimë, djegës, spec, spec djegës
+🫑	patëllxhanë për mbushje, perime, pjepër, speca, speca për mbushje
 🥒	kastravec, perime, turshi, ushqim
 🥬	lakër, marule, sallatë
 🥦	brokoli, lakër e egër
@@ -1918,6 +2162,7 @@
 🍞	bukë, copë, çyrek
 🥐	briosh, franceze, kroasant, rulon në formë gjysmëhëne
 🥖	bagetë, bukë, franceze, ushqim
+🫓	arepa, bukë e sheshtë, lavash, naan, pite
 🥨	brumë i përdredhur i pjekur, gjevrek, gjevrek i përdredhur, kulaç i përdredhur
 🥯	furrë, gjevrek, kulaç
 🥞	krepa, palapeta, petulla, ushqim
@@ -1934,12 +2179,14 @@
 🥪	bukë, sandviç
 🌮	tako, ushqim meksikan
 🌯	burrito, ushqim meksikan i mbështjellë
+🫔	me pite, tamale, ushqim meksikan
 🥙	bukë e mbushur, giro, palapetë e mbushur, ushqim
 🧆	qofte falafel, qofte me bishtajore, qofte me mish
 🥚	ushqim, vezë
 🍳	gatim, skuqje, tigan, vezë
 🥘	enë, tavë gjelle, tigan, tigan me ushqim, ushqim
 🍲	kupë, kupë me ushqime, çomlek
+🫕	djathë, fondue, gotë, shkrirë, zviceran, çokollatë
 🥣	drithëra, tas me lugë, vakti i mëngjesit
 🥗	e gjelbër, perime, sallatë, sallatë e gjelbër, ushqime
 🍿	kokoshka
@@ -1985,6 +2232,7 @@
 🍼	bebe, pije, qumësht, shishe, shishe për bebe
 🥛	gotë, gotë me qumësht, pije, qumësht
 ☕️	e nxehtë, kafe, pije e nxehtë, çaj
+🫖	gotë, pi, çaj, çajnik
 🍵	filxhan çaji, filxhan çaji pa bisht, pije, çaj
 🍶	bar, filxhan, pije, sake, shishe
 🍾	pije, shishe, shishe me tapë që kërcet, tapë
@@ -1996,6 +2244,7 @@
 🥂	festë, gotë, pije, trokitje, trokitje gotash
 🥃	gotë, pije, uiski, ujë
 🥤	gotë me pipë, lëng, pije freskuese
+🧋	flluskë, perlë, qumësht, çaj, çaj me flluska
 🧃	kuti lëngjesh, kuti pijeje
 🧉	kimarrao, pije
 🧊	ajsberg, akull, ftohtë, kub akulli
@@ -2025,6 +2274,9 @@
 🏛️	klasik, klasike, ndërtesë, ndërtesë klasike
 🏗️	ndërtesë, ndërtim, ndërtim ndërtese
 🧱	baltë, llaç, mur, tulla, tullë
+🪨	gur, popël, rëndë, shkëmb, solid
+🪵	dru, dërrasë, kërcu, trung
+🛖	jurt, kasolle, rrethore, shtëpi
 🏘️	ndërtesë, shtëpi, shtëpitë
 🏚️	e braktisur, ndërtesë, shtëpi, shtëpi e braktisur
 🏠️	ndërtesë, shtëpi
@@ -2092,6 +2344,7 @@
 🚗	automobil, makinë, mjet udhëtimi
 🚘️	automobil, automobil që vjen, makinë, mjet, në ardhje
 🚙	kamp, makinë sportive, makinë sportive për kamp, piknik
+🛻	kamion, karroatrec, tërheqje
 🚚	kamion, kamion transporti, mjet udhëtimi, transport
 🚛	gjysmë, kamion, kamion me rimorkio, mjet udhëtimi, rimorkio
 🚜	mjet udhëtimi, traktor
@@ -2104,6 +2357,7 @@
 🚲️	biçikletë, mjet udhëtimi
 🛴	ballëz dyrrotëshe, shtyrje me këmbë
 🛹	dërrasë, dërrasë rrëshqitëse, mjet
+🛼	roller, rollerskejt, skejt
 🚏	autobus, stacion, stacion autobusi
 🛣️	autostradë, rrugë
 🛤️	hekurudhë, shina, tren
@@ -2274,13 +2528,16 @@
 🪁	balonë, fluturoj, ngre në qiell
 🎱	8, bilardo, gurë, lojë, tetë
 🔮	fantazi, fat, kristal, top, top kristali
+🪄	magji, magjistar, magjistare, shkop magjik
 🧿	hajmali, hajmali kundër syrit të keq, mësysh, rruazë, syri i keq
 🎮️	kontrollues, lojë, videolojë
 🕹️	levë, lojë, videolojë
 🎰	lojë, lojë me monedha, monedhë
 🎲	lojë, zar, zar loje, zarë
 🧩	e dhënë, enigmë, lojë me bashkim pjesësh figure, pjesë figure
-🧸	arushë, arushë pelushi, lodër, pelush
+🧸	arush, arush pelushi, lodër, pelush
+🪅	festim, festë, pinjata
+🪆	brenda njëra-tjetrës, kukull, matrioshka, rusi
 ♠️	figurë, figurë maç, letër, lojë, maç
 ♥️	figurë, figurë kupë, kupë, letër, lojë
 ♦️	figurë, figurë karo, karo, letër, lojë
@@ -2293,7 +2550,9 @@
 🖼️	art, kornizë me pikturë, muze, pikturë
 🎨	art, muze, paleta e artistit, paletë, pikturë
 🧵	fije, gjilpërë, qep, rrotë peri, spango
+🪡	gjilpërë, gjilpërë qepjeje, qepje, qëndisje, rrobaqepësi, tegel
 🧶	fill, grep, lëmsh, thur me shtiza, top
+🪢	lidhje, litar, ngatërruar, nyjë, spango, spërdredhje
 👓️	sy, syze, veshje
 🕶️	i errët, sy, syze, syze dielli
 🥽	mbrojtëse për sytë, syze mbrojtëse, syze notimi, syze saldimi
@@ -2319,6 +2578,7 @@
 👝	veshje, çantë
 🛍️	blerje, dyqan, hotel, qese, qese dyqani
 🎒	shkollë, çantë, çantë shkolle, çantë shpine
+🩴	sandale, sandale me rrip mesi, sandale me rrip përpara, sandale plazhi, tanga
 👞	burrë, këpucë, këpucë burrash, veshje
 👟	atlete, atletike, këpucë, veshje
 🥾	ekskursion, kamp, këpucë, këpucë ekskursioni, çantë shpine
@@ -2332,6 +2592,7 @@
 🎩	cilindër, kapelë, kapelë cilindrike, lart, veshje
 🎓️	diplomim, festë, kapelë, kapelë diplomimi
 🧢	kapelë "sqep", kapelë bejsbolli
+🪖	kokore, kokore ushtrarake, luftëtar, ushtar, ushtri
 ⛑️	helmetë, helmetë me kryq të bardhë, kapelë, kryq, ndihmë
 📿	fe, lutje, rruaza, rruzare, tespihe
 💄	buzëkuq, kozmetikë, makijazh
@@ -2356,12 +2617,14 @@
 🎧️	kufje, vesh
 📻️	radio, video
 🎷	instrument, muzikë, saksofon
+🪗	fizarmonikë, koncertina
 🎸	instrument, kitarë, muzikë
 🎹	instrument, muzikë, piano, tastierë, tastierë muzikore
 🎺	instrument, muzikë, trombë
 🎻	instrument, muzikë, violinë
 🪕	banxho, instrument me tela, muzikë
 🥁	daulle, muzikë, shkopinj daulleje
+🪘	daulle, daulle e gjatë, ritëm
 📱	celular, i lëvizshëm, telefon
 📲	celular, celular me shigjetë, marr, shigjetë, telefonatë
 ☎️	telefon
@@ -2415,6 +2678,7 @@
 🔖	faqeshënues, shenjë
 🏷️	etiketë
 💰️	dollar, para, qese, qese parash, çantë
+🪙	argjend, metal, monedhë, para, rrjetë, thesar
 💴	faturë, jen, kartëmonedhë, kartëmonedhë jeni, valutë
 💵	dollar, faturë, kartëmonedhë, kartëmonedhë dollari, monedhë
 💶	faturë, kartëmonedhë, kartëmonedhë euroje, monedhë, para
@@ -2423,8 +2687,6 @@
 💳️	bankë, kartë, kartë krediti, kredit, para
 🧾	bllok llogarie, faturë, kontabilitet
 💹	grafik, grafik rritës me jenë, jen, tendencë, treg
-💱	bankë, këmbim, këmbimi i valutës, monedhë, para
-💲	dollar, monedhë, para, shenjë dollari e trashur
 ✉️	email, letër, postë elektronike, zarf
 📧	email, letër, postë
 📨	email, në ardhje, postë elektronike, zarf, zarf në ardhje
@@ -2482,9 +2744,12 @@
 🗡️	armë, kamë, thikë
 ⚔️	armë, e kryqëzuar, shpata, shpata të kryqëzuara, të kryqëzuara
 🔫	armë, pistoletë, pushkë, revolver, vegël
+🪃	australi, bumerang, pasojë, rikthim
 🏹	armë, hark dhe shigjetë, harkëtar, shigjetari zodiak
 🛡️	armë, mburojë
+🪚	dru, marangoz, sharrë, sharrë marangozi, vegël
 🔧	vegël, çelës anglez
+🪛	kaçavidë, vegël, vidë
 🔩	bulon, bulon dhe dado, dado, vegël
 ⚙️	ingranazh, vegël
 🗜️	morsë, ngjeshje, ngjeshëse, shtrënguese, vegël
@@ -2492,8 +2757,10 @@
 🦯	i verbër, qasshmëri, shkop gjurmimi
 🔗	lidh, zinxhir
 ⛓️	zinxhir, zinxhirë
+🪝	bisht, kanxhë, kapëse, kunj, pikë shitjeje, varëse
 🧰	arkë veglash, kuti veglash, kuti veglash dore, vegla mekanike
 🧲	magnet, magnet patkua, tërheqje
+🪜	këmbë shkalle, ngjit, shkallare, shkallë
 ⚗️	aparat destilues, kimi, lambik
 🧪	eksperiment, epruvetë, kimi, kimist, laborator
 🧫	kulturë, laborator, lamelë, lamë
@@ -2507,26 +2774,35 @@
 🩹	fashë, fashë ngjitëse
 🩺	doktor, ilaç, stetoskop, zemër
 🚪	derë
+🛗	ashensor, qasshmëri
+🪞	pasqyrim, pasqyrë, refleks
+🪟	ajër i pastër, dritare, hapje, kasë, pamje, transparent
 🛏️	gjumë, hotel, krevat
 🛋️	divan, divan dhe llambë, hotel, llambë
 🪑	karrige, rri ulur, ulëse
 🚽	tualet
+🪠	hidraulik, pompë, shtupë, thithje, tualet
 🚿	dush, ujë
 🛁	vaskë
+🪤	grackë, karrem, kurth, çark
 🪒	brisk rroje, i mprehtë, rruajtje
 🧴	locion, shampo, shishe solucioni, solucion, tretës, zbutës
 🧷	mbërtheckë, paramane, pëlhurë
 🧹	fshesë, fshirëse, pastruese, shtrigë
 🧺	kosh, piknik, rroba, shportë
 🧻	letra higjienike, letër për pastrim, rrotë letre
+🪣	bucelë, kade, kovë, vozë
 🧼	banjë, kallëp sapuni, larje, mbajtëse sapuni, sapun
+🪥	banjë, dhëmbë, fije dhëmbësh, furçë, furçë dhëmbësh, higjienë, pastroj
 🧽	material poroz, pastrim, sfungjer, thithës
 🧯	fikës zjarri, ftohës, lëndë shuarjeje, shuarës zjarri
 🛒	blerje, karrocë, karrocë dore, karrocë pazari, pazar
 🚬	cigare, pirje duhani
 ⚰️	arkivol, vdekje
+🪦	gur varri, varr, varrezë
 ⚱️	funeral, urnë, urnë funerali, vdekje
 🗿	fytyrë, moai, statujë
+🪧	demonstrim, pankartë, piketë, protestë, tabelë
 🏧	atm, bankomat, bankë, shenja e bankomatit, sportel
 🚮	kosh, mbeturinë, shenja e koshit të mbeturinave
 🚰	i pijshëm, pi, pije, ujë, ujë i pijshëm
@@ -2625,8 +2901,22 @@
 📴	celular, fik celularin, i fikur, joaktiv, telefon
 ♀️	femër, grua, shenja femër
 ♂️	burrë, mashkull, shenja mashkull
-⚕️	asklepiu, mjekësi, personel mjekësor, simboli mjekësor
+⚧️	simboli për transgjinorë, transgjinorë
+✖️	anulo, shenja x e shumëzimit e trashë, shumëzim, shumëzoj, x
+➕	matematikë, plus, shenja plus e trashë
+➖	matematikë, minus, shenja minus e trashë
+➗	matematikë, ndarje, shenja e pjesëtimit e trashë
 ♾️	pafundësi, pakufi, përgjithmonë, universale
+‼️	dy pikëçuditje, pikësim, pikëçuditje, shenjë
+⁉️	pikëpyetje, pikësim, pikëçuditje, pyetje, shenja e pikëpyetjes dhe pikëçuditjes
+❓️	pikëpyetje, pikësim, pyetje, shenjë
+❔	e konturuar, pikëpyetje e bardhë, pikësim, pyetje, shenjë
+❕	e konturuar, pikësim, pikëçuditje, shenjë, shenjë pikëçuditje e bardhë
+❗️	pikësim, pikëçuditje, shenja e pikëçuditjes, shenjë
+〰️	e valëzuar, pikësim, vijë, vijë e valëzuar
+💱	bankë, këmbim, këmbimi i valutës, monedhë, para
+💲	dollar, monedhë, para, shenjë dollari e trashur
+⚕️	asklepiu, mjekësi, personel mjekësor, simboli mjekësor
 ♻️	ricikloj, simboli i riciklimit
 ⚜	shpatore, simbol
 🔱	anije, emblemë, emblemë e fuzhnjës tredhëmbëshe, fuzhnjë tredhëmbëshe, vegël
@@ -2636,25 +2926,14 @@
 ✅	shenja e zgjedhjes e bardhë e trashë, shenjë, zgjedhje
 ☑️	kuti, kutia e votimit me shenjën e zgjedhjes, votim, votë, zgjedhje
 ✔️	shenja e zgjedhjes e trashë, shenjë, zgjedh, zgjedhje
-✖️	anulo, shenja x e shumëzimit e trashë, shumëzim, shumëzoj, x
-❌	anulo, shenja e shumëzimit, shenjë, shumëzim, x
+❌	anulo, shenja e shumëzimit, shenja e vendosjes së kryqit, shenjë, shumëzim, x
 ❎	butoni me shenjën e shumëzimit, katror, shenjë
-➕	matematikë, plus, shenja plus e trashë
-➖	matematikë, minus, shenja minus e trashë
-➗	matematikë, ndarje, shenja e pjesëtimit e trashë
 ➰	lak, lak i përdredhur, përdredhje
 ➿	dy herë, i dyfishtë, lak, lak i përdredhur dy herë, përdredhje
 〽️	pjesë, shenja e ndryshimit të pjesës, shenjë
 ✳️	yllth, yllth me tetë cepa me majë
 ✴️	yll, yll me tetë cepa
 ❇️	xixëllim
-‼️	dy pikëçuditje, pikësim, pikëçuditje, shenjë
-⁉️	pikëpyetje, pikësim, pikëçuditje, pyetje, shenja e pikëpyetjes dhe pikëçuditjes
-❓️	pikëpyetje, pikësim, pyetje, shenjë
-❔	e konturuar, pikëpyetje e bardhë, pikësim, pyetje, shenjë
-❕	e konturuar, pikësim, pikëçuditje, shenjë, shenjë pikëçuditje e bardhë
-❗️	pikësim, pikëçuditje, shenja e pikëçuditjes, shenjë
-〰️	e valëzuar, pikësim, vijë, vijë e valëzuar
 ©️	të drejtat e autorit
 ®️	i regjistruar
 ™️	markë tregtare, shenjë
@@ -2750,6 +3029,7 @@
 🏴	flamur i zi, valëvitës
 🏳️	flamur i bardhë, valëvitës
 🏳‍🌈	flamur i ylbertë, ylber
+🏳‍⚧	flamur blu, rozë dhe i bardhë
 🏴‍☠	Jolly Roger, flamur piratësh, pirat, plaçkitje, thesar
 🇦🇨	flamur, flamur: Ishulli Asenshion
 🇦🇩	flamur, flamur: Andorrë
