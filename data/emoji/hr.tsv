@@ -19,6 +19,7 @@
 ☺️	istaknuto, lice, nasmiješeno lice, opušteno, smiješak
 😚	lice, lice koje ljubi zatvorenih očiju, oči, poljubac, zatvoreno
 😙	lice, lice koje ljubi s nasmiješenim očima, oči, poljubac, smiješak
+🥲	dirnutost, nasmiješeno lice sa suzom, olakšanje, ponos, smiješak, suza, zahvalnost
 😋	fino, lice, lice koje uživa u hrani, njam, smiješak, ukusno
 😛	jezik, lice, lice s isplaženim jezikom
 😜	jezik, lice, lice s isplaženim jezikom koje namiguje, namigivanje, oči, šala
@@ -57,6 +58,7 @@
 🤯	eksplodirajuća glava, šok
 🤠	kauboj, kauboj sa šeširom, lice, šešir
 🥳	lice koje se zabavlja, proslava, slavlje, zabava, šešir
+🥸	krinka, lice, maska, naočale, nos, prerušeno lice
 😎	cool, lice, nasmiješeno lice sa sunčanim naočalama, sunce, sunčane naočale
 🤓	lice, pametnjaković, šmokljan, štreber, štrebersko lice
 🧐	lice s monoklom, uštogljeno
@@ -99,16 +101,16 @@
 👻	bajka, duh, mašta, stvor, čudovište
 👽️	izvanzemaljac, lice, mašta, nlo, stvor
 👾	izvanzemaljac, izvanzemaljsko čudovište, lice, nlo, stvor, čudovište
-🤖	lice, robot, robotsko lice, čudovište
-😺	lice, mačka, nasmijano lice mačke, otvorena usta, smiješak
-😸	cerenje, lice, mačka, nasmijano lice mačke s nasmješenim očima, oči, smiješak
-😹	lice, lice mačke sa suzama radosnicama, mačka, suze, veselje
+🤖	lice, robot, čudovište
+😺	lice, mačka, nasmijana mačka, otvorena usta, smiješak
+😸	cerenje, lice, mačka, nasmijana mačka s nasmiješenim očima, oči, smiješak
+😹	lice, mačka, mačka sa suzama radosnicama, suze, veselje
 😻	lice, ljubav, mačka, nasmiješena mačka s očima u obliku srca, oči, smiješak
-😼	ironija, iskrivljeno, lice, lice mačke s kiselim osmijehom, mačka, smiješak
-😽	lice, lice mačke koja ljubi, mačka, poljubac
-🙀	briga, izbezumljeno lice mačke, iznenađenje, lice, mačka
-😿	lice, mačka, suze, tuga, uplakano lice mačke
-😾	durenje, lice, lice mačke koja se duri, mačka
+😼	ironija, iskrivljeno, lice, mačka, mačka s kiselim osmijehom, smiješak
+😽	lice, mačka, mačka koja ljubi, poljubac
+🙀	briga, izbezumljena mačka, iznenađenje, lice, mačka
+😿	lice, mačka, suze, tuga, uplakana mačka
+😾	durenje, lice, mačka, mačka koja se duri
 🙈	lice, majmun, majmun koji ne vidi ništa loše, vidjeti, zabranjeno, zlo
 🙉	lice, majmun, majmun koji ne čuje ništa loše, zabranjeno, zlo, čuti
 🙊	govoriti, lice, majmun, majmun koji ne govori ništa loše, zabranjeno, zlo
@@ -122,7 +124,7 @@
 💞	okretanje, srca koja se vrte u krug, srce
 💕	dva srca, ljubav, srce
 💟	srce, ukras srca
-❣️	interpunkcija, srce, uskličnik, uskličnik u obliku velikog srca
+❣️	interpunkcija, srce, uskličnik, uskličnik u obliku srca
 💔	slomljeno, slomljeno srce, srce
 ❤️	crveno srce, srce
 🧡	narančasto, narančasto srce, srce
@@ -183,6 +185,12 @@
 👌🏽	maslinasta boja kože, ruka, tijelo, u redu, znak rukom "u redu", znak rukom "u redu": maslinasta boja kože, šaka
 👌🏾	ruka, smeđa boja kože, tijelo, u redu, znak rukom "u redu", znak rukom "u redu": smeđa boja kože, šaka
 👌🏿	ruka, tamno smeđa boja kože, tijelo, u redu, znak rukom "u redu", znak rukom "u redu": tamno smeđa boja kože, šaka
+🤌	gesta rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, uštipnuti
+🤌🏻	gesta rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: svijetla boja kože, svijetla boja kože, uštipnuti
+🤌🏼	gesta rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, uštipnuti
+🤌🏽	gesta rukom, ispitivanje, maslinasta boja kože, prsti, sarkastično, skupljeni prsti, skupljeni prsti: maslinasta boja kože, uštipnuti
+🤌🏾	gesta rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: smeđa boja kože, smeđa boja kože, uštipnuti
+🤌🏿	gesta rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: tamno smeđa boja kože, tamno smeđa boja kože, uštipnuti
 🤏	mala količina, ruka koja štipa
 🤏🏻	mala količina, ruka koja štipa, ruka koja štipa: svijetla boja kože, svijetla boja kože
 🤏🏼	mala količina, ruka koja štipa, ruka koja štipa: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
@@ -379,6 +387,8 @@
 👃🏾	nos, nos: smeđa boja kože, smeđa boja kože, tijelo
 👃🏿	nos, nos: tamno smeđa boja kože, tamno smeđa boja kože, tijelo
 🧠	inteligencija, mozak
+🫀	kardiologija, kucanje, organ, otkucaj, puls, srce
+🫁	dah, disanje, izdisanje, organ, pluća, udisanje
 🦷	zub, zubar
 🦴	kost, kostur
 👀	lice, oko, oči, tijelo
@@ -421,6 +431,30 @@
 👱🏽	kosa, maslinasta boja kože, plava kosa, plavokosa osoba, plavokosa osoba: maslinasta boja kože
 👱🏾	kosa, plava kosa, plavokosa osoba, plavokosa osoba: smeđa boja kože, smeđa boja kože
 👱🏿	kosa, plava kosa, plavokosa osoba, plavokosa osoba: tamno smeđa boja kože, tamno smeđa boja kože
+🧑‍🦰	crvena kosa, odrasla osoba, odrasla osoba: crvena kosa, rodno neutralno
+🧑🏻‍🦰	crvena kosa, odrasla osoba, odrasla osoba: svijetla boja kože i crvena kosa, rodno neutralno, svijetla boja kože
+🧑🏼‍🦰	crvena kosa, odrasla osoba, odrasla osoba: svijetlo maslinasta boja kože i crvena kosa, rodno neutralno, svijetlo maslinasta boja kože
+🧑🏽‍🦰	crvena kosa, maslinasta boja kože, odrasla osoba, odrasla osoba: maslinasta boja kože i crvena kosa, rodno neutralno
+🧑🏾‍🦰	crvena kosa, odrasla osoba, odrasla osoba: smeđa boja kože i crvena kosa, rodno neutralno, smeđa boja kože
+🧑🏿‍🦰	crvena kosa, odrasla osoba, odrasla osoba: tamno smeđa boja kože i crvena kosa, rodno neutralno, tamno smeđa boja kože
+🧑‍🦱	kovrčava kosa, odrasla osoba, odrasla osoba: kovrčava kosa, rodno neutralno
+🧑🏻‍🦱	kovrčava kosa, odrasla osoba, odrasla osoba: svijetla boja kože i kovrčava kosa, rodno neutralno, svijetla boja kože
+🧑🏼‍🦱	kovrčava kosa, odrasla osoba, odrasla osoba: svijetlo maslinasta boja kože i kovrčava kosa, rodno neutralno, svijetlo maslinasta boja kože
+🧑🏽‍🦱	kovrčava kosa, maslinasta boja kože, odrasla osoba, odrasla osoba: maslinasta boja kože i kovrčava kosa, rodno neutralno
+🧑🏾‍🦱	kovrčava kosa, odrasla osoba, odrasla osoba: smeđa boja kože i kovrčava kosa, rodno neutralno, smeđa boja kože
+🧑🏿‍🦱	kovrčava kosa, odrasla osoba, odrasla osoba: tamno smeđa boja kože i kovrčava kosa, rodno neutralno, tamno smeđa boja kože
+🧑‍🦳	odrasla osoba, odrasla osoba: sijeda kosa, rodno neutralno, sijeda kosa
+🧑🏻‍🦳	odrasla osoba, odrasla osoba: svijetla boja kože i sijeda kosa, rodno neutralno, sijeda kosa, svijetla boja kože
+🧑🏼‍🦳	odrasla osoba, odrasla osoba: svijetlo maslinasta boja kože i sijeda kosa, rodno neutralno, sijeda kosa, svijetlo maslinasta boja kože
+🧑🏽‍🦳	maslinasta boja kože, odrasla osoba, odrasla osoba: maslinasta boja kože i sijeda kosa, rodno neutralno, sijeda kosa
+🧑🏾‍🦳	odrasla osoba, odrasla osoba: smeđa boja kože i sijeda kosa, rodno neutralno, sijeda kosa, smeđa boja kože
+🧑🏿‍🦳	odrasla osoba, odrasla osoba: tamno smeđa boja kože i sijeda kosa, rodno neutralno, sijeda kosa, tamno smeđa boja kože
+🧑‍🦲	bez kose, odrasla osoba, odrasla osoba: bez kose, rodno neutralno
+🧑🏻‍🦲	bez kose, odrasla osoba, odrasla osoba: svijetla boja kože i bez kose, rodno neutralno, svijetla boja kože
+🧑🏼‍🦲	bez kose, odrasla osoba, odrasla osoba: svijetlo maslinasta boja kože i bez kose, rodno neutralno, svijetlo maslinasta boja kože
+🧑🏽‍🦲	bez kose, maslinasta boja kože, odrasla osoba, odrasla osoba: maslinasta boja kože i bez kose, rodno neutralno
+🧑🏾‍🦲	bez kose, odrasla osoba, odrasla osoba: smeđa boja kože i bez kose, rodno neutralno, smeđa boja kože
+🧑🏿‍🦲	bez kose, odrasla osoba, odrasla osoba: tamno smeđa boja kože i bez kose, rodno neutralno, tamno smeđa boja kože
 👨	muškarac, muško
 👨🏻	muškarac, muškarac: svijetla boja kože, muško, svijetla boja kože
 👨🏼	muškarac, muškarac: svijetlo maslinasta boja kože, muško, svijetlo maslinasta boja kože
@@ -697,6 +731,12 @@
 🤷🏽‍♀	maslinasta boja kože, nezainteresiranost, neznanje, sumnja, žena sliježe ramenima, žena sliježe ramenima: maslinasta boja kože
 🤷🏾‍♀	nezainteresiranost, neznanje, smeđa boja kože, sumnja, žena sliježe ramenima, žena sliježe ramenima: smeđa boja kože
 🤷🏿‍♀	nezainteresiranost, neznanje, sumnja, tamno smeđa boja kože, žena sliježe ramenima, žena sliježe ramenima: tamno smeđa boja kože
+🧑‍⚕	liječnik, medicinska sestra, terapeut, zdravstveni djelatnik, zdravstvo
+🧑🏻‍⚕	liječnik, medicinska sestra, svijetla boja kože, terapeut, zdravstveni djelatnik, zdravstveni djelatnik: svijetla boja kože, zdravstvo
+🧑🏼‍⚕	liječnik, medicinska sestra, svijetlo maslinasta boja kože, terapeut, zdravstveni djelatnik, zdravstveni djelatnik: svijetlo maslinasta boja kože, zdravstvo
+🧑🏽‍⚕	liječnik, maslinasta boja kože, medicinska sestra, terapeut, zdravstveni djelatnik, zdravstveni djelatnik: maslinasta boja kože, zdravstvo
+🧑🏾‍⚕	liječnik, medicinska sestra, smeđa boja kože, terapeut, zdravstveni djelatnik, zdravstveni djelatnik: smeđa boja kože, zdravstvo
+🧑🏿‍⚕	liječnik, medicinska sestra, tamno smeđa boja kože, terapeut, zdravstveni djelatnik, zdravstveni djelatnik: tamno smeđa boja kože, zdravstvo
 👨‍⚕	bolničar, doktor, liječnik, terapeut
 👨🏻‍⚕	bolničar, doktor, liječnik, liječnik: svijetla boja kože, svijetla boja kože, terapeut
 👨🏼‍⚕	bolničar, doktor, liječnik, liječnik: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, terapeut
@@ -709,6 +749,12 @@
 👩🏽‍⚕	bolničarka, doktorica, liječnica, liječnica: maslinasta boja kože, maslinasta boja kože, terapeutkinja
 👩🏾‍⚕	bolničarka, doktorica, liječnica, liječnica: smeđa boja kože, smeđa boja kože, terapeutkinja
 👩🏿‍⚕	bolničarka, doktorica, liječnica, liječnica: tamno smeđa boja kože, tamno smeđa boja kože, terapeutkinja
+🧑‍🎓	diplomac, diplomant, student
+🧑🏻‍🎓	diplomac, diplomant, diplomant: svijetla boja kože, student, svijetla boja kože
+🧑🏼‍🎓	diplomac, diplomant, diplomant: svijetlo maslinasta boja kože, student, svijetlo maslinasta boja kože
+🧑🏽‍🎓	diplomac, diplomant, diplomant: maslinasta boja kože, maslinasta boja kože, student
+🧑🏾‍🎓	diplomac, diplomant, diplomant: smeđa boja kože, smeđa boja kože, student
+🧑🏿‍🎓	diplomac, diplomant, diplomant: tamno smeđa boja kože, student, tamno smeđa boja kože
 👨‍🎓	diplomant, student
 👨🏻‍🎓	diplomant, student, student: svijetla boja kože, svijetla boja kože
 👨🏼‍🎓	diplomant, student, student: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
@@ -721,6 +767,12 @@
 👩🏽‍🎓	diplomantica, maslinasta boja kože, studentica, studentica: maslinasta boja kože
 👩🏾‍🎓	diplomantica, smeđa boja kože, studentica, studentica: smeđa boja kože
 👩🏿‍🎓	diplomantica, studentica, studentica: tamno smeđa boja kože, tamno smeđa boja kože
+🧑‍🏫	instruktor, profesor, učitelj
+🧑🏻‍🏫	instruktor, profesor, profesor: svijetla boja kože, svijetla boja kože, učitelj
+🧑🏼‍🏫	instruktor, profesor, profesor: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, učitelj
+🧑🏽‍🏫	instruktor, maslinasta boja kože, profesor, profesor: maslinasta boja kože, učitelj
+🧑🏾‍🏫	instruktor, profesor, profesor: smeđa boja kože, smeđa boja kože, učitelj
+🧑🏿‍🏫	instruktor, profesor, profesor: tamno smeđa boja kože, tamno smeđa boja kože, učitelj
 👨‍🏫	nastavnik, profesor, učitelj
 👨🏻‍🏫	nastavnik, profesor, svijetla boja kože, učitelj, učitelj: svijetla boja kože
 👨🏼‍🏫	nastavnik, profesor, svijetlo maslinasta boja kože, učitelj, učitelj: svijetlo maslinasta boja kože
@@ -733,6 +785,12 @@
 👩🏽‍🏫	maslinasta boja kože, nastavnica, profesorica, učiteljica, učiteljica: maslinasta boja kože
 👩🏾‍🏫	nastavnica, profesorica, smeđa boja kože, učiteljica, učiteljica: smeđa boja kože
 👩🏿‍🏫	nastavnica, profesorica, tamno smeđa boja kože, učiteljica, učiteljica: tamno smeđa boja kože
+🧑‍⚖	arbitar, pravda, sudac
+🧑🏻‍⚖	arbitar, arbitar: svijetla boja kože, pravda, sudac, svijetla boja kože
+🧑🏼‍⚖	arbitar, arbitar: svijetlo maslinasta boja kože, pravda, sudac, svijetlo maslinasta boja kože
+🧑🏽‍⚖	arbitar, arbitar: maslinasta boja kože, maslinasta boja kože, pravda, sudac
+🧑🏾‍⚖	arbitar, arbitar: smeđa boja kože, pravda, smeđa boja kože, sudac
+🧑🏿‍⚖	arbitar, arbitar: tamno smeđa boja kože, pravda, sudac, tamno smeđa boja kože
 👨‍⚖	pravda, pravo, sudac
 👨🏻‍⚖	pravda, pravo, sudac, sudac: svijetla boja kože, svijetla boja kože
 👨🏼‍⚖	pravda, pravo, sudac, sudac: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
@@ -745,6 +803,12 @@
 👩🏽‍⚖	maslinasta boja kože, pravda, sutkinja, sutkinja: maslinasta boja kože
 👩🏾‍⚖	pravda, smeđa boja kože, sutkinja, sutkinja: smeđa boja kože
 👩🏿‍⚖	pravda, sutkinja, sutkinja: tamno smeđa boja kože, tamno smeđa boja kože
+🧑‍🌾	farmer, poljoprivrednik, vrtlar
+🧑🏻‍🌾	farmer, farmer: svijetla boja kože, poljoprivrednik, svijetla boja kože, vrtlar
+🧑🏼‍🌾	farmer, farmer: svijetlo maslinasta boja kože, poljoprivrednik, svijetlo maslinasta boja kože, vrtlar
+🧑🏽‍🌾	farmer, farmer: maslinasta boja kože, maslinasta boja kože, poljoprivrednik, vrtlar
+🧑🏾‍🌾	farmer, farmer: smeđa boja kože, poljoprivrednik, smeđa boja kože, vrtlar
+🧑🏿‍🌾	farmer, farmer: tamno smeđa boja kože, poljoprivrednik, tamno smeđa boja kože, vrtlar
 👨‍🌾	farmer, poljoprivrednik, seljak, vrtlar
 👨🏻‍🌾	farmer, poljoprivrednik, poljoprivrednik: svijetla boja kože, seljak, svijetla boja kože, vrtlar
 👨🏼‍🌾	farmer, poljoprivrednik, poljoprivrednik: svijetlo maslinasta boja kože, seljak, svijetlo maslinasta boja kože, vrtlar
@@ -757,6 +821,12 @@
 👩🏽‍🌾	farmerica, maslinasta boja kože, poljoprivrednica, poljoprivrednica: maslinasta boja kože, seljakinja, vrtlarica
 👩🏾‍🌾	farmerica, poljoprivrednica, poljoprivrednica: smeđa boja kože, seljakinja, smeđa boja kože, vrtlarica
 👩🏿‍🌾	farmerica, poljoprivrednica, poljoprivrednica: tamno smeđa boja kože, seljakinja, tamno smeđa boja kože, vrtlarica
+🧑‍🍳	kuhar, šef kuhinje
+🧑🏻‍🍳	kuhar, svijetla boja kože, šef kuhinje, šef kuhinje: svijetla boja kože
+🧑🏼‍🍳	kuhar, svijetlo maslinasta boja kože, šef kuhinje, šef kuhinje: svijetlo maslinasta boja kože
+🧑🏽‍🍳	kuhar, maslinasta boja kože, šef kuhinje, šef kuhinje: maslinasta boja kože
+🧑🏾‍🍳	kuhar, smeđa boja kože, šef kuhinje, šef kuhinje: smeđa boja kože
+🧑🏿‍🍳	kuhar, tamno smeđa boja kože, šef kuhinje, šef kuhinje: tamno smeđa boja kože
 👨‍🍳	kuhar, šef kuhinje
 👨🏻‍🍳	kuhar, kuhar: svijetla boja kože, svijetla boja kože, šef kuhinje
 👨🏼‍🍳	kuhar, kuhar: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, šef kuhinje
@@ -769,6 +839,12 @@
 👩🏽‍🍳	kuharica, kuharica: maslinasta boja kože, maslinasta boja kože, šefica kuhinje
 👩🏾‍🍳	kuharica, kuharica: smeđa boja kože, smeđa boja kože, šefica kuhinje
 👩🏿‍🍳	kuharica, kuharica: tamno smeđa boja kože, tamno smeđa boja kože, šefica kuhinje
+🧑‍🔧	električar, majstor, mehaničar, serviser, vodoinstalater
+🧑🏻‍🔧	električar, majstor, mehaničar, serviser, serviser: svijetla boja kože, svijetla boja kože, vodoinstalater
+🧑🏼‍🔧	električar, majstor, mehaničar, serviser, serviser: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, vodoinstalater
+🧑🏽‍🔧	električar, majstor, maslinasta boja kože, mehaničar, serviser, serviser: maslinasta boja kože, vodoinstalater
+🧑🏾‍🔧	električar, majstor, mehaničar, serviser, serviser: smeđa boja kože, smeđa boja kože, vodoinstalater
+🧑🏿‍🔧	električar, majstor, mehaničar, serviser, serviser: tamno smeđa boja kože, tamno smeđa boja kože, vodoinstalater
 👨‍🔧	električar, majstor, mehaničar, vodoinstalater
 👨🏻‍🔧	električar, majstor, mehaničar, mehaničar: svijetla boja kože, svijetla boja kože, vodoinstalater
 👨🏼‍🔧	električar, majstor, mehaničar, mehaničar: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, vodoinstalater
@@ -781,6 +857,12 @@
 👩🏽‍🔧	električarka, majstorica, maslinasta boja kože, mehaničarka, mehaničarka: maslinasta boja kože, vodoinstalaterka
 👩🏾‍🔧	električarka, majstorica, mehaničarka, mehaničarka: smeđa boja kože, smeđa boja kože, vodoinstalaterka
 👩🏿‍🔧	električarka, majstorica, mehaničarka, mehaničarka: tamno smeđa boja kože, tamno smeđa boja kože, vodoinstalaterka
+🧑‍🏭	industrija, radnik, radnik u tvornici, traka, tvornica, tvornički radnik
+🧑🏻‍🏭	industrija, radnik, radnik u tvornici, radnik u tvornici: svijetla boja kože, svijetla boja kože, traka, tvornica, tvornički radnik
+🧑🏼‍🏭	industrija, radnik, radnik u tvornici, radnik u tvornici: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, traka, tvornica, tvornički radnik
+🧑🏽‍🏭	industrija, maslinasta boja kože, radnik, radnik u tvornici, radnik u tvornici: maslinasta boja kože, traka, tvornica, tvornički radnik
+🧑🏾‍🏭	industrija, radnik, radnik u tvornici, radnik u tvornici: smeđa boja kože, smeđa boja kože, traka, tvornica, tvornički radnik
+🧑🏿‍🏭	industrija, radnik, radnik u tvornici, radnik u tvornici: tamno smeđa boja kože, tamno smeđa boja kože, traka, tvornica, tvornički radnik
 👨‍🏭	industrija, radnik, traka, tvornica, tvornički radnik
 👨🏻‍🏭	industrija, radnik, svijetla boja kože, traka, tvornica, tvornički radnik, tvornički radnik: svijetla boja kože
 👨🏼‍🏭	industrija, radnik, svijetlo maslinasta boja kože, traka, tvornica, tvornički radnik, tvornički radnik: svijetlo maslinasta boja kože
@@ -793,6 +875,12 @@
 👩🏽‍🏭	industrija, maslinasta boja kože, radnica, traka, tvornica, tvornička radnica, tvornička radnica: maslinasta boja kože
 👩🏾‍🏭	industrija, radnica, smeđa boja kože, traka, tvornica, tvornička radnica, tvornička radnica: smeđa boja kože
 👩🏿‍🏭	industrija, radnica, tamno smeđa boja kože, traka, tvornica, tvornička radnica, tvornička radnica: tamno smeđa boja kože
+🧑‍💼	arhitekt, menadžer, poslovni čovjek, službenik, ured, uredski djelatnik
+🧑🏻‍💼	arhitekt, menadžer, poslovni čovjek, službenik, svijetla boja kože, ured, uredski djelatnik, uredski djelatnik: svijetla boja kože
+🧑🏼‍💼	arhitekt, menadžer, poslovni čovjek, službenik, svijetlo maslinasta boja kože, ured, uredski djelatnik, uredski djelatnik: svijetlo maslinasta boja kože
+🧑🏽‍💼	arhitekt, maslinasta boja kože, menadžer, poslovni čovjek, službenik, ured, uredski djelatnik, uredski djelatnik: maslinasta boja kože
+🧑🏾‍💼	arhitekt, menadžer, poslovni čovjek, službenik, smeđa boja kože, ured, uredski djelatnik, uredski djelatnik: smeđa boja kože
+🧑🏿‍💼	arhitekt, menadžer, poslovni čovjek, službenik, tamno smeđa boja kože, ured, uredski djelatnik, uredski djelatnik: tamno smeđa boja kože
 👨‍💼	arhitekt, menadžer, poslovni čovjek, službenik, ured
 👨🏻‍💼	arhitekt, menadžer, poslovni čovjek, službenik, službenik: svijetla boja kože, svijetla boja kože, ured
 👨🏼‍💼	arhitekt, menadžer, poslovni čovjek, službenik, službenik: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, ured
@@ -805,6 +893,12 @@
 👩🏽‍💼	arhitektkinja, maslinasta boja kože, menadžerica, poslovna žena, službenica, službenica: maslinasta boja kože, ured
 👩🏾‍💼	arhitektkinja, menadžerica, poslovna žena, službenica, službenica: smeđa boja kože, smeđa boja kože, ured
 👩🏿‍💼	arhitektkinja, menadžerica, poslovna žena, službenica, službenica: tamno smeđa boja kože, tamno smeđa boja kože, ured
+🧑‍🔬	biokemičar, biolog, fizičar, inženjer, kemičar, znanstvenik
+🧑🏻‍🔬	biokemičar, biokemičar: svijetla boja kože, biolog, fizičar, inženjer, kemičar, svijetla boja kože, znanstvenik
+🧑🏼‍🔬	biokemičar, biokemičar: svijetlo maslinasta boja kože, biolog, fizičar, inženjer, kemičar, svijetlo maslinasta boja kože, znanstvenik
+🧑🏽‍🔬	biokemičar, biokemičar: maslinasta boja kože, biolog, fizičar, inženjer, kemičar, maslinasta boja kože, znanstvenik
+🧑🏾‍🔬	biokemičar, biokemičar: smeđa boja kože, biolog, fizičar, inženjer, kemičar, smeđa boja kože, znanstvenik
+🧑🏿‍🔬	biokemičar, biokemičar: tamno smeđa boja kože, biolog, fizičar, inženjer, kemičar, tamno smeđa boja kože, znanstvenik
 👨‍🔬	biolog, fizičar, inženjer, kemičar, znanstvenik
 👨🏻‍🔬	biolog, fizičar, inženjer, kemičar, svijetla boja kože, znanstvenik, znanstvenik: svijetla boja kože
 👨🏼‍🔬	biolog, fizičar, inženjer, kemičar, svijetlo maslinasta boja kože, znanstvenik, znanstvenik: svijetlo maslinasta boja kože
@@ -817,6 +911,12 @@
 👩🏽‍🔬	biologinja, fizičarka, inženjerka, kemičarka, maslinasta boja kože, znanstvenica, znanstvenica: maslinasta boja kože
 👩🏾‍🔬	biologinja, fizičarka, inženjerka, kemičarka, smeđa boja kože, znanstvenica, znanstvenica: smeđa boja kože
 👩🏿‍🔬	biologinja, fizičarka, inženjerka, kemičarka, tamno smeđa boja kože, znanstvenica, znanstvenica: tamno smeđa boja kože
+🧑‍💻	izumitelj, koder, programer, softver, tehnološki djelatnik, tehnološki inženjer
+🧑🏻‍💻	izumitelj, koder, programer, softver, svijetla boja kože, tehnološki djelatnik, tehnološki djelatnik: svijetla boja kože, tehnološki inženjer
+🧑🏼‍💻	izumitelj, koder, programer, softver, svijetlo maslinasta boja kože, tehnološki djelatnik, tehnološki djelatnik: svijetlo maslinasta boja kože, tehnološki inženjer
+🧑🏽‍💻	izumitelj, koder, maslinasta boja kože, programer, softver, tehnološki djelatnik, tehnološki djelatnik: maslinasta boja kože, tehnološki inženjer
+🧑🏾‍💻	izumitelj, koder, programer, smeđa boja kože, softver, tehnološki djelatnik, tehnološki djelatnik: smeđa boja kože, tehnološki inženjer
+🧑🏿‍💻	izumitelj, koder, programer, softver, tamno smeđa boja kože, tehnološki djelatnik, tehnološki djelatnik: tamno smeđa boja kože, tehnološki inženjer
 👨‍💻	izumitelj, koder, programer, softver, tehnološki inženjer
 👨🏻‍💻	izumitelj, koder, programer, softver, svijetla boja kože, tehnološki inženjer, tehnološki inženjer: svijetla boja kože
 👨🏼‍💻	izumitelj, koder, programer, softver, svijetlo maslinasta boja kože, tehnološki inženjer, tehnološki inženjer: svijetlo maslinasta boja kože
@@ -829,6 +929,12 @@
 👩🏽‍💻	izumiteljica, koderica, maslinasta boja kože, programerka, softver, tehnološka inženjerka, tehnološka inženjerka: maslinasta boja kože
 👩🏾‍💻	izumiteljica, koderica, programerka, smeđa boja kože, softver, tehnološka inženjerka, tehnološka inženjerka: smeđa boja kože
 👩🏿‍💻	izumiteljica, koderica, programerka, softver, tamno smeđa boja kože, tehnološka inženjerka, tehnološka inženjerka: tamno smeđa boja kože
+🧑‍🎤	glumac, izvođač, pjevač, zabavljač, zvijezda
+🧑🏻‍🎤	glumac, izvođač, izvođač: svijetla boja kože, pjevač, svijetla boja kože, zabavljač, zvijezda
+🧑🏼‍🎤	glumac, izvođač, izvođač: svijetlo maslinasta boja kože, pjevač, svijetlo maslinasta boja kože, zabavljač, zvijezda
+🧑🏽‍🎤	glumac, izvođač, izvođač: maslinasta boja kože, maslinasta boja kože, pjevač, zabavljač, zvijezda
+🧑🏾‍🎤	glumac, izvođač, izvođač: smeđa boja kože, pjevač, smeđa boja kože, zabavljač, zvijezda
+🧑🏿‍🎤	glumac, izvođač, izvođač: tamno smeđa boja kože, pjevač, tamno smeđa boja kože, zabavljač, zvijezda
 👨‍🎤	glumac, pjevač, zabavljač, zvijezda
 👨🏻‍🎤	glumac, pjevač, pjevač: svijetla boja kože, svijetla boja kože, zabavljač, zvijezda
 👨🏼‍🎤	glumac, pjevač, pjevač: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, zabavljač, zvijezda
@@ -841,6 +947,12 @@
 👩🏽‍🎤	glumica, maslinasta boja kože, pjevačica, pjevačica: maslinasta boja kože, zabavljačica, zvijezda
 👩🏾‍🎤	glumica, pjevačica, pjevačica: smeđa boja kože, smeđa boja kože, zabavljačica, zvijezda
 👩🏿‍🎤	glumica, pjevačica, pjevačica: tamno smeđa boja kože, tamno smeđa boja kože, zabavljačica, zvijezda
+🧑‍🎨	paleta, slikar, umjetnik
+🧑🏻‍🎨	paleta, slikar, slikar: svijetla boja kože, svijetla boja kože, umjetnik
+🧑🏼‍🎨	paleta, slikar, slikar: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, umjetnik
+🧑🏽‍🎨	maslinasta boja kože, paleta, slikar, slikar: maslinasta boja kože, umjetnik
+🧑🏾‍🎨	paleta, slikar, slikar: smeđa boja kože, smeđa boja kože, umjetnik
+🧑🏿‍🎨	paleta, slikar, slikar: tamno smeđa boja kože, tamno smeđa boja kože, umjetnik
 👨‍🎨	paleta, umjetnik
 👨🏻‍🎨	paleta, svijetla boja kože, umjetnik, umjetnik: svijetla boja kože
 👨🏼‍🎨	paleta, svijetlo maslinasta boja kože, umjetnik, umjetnik: svijetlo maslinasta boja kože
@@ -853,6 +965,12 @@
 👩🏽‍🎨	maslinasta boja kože, paleta, umjetnica, umjetnica: maslinasta boja kože
 👩🏾‍🎨	paleta, smeđa boja kože, umjetnica, umjetnica: smeđa boja kože
 👩🏿‍🎨	paleta, tamno smeđa boja kože, umjetnica, umjetnica: tamno smeđa boja kože
+🧑‍✈	avion, pilot, pilot zrakoplova, zrakoplov
+🧑🏻‍✈	avion, pilot, pilot zrakoplova, pilot zrakoplova: svijetla boja kože, svijetla boja kože, zrakoplov
+🧑🏼‍✈	avion, pilot, pilot zrakoplova, pilot zrakoplova: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, zrakoplov
+🧑🏽‍✈	avion, maslinasta boja kože, pilot, pilot zrakoplova, pilot zrakoplova: maslinasta boja kože, zrakoplov
+🧑🏾‍✈	avion, pilot, pilot zrakoplova, pilot zrakoplova: smeđa boja kože, smeđa boja kože, zrakoplov
+🧑🏿‍✈	avion, pilot, pilot zrakoplova, pilot zrakoplova: tamno smeđa boja kože, tamno smeđa boja kože, zrakoplov
 👨‍✈	avion, pilot, zrakoplov
 👨🏻‍✈	avion, pilot, pilot: svijetla boja kože, svijetla boja kože, zrakoplov
 👨🏼‍✈	avion, pilot, pilot: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, zrakoplov
@@ -865,6 +983,12 @@
 👩🏽‍✈	avion, maslinasta boja kože, pilot, pilotkinja, pilotkinja: maslinasta boja kože, zrakoplov
 👩🏾‍✈	avion, pilot, pilotkinja, pilotkinja: smeđa boja kože, smeđa boja kože, zrakoplov
 👩🏿‍✈	avion, pilot, pilotkinja, pilotkinja: tamno smeđa boja kože, tamno smeđa boja kože, zrakoplov
+🧑‍🚀	astronaut, kozmonaut, raketa
+🧑🏻‍🚀	astronaut, kozmonaut, kozmonaut: svijetla boja kože, raketa, svijetla boja kože
+🧑🏼‍🚀	astronaut, kozmonaut, kozmonaut: svijetlo maslinasta boja kože, raketa, svijetlo maslinasta boja kože
+🧑🏽‍🚀	astronaut, kozmonaut, kozmonaut: maslinasta boja kože, maslinasta boja kože, raketa
+🧑🏾‍🚀	astronaut, kozmonaut, kozmonaut: smeđa boja kože, raketa, smeđa boja kože
+🧑🏿‍🚀	astronaut, kozmonaut, kozmonaut: tamno smeđa boja kože, raketa, tamno smeđa boja kože
 👨‍🚀	astronaut, raketa, svemir
 👨🏻‍🚀	astronaut, astronaut: svijetla boja kože, raketa, svemir, svijetla boja kože
 👨🏼‍🚀	astronaut, astronaut: svijetlo maslinasta boja kože, raketa, svemir, svijetlo maslinasta boja kože
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronaut, astronautkinja, astronautkinja: maslinasta boja kože, maslinasta boja kože, raketa, svemir
 👩🏾‍🚀	astronaut, astronautkinja, astronautkinja: smeđa boja kože, raketa, smeđa boja kože, svemir
 👩🏿‍🚀	astronaut, astronautkinja, astronautkinja: tamno smeđa boja kože, raketa, svemir, tamno smeđa boja kože
+🧑‍🚒	vatrogasac, vatrogasni djelatnik, vatrogasno vozilo
+🧑🏻‍🚒	svijetla boja kože, vatrogasac, vatrogasni djelatnik, vatrogasni djelatnik: svijetla boja kože, vatrogasno vozilo
+🧑🏼‍🚒	svijetlo maslinasta boja kože, vatrogasac, vatrogasni djelatnik, vatrogasni djelatnik: svijetlo maslinasta boja kože, vatrogasno vozilo
+🧑🏽‍🚒	maslinasta boja kože, vatrogasac, vatrogasni djelatnik, vatrogasni djelatnik: maslinasta boja kože, vatrogasno vozilo
+🧑🏾‍🚒	smeđa boja kože, vatrogasac, vatrogasni djelatnik, vatrogasni djelatnik: smeđa boja kože, vatrogasno vozilo
+🧑🏿‍🚒	tamno smeđa boja kože, vatrogasac, vatrogasni djelatnik, vatrogasni djelatnik: tamno smeđa boja kože, vatrogasno vozilo
 👨‍🚒	vatrogasac, vatrogasno vozilo
 👨🏻‍🚒	svijetla boja kože, vatrogasac, vatrogasac: svijetla boja kože, vatrogasno vozilo
 👨🏼‍🚒	svijetlo maslinasta boja kože, vatrogasac, vatrogasac: svijetlo maslinasta boja kože, vatrogasno vozilo
@@ -943,6 +1073,7 @@
 💂🏽‍♀	maslinasta boja kože, stražarica, stražarica: maslinasta boja kože, čuvarica
 💂🏾‍♀	smeđa boja kože, stražarica, stražarica: smeđa boja kože, čuvarica
 💂🏿‍♀	stražarica, stražarica: tamno smeđa boja kože, tamno smeđa boja kože, čuvarica
+🥷	borac, nindža, prikradanje, skrivanje
 👷	gradnja, građevinski radnik, radnik, šljem
 👷🏻	gradnja, građevinski radnik, građevinski radnik: svijetla boja kože, radnik, svijetla boja kože, šljem
 👷🏼	gradnja, građevinski radnik, građevinski radnik: svijetlo maslinasta boja kože, radnik, svijetlo maslinasta boja kože, šljem
@@ -1003,18 +1134,42 @@
 🧕🏽	hidžab, marama, maslinasta boja kože, žena s maramom, žena s maramom: maslinasta boja kože
 🧕🏾	hidžab, marama, smeđa boja kože, žena s maramom, žena s maramom: smeđa boja kože
 🧕🏿	hidžab, marama, tamno smeđa boja kože, žena s maramom, žena s maramom: tamno smeđa boja kože
-🤵	mladoženja, muškarac, muškarac u smokingu, odijelo, smoking
-🤵🏻	mladoženja, muškarac, muškarac u smokingu, muškarac u smokingu: svijetla boja kože, odijelo, smoking, svijetla boja kože
-🤵🏼	mladoženja, muškarac, muškarac u smokingu, muškarac u smokingu: svijetlo maslinasta boja kože, odijelo, smoking, svijetlo maslinasta boja kože
-🤵🏽	maslinasta boja kože, mladoženja, muškarac, muškarac u smokingu, muškarac u smokingu: maslinasta boja kože, odijelo, smoking
-🤵🏾	mladoženja, muškarac, muškarac u smokingu, muškarac u smokingu: smeđa boja kože, odijelo, smeđa boja kože, smoking
-🤵🏿	mladoženja, muškarac, muškarac u smokingu, muškarac u smokingu: tamno smeđa boja kože, odijelo, smoking, tamno smeđa boja kože
+🤵	mladoženja, muškarac, muškarac u smokingu, odijelo, osoba u smokingu, smoking
+🤵🏻	mladoženja, muškarac, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: svijetla boja kože, smoking, svijetla boja kože
+🤵🏼	mladoženja, muškarac, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: svijetlo maslinasta boja kože, smoking, svijetlo maslinasta boja kože
+🤵🏽	maslinasta boja kože, mladoženja, muškarac, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: maslinasta boja kože, smoking
+🤵🏾	mladoženja, muškarac, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: smeđa boja kože, smeđa boja kože, smoking
+🤵🏿	mladoženja, muškarac, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: tamno smeđa boja kože, smoking, tamno smeđa boja kože
+🤵‍♂	muškarac, muškarac u smokingu, smoking
+🤵🏻‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: svijetla boja kože, smoking, svijetla boja kože
+🤵🏼‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: svijetlo maslinasta boja kože, smoking, svijetlo maslinasta boja kože
+🤵🏽‍♂	maslinasta boja kože, muškarac, muškarac u smokingu, muškarac u smokingu: maslinasta boja kože, smoking
+🤵🏾‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: smeđa boja kože, smeđa boja kože, smoking
+🤵🏿‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: tamno smeđa boja kože, smoking, tamno smeđa boja kože
+🤵‍♀	smoking, žena, žena u smokingu
+🤵🏻‍♀	smoking, svijetla boja kože, žena, žena u smokingu, žena u smokingu: svijetla boja kože
+🤵🏼‍♀	smoking, svijetlo maslinasta boja kože, žena, žena u smokingu, žena u smokingu: svijetlo maslinasta boja kože
+🤵🏽‍♀	maslinasta boja kože, smoking, žena, žena u smokingu, žena u smokingu: maslinasta boja kože
+🤵🏾‍♀	smeđa boja kože, smoking, žena, žena u smokingu, žena u smokingu: smeđa boja kože
+🤵🏿‍♀	smoking, tamno smeđa boja kože, žena, žena u smokingu, žena u smokingu: tamno smeđa boja kože
 👰	mladenka, nevjesta s velom, veo, vjenčanje
 👰🏻	mladenka, nevjesta s velom, nevjesta s velom: svijetla boja kože, svijetla boja kože, veo, vjenčanje
 👰🏼	mladenka, nevjesta s velom, nevjesta s velom: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, veo, vjenčanje
 👰🏽	maslinasta boja kože, mladenka, nevjesta s velom, nevjesta s velom: maslinasta boja kože, veo, vjenčanje
 👰🏾	mladenka, nevjesta s velom, nevjesta s velom: smeđa boja kože, smeđa boja kože, veo, vjenčanje
 👰🏿	mladenka, nevjesta s velom, nevjesta s velom: tamno smeđa boja kože, tamno smeđa boja kože, veo, vjenčanje
+👰‍♂	muškarac, muškarac s velom, veo
+👰🏻‍♂	muškarac, muškarac s velom, muškarac s velom: svijetla boja kože, svijetla boja kože, veo
+👰🏼‍♂	muškarac, muškarac s velom, muškarac s velom: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, veo
+👰🏽‍♂	maslinasta boja kože, muškarac, muškarac s velom, muškarac s velom: maslinasta boja kože, veo
+👰🏾‍♂	muškarac, muškarac s velom, muškarac s velom: smeđa boja kože, smeđa boja kože, veo
+👰🏿‍♂	muškarac, muškarac s velom, muškarac s velom: tamno smeđa boja kože, tamno smeđa boja kože, veo
+👰‍♀	veo, žena, žena s velom
+👰🏻‍♀	svijetla boja kože, veo, žena, žena s velom, žena s velom: svijetla boja kože
+👰🏼‍♀	svijetlo maslinasta boja kože, veo, žena, žena s velom, žena s velom: svijetlo maslinasta boja kože
+👰🏽‍♀	maslinasta boja kože, veo, žena, žena s velom, žena s velom: maslinasta boja kože
+👰🏾‍♀	smeđa boja kože, veo, žena, žena s velom, žena s velom: smeđa boja kože
+👰🏿‍♀	tamno smeđa boja kože, veo, žena, žena s velom, žena s velom: tamno smeđa boja kože
 🤰	trudnica, žena
 🤰🏻	svijetla boja kože, trudnica, trudnica: svijetla boja kože, žena
 🤰🏼	svijetlo maslinasta boja kože, trudnica, trudnica: svijetlo maslinasta boja kože, žena
@@ -1027,6 +1182,24 @@
 🤱🏽	beba, dojenje, dojenje: maslinasta boja kože, grudi, maslinasta boja kože
 🤱🏾	beba, dojenje, dojenje: smeđa boja kože, grudi, smeđa boja kože
 🤱🏿	beba, dojenje, dojenje: tamno smeđa boja kože, grudi, tamno smeđa boja kože
+👩‍🍼	beba, dojenje, hranjenje, žena, žena hrani bebu
+👩🏻‍🍼	beba, dojenje, hranjenje, svijetla boja kože, žena, žena hrani bebu, žena hrani bebu: svijetla boja kože
+👩🏼‍🍼	beba, dojenje, hranjenje, svijetlo maslinasta boja kože, žena, žena hrani bebu, žena hrani bebu: svijetlo maslinasta boja kože
+👩🏽‍🍼	beba, dojenje, hranjenje, maslinasta boja kože, žena, žena hrani bebu, žena hrani bebu: maslinasta boja kože
+👩🏾‍🍼	beba, dojenje, hranjenje, smeđa boja kože, žena, žena hrani bebu, žena hrani bebu: smeđa boja kože
+👩🏿‍🍼	beba, dojenje, hranjenje, tamno smeđa boja kože, žena, žena hrani bebu, žena hrani bebu: tamno smeđa boja kože
+👨‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu
+👨🏻‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: svijetla boja kože, svijetla boja kože
+👨🏼‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
+👨🏽‍🍼	beba, dojenje, hranjenje, maslinasta boja kože, muškarac, muškarac hrani bebu, muškarac hrani bebu: maslinasta boja kože
+👨🏾‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: smeđa boja kože, smeđa boja kože
+👨🏿‍🍼	beba, dojenje, hranjenje, muškarac, muškarac hrani bebu, muškarac hrani bebu: tamno smeđa boja kože, tamno smeđa boja kože
+🧑‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu
+🧑🏻‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: svijetla boja kože, svijetla boja kože
+🧑🏼‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
+🧑🏽‍🍼	beba, dojenje, hranjenje, maslinasta boja kože, osoba, osoba hrani bebu, osoba hrani bebu: maslinasta boja kože
+🧑🏾‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: smeđa boja kože, smeđa boja kože
+🧑🏿‍🍼	beba, dojenje, hranjenje, osoba, osoba hrani bebu, osoba hrani bebu: tamno smeđa boja kože, tamno smeđa boja kože
 👼	anđeo, bajka, beba, beba anđeo, lice, mašta
 👼🏻	anđeo, bajka, beba, beba anđeo: svijetla boja kože, lice, mašta, svijetla boja kože
 👼🏼	anđeo, bajka, beba, beba anđeo: svijetlo maslinasta boja kože, lice, mašta, svijetlo maslinasta boja kože
@@ -1045,6 +1218,12 @@
 🤶🏽	Baka Mraz, Baka Mraz: maslinasta boja kože, Božić, maslinasta boja kože, žena
 🤶🏾	Baka Mraz, Baka Mraz: smeđa boja kože, Božić, smeđa boja kože, žena
 🤶🏿	Baka Mraz, Baka Mraz: tamno smeđa boja kože, Božić, tamno smeđa boja kože, žena
+🧑‍🎄	Mraz, Božić, osoba Mraz
+🧑🏻‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: svijetla boja kože, svijetla boja kože
+🧑🏼‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
+🧑🏽‍🎄	Mraz, Božić, maslinasta boja kože, osoba Mraz, osoba Mraz: maslinasta boja kože
+🧑🏾‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: smeđa boja kože, smeđa boja kože
+🧑🏿‍🎄	Mraz, Božić, osoba Mraz, osoba Mraz: tamno smeđa boja kože, tamno smeđa boja kože
 🦸	dobročinitelj, junak, junakinja, superheroj, supermoći
 🦸🏻	dobročinitelj, junak, junakinja, superheroj, superheroj: svijetla boja kože, supermoći, svijetla boja kože
 🦸🏼	dobročinitelj, junak, junakinja, superheroj, superheroj: svijetlo maslinasta boja kože, supermoći, svijetlo maslinasta boja kože
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	klečanje, maslinasta boja kože, žena, žena kleči, žena kleči: maslinasta boja kože
 🧎🏾‍♀	klečanje, smeđa boja kože, žena, žena kleči, žena kleči: smeđa boja kože
 🧎🏿‍♀	klečanje, tamno smeđa boja kože, žena, žena kleči, žena kleči: tamno smeđa boja kože
+🧑‍🦯	osoba s bijelim štapom, pomagalo, slijep
+🧑🏻‍🦯	osoba s bijelim štapom, osoba s bijelim štapom: svijetla boja kože, pomagalo, slijep, svijetla boja kože
+🧑🏼‍🦯	osoba s bijelim štapom, osoba s bijelim štapom: svijetlo maslinasta boja kože, pomagalo, slijep, svijetlo maslinasta boja kože
+🧑🏽‍🦯	maslinasta boja kože, osoba s bijelim štapom, osoba s bijelim štapom: maslinasta boja kože, pomagalo, slijep
+🧑🏾‍🦯	osoba s bijelim štapom, osoba s bijelim štapom: smeđa boja kože, pomagalo, slijep, smeđa boja kože
+🧑🏿‍🦯	osoba s bijelim štapom, osoba s bijelim štapom: tamno smeđa boja kože, pomagalo, slijep, tamno smeđa boja kože
 👨‍🦯	muškarac, muškarac s bijelim štapom, pomagalo, slijep
 👨🏻‍🦯	muškarac, muškarac s bijelim štapom, muškarac s bijelim štapom: svijetla boja kože, pomagalo, slijep, svijetla boja kože
 👨🏼‍🦯	muškarac, muškarac s bijelim štapom, muškarac s bijelim štapom: svijetlo maslinasta boja kože, pomagalo, slijep, svijetlo maslinasta boja kože
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	maslinasta boja kože, pomagalo, slijepa, žena, žena s bijelim štapom, žena s bijelim štapom: maslinasta boja kože
 👩🏾‍🦯	pomagalo, slijepa, smeđa boja kože, žena, žena s bijelim štapom, žena s bijelim štapom: smeđa boja kože
 👩🏿‍🦯	pomagalo, slijepa, tamno smeđa boja kože, žena, žena s bijelim štapom, žena s bijelim štapom: tamno smeđa boja kože
+🧑‍🦼	invalidska kolica, osoba u invalidskim kolicima na motorni pogon, pomagalo
+🧑🏻‍🦼	invalidska kolica, osoba u invalidskim kolicima na motorni pogon, osoba u invalidskim kolicima na motorni pogon: svijetla boja kože, pomagalo, svijetla boja kože
+🧑🏼‍🦼	invalidska kolica, osoba u invalidskim kolicima na motorni pogon, osoba u invalidskim kolicima na motorni pogon: svijetlo maslinasta boja kože, pomagalo, svijetlo maslinasta boja kože
+🧑🏽‍🦼	invalidska kolica, maslinasta boja kože, osoba u invalidskim kolicima na motorni pogon, osoba u invalidskim kolicima na motorni pogon: maslinasta boja kože, pomagalo
+🧑🏾‍🦼	invalidska kolica, osoba u invalidskim kolicima na motorni pogon, osoba u invalidskim kolicima na motorni pogon: smeđa boja kože, pomagalo, smeđa boja kože
+🧑🏿‍🦼	invalidska kolica, osoba u invalidskim kolicima na motorni pogon, osoba u invalidskim kolicima na motorni pogon: tamno smeđa boja kože, pomagalo, tamno smeđa boja kože
 👨‍🦼	invalidska kolica, muškarac, muškarac u motornim invalidskim kolicima, pomagalo
 👨🏻‍🦼	invalidska kolica, muškarac, muškarac u motornim invalidskim kolicima, muškarac u motornim invalidskim kolicima: svijetla boja kože, pomagalo, svijetla boja kože
 👨🏼‍🦼	invalidska kolica, muškarac, muškarac u motornim invalidskim kolicima, muškarac u motornim invalidskim kolicima: svijetlo maslinasta boja kože, pomagalo, svijetlo maslinasta boja kože
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	invalidska kolica, maslinasta boja kože, pomagalo, žena, žena u motornim invalidskim kolicima, žena u motornim invalidskim kolicima: maslinasta boja kože
 👩🏾‍🦼	invalidska kolica, pomagalo, smeđa boja kože, žena, žena u motornim invalidskim kolicima, žena u motornim invalidskim kolicima: smeđa boja kože
 👩🏿‍🦼	invalidska kolica, pomagalo, tamno smeđa boja kože, žena, žena u motornim invalidskim kolicima, žena u motornim invalidskim kolicima: tamno smeđa boja kože
+🧑‍🦽	invalidska kolica, osoba u invalidskim kolicima na ručni pogon, pomagalo
+🧑🏻‍🦽	invalidska kolica, osoba u invalidskim kolicima na ručni pogon, osoba u invalidskim kolicima na ručni pogon: svijetla boja kože, pomagalo, svijetla boja kože
+🧑🏼‍🦽	invalidska kolica, osoba u invalidskim kolicima na ručni pogon, osoba u invalidskim kolicima na ručni pogon: svijetlo maslinasta boja kože, pomagalo, svijetlo maslinasta boja kože
+🧑🏽‍🦽	invalidska kolica, maslinasta boja kože, osoba u invalidskim kolicima na ručni pogon, osoba u invalidskim kolicima na ručni pogon: maslinasta boja kože, pomagalo
+🧑🏾‍🦽	invalidska kolica, osoba u invalidskim kolicima na ručni pogon, osoba u invalidskim kolicima na ručni pogon: smeđa boja kože, pomagalo, smeđa boja kože
+🧑🏿‍🦽	invalidska kolica, osoba u invalidskim kolicima na ručni pogon, osoba u invalidskim kolicima na ručni pogon: tamno smeđa boja kože, pomagalo, tamno smeđa boja kože
 👨‍🦽	invalidska kolica, muškarac, muškarac u invalidskim kolicima na ručni pogon, pomagalo
 👨🏻‍🦽	invalidska kolica, muškarac, muškarac u invalidskim kolicima na ručni pogon, muškarac u invalidskim kolicima na ručni pogon: svijetla boja kože, pomagalo, svijetla boja kože
 👨🏼‍🦽	invalidska kolica, muškarac, muškarac u invalidskim kolicima na ručni pogon, muškarac u invalidskim kolicima na ručni pogon: svijetlo maslinasta boja kože, pomagalo, svijetlo maslinasta boja kože
@@ -1641,38 +1838,58 @@
 🛌🏽	hotel, maslinasta boja kože, osoba u krevetu, osoba u krevetu: maslinasta boja kože, spavanje
 🛌🏾	hotel, osoba u krevetu, osoba u krevetu: smeđa boja kože, smeđa boja kože, spavanje
 🛌🏿	hotel, osoba u krevetu, osoba u krevetu: tamno smeđa boja kože, spavanje, tamno smeđa boja kože
-🧑‍🤝‍🧑	osobe koje se drže za ruke
-🧑🏻‍🤝‍🧑🏻	osobe koje se drže za ruke, osobe koje se drže za ruke: svijetla boja kože, svijetla boja kože
-🧑🏼‍🤝‍🧑🏻	osobe koje se drže za ruke, osobe koje se drže za ruke: svijetlo maslinasta boja kože i svijetla boja kože, svijetla boja kože, svijetlo maslinasta boja kože
-🧑🏼‍🤝‍🧑🏼	osobe koje se drže za ruke, osobe koje se drže za ruke: svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
-🧑🏽‍🤝‍🧑🏻	maslinasta boja kože, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože i svijetla boja kože, svijetla boja kože
-🧑🏽‍🤝‍🧑🏼	maslinasta boja kože, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože i svijetlo maslinasta boja kože, svijetlo maslinasta boja kože
-🧑🏽‍🤝‍🧑🏽	maslinasta boja kože, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože
-🧑🏾‍🤝‍🧑🏻	osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože i svijetla boja kože, smeđa boja kože, svijetla boja kože
-🧑🏾‍🤝‍🧑🏼	osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože i svijetlo maslinasta boja kože, smeđa boja kože, svijetlo maslinasta boja kože
-🧑🏾‍🤝‍🧑🏽	maslinasta boja kože, osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože i maslinasta boja kože, smeđa boja kože
-🧑🏾‍🤝‍🧑🏾	osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože, smeđa boja kože
-🧑🏿‍🤝‍🧑🏻	osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i svijetla boja kože, svijetla boja kože, tamno smeđa boja kože
-🧑🏿‍🤝‍🧑🏼	osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i svijetlo maslinasta boja kože, svijetlo maslinasta boja kože, tamno smeđa boja kože
-🧑🏿‍🤝‍🧑🏽	maslinasta boja kože, osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i maslinasta boja kože, tamno smeđa boja kože
-🧑🏿‍🤝‍🧑🏾	osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i smeđa boja kože, smeđa boja kože, tamno smeđa boja kože
-🧑🏿‍🤝‍🧑🏿	osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože, tamno smeđa boja kože
-👭	držanje ruku, dvije žene koje se drže za ruke, par, ruka, žene
-👭🏻	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: svijetla boja kože, par, ruka, svijetla boja kože, žene
-👩🏼‍🤝‍👩🏻	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: svijetlo maslinasta boja kože i svijetla boja kože, par, ruka, svijetla boja kože, svijetlo maslinasta boja kože, žene
-👭🏼	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: svijetlo maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože, žene
-👩🏽‍🤝‍👩🏻	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: maslinasta boja kože i svijetla boja kože, maslinasta boja kože, par, ruka, svijetla boja kože, žene
-👩🏽‍🤝‍👩🏼	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: maslinasta boja kože i svijetlo maslinasta boja kože, maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože, žene
-👭🏽	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: maslinasta boja kože, maslinasta boja kože, par, ruka, žene
-👩🏾‍🤝‍👩🏻	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: smeđa boja kože i svijetla boja kože, par, ruka, smeđa boja kože, svijetla boja kože, žene
-👩🏾‍🤝‍👩🏼	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: smeđa boja kože i svijetlo maslinasta boja kože, par, ruka, smeđa boja kože, svijetlo maslinasta boja kože, žene
-👩🏾‍🤝‍👩🏽	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: smeđa boja kože i maslinasta boja kože, maslinasta boja kože, par, ruka, smeđa boja kože, žene
-👭🏾	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: smeđa boja kože, par, ruka, smeđa boja kože, žene
-👩🏿‍🤝‍👩🏻	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: tamno smeđa boja kože i svijetla boja kože, par, ruka, svijetla boja kože, tamno smeđa boja kože, žene
-👩🏿‍🤝‍👩🏼	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: tamno smeđa boja kože i svijetlo maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože, tamno smeđa boja kože, žene
-👩🏿‍🤝‍👩🏽	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: tamno smeđa boja kože i maslinasta boja kože, maslinasta boja kože, par, ruka, tamno smeđa boja kože, žene
-👩🏿‍🤝‍👩🏾	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: tamno smeđa boja kože i smeđa boja kože, par, ruka, smeđa boja kože, tamno smeđa boja kože, žene
-👭🏿	držanje ruku, dvije žene koje se drže za ruke, dvije žene koje se drže za ruke: tamno smeđa boja kože, par, ruka, tamno smeđa boja kože, žene
+🧑‍🤝‍🧑	držanje za ruke, držati, osoba, osobe koje se drže za ruke, par, ruka
+🧑🏻‍🤝‍🧑🏻	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetla boja kože, par, ruka, svijetla boja kože
+🧑🏻‍🤝‍🧑🏼	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetla boja kože i svijetlo maslinasta boja kože, par, ruka, svijetla boja kože, svijetlo maslinasta boja kože
+🧑🏻‍🤝‍🧑🏽	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetla boja kože i maslinasta boja kože, par, ruka, svijetla boja kože
+🧑🏻‍🤝‍🧑🏾	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetla boja kože i smeđa boja kože, par, ruka, smeđa boja kože, svijetla boja kože
+🧑🏻‍🤝‍🧑🏿	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetla boja kože i tamno smeđa boja kože, par, ruka, svijetla boja kože, tamno smeđa boja kože
+🧑🏼‍🤝‍🧑🏻	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetlo maslinasta boja kože i svijetla boja kože, par, ruka, svijetla boja kože, svijetlo maslinasta boja kože
+🧑🏼‍🤝‍🧑🏼	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetlo maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože
+🧑🏼‍🤝‍🧑🏽	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetlo maslinasta boja kože i maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože
+🧑🏼‍🤝‍🧑🏾	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetlo maslinasta boja kože i smeđa boja kože, par, ruka, smeđa boja kože, svijetlo maslinasta boja kože
+🧑🏼‍🤝‍🧑🏿	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: svijetlo maslinasta boja kože i tamno smeđa boja kože, par, ruka, svijetlo maslinasta boja kože, tamno smeđa boja kože
+🧑🏽‍🤝‍🧑🏻	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože i svijetla boja kože, par, ruka, svijetla boja kože
+🧑🏽‍🤝‍🧑🏼	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože i svijetlo maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože
+🧑🏽‍🤝‍🧑🏽	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože, par, ruka
+🧑🏽‍🤝‍🧑🏾	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože i smeđa boja kože, par, ruka, smeđa boja kože
+🧑🏽‍🤝‍🧑🏿	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: maslinasta boja kože i tamno smeđa boja kože, par, ruka, tamno smeđa boja kože
+🧑🏾‍🤝‍🧑🏻	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože i svijetla boja kože, par, ruka, smeđa boja kože, svijetla boja kože
+🧑🏾‍🤝‍🧑🏼	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože i svijetlo maslinasta boja kože, par, ruka, smeđa boja kože, svijetlo maslinasta boja kože
+🧑🏾‍🤝‍🧑🏽	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože i maslinasta boja kože, par, ruka, smeđa boja kože
+🧑🏾‍🤝‍🧑🏾	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože, par, ruka, smeđa boja kože
+🧑🏾‍🤝‍🧑🏿	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: smeđa boja kože i tamno smeđa boja kože, par, ruka, smeđa boja kože, tamno smeđa boja kože
+🧑🏿‍🤝‍🧑🏻	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i svijetla boja kože, par, ruka, svijetla boja kože, tamno smeđa boja kože
+🧑🏿‍🤝‍🧑🏼	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i svijetlo maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože, tamno smeđa boja kože
+🧑🏿‍🤝‍🧑🏽	držanje za ruke, držati, maslinasta boja kože, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i maslinasta boja kože, par, ruka, tamno smeđa boja kože
+🧑🏿‍🤝‍🧑🏾	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože i smeđa boja kože, par, ruka, smeđa boja kože, tamno smeđa boja kože
+🧑🏿‍🤝‍🧑🏿	držanje za ruke, držati, osoba, osobe koje se drže za ruke, osobe koje se drže za ruke: tamno smeđa boja kože, par, ruka, tamno smeđa boja kože
+👭	držanje ruku, par, ruka, žene, žene koje se drže za ruke
+👭🏻	držanje ruku, par, ruka, svijetla boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetla boja kože
+👩🏻‍🤝‍👩🏼	držanje ruku, par, ruka, svijetla boja kože, svijetlo maslinasta boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetla boja kože i svijetlo maslinasta boja kože
+👩🏻‍🤝‍👩🏽	držanje ruku, maslinasta boja kože, par, ruka, svijetla boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetla boja kože i maslinasta boja kože
+👩🏻‍🤝‍👩🏾	držanje ruku, par, ruka, smeđa boja kože, svijetla boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetla boja kože i smeđa boja kože
+👩🏻‍🤝‍👩🏿	držanje ruku, par, ruka, svijetla boja kože, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetla boja kože i tamno smeđa boja kože
+👩🏼‍🤝‍👩🏻	držanje ruku, par, ruka, svijetla boja kože, svijetlo maslinasta boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetlo maslinasta boja kože i svijetla boja kože
+👭🏼	držanje ruku, par, ruka, svijetlo maslinasta boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetlo maslinasta boja kože
+👩🏼‍🤝‍👩🏽	držanje ruku, maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetlo maslinasta boja kože i maslinasta boja kože
+👩🏼‍🤝‍👩🏾	držanje ruku, par, ruka, smeđa boja kože, svijetlo maslinasta boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetlo maslinasta boja kože i smeđa boja kože
+👩🏼‍🤝‍👩🏿	držanje ruku, par, ruka, svijetlo maslinasta boja kože, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: svijetlo maslinasta boja kože i tamno smeđa boja kože
+👩🏽‍🤝‍👩🏻	držanje ruku, maslinasta boja kože, par, ruka, svijetla boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: maslinasta boja kože i svijetla boja kože
+👩🏽‍🤝‍👩🏼	držanje ruku, maslinasta boja kože, par, ruka, svijetlo maslinasta boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: maslinasta boja kože i svijetlo maslinasta boja kože
+👭🏽	držanje ruku, maslinasta boja kože, par, ruka, žene, žene koje se drže za ruke, žene koje se drže za ruke: maslinasta boja kože
+👩🏽‍🤝‍👩🏾	držanje ruku, maslinasta boja kože, par, ruka, smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: maslinasta boja kože i smeđa boja kože
+👩🏽‍🤝‍👩🏿	držanje ruku, maslinasta boja kože, par, ruka, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: maslinasta boja kože i tamno smeđa boja kože
+👩🏾‍🤝‍👩🏻	držanje ruku, par, ruka, smeđa boja kože, svijetla boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: smeđa boja kože i svijetla boja kože
+👩🏾‍🤝‍👩🏼	držanje ruku, par, ruka, smeđa boja kože, svijetlo maslinasta boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: smeđa boja kože i svijetlo maslinasta boja kože
+👩🏾‍🤝‍👩🏽	držanje ruku, maslinasta boja kože, par, ruka, smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: smeđa boja kože i maslinasta boja kože
+👭🏾	držanje ruku, par, ruka, smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: smeđa boja kože
+👩🏾‍🤝‍👩🏿	držanje ruku, par, ruka, smeđa boja kože, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: smeđa boja kože i tamno smeđa boja kože
+👩🏿‍🤝‍👩🏻	držanje ruku, par, ruka, svijetla boja kože, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: tamno smeđa boja kože i svijetla boja kože
+👩🏿‍🤝‍👩🏼	držanje ruku, par, ruka, svijetlo maslinasta boja kože, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: tamno smeđa boja kože i svijetlo maslinasta boja kože
+👩🏿‍🤝‍👩🏽	držanje ruku, maslinasta boja kože, par, ruka, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: tamno smeđa boja kože i maslinasta boja kože
+👩🏿‍🤝‍👩🏾	držanje ruku, par, ruka, smeđa boja kože, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: tamno smeđa boja kože i smeđa boja kože
+👭🏿	držanje ruku, par, ruka, tamno smeđa boja kože, žene, žene koje se drže za ruke, žene koje se drže za ruke: tamno smeđa boja kože
 👫	držanje, držanje za ruke, muškarac, muškarac i žena koji se drže za ruke, par, ruke, žena
 👫🏻	držanje, držanje za ruke, muškarac, muškarac i žena koji se drže za ruke, muškarac i žena koji se drže za ruke: svijetla boja kože, par, ruke, svijetla boja kože, žena
 👩🏻‍🤝‍👨🏼	držanje, držanje za ruke, muškarac, muškarac i žena koji se drže za ruke, muškarac i žena koji se drže za ruke: svijetla boja kože i svijetlo maslinasta boja kože, par, ruke, svijetla boja kože, svijetlo maslinasta boja kože, žena
@@ -1699,22 +1916,32 @@
 👩🏿‍🤝‍👨🏽	držanje, držanje za ruke, maslinasta boja kože, muškarac, muškarac i žena koji se drže za ruke, muškarac i žena koji se drže za ruke: tamno smeđa boja kože i maslinasta boja kože, par, ruke, tamno smeđa boja kože, žena
 👩🏿‍🤝‍👨🏾	držanje, držanje za ruke, muškarac, muškarac i žena koji se drže za ruke, muškarac i žena koji se drže za ruke: tamno smeđa boja kože i smeđa boja kože, par, ruke, smeđa boja kože, tamno smeđa boja kože, žena
 👫🏿	držanje, držanje za ruke, muškarac, muškarac i žena koji se drže za ruke, muškarac i žena koji se drže za ruke: tamno smeđa boja kože, par, ruke, tamno smeđa boja kože, žena
-👬	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, horoskop, muškarac, muškarci, par
-👬🏻	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: svijetla boja kože, horoskop, muškarac, muškarci, par, svijetla boja kože
-👨🏼‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: svijetlo maslinasta boja kože i svijetla boja kože, horoskop, muškarac, muškarci, par, svijetla boja kože, svijetlo maslinasta boja kože
-👬🏼	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: svijetlo maslinasta boja kože, horoskop, muškarac, muškarci, par, svijetlo maslinasta boja kože
-👨🏽‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: maslinasta boja kože i svijetla boja kože, horoskop, maslinasta boja kože, muškarac, muškarci, par, svijetla boja kože
-👨🏽‍🤝‍👨🏼	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: maslinasta boja kože i svijetlo maslinasta boja kože, horoskop, maslinasta boja kože, muškarac, muškarci, par, svijetlo maslinasta boja kože
-👬🏽	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: maslinasta boja kože, horoskop, maslinasta boja kože, muškarac, muškarci, par
-👨🏾‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: smeđa boja kože i svijetla boja kože, horoskop, muškarac, muškarci, par, smeđa boja kože, svijetla boja kože
-👨🏾‍🤝‍👨🏼	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: smeđa boja kože i svijetlo maslinasta boja kože, horoskop, muškarac, muškarci, par, smeđa boja kože, svijetlo maslinasta boja kože
-👨🏾‍🤝‍👨🏽	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: smeđa boja kože i maslinasta boja kože, horoskop, maslinasta boja kože, muškarac, muškarci, par, smeđa boja kože
-👬🏾	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: smeđa boja kože, horoskop, muškarac, muškarci, par, smeđa boja kože
-👨🏿‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: tamno smeđa boja kože i svijetla boja kože, horoskop, muškarac, muškarci, par, svijetla boja kože, tamno smeđa boja kože
-👨🏿‍🤝‍👨🏼	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: tamno smeđa boja kože i svijetlo maslinasta boja kože, horoskop, muškarac, muškarci, par, svijetlo maslinasta boja kože, tamno smeđa boja kože
-👨🏿‍🤝‍👨🏽	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: tamno smeđa boja kože i maslinasta boja kože, horoskop, maslinasta boja kože, muškarac, muškarci, par, tamno smeđa boja kože
-👨🏿‍🤝‍👨🏾	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: tamno smeđa boja kože i smeđa boja kože, horoskop, muškarac, muškarci, par, smeđa boja kože, tamno smeđa boja kože
-👬🏿	Blizanci, blizanci, držanje za ruke, dva muškarca koji se drže za ruke, dva muškarca koji se drže za ruke: tamno smeđa boja kože, horoskop, muškarac, muškarci, par, tamno smeđa boja kože
+👬	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, par
+👬🏻	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetla boja kože, par, svijetla boja kože
+👨🏻‍🤝‍👨🏼	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetla boja kože i svijetlo maslinasta boja kože, par, svijetla boja kože, svijetlo maslinasta boja kože
+👨🏻‍🤝‍👨🏽	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetla boja kože i maslinasta boja kože, par, svijetla boja kože
+👨🏻‍🤝‍👨🏾	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetla boja kože i smeđa boja kože, par, smeđa boja kože, svijetla boja kože
+👨🏻‍🤝‍👨🏿	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetla boja kože i tamno smeđa boja kože, par, svijetla boja kože, tamno smeđa boja kože
+👨🏼‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetlo maslinasta boja kože i svijetla boja kože, par, svijetla boja kože, svijetlo maslinasta boja kože
+👬🏼	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetlo maslinasta boja kože, par, svijetlo maslinasta boja kože
+👨🏼‍🤝‍👨🏽	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetlo maslinasta boja kože i maslinasta boja kože, par, svijetlo maslinasta boja kože
+👨🏼‍🤝‍👨🏾	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetlo maslinasta boja kože i smeđa boja kože, par, smeđa boja kože, svijetlo maslinasta boja kože
+👨🏼‍🤝‍👨🏿	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: svijetlo maslinasta boja kože i tamno smeđa boja kože, par, svijetlo maslinasta boja kože, tamno smeđa boja kože
+👨🏽‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: maslinasta boja kože i svijetla boja kože, par, svijetla boja kože
+👨🏽‍🤝‍👨🏼	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: maslinasta boja kože i svijetlo maslinasta boja kože, par, svijetlo maslinasta boja kože
+👬🏽	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: maslinasta boja kože, par
+👨🏽‍🤝‍👨🏾	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: maslinasta boja kože i smeđa boja kože, par, smeđa boja kože
+👨🏽‍🤝‍👨🏿	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: maslinasta boja kože i tamno smeđa boja kože, par, tamno smeđa boja kože
+👨🏾‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: smeđa boja kože i svijetla boja kože, par, smeđa boja kože, svijetla boja kože
+👨🏾‍🤝‍👨🏼	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: smeđa boja kože i svijetlo maslinasta boja kože, par, smeđa boja kože, svijetlo maslinasta boja kože
+👨🏾‍🤝‍👨🏽	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: smeđa boja kože i maslinasta boja kože, par, smeđa boja kože
+👬🏾	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: smeđa boja kože, par, smeđa boja kože
+👨🏾‍🤝‍👨🏿	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: smeđa boja kože i tamno smeđa boja kože, par, smeđa boja kože, tamno smeđa boja kože
+👨🏿‍🤝‍👨🏻	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: tamno smeđa boja kože i svijetla boja kože, par, svijetla boja kože, tamno smeđa boja kože
+👨🏿‍🤝‍👨🏼	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: tamno smeđa boja kože i svijetlo maslinasta boja kože, par, svijetlo maslinasta boja kože, tamno smeđa boja kože
+👨🏿‍🤝‍👨🏽	Blizanci, blizanci, držanje za ruke, horoskop, maslinasta boja kože, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: tamno smeđa boja kože i maslinasta boja kože, par, tamno smeđa boja kože
+👨🏿‍🤝‍👨🏾	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: tamno smeđa boja kože i smeđa boja kože, par, smeđa boja kože, tamno smeđa boja kože
+👬🏿	Blizanci, blizanci, držanje za ruke, horoskop, muškarac, muškarci, muškarci koji se drže za ruke, muškarci koji se drže za ruke: tamno smeđa boja kože, par, tamno smeđa boja kože
 💏	par, poljubac, romantika
 👩‍❤‍💋‍👨	muškarac, par, poljubac, poljubac: žena i muškarac, romantika, žena
 👨‍❤‍💋‍👨	muškarac, par, poljubac, poljubac: muškarac i muškarac, romantika
@@ -1752,6 +1979,7 @@
 🗣️	glava, glava koja govori, govor, lice, silueta
 👤	poprsje, poprsje u silueti, silueta
 👥	poprsja u silueti, poprsje, silueta
+🫂	hvala, osobe koje se grle, pozdrav, zagrljaj, zbogom
 👣	noge, otisak, otisci stopala, stopala, tijelo
 🦰	crvena kosa, crvenokos, riđokos
 🦱	afro, kovrčava, kovrčava kosa, lokne
@@ -1771,6 +1999,7 @@
 🦝	lukavost, rakun, znatiželja
 🐱	lice, lice mačke, ljubimac, mačka
 🐈️	ljubimac, mačka
+🐈‍⬛	crna mačka, crno, mačka, nesreća
 🦁	lav, lice, lice lava, zodijak
 🐯	lice, lice tigra, tigar
 🐅	tigar
@@ -1780,6 +2009,7 @@
 🦄	jednorog, lice
 🦓	pruge, zebra
 🦌	jelen, životinja
+🦬	bizon, govedo, stado
 🐮	krava, lice, lice krave
 🐂	bik, govedo, vol, zodijak
 🐃	bivol, voda, vodeni bivol
@@ -1796,6 +2026,7 @@
 🦙	alpaka, gvanako, ljama, vuna
 🦒	točke, žirafa
 🐘	slon
+🦣	izumrli, kljove, mamut, veliki, vuneni
 🦏	nosorog, životinja
 🦛	nilski konj, vodeni konj, vodenkonj
 🐭	lice, lice miša, miš
@@ -1805,9 +2036,11 @@
 🐰	kunić, lice, lice zeca, ljubimac, zec
 🐇	kunić, ljubimac, zec
 🐿️	vjeverica
+🦫	brana, dabar
 🦔	bodlje, jež
 🦇	vampir, šišmiš, životinja
 🐻	lice, medvjed
+🐻‍❄	arktik, bijelo, medvjed, polarni medvjed
 🐨	koala, medvjed
 🐼	lice, panda
 🦥	lijen, ljenjivac, spor
@@ -1829,6 +2062,8 @@
 🦆	patka, ptica
 🦢	labud, ptica, ružno pače
 🦉	mudrost, ptica, sova
+🦤	Mauricijus, dodo, izumrlo, veliko
+🪶	lagano, letjeti, perje, pero, ptica
 🦩	flamingo, plamenac, tropski
 🦚	paun, paunica, ponos, ptica, razmetljivost, ukras
 🦜	govor, gusar, papiga, ptica
@@ -1844,6 +2079,7 @@
 🐳	kit, kit koji izbacuje mlaz vode, lice, mlaz
 🐋	kit
 🐬	Flipper, delfin, dupin
+🦭	sredozemna medvjedica, tuljan
 🐟️	riba, ribe, zodijak
 🐠	riba, tropi, tropska ribica
 🐡	riba, riba napuhača
@@ -1855,12 +2091,16 @@
 🐛	gusjenica, insekt
 🐜	insekt, mrav
 🐝	insekt, pčela
+🪲	buba, insekt, kukac
 🐞	buba, bubamara, insekt
 🦗	cvrčak, skakavac
+🪳	insekt, kukac, nametnik, žohar
 🕷️	insekt, pauk
 🕸️	mreža, pauk, paukova mreža
 🦂	zodijak, škorpion
 🦟	bolest, groznica, insekt, komarac, malarija, virus
+🪰	bolest, insekt, muha, nametnik, trulež
+🪱	crv, glista, parazit
 🦠	ameba, bakterija, mikrob, virus
 💐	biljka, buket, cvijet, romantika
 🌸	biljka, cvijet, trešnja, trešnjin cvijet
@@ -1873,6 +2113,7 @@
 🌼	biljka, cvijet, cvjetanje
 🌷	biljka, cvijet, tulipan
 🌱	biljka, mlado, sadnica
+🪴	beskorisno, biljka, biljka u tegli, dosadno, kuća, rasti, uzgoj
 🌲	biljka, drvo, zimzeleno drvo
 🌳	biljka, drvo, listopadno, listopadno drvo
 🌴	biljka, drvo, palma
@@ -1898,8 +2139,10 @@
 🍑	biljka, breskva, voće
 🍒	biljka, trešnja, trešnje, voće
 🍓	biljka, jagoda, voće
+🫐	bobica, borovnica, borovnice, plavo, šumsko voće
 🥝	hrana, kivi, voće
 🍅	biljka, povrće, rajčica, voće
+🫒	hrana, maslina
 🥥	kokos, palma, piña colada
 🥑	avokado, hrana, voće
 🍆	biljka, patlidžan, povrće
@@ -1907,6 +2150,7 @@
 🥕	hrana, mrkva, povrće
 🌽	biljka, klip, klip kukuruza, kukuruz
 🌶️	biljka, ljuta papričica, ljuto, paprika, papričica
+🫑	paprika, povrće
 🥒	hrana, kiseli krastavac, krastavac, povrće
 🥬	blitva, kelj, kupus, lisnato povrće, salata, zelena salata
 🥦	biljka, brokula, povrće
@@ -1918,6 +2162,7 @@
 🍞	kruh, štruca
 🥐	francuska, hrana, kroasan, kruh
 🥖	baget, francuska, hrana, kruh
+🫓	bublica, lepinja, naan, pecivo, pita
 🥨	ispleteno, perec
 🥯	pecivo, pekarski proizvod, uštipak
 🥞	crêpe, hrana, palačinke
@@ -1934,12 +2179,14 @@
 🥪	kruh, sendvič
 🌮	meksička, taco
 🌯	burrito, meksička
+🫔	meksičko, tamal, umotano
 🥙	falafel, giros, hrana, kebab, lepinja
 🧆	falafel, okruglice, slanutak, ćufte
 🥚	hrana, jaja, jaje
 🍳	jaje, kuhanje, pečenje, tava
 🥘	hrana, lonac, paella, plitko, posuda, posuda s hranom
 🍲	gulaš, zdjela, zdjela s hranom
+🫕	fondi, otopljeno, posuda, sir, čokolada, švicarsko
 🥣	doručak, zdjelica sa žlicom, žitarice
 🥗	hrana, salata, zelena salata, zeleno
 🍿	kokice
@@ -1960,7 +2207,7 @@
 🍥	kolač, riba, riblji kolač s motivom spirale, spirala, tijesto
 🥮	festival, jesen, mjesečev kolač, slastica
 🍡	dango, desert, japan, ražnjić, slatko, štapić
-🥟	empanada, gyōza, jiaozi, okruglica, pierogi, ćufta
+🥟	empanada, gyōza, jiaozi, okruglica, pierogi, školjkica
 🥠	kolačić sreće, proročanstvo
 🥡	kutija za dostavu, kutija za kinesku hranu
 🦀	rak, zodijak
@@ -1985,6 +2232,7 @@
 🍼	beba, bočica, bočica za bebe, mlijeko, piti
 🥛	mlijeko, piće, čaša, čaša mlijeka
 ☕️	kava, napitak, vruće, vrući napitak, čaj
+🫖	piće, posuda, čaj, čajnik
 🍵	napitak, piti, čaj, šalica, šalica za čaj bez ručke
 🍶	bar, boca, napitak, piće, sake, šalica
 🍾	bar, boca, boca iz koje izlijeće čep, piće, čep
@@ -1996,6 +2244,7 @@
 🥂	kucanje, piće, proslava, zdravica, čaša
 🥃	piće, viski, čaša, žestoko, žestoko piće
 🥤	sok, čaša sa slamkom
+🧋	bubble tea, kuglice, mlijeko, čaj
 🧃	sok, sok u tetrapaku, tetrapak
 🧉	mate, piće, čaj
 🧊	blok leda, hladno, kocka leda, santa leda
@@ -2025,6 +2274,9 @@
 🏛️	antika, antička građevina, građevina, zgrada
 🏗️	gradilište, gradnja, zgrada
 🧱	cigla, cigle, glina, zid, žbuka
+🪨	gromada, kamen, stijena, teško, čvrsto
+🪵	cjepanica, cjepanice, drva, drvo
+🛖	koliba, kuća, kuća od slame, slamnata kuća
 🏘️	kuća, kuće, zgrada
 🏚️	kuća, zapuštena kuća, zapušteno, zgrada
 🏠️	dom, kuća, zgrada
@@ -2092,6 +2344,7 @@
 🚗	automobil, vozilo
 🚘️	automobil, automobil u dolasku, dolazak, vozilo
 🚙	rekreacija, rekreacijsko vozilo, rv, vozilo
+🛻	kamionet, pick-up, teretno vozilo
 🚚	dostava, dostavni kamion, kamion, vozilo
 🚛	kamion, prikolica, vozilo, zglob, zglobni kamion
 🚜	traktor, vozilo
@@ -2104,6 +2357,7 @@
 🚲️	bicikl, vozilo
 🛴	noga, romobil
 🛹	skateboard
+🛼	koturaljka, koturaljke
 🚏	autobus, autobusna stanica, stanica
 🛣️	autocesta, autoput, cesta
 🛤️	vlak, željeznica, željeznička pruga
@@ -2274,6 +2528,7 @@
 🪁	igračka, let, papirnati zmaj
 🎱	8, biljarske kugle, igra, kugla, osam
 🔮	alat, kristal, kristalna kugla, kugla, sudbina
+🪄	magija, vještica, čarobni štapić, čarobnjak
 🧿	nazar, nazar perlica, perlica, plavo oko, talisman, tursko oko, zlo oko
 🎮️	igra, kontroler, videoigrica
 🕹️	igra, igraća palica, videoigra
@@ -2281,6 +2536,8 @@
 🎲	igra, igraća kocka, kocka
 🧩	dio slagalice, komadić, slagalica, trag
 🧸	igračka, medvjedić, plišanac, plišani medvjedić
+🪅	pinjata, slavlje, zabava
+🪆	Rusija, babuška, lutka, matrjoška
 ♠️	igra, karta, pik
 ♥️	herc, igra, karta
 ♦️	igra, karo, karta
@@ -2293,7 +2550,9 @@
 🖼️	muzej, okvir, slika, slikarstvo, umjetnost, uokvirena slika
 🎨	muzej, paleta, slikarska paleta, slikarstvo, umjetnost
 🧵	konac, uzica, šivanje, šivaća igla
+🪡	igla, krojenje, vezenje, šavovi, šivanje, šivaća igla
 🧶	klupko vune, loptica, pletivo, vuna
+🪢	ispreplesti, užad, uže, zapetljano, zapetljati, čvor
 👓️	naočale, oko
 🕶️	naočale, oko, sunčane naočale, tamno
 🥽	plivanje, varenje, zaštita za oči, zaštitne naočale
@@ -2319,6 +2578,7 @@
 👝	odjeća, torba, torbica
 🛍️	kupovanje, shopping, vrećica, vrećice za kupovinu
 🎒	torba, škola, školski ruksak
+🩴	japanka, japanke, obuća za plažu
 👞	cipela, muška cipela, muškarci, obuća
 👟	cipela, obuća, sport, tenisica
 🥾	gojzerica, kampiranje, obuća za planinarenje, planinarenje, čizma
@@ -2332,6 +2592,7 @@
 🎩	cilindar, odjeća, šešir
 🎓️	diploma, kapa, kićanka, matura, maturalna kapa, odjeća, slavlje
 🧢	kapa sa šiltom, šilterica
+🪖	ratnik, vojni šljem, vojnik, vojska, šljem
 ⛑️	kaciga, križ, lice, pomoć, šljem, šljem s bijelim križem
 📿	brojanica, molitva, odjeća, ogrlica, perlice, religija
 💄	kozmetika, ruž za usne, šminka
@@ -2356,12 +2617,14 @@
 🎧️	slušalica, slušalice
 📻️	radio
 🎷	glazba, instrument, saks, saksofon
+🪗	glazba, harmonika, instrument
 🎸	gitara, glazba, instrument
 🎹	glazba, instrument, klavijatura, klavir
 🎺	glazba, instrument, truba
 🎻	glazba, instrument, violina
 🪕	bendžo, glazba, žičani instrument
 🥁	bubanj, glazba, palice
+🪘	bubanj, konga, ritam, visoki bubanj
 📱	mobilni telefon, mobitel, telefon
 📲	dolazni poziv, mobilni telefon, mobilni telefon sa strelicom, mobitel, strelica, telefon
 ☎️	telefon
@@ -2415,6 +2678,7 @@
 🔖	knjižna oznaka, oznaka
 🏷️	oznaka
 💰️	dolar, novac, vreća, vreća s novcem
+🪙	blago, kovanica, metal, novac, srebro, zlato
 💴	banka, jen, novac, novčanica, novčanica sa znakom jena, valuta
 💵	banka, dolar, novac, novčanica, novčanica sa znakom dolara, valuta
 💶	banka, euro, novac, novčanica, novčanica sa znakom eura, valuta
@@ -2423,8 +2687,6 @@
 💳️	kartica, kredit, kreditna kartica, novac
 🧾	dokaz, dokaz o kupnji, račun, računovodstvo
 💹	grafikon, grafikon rastućeg trenda sa znakom jena, jen, novac, rast, trend, valuta
-💱	banka, mjenjačnica, novac, valuta
-💲	dolar, masno otisnuti znak dolara, novac, valuta
 ✉️	e-pošta, omotnica, pismo
 📧	e-pošta, pismo, pošta
 📨	dolazno, e-pošta, omotnica, omotnica dolazne pošte, pismo, primanje
@@ -2482,9 +2744,12 @@
 🗡️	bodež, nož, oružje
 ⚔️	mačevi, oružje, prekriženi mačevi, prekriženo
 🔫	alat, oružje, pištolj, revolver
+🪃	Australija, bumerang, posljedica, vraćanje
 🏹	alat, luk, luk i strijela, oružje, strijela, strijelac, zodijak
 🛡️	oružje, štit
+🪚	alat, drvosječa, pila, ručna pila, stolar
 🔧	alat, francuski ključ
+🪛	alat, odvijač, vijak
 🔩	alat, matica, vijak, vijak i matica
 ⚙️	alat, zupčanik
 🗜️	alat, stezač, škrip
@@ -2492,8 +2757,10 @@
 🦯	bijeli štap, pomagalo, sljepoća
 🔗	karika, veza
 ⛓️	lanac, lanci
+🪝	krivulja, udica, ulov, uloviti
 🧰	alat, kutija, kutija za alat, mehaničar
 🧲	magnet, megnetizam, potkova, privlačenje
+🪜	ljestve, penjanje, stube
 ⚗️	alat, kemija, retorta
 🧪	eksperiment, epruveta, kemija, kemičar, laboratorij, znanost
 🧫	bakterije, biolog, biologija, kultura, laboratorij, petrijeva zdjelica
@@ -2507,26 +2774,35 @@
 🩹	flaster, samoljepivi flaster
 🩺	liječnik, medicina, srce, stetoskop
 🚪	vrata
+🛗	dizalo, lift, pristupačnost
+🪞	odraz, ogledalo, zrcalo
+🪟	okvir, otvaranje, pogled, prozirno, prozor, svjež zrak
 🛏️	hotel, krevet, spavanje
 🛋️	hotel, kauč, kauč i svjetiljka, svjetiljka
 🪑	sjediti, sjesti, stolica
 🚽	WC školjka, kupaonica, toalet
+🪠	WC, odčepljivanje, odčepljivač, vakuum, vodoinstalater, začepljenje
 🚿	tuš, voda
 🛁	kada, kupanje
+🪤	mamac, mišolovka, zamka
 🪒	brijanje, britva, oštro
 🧴	bočica losiona, krema za sunčanje, losion, losion za tijelo, šampon
 🧷	pelena, punk rock, sigurnica, ziherica
 🧹	metenje, metla, vještica, čišćenje
 🧺	domaćinstvo, košara, piknik, rublje
 🧻	papirnati ručnici, rola papira, toaletni papir
+🪣	kanta, vjedro
 🧼	kupanje, pjena, pranje, sapun, sapunica
+🪥	dentalna, higijena, kupaonica, zubi, četkanje, četkica za zube, čisto
 🧽	porozno, pranje, spužva, upijanje, čišćenje
 🧯	gašenje vatre, požar, vatrogasni aparat
 🛒	kolica, kolica za kupnju, kupnja, kupovanje
 🚬	cigareta, pušenje
 ⚰️	lijes, smrt
+🪦	grob, groblje, nadgrobni spomenik
 ⚱️	pogreb, smrt, urna
 🗿	kipovi, lice, moai, rapa nui
+🪧	demonstracije, protest, transparent, znak
 🏧	bankomat, znak za bankomat
 🚮	koš za otpatke, otpad, znak za koš za otpatke
 🚰	pitka, pitka voda, piće, voda
@@ -2625,8 +2901,22 @@
 📴	isključen mobilni telefon, isključeno, mobilni telefon, mobitel, telefon
 ♀️	ženski simbol
 ♂️	muški simbol
-⚕️	Asklepijev štap, simbol medicine
+⚧️	simbol transrodnosti, transrodnost
+✖️	množenje, operator, otkaži, pomnoži, x, znak množenja, ×
+➕	matematika, plus, znak plus
+➖	matematika, minus, znak minus
+➗	dijeljenje, matematika, znak dijeljenja
 ♾️	beskonačnost, beskrajno, univerzalno, zauvijek
+‼️	dvostruki uskličnik, interpunkcija, uskličnik, znak
+⁉️	interpunkcija, pitanje, upitnik, uskličnik, uskličnik-upitnik, znak
+❓️	interpunkcija, pitanje, upitnik, znak
+❔	bijeli upitnik, interpunkcija, obris, pitanje, znak
+❕	bijeli uskličnik, interpunkcija, obris, uskličnik, znak
+❗️	interpunkcija, uskličnik, znak
+〰️	crta, interpunkcija, valovita crta, valovito
+💱	banka, mjenjačnica, novac, valuta
+💲	dolar, masno otisnuti znak dolara, novac, valuta
+⚕️	Asklepijev štap, simbol medicine
 ♻️	recikliranje, simbol recikliranja
 ⚜	fleur-de-lis, heraldički ljiljan
 🔱	alat, brod, grb, sidro, trozubac, znak trozupca
@@ -2636,25 +2926,14 @@
 ✅	gumb, kvačica, oznaka, tipka s kvačicom, ✓
 ☑️	okvir, potvrda, potvrdni okvir s kvačicom, ✓
 ✔️	kvačica, oznaka, ✓
-✖️	množenje, operator, otkaži, pomnoži, x, znak množenja, ×
 ❌	križić, množenje, odustajanje, oznaka križića, puta, x, znak
 ❎	kvadrat, tipka s oznakom križića, znak
-➕	masno otisnuti znak plus, matematika, plus
-➖	masno otisnuti znak minus, matematika, minus
-➗	dijeljenje, masno otisnuti znak dijeljenja, matematika
 ➰	petlja, vitica, vitičasta petlja
 ➿	dvostruka vitičasta petlja, dvostruko, petlja, vitica
 〽️	djelomično, oznaka djelomične alternacije, znak
 ✳️	osmerokraka zvjezdica, zvjezdica
 ✴️	osmerokraka zvijezda, zvijezda
 ❇️	zvjezdica
-‼️	dvostruki uskličnik, interpunkcija, uskličnik, znak
-⁉️	interpunkcija, pitanje, upitnik, uskličnik, uskličnik-upitnik, znak
-❓️	interpunkcija, pitanje, upitnik, znak
-❔	bijeli upitnik, interpunkcija, obris, pitanje, znak
-❕	bijeli uskličnik, interpunkcija, obris, uskličnik, znak
-❗️	interpunkcija, uskličnik, znak
-〰️	crta, interpunkcija, valovita crta, valovito
 ©️	autorska prava, copyright, znak za autorska prava
 ®️	registrirano, znak za registrirano
 ™️	tm, zaštitni znak, zaštitni znak tm, znak
@@ -2750,6 +3029,7 @@
 🏴	crna zastava, vijorenje
 🏳️	bijela zastava, vijorenje
 🏳‍🌈	duga, zastava, zastava duginih boja
+🏳‍⚧	bijela, ružičasta, svjetloplava, transrodne, zastava, zastava pokreta transrodnih osoba
 🏴‍☠	Jolly Roger, blago, gusar, gusarska zastava
 🇦🇨	zastava, zastava: Otok Ascension
 🇦🇩	zastava, zastava: Andora
@@ -2936,7 +3216,7 @@
 🇵🇭	zastava, zastava: Filipini
 🇵🇰	zastava, zastava: Pakistan
 🇵🇱	zastava, zastava: Poljska
-🇵🇲	zastava, zastava: Sveti Petar i Mikelon
+🇵🇲	zastava, zastava: Saint-Pierre-et-Miquelon
 🇵🇳	zastava, zastava: Otoci Pitcairn
 🇵🇷	zastava, zastava: Portoriko
 🇵🇸	zastava, zastava: Palestinsko područje
@@ -2969,7 +3249,7 @@
 🇸🇻	zastava, zastava: Salvador
 🇸🇽	zastava, zastava: Sint Maarten
 🇸🇾	zastava, zastava: Sirija
-🇸🇿	zastava, zastava: Svazi
+🇸🇿	zastava, zastava: Esvatini
 🇹🇦	zastava, zastava: Tristan da Cunha
 🇹🇨	zastava, zastava: Otoci Turks i Caicos
 🇹🇩	zastava, zastava: Čad

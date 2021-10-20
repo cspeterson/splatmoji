@@ -19,6 +19,7 @@
 ☺️	garis luar, muka, muka tersenyum, santai, senyum
 😚	cium, mata, muka, muka memberi ciuman dengan mata tertutup, tertutup
 😙	cium, mata, muka, muka memberi ciuman dengan mata tersenyum, senyum
+🥲	airmata, bangga, bersyukur, lega, muka tersenyum dengan airmata, tersentuh, tersenyum sedikit
 😋	lazat, menikmati, muka, muka menikmati makanan lazat, senyum, um, yum
 😛	lidah, muka, muka menjelir lidah
 😜	jenaka, kenyit, lidah, mata, muka, muka mengenyit, muka menjelir lidah dan mengenyit mata
@@ -57,6 +58,7 @@
 🤯	kepala meletup, terkejut
 🤠	koboi, muka, muka koboi, topi
 🥳	hon, muka berparti, parti, perayaan, topi
+🥸	cermin mata, hidung, menyamar, muka, muka samaran, penyamaran
 😎	bergaya, kaca mata hitam, muka, muka tersenyum berkaca mata hitam, suria, terang
 🤓	gek, muka, muka nerda, nerda
 🧐	muka dengan cermin mata satu kanta, tersumbat
@@ -183,6 +185,12 @@
 👌🏽	okey, simbol OK, simbol OK: ton kulit sederhana, tangan, ton kulit sederhana
 👌🏾	okey, simbol OK, simbol OK: ton kulit sederhana gelap, tangan, ton kulit sederhana gelap
 👌🏿	okey, simbol OK, simbol OK: ton kulit gelap, tangan, ton kulit gelap
+🤌	gerak isyarat tangan, jari, jari mencubit, mencubit, sarkastik, soal siasat
+🤌🏻	gerak isyarat tangan, jari, jari mencubit: ton kulit cerah, mencubit, sarkastik, soal siasat, ton kulit cerah
+🤌🏼	gerak isyarat tangan, jari, jari mencubit: ton kulit sederhana cerah, mencubit, sarkastik, soal siasat, ton kulit sederhana cerah
+🤌🏽	gerak isyarat tangan, jari, jari mencubit: ton kulit sederhana, mencubit, sarkastik, soal siasat, ton kulit sederhana
+🤌🏾	gerak isyarat tangan, jari, jari mencubit: ton kulit sederhana gelap, mencubit, sarkastik, soal siasat, ton kulit sederhana gelap
+🤌🏿	gerak isyarat tangan, jari, jari mencubit: ton kulit gelap, mencubit, sarkastik, soal siasat, ton kulit gelap
 🤏	sedikit, tangan mencubit
 🤏🏻	sedikit, tangan mencubit, tangan mencubit: ton kulit cerah, ton kulit cerah
 🤏🏼	sedikit, tangan mencubit, tangan mencubit: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -231,12 +239,12 @@
 👉🏽	belakang tangan, jari telunjuk tunjuk kanan, jari telunjuk tunjuk kanan: ton kulit sederhana, ton kulit sederhana, tunjuk
 👉🏾	belakang tangan, jari telunjuk tunjuk kanan, jari telunjuk tunjuk kanan: ton kulit sederhana gelap, ton kulit sederhana gelap, tunjuk
 👉🏿	belakang tangan, jari telunjuk tunjuk kanan, jari telunjuk tunjuk kanan: ton kulit gelap, ton kulit gelap, tunjuk
-👆️	atas, badan, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk tunjuk hala ke atas, tangan, telunjuk, tunjuk
-👆🏻	atas, badan, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit cerah, tangan, telunjuk, ton kulit cerah, tunjuk
-👆🏼	atas, badan, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit sederhana cerah, tangan, telunjuk, ton kulit sederhana cerah, tunjuk
-👆🏽	atas, badan, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit sederhana, tangan, telunjuk, ton kulit sederhana, tunjuk
-👆🏾	atas, badan, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit sederhana gelap, tangan, telunjuk, ton kulit sederhana gelap, tunjuk
-👆🏿	atas, badan, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit gelap, tangan, telunjuk, ton kulit gelap, tunjuk
+👆️	atas, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk menghala ke atas, jari telunjuk tunjuk hala ke atas, tangan, tunjuk
+👆🏻	atas, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk menghala ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit cerah, tangan, ton kulit cerah, tunjuk
+👆🏼	atas, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk menghala ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit sederhana cerah, tangan, ton kulit sederhana cerah, tunjuk
+👆🏽	atas, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk menghala ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit sederhana, tangan, ton kulit sederhana, tunjuk
+👆🏾	atas, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk menghala ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit sederhana gelap, tangan, ton kulit sederhana gelap, tunjuk
+👆🏿	atas, belakang tangan, jari, jari telunjuk belakang tangan menunjuk ke atas, jari telunjuk menghala ke atas, jari telunjuk tunjuk hala ke atas, jari telunjuk tunjuk hala ke atas: ton kulit gelap, tangan, ton kulit gelap, tunjuk
 🖕	badan, jari, jari hantu, tangan
 🖕🏻	badan, jari, jari hantu, jari hantu: ton kulit cerah, tangan, ton kulit cerah
 🖕🏼	badan, jari, jari hantu, jari hantu: ton kulit sederhana cerah, tangan, ton kulit sederhana cerah
@@ -340,12 +348,12 @@
 🤳🏽	kamera, selfie, swafoto, swafoto: ton kulit sederhana, telefon, ton kulit sederhana
 🤳🏾	kamera, selfie, swafoto, swafoto: ton kulit sederhana gelap, telefon, ton kulit sederhana gelap
 🤳🏿	kamera, selfie, swafoto, swafoto: ton kulit gelap, telefon, ton kulit gelap
-💪	bisep, bisep dilentur, biseps dilenturtegang, komik, lentur, otot
-💪🏻	bisep, bisep dilentur, biseps dilenturtegang, biseps dilenturtegang: ton kulit cerah, komik, lentur, otot, ton kulit cerah
-💪🏼	bisep, bisep dilentur, biseps dilenturtegang, biseps dilenturtegang: ton kulit sederhana cerah, komik, lentur, otot, ton kulit sederhana cerah
-💪🏽	bisep, bisep dilentur, biseps dilenturtegang, biseps dilenturtegang: ton kulit sederhana, komik, lentur, otot, ton kulit sederhana
-💪🏾	bisep, bisep dilentur, biseps dilenturtegang, biseps dilenturtegang: ton kulit sederhana gelap, komik, lentur, otot, ton kulit sederhana gelap
-💪🏿	bisep, bisep dilentur, biseps dilenturtegang, biseps dilenturtegang: ton kulit gelap, komik, lentur, otot, ton kulit gelap
+💪	bisep, biseps dilenturtegang, komik, lentur
+💪🏻	bisep, biseps dilenturtegang, biseps dilenturtegang: ton kulit cerah, komik, lentur, ton kulit cerah
+💪🏼	bisep, biseps dilenturtegang, biseps dilenturtegang: ton kulit sederhana cerah, komik, lentur, ton kulit sederhana cerah
+💪🏽	bisep, biseps dilenturtegang, biseps dilenturtegang: ton kulit sederhana, komik, lentur, ton kulit sederhana
+💪🏾	bisep, biseps dilenturtegang, biseps dilenturtegang: ton kulit sederhana gelap, komik, lentur, ton kulit sederhana gelap
+💪🏿	bisep, biseps dilenturtegang, biseps dilenturtegang: ton kulit gelap, komik, lentur, ton kulit gelap
 🦾	kebolehsampaian, lengan mekanikal, prostetik
 🦿	kaki mekanikal, kebolehsampaian, prostetik
 🦵	bahagian kaki, kaki, tendang
@@ -379,6 +387,8 @@
 👃🏾	badan, hidung, hidung: ton kulit sederhana gelap, ton kulit sederhana gelap
 👃🏿	badan, hidung, hidung: ton kulit gelap, ton kulit gelap
 🧠	otak, pintar
+🫀	degupan jantung, nadi, organ, organ jantung, pusat
+🫁	nafas, organ, paru-paru, penghembusan, penyedutan, pernafasan, respirasi
 🦷	doktor gigi, gigi
 🦴	rangka, tulang
 👀	badan, mata, muka, sepasang mata
@@ -421,48 +431,72 @@
 👱🏽	orang berambut perang, orang: rambut perang, orang: ton kulit sederhana dan rambut perang, perang, rambut, ton kulit sederhana
 👱🏾	orang berambut perang, orang: rambut perang, orang: ton kulit sederhana gelap dan rambut perang, perang, rambut, ton kulit sederhana gelap
 👱🏿	orang berambut perang, orang: rambut perang, orang: ton kulit gelap dan rambut perang, perang, rambut, ton kulit gelap
-👨	lelaki
-👨🏻	lelaki, lelaki: ton kulit cerah, ton kulit cerah
-👨🏼	lelaki, lelaki: ton kulit sederhana cerah, ton kulit sederhana cerah
-👨🏽	lelaki, lelaki: ton kulit sederhana, ton kulit sederhana
-👨🏾	lelaki, lelaki: ton kulit sederhana gelap, ton kulit sederhana gelap
-👨🏿	lelaki, lelaki: ton kulit gelap, ton kulit gelap
-🧔	janggut, lelaki, orang, orang: berjanggut
-🧔🏻	berjanggut, janggut, lelaki, orang, orang: berjanggut, orang: ton kulit cerah dan berjanggut, ton kulit cerah
-🧔🏼	berjanggut, janggut, lelaki, orang, orang: berjanggut, orang: ton kulit sederhana cerah dan berjanggut, ton kulit sederhana cerah
-🧔🏽	berjanggut, janggut, lelaki, orang, orang: berjanggut, orang: ton kulit sederhana dan berjanggut, ton kulit sederhana
-🧔🏾	berjanggut, janggut, lelaki, orang, orang: berjanggut, orang: ton kulit sederhana gelap dan berjanggut, ton kulit sederhana gelap
-🧔🏿	berjanggut, janggut, lelaki, orang, orang: berjanggut, orang: ton kulit gelap dan berjanggut, ton kulit gelap
-👱‍♂	lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, perang muda, rambut
-👱🏻‍♂	berambut perang muda, lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: ton kulit cerah dan berambut perang muda, perang muda, rambut, ton kulit cerah
-👱🏼‍♂	berambut perang muda, lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: ton kulit sederhana cerah dan berambut perang muda, perang muda, rambut, ton kulit sederhana cerah
-👱🏽‍♂	berambut perang muda, lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: ton kulit sederhana dan berambut perang muda, perang muda, rambut, ton kulit sederhana
-👱🏾‍♂	berambut perang muda, lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: ton kulit sederhana gelap dan berambut perang muda, perang muda, rambut, ton kulit sederhana gelap
-👱🏿‍♂	berambut perang muda, lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: ton kulit gelap dan berambut perang muda, perang muda, rambut, ton kulit gelap
-👨‍🦰	lelaki, lelaki: rambut merah, rambut merah
-👨🏻‍🦰	lelaki, lelaki: ton kulit cerah dan rambut merah, rambut merah, ton kulit cerah
-👨🏼‍🦰	lelaki, lelaki: ton kulit sederhana cerah dan rambut merah, rambut merah, ton kulit sederhana cerah
-👨🏽‍🦰	lelaki, lelaki: ton kulit sederhana dan rambut merah, rambut merah, ton kulit sederhana
-👨🏾‍🦰	lelaki, lelaki: ton kulit sederhana gelap dan rambut merah, rambut merah, ton kulit sederhana gelap
-👨🏿‍🦰	lelaki, lelaki: ton kulit gelap dan rambut merah, rambut merah, ton kulit gelap
-👨‍🦱	lelaki, lelaki: rambut kerinting, rambut kerinting
-👨🏻‍🦱	lelaki, lelaki: ton kulit cerah dan rambut kerinting, rambut kerinting, ton kulit cerah
-👨🏼‍🦱	lelaki, lelaki: ton kulit sederhana cerah dan rambut kerinting, rambut kerinting, ton kulit sederhana cerah
-👨🏽‍🦱	lelaki, lelaki: ton kulit sederhana dan rambut kerinting, rambut kerinting, ton kulit sederhana
-👨🏾‍🦱	lelaki, lelaki: ton kulit sederhana gelap dan rambut kerinting, rambut kerinting, ton kulit sederhana gelap
-👨🏿‍🦱	lelaki, lelaki: ton kulit gelap dan rambut kerinting, rambut kerinting, ton kulit gelap
-👨‍🦳	lelaki, lelaki: rambut putih, rambut putih
-👨🏻‍🦳	lelaki, lelaki: ton kulit cerah dan rambut putih, rambut putih, ton kulit cerah
-👨🏼‍🦳	lelaki, lelaki: ton kulit sederhana cerah dan rambut putih, rambut putih, ton kulit sederhana cerah
-👨🏽‍🦳	lelaki, lelaki: ton kulit sederhana dan rambut putih, rambut putih, ton kulit sederhana
-👨🏾‍🦳	lelaki, lelaki: ton kulit sederhana gelap dan rambut putih, rambut putih, ton kulit sederhana gelap
-👨🏿‍🦳	lelaki, lelaki: ton kulit gelap dan rambut putih, rambut putih, ton kulit gelap
-👨‍🦲	botak, lelaki, lelaki: botak
-👨🏻‍🦲	botak, lelaki, lelaki: ton kulit cerah dan botak, ton kulit cerah
-👨🏼‍🦲	botak, lelaki, lelaki: ton kulit sederhana cerah dan botak, ton kulit sederhana cerah
-👨🏽‍🦲	botak, lelaki, lelaki: ton kulit sederhana dan botak, ton kulit sederhana
-👨🏾‍🦲	botak, lelaki, lelaki: ton kulit sederhana gelap dan botak, ton kulit sederhana gelap
-👨🏿‍🦲	botak, lelaki, lelaki: ton kulit gelap dan botak, ton kulit gelap
+🧑‍🦰	dewasa, dewasa: rambut merah, gender-neutral, rambut merah
+🧑🏻‍🦰	dewasa, dewasa: ton kulit cerah dan rambut merah, gender-neutral, rambut merah, ton kulit cerah
+🧑🏼‍🦰	dewasa, dewasa: ton kulit sederhana cerah dan rambut merah, gender-neutral, rambut merah, ton kulit sederhana cerah
+🧑🏽‍🦰	dewasa, dewasa: ton kulit sederhana dan rambut merah, gender-neutral, rambut merah, ton kulit sederhana
+🧑🏾‍🦰	dewasa, dewasa: ton kulit sederhana gelap dan rambut merah, gender-neutral, rambut merah, ton kulit sederhana gelap
+🧑🏿‍🦰	dewasa, dewasa: ton kulit gelap dan rambut merah, gender-neutral, rambut merah, ton kulit gelap
+🧑‍🦱	dewasa, dewasa: rambut kerinting, gender-neutral, rambut kerinting
+🧑🏻‍🦱	dewasa, dewasa: ton kulit cerah dan rambut kerinting, gender-neutral, rambut kerinting, ton kulit cerah
+🧑🏼‍🦱	dewasa, dewasa: ton kulit sederhana cerah dan rambut kerinting, gender-neutral, rambut kerinting, ton kulit sederhana cerah
+🧑🏽‍🦱	dewasa, dewasa: ton kulit sederhana dan rambut kerinting, gender-neutral, rambut kerinting, ton kulit sederhana
+🧑🏾‍🦱	dewasa, dewasa: ton kulit sederhana gelap dan rambut kerinting, gender-neutral, rambut kerinting, ton kulit sederhana gelap
+🧑🏿‍🦱	dewasa, dewasa: ton kulit gelap dan rambut kerinting, gender-neutral, rambut kerinting, ton kulit gelap
+🧑‍🦳	dewasa, dewasa: rambut putih, gender-neutral, rambut putih
+🧑🏻‍🦳	dewasa, dewasa: ton kulit cerah dan rambut putih, gender-neutral, rambut putih, ton kulit cerah
+🧑🏼‍🦳	dewasa, dewasa: ton kulit sederhana cerah dan rambut putih, gender-neutral, rambut putih, ton kulit sederhana cerah
+🧑🏽‍🦳	dewasa, dewasa: ton kulit sederhana dan rambut putih, gender-neutral, rambut putih, ton kulit sederhana
+🧑🏾‍🦳	dewasa, dewasa: ton kulit sederhana gelap dan rambut putih, gender-neutral, rambut putih, ton kulit sederhana gelap
+🧑🏿‍🦳	dewasa, dewasa: ton kulit gelap dan rambut putih, gender-neutral, rambut putih, ton kulit gelap
+🧑‍🦲	botak, dewasa, dewasa: botak, gender-neutral
+🧑🏻‍🦲	botak, dewasa, dewasa: ton kulit cerah dan botak, gender-neutral, ton kulit cerah
+🧑🏼‍🦲	botak, dewasa, dewasa: ton kulit sederhana cerah dan botak, gender-neutral, ton kulit sederhana cerah
+🧑🏽‍🦲	botak, dewasa, dewasa: ton kulit sederhana dan botak, gender-neutral, ton kulit sederhana
+🧑🏾‍🦲	botak, dewasa, dewasa: ton kulit sederhana gelap dan botak, gender-neutral, ton kulit sederhana gelap
+🧑🏿‍🦲	botak, dewasa, dewasa: ton kulit gelap dan botak, gender-neutral, ton kulit gelap
+👨	dewasa, lelaki
+👨🏻	dewasa, lelaki, lelaki: ton kulit cerah, ton kulit cerah
+👨🏼	dewasa, lelaki, lelaki: ton kulit sederhana cerah, ton kulit sederhana cerah
+👨🏽	dewasa, lelaki, lelaki: ton kulit sederhana, ton kulit sederhana
+👨🏾	dewasa, lelaki, lelaki: ton kulit sederhana gelap, ton kulit sederhana gelap
+👨🏿	dewasa, lelaki, lelaki: ton kulit gelap, ton kulit gelap
+🧔	janggut, lelaki, lelaki: janggut, orang
+🧔🏻	janggut, lelaki, lelaki: janggut, lelaki: ton kulit cerah dan janggut, orang, ton kulit cerah
+🧔🏼	janggut, lelaki, lelaki: janggut, lelaki: ton kulit sederhana cerah dan janggut, orang, ton kulit sederhana cerah
+🧔🏽	janggut, lelaki, lelaki: janggut, lelaki: ton kulit sederhana dan janggut, orang, ton kulit sederhana
+🧔🏾	janggut, lelaki, lelaki: janggut, lelaki: ton kulit sederhana gelap dan janggut, orang, ton kulit sederhana gelap
+🧔🏿	janggut, lelaki, lelaki: janggut, lelaki: ton kulit gelap dan janggut, orang, ton kulit gelap
+👱‍♂	lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: rambut perang, perang muda, rambut
+👱🏻‍♂	lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: rambut perang, lelaki: ton kulit cerah dan rambut perang, perang muda, rambut, rambut perang, ton kulit cerah
+👱🏼‍♂	lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: rambut perang, lelaki: ton kulit sederhana cerah dan rambut perang, perang muda, rambut, rambut perang, ton kulit sederhana cerah
+👱🏽‍♂	lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: rambut perang, lelaki: ton kulit sederhana dan rambut perang, perang muda, rambut, rambut perang, ton kulit sederhana
+👱🏾‍♂	lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: rambut perang, lelaki: ton kulit sederhana gelap dan rambut perang, perang muda, rambut, rambut perang, ton kulit sederhana gelap
+👱🏿‍♂	lelaki, lelaki berambut perang muda, lelaki: berambut perang muda, lelaki: rambut perang, lelaki: ton kulit gelap dan rambut perang, perang muda, rambut, rambut perang, ton kulit gelap
+👨‍🦰	dewasa, lelaki, lelaki: rambut merah, rambut merah
+👨🏻‍🦰	dewasa, lelaki, lelaki: ton kulit cerah dan rambut merah, rambut merah, ton kulit cerah
+👨🏼‍🦰	dewasa, lelaki, lelaki: ton kulit sederhana cerah dan rambut merah, rambut merah, ton kulit sederhana cerah
+👨🏽‍🦰	dewasa, lelaki, lelaki: ton kulit sederhana dan rambut merah, rambut merah, ton kulit sederhana
+👨🏾‍🦰	dewasa, lelaki, lelaki: ton kulit sederhana gelap dan rambut merah, rambut merah, ton kulit sederhana gelap
+👨🏿‍🦰	dewasa, lelaki, lelaki: ton kulit gelap dan rambut merah, rambut merah, ton kulit gelap
+👨‍🦱	dewasa, lelaki, lelaki: rambut kerinting, rambut kerinting
+👨🏻‍🦱	dewasa, lelaki, lelaki: ton kulit cerah dan rambut kerinting, rambut kerinting, ton kulit cerah
+👨🏼‍🦱	dewasa, lelaki, lelaki: ton kulit sederhana cerah dan rambut kerinting, rambut kerinting, ton kulit sederhana cerah
+👨🏽‍🦱	dewasa, lelaki, lelaki: ton kulit sederhana dan rambut kerinting, rambut kerinting, ton kulit sederhana
+👨🏾‍🦱	dewasa, lelaki, lelaki: ton kulit sederhana gelap dan rambut kerinting, rambut kerinting, ton kulit sederhana gelap
+👨🏿‍🦱	dewasa, lelaki, lelaki: ton kulit gelap dan rambut kerinting, rambut kerinting, ton kulit gelap
+👨‍🦳	dewasa, lelaki, lelaki: rambut putih, rambut putih
+👨🏻‍🦳	dewasa, lelaki, lelaki: ton kulit cerah dan rambut putih, rambut putih, ton kulit cerah
+👨🏼‍🦳	dewasa, lelaki, lelaki: ton kulit sederhana cerah dan rambut putih, rambut putih, ton kulit sederhana cerah
+👨🏽‍🦳	dewasa, lelaki, lelaki: ton kulit sederhana dan rambut putih, rambut putih, ton kulit sederhana
+👨🏾‍🦳	dewasa, lelaki, lelaki: ton kulit sederhana gelap dan rambut putih, rambut putih, ton kulit sederhana gelap
+👨🏿‍🦳	dewasa, lelaki, lelaki: ton kulit gelap dan rambut putih, rambut putih, ton kulit gelap
+👨‍🦲	botak, dewasa, lelaki, lelaki: botak
+👨🏻‍🦲	botak, dewasa, lelaki, lelaki: ton kulit cerah dan botak, ton kulit cerah
+👨🏼‍🦲	botak, dewasa, lelaki, lelaki: ton kulit sederhana cerah dan botak, ton kulit sederhana cerah
+👨🏽‍🦲	botak, dewasa, lelaki, lelaki: ton kulit sederhana dan botak, ton kulit sederhana
+👨🏾‍🦲	botak, dewasa, lelaki, lelaki: ton kulit sederhana gelap dan botak, ton kulit sederhana gelap
+👨🏿‍🦲	botak, dewasa, lelaki, lelaki: ton kulit gelap dan botak, ton kulit gelap
 👩	perempuan, wanita
 👩🏻	perempuan, perempuan: ton kulit cerah, ton kulit cerah, wanita
 👩🏼	perempuan, perempuan: ton kulit sederhana cerah, ton kulit sederhana cerah, wanita
@@ -697,6 +731,12 @@
 🤷🏽‍♀	angkat bahu, kejahilan, perempuan, perempuan mengangkat bahu, perempuan mengangkat bahu: ton kulit sederhana, sangsi, tidak peduli, ton kulit sederhana, wanita
 🤷🏾‍♀	angkat bahu, kejahilan, perempuan, perempuan mengangkat bahu, perempuan mengangkat bahu: ton kulit sederhana gelap, sangsi, tidak peduli, ton kulit sederhana gelap, wanita
 🤷🏿‍♀	angkat bahu, kejahilan, perempuan, perempuan mengangkat bahu, perempuan mengangkat bahu: ton kulit gelap, sangsi, tidak peduli, ton kulit gelap, wanita
+🧑‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan, penjagaan kesihatan
+🧑🏻‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan, pekerja kesihatan: ton kulit cerah, penjagaan kesihatan, ton kulit cerah
+🧑🏼‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan, pekerja kesihatan: ton kulit sederhana cerah, penjagaan kesihatan, ton kulit sederhana cerah
+🧑🏽‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan, pekerja kesihatan: ton kulit sederhana, penjagaan kesihatan, ton kulit sederhana
+🧑🏾‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan, pekerja kesihatan: ton kulit sederhana gelap, penjagaan kesihatan, ton kulit sederhana gelap
+🧑🏿‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan, pekerja kesihatan: ton kulit gelap, penjagaan kesihatan, ton kulit gelap
 👨‍⚕	ahli terapi, doktor, jururawat, lelaki, pekerja kesihatan lelaki, penjagaan kesihatan
 👨🏻‍⚕	ahli terapi, doktor, jururawat, lelaki, pekerja kesihatan lelaki, pekerja kesihatan lelaki: ton kulit cerah, penjagaan kesihatan, ton kulit cerah
 👨🏼‍⚕	ahli terapi, doktor, jururawat, lelaki, pekerja kesihatan lelaki, pekerja kesihatan lelaki: ton kulit sederhana cerah, penjagaan kesihatan, ton kulit sederhana cerah
@@ -709,6 +749,12 @@
 👩🏽‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan wanita, pekerja kesihatan wanita: ton kulit sederhana, penjagaan kesihatan, perempuan, ton kulit sederhana
 👩🏾‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan wanita, pekerja kesihatan wanita: ton kulit sederhana gelap, penjagaan kesihatan, perempuan, ton kulit sederhana gelap
 👩🏿‍⚕	ahli terapi, doktor, jururawat, pekerja kesihatan wanita, pekerja kesihatan wanita: ton kulit gelap, penjagaan kesihatan, perempuan, ton kulit gelap
+🧑‍🎓	graduan, pelajar
+🧑🏻‍🎓	graduan, pelajar, pelajar: ton kulit cerah, ton kulit cerah
+🧑🏼‍🎓	graduan, pelajar, pelajar: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🎓	graduan, pelajar, pelajar: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🎓	graduan, pelajar, pelajar: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🎓	graduan, pelajar, pelajar: ton kulit gelap, ton kulit gelap
 👨‍🎓	graduan, lelaki, pelajar, pelajar lelaki
 👨🏻‍🎓	graduan, lelaki, pelajar, pelajar lelaki: ton kulit cerah, ton kulit cerah
 👨🏼‍🎓	graduan, lelaki, pelajar, pelajar lelaki: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -721,6 +767,12 @@
 👩🏽‍🎓	graduan, pelajar, pelajar wanita: ton kulit sederhana, perempuan, ton kulit sederhana, wanita
 👩🏾‍🎓	graduan, pelajar, pelajar wanita: ton kulit sederhana gelap, perempuan, ton kulit sederhana gelap, wanita
 👩🏿‍🎓	graduan, pelajar, pelajar wanita: ton kulit gelap, perempuan, ton kulit gelap, wanita
+🧑‍🏫	guru, pengajar, profesor
+🧑🏻‍🏫	guru, guru: ton kulit cerah, pengajar, profesor, ton kulit cerah
+🧑🏼‍🏫	guru, guru: ton kulit sederhana cerah, pengajar, profesor, ton kulit sederhana cerah
+🧑🏽‍🏫	guru, guru: ton kulit sederhana, pengajar, profesor, ton kulit sederhana
+🧑🏾‍🏫	guru, guru: ton kulit sederhana gelap, pengajar, profesor, ton kulit sederhana gelap
+🧑🏿‍🏫	guru, guru: ton kulit gelap, pengajar, profesor, ton kulit gelap
 👨‍🏫	guru, guru lelaki, lelaki, pengajar, profesor
 👨🏻‍🏫	guru, guru lelaki: ton kulit cerah, lelaki, pengajar, profesor, ton kulit cerah
 👨🏼‍🏫	guru, guru lelaki: ton kulit sederhana cerah, lelaki, pengajar, profesor, ton kulit sederhana cerah
@@ -733,6 +785,12 @@
 👩🏽‍🏫	guru, guru wanita: ton kulit sederhana, pengajar, profesor, ton kulit sederhana, wanita
 👩🏾‍🏫	guru, guru wanita: ton kulit sederhana gelap, pengajar, profesor, ton kulit sederhana gelap, wanita
 👩🏿‍🏫	guru, guru wanita: ton kulit gelap, pengajar, profesor, ton kulit gelap, wanita
+🧑‍⚖	hakim, neraca
+🧑🏻‍⚖	hakim, hakim: ton kulit cerah, neraca, ton kulit cerah
+🧑🏼‍⚖	hakim, hakim: ton kulit sederhana cerah, neraca, ton kulit sederhana cerah
+🧑🏽‍⚖	hakim, hakim: ton kulit sederhana, neraca, ton kulit sederhana
+🧑🏾‍⚖	hakim, hakim: ton kulit sederhana gelap, neraca, ton kulit sederhana gelap
+🧑🏿‍⚖	hakim, hakim: ton kulit gelap, neraca, ton kulit gelap
 👨‍⚖	hakim, hakim lelaki, lelaki, neraca
 👨🏻‍⚖	hakim, hakim lelaki: ton kulit cerah, lelaki, neraca, ton kulit cerah
 👨🏼‍⚖	hakim, hakim lelaki: ton kulit sederhana cerah, lelaki, neraca, ton kulit sederhana cerah
@@ -745,6 +803,12 @@
 👩🏽‍⚖	hakim, hakim wanita: ton kulit sederhana, neraca, perempuan, ton kulit sederhana, wanita
 👩🏾‍⚖	hakim, hakim wanita: ton kulit sederhana gelap, neraca, perempuan, ton kulit sederhana gelap, wanita
 👩🏿‍⚖	hakim, hakim wanita: ton kulit gelap, neraca, perempuan, ton kulit gelap, wanita
+🧑‍🌾	pekebun, peladang ternak, petani
+🧑🏻‍🌾	pekebun, peladang ternak, petani, petani: ton kulit cerah, ton kulit cerah
+🧑🏼‍🌾	pekebun, peladang ternak, petani, petani: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🌾	pekebun, peladang ternak, petani, petani: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🌾	pekebun, peladang ternak, petani, petani: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🌾	pekebun, peladang ternak, petani, petani: ton kulit gelap, ton kulit gelap
 👨‍🌾	lelaki, pekebun, peladang ternak, petani, petani lelaki
 👨🏻‍🌾	lelaki, pekebun, peladang ternak, petani, petani lelaki: ton kulit cerah, ton kulit cerah
 👨🏼‍🌾	lelaki, pekebun, peladang ternak, petani, petani lelaki: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -757,6 +821,12 @@
 👩🏽‍🌾	pekebun, peladang ternak, perempuan, petani, petani wanita: ton kulit sederhana, ton kulit sederhana, wanita
 👩🏾‍🌾	pekebun, peladang ternak, perempuan, petani, petani wanita: ton kulit sederhana gelap, ton kulit sederhana gelap, wanita
 👩🏿‍🌾	pekebun, peladang ternak, perempuan, petani, petani wanita: ton kulit gelap, ton kulit gelap, wanita
+🧑‍🍳	cef, tukang masak
+🧑🏻‍🍳	cef, ton kulit cerah, tukang masak, tukang masak: ton kulit cerah
+🧑🏼‍🍳	cef, ton kulit sederhana cerah, tukang masak, tukang masak: ton kulit sederhana cerah
+🧑🏽‍🍳	cef, ton kulit sederhana, tukang masak, tukang masak: ton kulit sederhana
+🧑🏾‍🍳	cef, ton kulit sederhana gelap, tukang masak, tukang masak: ton kulit sederhana gelap
+🧑🏿‍🍳	cef, ton kulit gelap, tukang masak, tukang masak: ton kulit gelap
 👨‍🍳	cef, lelaki, tukang masak, tukang masak lelaki
 👨🏻‍🍳	cef, lelaki, ton kulit cerah, tukang masak, tukang masak lelaki, tukang masak lelaki: ton kulit cerah
 👨🏼‍🍳	cef, lelaki, ton kulit sederhana cerah, tukang masak, tukang masak lelaki, tukang masak lelaki: ton kulit sederhana cerah
@@ -769,6 +839,12 @@
 👩🏽‍🍳	cef, perempuan, ton kulit sederhana, tukang masak, tukang masak wanita, tukang masak wanita: ton kulit sederhana, wanita
 👩🏾‍🍳	cef, perempuan, ton kulit sederhana gelap, tukang masak, tukang masak wanita, tukang masak wanita: ton kulit sederhana gelap, wanita
 👩🏿‍🍳	cef, perempuan, ton kulit gelap, tukang masak, tukang masak wanita, tukang masak wanita: ton kulit gelap, wanita
+🧑‍🔧	juruelektrik, mekanik, tukang, tukang paip
+🧑🏻‍🔧	juruelektrik, mekanik, mekanik: ton kulit cerah, ton kulit cerah, tukang, tukang paip
+🧑🏼‍🔧	juruelektrik, mekanik, mekanik: ton kulit sederhana cerah, ton kulit sederhana cerah, tukang, tukang paip
+🧑🏽‍🔧	juruelektrik, mekanik, mekanik: ton kulit sederhana, ton kulit sederhana, tukang, tukang paip
+🧑🏾‍🔧	juruelektrik, mekanik, mekanik: ton kulit sederhana gelap, ton kulit sederhana gelap, tukang, tukang paip
+🧑🏿‍🔧	juruelektrik, mekanik, mekanik: ton kulit gelap, ton kulit gelap, tukang, tukang paip
 👨‍🔧	juruelektrik, lelaki, mekanik, mekanik lelaki, tukang, tukang paip
 👨🏻‍🔧	juruelektrik, lelaki, mekanik, mekanik lelaki: ton kulit cerah, ton kulit cerah, tukang, tukang paip
 👨🏼‍🔧	juruelektrik, lelaki, mekanik, mekanik lelaki: ton kulit sederhana cerah, ton kulit sederhana cerah, tukang, tukang paip
@@ -781,6 +857,12 @@
 👩🏽‍🔧	juruelektrik, mekanik, mekanik wanita: ton kulit sederhana, perempuan, ton kulit sederhana, tukang, tukang paip, wanita
 👩🏾‍🔧	juruelektrik, mekanik, mekanik wanita: ton kulit sederhana gelap, perempuan, ton kulit sederhana gelap, tukang, tukang paip, wanita
 👩🏿‍🔧	juruelektrik, mekanik, mekanik wanita: ton kulit gelap, perempuan, ton kulit gelap, tukang, tukang paip, wanita
+🧑‍🏭	industri, kilang, pekerja, pekerja kilang, pemasangan
+🧑🏻‍🏭	industri, kilang, pekerja, pekerja kilang: ton kulit cerah, pemasangan, ton kulit cerah
+🧑🏼‍🏭	industri, kilang, pekerja, pekerja kilang: ton kulit sederhana cerah, pemasangan, ton kulit sederhana cerah
+🧑🏽‍🏭	industri, kilang, pekerja, pekerja kilang: ton kulit sederhana, pemasangan, ton kulit sederhana
+🧑🏾‍🏭	industri, kilang, pekerja, pekerja kilang: ton kulit sederhana gelap, pemasangan, ton kulit sederhana gelap
+🧑🏿‍🏭	industri, kilang, pekerja, pekerja kilang: ton kulit gelap, pemasangan, ton kulit gelap
 👨‍🏭	industri, kilang, lelaki, pekerja, pekerja kilang lelaki, pemasangan
 👨🏻‍🏭	industri, kilang, lelaki, pekerja, pekerja kilang lelaki: ton kulit cerah, pemasangan, ton kulit cerah
 👨🏼‍🏭	industri, kilang, lelaki, pekerja, pekerja kilang lelaki: ton kulit sederhana cerah, pemasangan, ton kulit sederhana cerah
@@ -793,6 +875,12 @@
 👩🏽‍🏭	industri, kilang, pekerja, pekerja kilang wanita: ton kulit sederhana, pemasangan, perempuan, ton kulit sederhana, wanita
 👩🏾‍🏭	industri, kilang, pekerja, pekerja kilang wanita: ton kulit sederhana gelap, pemasangan, perempuan, ton kulit sederhana gelap, wanita
 👩🏿‍🏭	industri, kilang, pekerja, pekerja kilang wanita: ton kulit gelap, pemasangan, perempuan, ton kulit gelap, wanita
+🧑‍💼	arkitek, kolar putih, pekerja pejabat, pengurus, perniagaan
+🧑🏻‍💼	arkitek, kolar putih, pekerja pejabat, pekerja pejabat: ton kulit cerah, pengurus, perniagaan, ton kulit cerah
+🧑🏼‍💼	arkitek, kolar putih, pekerja pejabat, pekerja pejabat: ton kulit sederhana cerah, pengurus, perniagaan, ton kulit sederhana cerah
+🧑🏽‍💼	arkitek, kolar putih, pekerja pejabat, pekerja pejabat: ton kulit sederhana, pengurus, perniagaan, ton kulit sederhana
+🧑🏾‍💼	arkitek, kolar putih, pekerja pejabat, pekerja pejabat: ton kulit sederhana gelap, pengurus, perniagaan, ton kulit sederhana gelap
+🧑🏿‍💼	arkitek, kolar putih, pekerja pejabat, pekerja pejabat: ton kulit gelap, pengurus, perniagaan, ton kulit gelap
 👨‍💼	arkitek, kolar putih, lelaki, pejabat, pekerja pejabat lelaki, pengurus, perniagaan
 👨🏻‍💼	arkitek, kolar putih, lelaki, pejabat, pekerja pejabat lelaki, pekerja pejabat lelaki: ton kulit cerah, pengurus, perniagaan, ton kulit cerah
 👨🏼‍💼	arkitek, kolar putih, lelaki, pejabat, pekerja pejabat lelaki, pekerja pejabat lelaki: ton kulit sederhana cerah, pengurus, perniagaan, ton kulit sederhana cerah
@@ -805,6 +893,12 @@
 👩🏽‍💼	kolar putih, pekerja pejabat wanita, pekerja pejabat wanita: ton kulit sederhana, pengurus, ton kulit sederhana, urus niaga, wanita
 👩🏾‍💼	kolar putih, pekerja pejabat wanita, pekerja pejabat wanita: ton kulit sederhana gelap, pengurus, ton kulit sederhana gelap, urus niaga, wanita
 👩🏿‍💼	kolar putih, pekerja pejabat wanita, pekerja pejabat wanita: ton kulit gelap, pengurus, ton kulit gelap, urus niaga, wanita
+🧑‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis
+🧑🏻‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis: ton kulit cerah, ton kulit cerah
+🧑🏼‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis: ton kulit gelap, ton kulit gelap
 👨‍🔬	ahli biologi, ahli fizik, ahli kimia, ahli matematik, jurutera, lelaki, saintis, saintis lelaki
 👨🏻‍🔬	ahli biologi, ahli fizik, ahli kimia, ahli matematik, jurutera, lelaki, saintis, saintis lelaki: ton kulit cerah, ton kulit cerah
 👨🏼‍🔬	ahli biologi, ahli fizik, ahli kimia, ahli matematik, jurutera, lelaki, saintis, saintis lelaki: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -817,6 +911,12 @@
 👩🏽‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis wanita: ton kulit sederhana, ton kulit sederhana, wanita
 👩🏾‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis wanita: ton kulit sederhana gelap, ton kulit sederhana gelap, wanita
 👩🏿‍🔬	ahli biologi, ahli fizik, ahli kimia, saintis, saintis wanita: ton kulit gelap, ton kulit gelap, wanita
+🧑‍💻	ahli teknologi, ahli teknologi wanita, pembangun, pencipta, pengekod
+🧑🏻‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi: ton kulit cerah, pembangun, pencipta, pengekod, ton kulit cerah
+🧑🏼‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi: ton kulit sederhana cerah, pembangun, pencipta, pengekod, ton kulit sederhana cerah
+🧑🏽‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi: ton kulit sederhana, pembangun, pencipta, pengekod, ton kulit sederhana
+🧑🏾‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi: ton kulit sederhana gelap, pembangun, pencipta, pengekod, ton kulit sederhana gelap
+🧑🏿‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi: ton kulit gelap, pembangun, pencipta, pengekod, ton kulit gelap
 👨‍💻	ahli teknologi, ahli teknologi lelaki, lelaki, pembangun, pencipta, pengekod, perisian
 👨🏻‍💻	ahli teknologi, ahli teknologi lelaki, ahli teknologi lelaki: ton kulit cerah, lelaki, pembangun, pencipta, pengekod, perisian, ton kulit cerah
 👨🏼‍💻	ahli teknologi, ahli teknologi lelaki, ahli teknologi lelaki: ton kulit sederhana cerah, lelaki, pembangun, pencipta, pengekod, perisian, ton kulit sederhana cerah
@@ -829,6 +929,12 @@
 👩🏽‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi wanita: ton kulit sederhana, pembangun, pencipta, pengekod, ton kulit sederhana, wanita
 👩🏾‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi wanita: ton kulit sederhana gelap, pembangun, pencipta, pengekod, ton kulit sederhana gelap, wanita
 👩🏿‍💻	ahli teknologi, ahli teknologi wanita, ahli teknologi wanita: ton kulit gelap, pembangun, pencipta, pengekod, ton kulit gelap, wanita
+🧑‍🎤	bintang, pelakon, penghibur, penyanyi, perempuan, rock
+🧑🏻‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi: ton kulit cerah, perempuan, rock, ton kulit cerah
+🧑🏼‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi: ton kulit sederhana cerah, perempuan, rock, ton kulit sederhana cerah
+🧑🏽‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi: ton kulit sederhana, perempuan, rock, ton kulit sederhana
+🧑🏾‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi: ton kulit sederhana gelap, perempuan, rock, ton kulit sederhana gelap
+🧑🏿‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi: ton kulit gelap, perempuan, rock, ton kulit gelap
 👨‍🎤	bintang, lelaki, pelakon, penghibur, penyanyi, penyanyi lelaki, rock
 👨🏻‍🎤	bintang, lelaki, pelakon, penghibur, penyanyi, penyanyi lelaki: ton kulit cerah, rock, ton kulit cerah
 👨🏼‍🎤	bintang, lelaki, pelakon, penghibur, penyanyi, penyanyi lelaki: ton kulit sederhana cerah, rock, ton kulit sederhana cerah
@@ -841,6 +947,12 @@
 👩🏽‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi wanita: ton kulit sederhana, perempuan, rock, ton kulit sederhana, wanita
 👩🏾‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi wanita: ton kulit sederhana gelap, perempuan, rock, ton kulit sederhana gelap, wanita
 👩🏿‍🎤	bintang, pelakon, penghibur, penyanyi, penyanyi wanita: ton kulit gelap, perempuan, rock, ton kulit gelap, wanita
+🧑‍🎨	artis, palet
+🧑🏻‍🎨	artis, artis: ton kulit cerah, palet, ton kulit cerah
+🧑🏼‍🎨	artis, artis: ton kulit sederhana cerah, palet, ton kulit sederhana cerah
+🧑🏽‍🎨	artis, artis: ton kulit sederhana, palet, ton kulit sederhana
+🧑🏾‍🎨	artis, artis: ton kulit sederhana gelap, palet, ton kulit sederhana gelap
+🧑🏿‍🎨	artis, artis: ton kulit gelap, palet, ton kulit gelap
 👨‍🎨	artis, lelaki, palet, pelukis lelaki
 👨🏻‍🎨	artis, lelaki, palet, pelukis lelaki, pelukis lelaki: ton kulit cerah, ton kulit cerah
 👨🏼‍🎨	artis, lelaki, palet, pelukis lelaki, pelukis lelaki: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -853,6 +965,12 @@
 👩🏽‍🎨	artis, palet, pelukis wanita, pelukis wanita: ton kulit sederhana, perempuan, ton kulit sederhana, wanita
 👩🏾‍🎨	artis, palet, pelukis wanita, pelukis wanita: ton kulit sederhana gelap, perempuan, ton kulit sederhana gelap, wanita
 👩🏿‍🎨	artis, palet, pelukis wanita, pelukis wanita: ton kulit gelap, perempuan, ton kulit gelap, wanita
+🧑‍✈	juruterbang, kapal terbang
+🧑🏻‍✈	juruterbang, juruterbang: ton kulit cerah, kapal terbang, ton kulit cerah
+🧑🏼‍✈	juruterbang, juruterbang: ton kulit sederhana cerah, kapal terbang, ton kulit sederhana cerah
+🧑🏽‍✈	juruterbang, juruterbang: ton kulit sederhana, kapal terbang, ton kulit sederhana
+🧑🏾‍✈	juruterbang, juruterbang: ton kulit sederhana gelap, kapal terbang, ton kulit sederhana gelap
+🧑🏿‍✈	juruterbang, juruterbang: ton kulit gelap, kapal terbang, ton kulit gelap
 👨‍✈	juruterbang, juruterbang lelaki, kapal terbang, lelaki
 👨🏻‍✈	juruterbang, juruterbang lelaki: ton kulit cerah, kapal terbang, lelaki, ton kulit cerah
 👨🏼‍✈	juruterbang, juruterbang lelaki: ton kulit sederhana cerah, kapal terbang, lelaki, ton kulit sederhana cerah
@@ -865,18 +983,30 @@
 👩🏽‍✈	juruterbang, juruterbang wanita: ton kulit sederhana, kapal terbang, perempuan, ton kulit sederhana, wanita
 👩🏾‍✈	juruterbang, juruterbang wanita: ton kulit sederhana gelap, kapal terbang, perempuan, ton kulit sederhana gelap, wanita
 👩🏿‍✈	juruterbang, juruterbang wanita: ton kulit gelap, kapal terbang, perempuan, ton kulit gelap, wanita
-👨‍🚀	angkasawan, lelaki, roket
-👨🏻‍🚀	angkasawan, angkasawan: ton kulit cerah, lelaki, roket, ton kulit cerah
-👨🏼‍🚀	angkasawan, angkasawan: ton kulit sederhana cerah, lelaki, roket, ton kulit sederhana cerah
-👨🏽‍🚀	angkasawan, angkasawan: ton kulit sederhana, lelaki, roket, ton kulit sederhana
-👨🏾‍🚀	angkasawan, angkasawan: ton kulit sederhana gelap, lelaki, roket, ton kulit sederhana gelap
-👨🏿‍🚀	angkasawan, angkasawan: ton kulit gelap, lelaki, roket, ton kulit gelap
+🧑‍🚀	angkasawan, roket
+🧑🏻‍🚀	angkasawan, angkasawan: ton kulit cerah, roket, ton kulit cerah
+🧑🏼‍🚀	angkasawan, angkasawan: ton kulit sederhana cerah, roket, ton kulit sederhana cerah
+🧑🏽‍🚀	angkasawan, angkasawan: ton kulit sederhana, roket, ton kulit sederhana
+🧑🏾‍🚀	angkasawan, angkasawan: ton kulit sederhana gelap, roket, ton kulit sederhana gelap
+🧑🏿‍🚀	angkasawan, angkasawan: ton kulit gelap, roket, ton kulit gelap
+👨‍🚀	angkasawan, angkasawan lelaki, lelaki, roket
+👨🏻‍🚀	angkasawan, angkasawan lelaki: ton kulit cerah, lelaki, roket, ton kulit cerah
+👨🏼‍🚀	angkasawan, angkasawan lelaki: ton kulit sederhana cerah, lelaki, roket, ton kulit sederhana cerah
+👨🏽‍🚀	angkasawan, angkasawan lelaki: ton kulit sederhana, lelaki, roket, ton kulit sederhana
+👨🏾‍🚀	angkasawan, angkasawan lelaki: ton kulit sederhana gelap, lelaki, roket, ton kulit sederhana gelap
+👨🏿‍🚀	angkasawan, angkasawan lelaki: ton kulit gelap, lelaki, roket, ton kulit gelap
 👩‍🚀	angkasawati, perempuan, roket, wanita
 👩🏻‍🚀	angkasawati, angkasawati: ton kulit cerah, perempuan, roket, ton kulit cerah, wanita
 👩🏼‍🚀	angkasawati, angkasawati: ton kulit sederhana cerah, perempuan, roket, ton kulit sederhana cerah, wanita
 👩🏽‍🚀	angkasawati, angkasawati: ton kulit sederhana, perempuan, roket, ton kulit sederhana, wanita
 👩🏾‍🚀	angkasawati, angkasawati: ton kulit sederhana gelap, perempuan, roket, ton kulit sederhana gelap, wanita
 👩🏿‍🚀	angkasawati, angkasawati: ton kulit gelap, perempuan, roket, ton kulit gelap, wanita
+🧑‍🚒	ahli bomba, trak bomba
+🧑🏻‍🚒	ahli bomba, ahli bomba: ton kulit cerah, ton kulit cerah, trak bomba
+🧑🏼‍🚒	ahli bomba, ahli bomba: ton kulit sederhana cerah, ton kulit sederhana cerah, trak bomba
+🧑🏽‍🚒	ahli bomba, ahli bomba: ton kulit sederhana, ton kulit sederhana, trak bomba
+🧑🏾‍🚒	ahli bomba, ahli bomba: ton kulit sederhana gelap, ton kulit sederhana gelap, trak bomba
+🧑🏿‍🚒	ahli bomba, ahli bomba: ton kulit gelap, ton kulit gelap, trak bomba
 👨‍🚒	ahli bomba, ahli bomba lelaki, lelaki, trak bomba
 👨🏻‍🚒	ahli bomba, ahli bomba lelaki, ahli bomba lelaki: ton kulit cerah, lelaki, ton kulit cerah, trak bomba
 👨🏼‍🚒	ahli bomba, ahli bomba lelaki, ahli bomba lelaki: ton kulit sederhana cerah, lelaki, ton kulit sederhana cerah, trak bomba
@@ -943,6 +1073,7 @@
 💂🏽‍♀	pengawal, pengawal wanita: ton kulit sederhana, perempuan, ton kulit sederhana, wanita
 💂🏾‍♀	pengawal, pengawal wanita: ton kulit sederhana gelap, perempuan, ton kulit sederhana gelap, wanita
 💂🏿‍♀	pengawal, pengawal wanita: ton kulit gelap, perempuan, ton kulit gelap, wanita
+🥷	ninja, pejuang, senyap-senyap, tersembunyi
 👷	pekerja, pekerja pembinaan, pembinaan, topi
 👷🏻	pekerja, pekerja pembinaan: ton kulit cerah, pembinaan, ton kulit cerah, topi
 👷🏼	pekerja, pekerja pembinaan: ton kulit sederhana cerah, pembinaan, ton kulit sederhana cerah, topi
@@ -1003,18 +1134,42 @@
 🧕🏽	hijab, mantila, tichel, ton kulit sederhana, tudung, wanita bertudung, wanita bertudung: ton kulit sederhana
 🧕🏾	hijab, mantila, tichel, ton kulit sederhana gelap, tudung, wanita bertudung, wanita bertudung: ton kulit sederhana gelap
 🧕🏿	hijab, mantila, tichel, ton kulit gelap, tudung, wanita bertudung, wanita bertudung: ton kulit gelap
-🤵	lelaki, lelaki bertuksedo, pengantin, tuksedo
-🤵🏻	lelaki, lelaki bertuksedo, lelaki bertuksedo: ton kulit cerah, pengantin, ton kulit cerah, tuksedo
-🤵🏼	lelaki, lelaki bertuksedo, lelaki bertuksedo: ton kulit sederhana cerah, pengantin, ton kulit sederhana cerah, tuksedo
-🤵🏽	lelaki, lelaki bertuksedo, lelaki bertuksedo: ton kulit sederhana, pengantin, ton kulit sederhana, tuksedo
-🤵🏾	lelaki, lelaki bertuksedo, lelaki bertuksedo: ton kulit sederhana gelap, pengantin, ton kulit sederhana gelap, tuksedo
-🤵🏿	lelaki, lelaki bertuksedo, lelaki bertuksedo: ton kulit gelap, pengantin, ton kulit gelap, tuksedo
-👰	pengantin perempuan, pengantin perempuan memakai vel, perkahwinan, vel
-👰🏻	pengantin perempuan, pengantin perempuan memakai vel, pengantin perempuan memakai vel: ton kulit cerah, perkahwinan, ton kulit cerah, vel
-👰🏼	pengantin perempuan, pengantin perempuan memakai vel, pengantin perempuan memakai vel: ton kulit sederhana cerah, perkahwinan, ton kulit sederhana cerah, vel
-👰🏽	pengantin perempuan, pengantin perempuan memakai vel, pengantin perempuan memakai vel: ton kulit sederhana, perkahwinan, ton kulit sederhana, vel
-👰🏾	pengantin perempuan, pengantin perempuan memakai vel, pengantin perempuan memakai vel: ton kulit sederhana gelap, perkahwinan, ton kulit sederhana gelap, vel
-👰🏿	pengantin perempuan, pengantin perempuan memakai vel, pengantin perempuan memakai vel: ton kulit gelap, perkahwinan, ton kulit gelap, vel
+🤵	orang, orang bertuksedo, pengantin, tuksedo
+🤵🏻	orang, orang bertuksedo, orang bertuksedo: ton kulit cerah, pengantin, ton kulit cerah, tuksedo
+🤵🏼	orang, orang bertuksedo, orang bertuksedo: ton kulit sederhana cerah, pengantin, ton kulit sederhana cerah, tuksedo
+🤵🏽	orang, orang bertuksedo, orang bertuksedo: ton kulit sederhana, pengantin, ton kulit sederhana, tuksedo
+🤵🏾	orang, orang bertuksedo, orang bertuksedo: ton kulit sederhana gelap, pengantin, ton kulit sederhana gelap, tuksedo
+🤵🏿	orang, orang bertuksedo, orang bertuksedo: ton kulit gelap, pengantin, ton kulit gelap, tuksedo
+🤵‍♂	lelaki, lelaki berpakaian tuksedo, lelaki bertuksedo, tuksedo
+🤵🏻‍♂	lelaki, lelaki berpakaian tuksedo, lelaki berpakaian tuksedo: ton kulit cerah, lelaki bertuksedo, ton kulit cerah, tuksedo
+🤵🏼‍♂	lelaki, lelaki berpakaian tuksedo, lelaki berpakaian tuksedo: ton kulit sederhana cerah, lelaki bertuksedo, ton kulit sederhana cerah, tuksedo
+🤵🏽‍♂	lelaki, lelaki berpakaian tuksedo, lelaki berpakaian tuksedo: ton kulit sederhana, lelaki bertuksedo, ton kulit sederhana, tuksedo
+🤵🏾‍♂	lelaki, lelaki berpakaian tuksedo, lelaki berpakaian tuksedo: ton kulit sederhana gelap, lelaki bertuksedo, ton kulit sederhana gelap, tuksedo
+🤵🏿‍♂	lelaki, lelaki berpakaian tuksedo, lelaki berpakaian tuksedo: ton kulit gelap, lelaki bertuksedo, ton kulit gelap, tuksedo
+🤵‍♀	tuksedo, wanita, wanita berpakaian tuksedo, wanita bertuksedo
+🤵🏻‍♀	ton kulit cerah, tuksedo, wanita, wanita berpakaian tuksedo, wanita berpakaian tuksedo: ton kulit cerah, wanita bertuksedo
+🤵🏼‍♀	ton kulit sederhana cerah, tuksedo, wanita, wanita berpakaian tuksedo, wanita berpakaian tuksedo: ton kulit sederhana cerah, wanita bertuksedo
+🤵🏽‍♀	ton kulit sederhana, tuksedo, wanita, wanita berpakaian tuksedo, wanita berpakaian tuksedo: ton kulit sederhana, wanita bertuksedo
+🤵🏾‍♀	ton kulit sederhana gelap, tuksedo, wanita, wanita berpakaian tuksedo, wanita berpakaian tuksedo: ton kulit sederhana gelap, wanita bertuksedo
+🤵🏿‍♀	ton kulit gelap, tuksedo, wanita, wanita berpakaian tuksedo, wanita berpakaian tuksedo: ton kulit gelap, wanita bertuksedo
+👰	orang, orang memakai vel, pengantin, perkahwinan, vel
+👰🏻	orang, orang memakai vel, orang memakai vel: ton kulit cerah, pengantin, perkahwinan, ton kulit cerah, vel
+👰🏼	orang, orang memakai vel, orang memakai vel: ton kulit sederhana cerah, pengantin, perkahwinan, ton kulit sederhana cerah, vel
+👰🏽	orang, orang memakai vel, orang memakai vel: ton kulit sederhana, pengantin, perkahwinan, ton kulit sederhana, vel
+👰🏾	orang, orang memakai vel, orang memakai vel: ton kulit sederhana gelap, pengantin, perkahwinan, ton kulit sederhana gelap, vel
+👰🏿	orang, orang memakai vel, orang memakai vel: ton kulit gelap, pengantin, perkahwinan, ton kulit gelap, vel
+👰‍♂	lelaki, lelaki memakai vel, vel
+👰🏻‍♂	lelaki, lelaki memakai vel, lelaki memakai vel: ton kulit cerah, ton kulit cerah, vel
+👰🏼‍♂	lelaki, lelaki memakai vel, lelaki memakai vel: ton kulit sederhana cerah, ton kulit sederhana cerah, vel
+👰🏽‍♂	lelaki, lelaki memakai vel, lelaki memakai vel: ton kulit sederhana, ton kulit sederhana, vel
+👰🏾‍♂	lelaki, lelaki memakai vel, lelaki memakai vel: ton kulit sederhana gelap, ton kulit sederhana gelap, vel
+👰🏿‍♂	lelaki, lelaki memakai vel, lelaki memakai vel: ton kulit gelap, ton kulit gelap, vel
+👰‍♀	vel, wanita, wanita memakai vel
+👰🏻‍♀	ton kulit cerah, vel, wanita, wanita memakai vel, wanita memakai vel: ton kulit cerah
+👰🏼‍♀	ton kulit sederhana cerah, vel, wanita, wanita memakai vel, wanita memakai vel: ton kulit sederhana cerah
+👰🏽‍♀	ton kulit sederhana, vel, wanita, wanita memakai vel, wanita memakai vel: ton kulit sederhana
+👰🏾‍♀	ton kulit sederhana gelap, vel, wanita, wanita memakai vel, wanita memakai vel: ton kulit sederhana gelap
+👰🏿‍♀	ton kulit gelap, vel, wanita, wanita memakai vel, wanita memakai vel: ton kulit gelap
 🤰	hamil, mengandung, wanita, wanita hamil
 🤰🏻	hamil, mengandung, ton kulit cerah, wanita, wanita hamil: ton kulit cerah
 🤰🏼	hamil, mengandung, ton kulit sederhana cerah, wanita, wanita hamil: ton kulit sederhana cerah
@@ -1027,6 +1182,24 @@
 🤱🏽	bayi, menyusu, menyusu badan, menyusu badan: ton kulit sederhana, payu dara, ton kulit sederhana
 🤱🏾	bayi, menyusu, menyusu badan, menyusu badan: ton kulit sederhana gelap, payu dara, ton kulit sederhana gelap
 🤱🏿	bayi, menyusu, menyusu badan, menyusu badan: ton kulit gelap, payu dara, ton kulit gelap
+👩‍🍼	bayi, menyusu, menyusui, wanita, wanita menyusui bayi
+👩🏻‍🍼	bayi, menyusu, menyusui, ton kulit cerah, wanita, wanita menyusui bayi: ton kulit cerah
+👩🏼‍🍼	bayi, menyusu, menyusui, ton kulit sederhana cerah, wanita, wanita menyusui bayi: ton kulit sederhana cerah
+👩🏽‍🍼	bayi, menyusu, menyusui, ton kulit sederhana, wanita, wanita menyusui bayi: ton kulit sederhana
+👩🏾‍🍼	bayi, menyusu, menyusui, ton kulit sederhana gelap, wanita, wanita menyusui bayi: ton kulit sederhana gelap
+👩🏿‍🍼	bayi, menyusu, menyusui, ton kulit gelap, wanita, wanita menyusui bayi: ton kulit gelap
+👨‍🍼	bayi, lelaki, lelaki menyusui bayi, memberikan susu, menyusui
+👨🏻‍🍼	bayi, lelaki, lelaki menyusui bayi: ton kulit cerah, memberikan susu, menyusui, ton kulit cerah
+👨🏼‍🍼	bayi, lelaki, lelaki menyusui bayi: ton kulit sederhana cerah, memberikan susu, menyusui, ton kulit sederhana cerah
+👨🏽‍🍼	bayi, lelaki, lelaki menyusui bayi: ton kulit sederhana, memberikan susu, menyusui, ton kulit sederhana
+👨🏾‍🍼	bayi, lelaki, lelaki menyusui bayi: ton kulit sederhana gelap, memberikan susu, menyusui, ton kulit sederhana gelap
+👨🏿‍🍼	bayi, lelaki, lelaki menyusui bayi: ton kulit gelap, memberikan susu, menyusui, ton kulit gelap
+🧑‍🍼	bayi, menyusu, menyusui, orang, orang menyusui bayi
+🧑🏻‍🍼	bayi, menyusu, menyusui, orang, orang menyusui bayi: ton kulit cerah, ton kulit cerah
+🧑🏼‍🍼	bayi, menyusu, menyusui, orang, orang menyusui bayi: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🍼	bayi, menyusu, menyusui, orang, orang menyusui bayi: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🍼	bayi, menyusu, menyusui, orang, orang menyusui bayi: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🍼	bayi, menyusu, menyusui, orang, orang menyusui bayi: ton kulit gelap, ton kulit gelap
 👼	bayi, cerita dongeng, fantasi, malaikat, muka, pari-pari bayi
 👼🏻	bayi, cerita dongeng, fantasi, malaikat, muka, pari-pari bayi, pari-pari bayi: ton kulit cerah, ton kulit cerah
 👼🏼	bayi, cerita dongeng, fantasi, malaikat, muka, pari-pari bayi, pari-pari bayi: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -1045,12 +1218,18 @@
 🤶🏽	Pn. Claus, Pn. Claus: ton kulit sederhana, ibu, krismas, puan claus, ton kulit sederhana
 🤶🏾	Pn. Claus, Pn. Claus: ton kulit sederhana gelap, ibu, krismas, puan claus, ton kulit sederhana gelap
 🤶🏿	Pn. Claus, Pn. Claus: ton kulit gelap, ibu, krismas, puan claus, ton kulit gelap
-🦸	adi wira, baik, sangat berkuasa, wira, wirawati
-🦸🏻	adi wira, adi wira: ton kulit cerah, baik, sangat berkuasa, ton kulit cerah, wira, wirawati
-🦸🏼	adi wira, adi wira: ton kulit sederhana cerah, baik, sangat berkuasa, ton kulit sederhana cerah, wira, wirawati
-🦸🏽	adi wira, adi wira: ton kulit sederhana, baik, sangat berkuasa, ton kulit sederhana, wira, wirawati
-🦸🏾	adi wira, adi wira: ton kulit sederhana gelap, baik, sangat berkuasa, ton kulit sederhana gelap, wira, wirawati
-🦸🏿	adi wira, adi wira: ton kulit gelap, baik, sangat berkuasa, ton kulit gelap, wira, wirawati
+🧑‍🎄	Claus, krismas, orang claus
+🧑🏻‍🎄	Claus, krismas, orang claus, orang claus: ton kulit cerah, ton kulit cerah
+🧑🏼‍🎄	Claus, krismas, orang claus, orang claus: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🎄	Claus, krismas, orang claus, orang claus: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🎄	Claus, krismas, orang claus, orang claus: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🎄	Claus, krismas, orang claus, orang claus: ton kulit gelap, ton kulit gelap
+🦸	adi wira, adiwira, baik, sangat berkuasa, wira, wirawati
+🦸🏻	adi wira, adiwira, adiwira: ton kulit cerah, baik, sangat berkuasa, ton kulit cerah, wira, wirawati
+🦸🏼	adi wira, adiwira, adiwira: ton kulit sederhana cerah, baik, sangat berkuasa, ton kulit sederhana cerah, wira, wirawati
+🦸🏽	adi wira, adiwira, adiwira: ton kulit sederhana, baik, sangat berkuasa, ton kulit sederhana, wira, wirawati
+🦸🏾	adi wira, adiwira, adiwira: ton kulit sederhana gelap, baik, sangat berkuasa, ton kulit sederhana gelap, wira, wirawati
+🦸🏿	adi wira, adiwira, adiwira: ton kulit gelap, baik, sangat berkuasa, ton kulit gelap, wira, wirawati
 🦸‍♂	adi wira lelaki, baik, lelaki, sangat berkuasa, wira
 🦸🏻‍♂	adi wira lelaki, adi wira lelaki: ton kulit cerah, baik, lelaki, sangat berkuasa, ton kulit cerah, wira
 🦸🏼‍♂	adi wira lelaki, adi wira lelaki: ton kulit sederhana cerah, baik, lelaki, sangat berkuasa, ton kulit sederhana cerah, wira
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	bersimpuh, perempuan, perempuan bersimpuh: ton kulit sederhana, ton kulit sederhana
 🧎🏾‍♀	bersimpuh, perempuan, perempuan bersimpuh: ton kulit sederhana gelap, ton kulit sederhana gelap
 🧎🏿‍♀	bersimpuh, perempuan, perempuan bersimpuh: ton kulit gelap, ton kulit gelap
+🧑‍🦯	buta, kebolehsampaian, orang dengan tongkat penduga
+🧑🏻‍🦯	buta, kebolehsampaian, orang dengan tongkat penduga, orang dengan tongkat penduga: ton kulit cerah, ton kulit cerah
+🧑🏼‍🦯	buta, kebolehsampaian, orang dengan tongkat penduga, orang dengan tongkat penduga: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🦯	buta, kebolehsampaian, orang dengan tongkat penduga, orang dengan tongkat penduga: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🦯	buta, kebolehsampaian, orang dengan tongkat penduga, orang dengan tongkat penduga: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🦯	buta, kebolehsampaian, orang dengan tongkat penduga, orang dengan tongkat penduga: ton kulit gelap, ton kulit gelap
 👨‍🦯	buta, kebolehsampaian, lelaki, lelaki dengan tongkat penduga
 👨🏻‍🦯	buta, kebolehsampaian, lelaki, lelaki dengan tongkat penduga, lelaki dengan tongkat penduga: ton kulit cerah, ton kulit cerah
 👨🏼‍🦯	buta, kebolehsampaian, lelaki, lelaki dengan tongkat penduga, lelaki dengan tongkat penduga: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	buta, kebolehsampaian, perempuan, perempuan dengan tongkat penduga, perempuan dengan tongkat penduga: ton kulit sederhana, ton kulit sederhana
 👩🏾‍🦯	buta, kebolehsampaian, perempuan, perempuan dengan tongkat penduga, perempuan dengan tongkat penduga: ton kulit sederhana gelap, ton kulit sederhana gelap
 👩🏿‍🦯	buta, kebolehsampaian, perempuan, perempuan dengan tongkat penduga, perempuan dengan tongkat penduga: ton kulit gelap, ton kulit gelap
+🧑‍🦼	kebolehsampaian, kerusi roda, orang dalam kerusi roda bermotor
+🧑🏻‍🦼	kebolehsampaian, kerusi roda, orang dalam kerusi roda bermotor, orang dalam kerusi roda bermotor: ton kulit cerah, ton kulit cerah
+🧑🏼‍🦼	kebolehsampaian, kerusi roda, orang dalam kerusi roda bermotor, orang dalam kerusi roda bermotor: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🦼	kebolehsampaian, kerusi roda, orang dalam kerusi roda bermotor, orang dalam kerusi roda bermotor: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🦼	kebolehsampaian, kerusi roda, orang dalam kerusi roda bermotor, orang dalam kerusi roda bermotor: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🦼	kebolehsampaian, kerusi roda, orang dalam kerusi roda bermotor, orang dalam kerusi roda bermotor: ton kulit gelap, ton kulit gelap
 👨‍🦼	kebolehsampaian, kerusi roda, lelaki, lelaki dalam kerusi roda bermotor
 👨🏻‍🦼	kebolehsampaian, kerusi roda, lelaki, lelaki dalam kerusi roda bermotor, lelaki dalam kerusi roda bermotor: ton kulit cerah, ton kulit cerah
 👨🏼‍🦼	kebolehsampaian, kerusi roda, lelaki, lelaki dalam kerusi roda bermotor, lelaki dalam kerusi roda bermotor: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	kebolehsampaian, kerusi roda, perempuan, perempuan dalam kerusi roda bermotor, perempuan dalam kerusi roda bermotor: ton kulit sederhana, ton kulit sederhana
 👩🏾‍🦼	kebolehsampaian, kerusi roda, perempuan, perempuan dalam kerusi roda bermotor, perempuan dalam kerusi roda bermotor: ton kulit sederhana gelap, ton kulit sederhana gelap
 👩🏿‍🦼	kebolehsampaian, kerusi roda, perempuan, perempuan dalam kerusi roda bermotor, perempuan dalam kerusi roda bermotor: ton kulit gelap, ton kulit gelap
+🧑‍🦽	kebolehsampaian, kerusi roda, orang dalam kerusi roda manual
+🧑🏻‍🦽	kebolehsampaian, kerusi roda, orang dalam kerusi roda manual, orang dalam kerusi roda manual: ton kulit cerah, ton kulit cerah
+🧑🏼‍🦽	kebolehsampaian, kerusi roda, orang dalam kerusi roda manual, orang dalam kerusi roda manual: ton kulit sederhana cerah, ton kulit sederhana cerah
+🧑🏽‍🦽	kebolehsampaian, kerusi roda, orang dalam kerusi roda manual, orang dalam kerusi roda manual: ton kulit sederhana, ton kulit sederhana
+🧑🏾‍🦽	kebolehsampaian, kerusi roda, orang dalam kerusi roda manual, orang dalam kerusi roda manual: ton kulit sederhana gelap, ton kulit sederhana gelap
+🧑🏿‍🦽	kebolehsampaian, kerusi roda, orang dalam kerusi roda manual, orang dalam kerusi roda manual: ton kulit gelap, ton kulit gelap
 👨‍🦽	kebolehsampaian, kerusi roda, lelaki, lelaki dalam kerusi roda manual
 👨🏻‍🦽	kebolehsampaian, kerusi roda, lelaki, lelaki dalam kerusi roda manual, lelaki dalam kerusi roda manual: ton kulit cerah, ton kulit cerah
 👨🏼‍🦽	kebolehsampaian, kerusi roda, lelaki, lelaki dalam kerusi roda manual, lelaki dalam kerusi roda manual: ton kulit sederhana cerah, ton kulit sederhana cerah
@@ -1575,12 +1772,12 @@
 🤽🏽‍♀	perempuan, polo air, sukan, ton kulit sederhana, wanita, wanita bermain polo air, wanita bermain polo air: ton kulit sederhana
 🤽🏾‍♀	perempuan, polo air, sukan, ton kulit sederhana gelap, wanita, wanita bermain polo air, wanita bermain polo air: ton kulit sederhana gelap
 🤽🏿‍♀	perempuan, polo air, sukan, ton kulit gelap, wanita, wanita bermain polo air, wanita bermain polo air: ton kulit gelap
-🤾	bola, main bola baling, orang, orang main bola baling, sukan
-🤾🏻	bola, main bola baling, main bola baling: ton kulit cerah, orang, orang main bola baling, sukan, ton kulit cerah
-🤾🏼	bola, main bola baling, main bola baling: ton kulit sederhana cerah, orang, orang main bola baling, sukan, ton kulit sederhana cerah
-🤾🏽	bola, main bola baling, main bola baling: ton kulit sederhana, orang, orang main bola baling, sukan, ton kulit sederhana
-🤾🏾	bola, main bola baling, main bola baling: ton kulit sederhana gelap, orang, orang main bola baling, sukan, ton kulit sederhana gelap
-🤾🏿	bola, main bola baling, main bola baling: ton kulit gelap, orang, orang main bola baling, sukan, ton kulit gelap
+🤾	bola, main bola baling, orang main bola baling
+🤾🏻	bola, main bola baling, main bola baling: ton kulit cerah, orang main bola baling, ton kulit cerah
+🤾🏼	bola, main bola baling, main bola baling: ton kulit sederhana cerah, orang main bola baling, ton kulit sederhana cerah
+🤾🏽	bola, main bola baling, main bola baling: ton kulit sederhana, orang main bola baling, ton kulit sederhana
+🤾🏾	bola, main bola baling, main bola baling: ton kulit sederhana gelap, orang main bola baling, ton kulit sederhana gelap
+🤾🏿	bola, main bola baling, main bola baling: ton kulit gelap, orang main bola baling, ton kulit gelap
 🤾‍♂	bola baling, lelaki, lelaki bermain bola baling, sukan
 🤾🏻‍♂	bola baling, lelaki, lelaki bermain bola baling, lelaki bermain bola baling: ton kulit cerah, sukan, ton kulit cerah
 🤾🏼‍♂	bola baling, lelaki, lelaki bermain bola baling, lelaki bermain bola baling: ton kulit sederhana cerah, sukan, ton kulit sederhana cerah
@@ -1643,15 +1840,25 @@
 🛌🏿	hotel, orang tidur atas katil, orang tidur atas katil: ton kulit gelap, tidur, ton kulit gelap
 🧑‍🤝‍🧑	berpegang tangan, orang, orang berpegangan tangan, pasangan, pegang, tangan
 🧑🏻‍🤝‍🧑🏻	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit cerah, pasangan, pegang, tangan, ton kulit cerah
+🧑🏻‍🤝‍🧑🏼	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit cerah dan ton kulit sederhana cerah, pasangan, pegang, tangan, ton kulit cerah, ton kulit sederhana cerah
+🧑🏻‍🤝‍🧑🏽	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit cerah dan ton kulit sederhana, pasangan, pegang, tangan, ton kulit cerah, ton kulit sederhana
+🧑🏻‍🤝‍🧑🏾	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit cerah dan ton kulit sederhana gelap, pasangan, pegang, tangan, ton kulit cerah, ton kulit sederhana gelap
+🧑🏻‍🤝‍🧑🏿	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit cerah dan ton kulit gelap, pasangan, pegang, tangan, ton kulit cerah, ton kulit gelap
 🧑🏼‍🤝‍🧑🏻	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana cerah dan ton kulit cerah, pasangan, pegang, tangan, ton kulit cerah, ton kulit sederhana cerah
 🧑🏼‍🤝‍🧑🏼	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana cerah, pasangan, pegang, tangan, ton kulit sederhana cerah
+🧑🏼‍🤝‍🧑🏽	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana cerah dan ton kulit sederhana, pasangan, pegang, tangan, ton kulit sederhana, ton kulit sederhana cerah
+🧑🏼‍🤝‍🧑🏾	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana cerah dan ton kulit sederhana gelap, pasangan, pegang, tangan, ton kulit sederhana cerah, ton kulit sederhana gelap
+🧑🏼‍🤝‍🧑🏿	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana cerah dan ton kulit gelap, pasangan, pegang, tangan, ton kulit gelap, ton kulit sederhana cerah
 🧑🏽‍🤝‍🧑🏻	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana dan ton kulit cerah, pasangan, pegang, tangan, ton kulit cerah, ton kulit sederhana
 🧑🏽‍🤝‍🧑🏼	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana dan ton kulit sederhana cerah, pasangan, pegang, tangan, ton kulit sederhana, ton kulit sederhana cerah
 🧑🏽‍🤝‍🧑🏽	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana, pasangan, pegang, tangan, ton kulit sederhana
+🧑🏽‍🤝‍🧑🏾	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana dan ton kulit sederhana gelap, pasangan, pegang, tangan, ton kulit sederhana, ton kulit sederhana gelap
+🧑🏽‍🤝‍🧑🏿	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana dan ton kulit gelap, pasangan, pegang, tangan, ton kulit gelap, ton kulit sederhana
 🧑🏾‍🤝‍🧑🏻	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana gelap dan ton kulit cerah, pasangan, pegang, tangan, ton kulit cerah, ton kulit sederhana gelap
 🧑🏾‍🤝‍🧑🏼	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana gelap dan ton kulit sederhana cerah, pasangan, pegang, tangan, ton kulit sederhana cerah, ton kulit sederhana gelap
 🧑🏾‍🤝‍🧑🏽	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana gelap dan ton kulit sederhana, pasangan, pegang, tangan, ton kulit sederhana, ton kulit sederhana gelap
 🧑🏾‍🤝‍🧑🏾	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana gelap, pasangan, pegang, tangan, ton kulit sederhana gelap
+🧑🏾‍🤝‍🧑🏿	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit sederhana gelap dan ton kulit gelap, pasangan, pegang, tangan, ton kulit gelap, ton kulit sederhana gelap
 🧑🏿‍🤝‍🧑🏻	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit gelap dan ton kulit cerah, pasangan, pegang, tangan, ton kulit cerah, ton kulit gelap
 🧑🏿‍🤝‍🧑🏼	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit gelap dan ton kulit sederhana cerah, pasangan, pegang, tangan, ton kulit gelap, ton kulit sederhana cerah
 🧑🏿‍🤝‍🧑🏽	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit gelap dan ton kulit sederhana, pasangan, pegang, tangan, ton kulit gelap, ton kulit sederhana
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	berpegang tangan, orang, orang berpegangan tangan, orang berpegangan tangan: ton kulit gelap, pasangan, pegang, tangan, ton kulit gelap
 👭	berpegangan tangan, dua wanita berpegangan tangan, pasangan, tangan, wanita
 👭🏻	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit cerah, pasangan, tangan, ton kulit cerah, wanita
+👩🏻‍🤝‍👩🏼	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit cerah dan ton kulit sederhana cerah, pasangan, tangan, ton kulit cerah, ton kulit sederhana cerah, wanita
+👩🏻‍🤝‍👩🏽	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit cerah dan ton kulit sederhana, pasangan, tangan, ton kulit cerah, ton kulit sederhana, wanita
+👩🏻‍🤝‍👩🏾	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit cerah dan ton kulit sederhana gelap, pasangan, tangan, ton kulit cerah, ton kulit sederhana gelap, wanita
+👩🏻‍🤝‍👩🏿	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit cerah dan ton kulit gelap, pasangan, tangan, ton kulit cerah, ton kulit gelap, wanita
 👩🏼‍🤝‍👩🏻	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana cerah dan ton kulit cerah, pasangan, tangan, ton kulit cerah, ton kulit sederhana cerah, wanita
 👭🏼	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana cerah, pasangan, tangan, ton kulit sederhana cerah, wanita
+👩🏼‍🤝‍👩🏽	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana cerah dan ton kulit sederhana, pasangan, tangan, ton kulit sederhana, ton kulit sederhana cerah, wanita
+👩🏼‍🤝‍👩🏾	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana cerah dan ton kulit sederhana gelap, pasangan, tangan, ton kulit sederhana cerah, ton kulit sederhana gelap, wanita
+👩🏼‍🤝‍👩🏿	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana cerah dan ton kulit gelap, pasangan, tangan, ton kulit gelap, ton kulit sederhana cerah, wanita
 👩🏽‍🤝‍👩🏻	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana dan ton kulit cerah, pasangan, tangan, ton kulit cerah, ton kulit sederhana, wanita
 👩🏽‍🤝‍👩🏼	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana dan ton kulit sederhana cerah, pasangan, tangan, ton kulit sederhana, ton kulit sederhana cerah, wanita
 👭🏽	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana, pasangan, tangan, ton kulit sederhana, wanita
+👩🏽‍🤝‍👩🏾	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana dan ton kulit sederhana gelap, pasangan, tangan, ton kulit sederhana, ton kulit sederhana gelap, wanita
+👩🏽‍🤝‍👩🏿	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana dan ton kulit gelap, pasangan, tangan, ton kulit gelap, ton kulit sederhana, wanita
 👩🏾‍🤝‍👩🏻	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana gelap dan ton kulit cerah, pasangan, tangan, ton kulit cerah, ton kulit sederhana gelap, wanita
 👩🏾‍🤝‍👩🏼	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana gelap dan ton kulit sederhana cerah, pasangan, tangan, ton kulit sederhana cerah, ton kulit sederhana gelap, wanita
 👩🏾‍🤝‍👩🏽	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana gelap dan ton kulit sederhana, pasangan, tangan, ton kulit sederhana, ton kulit sederhana gelap, wanita
 👭🏾	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana gelap, pasangan, tangan, ton kulit sederhana gelap, wanita
+👩🏾‍🤝‍👩🏿	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit sederhana gelap dan ton kulit gelap, pasangan, tangan, ton kulit gelap, ton kulit sederhana gelap, wanita
 👩🏿‍🤝‍👩🏻	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit gelap dan ton kulit cerah, pasangan, tangan, ton kulit cerah, ton kulit gelap, wanita
 👩🏿‍🤝‍👩🏼	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit gelap dan ton kulit sederhana cerah, pasangan, tangan, ton kulit gelap, ton kulit sederhana cerah, wanita
 👩🏿‍🤝‍👩🏽	berpegangan tangan, dua wanita berpegangan tangan, dua wanita berpegangan tangan: ton kulit gelap dan ton kulit sederhana, pasangan, tangan, ton kulit gelap, ton kulit sederhana, wanita
@@ -1701,15 +1918,25 @@
 👫🏿	berpegangan tangan, lelaki, lelaki dan wanita berpegangan tangan, lelaki dan wanita berpegangan tangan: ton kulit gelap, pasangan, pegang, tangan, ton kulit gelap, wanita
 👬	Gemini, dua lelaki berpegangan tangan, jejaka, kembar, lelaki, pasangan, pegang tangan, zodiak
 👬🏻	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, zodiak
+👨🏻‍🤝‍👨🏼	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit cerah dan ton kulit sederhana cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit sederhana cerah, zodiak
+👨🏻‍🤝‍👨🏽	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit cerah dan ton kulit sederhana, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit sederhana, zodiak
+👨🏻‍🤝‍👨🏾	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit cerah dan ton kulit sederhana gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit sederhana gelap, zodiak
+👨🏻‍🤝‍👨🏿	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit cerah dan ton kulit gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit gelap, zodiak
 👨🏼‍🤝‍👨🏻	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana cerah dan ton kulit cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit sederhana cerah, zodiak
 👬🏼	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana cerah, zodiak
+👨🏼‍🤝‍👨🏽	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana cerah dan ton kulit sederhana, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana, ton kulit sederhana cerah, zodiak
+👨🏼‍🤝‍👨🏾	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana cerah dan ton kulit sederhana gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana cerah, ton kulit sederhana gelap, zodiak
+👨🏼‍🤝‍👨🏿	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana cerah dan ton kulit gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit gelap, ton kulit sederhana cerah, zodiak
 👨🏽‍🤝‍👨🏻	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana dan ton kulit cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit sederhana, zodiak
 👨🏽‍🤝‍👨🏼	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana dan ton kulit sederhana cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana, ton kulit sederhana cerah, zodiak
 👬🏽	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana, zodiak
+👨🏽‍🤝‍👨🏾	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana dan ton kulit sederhana gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana, ton kulit sederhana gelap, zodiak
+👨🏽‍🤝‍👨🏿	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana dan ton kulit gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit gelap, ton kulit sederhana, zodiak
 👨🏾‍🤝‍👨🏻	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana gelap dan ton kulit cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit sederhana gelap, zodiak
 👨🏾‍🤝‍👨🏼	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana gelap dan ton kulit sederhana cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana cerah, ton kulit sederhana gelap, zodiak
 👨🏾‍🤝‍👨🏽	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana gelap dan ton kulit sederhana, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana, ton kulit sederhana gelap, zodiak
 👬🏾	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit sederhana gelap, zodiak
+👨🏾‍🤝‍👨🏿	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit sederhana gelap dan ton kulit gelap, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit gelap, ton kulit sederhana gelap, zodiak
 👨🏿‍🤝‍👨🏻	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit gelap dan ton kulit cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit cerah, ton kulit gelap, zodiak
 👨🏿‍🤝‍👨🏼	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit gelap dan ton kulit sederhana cerah, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit gelap, ton kulit sederhana cerah, zodiak
 👨🏿‍🤝‍👨🏽	Gemini, dua lelaki berpegangan tangan, dua lelaki berpegangan tangan: ton kulit gelap dan ton kulit sederhana, jejaka, kembar, lelaki, pasangan, pegang tangan, ton kulit gelap, ton kulit sederhana, zodiak
@@ -1752,6 +1979,7 @@
 🗣️	bayang, bercakap, cakap, kepala, kepala bercakap, muka
 👤	bayang, bayang dada, dada
 👥	bayang, bayang beberapa dada, dada
+🫂	helo, orang berpelukan, peluk, selamat tinggal, terima kasih
 👣	badan, cetak, jejak, jejak kaki, pakaian
 🦰	berambut merah, perang, rambut merah
 🦱	afro, bergelung, kerinting, rambut kerinting
@@ -1771,6 +1999,7 @@
 🦝	ingin tahu, licik, rakun
 🐱	haiwan kesayangan, kucing, muka, muka kucing
 🐈️	haiwan kesayangan, kucing
+🐈‍⬛	hitam, kucing, kucing hitam, nasib malang
 🦁	leo, muka, singa, zodiak
 🐯	harimau, muka, muka harimau
 🐅	harimau
@@ -1780,6 +2009,7 @@
 🦄	muka, unikorn
 🦓	belang, zebra
 🦌	haiwan, rusa
+🦬	bison, kawanan, kerbau, wisent
 🐮	lembu, muka, muka lembu
 🐂	lembu, lembu jantan, taurus, zodiak
 🐃	air, kerbau
@@ -1796,6 +2026,7 @@
 🦙	alpaka, guanako, llama, vikuna, wul
 🦒	bintik, zirafah
 🐘	gajah
+🦣	berbulu lebat, besar, gading, kepupusan, mamot
 🦏	badak sumbu, haiwan
 🦛	badak, badak air
 🐭	muka, muka tikus, tikus
@@ -1805,9 +2036,11 @@
 🐰	arnab, bunny, haiwan kesayangan, muka, muka arnab
 🐇	arnab, haiwan kesayangan
 🐿️	tupai tanah
+🦫	beaver, empangan
 🦔	berduri, landak kecil
 🦇	haiwan, kelawar
 🐻	beruang, muka
+🐻‍❄	artik, beruang, beruang kutub, putih
 🐨	beruang, koala
 🐼	muka, panda
 🦥	malas, perlahan, sloth
@@ -1829,6 +2062,8 @@
 🦆	burung, itik
 🦢	anak angsa, anak itik hodoh, angsa, burung
 🦉	bijak, burung, burung hantu
+🦤	Mauritius, besar, dodo, kepupusan
+🪶	bulu pelepah, buluan, ringan, terbang
 🦩	flamingo, ranggi, tropikal
 🦚	berlagak, burung, merak, merak betina, sombong
 🦜	burung, cakap, kakak tua, lanun
@@ -1844,6 +2079,7 @@
 🐳	ikan paus, ikan paus memancutkan air, muka, pancutan
 🐋	ikan paus
 🐬	ikan lumba-lumba, sirip
+🦭	Singa laut, anjing laut
 🐟️	ikan, pisces, zodiak
 🐠	ikan, ikan tropika, tropika
 🐡	ikan, ikan buntal
@@ -1855,12 +2091,16 @@
 🐛	serangga, ulat
 🐜	semut, serangga
 🐝	lebah, lebah madu, serangga
+🪲	kumbang, pepijat, serangga
 🐞	kumbang, kumbang kura-kura, serangga
 🦗	belalang, cengkerik
+🪳	lipas, perosak, serangga
 🕷️	labah-labah, serangga
 🕸️	labah-labah, sarang, sarang labah-labah
 🦂	kala jengking, scorpio, scorpius, zodiak
-🦟	demam, malaria, nyamuk, penyakit, serangga, virus
+🦟	demam, malaria, nyamuk, penyakit, perosak, virus
+🪰	berengga, lalat, mereput, penyakit, perosak
+🪱	anelid, cacing, cacing tanah, parasit
 🦠	ameba, bakteria, mikrob, virus
 💐	bunga, sejambak bunga
 🌸	bunga, bunga sakura, mekar, sakura, tumbuhan
@@ -1873,17 +2113,18 @@
 🌼	bunga, bunga mekar, mekar
 🌷	bunga, bunga tulip, tulip
 🌱	anak benih, muda
+🪴	bosan, menyemai, pokok, pokok dalam pasu, rumah, tidak berguna, tumbuh
 🌲	malar hijau, pokok
-🌳	daun luruh, meluruhkan, pokok, pokok daun luruh
+🌳	daun luruh, luruh, pokok daun luruh, pokok luruh daun
 🌴	palma, pokok, pokok palma
 🌵	kaktus, tumbuhan
 🌾	padi, seberkas padi, telinga, tumbuhan
 🌿	daun, herba
 ☘️	syamrok, tumbuhan
-🍀	4, bunga cengkih, daun, daun bunga cengkih, empat, semanggi berdaun empat
-🍁	daun, daun maple, luruh, mapel
+🍀	4, bunga cengkih, bunga cengkih berdaun empat, daun, daun bunga cengkih, empat
+🍁	daun, daun mapel, luruh, mapel
 🍂	daun, daun luruh, luruh, tumbuhan
-🍃	angin, daun, daun melayang dek angin, daun melayang ditiup angin, kibar, tiup
+🍃	angin, daun, daun melayang ditiup angin, kibar, tiup
 🍇	anggur, buah-buahan
 🍈	buah-buahan, tembikai susu
 🍉	buah-buahan, tembikai
@@ -1898,8 +2139,10 @@
 🍑	buah pic, buah-buahan
 🍒	buah ceri, buah-buahan, ceri
 🍓	beri, buah strawberi, buah-buahan
+🫐	beri, beri biru, bilberi, biru
 🥝	buah, buah kiwi, kiwi, makanan
 🍅	sayur-sayuran, tomato
+🫒	buah zaitun, makanan
 🥥	kelapa, pina colada, sawit
 🥑	avokado, buah, makanan
 🍆	sayur-sayuran, terung
@@ -1907,6 +2150,7 @@
 🥕	lobak merah, makanan, sayur
 🌽	jagung, telinga, tongkol jagung
 🌶️	cili api, lada, pedas
+🫑	cili kembung, lada, lada benggala, sayur
 🥒	jeruk, makanan, sayur, timun
 🥬	kubis, kubis daun, sawi putih, sayuran hijau, selada
 🥦	brokoli, kubis liar
@@ -1918,6 +2162,7 @@
 🍞	roti, sebuku
 🥐	bulan sabit, kroisan, makanan, roti perancis
 🥖	makanan, roti baguette, roti perancis
+🫓	arepa, lavash, naan, pita, roti leper
 🥨	berpintal, pretzel
 🥯	bagel, bakeri, lepa
 🥞	lempeng, makanan, penkek
@@ -1934,12 +2179,14 @@
 🥪	roti, sandwic
 🌮	mexico, tako
 🌯	burito, mexico
+🫔	berbungkus, mexico, tamale
 🥙	berinti, falafel, kebab, makanan, roti kebab
 🧆	bebola daging, falafel, kacang kuda
 🥚	makanan, telur
 🍳	kuali, memasak, menggoreng, telur
 🥘	belanga, makanan, makanan dalam belanga, periuk
 🍲	periuk, seperiuk makanan, stew
+🫕	Swiss, cair, cokelat, fondue, keju, periuk
 🥣	bijirin, bubur, mangkuk dan sudu, sarapan
 🥗	hijau, makanan, salad, salad hijau
 🍿	bertih jagung
@@ -1985,6 +2232,7 @@
 🍼	bayi, botol, botol susu, minum, susu
 🥛	gelas, minuman, segelas susu, susu
 ☕️	berasap, kopi, minum, minuman, minuman panas, panas, teh
+🫖	minum, teh, teko, teko teh
 🍵	cawan, cawan teh tanpa tangkai, minum, minuman, teh
 🍶	bar, botol, cawan, minum, minuman, sake
 🍾	bar, botol, botol dengan penutup gabus terbuka, botol gabus terbuka, gabus, minum, pop
@@ -1996,9 +2244,10 @@
 🥂	gelas, melaga gelas, meraikan, minuman
 🥃	arak, gelas, gelas pendek, pendek
 🥤	cawan dan straw, jus, soda
-🧃	jus air kotak, minuman air kotak
+🧋	buih, mutiara, susu, teh, teh buih
+🧃	jus kotak, minuman air kotak, minuman kotak
 🧉	mate, minuman
-🧊	aisberg, kiub ais, sejuk
+🧊	ais, aisberg, kiub ais, sejuk
 🥢	hashi, penyepit
 🍽️	garpu, garpu dan pisau dengan pinggan, memasak, pinggan, pisau
 🍴	garpu, garpu dan pisau, memasak, pisau
@@ -2025,6 +2274,9 @@
 🏛️	bangunan, bangunan klasik, klasik
 🏗️	bangunan, pembinaan, pembinaan bangunan
 🧱	bata, batu-bata, dinding, mortar, tanah liat
+🪨	batu tongkol, batuan, kayu
+🪵	balak, batu, kayu, kayu gergaji, perkayuan
+🛖	house, pondok, rumah hutan, yurt
 🏘️	bangunan, bangunan perumahan, rumah
 🏚️	bangunan, rumah, rumah terbiar, terbiar
 🏠️	bangunan, kediaman, rumah
@@ -2092,6 +2344,7 @@
 🚗	kenderaan, kereta
 🚘️	automobil, dari arah depan, kereta, kereta dari arah depan
 🚙	kenderaan, kenderaan rekreasi, rekreasi, rv
+🛻	pikap, pungutan, trak, trak pikap
 🚚	kenderaan, penghantaran, trak, trak penghantaran
 🚛	kenderaan, lori, lori bersendi, semi, trak
 🚜	kenderaan, traktor
@@ -2104,6 +2357,7 @@
 🚲️	basikal, kenderaan
 🛴	skuter, skuter tolak, tolak
 🛹	papan, papan luncur
+🛼	kasut, kasut roda, roda
 🚏	bas, berhenti, perhentian bas
 🛣️	jalan raya, lebuh raya
 🛤️	jalan kereta api, kereta api, rel kereta api
@@ -2274,6 +2528,7 @@
 🪁	layang-layang, melayang, terbang
 🎱	8, biliard, bola, lapan, permainan
 🔮	alat, bola, bola kristal, cerita dongeng, fantasi, kristal, nasib
+🪄	ahli sihir, bestari, magik, tongkat sakti
 🧿	azimat nazar, manik, mantera, mata syaitan, nazar, tangkal
 🎮️	alat kawalan, permainan, permainan video
 🕹️	kayu bedik, permainan, permainan video
@@ -2281,6 +2536,8 @@
 🎲	dadu, dadu permainan, dadu-dadu, permainan
 🧩	cantuman, kepingan, kepingan suai gambar, petunjuk, suai gambar, susun
 🧸	barang mainan, beruang teddy, mainan, plusy, sumbat
+🪅	parti, perayaan, pinata
+🪆	anak patung, anak potong sekelompok, kelompok, matryoshka, rusia
 ♠️	daun, daun sped, kad, permainan, sped
 ♥️	daun, daun lekuk, hati, kad, lekuk, permainan
 ♦️	berlian, daiman, daun, daun daiman, kad, permainan
@@ -2293,7 +2550,9 @@
 🖼️	bingkai, bingkai dengan gambar, gambar, gambar berbingkai, lukisan, muzium, seni
 🎨	lukisan, muzium, palet, palet artis, seni
 🧵	benang, gelendong, jarum, menjahit, tali
-🧶	bola, kait, krusye, yarn
+🪡	jahit menjahit, jahitan, jarum, jarum menjahit, menjahit, sulaman, sutur
+🧶	bebola, benang bulu, kait, krusye, yarn
+🪢	ikat, lilit, pintal, simpul, tali
 👓️	cermin mata, kaca mata, mata, pakaian
 🕶️	cermin mata, gelap, kaca mata, kaca mata hitam, mata
 🥽	berenang, gogal, mengimpal, perlindungan mata
@@ -2319,6 +2578,7 @@
 👝	beg, pakaian, pau
 🛍️	beg, beg beli-belah, hotel, membeli-belah
 🎒	beg, beg galas, beg galas sekolah, sekolah
+🩴	sandal, sandal pantai, sandal tali kulit, tali kulit, zōri
 👞	kasut, kasut lelaki, lelaki, pakaian
 👟	kasut, kasut lari, olahraga, pakaian, sneaker
 🥾	berkhemah, but, but kembara, kembara, membawa beg galas
@@ -2332,6 +2592,7 @@
 🎩	pakaian, tinggi, topi, topi tinggi
 🎓️	kep, pakaian, rai, tamat pengajian, topi konvokesyen
 🧢	kep berbil, topi besbol
+🪖	askar, helmet, helmet tentera, perwira, tentera
 ⛑️	bantuan, helmet pekerja bantaun keselamatan, muka, palang, topi, topi keselamatan dengan palang putih
 📿	agama, doa, kalung, manik, pakaian, tasbih
 💄	alat solek, gincu, kosmetik
@@ -2356,12 +2617,14 @@
 🎧️	fon kepala, fon telinga
 📻️	radio, video
 🎷	alat, muzik, saks, saksofon
+🪗	akordion, konsertina, kotak himpit
 🎸	alat, gitar, muzik
 🎹	instrumen, keyboard, keyboard muzik, muzik, piano
 🎺	alat, muzik, trompet
 🎻	alat, biola, muzik
 🪕	banjo, bertali, muzik
 🥁	dram, kayu dram, muzik
+🪘	bongo, dram, irama, karatung, konga, rentak
 📱	mudah alih, sel, telefon, telefon bimbit
 📲	anak panah, mudah alih, sel, telefon, telefon bimbit dengan anak panah, terima
 ☎️	fon, telefon
@@ -2415,6 +2678,7 @@
 🔖	penanda buku, tanda
 🏷️	label
 💰️	beg, dolar, karung duit, wang
+🪙	duit, emas, harta karun, logam, perak, syiling
 💴	duit, duit kertas, mata wang, wang, wang kertas yen, yen
 💵	dolar, mata wang, wang, wang kertas, wang kertas dolar
 💶	euro, mata wang, wang, wang kertas, wang kertas euro
@@ -2423,8 +2687,6 @@
 💳️	bank, kad, kad kredit, kredit, wang
 🧾	bukti, keterangan, perakaunan, resit, simpan kira
 💹	carta, carta meningkat dengan yen, carta yen meningkat, graf, pertumbuhan, wang, yen
-💱	bank, mata wang, pertukaran, pertukaran mata wang, wang
-💲	dolar, mata wang, tanda dolar tebal, wang
 ✉️	e-mel, sampul surat, surat
 📧	e-mel, mel, surat
 📨	e-mel, emel, masuk, sampul surat, sampul surat masuk, surat, terima
@@ -2482,9 +2744,12 @@
 🗡️	pisau, pisau belati, senjata
 ⚔️	bersilang, pedang, pedang bersilang, senjata
 🔫	alat, pistol, revolver, senjata
+🪃	australia, bertentangan, bumerang, gema, lantun
 🏹	alat, busar, panah, panah dan busur, pemanah, sagittarius, senjata, zodiak
 🛡️	perisai, senjata
+🪚	alat, gergaji, gergaji kayu, kayu gergaji, tukang kayu
 🔧	alat, perengkuh
+🪛	alat, pemutar skru, skru
 🔩	alat, bolt, nat, nat dan bolt
 ⚙️	alat, gear
 🗜️	alat, pemampatan, ragum
@@ -2492,8 +2757,10 @@
 🦯	buta, kebolehcapaian, tongkat penduga
 🔗	pautan, rantai
 ⛓️	rantai, rantaian
+🪝	bengkok, cangkuk, keluk, menjerat, tangkapan, titik jualan
 🧰	alat, kotak alat, mekanik, peti
 🧲	bermagnet, ladam kuda, magnet, tarikan
+🪜	anak tangga, daki, jejak, tangga
 ⚗️	alat, alembic, kimia
 🧪	ahli kimia, eksperimen, kimia, makmal, sains, tabung uji
 🧫	ahli biologi, bakteria, biologi, kultur, makmal, piring petri
@@ -2507,26 +2774,35 @@
 🩹	pembalut, pembalut adhesif
 🩺	doktor, jantung, perubatan, stetoskop
 🚪	pintu
+🛗	elevator, kebolehcapaian, lif, pengangkat
+🪞	cermin, pantulan, pemantul, spekulum
+🪟	bingkai, bukaan, lutsinar, pandangan, tingkap
 🛏️	hotel, katil, tidur
 🛋️	hotel, lampu, sofa, sofa dan lampu
 🪑	duduk, kerusi, tempat duduk
 🚽	mangkuk tandas, tandas
+🪠	locok, pelocok, pembantu tukang paip, penekup paksa, tukang paip
 🚿	air, pancuran
 🛁	mandi, tab mandi
+🪤	jerat, perangkap, perangkap tikus, umpan
 🪒	cukur, pisau cukur, tajam
 🧴	botol losyen, losyen, pelembab, penapis suria, syampu
 🧷	lampin, pin dawai, punk rock
 🧹	ahli sihir, membersih, menyapu, penyapu
 🧺	bakul, berkelah, berladang, dobi-mendobi
 🧻	gulungan kertas, kertas tandas, tuala kertas
+🪣	baldi, pak, timba, vat
 🧼	bekas sabun, buih, mandi, membersih, sabun, sebuku
+🪥	bersih, berus, berus gigi, bilik mandi, gigi, kebersihan, pergigian
 🧽	membersih, menyerap, poros, span
 🧯	alat pemadam api, api, lindap, padam
 🛒	beli-belah, troli, troli beli-belah
 🚬	merokok, rokok
 ⚰️	kematian, keranda
+🪦	batu nisan, kubur, nisan, perkuburan, rip
 ⚱️	kematian, pengebumian, takar, takar abu mayat
 🗿	moyai, muka, patung
+🪧	piket, plakad, protes, tanda
 🏧	atm, automatik, bank, juruwang, tanda ATM
 🚮	sampah, tanda buang ke dalam tong sampah, tong sampah
 🚰	air, air minum, boleh diminum, minum
@@ -2625,8 +2901,22 @@
 📴	fon, matikan, mudah alih, sel, telefon, telefon mudah alih dimatikan
 ♀️	simbol perempuan, wanita
 ♂️	lelaki, simbol lelaki
-⚕️	perubatan, simbol perubatan, staf
+⚧️	simbol transgender, transgender
+✖️	batal, darab, pendaraban, simbol, x
+➕	+, matematik, simbol, tambah
+➖	-, matematik, simbol, tolak, −
+➗	bahagi, matematik, simbol, ÷
 ♾️	infiniti, sejagat, selama-lamanya, tidak terbatas
+‼️	bangbang, seru, tanda, tanda baca, tanda seru berganda
+⁉️	interrobang, seru, soalan, tanda, tanda baca, tanda soal seru
+❓️	?, soalan, tanda, tanda baca, tanda soal
+❔	?, digaris, soalan, tanda, tanda baca, tanda soal putih, tanda soalan putih
+❕	digariskan, seru, tanda, tanda baca, tanda seru putih
+❗️	!, seru, tanda, tanda baca, tanda seru
+〰️	berombak-ombak, sengkang, sengkang berombak-ombak, tanda baca
+💱	bank, mata wang, pertukaran, pertukaran mata wang, wang
+💲	dolar, mata wang, tanda dolar tebal, wang
+⚕️	perubatan, simbol perubatan, staf
 ♻️	kitar semula, simbol kitar semula
 ⚜	fleur-de-lis
 🔱	alat, kapal, lambang, lambang trisula, sauh, trisula
@@ -2636,25 +2926,14 @@
 ✅	butang, butang tanda rait, rait, tanda, ✓
 ☑️	kotak, peti undi dengan tanda rait, peti undi dengan tanda semak, rait, ✓
 ✔️	rait, tanda, tanda rait, ✓
-✖️	batal, darab, darab x tebal, pendaraban, tanda darab, x
 ❌	batal, darab, pendaraban, tanda, tanda pangkah, x, ×
 ❎	butang tanda pangkah, segi empat sama, tanda, x, ×
-➕	+, campur, matematik, tanda, tanda campur
-➖	-, matematik, tanda, tanda tolak, tolak, −
-➗	bahagi, matematik, tanda, tanda bahagi, ÷
 ➰	gelung, gelung ikal, ikal
 ➿	berganda, gelung, gelung ikal berganda, ikal
 〽️	bahagian, tanda, tanda penyelingan bahagian
 ✳️	*, asterisk, asterisk berjejari lapan
 ✴️	*, bintang, bintang berpenjuru lapan
 ❇️	*, kilauan
-‼️	bangbang, seru, tanda, tanda baca, tanda seru berganda
-⁉️	interrobang, seru, soalan, tanda, tanda baca, tanda soal seru
-❓️	?, soalan, tanda, tanda baca, tanda soal
-❔	?, digaris, soalan, tanda, tanda baca, tanda soal putih, tanda soalan putih
-❕	digariskan, seru, tanda, tanda baca, tanda seru putih
-❗️	!, seru, tanda, tanda baca, tanda seru
-〰️	berombak-ombak, sengkang, sengkang berombak-ombak, tanda baca
 ©️	c, hak cipta
 ®️	berdaftar
 ™️	tanda, tanda dagangan, tm
@@ -2747,9 +3026,10 @@
 🏁	bendera pelepas, bercorak dam, berpetak, lumba
 🚩	bendera tiga segi, tiang
 🎌	Jepun, bendera bersilang, bersilang, perayaan, silang
-🏴	bendera hitam, mengibar
-🏳️	bendera putih, mengibar
+🏴	bendera hitam, berkibar
+🏳️	bendera putih, berkibar
 🏳‍🌈	bendera, bendera pelangi, pelangi
+🏳‍⚧	bendera, bendera biru,merah jambu, dan putih, biru muda, merah jambu, putih, transgender
 🏴‍☠	Jolly Roger, bendera lanun, harta karun, lanun, rampasan
 🇦🇨	bendera, bendera: Pulau Ascension
 🇦🇩	bendera, bendera: Andorra

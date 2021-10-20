@@ -19,6 +19,7 @@
 ☺️	arc, mosoly, mosolygó arc, nyugodt
 😚	arc, csók, csókoló arc lehunyt szemmel, lehunyt szem, puszi
 😙	arc, csók, csókoló arc mosolygó szemmel, puszi, szem
+🥲	büszke, hálás, könny, meghatott, megkönnyebbült, mosolygó arc könnycseppel, mosolyog
 😋	arc, finom, finom ételt élvező arc, mosoly, nyami
 😛	arc, arc kinyújtott nyelvvel, nyelv
 😜	arc, arc kinyújtott nyelvvel és kacsintó szemmel, kacsintás, mosoly, nyelv, szem, vicc
@@ -57,6 +58,7 @@
 🤯	felrobbanó fej, megdöbbent
 🤠	cowboy, cowboykalapos fej, fej, kalap
 🥳	buli, bulizó arc, csákó, duda, ünneplés
+🥸	arc, inkognító, orr, szemüveg, álca, álcázott arc
 😎	arc, laza, mosoly, mosolygó arc napszemüveggel, napszemüveg
 🤓	arc, gépmániás, kocka, kockaarc
 🧐	arc monoklival, mérges
@@ -183,6 +185,12 @@
 👌🏽	kéz, közepes bőrtónus, ok jel, ok jel: közepes bőrtónus, oké, rendben, test
 👌🏾	kéz, közepesen sötét bőrtónus, ok jel, ok jel: közepesen sötét bőrtónus, oké, rendben, test
 👌🏿	kéz, ok jel, ok jel: sötét bőrtónus, oké, rendben, sötét bőrtónus, test
+🤌	gúnyos, kihallgatás, kézmozdulat, ujjak, összecsippentett, összecsippentett ujjak
+🤌🏻	gúnyos, kihallgatás, kézmozdulat, ujjak, világos bőrtónus, összecsippentett, összecsippentett ujjak: világos bőrtónus
+🤌🏼	gúnyos, kihallgatás, kézmozdulat, közepesen világos bőrtónus, ujjak, összecsippentett, összecsippentett ujjak: közepesen világos bőrtónus
+🤌🏽	gúnyos, kihallgatás, kézmozdulat, közepes bőrtónus, ujjak, összecsippentett, összecsippentett ujjak: közepes bőrtónus
+🤌🏾	gúnyos, kihallgatás, kézmozdulat, közepesen sötét bőrtónus, ujjak, összecsippentett, összecsippentett ujjak: közepesen sötét bőrtónus
+🤌🏿	gúnyos, kihallgatás, kézmozdulat, sötét bőrtónus, ujjak, összecsippentett, összecsippentett ujjak: sötét bőrtónus
 🤏	csippentő kéz, kis összeg
 🤏🏻	csippentő kéz, csippentő kéz: világos bőrtónus, kis összeg, világos bőrtónus
 🤏🏼	csippentő kéz, csippentő kéz: közepesen világos bőrtónus, kis összeg, közepesen világos bőrtónus
@@ -379,6 +387,8 @@
 👃🏾	fej, közepesen sötét bőrtónus, orr, orr: közepesen sötét bőrtónus, test, testrész
 👃🏿	fej, orr, orr: sötét bőrtónus, sötét bőrtónus, test, testrész
 🧠	agy, intelligens
+🫀	kardiológia, középpont, pulzus, szerv, szív, szívverés
+🫁	belégzés, kilégzés, légzés, lélegzet, szerv, tüdő
 🦷	fog, fogorvos
 🦴	csont, csontváz
 👀	arc, szem, szemek, test
@@ -421,6 +431,30 @@
 👱🏽	közepes bőrtónus, szőke, szőke hajú ember, szőke hajú ember: közepes bőrtónus
 👱🏾	közepesen sötét bőrtónus, szőke, szőke hajú ember, szőke hajú ember: közepesen sötét bőrtónus
 👱🏿	szőke, szőke hajú ember, szőke hajú ember: sötét bőrtónus, sötét bőrtónus
+🧑‍🦰	felnőtt, felnőtt: vörös haj, vörös haj
+🧑🏻‍🦰	felnőtt, felnőtt: világos bőrtónus és vörös haj, világos bőrtónus, vörös haj
+🧑🏼‍🦰	felnőtt, felnőtt: közepesen világos bőrtónus és vörös haj, közepesen világos bőrtónus, vörös haj
+🧑🏽‍🦰	felnőtt, felnőtt: közepes bőrtónus és vörös haj, közepes bőrtónus, vörös haj
+🧑🏾‍🦰	felnőtt, felnőtt: közepesen sötét bőrtónus és vörös haj, közepesen sötét bőrtónus, vörös haj
+🧑🏿‍🦰	felnőtt, felnőtt: sötét bőrtónus és vörös haj, sötét bőrtónus, vörös haj
+🧑‍🦱	felnőtt, felnőtt: göndör haj, göndör haj
+🧑🏻‍🦱	felnőtt, felnőtt: világos bőrtónus és göndör haj, göndör haj, világos bőrtónus
+🧑🏼‍🦱	felnőtt, felnőtt: közepesen világos bőrtónus és göndör haj, göndör haj, közepesen világos bőrtónus
+🧑🏽‍🦱	felnőtt, felnőtt: közepes bőrtónus és göndör haj, göndör haj, közepes bőrtónus
+🧑🏾‍🦱	felnőtt, felnőtt: közepesen sötét bőrtónus és göndör haj, göndör haj, közepesen sötét bőrtónus
+🧑🏿‍🦱	felnőtt, felnőtt: sötét bőrtónus és göndör haj, göndör haj, sötét bőrtónus
+🧑‍🦳	felnőtt, felnőtt: ősz haj, ősz haj
+🧑🏻‍🦳	felnőtt, felnőtt: világos bőrtónus és ősz haj, világos bőrtónus, ősz haj
+🧑🏼‍🦳	felnőtt, felnőtt: közepesen világos bőrtónus és ősz haj, közepesen világos bőrtónus, ősz haj
+🧑🏽‍🦳	felnőtt, felnőtt: közepes bőrtónus és ősz haj, közepes bőrtónus, ősz haj
+🧑🏾‍🦳	felnőtt, felnőtt: közepesen sötét bőrtónus és ősz haj, közepesen sötét bőrtónus, ősz haj
+🧑🏿‍🦳	felnőtt, felnőtt: sötét bőrtónus és ősz haj, sötét bőrtónus, ősz haj
+🧑‍🦲	felnőtt, felnőtt: kopasz, kopasz
+🧑🏻‍🦲	felnőtt, felnőtt: világos bőrtónus és kopasz, kopasz, világos bőrtónus
+🧑🏼‍🦲	felnőtt, felnőtt: közepesen világos bőrtónus és kopasz, kopasz, közepesen világos bőrtónus
+🧑🏽‍🦲	felnőtt, felnőtt: közepes bőrtónus és kopasz, kopasz, közepes bőrtónus
+🧑🏾‍🦲	felnőtt, felnőtt: közepesen sötét bőrtónus és kopasz, kopasz, közepesen sötét bőrtónus
+🧑🏿‍🦲	felnőtt, felnőtt: sötét bőrtónus és kopasz, kopasz, sötét bőrtónus
 👨	férfi
 👨🏻	férfi, férfi: világos bőrtónus, világos bőrtónus
 👨🏼	férfi, férfi: közepesen világos bőrtónus, közepesen világos bőrtónus
@@ -697,6 +731,12 @@
 🤷🏽‍♀	kétség, közepes bőrtónus, közömbös, nem érdekel, nő, vállrándítás, vállrándító nő, vállrándító nő: közepes bőrtónus, érdektelenség
 🤷🏾‍♀	kétség, közepesen sötét bőrtónus, közömbös, nem érdekel, nő, vállrándítás, vállrándító nő, vállrándító nő: közepesen sötét bőrtónus, érdektelenség
 🤷🏿‍♀	kétség, közömbös, nem érdekel, nő, sötét bőrtónus, vállrándítás, vállrándító nő, vállrándító nő: sötét bőrtónus, érdektelenség
+🧑‍⚕	egészségügy, egészségügyi dolgozó, orvos, terapeuta, ápolónő
+🧑🏻‍⚕	egészségügy, egészségügyi dolgozó, egészségügyi dolgozó: világos bőrtónus, orvos, terapeuta, világos bőrtónus, ápolónő
+🧑🏼‍⚕	egészségügy, egészségügyi dolgozó, egészségügyi dolgozó: közepesen világos bőrtónus, közepesen világos bőrtónus, orvos, terapeuta, ápolónő
+🧑🏽‍⚕	egészségügy, egészségügyi dolgozó, egészségügyi dolgozó: közepes bőrtónus, közepes bőrtónus, orvos, terapeuta, ápolónő
+🧑🏾‍⚕	egészségügy, egészségügyi dolgozó, egészségügyi dolgozó: közepesen sötét bőrtónus, közepesen sötét bőrtónus, orvos, terapeuta, ápolónő
+🧑🏿‍⚕	egészségügy, egészségügyi dolgozó, egészségügyi dolgozó: sötét bőrtónus, orvos, sötét bőrtónus, terapeuta, ápolónő
 👨‍⚕	doktor, orvos, terapeuta, ápoló
 👨🏻‍⚕	doktor, doktor: világos bőrtónus, orvos, terapeuta, világos bőrtónus, ápoló
 👨🏼‍⚕	doktor, doktor: közepesen világos bőrtónus, közepesen világos bőrtónus, orvos, terapeuta, ápoló
@@ -709,6 +749,12 @@
 👩🏽‍⚕	doktornő, doktornő: közepes bőrtónus, közepes bőrtónus, nővér, orvos, terapeuta, ápolónő
 👩🏾‍⚕	doktornő, doktornő: közepesen sötét bőrtónus, közepesen sötét bőrtónus, nővér, orvos, terapeuta, ápolónő
 👩🏿‍⚕	doktornő, doktornő: sötét bőrtónus, nővér, orvos, sötét bőrtónus, terapeuta, ápolónő
+🧑‍🎓	diák, végzős
+🧑🏻‍🎓	diák, diák: világos bőrtónus, világos bőrtónus, végzős
+🧑🏼‍🎓	diák, diák: közepesen világos bőrtónus, közepesen világos bőrtónus, végzős
+🧑🏽‍🎓	diák, diák: közepes bőrtónus, közepes bőrtónus, végzős
+🧑🏾‍🎓	diák, diák: közepesen sötét bőrtónus, közepesen sötét bőrtónus, végzős
+🧑🏿‍🎓	diák, diák: sötét bőrtónus, sötét bőrtónus, végzős
 👨‍🎓	diák, egyetemista, férfi, férfi tanuló, tanuló
 👨🏻‍🎓	diák, egyetemista, férfi, férfi tanuló: világos bőrtónus, tanuló, világos bőrtónus
 👨🏼‍🎓	diák, egyetemista, férfi, férfi tanuló: közepesen világos bőrtónus, közepesen világos bőrtónus, tanuló
@@ -721,6 +767,12 @@
 👩🏽‍🎓	diák, egyetemista, közepes bőrtónus, nő, női tanuló, női tanuló: közepes bőrtónus, tanuló
 👩🏾‍🎓	diák, egyetemista, közepesen sötét bőrtónus, nő, női tanuló, női tanuló: közepesen sötét bőrtónus, tanuló
 👩🏿‍🎓	diák, egyetemista, nő, női tanuló, női tanuló: sötét bőrtónus, sötét bőrtónus, tanuló
+🧑‍🏫	oktató, professzor, tanár, tanár / tanárnő
+🧑🏻‍🏫	oktató, professzor, tanár, tanár / tanárnő, tanár / tanárnő: világos bőrtónus, világos bőrtónus
+🧑🏼‍🏫	közepesen világos bőrtónus, oktató, professzor, tanár, tanár / tanárnő, tanár / tanárnő: közepesen világos bőrtónus
+🧑🏽‍🏫	közepes bőrtónus, oktató, professzor, tanár, tanár / tanárnő, tanár / tanárnő: közepes bőrtónus
+🧑🏾‍🏫	közepesen sötét bőrtónus, oktató, professzor, tanár, tanár / tanárnő, tanár / tanárnő: közepesen sötét bőrtónus
+🧑🏿‍🏫	oktató, professzor, sötét bőrtónus, tanár, tanár / tanárnő, tanár / tanárnő: sötét bőrtónus
 👨‍🏫	férfi, oktató, professzor, tanár
 👨🏻‍🏫	férfi, oktató, professzor, tanár, tanár: világos bőrtónus, világos bőrtónus
 👨🏼‍🏫	férfi, közepesen világos bőrtónus, oktató, professzor, tanár, tanár: közepesen világos bőrtónus
@@ -733,6 +785,12 @@
 👩🏽‍🏫	közepes bőrtónus, nő, oktató, professzorasszony, tanárnő, tanárnő: közepes bőrtónus
 👩🏾‍🏫	közepesen sötét bőrtónus, nő, oktató, professzorasszony, tanárnő, tanárnő: közepesen sötét bőrtónus
 👩🏿‍🏫	nő, oktató, professzorasszony, sötét bőrtónus, tanárnő, tanárnő: sötét bőrtónus
+🧑‍⚖	bíró, bíró / bírónő, mérleg
+🧑🏻‍⚖	bíró, bíró / bírónő, bíró / bírónő: világos bőrtónus, mérleg, világos bőrtónus
+🧑🏼‍⚖	bíró, bíró / bírónő, bíró / bírónő: közepesen világos bőrtónus, közepesen világos bőrtónus, mérleg
+🧑🏽‍⚖	bíró, bíró / bírónő, bíró / bírónő: közepes bőrtónus, közepes bőrtónus, mérleg
+🧑🏾‍⚖	bíró, bíró / bírónő, bíró / bírónő: közepesen sötét bőrtónus, közepesen sötét bőrtónus, mérleg
+🧑🏿‍⚖	bíró, bíró / bírónő, bíró / bírónő: sötét bőrtónus, mérleg, sötét bőrtónus
 👨‍⚖	bíró
 👨🏻‍⚖	bíró, bíró: világos bőrtónus, világos bőrtónus
 👨🏼‍⚖	bíró, bíró: közepesen világos bőrtónus, közepesen világos bőrtónus
@@ -745,6 +803,12 @@
 👩🏽‍⚖	bírónő, bírónő: közepes bőrtónus, közepes bőrtónus
 👩🏾‍⚖	bírónő, bírónő: közepesen sötét bőrtónus, közepesen sötét bőrtónus
 👩🏿‍⚖	bírónő, bírónő: sötét bőrtónus, sötét bőrtónus
+🧑‍🌾	földműves, gazda, gazda / női gazda, növénytermesztő
+🧑🏻‍🌾	földműves, gazda, gazda / női gazda, gazda / női gazda: világos bőrtónus, növénytermesztő, világos bőrtónus
+🧑🏼‍🌾	földműves, gazda, gazda / női gazda, gazda / női gazda: közepesen világos bőrtónus, közepesen világos bőrtónus, növénytermesztő
+🧑🏽‍🌾	földműves, gazda, gazda / női gazda, gazda / női gazda: közepes bőrtónus, közepes bőrtónus, növénytermesztő
+🧑🏾‍🌾	földműves, gazda, gazda / női gazda, gazda / női gazda: közepesen sötét bőrtónus, közepesen sötét bőrtónus, növénytermesztő
+🧑🏿‍🌾	földműves, gazda, gazda / női gazda, gazda / női gazda: sötét bőrtónus, növénytermesztő, sötét bőrtónus
 👨‍🌾	férfi, földműves, gazda, kertész
 👨🏻‍🌾	férfi, földműves, gazda, gazda: világos bőrtónus, kertész, világos bőrtónus
 👨🏼‍🌾	férfi, földműves, gazda, gazda: közepesen világos bőrtónus, kertész, közepesen világos bőrtónus
@@ -757,6 +821,12 @@
 👩🏽‍🌾	földműves, gazda, kertész, közepes bőrtónus, nő, női gazda, női gazda: közepes bőrtónus
 👩🏾‍🌾	földműves, gazda, kertész, közepesen sötét bőrtónus, nő, női gazda, női gazda: közepesen sötét bőrtónus
 👩🏿‍🌾	földműves, gazda, kertész, nő, női gazda, női gazda: sötét bőrtónus, sötét bőrtónus
+🧑‍🍳	szakács, szakács / szakácsnő, séf
+🧑🏻‍🍳	szakács, szakács / szakácsnő, szakács / szakácsnő: világos bőrtónus, séf, világos bőrtónus
+🧑🏼‍🍳	közepesen világos bőrtónus, szakács, szakács / szakácsnő, szakács / szakácsnő: közepesen világos bőrtónus, séf
+🧑🏽‍🍳	közepes bőrtónus, szakács, szakács / szakácsnő, szakács / szakácsnő: közepes bőrtónus, séf
+🧑🏾‍🍳	közepesen sötét bőrtónus, szakács, szakács / szakácsnő, szakács / szakácsnő: közepesen sötét bőrtónus, séf
+🧑🏿‍🍳	szakács, szakács / szakácsnő, szakács / szakácsnő: sötét bőrtónus, séf, sötét bőrtónus
 👨‍🍳	férfi, szakács, séf
 👨🏻‍🍳	férfi, szakács, szakács: világos bőrtónus, séf, világos bőrtónus
 👨🏼‍🍳	férfi, közepesen világos bőrtónus, szakács, szakács: közepesen világos bőrtónus, séf
@@ -769,6 +839,12 @@
 👩🏽‍🍳	közepes bőrtónus, nő, szakácsnő, szakácsnő: közepes bőrtónus, séf
 👩🏾‍🍳	közepesen sötét bőrtónus, nő, szakácsnő, szakácsnő: közepesen sötét bőrtónus, séf
 👩🏿‍🍳	nő, szakácsnő, szakácsnő: sötét bőrtónus, séf, sötét bőrtónus
+🧑‍🔧	szaki, szerelő, szerelő / szerelőnő, villanyszerelő, vízvezeték-szerelő
+🧑🏻‍🔧	szaki, szerelő, szerelő / szerelőnő, szerelő / szerelőnő: világos bőrtónus, villanyszerelő, világos bőrtónus, vízvezeték-szerelő
+🧑🏼‍🔧	közepesen világos bőrtónus, szaki, szerelő, szerelő / szerelőnő, szerelő / szerelőnő: közepesen világos bőrtónus, villanyszerelő, vízvezeték-szerelő
+🧑🏽‍🔧	közepes bőrtónus, szaki, szerelő, szerelő / szerelőnő, szerelő / szerelőnő: közepes bőrtónus, villanyszerelő, vízvezeték-szerelő
+🧑🏾‍🔧	közepesen sötét bőrtónus, szaki, szerelő, szerelő / szerelőnő, szerelő / szerelőnő: közepesen sötét bőrtónus, villanyszerelő, vízvezeték-szerelő
+🧑🏿‍🔧	szaki, szerelő, szerelő / szerelőnő, szerelő / szerelőnő: sötét bőrtónus, sötét bőrtónus, villanyszerelő, vízvezeték-szerelő
 👨‍🔧	férfi, szerelő, villanyszerelő, vízszerelő
 👨🏻‍🔧	férfi, szerelő, szerelő: világos bőrtónus, villanyszerelő, világos bőrtónus, vízszerelő
 👨🏼‍🔧	férfi, közepesen világos bőrtónus, szerelő, szerelő: közepesen világos bőrtónus, villanyszerelő, vízszerelő
@@ -781,6 +857,12 @@
 👩🏽‍🔧	közepes bőrtónus, nő, szerelő, szerelőnő, szerelőnő: közepes bőrtónus, villanyszerelő, vízszerelő
 👩🏾‍🔧	közepesen sötét bőrtónus, nő, szerelő, szerelőnő, szerelőnő: közepesen sötét bőrtónus, villanyszerelő, vízszerelő
 👩🏿‍🔧	nő, szerelő, szerelőnő, szerelőnő: sötét bőrtónus, sötét bőrtónus, villanyszerelő, vízszerelő
+🧑‍🏭	dolgozó, gyári, munkás
+🧑🏻‍🏭	dolgozó, gyári, munkás, munkás: világos bőrtónus, világos bőrtónus
+🧑🏼‍🏭	dolgozó, gyári, közepesen világos bőrtónus, munkás, munkás: közepesen világos bőrtónus
+🧑🏽‍🏭	dolgozó, gyári, közepes bőrtónus, munkás, munkás: közepes bőrtónus
+🧑🏾‍🏭	dolgozó, gyári, közepesen sötét bőrtónus, munkás, munkás: közepesen sötét bőrtónus
+🧑🏿‍🏭	dolgozó, gyári, munkás, munkás: sötét bőrtónus, sötét bőrtónus
 👨‍🏭	dolgozó, férfi, férfi munkás, gyári, munkás
 👨🏻‍🏭	dolgozó, férfi, férfi munkás: világos bőrtónus, gyári, munkás, világos bőrtónus
 👨🏼‍🏭	dolgozó, férfi, férfi munkás: közepesen világos bőrtónus, gyári, közepesen világos bőrtónus, munkás
@@ -793,6 +875,12 @@
 👩🏽‍🏭	dolgozó, gyári, közepes bőrtónus, munkás, nő, női munkás, női munkás: közepes bőrtónus
 👩🏾‍🏭	dolgozó, gyári, közepesen sötét bőrtónus, munkás, nő, női munkás, női munkás: közepesen sötét bőrtónus
 👩🏿‍🏭	dolgozó, gyári, munkás, nő, női munkás, női munkás: sötét bőrtónus, sötét bőrtónus
+🧑‍💼	irodai dolgozó, menedzser, építész, értelmiségi, üzletember
+🧑🏻‍💼	irodai dolgozó, irodai dolgozó: világos bőrtónus, menedzser, világos bőrtónus, építész, értelmiségi, üzletember
+🧑🏼‍💼	irodai dolgozó, irodai dolgozó: közepesen világos bőrtónus, közepesen világos bőrtónus, menedzser, építész, értelmiségi, üzletember
+🧑🏽‍💼	irodai dolgozó, irodai dolgozó: közepes bőrtónus, közepes bőrtónus, menedzser, építész, értelmiségi, üzletember
+🧑🏾‍💼	irodai dolgozó, irodai dolgozó: közepesen sötét bőrtónus, közepesen sötét bőrtónus, menedzser, építész, értelmiségi, üzletember
+🧑🏿‍💼	irodai dolgozó, irodai dolgozó: sötét bőrtónus, menedzser, sötét bőrtónus, építész, értelmiségi, üzletember
 👨‍💼	alkalmazott, férfi, férfi irodista, irodai
 👨🏻‍💼	alkalmazott, férfi, férfi irodista, férfi irodista: világos bőrtónus, irodai, világos bőrtónus
 👨🏼‍💼	alkalmazott, férfi, férfi irodista, férfi irodista: közepesen világos bőrtónus, irodai, közepesen világos bőrtónus
@@ -805,6 +893,12 @@
 👩🏽‍💼	alkalmazott, irodai, közepes bőrtónus, női, női irodista, női irodista: közepes bőrtónus
 👩🏾‍💼	alkalmazott, irodai, közepesen sötét bőrtónus, női, női irodista, női irodista: közepesen sötét bőrtónus
 👩🏿‍💼	alkalmazott, irodai, női, női irodista, női irodista: sötét bőrtónus, sötét bőrtónus
+🧑‍🔬	biológus, fizikus, mérnök, tudás, tudós, vegyész
+🧑🏻‍🔬	biológus, fizikus, mérnök, tudás, tudás: világos bőrtónus, tudós, vegyész, világos bőrtónus
+🧑🏼‍🔬	biológus, fizikus, közepesen világos bőrtónus, mérnök, tudás, tudás: közepesen világos bőrtónus, tudós, vegyész
+🧑🏽‍🔬	biológus, fizikus, közepes bőrtónus, mérnök, tudás, tudás: közepes bőrtónus, tudós, vegyész
+🧑🏾‍🔬	biológus, fizikus, közepesen sötét bőrtónus, mérnök, tudás, tudás: közepesen sötét bőrtónus, tudós, vegyész
+🧑🏿‍🔬	biológus, fizikus, mérnök, sötét bőrtónus, tudás, tudás: sötét bőrtónus, tudós, vegyész
 👨‍🔬	fizikus, férfi, férfi tudós, kémikus, matematikus
 👨🏻‍🔬	fizikus, férfi, férfi tudós, férfi tudós: világos bőrtónus, kémikus, matematikus, világos bőrtónus
 👨🏼‍🔬	fizikus, férfi, férfi tudós, férfi tudós: közepesen világos bőrtónus, kémikus, közepesen világos bőrtónus, matematikus
@@ -817,6 +911,12 @@
 👩🏽‍🔬	fizikus, kémikus, közepes bőrtónus, matematikus, nő, női tudós, női tudós: közepes bőrtónus
 👩🏾‍🔬	fizikus, kémikus, közepesen sötét bőrtónus, matematikus, nő, női tudós, női tudós: közepesen sötét bőrtónus
 👩🏿‍🔬	fizikus, kémikus, matematikus, nő, női tudós, női tudós: sötét bőrtónus, sötét bőrtónus
+🧑‍💻	fejlesztő, feltaláló, informatikus, programozó, szoftver
+🧑🏻‍💻	fejlesztő, feltaláló, informatikus, informatikus: világos bőrtónus, programozó, szoftver, világos bőrtónus
+🧑🏼‍💻	fejlesztő, feltaláló, informatikus, informatikus: közepesen világos bőrtónus, közepesen világos bőrtónus, programozó, szoftver
+🧑🏽‍💻	fejlesztő, feltaláló, informatikus, informatikus: közepes bőrtónus, közepes bőrtónus, programozó, szoftver
+🧑🏾‍💻	fejlesztő, feltaláló, informatikus, informatikus: közepesen sötét bőrtónus, közepesen sötét bőrtónus, programozó, szoftver
+🧑🏿‍💻	fejlesztő, feltaláló, informatikus, informatikus: sötét bőrtónus, programozó, szoftver, sötét bőrtónus
 👨‍💻	fejlesztő, feltaláló, férfi, kódoló, programozó, programozó férfi, szoftver
 👨🏻‍💻	fejlesztő, feltaláló, férfi, kódoló, programozó, programozó férfi: világos bőrtónus, szoftver, világos bőrtónus
 👨🏼‍💻	fejlesztő, feltaláló, férfi, kódoló, közepesen világos bőrtónus, programozó, programozó férfi: közepesen világos bőrtónus, szoftver
@@ -829,6 +929,12 @@
 👩🏽‍💻	fejlesztő, feltaláló, kódoló, közepes bőrtónus, nő, programozó, programozó nő: közepes bőrtónus, szoftver
 👩🏾‍💻	fejlesztő, feltaláló, kódoló, közepesen sötét bőrtónus, nő, programozó, programozó nő: közepesen sötét bőrtónus, szoftver
 👩🏿‍💻	fejlesztő, feltaláló, kódoló, nő, programozó, programozó nő: sötét bőrtónus, szoftver, sötét bőrtónus
+🧑‍🎤	előadóművész, rock, sztár, színés, énekes
+🧑🏻‍🎤	előadóművész, rock, sztár, színés, világos bőrtónus, énekes, énekes: világos bőrtónus
+🧑🏼‍🎤	előadóművész, közepesen világos bőrtónus, rock, sztár, színés, énekes, énekes: közepesen világos bőrtónus
+🧑🏽‍🎤	előadóművész, közepes bőrtónus, rock, sztár, színés, énekes, énekes: közepes bőrtónus
+🧑🏾‍🎤	előadóművész, közepesen sötét bőrtónus, rock, sztár, színés, énekes, énekes: közepesen sötét bőrtónus
+🧑🏿‍🎤	előadóművész, rock, sztár, színés, sötét bőrtónus, énekes, énekes: sötét bőrtónus
 👨‍🎤	előadó, férfi, férfi énekes, művész, rock, sztár, énekes
 👨🏻‍🎤	előadó, férfi, férfi énekes: világos bőrtónus, művész, rock, sztár, világos bőrtónus, énekes
 👨🏼‍🎤	előadó, férfi, férfi énekes: közepesen világos bőrtónus, közepesen világos bőrtónus, művész, rock, sztár, énekes
@@ -841,6 +947,12 @@
 👩🏽‍🎤	előadó, közepes bőrtónus, művész, nő, női énekes, női énekes: közepes bőrtónus, rock, sztár, énekes
 👩🏾‍🎤	előadó, közepesen sötét bőrtónus, művész, nő, női énekes, női énekes: közepesen sötét bőrtónus, rock, sztár, énekes
 👩🏿‍🎤	előadó, művész, nő, női énekes, női énekes: sötét bőrtónus, rock, sztár, sötét bőrtónus, énekes
+🧑‍🎨	festő, művész, paletta
+🧑🏻‍🎨	festő, művész, művész: világos bőrtónus, paletta, világos bőrtónus
+🧑🏼‍🎨	festő, közepesen világos bőrtónus, művész, művész: közepesen világos bőrtónus, paletta
+🧑🏽‍🎨	festő, közepes bőrtónus, művész, művész: közepes bőrtónus, paletta
+🧑🏾‍🎨	festő, közepesen sötét bőrtónus, művész, művész: közepesen sötét bőrtónus, paletta
+🧑🏿‍🎨	festő, művész, művész: sötét bőrtónus, paletta, sötét bőrtónus
 👨‍🎨	festő, férfi, férfi művész, művész, paletta
 👨🏻‍🎨	festő, férfi, férfi művész: világos bőrtónus, művész, paletta, világos bőrtónus
 👨🏼‍🎨	festő, férfi, férfi művész: közepesen világos bőrtónus, közepesen világos bőrtónus, művész, paletta
@@ -853,6 +965,12 @@
 👩🏽‍🎨	festő, közepes bőrtónus, művész, nő, női művész, női művész: közepes bőrtónus, paletta
 👩🏾‍🎨	festő, közepesen sötét bőrtónus, művész, nő, női művész, női művész: közepesen sötét bőrtónus, paletta
 👩🏿‍🎨	festő, művész, nő, női művész, női művész: sötét bőrtónus, paletta, sötét bőrtónus
+🧑‍✈	pilóta, pilóta / pilótanő, repülőgép
+🧑🏻‍✈	pilóta, pilóta / pilótanő, pilóta / pilótanő: világos bőrtónus, repülőgép, világos bőrtónus
+🧑🏼‍✈	közepesen világos bőrtónus, pilóta, pilóta / pilótanő, pilóta / pilótanő: közepesen világos bőrtónus, repülőgép
+🧑🏽‍✈	közepes bőrtónus, pilóta, pilóta / pilótanő, pilóta / pilótanő: közepes bőrtónus, repülőgép
+🧑🏾‍✈	közepesen sötét bőrtónus, pilóta, pilóta / pilótanő, pilóta / pilótanő: közepesen sötét bőrtónus, repülőgép
+🧑🏿‍✈	pilóta, pilóta / pilótanő, pilóta / pilótanő: sötét bőrtónus, repülőgép, sötét bőrtónus
 👨‍✈	férfi, pilóta, repülő
 👨🏻‍✈	férfi, pilóta, pilóta: világos bőrtónus, repülő, világos bőrtónus
 👨🏼‍✈	férfi, közepesen világos bőrtónus, pilóta, pilóta: közepesen világos bőrtónus, repülő
@@ -865,6 +983,12 @@
 👩🏽‍✈	közepes bőrtónus, nő, pilóta, pilótanő, pilótanő: közepes bőrtónus, repülő
 👩🏾‍✈	közepesen sötét bőrtónus, nő, pilóta, pilótanő, pilótanő: közepesen sötét bőrtónus, repülő
 👩🏿‍✈	nő, pilóta, pilótanő, pilótanő: sötét bőrtónus, repülő, sötét bőrtónus
+🧑‍🚀	rakéta, űrhajós, űrhajós / űrhajósnő
+🧑🏻‍🚀	rakéta, világos bőrtónus, űrhajós, űrhajós / űrhajósnő, űrhajós / űrhajósnő: világos bőrtónus
+🧑🏼‍🚀	közepesen világos bőrtónus, rakéta, űrhajós, űrhajós / űrhajósnő, űrhajós / űrhajósnő: közepesen világos bőrtónus
+🧑🏽‍🚀	közepes bőrtónus, rakéta, űrhajós, űrhajós / űrhajósnő, űrhajós / űrhajósnő: közepes bőrtónus
+🧑🏾‍🚀	közepesen sötét bőrtónus, rakéta, űrhajós, űrhajós / űrhajósnő, űrhajós / űrhajósnő: közepesen sötét bőrtónus
+🧑🏿‍🚀	rakéta, sötét bőrtónus, űrhajós, űrhajós / űrhajósnő, űrhajós / űrhajósnő: sötét bőrtónus
 👨‍🚀	férfi, rakéta, űr, űrhajós
 👨🏻‍🚀	férfi, rakéta, világos bőrtónus, űr, űrhajós, űrhajós: világos bőrtónus
 👨🏼‍🚀	férfi, közepesen világos bőrtónus, rakéta, űr, űrhajós, űrhajós: közepesen világos bőrtónus
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	közepes bőrtónus, nő, rakéta, űr, űrhajós, űrhajósnő, űrhajósnő: közepes bőrtónus
 👩🏾‍🚀	közepesen sötét bőrtónus, nő, rakéta, űr, űrhajós, űrhajósnő, űrhajósnő: közepesen sötét bőrtónus
 👩🏿‍🚀	nő, rakéta, sötét bőrtónus, űr, űrhajós, űrhajósnő, űrhajósnő: sötét bőrtónus
+🧑‍🚒	tűzoltó, tűzoltó / tűzoltónő, tűzoltóautó
+🧑🏻‍🚒	tűzoltó, tűzoltó / tűzoltónő, tűzoltó / tűzoltónő: világos bőrtónus, tűzoltóautó, világos bőrtónus
+🧑🏼‍🚒	közepesen világos bőrtónus, tűzoltó, tűzoltó / tűzoltónő, tűzoltó / tűzoltónő: közepesen világos bőrtónus, tűzoltóautó
+🧑🏽‍🚒	közepes bőrtónus, tűzoltó, tűzoltó / tűzoltónő, tűzoltó / tűzoltónő: közepes bőrtónus, tűzoltóautó
+🧑🏾‍🚒	közepesen sötét bőrtónus, tűzoltó, tűzoltó / tűzoltónő, tűzoltó / tűzoltónő: közepesen sötét bőrtónus, tűzoltóautó
+🧑🏿‍🚒	sötét bőrtónus, tűzoltó, tűzoltó / tűzoltónő, tűzoltó / tűzoltónő: sötét bőrtónus, tűzoltóautó
 👨‍🚒	férfi, tűz, tűzoltó
 👨🏻‍🚒	férfi, tűz, tűzoltó, tűzoltó: világos bőrtónus, világos bőrtónus
 👨🏼‍🚒	férfi, közepesen világos bőrtónus, tűz, tűzoltó, tűzoltó: közepesen világos bőrtónus
@@ -943,6 +1073,7 @@
 💂🏽‍♀	közepes bőrtónus, nő, női őr, női őr: közepes bőrtónus, őr
 💂🏾‍♀	közepesen sötét bőrtónus, nő, női őr, női őr: közepesen sötét bőrtónus, őr
 💂🏿‍♀	nő, női őr, női őr: sötét bőrtónus, sötét bőrtónus, őr
+🥷	harcos, nindzsa, rejtett, rejtőzködés
 👷	sisak, védősisak, építkezés, építőmunkás
 👷🏻	sisak, világos bőrtónus, védősisak, építkezés, építőmunkás, építőmunkás: világos bőrtónus
 👷🏼	közepesen világos bőrtónus, sisak, védősisak, építkezés, építőmunkás, építőmunkás: közepesen világos bőrtónus
@@ -1003,18 +1134,42 @@
 🧕🏽	fejkendő, hidzsáb, közepes bőrtónus, mantilla, nő fejkendővel, nő fejkendővel: közepes bőrtónus, tichel
 🧕🏾	fejkendő, hidzsáb, közepesen sötét bőrtónus, mantilla, nő fejkendővel, nő fejkendővel: közepesen sötét bőrtónus, tichel
 🧕🏿	fejkendő, hidzsáb, mantilla, nő fejkendővel, nő fejkendővel: sötét bőrtónus, sötét bőrtónus, tichel
-🤵	férfi, szmoking, szmokingos férfi, vőlegény
-🤵🏻	férfi, szmoking, szmokingos férfi, szmokingos férfi: világos bőrtónus, világos bőrtónus, vőlegény
-🤵🏼	férfi, közepesen világos bőrtónus, szmoking, szmokingos férfi, szmokingos férfi: közepesen világos bőrtónus, vőlegény
-🤵🏽	férfi, közepes bőrtónus, szmoking, szmokingos férfi, szmokingos férfi: közepes bőrtónus, vőlegény
-🤵🏾	férfi, közepesen sötét bőrtónus, szmoking, szmokingos férfi, szmokingos férfi: közepesen sötét bőrtónus, vőlegény
-🤵🏿	férfi, szmoking, szmokingos férfi, szmokingos férfi: sötét bőrtónus, sötét bőrtónus, vőlegény
-👰	esküvő, fátyol, lakodalom, menyasszony, menyasszony fátyollal
-👰🏻	esküvő, fátyol, lakodalom, menyasszony, menyasszony fátyollal, menyasszony fátyollal: világos bőrtónus, világos bőrtónus
-👰🏼	esküvő, fátyol, közepesen világos bőrtónus, lakodalom, menyasszony, menyasszony fátyollal, menyasszony fátyollal: közepesen világos bőrtónus
-👰🏽	esküvő, fátyol, közepes bőrtónus, lakodalom, menyasszony, menyasszony fátyollal, menyasszony fátyollal: közepes bőrtónus
-👰🏾	esküvő, fátyol, közepesen sötét bőrtónus, lakodalom, menyasszony, menyasszony fátyollal, menyasszony fátyollal: közepesen sötét bőrtónus
-👰🏿	esküvő, fátyol, lakodalom, menyasszony, menyasszony fátyollal, menyasszony fátyollal: sötét bőrtónus, sötét bőrtónus
+🤵	ember, szmoking, szmokingos ember, vőlegény
+🤵🏻	ember, szmoking, szmokingos ember, szmokingos ember: világos bőrtónus, világos bőrtónus, vőlegény
+🤵🏼	ember, közepesen világos bőrtónus, szmoking, szmokingos ember, szmokingos ember: közepesen világos bőrtónus, vőlegény
+🤵🏽	ember, közepes bőrtónus, szmoking, szmokingos ember, szmokingos ember: közepes bőrtónus, vőlegény
+🤵🏾	ember, közepesen sötét bőrtónus, szmoking, szmokingos ember, szmokingos ember: közepesen sötét bőrtónus, vőlegény
+🤵🏿	ember, szmoking, szmokingos ember, szmokingos ember: sötét bőrtónus, sötét bőrtónus, vőlegény
+🤵‍♂	férfi, szmoking, szmokingos férfi
+🤵🏻‍♂	férfi, szmoking, szmokingos férfi, szmokingos férfi: világos bőrtónus, világos bőrtónus
+🤵🏼‍♂	férfi, közepesen világos bőrtónus, szmoking, szmokingos férfi, szmokingos férfi: közepesen világos bőrtónus
+🤵🏽‍♂	férfi, közepes bőrtónus, szmoking, szmokingos férfi, szmokingos férfi: közepes bőrtónus
+🤵🏾‍♂	férfi, közepesen sötét bőrtónus, szmoking, szmokingos férfi, szmokingos férfi: közepesen sötét bőrtónus
+🤵🏿‍♂	férfi, szmoking, szmokingos férfi, szmokingos férfi: sötét bőrtónus, sötét bőrtónus
+🤵‍♀	nő, szmoking, szmokingos nő
+🤵🏻‍♀	nő, szmoking, szmokingos nő, szmokingos nő: világos bőrtónus, világos bőrtónus
+🤵🏼‍♀	közepesen világos bőrtónus, nő, szmoking, szmokingos nő, szmokingos nő: közepesen világos bőrtónus
+🤵🏽‍♀	közepes bőrtónus, nő, szmoking, szmokingos nő, szmokingos nő: közepes bőrtónus
+🤵🏾‍♀	közepesen sötét bőrtónus, nő, szmoking, szmokingos nő, szmokingos nő: közepesen sötét bőrtónus
+🤵🏿‍♀	nő, szmoking, szmokingos nő, szmokingos nő: sötét bőrtónus, sötét bőrtónus
+👰	ember, ember fátyollal, esküvő, fátyol, menyasszony
+👰🏻	ember, ember fátyollal, ember fátyollal: világos bőrtónus, esküvő, fátyol, menyasszony, világos bőrtónus
+👰🏼	ember, ember fátyollal, ember fátyollal: közepesen világos bőrtónus, esküvő, fátyol, közepesen világos bőrtónus, menyasszony
+👰🏽	ember, ember fátyollal, ember fátyollal: közepes bőrtónus, esküvő, fátyol, közepes bőrtónus, menyasszony
+👰🏾	ember, ember fátyollal, ember fátyollal: közepesen sötét bőrtónus, esküvő, fátyol, közepesen sötét bőrtónus, menyasszony
+👰🏿	ember, ember fátyollal, ember fátyollal: sötét bőrtónus, esküvő, fátyol, menyasszony, sötét bőrtónus
+👰‍♂	fátyol, férfi, férfi fátyollal
+👰🏻‍♂	fátyol, férfi, férfi fátyollal, férfi fátyollal: világos bőrtónus, világos bőrtónus
+👰🏼‍♂	fátyol, férfi, férfi fátyollal, férfi fátyollal: közepesen világos bőrtónus, közepesen világos bőrtónus
+👰🏽‍♂	fátyol, férfi, férfi fátyollal, férfi fátyollal: közepes bőrtónus, közepes bőrtónus
+👰🏾‍♂	fátyol, férfi, férfi fátyollal, férfi fátyollal: közepesen sötét bőrtónus, közepesen sötét bőrtónus
+👰🏿‍♂	fátyol, férfi, férfi fátyollal, férfi fátyollal: sötét bőrtónus, sötét bőrtónus
+👰‍♀	fátyol, nő, nő fátyollal
+👰🏻‍♀	fátyol, nő, nő fátyollal, nő fátyollal: világos bőrtónus, világos bőrtónus
+👰🏼‍♀	fátyol, közepesen világos bőrtónus, nő, nő fátyollal, nő fátyollal: közepesen világos bőrtónus
+👰🏽‍♀	fátyol, közepes bőrtónus, nő, nő fátyollal, nő fátyollal: közepes bőrtónus
+👰🏾‍♀	fátyol, közepesen sötét bőrtónus, nő, nő fátyollal, nő fátyollal: közepesen sötét bőrtónus
+👰🏿‍♀	fátyol, nő, nő fátyollal, nő fátyollal: sötét bőrtónus, sötét bőrtónus
 🤰	nő, terhes, terhes nő, várandós
 🤰🏻	nő, terhes, terhes nő: világos bőrtónus, világos bőrtónus, várandós
 🤰🏼	közepesen világos bőrtónus, nő, terhes, terhes nő: közepesen világos bőrtónus, várandós
@@ -1027,6 +1182,24 @@
 🤱🏽	baba, közepes bőrtónus, mell, szoptatás, szoptatás: közepes bőrtónus
 🤱🏾	baba, közepesen sötét bőrtónus, mell, szoptatás, szoptatás: közepesen sötét bőrtónus
 🤱🏿	baba, mell, szoptatás, szoptatás: sötét bőrtónus, sötét bőrtónus
+👩‍🍼	etetés, gondozás, kisbaba, kisbabát etető nő, nő
+👩🏻‍🍼	etetés, gondozás, kisbaba, kisbabát etető nő, kisbabát etető nő: világos bőrtónus, nő, világos bőrtónus
+👩🏼‍🍼	etetés, gondozás, kisbaba, kisbabát etető nő, kisbabát etető nő: közepesen világos bőrtónus, közepesen világos bőrtónus, nő
+👩🏽‍🍼	etetés, gondozás, kisbaba, kisbabát etető nő, kisbabát etető nő: közepes bőrtónus, közepes bőrtónus, nő
+👩🏾‍🍼	etetés, gondozás, kisbaba, kisbabát etető nő, kisbabát etető nő: közepesen sötét bőrtónus, közepesen sötét bőrtónus, nő
+👩🏿‍🍼	etetés, gondozás, kisbaba, kisbabát etető nő, kisbabát etető nő: sötét bőrtónus, nő, sötét bőrtónus
+👨‍🍼	etetés, férfi, gondozás, kisbaba, kisbabát etető férfi
+👨🏻‍🍼	etetés, férfi, gondozás, kisbaba, kisbabát etető férfi, kisbabát etető férfi: világos bőrtónus, világos bőrtónus
+👨🏼‍🍼	etetés, férfi, gondozás, kisbaba, kisbabát etető férfi, kisbabát etető férfi: közepesen világos bőrtónus, közepesen világos bőrtónus
+👨🏽‍🍼	etetés, férfi, gondozás, kisbaba, kisbabát etető férfi, kisbabát etető férfi: közepes bőrtónus, közepes bőrtónus
+👨🏾‍🍼	etetés, férfi, gondozás, kisbaba, kisbabát etető férfi, kisbabát etető férfi: közepesen sötét bőrtónus, közepesen sötét bőrtónus
+👨🏿‍🍼	etetés, férfi, gondozás, kisbaba, kisbabát etető férfi, kisbabát etető férfi: sötét bőrtónus, sötét bőrtónus
+🧑‍🍼	etetés, gondozás, kisbaba, kisbabát etető személy, személy
+🧑🏻‍🍼	etetés, gondozás, kisbaba, kisbabát etető személy, kisbabát etető személy: világos bőrtónus, személy, világos bőrtónus
+🧑🏼‍🍼	etetés, gondozás, kisbaba, kisbabát etető személy, kisbabát etető személy: közepesen világos bőrtónus, közepesen világos bőrtónus, személy
+🧑🏽‍🍼	etetés, gondozás, kisbaba, kisbabát etető személy, kisbabát etető személy: közepes bőrtónus, közepes bőrtónus, személy
+🧑🏾‍🍼	etetés, gondozás, kisbaba, kisbabát etető személy, kisbabát etető személy: közepesen sötét bőrtónus, közepesen sötét bőrtónus, személy
+🧑🏿‍🍼	etetés, gondozás, kisbaba, kisbabát etető személy, kisbabát etető személy: sötét bőrtónus, személy, sötét bőrtónus
 👼	angyal, arc, baba, babaangyal, mese
 👼🏻	angyal, arc, baba, babaangyal, babaangyal: világos bőrtónus, mese, világos bőrtónus
 👼🏼	angyal, arc, baba, babaangyal, babaangyal: közepesen világos bőrtónus, közepesen világos bőrtónus, mese
@@ -1045,6 +1218,12 @@
 🤶🏽	anyó, karácsony, közepes bőrtónus, mikulás ruhás anyó, mikulás ruhás anyó: közepes bőrtónus
 🤶🏾	anyó, karácsony, közepesen sötét bőrtónus, mikulás ruhás anyó, mikulás ruhás anyó: közepesen sötét bőrtónus
 🤶🏿	anyó, karácsony, mikulás ruhás anyó, mikulás ruhás anyó: sötét bőrtónus, sötét bőrtónus
+🧑‍🎄	Mikulás, karácsony, télapó
+🧑🏻‍🎄	Mikulás, karácsony, télapó, télapó: világos bőrtónus, világos bőrtónus
+🧑🏼‍🎄	Mikulás, karácsony, közepesen világos bőrtónus, télapó, télapó: közepesen világos bőrtónus
+🧑🏽‍🎄	Mikulás, karácsony, közepes bőrtónus, télapó, télapó: közepes bőrtónus
+🧑🏾‍🎄	Mikulás, karácsony, közepesen sötét bőrtónus, télapó, télapó: közepesen sötét bőrtónus
+🧑🏿‍🎄	Mikulás, karácsony, sötét bőrtónus, télapó, télapó: sötét bőrtónus
 🦸	hős, hősnő, jó, szuperhős, szuperképesség
 🦸🏻	hős, hősnő, jó, szuperhős, szuperhős: világos bőrtónus, szuperképesség, világos bőrtónus
 🦸🏼	hős, hősnő, jó, közepesen világos bőrtónus, szuperhős, szuperhős: közepesen világos bőrtónus, szuperképesség
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	közepes bőrtónus, nő, térdel, térdelő nő, térdelő nő: közepes bőrtónus
 🧎🏾‍♀	közepesen sötét bőrtónus, nő, térdel, térdelő nő, térdelő nő: közepesen sötét bőrtónus
 🧎🏿‍♀	nő, sötét bőrtónus, térdel, térdelő nő, térdelő nő: sötét bőrtónus
+🧑‍🦯	akadálymentesség, ember fehér bottal, vak
+🧑🏻‍🦯	akadálymentesség, ember fehér bottal, ember fehér bottal: világos bőrtónus, vak, világos bőrtónus
+🧑🏼‍🦯	akadálymentesség, ember fehér bottal, ember fehér bottal: közepesen világos bőrtónus, közepesen világos bőrtónus, vak
+🧑🏽‍🦯	akadálymentesség, ember fehér bottal, ember fehér bottal: közepes bőrtónus, közepes bőrtónus, vak
+🧑🏾‍🦯	akadálymentesség, ember fehér bottal, ember fehér bottal: közepesen sötét bőrtónus, közepesen sötét bőrtónus, vak
+🧑🏿‍🦯	akadálymentesség, ember fehér bottal, ember fehér bottal: sötét bőrtónus, sötét bőrtónus, vak
 👨‍🦯	akadálymentesség, férfi, férfi fehér bottal, vak
 👨🏻‍🦯	akadálymentesség, férfi, férfi fehér bottal, férfi fehér bottal: világos bőrtónus, vak, világos bőrtónus
 👨🏼‍🦯	akadálymentesség, férfi, férfi fehér bottal, férfi fehér bottal: közepesen világos bőrtónus, közepesen világos bőrtónus, vak
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	akadálymentesség, közepes bőrtónus, nő, nő fehér bottal, nő fehér bottal: közepes bőrtónus, vak
 👩🏾‍🦯	akadálymentesség, közepesen sötét bőrtónus, nő, nő fehér bottal, nő fehér bottal: közepesen sötét bőrtónus, vak
 👩🏿‍🦯	akadálymentesség, nő, nő fehér bottal, nő fehér bottal: sötét bőrtónus, sötét bőrtónus, vak
+🧑‍🦼	akadálymentesség, ember motoros kerekesszékben, kerekesszék
+🧑🏻‍🦼	akadálymentesség, ember motoros kerekesszékben, ember motoros kerekesszékben: világos bőrtónus, kerekesszék, világos bőrtónus
+🧑🏼‍🦼	akadálymentesség, ember motoros kerekesszékben, ember motoros kerekesszékben: közepesen világos bőrtónus, kerekesszék, közepesen világos bőrtónus
+🧑🏽‍🦼	akadálymentesség, ember motoros kerekesszékben, ember motoros kerekesszékben: közepes bőrtónus, kerekesszék, közepes bőrtónus
+🧑🏾‍🦼	akadálymentesség, ember motoros kerekesszékben, ember motoros kerekesszékben: közepesen sötét bőrtónus, kerekesszék, közepesen sötét bőrtónus
+🧑🏿‍🦼	akadálymentesség, ember motoros kerekesszékben, ember motoros kerekesszékben: sötét bőrtónus, kerekesszék, sötét bőrtónus
 👨‍🦼	akadálymentesség, férfi, férfi motoros kerekesszékben, kerekesszék
 👨🏻‍🦼	akadálymentesség, férfi, férfi motoros kerekesszékben, férfi motoros kerekesszékben: világos bőrtónus, kerekesszék, világos bőrtónus
 👨🏼‍🦼	akadálymentesség, férfi, férfi motoros kerekesszékben, férfi motoros kerekesszékben: közepesen világos bőrtónus, kerekesszék, közepesen világos bőrtónus
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	akadálymentesség, kerekesszék, közepes bőrtónus, nő, nő motoros kerekesszékben, nő motoros kerekesszékben: közepes bőrtónus
 👩🏾‍🦼	akadálymentesség, kerekesszék, közepesen sötét bőrtónus, nő, nő motoros kerekesszékben, nő motoros kerekesszékben: közepesen sötét bőrtónus
 👩🏿‍🦼	akadálymentesség, kerekesszék, nő, nő motoros kerekesszékben, nő motoros kerekesszékben: sötét bőrtónus, sötét bőrtónus
+🧑‍🦽	akadálymentesség, kerekesszék, kerekesszékes ember
+🧑🏻‍🦽	akadálymentesség, kerekesszék, kerekesszékes ember, kerekesszékes ember: világos bőrtónus, világos bőrtónus
+🧑🏼‍🦽	akadálymentesség, kerekesszék, kerekesszékes ember, kerekesszékes ember: közepesen világos bőrtónus, közepesen világos bőrtónus
+🧑🏽‍🦽	akadálymentesség, kerekesszék, kerekesszékes ember, kerekesszékes ember: közepes bőrtónus, közepes bőrtónus
+🧑🏾‍🦽	akadálymentesség, kerekesszék, kerekesszékes ember, kerekesszékes ember: közepesen sötét bőrtónus, közepesen sötét bőrtónus
+🧑🏿‍🦽	akadálymentesség, kerekesszék, kerekesszékes ember, kerekesszékes ember: sötét bőrtónus, sötét bőrtónus
 👨‍🦽	akadálymentesség, férfi, férfi kézi hajtású kerekesszékben, kerekesszék
 👨🏻‍🦽	akadálymentesség, férfi, férfi kézi hajtású kerekesszékben, férfi kézi hajtású kerekesszékben: világos bőrtónus, kerekesszék, világos bőrtónus
 👨🏼‍🦽	akadálymentesség, férfi, férfi kézi hajtású kerekesszékben, férfi kézi hajtású kerekesszékben: közepesen világos bőrtónus, kerekesszék, közepesen világos bőrtónus
@@ -1643,15 +1840,25 @@
 🛌🏿	alvás, ember az ágyban, ember az ágyban: sötét bőrtónus, szálloda, sötét bőrtónus
 🧑‍🤝‍🧑	egymás kezét fogó emberek, fogás, kéz, kézenfogva, pár
 🧑🏻‍🤝‍🧑🏻	egymás kezét fogó emberek, egymás kezét fogó emberek: világos bőrtónus, fogás, kéz, kézenfogva, pár, világos bőrtónus
+🧑🏻‍🤝‍🧑🏼	egymás kezét fogó emberek, egymás kezét fogó emberek: világos bőrtónus és közepesen világos bőrtónus, fogás, kéz, kézenfogva, közepesen világos bőrtónus, pár, világos bőrtónus
+🧑🏻‍🤝‍🧑🏽	egymás kezét fogó emberek, egymás kezét fogó emberek: világos bőrtónus és közepes bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, pár, világos bőrtónus
+🧑🏻‍🤝‍🧑🏾	egymás kezét fogó emberek, egymás kezét fogó emberek: világos bőrtónus és közepesen sötét bőrtónus, fogás, kéz, kézenfogva, közepesen sötét bőrtónus, pár, világos bőrtónus
+🧑🏻‍🤝‍🧑🏿	egymás kezét fogó emberek, egymás kezét fogó emberek: világos bőrtónus és sötét bőrtónus, fogás, kéz, kézenfogva, pár, sötét bőrtónus, világos bőrtónus
 🧑🏼‍🤝‍🧑🏻	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen világos bőrtónus és világos bőrtónus, fogás, kéz, kézenfogva, közepesen világos bőrtónus, pár, világos bőrtónus
 🧑🏼‍🤝‍🧑🏼	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen világos bőrtónus, fogás, kéz, kézenfogva, közepesen világos bőrtónus, pár
+🧑🏼‍🤝‍🧑🏽	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen világos bőrtónus és közepes bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, közepesen világos bőrtónus, pár
+🧑🏼‍🤝‍🧑🏾	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen világos bőrtónus és közepesen sötét bőrtónus, fogás, kéz, kézenfogva, közepesen sötét bőrtónus, közepesen világos bőrtónus, pár
+🧑🏼‍🤝‍🧑🏿	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen világos bőrtónus és sötét bőrtónus, fogás, kéz, kézenfogva, közepesen világos bőrtónus, pár, sötét bőrtónus
 🧑🏽‍🤝‍🧑🏻	egymás kezét fogó emberek, egymás kezét fogó emberek: közepes bőrtónus és világos bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, pár, világos bőrtónus
 🧑🏽‍🤝‍🧑🏼	egymás kezét fogó emberek, egymás kezét fogó emberek: közepes bőrtónus és közepesen világos bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, közepesen világos bőrtónus, pár
 🧑🏽‍🤝‍🧑🏽	egymás kezét fogó emberek, egymás kezét fogó emberek: közepes bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, pár
+🧑🏽‍🤝‍🧑🏾	egymás kezét fogó emberek, egymás kezét fogó emberek: közepes bőrtónus és közepesen sötét bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, közepesen sötét bőrtónus, pár
+🧑🏽‍🤝‍🧑🏿	egymás kezét fogó emberek, egymás kezét fogó emberek: közepes bőrtónus és sötét bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, pár, sötét bőrtónus
 🧑🏾‍🤝‍🧑🏻	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen sötét bőrtónus és világos bőrtónus, fogás, kéz, kézenfogva, közepesen sötét bőrtónus, pár, világos bőrtónus
 🧑🏾‍🤝‍🧑🏼	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen sötét bőrtónus és közepesen világos bőrtónus, fogás, kéz, kézenfogva, közepesen sötét bőrtónus, közepesen világos bőrtónus, pár
 🧑🏾‍🤝‍🧑🏽	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen sötét bőrtónus és közepes bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, közepesen sötét bőrtónus, pár
 🧑🏾‍🤝‍🧑🏾	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen sötét bőrtónus, fogás, kéz, kézenfogva, közepesen sötét bőrtónus, pár
+🧑🏾‍🤝‍🧑🏿	egymás kezét fogó emberek, egymás kezét fogó emberek: közepesen sötét bőrtónus és sötét bőrtónus, fogás, kéz, kézenfogva, közepesen sötét bőrtónus, pár, sötét bőrtónus
 🧑🏿‍🤝‍🧑🏻	egymás kezét fogó emberek, egymás kezét fogó emberek: sötét bőrtónus és világos bőrtónus, fogás, kéz, kézenfogva, pár, sötét bőrtónus, világos bőrtónus
 🧑🏿‍🤝‍🧑🏼	egymás kezét fogó emberek, egymás kezét fogó emberek: sötét bőrtónus és közepesen világos bőrtónus, fogás, kéz, kézenfogva, közepesen világos bőrtónus, pár, sötét bőrtónus
 🧑🏿‍🤝‍🧑🏽	egymás kezét fogó emberek, egymás kezét fogó emberek: sötét bőrtónus és közepes bőrtónus, fogás, kéz, kézenfogva, közepes bőrtónus, pár, sötét bőrtónus
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	egymás kezét fogó emberek, egymás kezét fogó emberek: sötét bőrtónus, fogás, kéz, kézenfogva, pár, sötét bőrtónus
 👭	kézen fogva, kézen fogva álló nők, nők, pár
 👭🏻	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: világos bőrtónus, nők, pár, világos bőrtónus
+👩🏻‍🤝‍👩🏼	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: világos bőrtónus és közepesen világos bőrtónus, közepesen világos bőrtónus, nők, pár, világos bőrtónus
+👩🏻‍🤝‍👩🏽	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: világos bőrtónus és közepes bőrtónus, közepes bőrtónus, nők, pár, világos bőrtónus
+👩🏻‍🤝‍👩🏾	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: világos bőrtónus és közepesen sötét bőrtónus, közepesen sötét bőrtónus, nők, pár, világos bőrtónus
+👩🏻‍🤝‍👩🏿	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: világos bőrtónus és sötét bőrtónus, nők, pár, sötét bőrtónus, világos bőrtónus
 👩🏼‍🤝‍👩🏻	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen világos bőrtónus és világos bőrtónus, közepesen világos bőrtónus, nők, pár, világos bőrtónus
 👭🏼	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen világos bőrtónus, közepesen világos bőrtónus, nők, pár
+👩🏼‍🤝‍👩🏽	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen világos bőrtónus és közepes bőrtónus, közepes bőrtónus, közepesen világos bőrtónus, nők, pár
+👩🏼‍🤝‍👩🏾	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen világos bőrtónus és közepesen sötét bőrtónus, közepesen sötét bőrtónus, közepesen világos bőrtónus, nők, pár
+👩🏼‍🤝‍👩🏿	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen világos bőrtónus és sötét bőrtónus, közepesen világos bőrtónus, nők, pár, sötét bőrtónus
 👩🏽‍🤝‍👩🏻	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepes bőrtónus és világos bőrtónus, közepes bőrtónus, nők, pár, világos bőrtónus
 👩🏽‍🤝‍👩🏼	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepes bőrtónus és közepesen világos bőrtónus, közepes bőrtónus, közepesen világos bőrtónus, nők, pár
 👭🏽	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepes bőrtónus, közepes bőrtónus, nők, pár
+👩🏽‍🤝‍👩🏾	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepes bőrtónus és közepesen sötét bőrtónus, közepes bőrtónus, közepesen sötét bőrtónus, nők, pár
+👩🏽‍🤝‍👩🏿	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepes bőrtónus és sötét bőrtónus, közepes bőrtónus, nők, pár, sötét bőrtónus
 👩🏾‍🤝‍👩🏻	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen sötét bőrtónus és világos bőrtónus, közepesen sötét bőrtónus, nők, pár, világos bőrtónus
 👩🏾‍🤝‍👩🏼	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen sötét bőrtónus és közepesen világos bőrtónus, közepesen sötét bőrtónus, közepesen világos bőrtónus, nők, pár
 👩🏾‍🤝‍👩🏽	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen sötét bőrtónus és közepes bőrtónus, közepes bőrtónus, közepesen sötét bőrtónus, nők, pár
 👭🏾	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen sötét bőrtónus, közepesen sötét bőrtónus, nők, pár
+👩🏾‍🤝‍👩🏿	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: közepesen sötét bőrtónus és sötét bőrtónus, közepesen sötét bőrtónus, nők, pár, sötét bőrtónus
 👩🏿‍🤝‍👩🏻	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: sötét bőrtónus és világos bőrtónus, nők, pár, sötét bőrtónus, világos bőrtónus
 👩🏿‍🤝‍👩🏼	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: sötét bőrtónus és közepesen világos bőrtónus, közepesen világos bőrtónus, nők, pár, sötét bőrtónus
 👩🏿‍🤝‍👩🏽	kézen fogva, kézen fogva álló nők, kézen fogva álló nők: sötét bőrtónus és közepes bőrtónus, közepes bőrtónus, nők, pár, sötét bőrtónus
@@ -1701,15 +1918,25 @@
 👫🏿	kéz a kézben, kézen fogva álló férfi és nő, kézen fogva álló férfi és nő: sötét bőrtónus, pár, sötét bőrtónus
 👬	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, pár
 👬🏻	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: világos bőrtónus, pár, világos bőrtónus
+👨🏻‍🤝‍👨🏼	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: világos bőrtónus és közepesen világos bőrtónus, közepesen világos bőrtónus, pár, világos bőrtónus
+👨🏻‍🤝‍👨🏽	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: világos bőrtónus és közepes bőrtónus, közepes bőrtónus, pár, világos bőrtónus
+👨🏻‍🤝‍👨🏾	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: világos bőrtónus és közepesen sötét bőrtónus, közepesen sötét bőrtónus, pár, világos bőrtónus
+👨🏻‍🤝‍👨🏿	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: világos bőrtónus és sötét bőrtónus, pár, sötét bőrtónus, világos bőrtónus
 👨🏼‍🤝‍👨🏻	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen világos bőrtónus és világos bőrtónus, közepesen világos bőrtónus, pár, világos bőrtónus
 👬🏼	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen világos bőrtónus, közepesen világos bőrtónus, pár
+👨🏼‍🤝‍👨🏽	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen világos bőrtónus és közepes bőrtónus, közepes bőrtónus, közepesen világos bőrtónus, pár
+👨🏼‍🤝‍👨🏾	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen világos bőrtónus és közepesen sötét bőrtónus, közepesen sötét bőrtónus, közepesen világos bőrtónus, pár
+👨🏼‍🤝‍👨🏿	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen világos bőrtónus és sötét bőrtónus, közepesen világos bőrtónus, pár, sötét bőrtónus
 👨🏽‍🤝‍👨🏻	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepes bőrtónus és világos bőrtónus, közepes bőrtónus, pár, világos bőrtónus
 👨🏽‍🤝‍👨🏼	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepes bőrtónus és közepesen világos bőrtónus, közepes bőrtónus, közepesen világos bőrtónus, pár
 👬🏽	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepes bőrtónus, közepes bőrtónus, pár
+👨🏽‍🤝‍👨🏾	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepes bőrtónus és közepesen sötét bőrtónus, közepes bőrtónus, közepesen sötét bőrtónus, pár
+👨🏽‍🤝‍👨🏿	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepes bőrtónus és sötét bőrtónus, közepes bőrtónus, pár, sötét bőrtónus
 👨🏾‍🤝‍👨🏻	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen sötét bőrtónus és világos bőrtónus, közepesen sötét bőrtónus, pár, világos bőrtónus
 👨🏾‍🤝‍👨🏼	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen sötét bőrtónus és közepesen világos bőrtónus, közepesen sötét bőrtónus, közepesen világos bőrtónus, pár
 👨🏾‍🤝‍👨🏽	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen sötét bőrtónus és közepes bőrtónus, közepes bőrtónus, közepesen sötét bőrtónus, pár
 👬🏾	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen sötét bőrtónus, közepesen sötét bőrtónus, pár
+👨🏾‍🤝‍👨🏿	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: közepesen sötét bőrtónus és sötét bőrtónus, közepesen sötét bőrtónus, pár, sötét bőrtónus
 👨🏿‍🤝‍👨🏻	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: sötét bőrtónus és világos bőrtónus, pár, sötét bőrtónus, világos bőrtónus
 👨🏿‍🤝‍👨🏼	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: sötét bőrtónus és közepesen világos bőrtónus, közepesen világos bőrtónus, pár, sötét bőrtónus
 👨🏿‍🤝‍👨🏽	férfiak, ikrek, kézen fogva, kézen fogva álló férfiak, kézen fogva álló férfiak: sötét bőrtónus és közepes bőrtónus, közepes bőrtónus, pár, sötét bőrtónus
@@ -1752,6 +1979,7 @@
 🗣️	arc, beszéd, beszélő fej, fej, sziluett
 👤	ember, ember sziluettje melltől felfelé, sziluett
 👥	ember, két ember sziluettje melltől felfelé, sziluett
+🫂	egymást ölelő emberek, helló, köszönet, viszlát, ölelés
 👣	lábnyom, lábnyomok, nyomok
 🦰	vörös haj, vöröshajú
 🦱	afro, göndör, göndör haj, loknis
@@ -1771,6 +1999,7 @@
 🦝	kíváncsi, mosómedve, ravasz
 🐱	cica, fej, kedvenc, kisállat, macska, macskafej
 🐈️	kedvenc, kisállat, macska
+🐈‍⬛	balszerencse, fekete, fekete macska, macska
 🦁	csillagjegy, fej, oroszlán, oroszlánfej, állatöv
 🐯	fej, tigris, tigrisfej
 🐅	tigris, állat
@@ -1780,6 +2009,7 @@
 🦄	egyszarvú, fej, unikornis, unikornisfej
 🦓	csík, zebra
 🦌	agancs, szarvas, állat
+🦬	bölény, csorda
 🐮	fej, tehén, tehénfej
 🐂	bika, csillagjegy, állatöv, ökör
 🐃	bölény, víz, vízibölény
@@ -1796,6 +2026,7 @@
 🦙	alpaka, guanako, gyapjú, láma, vicuña
 🦒	folt, foltok, zsiráf
 🐘	elefánt, ormány
+🦣	gyapjas, kihalt, mamut, nagy, ormányos
 🦏	orrszarvú, állat
 🦛	víziló
 🐭	egér, egérfej, fej
@@ -1805,9 +2036,11 @@
 🐰	fej, kedvenc, kisállat, nyuszi, nyúl, nyúlfej
 🐇	kedvenc, kisállat, nyuszi, nyúl
 🐿️	mogyoró, mókus
+🦫	gát, hód
 🦔	sün, tüskés
 🦇	denevér, drakula, vámpír, állat
 🐻	fej, maci, medve, medvefej
+🐻‍❄	fehér, jegesmedve, medve, sarkvidék
 🐨	fej, koala, maci, medve
 🐼	fej, panda, pandafej
 🦥	lajhár, lassú, lusta
@@ -1829,6 +2062,8 @@
 🦆	kacsa, madár
 🦢	fiatal hattyú, hattyú, madár, rút kiskacsa
 🦉	bagoly, bölcs, madár
+🦤	Mauritius, dodó, kihalt, madár, nagy
+🪶	madár, madártoll, repülés, toll, tollazat
 🦩	flamingó, színpompás, trópusi
 🦚	büszke, hivalkodó, madár, páva, pávatyúk
 🦜	beszél, kalóz, madár, papagáj
@@ -1844,6 +2079,7 @@
 🐳	bálna, fej, fröcskölés, fröcskölő bálna
 🐋	bálna
 🐬	delfin
+🦭	fóka, oroszlánfóka
 🐟️	csillagjegy, hal, halak, állatöv
 🐠	díszhal, hal, trópusi, trópusi hal
 🐡	gömbhal, hal
@@ -1855,12 +2091,16 @@
 🐛	bogár, rovar
 🐜	hangya, rovar
 🐝	méh, méhecske, rovar
+🪲	bogár, rovar
 🐞	bogár, katica, katicabogár, rovar
 🦗	szöcske, tücsök
+🪳	csótány, kártevő, rovar, svábbogár
 🕷️	pók, rovar
 🕸️	háló, pók, pókháló
 🦂	csillagjegy, skorpió, állatöv
 🦟	betegség, láz, malária, rovar, szúnyog, vírus
+🪰	betegség, féreg, kártevő, légy, rohadás
+🪱	féreg, földigiliszta, gyűrűs féreg, kukac, parazita
 🦠	amőba, baktérium, mikróba, vírus
 💐	csokor, romantika, virág, virágcsokor
 🌸	cseresznye, cseresznyevirág, virág
@@ -1873,6 +2113,7 @@
 🌼	növény, virág, virágzás
 🌷	növény, tulipán, virág
 🌱	növény, palánta
+🪴	cserepes növény, gondozás, hasztalan, növény, szoba, unalmas
 🌲	fa, növény, örökzöld
 🌳	fa, lombhullató, lombhullató fa, növény
 🌴	fa, növény, pálma, pálmafa
@@ -1898,8 +2139,10 @@
 🍑	gyümölcs, növény, őszibarack
 🍒	cseresznye, gyümölcs, növény
 🍓	eper, gyümölcs, növény, szamóca
+🫐	áfonya
 🥝	gyümölcs, kivi, étel
 🍅	növény, paradicsom, zöldség
+🫒	olajbogyó, étel
 🥥	kókuszdió, piña colada, pálma
 🥑	avokádó, gyümölcs, étel
 🍆	növény, padlizsán, zöldség
@@ -1907,6 +2150,7 @@
 🥕	sárgarépa, zöldség, étel
 🌽	cső, kukorica, kukoricacső, növény
 🌶️	erős, erőspaprika, növény, paprika
+🫑	kaliforniai paprika, paprika, zöldség
 🥒	uborka, zöldség, étel
 🥬	kel, káposzta, kínai kel, leveles zöldség, saláta
 🥦	brokkoli, vadkáposzta
@@ -1918,6 +2162,7 @@
 🍞	kenyér, vekni
 🥐	croissant, francia, reggeli, étel
 🥖	bagett, francia, kenyér, étel
+🫓	lapos kenyér, laposkenyér, naan, pita
 🥨	csavart, perec
 🥯	bagel, pékáru, vajkrém
 🥞	palacsinta, étel
@@ -1934,12 +2179,14 @@
 🥪	kenyér, szendvics
 🌮	mexikói, taco, étel
 🌯	burrito, mexikói, étel
+🫔	felcsavart, mexikói, tamale
 🥙	falafel, gírosz, kebab, pita, töltött, étel
 🧆	csicseriborsó, falafel, húsgolyó
 🥚	tojás, étel
 🍳	serpenyő, sütés-főzés, tojás
 🥘	serpenyő, serpenyős étel, étel
 🍲	egy tál étel, ennivaló, tál, étel
+🫕	csokoládé, fondü, lábas, olvasztott, sajt, svájci
 🥣	gabonapehely, reggeli, rizskása, tál kanállal
 🥗	saláta, zöld, zöld saláta, étel
 🍿	kukorica, pattogatott kukorica
@@ -1985,6 +2232,7 @@
 🍼	baba, cumi, cumisüveg, tej
 🥛	egy pohár tej, ital, pohár, tej
 ☕️	forró, forró ital, gőzölgő, ital, kávé, tea
+🫖	bögre, ital, tea, teáskanna
 🍵	fül nélküli teáscsésze, ital, tea, teáscsésze
 🍶	bár, csésze, ital, szaké, üveg
 🍾	bár, ital, kiugrik, kupak, üveg kiugró dugóval
@@ -1995,7 +2243,8 @@
 🍻	bár, ital, koccintás, korsó, sör, összekoccanó söröskorsók
 🥂	ivás, koccintás, koccintó, koccintó poharak, pohár, ünneplés
 🥃	alkohol, feles, feles pohár, tömény, whisky
-🥤	dszúz, ivólé, pohár szívószállal, szóda
+🥤	dzsúz, ivólé, pohár szívószállal, szóda
+🧋	buborék, buborékos tea, gyöngy, tea, tej
 🧃	gyümölcsleves doboz, italos doboz
 🧉	ital, maté
 🧊	hideg, jéghegy, jégkocka
@@ -2025,6 +2274,9 @@
 🏛️	klasszikus, klasszikus épület, régi, épület
 🏗️	építkezés, építés
 🧱	agyag, fal, malter, tégla, téglák
+🪨	kemény, kő, kőszikla, nehéz, szikla
+🪵	fa, faanyag, farönk, rönk
+🛖	ház, jurta, kunyhó
 🏘️	ház, lakóházak, épület
 🏚️	elhagyatott, elhagyatott ház, ház, épület
 🏠️	ház, lakóház, otthon, épület
@@ -2092,6 +2344,7 @@
 🚗	autó, jármű
 🚘️	autó, jármű, kocsi, érkező, érkező autó
 🚙	SUV, jármű, lakókocsi, szabadidőautó
+🛻	kisteherautó, pick-up, pickup
 🚚	autó, jármű, teherautó, teherfuvarozás
 🚛	autó, billenős teherautó, jármű, teherfuvarozás
 🚜	jármű, traktor
@@ -2104,6 +2357,7 @@
 🚲️	bicikli, jármű, kerékpár
 🛴	roller
 🛹	deszka, gördeszka
+🛼	görkorcsolya
 🚏	busz, buszmegálló, megálló
 🛣️	autópálya, pálya, út
 🛤️	vasút, vasúti sín, vonat
@@ -2274,6 +2528,7 @@
 🪁	papírsárkány, repül, szárnyal
 🎱	8-as, biliárd, biliárdgolyó, golyó
 🔮	jövendő, jövendőmondás, kristálygömb, mese
+🪄	boszorkány, varázslat, varázsló, varázspálca
 🧿	bűbáj, gonoszűző, nazar, nazar amulett, szem, talizmán
 🎮️	játék, kontroller, videojáték
 🕹️	joystick, játék, videojáték
@@ -2281,6 +2536,8 @@
 🎲	dobókocka, játék, kocka
 🧩	darab, kirakó, nyom, puzzle, összekapcsolódó
 🧸	játszótárs, játék, plüss, plüssmaci, tömött
+🪅	buli, pinyáta, ünnepség
+🪆	baba, egymásba rakható, matrjoska, orosz
 ♠️	francia kártya, játék, pikk, pikk szín, szín
 ♥️	francia kártya, játék, kőr, kőr szín, szín
 ♦️	francia kártya, játék, káró, káró szín, szín
@@ -2293,7 +2550,9 @@
 🖼️	bekeretezett kép, galéria, kép kerettel, múzeum, művészet
 🎨	festőpaletta, galéria, múzeum, művészet, paletta
 🧵	cérna, madzag, orsó, tű, varrás
+🪡	hímzés, szabászat, tű, varrat, varrás, varrótű, öltés
 🧶	fonál, gombolyag, horgolás, kötés
+🪢	csomó, hurok, kötél, madzag
 👓️	szem, szemüveg, viselet
 🕶️	kiegészítő, napszemüveg, szem, szemüveg, sötét
 🥽	hegesztés, szemvédelem, védőszemüveg, úszás
@@ -2319,6 +2578,7 @@
 👝	kiegészítő, táska
 🛍️	bevásárlótáska, bevásárlótáskák, táska, vásárlás
 🎒	hátizsák, iskola, iskolatáska, táska
+🩴	papucs, strandpapucs, szandál, tangapapucs
 👞	cipő, férfi, férfi cipő, ruha, ruházat
 👟	atlétika, cipő, edzőcipő, futás, futócipő, tornacipő
 🥾	bakancs, hátizsákos túra, kemping, túrabakancs, túrázás
@@ -2332,6 +2592,7 @@
 🎩	cilinder, kalap, ruha, ruházat
 🎓️	diplomaosztó, diplomaosztón használt kalap, kalap, ruha, ruházat, ünneplés
 🧢	baseball sapka, sildes sapka
+🪖	hadsereg, harcos, katona, katonai sisak, katonaság, sisak
 ⛑️	elsősegély, sisak, sisak vörös kereszttel
 📿	gyöngyök, ima, imafüzér, nyaklánc, vallás
 💄	ajakrúzs, kozmetikum, smink, szépségápolás
@@ -2356,12 +2617,14 @@
 🎧️	fülhallgató, zenehallgatás
 📻️	rádió, rádiókészülék
 🎷	hangszer, szaxi, szaxofon, zene
+🪗	harmonika, tangóharmonika
 🎸	gitár, hangszer, zene
 🎹	billentyűzet, hangszer, zene, zenei billentyűzet, zongora
 🎺	hangszer, trombita, zene
 🎻	hangszer, hegedű, zene
 🪕	bendzsó, húros, zene
 🥁	dob, dobverő, zene
+🪘	dob, hosszú dob, konga, ritmus, ütem
 📱	mobil, mobiltelefon, rádiótelefon, telefon
 📲	hívás, mobil, mobiltelefon, mobiltelefon nyíllal, nyíl, rádiótelefon, telefon
 ☎️	telefon
@@ -2415,6 +2678,7 @@
 🔖	könyvjelző
 🏷️	címke
 💰️	dollár, pénz, pénzeszsák, zsák
+🪙	arany, ezüst, fém, kincs, pénz, érme
 💴	bank, bankjegy, bankó, jen, jen bankjegy, papírpénz, pénz, pénznem
 💵	bank, bankjegy, bankó, dollár, dollár bankjegy, papírpénz, pénz, pénznem
 💶	bank, bankjegy, bankó, euró, euró bankjegy, papírpénz, pénz, pénznem
@@ -2423,8 +2687,6 @@
 💳️	bank, bankkártya, hitelkártya, kártya
 🧾	bizonyíták, könyvelés, nyugta, pénzügyek, számla
 💹	diagram, emelkedés, jen, növekvő jendiagram, pénz, trend
-💱	bank, pénz, pénzváltás, pénzváltó, valuta, átváltás
-💲	dollár, pénz, pénznem, vastag dollárjel
 ✉️	boríték, e-mail, levél
 📧	e-mail, levél
 📨	beérkező, beérkező boríték, boríték, e-mail, fogadás, levél, posta
@@ -2482,9 +2744,12 @@
 🗡️	fegyver, szúrás, tőr
 ⚔️	fegyver, kardok, keresztbe tett, keresztezett, keresztezett kardok
 🔫	fegyver, pisztoly, revolver
+🪃	ausztrália, bumeráng, visszajön, visszarepül
 🏹	fegyver, nyilas, nyíl, íj, íj és nyíl
 🛡️	fegyver, pajzs
+🪚	asztalos, fa, fűrész, rókafarkú, rókafarkú fűrész, szerszám, ács
 🔧	csavarkulcs, szerszám, villáskulcs
+🪛	csavarhúzó, szerszám
 🔩	anya, csavar, csavar és anya, szerszám
 ⚙️	fogaskerék, szerszám
 🗜️	satu, szerszám
@@ -2492,8 +2757,10 @@
 🦯	akadálymentesség, fehér bot, vak
 🔗	kapocs, láncszem
 ⛓️	lánc, láncszemek
+🪝	csapda, fogás, horog, kampó
 🧰	barkácsolás, láda, szerszám, szerszámosláda
 🧲	mágnes, mágneses, patkó, vonzódás
+🪜	fok, létra, létrafok, mászás
 ⚗️	eszköz, felszerelés, kémia, lombik
 🧪	kémcső, kémia, kísérlet, labor, tudomány, vegyészet
 🧫	Petri-csésze, baktérium, biológia, biológus, labor, tenyészet
@@ -2507,26 +2774,35 @@
 🩹	kötszer, ragtapasz
 🩺	gyógyszer, orvos, sztetoszkóp, szív
 🚪	ajtó
+🛗	akadálymentesítés, felvonó, lift
+🪞	tükröződés, tükör, visszaverődés
+🪟	ablak, friss levegő, keret, kilátás, nyílás, átlátszó
 🛏️	alvás, szálloda, ágy
 🛋️	kanapé, kanapé és lámpa, lámpa, szálloda
 🪑	szék, ül, ülés
 🚽	mosdó, toalett, vécé
+🪠	dugulás, vécé, vécépumpa, vízvezeték-szerelő, wc
 🚿	víz, vízsugár, zuhanyzó
 🛁	fürdés, fürdőkád
+🪤	csali, csalétek, csapda, egércsapda
 🪒	borotva, borotvál, éles
 🧴	hidratáló, krém, krémes flakon, napvédő krém, sampon
 🧷	biztosítótű, pelenka, punk rock
 🧹	boszorkány, seprés, seprű, tisztítás
 🧺	gazdálkodás, kosár, piknik, szennyes
 🧻	WC-papír, papírtekercs, papírtörölköző
+🪣	felmosó, vödör
 🧼	darab, fürdés, szappan, szappanhab, szappantartó, tisztálkodás
+🪥	fogak, fogkefe, fogmosás, fogászat, fürdőszoba, higiénia, kefe, tisztítás
 🧽	nedvszívó, porózus, szivacs, tisztítás
 🧯	elfojt, elolt, tűz, tűzoltó készülék
 🛒	bevásárló, bevásárlókocsi, kocsi, shopping, vásárlás
 🚬	cigaretta, dohányzás
 ⚰️	halál, koporsó
+🪦	fejfa, sír, sírkő, temető
 ⚱️	halotti urna, halál, temetés, urna
 🗿	arc, japán, moai, szobor
+🪧	demonstráció, sztrájk, transzparens, tábla, tüntetés
 🏧	ATM-jel, atm, bankautomata
 🚮	környezettudatosság, szemetes, szemét, szemét a kukában szimbólum
 🚰	fogyasztható víz, iható, ivóvíz
@@ -2625,8 +2901,22 @@
 📴	kikapcsolva, mobil, mobiltelefon, mobiltelefon kikapcsolva, rádiótelefon, telefon, tiltott
 ♀️	nem, női, női nem jelképe
 ♂️	férfi, férfi nem jelképe, nem
-⚕️	Aszklépiosz, bot, orvos, orvosi szimbólum, orvoslás
+⚧️	transznemű, transznemű szimbólum
+✖️	jel, mégse, szorzás, x, ×
+➕	+, jel, matematika, plusz
+➖	-, jel, matematika, mínusz, −
+➗	jel, matematika, osztás, ÷
 ♾️	korlátlan, univerzális, végtelen, örökké
+‼️	dupla felkiáltójel, felkiáltás, központozás, írásjel
+⁉️	felkiáltás, felkiáltójel kérdőjellel, kérdés, központozás, írásjel
+❓️	kérdés, kérdőjel, központozás, írásjel
+❔	fehér, fehér kérdőjel, kérdés, központozás, írásjel
+❕	fehér, fehér felkiáltójel, felkiáltás, központozás, írásjel
+❗️	felkiáltás, felkiáltójel, központozás, írásjel
+〰️	gondolatjel, hullámos, hullámos gondolatjel, központozás
+💱	bank, pénz, pénzváltás, pénzváltó, valuta, átváltás
+💲	dollár, pénz, pénznem, vastag dollárjel
+⚕️	Aszklépiosz, bot, orvos, orvosi szimbólum, orvoslás
 ♻️	újra, újrahasznosítás, újrahasznosítás szimbólum
 ⚜	Anjou, Anjou-liliom, liliom
 🔱	embléma, hajó, háromágú szigony, jel, szigony, vasmacska
@@ -2636,25 +2926,14 @@
 ✅	jel, pipa, vastag fehér pipa
 ☑️	jelölőnégyzet pipával, négyzet, pipa, szavazás
 ✔️	jel, pipa, vastag pipa
-✖️	jel, mégse, szorzás, vastag szorzásjel, x
 ❌	jel, mégse, szorzás, x, áthúzásjel
 ❎	jel, négyzet, áthúzásjel gomb
-➕	matematika, plusz, vastag pluszjel
-➖	matematika, mínusz, vastag mínuszjel
-➗	matematika, osztás, vastag osztásjel
 ➰	hurok
 ➿	dupla, dupla hurok, hurok
 〽️	jel, részelválasztó, választó
 ✳️	csillag, nyolcágú csillag
 ✴️	csillag, nyolcas csillag
 ❇️	szikra
-‼️	dupla felkiáltójel, felkiáltás, központozás, írásjel
-⁉️	felkiáltás, felkiáltójel kérdőjellel, kérdés, központozás, írásjel
-❓️	kérdés, kérdőjel, központozás, írásjel
-❔	fehér, fehér kérdőjel, kérdés, központozás, írásjel
-❕	fehér, fehér felkiáltójel, felkiáltás, központozás, írásjel
-❗️	felkiáltás, felkiáltójel, központozás, írásjel
-〰️	gondolatjel, hullámos, hullámos gondolatjel, központozás
 ©️	copyright (szerzői jog által védett), szerzői jog, védett
 ®️	bejegyzett, registered (bejegyzett), védjegy
 ™️	tm, védjegy
@@ -2750,6 +3029,7 @@
 🏴	lengő, lengő fekete zászló
 🏳️	lengő, lengő fehér zászló
 🏳‍🌈	szivárvány, szivárványszínű, szivárványszínű zászló, zászló
+🏳‍⚧	transznemű, transznemű zászló, zászló
 🏴‍☠	Jolly Roger, fosztogató, kalóz, kalózzászló, kincs
 🇦🇨	zászló, zászló: Ascension-sziget
 🇦🇩	zászló, zászló: Andorra
@@ -2902,7 +3182,7 @@
 🇲🇭	zászló, zászló: Marshall-szigetek
 🇲🇰	zászló, zászló: Észak-Macedónia
 🇲🇱	zászló, zászló: Mali
-🇲🇲	zászló, zászló: Mianmar (Burma)
+🇲🇲	zászló, zászló: Mianmar
 🇲🇳	zászló, zászló: Mongólia
 🇲🇴	zászló, zászló: Makaó KKT
 🇲🇵	zászló, zászló: Északi Mariana-szigetek

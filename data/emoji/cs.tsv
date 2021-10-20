@@ -19,6 +19,7 @@
 ☺️	pohoda, silueta, smajlík, tvář, usmívající se obličej, výraz, úsměv
 😚	líbající obličej se zavřenýma očima, oko, polibek, pusa, smajlík, tvář, výraz, zavřený
 😙	líbající obličej s usměvavýma očima, oko, polibek, pusa, smajlík, tvář, výraz, úsměv
+🥲	dojatý, hrdý, slza, smajlík, tvář, usmívající, usmívající se obličej se slzou, vděčný, výraz, úleva, úsměv
 😋	chutný, lahodný, mňam, olizující se obličej, smajlík, tvář, výraz, úsměv
 😛	jazyk, obličej s vyplazeným jazykem, smajlík, tvář, výraz
 😜	jazyk, mrkající obličej s vypláznutým jazykem, mrknutí, oko, smajlík, tvář, vtip, výraz
@@ -57,6 +58,7 @@
 🤯	explodující hlava, obličej, smajlík, tvář, výbuch, výraz, šok
 🤠	klobouk, kovboj, obličej s kovbojským kloboukem, smajlík, tvář, výraz
 🥳	frkačka, oslava, oslavující obličej, párty, čepice, čepička
+🥸	brýle, incognito, inkognito, obličej v přestrojení, přestrojení, převlek, smajlík, tvář, výraz
 😎	brýle, cool, frajer, jasno, oko, počasí, slunce, sluneční brýle, smajlík, tvář, usmívající se obličej s brýlemi, výraz, úsměv
 🤓	geek, nerd, obličej šprta, smajlík, tvář, výraz, šplhoun, šprt
 🧐	konvenční, obličej s brýlovým monoklem, prudérní, staromódní
@@ -183,6 +185,12 @@
 👌🏽	OK, gesto OK, gesto OK: střední odstín pleti, ruka, střední odstín pleti, tělo
 👌🏾	OK, gesto OK, gesto OK: středně tmavý odstín pleti, ruka, středně tmavý odstín pleti, tělo
 👌🏿	OK, gesto OK, gesto OK: tmavý odstín pleti, ruka, tmavý odstín pleti, tělo
+🤌	gesto rukou, ironie, italské sarkastické gesto, otázka, prsty, sarkasmus, sevřené, špetka z pěti prstů
+🤌🏻	gesto rukou, ironie, italské sarkastické gesto, otázka, prsty, sarkasmus, sevřené, světlý odstín pleti, špetka z pěti prstů, špetka z pěti prstů: světlý odstín pleti
+🤌🏼	gesto rukou, ironie, italské sarkastické gesto, otázka, prsty, sarkasmus, sevřené, středně světlý odstín pleti, špetka z pěti prstů, špetka z pěti prstů: středně světlý odstín pleti
+🤌🏽	gesto rukou, ironie, italské sarkastické gesto, otázka, prsty, sarkasmus, sevřené, střední odstín pleti, špetka z pěti prstů, špetka z pěti prstů: střední odstín pleti
+🤌🏾	gesto rukou, ironie, italské sarkastické gesto, otázka, prsty, sarkasmus, sevřené, středně tmavý odstín pleti, špetka z pěti prstů, špetka z pěti prstů: středně tmavý odstín pleti
+🤌🏿	gesto rukou, ironie, italské sarkastické gesto, otázka, prsty, sarkasmus, sevřené, tmavý odstín pleti, špetka z pěti prstů, špetka z pěti prstů: tmavý odstín pleti
 🤏	gesto „málo“, malé množství, troška, špetka
 🤏🏻	gesto „málo“, gesto „málo“: světlý odstín pleti, malé množství, světlý odstín pleti, troška, špetka
 🤏🏼	gesto „málo“, gesto „málo“: středně světlý odstín pleti, malé množství, středně světlý odstín pleti, troška, špetka
@@ -379,6 +387,8 @@
 👃🏾	nos, nos: středně tmavý odstín pleti, středně tmavý odstín pleti, tělo
 👃🏿	nos, nos: tmavý odstín pleti, tmavý odstín pleti, tělo
 🧠	inteligence, inteligentní, mozek
+🫀	kardiologie, puls, srdce, srdeční orgán, tep, tlukot
+🫁	dech, dýchání, nádech, orgán, plíce, respirace, výdech
 🦷	dentista, zub, zubař
 🦴	kost, kostra
 👀	obličej, oko, oči, tělo
@@ -421,6 +431,30 @@
 👱🏽	blond, střední odstín pleti, světlé vlasy, člověk s blond vlasy, člověk s blond vlasy: střední odstín pleti
 👱🏾	blond, středně tmavý odstín pleti, světlé vlasy, člověk s blond vlasy, člověk s blond vlasy: středně tmavý odstín pleti
 👱🏿	blond, světlé vlasy, tmavý odstín pleti, člověk s blond vlasy, člověk s blond vlasy: tmavý odstín pleti
+🧑‍🦰	dospělák, dospělý člověk, dospělý člověk: zrzavé vlasy, neutrální, osoba, zrzavé vlasy, člověk
+🧑🏻‍🦰	dospělák, dospělý člověk, dospělý člověk: světlý odstín pleti, zrzavé vlasy, neutrální, osoba, světlý odstín pleti, zrzavé vlasy, člověk
+🧑🏼‍🦰	dospělák, dospělý člověk, dospělý člověk: středně světlý odstín pleti, zrzavé vlasy, neutrální, osoba, středně světlý odstín pleti, zrzavé vlasy, člověk
+🧑🏽‍🦰	dospělák, dospělý člověk, dospělý člověk: střední odstín pleti, zrzavé vlasy, neutrální, osoba, střední odstín pleti, zrzavé vlasy, člověk
+🧑🏾‍🦰	dospělák, dospělý člověk, dospělý člověk: středně tmavý odstín pleti, zrzavé vlasy, neutrální, osoba, středně tmavý odstín pleti, zrzavé vlasy, člověk
+🧑🏿‍🦰	dospělák, dospělý člověk, dospělý člověk: tmavý odstín pleti, zrzavé vlasy, neutrální, osoba, tmavý odstín pleti, zrzavé vlasy, člověk
+🧑‍🦱	dospělák, dospělý člověk, dospělý člověk: kudrnaté vlasy, kudrnaté vlasy, neutrální, osoba, člověk
+🧑🏻‍🦱	dospělák, dospělý člověk, dospělý člověk: světlý odstín pleti, kudrnaté vlasy, kudrnaté vlasy, neutrální, osoba, světlý odstín pleti, člověk
+🧑🏼‍🦱	dospělák, dospělý člověk, dospělý člověk: středně světlý odstín pleti, kudrnaté vlasy, kudrnaté vlasy, neutrální, osoba, středně světlý odstín pleti, člověk
+🧑🏽‍🦱	dospělák, dospělý člověk, dospělý člověk: střední odstín pleti, kudrnaté vlasy, kudrnaté vlasy, neutrální, osoba, střední odstín pleti, člověk
+🧑🏾‍🦱	dospělák, dospělý člověk, dospělý člověk: středně tmavý odstín pleti, kudrnaté vlasy, kudrnaté vlasy, neutrální, osoba, středně tmavý odstín pleti, člověk
+🧑🏿‍🦱	dospělák, dospělý člověk, dospělý člověk: tmavý odstín pleti, kudrnaté vlasy, kudrnaté vlasy, neutrální, osoba, tmavý odstín pleti, člověk
+🧑‍🦳	bílé vlasy, dospělák, dospělý člověk, dospělý člověk: bílé vlasy, neutrální, osoba, člověk
+🧑🏻‍🦳	bílé vlasy, dospělák, dospělý člověk, dospělý člověk: světlý odstín pleti, bílé vlasy, neutrální, osoba, světlý odstín pleti, člověk
+🧑🏼‍🦳	bílé vlasy, dospělák, dospělý člověk, dospělý člověk: středně světlý odstín pleti, bílé vlasy, neutrální, osoba, středně světlý odstín pleti, člověk
+🧑🏽‍🦳	bílé vlasy, dospělák, dospělý člověk, dospělý člověk: střední odstín pleti, bílé vlasy, neutrální, osoba, střední odstín pleti, člověk
+🧑🏾‍🦳	bílé vlasy, dospělák, dospělý člověk, dospělý člověk: středně tmavý odstín pleti, bílé vlasy, neutrální, osoba, středně tmavý odstín pleti, člověk
+🧑🏿‍🦳	bílé vlasy, dospělák, dospělý člověk, dospělý člověk: tmavý odstín pleti, bílé vlasy, neutrální, osoba, tmavý odstín pleti, člověk
+🧑‍🦲	bez vlasů, dospělák, dospělý člověk, dospělý člověk: bez vlasů, neutrální, osoba, člověk
+🧑🏻‍🦲	bez vlasů, dospělák, dospělý člověk, dospělý člověk: světlý odstín pleti, bez vlasů, neutrální, osoba, světlý odstín pleti, člověk
+🧑🏼‍🦲	bez vlasů, dospělák, dospělý člověk, dospělý člověk: středně světlý odstín pleti, bez vlasů, neutrální, osoba, středně světlý odstín pleti, člověk
+🧑🏽‍🦲	bez vlasů, dospělák, dospělý člověk, dospělý člověk: střední odstín pleti, bez vlasů, neutrální, osoba, střední odstín pleti, člověk
+🧑🏾‍🦲	bez vlasů, dospělák, dospělý člověk, dospělý člověk: středně tmavý odstín pleti, bez vlasů, neutrální, osoba, středně tmavý odstín pleti, člověk
+🧑🏿‍🦲	bez vlasů, dospělák, dospělý člověk, dospělý člověk: tmavý odstín pleti, bez vlasů, neutrální, osoba, tmavý odstín pleti, člověk
 👨	muž
 👨🏻	muž, muž: světlý odstín pleti, světlý odstín pleti
 👨🏼	muž, muž: středně světlý odstín pleti, středně světlý odstín pleti
@@ -697,6 +731,12 @@
 🤷🏽‍♀	nejistota, nerozhodnost, nevím, nevědomost, nezájem, pochybnost, pochyby, pokrčení, pokrčit, ramena, střední odstín pleti, žena, žena krčící rameny, žena krčící rameny: střední odstín pleti
 🤷🏾‍♀	nejistota, nerozhodnost, nevím, nevědomost, nezájem, pochybnost, pochyby, pokrčení, pokrčit, ramena, středně tmavý odstín pleti, žena, žena krčící rameny, žena krčící rameny: středně tmavý odstín pleti
 🤷🏿‍♀	nejistota, nerozhodnost, nevím, nevědomost, nezájem, pochybnost, pochyby, pokrčení, pokrčit, ramena, tmavý odstín pleti, žena, žena krčící rameny, žena krčící rameny: tmavý odstín pleti
+🧑‍⚕	doktor, doktorka, nemocnice, sestřička, terapeut, terapeutka, zdravotnice, zdravotník, zdravotník/zdravotnice
+🧑🏻‍⚕	doktor, doktorka, nemocnice, sestřička, světlý odstín pleti, terapeut, terapeutka, zdravotnice, zdravotník, zdravotník/zdravotnice, zdravotník/zdravotnice: světlý odstín pleti
+🧑🏼‍⚕	doktor, doktorka, nemocnice, sestřička, středně světlý odstín pleti, terapeut, terapeutka, zdravotnice, zdravotník, zdravotník/zdravotnice, zdravotník/zdravotnice: středně světlý odstín pleti
+🧑🏽‍⚕	doktor, doktorka, nemocnice, sestřička, střední odstín pleti, terapeut, terapeutka, zdravotnice, zdravotník, zdravotník/zdravotnice, zdravotník/zdravotnice: střední odstín pleti
+🧑🏾‍⚕	doktor, doktorka, nemocnice, sestřička, středně tmavý odstín pleti, terapeut, terapeutka, zdravotnice, zdravotník, zdravotník/zdravotnice, zdravotník/zdravotnice: středně tmavý odstín pleti
+🧑🏿‍⚕	doktor, doktorka, nemocnice, sestřička, terapeut, terapeutka, tmavý odstín pleti, zdravotnice, zdravotník, zdravotník/zdravotnice, zdravotník/zdravotnice: tmavý odstín pleti
 👨‍⚕	doktor, nemocnice, terapeut, zdravotník
 👨🏻‍⚕	doktor, nemocnice, světlý odstín pleti, terapeut, zdravotník, zdravotník: světlý odstín pleti
 👨🏼‍⚕	doktor, nemocnice, středně světlý odstín pleti, terapeut, zdravotník, zdravotník: středně světlý odstín pleti
@@ -709,6 +749,12 @@
 👩🏽‍⚕	doktorka, nemocnice, sestřička, střední odstín pleti, terapeutka, zdravotnice, zdravotnice: střední odstín pleti
 👩🏾‍⚕	doktorka, nemocnice, sestřička, středně tmavý odstín pleti, terapeutka, zdravotnice, zdravotnice: středně tmavý odstín pleti
 👩🏿‍⚕	doktorka, nemocnice, sestřička, terapeutka, tmavý odstín pleti, zdravotnice, zdravotnice: tmavý odstín pleti
+🧑‍🎓	absolvent, absolventka, student, studentka, studující
+🧑🏻‍🎓	absolvent, absolventka, student, studentka, studující, studující: světlý odstín pleti, světlý odstín pleti
+🧑🏼‍🎓	absolvent, absolventka, student, studentka, studující, studující: středně světlý odstín pleti, středně světlý odstín pleti
+🧑🏽‍🎓	absolvent, absolventka, student, studentka, studující, studující: střední odstín pleti, střední odstín pleti
+🧑🏾‍🎓	absolvent, absolventka, student, studentka, studující, studující: středně tmavý odstín pleti, středně tmavý odstín pleti
+🧑🏿‍🎓	absolvent, absolventka, student, studentka, studující, studující: tmavý odstín pleti, tmavý odstín pleti
 👨‍🎓	absolvent, muž, student
 👨🏻‍🎓	absolvent, muž, student, student: světlý odstín pleti, světlý odstín pleti
 👨🏼‍🎓	absolvent, muž, student, student: středně světlý odstín pleti, středně světlý odstín pleti
@@ -721,6 +767,12 @@
 👩🏽‍🎓	absolventka, studentka, studentka: střední odstín pleti, střední odstín pleti, žena
 👩🏾‍🎓	absolventka, studentka, studentka: středně tmavý odstín pleti, středně tmavý odstín pleti, žena
 👩🏿‍🎓	absolventka, studentka, studentka: tmavý odstín pleti, tmavý odstín pleti, žena
+🧑‍🏫	instruktor, instruktorka, profesor, profesorka, učitel, učitelka, vyučující
+🧑🏻‍🏫	instruktor, instruktorka, profesor, profesorka, světlý odstín pleti, učitel, učitelka, vyučující, vyučující: světlý odstín pleti
+🧑🏼‍🏫	instruktor, instruktorka, profesor, profesorka, středně světlý odstín pleti, učitel, učitelka, vyučující, vyučující: středně světlý odstín pleti
+🧑🏽‍🏫	instruktor, instruktorka, profesor, profesorka, střední odstín pleti, učitel, učitelka, vyučující, vyučující: střední odstín pleti
+🧑🏾‍🏫	instruktor, instruktorka, profesor, profesorka, středně tmavý odstín pleti, učitel, učitelka, vyučující, vyučující: středně tmavý odstín pleti
+🧑🏿‍🏫	instruktor, instruktorka, profesor, profesorka, tmavý odstín pleti, učitel, učitelka, vyučující, vyučující: tmavý odstín pleti
 👨‍🏫	instruktor, muž, profesor, učitel
 👨🏻‍🏫	instruktor, muž, profesor, světlý odstín pleti, učitel, učitel: světlý odstín pleti
 👨🏼‍🏫	instruktor, muž, profesor, středně světlý odstín pleti, učitel, učitel: středně světlý odstín pleti
@@ -733,6 +785,12 @@
 👩🏽‍🏫	instruktorka, profesorka, střední odstín pleti, učitelka, učitelka: střední odstín pleti, žena
 👩🏾‍🏫	instruktorka, profesorka, středně tmavý odstín pleti, učitelka, učitelka: středně tmavý odstín pleti, žena
 👩🏿‍🏫	instruktorka, profesorka, tmavý odstín pleti, učitelka, učitelka: tmavý odstín pleti, žena
+🧑‍⚖	právo, soudce, soudce/soudkyně, soudkyně, spravedlnost, váhy
+🧑🏻‍⚖	právo, soudce, soudce/soudkyně, soudce/soudkyně: světlý odstín pleti, soudkyně, spravedlnost, světlý odstín pleti, váhy
+🧑🏼‍⚖	právo, soudce, soudce/soudkyně, soudce/soudkyně: středně světlý odstín pleti, soudkyně, spravedlnost, středně světlý odstín pleti, váhy
+🧑🏽‍⚖	právo, soudce, soudce/soudkyně, soudce/soudkyně: střední odstín pleti, soudkyně, spravedlnost, střední odstín pleti, váhy
+🧑🏾‍⚖	právo, soudce, soudce/soudkyně, soudce/soudkyně: středně tmavý odstín pleti, soudkyně, spravedlnost, středně tmavý odstín pleti, váhy
+🧑🏿‍⚖	právo, soudce, soudce/soudkyně, soudce/soudkyně: tmavý odstín pleti, soudkyně, spravedlnost, tmavý odstín pleti, váhy
 👨‍⚖	muž, právo, soudce, spravedlnost, váhy
 👨🏻‍⚖	muž, právo, soudce, soudce: světlý odstín pleti, spravedlnost, světlý odstín pleti, váhy
 👨🏼‍⚖	muž, právo, soudce, soudce: středně světlý odstín pleti, spravedlnost, středně světlý odstín pleti, váhy
@@ -745,6 +803,12 @@
 👩🏽‍⚖	právo, soudkyně, soudkyně: střední odstín pleti, spravedlnost, střední odstín pleti, váhy, žena
 👩🏾‍⚖	právo, soudkyně, soudkyně: středně tmavý odstín pleti, spravedlnost, středně tmavý odstín pleti, váhy, žena
 👩🏿‍⚖	právo, soudkyně, soudkyně: tmavý odstín pleti, spravedlnost, tmavý odstín pleti, váhy, žena
+🧑‍🌾	farmář, farmář/farmářka, farmářka, sedlák, selka, zahradnice, zahradník, zemědělec, zemědělkyně
+🧑🏻‍🌾	farmář, farmář/farmářka, farmář/farmářka: světlý odstín pleti, farmářka, sedlák, selka, světlý odstín pleti, zahradnice, zahradník, zemědělec, zemědělkyně
+🧑🏼‍🌾	farmář, farmář/farmářka, farmář/farmářka: středně světlý odstín pleti, farmářka, sedlák, selka, středně světlý odstín pleti, zahradnice, zahradník, zemědělec, zemědělkyně
+🧑🏽‍🌾	farmář, farmář/farmářka, farmář/farmářka: střední odstín pleti, farmářka, sedlák, selka, střední odstín pleti, zahradnice, zahradník, zemědělec, zemědělkyně
+🧑🏾‍🌾	farmář, farmář/farmářka, farmář/farmářka: středně tmavý odstín pleti, farmářka, sedlák, selka, středně tmavý odstín pleti, zahradnice, zahradník, zemědělec, zemědělkyně
+🧑🏿‍🌾	farmář, farmář/farmářka, farmář/farmářka: tmavý odstín pleti, farmářka, sedlák, selka, tmavý odstín pleti, zahradnice, zahradník, zemědělec, zemědělkyně
 👨‍🌾	farmář, muž, sedlák, zahradník, zemědělec
 👨🏻‍🌾	farmář, farmář: světlý odstín pleti, muž, sedlák, světlý odstín pleti, zahradník, zemědělec
 👨🏼‍🌾	farmář, farmář: středně světlý odstín pleti, muž, sedlák, středně světlý odstín pleti, zahradník, zemědělec
@@ -757,6 +821,12 @@
 👩🏽‍🌾	farmářka, farmářka: střední odstín pleti, selka, střední odstín pleti, zahradnice, zemědělkyně, žena
 👩🏾‍🌾	farmářka, farmářka: středně tmavý odstín pleti, selka, středně tmavý odstín pleti, zahradnice, zemědělkyně, žena
 👩🏿‍🌾	farmářka, farmářka: tmavý odstín pleti, selka, tmavý odstín pleti, zahradnice, zemědělkyně, žena
+🧑‍🍳	kuchař, kuchař/kuchařka, kuchařka, šéfkuchař, šéfkuchařka
+🧑🏻‍🍳	kuchař, kuchař/kuchařka, kuchař/kuchařka: světlý odstín pleti, kuchařka, světlý odstín pleti, šéfkuchař, šéfkuchařka
+🧑🏼‍🍳	kuchař, kuchař/kuchařka, kuchař/kuchařka: středně světlý odstín pleti, kuchařka, středně světlý odstín pleti, šéfkuchař, šéfkuchařka
+🧑🏽‍🍳	kuchař, kuchař/kuchařka, kuchař/kuchařka: střední odstín pleti, kuchařka, střední odstín pleti, šéfkuchař, šéfkuchařka
+🧑🏾‍🍳	kuchař, kuchař/kuchařka, kuchař/kuchařka: středně tmavý odstín pleti, kuchařka, středně tmavý odstín pleti, šéfkuchař, šéfkuchařka
+🧑🏿‍🍳	kuchař, kuchař/kuchařka, kuchař/kuchařka: tmavý odstín pleti, kuchařka, tmavý odstín pleti, šéfkuchař, šéfkuchařka
 👨‍🍳	kuchař, muž, šéfkuchař
 👨🏻‍🍳	kuchař, kuchař: světlý odstín pleti, muž, světlý odstín pleti, šéfkuchař
 👨🏼‍🍳	kuchař, kuchař: středně světlý odstín pleti, muž, středně světlý odstín pleti, šéfkuchař
@@ -769,6 +839,12 @@
 👩🏽‍🍳	kuchařka, kuchařka: střední odstín pleti, střední odstín pleti, šéfkuchařka, žena
 👩🏾‍🍳	kuchařka, kuchařka: středně tmavý odstín pleti, středně tmavý odstín pleti, šéfkuchařka, žena
 👩🏿‍🍳	kuchařka, kuchařka: tmavý odstín pleti, tmavý odstín pleti, šéfkuchařka, žena
+🧑‍🔧	elektrikář, elektrikářka, mechanik, mechanik/mechanička, mechanička, montér, montérka, opravář, opravářka, řemeslnice, řemeslník, živnostnice, živnostník
+🧑🏻‍🔧	elektrikář, elektrikářka, mechanik, mechanik/mechanička, mechanik/mechanička: světlý odstín pleti, mechanička, montér, montérka, opravář, opravářka, světlý odstín pleti, řemeslnice, řemeslník, živnostnice, živnostník
+🧑🏼‍🔧	elektrikář, elektrikářka, mechanik, mechanik/mechanička, mechanik/mechanička: středně světlý odstín pleti, mechanička, montér, montérka, opravář, opravářka, středně světlý odstín pleti, řemeslnice, řemeslník, živnostnice, živnostník
+🧑🏽‍🔧	elektrikář, elektrikářka, mechanik, mechanik/mechanička, mechanik/mechanička: střední odstín pleti, mechanička, montér, montérka, opravář, opravářka, střední odstín pleti, řemeslnice, řemeslník, živnostnice, živnostník
+🧑🏾‍🔧	elektrikář, elektrikářka, mechanik, mechanik/mechanička, mechanik/mechanička: středně tmavý odstín pleti, mechanička, montér, montérka, opravář, opravářka, středně tmavý odstín pleti, řemeslnice, řemeslník, živnostnice, živnostník
+🧑🏿‍🔧	elektrikář, elektrikářka, mechanik, mechanik/mechanička, mechanik/mechanička: tmavý odstín pleti, mechanička, montér, montérka, opravář, opravářka, tmavý odstín pleti, řemeslnice, řemeslník, živnostnice, živnostník
 👨‍🔧	elektrikář, mechanik, montér, muž, opravář, řemeslník, živnostník
 👨🏻‍🔧	elektrikář, mechanik, mechanik: světlý odstín pleti, montér, muž, opravář, světlý odstín pleti, řemeslník, živnostník
 👨🏼‍🔧	elektrikář, mechanik, mechanik: středně světlý odstín pleti, montér, muž, opravář, středně světlý odstín pleti, řemeslník, živnostník
@@ -781,6 +857,12 @@
 👩🏽‍🔧	elektrikářka, mechanička, mechanička: střední odstín pleti, montérka, opravářka, střední odstín pleti, řemeslnice, žena, živnostnice
 👩🏾‍🔧	elektrikářka, mechanička, mechanička: středně tmavý odstín pleti, montérka, opravářka, středně tmavý odstín pleti, řemeslnice, žena, živnostnice
 👩🏿‍🔧	elektrikářka, mechanička, mechanička: tmavý odstín pleti, montérka, opravářka, tmavý odstín pleti, řemeslnice, žena, živnostnice
+🧑‍🏭	dělnice, dělník, osoba pracující v továrně, průmysl, továrna, výroba
+🧑🏻‍🏭	dělnice, dělník, osoba pracující v továrně, osoba pracující v továrně: světlý odstín pleti, průmysl, světlý odstín pleti, továrna, výroba
+🧑🏼‍🏭	dělnice, dělník, osoba pracující v továrně, osoba pracující v továrně: středně světlý odstín pleti, průmysl, středně světlý odstín pleti, továrna, výroba
+🧑🏽‍🏭	dělnice, dělník, osoba pracující v továrně, osoba pracující v továrně: střední odstín pleti, průmysl, střední odstín pleti, továrna, výroba
+🧑🏾‍🏭	dělnice, dělník, osoba pracující v továrně, osoba pracující v továrně: středně tmavý odstín pleti, průmysl, středně tmavý odstín pleti, továrna, výroba
+🧑🏿‍🏭	dělnice, dělník, osoba pracující v továrně, osoba pracující v továrně: tmavý odstín pleti, průmysl, tmavý odstín pleti, továrna, výroba
 👨‍🏭	dělník, dělník v továrně, muž, průmysl, výroba
 👨🏻‍🏭	dělník, dělník v továrně, dělník v továrně: světlý odstín pleti, muž, průmysl, světlý odstín pleti, výroba
 👨🏼‍🏭	dělník, dělník v továrně, dělník v továrně: středně světlý odstín pleti, muž, průmysl, středně světlý odstín pleti, výroba
@@ -793,6 +875,12 @@
 👩🏽‍🏭	dělnice, dělnice v továrně, dělnice v továrně: střední odstín pleti, průmysl, střední odstín pleti, výroba, žena
 👩🏾‍🏭	dělnice, dělnice v továrně, dělnice v továrně: středně tmavý odstín pleti, průmysl, středně tmavý odstín pleti, výroba, žena
 👩🏿‍🏭	dělnice, dělnice v továrně, dělnice v továrně: tmavý odstín pleti, průmysl, tmavý odstín pleti, výroba, žena
+🧑‍💼	architekt, architektka, byznys, bílý límeček, kancelář, manažer, manažer/manažerka, manažerka, úřednice, úředník
+🧑🏻‍💼	architekt, architektka, byznys, bílý límeček, kancelář, manažer, manažer/manažerka, manažer/manažerka: světlý odstín pleti, manažerka, světlý odstín pleti, úřednice, úředník
+🧑🏼‍💼	architekt, architektka, byznys, bílý límeček, kancelář, manažer, manažer/manažerka, manažer/manažerka: středně světlý odstín pleti, manažerka, středně světlý odstín pleti, úřednice, úředník
+🧑🏽‍💼	architekt, architektka, byznys, bílý límeček, kancelář, manažer, manažer/manažerka, manažer/manažerka: střední odstín pleti, manažerka, střední odstín pleti, úřednice, úředník
+🧑🏾‍💼	architekt, architektka, byznys, bílý límeček, kancelář, manažer, manažer/manažerka, manažer/manažerka: středně tmavý odstín pleti, manažerka, středně tmavý odstín pleti, úřednice, úředník
+🧑🏿‍💼	architekt, architektka, byznys, bílý límeček, kancelář, manažer, manažer/manažerka, manažer/manažerka: tmavý odstín pleti, manažerka, tmavý odstín pleti, úřednice, úředník
 👨‍💼	byznys, bílý límeček, kancelář, manažer, muž, úředník
 👨🏻‍💼	byznys, bílý límeček, kancelář, manažer, manažer: světlý odstín pleti, muž, světlý odstín pleti, úředník
 👨🏼‍💼	byznys, bílý límeček, kancelář, manažer, manažer: středně světlý odstín pleti, muž, středně světlý odstín pleti, úředník
@@ -805,6 +893,12 @@
 👩🏽‍💼	byznys, bílý límeček, kancelář, manažerka, manažerka: střední odstín pleti, střední odstín pleti, úřednice, žena
 👩🏾‍💼	byznys, bílý límeček, kancelář, manažerka, manažerka: středně tmavý odstín pleti, středně tmavý odstín pleti, úřednice, žena
 👩🏿‍💼	byznys, bílý límeček, kancelář, manažerka, manažerka: tmavý odstín pleti, tmavý odstín pleti, úřednice, žena
+🧑‍🔬	biolog, bioložka, chemik, chemička, fyzik, fyzička, inženýr, inženýrka, matematik, matematička, vědec, vědec/vědkyně, vědkyně
+🧑🏻‍🔬	biolog, bioložka, chemik, chemička, fyzik, fyzička, inženýr, inženýrka, matematik, matematička, světlý odstín pleti, vědec, vědec/vědkyně, vědec/vědkyně: světlý odstín pleti, vědkyně
+🧑🏼‍🔬	biolog, bioložka, chemik, chemička, fyzik, fyzička, inženýr, inženýrka, matematik, matematička, středně světlý odstín pleti, vědec, vědec/vědkyně, vědec/vědkyně: středně světlý odstín pleti, vědkyně
+🧑🏽‍🔬	biolog, bioložka, chemik, chemička, fyzik, fyzička, inženýr, inženýrka, matematik, matematička, střední odstín pleti, vědec, vědec/vědkyně, vědec/vědkyně: střední odstín pleti, vědkyně
+🧑🏾‍🔬	biolog, bioložka, chemik, chemička, fyzik, fyzička, inženýr, inženýrka, matematik, matematička, středně tmavý odstín pleti, vědec, vědec/vědkyně, vědec/vědkyně: středně tmavý odstín pleti, vědkyně
+🧑🏿‍🔬	biolog, bioložka, chemik, chemička, fyzik, fyzička, inženýr, inženýrka, matematik, matematička, tmavý odstín pleti, vědec, vědec/vědkyně, vědec/vědkyně: tmavý odstín pleti, vědkyně
 👨‍🔬	biolog, chemik, fyzik, inženýr, matematik, muž, věda, vědec
 👨🏻‍🔬	biolog, chemik, fyzik, inženýr, matematik, muž, světlý odstín pleti, věda, vědec, vědec: světlý odstín pleti
 👨🏼‍🔬	biolog, chemik, fyzik, inženýr, matematik, muž, středně světlý odstín pleti, věda, vědec, vědec: středně světlý odstín pleti
@@ -817,6 +911,12 @@
 👩🏽‍🔬	bioložka, chemička, fyzička, inženýrka, matematička, střední odstín pleti, věda, vědkyně, vědkyně: střední odstín pleti, žena
 👩🏾‍🔬	bioložka, chemička, fyzička, inženýrka, matematička, středně tmavý odstín pleti, věda, vědkyně, vědkyně: středně tmavý odstín pleti, žena
 👩🏿‍🔬	bioložka, chemička, fyzička, inženýrka, matematička, tmavý odstín pleti, věda, vědkyně, vědkyně: tmavý odstín pleti, žena
+🧑‍💻	kodér, kodérka, programátor/programátorka, software, technologie, vynálezce, vynálezkyně, vývojář, vývojářka
+🧑🏻‍💻	kodér, kodérka, programátor/programátorka, programátor/programátorka: světlý odstín pleti, software, světlý odstín pleti, technologie, vynálezce, vynálezkyně, vývojář, vývojářka
+🧑🏼‍💻	kodér, kodérka, programátor/programátorka, programátor/programátorka: středně světlý odstín pleti, software, středně světlý odstín pleti, technologie, vynálezce, vynálezkyně, vývojář, vývojářka
+🧑🏽‍💻	kodér, kodérka, programátor/programátorka, programátor/programátorka: střední odstín pleti, software, střední odstín pleti, technologie, vynálezce, vynálezkyně, vývojář, vývojářka
+🧑🏾‍💻	kodér, kodérka, programátor/programátorka, programátor/programátorka: středně tmavý odstín pleti, software, středně tmavý odstín pleti, technologie, vynálezce, vynálezkyně, vývojář, vývojářka
+🧑🏿‍💻	kodér, kodérka, programátor/programátorka, programátor/programátorka: tmavý odstín pleti, software, technologie, tmavý odstín pleti, vynálezce, vynálezkyně, vývojář, vývojářka
 👨‍💻	kodér, muž, notebook, počítač, programování, programátor, software, technologie, vynálezce, vývoj, vývojář
 👨🏻‍💻	kodér, muž, notebook, počítač, programování, programátor, programátor: světlý odstín pleti, software, světlý odstín pleti, technologie, vynálezce, vývoj, vývojář
 👨🏼‍💻	kodér, muž, notebook, počítač, programování, programátor, programátor: středně světlý odstín pleti, software, středně světlý odstín pleti, technologie, vynálezce, vývoj, vývojář
@@ -829,6 +929,12 @@
 👩🏽‍💻	kodérka, notebook, počítač, programování, programátorka, programátorka: střední odstín pleti, software, střední odstín pleti, technologie, vynálezkyně, vývoj, vývojářka, žena
 👩🏾‍💻	kodérka, notebook, počítač, programování, programátorka, programátorka: středně tmavý odstín pleti, software, středně tmavý odstín pleti, technologie, vynálezkyně, vývoj, vývojářka, žena
 👩🏿‍💻	kodérka, notebook, počítač, programování, programátorka, programátorka: tmavý odstín pleti, software, technologie, tmavý odstín pleti, vynálezkyně, vývoj, vývojářka, žena
+🧑‍🎤	bavič, bavička, herec, herečka, hvězda, rocker, rockerka, zpěvačka, zpěvák, zpěvák/zpěvačka
+🧑🏻‍🎤	bavič, bavička, herec, herečka, hvězda, rocker, rockerka, světlý odstín pleti, zpěvačka, zpěvák, zpěvák/zpěvačka, zpěvák/zpěvačka: světlý odstín pleti
+🧑🏼‍🎤	bavič, bavička, herec, herečka, hvězda, rocker, rockerka, středně světlý odstín pleti, zpěvačka, zpěvák, zpěvák/zpěvačka, zpěvák/zpěvačka: středně světlý odstín pleti
+🧑🏽‍🎤	bavič, bavička, herec, herečka, hvězda, rocker, rockerka, střední odstín pleti, zpěvačka, zpěvák, zpěvák/zpěvačka, zpěvák/zpěvačka: střední odstín pleti
+🧑🏾‍🎤	bavič, bavička, herec, herečka, hvězda, rocker, rockerka, středně tmavý odstín pleti, zpěvačka, zpěvák, zpěvák/zpěvačka, zpěvák/zpěvačka: středně tmavý odstín pleti
+🧑🏿‍🎤	bavič, bavička, herec, herečka, hvězda, rocker, rockerka, tmavý odstín pleti, zpěvačka, zpěvák, zpěvák/zpěvačka, zpěvák/zpěvačka: tmavý odstín pleti
 👨‍🎤	bavič, herec, hvězda, muž, rock, rocker, zpěvák, zábava
 👨🏻‍🎤	bavič, herec, hvězda, muž, rock, rocker, světlý odstín pleti, zpěvák, zpěvák: světlý odstín pleti, zábava
 👨🏼‍🎤	bavič, herec, hvězda, muž, rock, rocker, středně světlý odstín pleti, zpěvák, zpěvák: středně světlý odstín pleti, zábava
@@ -841,6 +947,12 @@
 👩🏽‍🎤	bavička, herečka, hvězda, rock, rockerka, střední odstín pleti, zpěvačka, zpěvačka: střední odstín pleti, zábava, žena
 👩🏾‍🎤	bavička, herečka, hvězda, rock, rockerka, středně tmavý odstín pleti, zpěvačka, zpěvačka: středně tmavý odstín pleti, zábava, žena
 👩🏿‍🎤	bavička, herečka, hvězda, rock, rockerka, tmavý odstín pleti, zpěvačka, zpěvačka: tmavý odstín pleti, zábava, žena
+🧑‍🎨	malíř, malíř/malířka, malířka, paleta, umělec, umělkyně, umění
+🧑🏻‍🎨	malíř, malíř/malířka, malíř/malířka: světlý odstín pleti, malířka, paleta, světlý odstín pleti, umělec, umělkyně, umění
+🧑🏼‍🎨	malíř, malíř/malířka, malíř/malířka: středně světlý odstín pleti, malířka, paleta, středně světlý odstín pleti, umělec, umělkyně, umění
+🧑🏽‍🎨	malíř, malíř/malířka, malíř/malířka: střední odstín pleti, malířka, paleta, střední odstín pleti, umělec, umělkyně, umění
+🧑🏾‍🎨	malíř, malíř/malířka, malíř/malířka: středně tmavý odstín pleti, malířka, paleta, středně tmavý odstín pleti, umělec, umělkyně, umění
+🧑🏿‍🎨	malíř, malíř/malířka, malíř/malířka: tmavý odstín pleti, malířka, paleta, tmavý odstín pleti, umělec, umělkyně, umění
 👨‍🎨	malíř, muž, paleta, umělec, umění
 👨🏻‍🎨	malíř, malíř: světlý odstín pleti, muž, paleta, světlý odstín pleti, umělec, umění
 👨🏼‍🎨	malíř, malíř: středně světlý odstín pleti, muž, paleta, středně světlý odstín pleti, umělec, umění
@@ -853,6 +965,12 @@
 👩🏽‍🎨	malířka, malířka: střední odstín pleti, paleta, střední odstín pleti, umělkyně, umění, žena
 👩🏾‍🎨	malířka, malířka: středně tmavý odstín pleti, paleta, středně tmavý odstín pleti, umělkyně, umění, žena
 👩🏿‍🎨	malířka, malířka: tmavý odstín pleti, paleta, tmavý odstín pleti, umělkyně, umění, žena
+🧑‍✈	letadlo, pilot, pilot/pilotka, pilotka
+🧑🏻‍✈	letadlo, pilot, pilot/pilotka, pilot/pilotka: světlý odstín pleti, pilotka, světlý odstín pleti
+🧑🏼‍✈	letadlo, pilot, pilot/pilotka, pilot/pilotka: středně světlý odstín pleti, pilotka, středně světlý odstín pleti
+🧑🏽‍✈	letadlo, pilot, pilot/pilotka, pilot/pilotka: střední odstín pleti, pilotka, střední odstín pleti
+🧑🏾‍✈	letadlo, pilot, pilot/pilotka, pilot/pilotka: středně tmavý odstín pleti, pilotka, středně tmavý odstín pleti
+🧑🏿‍✈	letadlo, pilot, pilot/pilotka, pilot/pilotka: tmavý odstín pleti, pilotka, tmavý odstín pleti
 👨‍✈	letadlo, muž, pilot
 👨🏻‍✈	letadlo, muž, pilot, pilot: světlý odstín pleti, světlý odstín pleti
 👨🏼‍✈	letadlo, muž, pilot, pilot: středně světlý odstín pleti, středně světlý odstín pleti
@@ -865,6 +983,12 @@
 👩🏽‍✈	letadlo, pilotka, pilotka: střední odstín pleti, střední odstín pleti, žena
 👩🏾‍✈	letadlo, pilotka, pilotka: středně tmavý odstín pleti, středně tmavý odstín pleti, žena
 👩🏿‍✈	letadlo, pilotka, pilotka: tmavý odstín pleti, tmavý odstín pleti, žena
+🧑‍🚀	astronaut, astronautka, kosmonaut, kosmonaut/kosmonautka, kosmonautka, raketa, vesmíír
+🧑🏻‍🚀	astronaut, astronautka, kosmonaut, kosmonaut/kosmonautka, kosmonaut/kosmonautka: světlý odstín pleti, kosmonautka, raketa, světlý odstín pleti, vesmíír
+🧑🏼‍🚀	astronaut, astronautka, kosmonaut, kosmonaut/kosmonautka, kosmonaut/kosmonautka: středně světlý odstín pleti, kosmonautka, raketa, středně světlý odstín pleti, vesmíír
+🧑🏽‍🚀	astronaut, astronautka, kosmonaut, kosmonaut/kosmonautka, kosmonaut/kosmonautka: střední odstín pleti, kosmonautka, raketa, střední odstín pleti, vesmíír
+🧑🏾‍🚀	astronaut, astronautka, kosmonaut, kosmonaut/kosmonautka, kosmonaut/kosmonautka: středně tmavý odstín pleti, kosmonautka, raketa, středně tmavý odstín pleti, vesmíír
+🧑🏿‍🚀	astronaut, astronautka, kosmonaut, kosmonaut/kosmonautka, kosmonaut/kosmonautka: tmavý odstín pleti, kosmonautka, raketa, tmavý odstín pleti, vesmíír
 👨‍🚀	astronaut, kosmonaut, muž, raketa, vesmír
 👨🏻‍🚀	astronaut, kosmonaut, kosmonaut: světlý odstín pleti, muž, raketa, světlý odstín pleti, vesmír
 👨🏼‍🚀	astronaut, kosmonaut, kosmonaut: středně světlý odstín pleti, muž, raketa, středně světlý odstín pleti, vesmír
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronautka, kosmonautka, kosmonautka: střední odstín pleti, raketa, střední odstín pleti, vesmír, žena
 👩🏾‍🚀	astronautka, kosmonautka, kosmonautka: středně tmavý odstín pleti, raketa, středně tmavý odstín pleti, vesmír, žena
 👩🏿‍🚀	astronautka, kosmonautka, kosmonautka: tmavý odstín pleti, raketa, tmavý odstín pleti, vesmír, žena
+🧑‍🚒	hasič, hasič/hasička, hasička, hasičské auto, požár, požárnice, požárník, stříkačka
+🧑🏻‍🚒	hasič, hasič/hasička, hasič/hasička: světlý odstín pleti, hasička, hasičské auto, požár, požárnice, požárník, stříkačka, světlý odstín pleti
+🧑🏼‍🚒	hasič, hasič/hasička, hasič/hasička: středně světlý odstín pleti, hasička, hasičské auto, požár, požárnice, požárník, středně světlý odstín pleti, stříkačka
+🧑🏽‍🚒	hasič, hasič/hasička, hasič/hasička: střední odstín pleti, hasička, hasičské auto, požár, požárnice, požárník, střední odstín pleti, stříkačka
+🧑🏾‍🚒	hasič, hasič/hasička, hasič/hasička: středně tmavý odstín pleti, hasička, hasičské auto, požár, požárnice, požárník, středně tmavý odstín pleti, stříkačka
+🧑🏿‍🚒	hasič, hasič/hasička, hasič/hasička: tmavý odstín pleti, hasička, hasičské auto, požár, požárnice, požárník, stříkačka, tmavý odstín pleti
 👨‍🚒	hasič, hasičské auto, muž, požár, požárník, stříkačka
 👨🏻‍🚒	hasič, hasič: světlý odstín pleti, hasičské auto, muž, požár, požárník, stříkačka, světlý odstín pleti
 👨🏼‍🚒	hasič, hasič: středně světlý odstín pleti, hasičské auto, muž, požár, požárník, středně světlý odstín pleti, stříkačka
@@ -943,6 +1073,7 @@
 💂🏽‍♀	stráž, strážkyně, strážkyně: střední odstín pleti, střední odstín pleti, žena
 💂🏾‍♀	stráž, strážkyně, strážkyně: středně tmavý odstín pleti, středně tmavý odstín pleti, žena
 💂🏿‍♀	stráž, strážkyně, strážkyně: tmavý odstín pleti, tmavý odstín pleti, žena
+🥷	bojovník, nenápadný, nindža, tajný, špion
 👷	dělník na stavbě, helma, stavba
 👷🏻	dělník na stavbě, dělník na stavbě: světlý odstín pleti, helma, stavba, světlý odstín pleti
 👷🏼	dělník na stavbě, dělník na stavbě: středně světlý odstín pleti, helma, stavba, středně světlý odstín pleti
@@ -1003,18 +1134,42 @@
 🧕🏽	hidžáb, střední odstín pleti, závoj, šátek, žena v šátku, žena v šátku: střední odstín pleti
 🧕🏾	hidžáb, středně tmavý odstín pleti, závoj, šátek, žena v šátku, žena v šátku: středně tmavý odstín pleti
 🧕🏿	hidžáb, tmavý odstín pleti, závoj, šátek, žena v šátku, žena v šátku: tmavý odstín pleti
-🤵	muž, muž ve smokingu, smoking, ženich
-🤵🏻	muž, muž ve smokingu, muž ve smokingu: světlý odstín pleti, smoking, světlý odstín pleti, ženich
-🤵🏼	muž, muž ve smokingu, muž ve smokingu: středně světlý odstín pleti, smoking, středně světlý odstín pleti, ženich
-🤵🏽	muž, muž ve smokingu, muž ve smokingu: střední odstín pleti, smoking, střední odstín pleti, ženich
-🤵🏾	muž, muž ve smokingu, muž ve smokingu: středně tmavý odstín pleti, smoking, středně tmavý odstín pleti, ženich
-🤵🏿	muž, muž ve smokingu, muž ve smokingu: tmavý odstín pleti, smoking, tmavý odstín pleti, ženich
-👰	nevěsta, nevěsta se závojem, svatba, závoj
-👰🏻	nevěsta, nevěsta se závojem, nevěsta se závojem: světlý odstín pleti, svatba, světlý odstín pleti, závoj
-👰🏼	nevěsta, nevěsta se závojem, nevěsta se závojem: středně světlý odstín pleti, středně světlý odstín pleti, svatba, závoj
-👰🏽	nevěsta, nevěsta se závojem, nevěsta se závojem: střední odstín pleti, střední odstín pleti, svatba, závoj
-👰🏾	nevěsta, nevěsta se závojem, nevěsta se závojem: středně tmavý odstín pleti, středně tmavý odstín pleti, svatba, závoj
-👰🏿	nevěsta, nevěsta se závojem, nevěsta se závojem: tmavý odstín pleti, svatba, tmavý odstín pleti, závoj
+🤵	osoba, osoba ve smokingu, smoking, ženich
+🤵🏻	osoba, osoba ve smokingu, osoba ve smokingu: světlý odstín pleti, smoking, světlý odstín pleti, ženich
+🤵🏼	osoba, osoba ve smokingu, osoba ve smokingu: středně světlý odstín pleti, smoking, středně světlý odstín pleti, ženich
+🤵🏽	osoba, osoba ve smokingu, osoba ve smokingu: střední odstín pleti, smoking, střední odstín pleti, ženich
+🤵🏾	osoba, osoba ve smokingu, osoba ve smokingu: středně tmavý odstín pleti, smoking, středně tmavý odstín pleti, ženich
+🤵🏿	osoba, osoba ve smokingu, osoba ve smokingu: tmavý odstín pleti, smoking, tmavý odstín pleti, ženich
+🤵‍♂	muž, muž ve smokingu, smoking, ženich
+🤵🏻‍♂	muž, muž ve smokingu, muž ve smokingu: světlý odstín pleti, smoking, světlý odstín pleti, ženich
+🤵🏼‍♂	muž, muž ve smokingu, muž ve smokingu: středně světlý odstín pleti, smoking, středně světlý odstín pleti, ženich
+🤵🏽‍♂	muž, muž ve smokingu, muž ve smokingu: střední odstín pleti, smoking, střední odstín pleti, ženich
+🤵🏾‍♂	muž, muž ve smokingu, muž ve smokingu: středně tmavý odstín pleti, smoking, středně tmavý odstín pleti, ženich
+🤵🏿‍♂	muž, muž ve smokingu, muž ve smokingu: tmavý odstín pleti, smoking, tmavý odstín pleti, ženich
+🤵‍♀	smoking, žena, žena ve smokingu
+🤵🏻‍♀	smoking, světlý odstín pleti, žena, žena ve smokingu, žena ve smokingu: světlý odstín pleti
+🤵🏼‍♀	smoking, středně světlý odstín pleti, žena, žena ve smokingu, žena ve smokingu: středně světlý odstín pleti
+🤵🏽‍♀	smoking, střední odstín pleti, žena, žena ve smokingu, žena ve smokingu: střední odstín pleti
+🤵🏾‍♀	smoking, středně tmavý odstín pleti, žena, žena ve smokingu, žena ve smokingu: středně tmavý odstín pleti
+🤵🏿‍♀	smoking, tmavý odstín pleti, žena, žena ve smokingu, žena ve smokingu: tmavý odstín pleti
+👰	nevěsta, osoba, osoba se závojem, svatba, závoj
+👰🏻	nevěsta, osoba, osoba se závojem, osoba se závojem: světlý odstín pleti, svatba, světlý odstín pleti, závoj
+👰🏼	nevěsta, osoba, osoba se závojem, osoba se závojem: středně světlý odstín pleti, středně světlý odstín pleti, svatba, závoj
+👰🏽	nevěsta, osoba, osoba se závojem, osoba se závojem: střední odstín pleti, střední odstín pleti, svatba, závoj
+👰🏾	nevěsta, osoba, osoba se závojem, osoba se závojem: středně tmavý odstín pleti, středně tmavý odstín pleti, svatba, závoj
+👰🏿	nevěsta, osoba, osoba se závojem, osoba se závojem: tmavý odstín pleti, svatba, tmavý odstín pleti, závoj
+👰‍♂	muž, muž se závojem, svatba, závoj, ženich
+👰🏻‍♂	muž, muž se závojem, muž se závojem: světlý odstín pleti, svatba, světlý odstín pleti, závoj, ženich
+👰🏼‍♂	muž, muž se závojem, muž se závojem: středně světlý odstín pleti, středně světlý odstín pleti, svatba, závoj, ženich
+👰🏽‍♂	muž, muž se závojem, muž se závojem: střední odstín pleti, střední odstín pleti, svatba, závoj, ženich
+👰🏾‍♂	muž, muž se závojem, muž se závojem: středně tmavý odstín pleti, středně tmavý odstín pleti, svatba, závoj, ženich
+👰🏿‍♂	muž, muž se závojem, muž se závojem: tmavý odstín pleti, svatba, tmavý odstín pleti, závoj, ženich
+👰‍♀	nevěsta, svatba, závoj, žena, žena se závojem
+👰🏻‍♀	nevěsta, svatba, světlý odstín pleti, závoj, žena, žena se závojem, žena se závojem: světlý odstín pleti
+👰🏼‍♀	nevěsta, středně světlý odstín pleti, svatba, závoj, žena, žena se závojem, žena se závojem: středně světlý odstín pleti
+👰🏽‍♀	nevěsta, střední odstín pleti, svatba, závoj, žena, žena se závojem, žena se závojem: střední odstín pleti
+👰🏾‍♀	nevěsta, středně tmavý odstín pleti, svatba, závoj, žena, žena se závojem, žena se závojem: středně tmavý odstín pleti
+👰🏿‍♀	nevěsta, svatba, tmavý odstín pleti, závoj, žena, žena se závojem, žena se závojem: tmavý odstín pleti
 🤰	těhotenství, těhotná, těhotná žena, žena
 🤰🏻	světlý odstín pleti, těhotenství, těhotná, těhotná žena: světlý odstín pleti, žena
 🤰🏼	středně světlý odstín pleti, těhotenství, těhotná, těhotná žena: středně světlý odstín pleti, žena
@@ -1027,6 +1182,24 @@
 🤱🏽	dítě, kojenec, kojení, kojení: střední odstín pleti, kojit, krmení, prsa, prso, střední odstín pleti
 🤱🏾	dítě, kojenec, kojení, kojení: středně tmavý odstín pleti, kojit, krmení, prsa, prso, středně tmavý odstín pleti
 🤱🏿	dítě, kojenec, kojení, kojení: tmavý odstín pleti, kojit, krmení, prsa, prso, tmavý odstín pleti
+👩‍🍼	dítě, kojenec, kojení, krmení, nemluvně, žena, žena krmící dítě z lahve
+👩🏻‍🍼	dítě, kojenec, kojení, krmení, nemluvně, světlý odstín pleti, žena, žena krmící dítě z lahve, žena krmící dítě z lahve: světlý odstín pleti
+👩🏼‍🍼	dítě, kojenec, kojení, krmení, nemluvně, středně světlý odstín pleti, žena, žena krmící dítě z lahve, žena krmící dítě z lahve: středně světlý odstín pleti
+👩🏽‍🍼	dítě, kojenec, kojení, krmení, nemluvně, střední odstín pleti, žena, žena krmící dítě z lahve, žena krmící dítě z lahve: střední odstín pleti
+👩🏾‍🍼	dítě, kojenec, kojení, krmení, nemluvně, středně tmavý odstín pleti, žena, žena krmící dítě z lahve, žena krmící dítě z lahve: středně tmavý odstín pleti
+👩🏿‍🍼	dítě, kojenec, kojení, krmení, nemluvně, tmavý odstín pleti, žena, žena krmící dítě z lahve, žena krmící dítě z lahve: tmavý odstín pleti
+👨‍🍼	dítě, kojenec, kojení, krmení, muž, muž krmící dítě z lahve, nemluvně
+👨🏻‍🍼	dítě, kojenec, kojení, krmení, muž, muž krmící dítě z lahve, muž krmící dítě z lahve: světlý odstín pleti, nemluvně, světlý odstín pleti
+👨🏼‍🍼	dítě, kojenec, kojení, krmení, muž, muž krmící dítě z lahve, muž krmící dítě z lahve: středně světlý odstín pleti, nemluvně, středně světlý odstín pleti
+👨🏽‍🍼	dítě, kojenec, kojení, krmení, muž, muž krmící dítě z lahve, muž krmící dítě z lahve: střední odstín pleti, nemluvně, střední odstín pleti
+👨🏾‍🍼	dítě, kojenec, kojení, krmení, muž, muž krmící dítě z lahve, muž krmící dítě z lahve: středně tmavý odstín pleti, nemluvně, středně tmavý odstín pleti
+👨🏿‍🍼	dítě, kojenec, kojení, krmení, muž, muž krmící dítě z lahve, muž krmící dítě z lahve: tmavý odstín pleti, nemluvně, tmavý odstín pleti
+🧑‍🍼	dítě, kojenec, kojení, krmení, nemluvně, osoba, osoba krmící dítě z lahve
+🧑🏻‍🍼	dítě, kojenec, kojení, krmení, nemluvně, osoba, osoba krmící dítě z lahve, osoba krmící dítě z lahve: světlý odstín pleti, světlý odstín pleti
+🧑🏼‍🍼	dítě, kojenec, kojení, krmení, nemluvně, osoba, osoba krmící dítě z lahve, osoba krmící dítě z lahve: středně světlý odstín pleti, středně světlý odstín pleti
+🧑🏽‍🍼	dítě, kojenec, kojení, krmení, nemluvně, osoba, osoba krmící dítě z lahve, osoba krmící dítě z lahve: střední odstín pleti, střední odstín pleti
+🧑🏾‍🍼	dítě, kojenec, kojení, krmení, nemluvně, osoba, osoba krmící dítě z lahve, osoba krmící dítě z lahve: středně tmavý odstín pleti, středně tmavý odstín pleti
+🧑🏿‍🍼	dítě, kojenec, kojení, krmení, nemluvně, osoba, osoba krmící dítě z lahve, osoba krmící dítě z lahve: tmavý odstín pleti, tmavý odstín pleti
 👼	andílek, anděl, dítě, fantasy, pohádka, smajlík, tvář, výraz
 👼🏻	andílek, andílek: světlý odstín pleti, anděl, dítě, fantasy, pohádka, smajlík, světlý odstín pleti, tvář, výraz
 👼🏼	andílek, andílek: středně světlý odstín pleti, anděl, dítě, fantasy, pohádka, smajlík, středně světlý odstín pleti, tvář, výraz
@@ -1045,6 +1218,12 @@
 🤶🏽	Santa Clausová, Santa Clausová: střední odstín pleti, fantasy, matka, oslava, pohádka, santa, střední odstín pleti, vánoce
 🤶🏾	Santa Clausová, Santa Clausová: středně tmavý odstín pleti, fantasy, matka, oslava, pohádka, santa, středně tmavý odstín pleti, vánoce
 🤶🏿	Santa Clausová, Santa Clausová: tmavý odstín pleti, fantasy, matka, oslava, pohádka, santa, tmavý odstín pleti, vánoce
+🧑‍🎄	Santa, fantasy, oslava, pohádka, santa, santa claus, vánoce
+🧑🏻‍🎄	Santa, Santa: světlý odstín pleti, fantasy, oslava, pohádka, santa, santa claus, světlý odstín pleti, vánoce
+🧑🏼‍🎄	Santa, Santa: středně světlý odstín pleti, fantasy, oslava, pohádka, santa, santa claus, středně světlý odstín pleti, vánoce
+🧑🏽‍🎄	Santa, Santa: střední odstín pleti, fantasy, oslava, pohádka, santa, santa claus, střední odstín pleti, vánoce
+🧑🏾‍🎄	Santa, Santa: středně tmavý odstín pleti, fantasy, oslava, pohádka, santa, santa claus, středně tmavý odstín pleti, vánoce
+🧑🏿‍🎄	Santa, Santa: tmavý odstín pleti, fantasy, oslava, pohádka, santa, santa claus, tmavý odstín pleti, vánoce
 🦸	hrdina, hrdinka, kladná postava, superhrdina, superhrdinka, superhrdinská postava, superschopnost
 🦸🏻	hrdina, hrdinka, kladná postava, superhrdina, superhrdinka, superhrdinská postava, superhrdinská postava: světlý odstín pleti, superschopnost, světlý odstín pleti
 🦸🏼	hrdina, hrdinka, kladná postava, středně světlý odstín pleti, superhrdina, superhrdinka, superhrdinská postava, superhrdinská postava: středně světlý odstín pleti, superschopnost
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	klek, klečet, klečící, klečící žena: střední odstín pleti, poklek, střední odstín pleti, žena
 🧎🏾‍♀	klek, klečet, klečící, klečící žena: středně tmavý odstín pleti, poklek, středně tmavý odstín pleti, žena
 🧎🏿‍♀	klek, klečet, klečící, klečící žena: tmavý odstín pleti, poklek, tmavý odstín pleti, žena
+🧑‍🦯	handicap, hendikep, pomůcka, postižení, slepý, usnadnění, člověk se slepeckou holí
+🧑🏻‍🦯	handicap, hendikep, pomůcka, postižení, slepý, světlý odstín pleti, usnadnění, člověk se slepeckou holí, člověk se slepeckou holí: světlý odstín pleti
+🧑🏼‍🦯	handicap, hendikep, pomůcka, postižení, slepý, středně světlý odstín pleti, usnadnění, člověk se slepeckou holí, člověk se slepeckou holí: středně světlý odstín pleti
+🧑🏽‍🦯	handicap, hendikep, pomůcka, postižení, slepý, střední odstín pleti, usnadnění, člověk se slepeckou holí, člověk se slepeckou holí: střední odstín pleti
+🧑🏾‍🦯	handicap, hendikep, pomůcka, postižení, slepý, středně tmavý odstín pleti, usnadnění, člověk se slepeckou holí, člověk se slepeckou holí: středně tmavý odstín pleti
+🧑🏿‍🦯	handicap, hendikep, pomůcka, postižení, slepý, tmavý odstín pleti, usnadnění, člověk se slepeckou holí, člověk se slepeckou holí: tmavý odstín pleti
 👨‍🦯	handicap, hendikep, muž, muž se slepeckou holí, pomůcka, postižení, slepý, usnadnění
 👨🏻‍🦯	handicap, hendikep, muž, muž se slepeckou holí, muž se slepeckou holí: světlý odstín pleti, pomůcka, postižení, slepý, světlý odstín pleti, usnadnění
 👨🏼‍🦯	handicap, hendikep, muž, muž se slepeckou holí, muž se slepeckou holí: středně světlý odstín pleti, pomůcka, postižení, slepý, středně světlý odstín pleti, usnadnění
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	handicap, hendikep, pomůcka, postižení, slepá, střední odstín pleti, usnadnění, žena, žena se slepeckou holí, žena se slepeckou holí: střední odstín pleti
 👩🏾‍🦯	handicap, hendikep, pomůcka, postižení, slepá, středně tmavý odstín pleti, usnadnění, žena, žena se slepeckou holí, žena se slepeckou holí: středně tmavý odstín pleti
 👩🏿‍🦯	handicap, hendikep, pomůcka, postižení, slepá, tmavý odstín pleti, usnadnění, žena, žena se slepeckou holí, žena se slepeckou holí: tmavý odstín pleti
+🧑‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, usnadnění, vozík, člověk na elektrickém invalidním vozíku
+🧑🏻‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, světlý odstín pleti, usnadnění, vozík, člověk na elektrickém invalidním vozíku, člověk na elektrickém invalidním vozíku: světlý odstín pleti
+🧑🏼‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, středně světlý odstín pleti, usnadnění, vozík, člověk na elektrickém invalidním vozíku, člověk na elektrickém invalidním vozíku: středně světlý odstín pleti
+🧑🏽‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, střední odstín pleti, usnadnění, vozík, člověk na elektrickém invalidním vozíku, člověk na elektrickém invalidním vozíku: střední odstín pleti
+🧑🏾‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, středně tmavý odstín pleti, usnadnění, vozík, člověk na elektrickém invalidním vozíku, člověk na elektrickém invalidním vozíku: středně tmavý odstín pleti
+🧑🏿‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, tmavý odstín pleti, usnadnění, vozík, člověk na elektrickém invalidním vozíku, člověk na elektrickém invalidním vozíku: tmavý odstín pleti
 👨‍🦼	handicap, hendikep, invalidní, muž, muž na elektrickém invalidním vozíku, pomůcka, postižení, usnadnění, vozík
 👨🏻‍🦼	handicap, hendikep, invalidní, muž, muž na elektrickém invalidním vozíku, muž na elektrickém invalidním vozíku: světlý odstín pleti, pomůcka, postižení, světlý odstín pleti, usnadnění, vozík
 👨🏼‍🦼	handicap, hendikep, invalidní, muž, muž na elektrickém invalidním vozíku, muž na elektrickém invalidním vozíku: středně světlý odstín pleti, pomůcka, postižení, středně světlý odstín pleti, usnadnění, vozík
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, střední odstín pleti, usnadnění, vozík, žena, žena na elektrickém invalidním vozíku, žena na elektrickém invalidním vozíku: střední odstín pleti
 👩🏾‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, středně tmavý odstín pleti, usnadnění, vozík, žena, žena na elektrickém invalidním vozíku, žena na elektrickém invalidním vozíku: středně tmavý odstín pleti
 👩🏿‍🦼	handicap, hendikep, invalidní, pomůcka, postižení, tmavý odstín pleti, usnadnění, vozík, žena, žena na elektrickém invalidním vozíku, žena na elektrickém invalidním vozíku: tmavý odstín pleti
+🧑‍🦽	handicap, hendikep, invalidní, pomůcka, postižení, usnadnění, vozík, člověk na mechanickém invalidním vozíku
+🧑🏻‍🦽	handicap, hendikep, invalidní, pomůcka, postižení, světlý odstín pleti, usnadnění, vozík, člověk na mechanickém invalidním vozíku, člověk na mechanickém invalidním vozíku: světlý odstín pleti
+🧑🏼‍🦽	handicap, hendikep, invalidní, pomůcka, postižení, středně světlý odstín pleti, usnadnění, vozík, člověk na mechanickém invalidním vozíku, člověk na mechanickém invalidním vozíku: středně světlý odstín pleti
+🧑🏽‍🦽	handicap, hendikep, invalidní, pomůcka, postižení, střední odstín pleti, usnadnění, vozík, člověk na mechanickém invalidním vozíku, člověk na mechanickém invalidním vozíku: střední odstín pleti
+🧑🏾‍🦽	handicap, hendikep, invalidní, pomůcka, postižení, středně tmavý odstín pleti, usnadnění, vozík, člověk na mechanickém invalidním vozíku, člověk na mechanickém invalidním vozíku: středně tmavý odstín pleti
+🧑🏿‍🦽	handicap, hendikep, invalidní, pomůcka, postižení, tmavý odstín pleti, usnadnění, vozík, člověk na mechanickém invalidním vozíku, člověk na mechanickém invalidním vozíku: tmavý odstín pleti
 👨‍🦽	handicap, hendikep, invalidní, muž, muž na mechanickém invalidním vozíku, pomůcka, postižení, usnadnění, vozík
 👨🏻‍🦽	handicap, hendikep, invalidní, muž, muž na mechanickém invalidním vozíku, muž na mechanickém invalidním vozíku: světlý odstín pleti, pomůcka, postižení, světlý odstín pleti, usnadnění, vozík
 👨🏼‍🦽	handicap, hendikep, invalidní, muž, muž na mechanickém invalidním vozíku, muž na mechanickém invalidním vozíku: středně světlý odstín pleti, pomůcka, postižení, středně světlý odstín pleti, usnadnění, vozík
@@ -1643,15 +1840,25 @@
 🛌🏿	hotel, osoba v posteli, osoba v posteli: tmavý odstín pleti, spánek, tmavý odstín pleti
 🧑‍🤝‍🧑	držet, dva lidé držící se za ruce, dvojice, osoba, pár, ruka, člověk
 🧑🏻‍🤝‍🧑🏻	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: světlý odstín pleti, dvojice, osoba, pár, ruka, světlý odstín pleti, člověk
+🧑🏻‍🤝‍🧑🏼	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: světlý odstín pleti, středně světlý odstín pleti, dvojice, osoba, pár, ruka, středně světlý odstín pleti, světlý odstín pleti, člověk
+🧑🏻‍🤝‍🧑🏽	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: světlý odstín pleti, střední odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, světlý odstín pleti, člověk
+🧑🏻‍🤝‍🧑🏾	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: světlý odstín pleti, středně tmavý odstín pleti, dvojice, osoba, pár, ruka, středně tmavý odstín pleti, světlý odstín pleti, člověk
+🧑🏻‍🤝‍🧑🏿	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: světlý odstín pleti, tmavý odstín pleti, dvojice, osoba, pár, ruka, světlý odstín pleti, tmavý odstín pleti, člověk
 🧑🏼‍🤝‍🧑🏻	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně světlý odstín pleti, světlý odstín pleti, dvojice, osoba, pár, ruka, středně světlý odstín pleti, světlý odstín pleti, člověk
 🧑🏼‍🤝‍🧑🏼	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně světlý odstín pleti, dvojice, osoba, pár, ruka, středně světlý odstín pleti, člověk
+🧑🏼‍🤝‍🧑🏽	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně světlý odstín pleti, střední odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, středně světlý odstín pleti, člověk
+🧑🏼‍🤝‍🧑🏾	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně světlý odstín pleti, středně tmavý odstín pleti, dvojice, osoba, pár, ruka, středně světlý odstín pleti, středně tmavý odstín pleti, člověk
+🧑🏼‍🤝‍🧑🏿	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně světlý odstín pleti, tmavý odstín pleti, dvojice, osoba, pár, ruka, středně světlý odstín pleti, tmavý odstín pleti, člověk
 🧑🏽‍🤝‍🧑🏻	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: střední odstín pleti, světlý odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, světlý odstín pleti, člověk
 🧑🏽‍🤝‍🧑🏼	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: střední odstín pleti, středně světlý odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, středně světlý odstín pleti, člověk
 🧑🏽‍🤝‍🧑🏽	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: střední odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, člověk
+🧑🏽‍🤝‍🧑🏾	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: střední odstín pleti, středně tmavý odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, středně tmavý odstín pleti, člověk
+🧑🏽‍🤝‍🧑🏿	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: střední odstín pleti, tmavý odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, tmavý odstín pleti, člověk
 🧑🏾‍🤝‍🧑🏻	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně tmavý odstín pleti, světlý odstín pleti, dvojice, osoba, pár, ruka, středně tmavý odstín pleti, světlý odstín pleti, člověk
 🧑🏾‍🤝‍🧑🏼	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně tmavý odstín pleti, středně světlý odstín pleti, dvojice, osoba, pár, ruka, středně světlý odstín pleti, středně tmavý odstín pleti, člověk
 🧑🏾‍🤝‍🧑🏽	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně tmavý odstín pleti, střední odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, středně tmavý odstín pleti, člověk
 🧑🏾‍🤝‍🧑🏾	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně tmavý odstín pleti, dvojice, osoba, pár, ruka, středně tmavý odstín pleti, člověk
+🧑🏾‍🤝‍🧑🏿	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: středně tmavý odstín pleti, tmavý odstín pleti, dvojice, osoba, pár, ruka, středně tmavý odstín pleti, tmavý odstín pleti, člověk
 🧑🏿‍🤝‍🧑🏻	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: tmavý odstín pleti, světlý odstín pleti, dvojice, osoba, pár, ruka, světlý odstín pleti, tmavý odstín pleti, člověk
 🧑🏿‍🤝‍🧑🏼	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: tmavý odstín pleti, středně světlý odstín pleti, dvojice, osoba, pár, ruka, středně světlý odstín pleti, tmavý odstín pleti, člověk
 🧑🏿‍🤝‍🧑🏽	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: tmavý odstín pleti, střední odstín pleti, dvojice, osoba, pár, ruka, střední odstín pleti, tmavý odstín pleti, člověk
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	držet, dva lidé držící se za ruce, dva lidé držící se za ruce: tmavý odstín pleti, dvojice, osoba, pár, ruka, tmavý odstín pleti, člověk
 👭	držet, dvojice, dvě ženy držící se za ruce, pár, ruka, žena
 👭🏻	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: světlý odstín pleti, pár, ruka, světlý odstín pleti, žena
+👩🏻‍🤝‍👩🏼	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: světlý odstín pleti, středně světlý odstín pleti, pár, ruka, středně světlý odstín pleti, světlý odstín pleti, žena
+👩🏻‍🤝‍👩🏽	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: světlý odstín pleti, střední odstín pleti, pár, ruka, střední odstín pleti, světlý odstín pleti, žena
+👩🏻‍🤝‍👩🏾	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: světlý odstín pleti, středně tmavý odstín pleti, pár, ruka, středně tmavý odstín pleti, světlý odstín pleti, žena
+👩🏻‍🤝‍👩🏿	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: světlý odstín pleti, tmavý odstín pleti, pár, ruka, světlý odstín pleti, tmavý odstín pleti, žena
 👩🏼‍🤝‍👩🏻	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně světlý odstín pleti, světlý odstín pleti, pár, ruka, středně světlý odstín pleti, světlý odstín pleti, žena
 👭🏼	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně světlý odstín pleti, pár, ruka, středně světlý odstín pleti, žena
+👩🏼‍🤝‍👩🏽	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně světlý odstín pleti, střední odstín pleti, pár, ruka, střední odstín pleti, středně světlý odstín pleti, žena
+👩🏼‍🤝‍👩🏾	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně světlý odstín pleti, středně tmavý odstín pleti, pár, ruka, středně světlý odstín pleti, středně tmavý odstín pleti, žena
+👩🏼‍🤝‍👩🏿	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně světlý odstín pleti, tmavý odstín pleti, pár, ruka, středně světlý odstín pleti, tmavý odstín pleti, žena
 👩🏽‍🤝‍👩🏻	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: střední odstín pleti, světlý odstín pleti, pár, ruka, střední odstín pleti, světlý odstín pleti, žena
 👩🏽‍🤝‍👩🏼	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: střední odstín pleti, středně světlý odstín pleti, pár, ruka, střední odstín pleti, středně světlý odstín pleti, žena
 👭🏽	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: střední odstín pleti, pár, ruka, střední odstín pleti, žena
+👩🏽‍🤝‍👩🏾	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: střední odstín pleti, středně tmavý odstín pleti, pár, ruka, střední odstín pleti, středně tmavý odstín pleti, žena
+👩🏽‍🤝‍👩🏿	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: střední odstín pleti, tmavý odstín pleti, pár, ruka, střední odstín pleti, tmavý odstín pleti, žena
 👩🏾‍🤝‍👩🏻	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně tmavý odstín pleti, světlý odstín pleti, pár, ruka, středně tmavý odstín pleti, světlý odstín pleti, žena
 👩🏾‍🤝‍👩🏼	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně tmavý odstín pleti, středně světlý odstín pleti, pár, ruka, středně světlý odstín pleti, středně tmavý odstín pleti, žena
 👩🏾‍🤝‍👩🏽	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně tmavý odstín pleti, střední odstín pleti, pár, ruka, střední odstín pleti, středně tmavý odstín pleti, žena
 👭🏾	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně tmavý odstín pleti, pár, ruka, středně tmavý odstín pleti, žena
+👩🏾‍🤝‍👩🏿	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: středně tmavý odstín pleti, tmavý odstín pleti, pár, ruka, středně tmavý odstín pleti, tmavý odstín pleti, žena
 👩🏿‍🤝‍👩🏻	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: tmavý odstín pleti, světlý odstín pleti, pár, ruka, světlý odstín pleti, tmavý odstín pleti, žena
 👩🏿‍🤝‍👩🏼	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: tmavý odstín pleti, středně světlý odstín pleti, pár, ruka, středně světlý odstín pleti, tmavý odstín pleti, žena
 👩🏿‍🤝‍👩🏽	držet, dvojice, dvě ženy držící se za ruce, dvě ženy držící se za ruce: tmavý odstín pleti, střední odstín pleti, pár, ruka, střední odstín pleti, tmavý odstín pleti, žena
@@ -1701,15 +1918,25 @@
 👫🏿	držet, dvojice, muž, muž a žena držící se za ruce, muž a žena držící se za ruce: tmavý odstín pleti, pár, ruka, tmavý odstín pleti, žena
 👬	blíženci, držet, dva muži držící se za ruce, dvojice, dvojčata, muž, pár, ruka, zvěrokruh
 👬🏻	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, světlý odstín pleti, zvěrokruh
+👨🏻‍🤝‍👨🏼	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: světlý odstín pleti, středně světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně světlý odstín pleti, světlý odstín pleti, zvěrokruh
+👨🏻‍🤝‍👨🏽	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: světlý odstín pleti, střední odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, světlý odstín pleti, zvěrokruh
+👨🏻‍🤝‍👨🏾	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: světlý odstín pleti, středně tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně tmavý odstín pleti, světlý odstín pleti, zvěrokruh
+👨🏻‍🤝‍👨🏿	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: světlý odstín pleti, tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, světlý odstín pleti, tmavý odstín pleti, zvěrokruh
 👨🏼‍🤝‍👨🏻	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně světlý odstín pleti, světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně světlý odstín pleti, světlý odstín pleti, zvěrokruh
 👬🏼	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně světlý odstín pleti, zvěrokruh
+👨🏼‍🤝‍👨🏽	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně světlý odstín pleti, střední odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, středně světlý odstín pleti, zvěrokruh
+👨🏼‍🤝‍👨🏾	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně světlý odstín pleti, středně tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně světlý odstín pleti, středně tmavý odstín pleti, zvěrokruh
+👨🏼‍🤝‍👨🏿	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně světlý odstín pleti, tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně světlý odstín pleti, tmavý odstín pleti, zvěrokruh
 👨🏽‍🤝‍👨🏻	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: střední odstín pleti, světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, světlý odstín pleti, zvěrokruh
 👨🏽‍🤝‍👨🏼	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: střední odstín pleti, středně světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, středně světlý odstín pleti, zvěrokruh
 👬🏽	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: střední odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, zvěrokruh
+👨🏽‍🤝‍👨🏾	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: střední odstín pleti, středně tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, středně tmavý odstín pleti, zvěrokruh
+👨🏽‍🤝‍👨🏿	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: střední odstín pleti, tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, tmavý odstín pleti, zvěrokruh
 👨🏾‍🤝‍👨🏻	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně tmavý odstín pleti, světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně tmavý odstín pleti, světlý odstín pleti, zvěrokruh
 👨🏾‍🤝‍👨🏼	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně tmavý odstín pleti, středně světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně světlý odstín pleti, středně tmavý odstín pleti, zvěrokruh
 👨🏾‍🤝‍👨🏽	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně tmavý odstín pleti, střední odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, středně tmavý odstín pleti, zvěrokruh
 👬🏾	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně tmavý odstín pleti, zvěrokruh
+👨🏾‍🤝‍👨🏿	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: středně tmavý odstín pleti, tmavý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně tmavý odstín pleti, tmavý odstín pleti, zvěrokruh
 👨🏿‍🤝‍👨🏻	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: tmavý odstín pleti, světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, světlý odstín pleti, tmavý odstín pleti, zvěrokruh
 👨🏿‍🤝‍👨🏼	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: tmavý odstín pleti, středně světlý odstín pleti, dvojice, dvojčata, muž, pár, ruka, středně světlý odstín pleti, tmavý odstín pleti, zvěrokruh
 👨🏿‍🤝‍👨🏽	blíženci, držet, dva muži držící se za ruce, dva muži držící se za ruce: tmavý odstín pleti, střední odstín pleti, dvojice, dvojčata, muž, pár, ruka, střední odstín pleti, tmavý odstín pleti, zvěrokruh
@@ -1752,6 +1979,7 @@
 🗣️	hlava, mluvit, mluvící hlava, silueta, smajlík, tvář, výraz, řeč
 👤	busta, bysta, silueta, silueta busty
 👥	busta, bysta, silueta, silueta dvojice bust
+🫂	díky, náruč, objetí, objímající se lidé, pozdrav, sbohem, vděčnost
 👣	oblečení, otisk, stopa, stopy, tělo
 🦰	ryšavé vlasy, rusé vlasy, rudé vlasy, zrzek, zrzka, zrzavé vlasy
 🦱	afro, kudrnaté vlasy, kudrny, prstýnky, vlnité vlasy
@@ -1771,6 +1999,7 @@
 🦝	medvídek, mýval, zvědavý
 🐱	hlava kočky, kočka, mazlíček, smajlík, tvář, výraz
 🐈️	domácí, kočka, mazlíček
+🐈‍⬛	kočka, neštěstí, smůla, černá, černá kočka
 🦁	hlava lva, lev, smajlík, tvář, výraz, zvěrokruh
 🐯	hlava tygra, smajlík, tvář, tygr, výraz
 🐅	tygr
@@ -1780,6 +2009,7 @@
 🦄	hlava jednorožce, jednorožec, smajlík, tvář, výraz
 🦓	kůň, pruhy, zebra
 🦌	jelen, kolouch, laň
+🦬	bizon, buvol, stádo, zubr
 🐮	hlava krávy, kráva, smajlík, tvář, výraz
 🐂	býk, vůl, zvěrokruh
 🐃	buvol, buvol domácí, voda, vodní buvol
@@ -1796,6 +2026,7 @@
 🦙	alpaka, guanako, lama, vikuňa, vlna
 🦒	fleky, skvrny, žirafa
 🐘	slon
+🦣	huňatý, kel, kly, mamut, velký, vyhynulý
 🦏	nosorožec
 🦛	hroch, tlustokožec
 🐭	hlava myši, myš, smajlík, tvář, výraz
@@ -1805,9 +2036,11 @@
 🐰	domácí, hlava králíka, králík, mazlíček, smajlík, tvář, ušák, výraz, zajíc
 🐇	domácí, králík, mazlíček, ušák, zajíc
 🐿️	veverka
+🦫	bobr, hráz
 🦔	bodliny, ježek, ostny
 🦇	netopýr, upír, vampýr, zvíře
 🐻	hlava medvěda, medvěd, smajlík, tvář, výraz
+🐻‍❄	arktida, bílý, hlava ledního medvěda, lední, medvěd
 🐨	koala, medvídek, medvěd
 🐼	hlava pandy, panda, smajlík, tvář, výraz
 🦥	lenochod, lenost, líný, pomalý
@@ -1829,6 +2062,8 @@
 🦆	kachna, kachnička, pták
 🦢	bílý, labuť, ošklivé káčátko, pták, vznešený
 🦉	moudrost, pták, sova
+🦤	Mauricius, blboun, dodo, dronte, nejapný, pták, velký, vyhynulý
+🪶	lehké, let, opeření, peří, pták, péro, pírko
 🦩	okázalý, plameňák, tropický, tropy
 🦚	pompézní, pták, pyšný, páv, pávice
 🦜	mluvící, papoušek, pirát, pták
@@ -1844,6 +2079,7 @@
 🐳	odfukující, smajlík, stříkající, tvář, velryba, velryba stříkající vodu, vodotrysk, výraz
 🐋	kytovec, plejtvák, velryba
 🐬	delfín, delfínek, skákající
+🦭	lachtan, lvoun, tuleň
 🐟️	ryba, ryby, zvěrokruh
 🐠	ryba, tropická ryba, tropický
 🐡	ježík, ryba, čtverzubec
@@ -1855,12 +2091,16 @@
 🐛	hmyz, housenka
 🐜	hmyz, mravenec
 🐝	hmyz, včela
+🪲	brouk, brouček, hmyz
 🐞	beruška, brouk, hmyz, sedmitečné, slunéčko
 🦗	cvrček, kobylka, koník, luční
+🪳	hmyz, škůdce, šváb
 🕷️	hmyz, pavouk
 🕸️	pavouk, pavoučí, pavučina, síť
 🦂	zvěrokruh, škorpion, štír
 🦟	dengue, hmyz, komár, malárie, moskyt, virus, štípnutí
+🪰	hmyz, hnijící, larva, moucha, nemoc, otravný
+🪱	dešťovka, kroužkovec, parazit, červ, žížala
 🦠	améba, bacil, bakterie, mikrob, mikroorganismus, virus
 💐	květina, kytice, kytička, kytka, pugét, romance, romantika, rostlina
 🌸	květ, květina, rostlina, třešeň, třešňový květ
@@ -1873,6 +2113,7 @@
 🌼	květ, květina, rostlina
 🌷	květ, květina, rostlina, tulipán
 🌱	klíček, klíčící, mladý, rostlina, výhonek
+🪴	dům, květina v květináči, nuda, nudný, péče, rostlina, růst
 🌲	jehličnatý strom, rostlina, strom, stálezelený
 🌳	listnatý strom, opadavý, rostlina, strom
 🌴	palma, rostlina, strom
@@ -1898,8 +2139,10 @@
 🍑	broskev, ovoce, rostlina
 🍒	ovoce, rostlina, třešeň, třešně
 🍓	jahoda, ovoce, rostlina
+🫐	bobule, borůvky, lesní, modrý, plod
 🥝	jídlo, kivi, kiwi, ovoce
 🍅	rajče, rostlina, zelenina
+🫒	jídlo, oliva, ovoce
 🥥	kokos, ořech, palma, piňa colada
 🥑	avokádo, jídlo, ovoce
 🍆	baklažán, lilek, rostlina, zelenina
@@ -1907,6 +2150,7 @@
 🥕	jídlo, mrkev, zelenina
 🌽	klas, kukuřičný klas, obilí, rostlina, zrno
 🌶️	chilli, feferonka, ostrý, paprika, paprička, pálivý, rostlina, čili
+🫑	kapie, paprika, sladká, zelenina
 🥒	jídlo, kyselá, nakládaná, okurek, okurka, zelenina
 🥬	bok čoj, kapusta, pak čoj, salát, salátové listy, zelí, čínské
 🥦	brokolice, brukev, kapusta, rostlina, zelenina
@@ -1918,6 +2162,7 @@
 🍞	bochník, chleba, chléb, pecen
 🥐	croissant, francouzské, jídlo, loupák, loupáček, pečivo, rohlík
 🥖	bageta, francouzské, jídlo, pečivo
+🫓	arepa, chlebová placka, lavaš, naan, nán, pita
 🥨	jídlo, kroucené, pečivo, preclík
 🥯	bagel, bejgl, pečivo
 🥞	jídlo, lívance, palačinky
@@ -1934,12 +2179,14 @@
 🥪	chleba, sandwich, sendvič, toast, toust
 🌮	jídlo, mexické, taco, tacos
 🌯	burito, burrito, jídlo, mexická, mexické, rolka, wrap
+🫔	mexický, tamale, tamales, wrap
 🥙	falafel, gyros, jídlo, kebab, plněná pita, plněný, sendvič
 🧆	boby, cizrna, falafel, karbanátky, koule, kuličky
 🥚	jídlo, vejce
 🍳	pánev, smažení, vaření, vejce, vejce na pánvi
 🥘	jídlo, kastrol, mělký, mělký rendlík s jídlem, paella, pánev
 🍲	guláš, hrnec, hrnec jídla, polévka
+🫕	fondue, sýr, sýrové, čokoládové, švýcarské
 🥣	cereálie, cornflakes, kaše, kornflejks, kornflejky, krupičná, kukuřičné, lupínky, miska se lžící, muesli, musli, müsli, ovesná, snídaně
 🥗	jídlo, salát, zelený
 🍿	popcorn, popkorn, pražená kukuřice, pukance, pukánky
@@ -1985,6 +2232,7 @@
 🍼	dítě, kojenecká láhev, lahev, mléko, nápoj
 🥛	mléko, nápoj, sklenice, sklenice mléka
 ☕️	horký, kouřící, káva, nápoj, pití, pára, teplý nápoj, čaj
+🫖	konvice, nápoj, pití, čaj, čajník, čajová konvice
 🍵	nápoj, pití, čaj, šálek, šálek bez ouška
 🍶	bar, lahev, nápoj, pití, saké, šálek
 🍾	bar, korek, láhev, láhev sektu, nápoj, sekt, zátka
@@ -1996,6 +2244,7 @@
 🥂	cinkající sklenice, cinkání, nápoj, oslava, pití, přiťuknutí, přípitek, sklenice
 🥃	alkohol, panák, sklenice, sklenice whisky, tumbler, whiskey, whisky
 🥤	džus, limonáda, nealko, pohárek s brčkem, soda, sodovka
+🧋	bubble tea, bublinkový, bublinkový čaj, mléčný, perlivý, perličkový, perličky, čaj
 🧃	krabicový džus, krabičkové pití, nápoj v krabičce, nápojová krabice, pití v krabičce, pitíčko
 🧉	maté, nápoj
 🧊	chlad, kostka ledu, led, ledovec, ledová kostka, studený
@@ -2004,7 +2253,7 @@
 🍴	nádobí, nůž, příbor, vaření, vidlička, vidlička a nůž
 🥄	lžíce, příbor
 🔪	kuchyňský nůž, nádobí, nástroj, nůž, vaření, zbraň
-🏺	amfora, nádoba, nádobí, nápoj, nástroj, vaření, vodnář, váza, zbraň, zvěrokruh
+🏺	amfora, nádoba, nádobí, nápoj, vaření, vodnář, váza, zvěrokruh
 🌍	afrika, evropa, glóbus s Evropou a Afrikou, svět, země, zeměkoule
 🌎️	amerika, glóbus se Severní a Jižní Amerikou, svět, země, zeměkoule
 🌏	asie, austrálie, glóbus s Asií a Austrálií, svět, země, zeměkoule
@@ -2025,6 +2274,9 @@
 🏛️	antická budova, antika, budova, klasicismus, klasická
 🏗️	budova, stavba, staveniště
 🧱	cihla, cihly, hlína, zeď
+🪨	balvan, kámen, skála, těžký, šutr
+🪵	dřevo, kláda, kmen, poleno, špalek
+🛖	chatka, chatrč, chýše, jurta, obydlí
 🏘️	budova, domky, domy, dům
 🏚️	budova, dům, opuštěný, opuštěný dům
 🏠️	budova, domek, domov, dům
@@ -2047,7 +2299,7 @@
 🗽	socha, socha Svobody, svoboda
 ⛪️	budova, kostel, křesťanství, kříž, náboženství
 🕌	islám, mešita, muslim, náboženství
-🛕	chrám, hinduistický chrám, hinudismus, svatyně
+🛕	chrám, hinduismus, hinduistický chrám, svatyně
 🕍	chrám, náboženství, synagoga, žid, židovský
 ⛩️	náboženství, svatyně, šintoismus, šintoistická svatyně
 🕋	Kába, islám, kaaba, kába, muslim, náboženství
@@ -2092,6 +2344,7 @@
 🚗	auto, vozidlo, vůz
 🚘️	auto, automobil, přijíždějící, přijíždějící auto, příjezd, vozidlo, vůz
 🚙	SUV, auto, džíp, jeep, rekreace, rekreační, sport, vozidlo, vůz
+🛻	pick-up, pickup, polododávka
 🚚	dodávka, vozidlo
 🚛	autodoprava, kamion, nákladní, náklaďák, tir, tirák, truck, vozidlo
 🚜	traktor, vozidlo
@@ -2104,6 +2357,7 @@
 🚲️	bicykl, kolo, vozidlo
 🛴	koloběžka
 🛹	prkno, skateboard, skejt
+🛼	bruslení, inlajny, inline, kolečková brusle, kolečkové
 🚏	autobus, autobusová zastávka, zastávka, zastávka autobusu
 🛣️	cesta, dálnice, motorová, silnice
 🛤️	koleje, vlak, železnice, železniční trať
@@ -2274,6 +2528,7 @@
 🪁	let, létání, papírový drak, pouštění, stoupání, vzlétnutí
 🎱	8, biliár, billiard, hra, koule, kulečník, kulečníková koule 8, osm, pool
 🔮	budoucnost, fantasy, koule, křišťál, křišťálová koule, nástroj, pohádka, předpověď, sklo
+🪄	kouzelná hůlka, kouzelník, kouzlo, magie, čarodějnice
 🧿	amulet nazar, boncuk, korálek, modré oko, přívěsek, talisman
 🎮️	gamepad, hra, ovladač, videohra
 🕹️	hra, joystick, ovladač, videohra
@@ -2281,6 +2536,8 @@
 🎲	hra, hrací kostka, kostka, kostky
 🧩	dílek, dílky, puzzle, skládačka
 🧸	hračka, medvídek, plyšový, plyšák
+🪅	oslava, party, piñata
+🪆	babuška, matrjoška, panenka, rusko, ruská
 ♠️	barva, hra, karta, piky
 ♥️	barva, hra, karta, srdce
 ♦️	barva, hra, karta, kára, káry
@@ -2293,7 +2550,9 @@
 🖼️	malování, malířství, muzeum, obraz, obraz v rámu, rám, umění
 🎨	malování, malíř, malířská paleta, malířství, muzeum, paleta, umění
 🧵	cívka nití, jehla, nit, vlákno, šití, špulka
+🪡	jehla, krejčovina, stehy, vyšívání, výšivka, šicí jehla, šití, švy
 🧶	háčkování, klubko, klubíčko, pletení
+🪢	lano, provaz, uvázat, uzel, zapletený
 👓️	brýle, dioptrie, oblečení, oko, skla
 🕶️	brýle, oko, skla, sluneční brýle, tmavé
 🥽	ochrana očí, ochranné brýle, plavecké, plavání, svařování, svářečské
@@ -2319,6 +2578,7 @@
 👝	kosmetická taška, oblečení, zavazadlo
 🛍️	hotel, nakupování, nákupní tašky, nákupy, zavazadlo
 🎒	aktovka, batoh, taška, zavazadlo, škola, školní batoh
+🩴	pláž, sandál, sandále, sandály, vietnamky, žabka, žabky
 👞	bota, muž, oblečení, pánská bota
 👟	atletika, bota, běžecká bota, oblečení, sport, teniska, tretra
 🥾	kanada, kempování, pohorka, turistika, túra, výšlap
@@ -2332,6 +2592,7 @@
 🎩	cylindr, klobouk, oblečení, pokrývka hlavy
 🎓️	absolvent, klobouk, oblečení, oslava, pokrývka hlavy, promoce, promoční čepice, student, studium, čapka
 🧢	baseball, kšiltovka, čepice
+🪖	armáda, bojovník, helma, vojenská, vojenská přilba, voják
 ⛑️	helma, kříž, pomoc, přilba, smajlík, tvář, výraz, záchrana, záchranářská helma, čepice
 📿	korálky, modlitba, modlitební, náboženství, náhrdelník, oblečení, růženec
 💄	kosmetika, make-up, rtěnka
@@ -2356,12 +2617,14 @@
 🎧️	sluchátka
 📻️	radiopřijímač, rádio, tranzistor, tranzistorové
 🎷	hudba, nástroj, saxofon
+🪗	akordeon, dršťky, harmonika, koncertina, tahací, zednické piano
 🎸	hudba, kytara, nástroj
 🎹	hudba, klaviatura, klávesy, nástroj, piano
 🎺	hudba, nástroj, trubka, trumpeta
 🎻	housle, hudba, nástroj
 🪕	banjo, bendžo, hudba, nástroj, strunný
 🥁	buben, bubenické, hudba, paličky
+🪘	buben, bubnování, conga, congo, konga, kongo, protáhlý buben, rytmus
 📱	mobil, mobilní, telefon
 📲	hovor, mobil, mobil se šipkou, mobilní, příjem, telefon, volání, šipka
 ☎️	telefon
@@ -2415,6 +2678,7 @@
 🔖	značka, záložka
 🏷️	cedulka, cenovka, jmenovka, visačka, štítek
 💰️	dolar, dolary, měšec, peníze, pytel peněz, vak, váček, zavazadlo
+🪙	kov, mince, peníze, poklad, stříbro, zlato
 💴	banka, bankovka, jen, jenová bankovka, měna, peníze
 💵	banka, bankovka, dolar, dolarová bankovka, měna, peníze
 💶	banka, bankovka, euro, eurobankovka, eurová, měna, peníze
@@ -2423,8 +2687,6 @@
 💳️	banka, karta, kredit, kreditka, kreditní, peníze, platební karta
 🧾	doklad, potvrzení, stvrzenka, účetnictví, účtenka
 💹	banka, graf, jen, měna, nahoru, peníze, rostoucí graf se znakem jenu, růst, trend, trh, vzestup, vzestupný
-💱	banka, měna, peníze, směna, směna peněz, směnárna, výměna
-💲	dolar, měna, peníze, znak dolaru
 ✉️	dopis, e-mail, email, obálka, pošta, psaní
 📧	dopis, e-mail, email, pošta, zpráva
 📨	dopis, doručená, e-mail, email, obálka, pošta, přijmout, příchozí, příchozí obálka, zpráva
@@ -2482,9 +2744,12 @@
 🗡️	dýka, nůž, zbraň
 ⚔️	meče, zbraň, zkřížené, zkřížené meče
 🔫	nástroj, pistole, revolver, zbraň
+🪃	austrálie, bumerang, návrat, odraz
 🏹	luk, luk a šíp, střelec, výzbroj, zbraň, zvěrokruh, šíp
 🛡️	zbraň, štít
+🪚	dřevo, nástroj, ocaska, pila, pilka, ruční pila, truhlář
 🔧	klíč, maticový klíč, montážní, nástroj, nářadí
+🪛	nástroj, šroub, šroubovat, šroubovák
 🔩	matice, nářadí, šroub, šroub a matice
 ⚙️	nářadí, ozubené kolo
 🗜️	komprese, nářadí, svorka, svěrka, tlak
@@ -2492,8 +2757,10 @@
 🦯	handicap, hendikep, pomůcka, postižení, slepec, slepecká hůl, slepý, usnadnění, zpřístupnění
 🔗	spojení, článek, články řetězu, řetěz
 ⛓️	řetěz, řetězy
+🪝	chytit, hák, háček, lovit, polapit, zahnutý
 🧰	bedna, box na nářadí, krabice, nástroje, nářadí
 🧲	magnet, podkova, přitažlivost
+🪜	příčka, schod, šplhat, šprušel, žebřík
 ⚗️	alembik, chemie, destilace, destilační, křivule, nádobí, náčiní
 🧪	chemie, chemik, laboratoř, pokus, věda, zkumavka
 🧫	Petriho miska, bakterie, biolog, biologie, buněčná kultura, laboratoř
@@ -2507,26 +2774,35 @@
 🩹	bandáž, náplast, obvaz
 🩺	doktor, lékař, lékařství, medicína, srdce, stetoskop
 🚪	dveře
+🛗	přístup, usnadnění, výtah, zdviž
+🪞	obraz, odlesk, odraz, zrcadlo, zrcátko
+🪟	okno, otvor, průhled, průhledný, rám, výhled, čerstvý vzduch
 🛏️	hotel, postel, spánek
 🛋️	gauč, gauč a lampa, hotel, lampa
 🪑	posezení, sedadlo, sedačka, sedátko, sedět, sezení, židle
 🚽	WC, klozet, toaleta, toaletní mísa, záchod
+🪠	instalatér, podtlak, toaleta, ucpaný, zvon na WC, záchod
 🚿	koupelna, sprcha, voda
 🛁	koupel, koupelna, lázeň, vana, voda
+🪤	nástraha, návnada, past, pastička, pastička na myši
 🪒	břitva, holení, holicí, holit, oholit, ostrý
 🧴	gel, krém, láhev na kosmetiku, opalovací, pleťový, šampon
 🧷	pankáč, plenky, pleny, punk, spínací špendlík, zavírací špendlík
 🧹	koště, uklízení, zametání, úklid, čarodějnice
 🧺	koš, košík, piknik, proutí, prádlo
 🧻	papírové ručníky, papírové utěrky, role papíru, toaletní papír
+🪣	džber, kbelík, kyblík, kýbl, vědro
 🧼	kostka, koupel, miska na mýdlo, mydlení, mytí, mýdlo
+🪥	dentální, hygiena, kartáček, koupelna, zubní, zubní kartáček, zuby, čistit
 🧽	houba, koupelová, mycí houba, mytí, porézní, savá
 🧯	hasicí přístroj, hašení, oheň, požár
 🛒	košík, nakupování, nákupní, nákupní vozík, vozík
 🚬	cigareta, kouření
 ⚰️	rakev, smrt
+🪦	hrob, hřbitov, kámen, náhrobek, náhrobní, pomník
 ⚱️	ostatky, pohřeb, pohřební urna, popel, smrt, urna
 🗿	moyai, smajlík, socha, socha moai, tvář, výraz
+🪧	cedule, demonstrace, poutač, protest, transparent
 🏧	atm, automat, banka, bankomat, značka bankomatu
 🚮	koš, odpad, odpadky, smetí, značka odpadkového koše
 🚰	kohoutek, nápoj, pitná, pitná voda, pití, voda
@@ -2625,8 +2901,22 @@
 📴	mobil, mobilní, telefon, vypnuto, vypnutý mobilní telefon
 ♀️	symbol ženského pohlaví, žena
 ♂️	muž, symbol mužského pohlaví
-⚕️	aesculap, aesculapova, aeskulap, aeskulapova, doktor, eskulap, eskulapova, hůl, lékař, lékařství, lékárna, lékárník, medicína, nemocnice, znak medicíny
+⚧️	symbol pro transgender osoby, transgender
+✖️	krát, násobení, součin, x, znak, znak násobení, zrušení, ×
+➕	+, matematika, plus, součet, sčítání, znak plus
+➖	-, matematika, minus, odčítání, rozdíl, znak minus, −
+➗	děleno, dělení, matematika, podíl, znak dělení, ÷
 ♾️	bez hranic, nekonečno, nekonečnost, neomezenost, věčnost
+‼️	!, !!, dvojitý vykřičník, interpunkční znaménka, vykřičník
+⁉️	!, !?, ?, interpunkční znaménka, otazník, vykřičník, vykřičník a otazník
+❓️	?, interpunkční znaménka, otazník
+❔	?, bílý otazník, interpunkční znaménka, obrys, otazník
+❕	!, bílý vykřičník, interpunkční znaménka, obrys, vykřičník
+❗️	!, interpunkční znaménka, vykřičník
+〰️	dlouhá vlnovka, interpunkce, interpunkční, pomlčka, vlnitá, vlny, znaménka, čára
+💱	banka, měna, peníze, směna, směna peněz, směnárna, výměna
+💲	dolar, měna, peníze, znak dolaru
+⚕️	aesculap, aesculapova, aeskulap, aeskulapova, doktor, eskulap, eskulapova, hůl, lékař, lékařství, lékárna, lékárník, medicína, nemocnice, znak medicíny
 ♻️	recyklace, symbol recyklace
 ⚜	erb, heraldická lilie, lilie
 🔱	emblém, emblém trojzubce, kotva, loď, nástroj, trojzubec
@@ -2636,25 +2926,14 @@
 ✅	tlačítko, tlačítko se značkou zaškrtnutí, zaškrtnutí, značka, ✓
 ☑️	okénko, políčko, zaškrtnuté políčko, zaškrtnutí, ✓
 ✔️	zaškrtnutí, značka, značka zaškrtnutí, ✓
-✖️	krát, násobení, součin, x, znak, znak násobení, zrušení, ×
 ❌	krát, křížek, násobení, součin, x, značka, zrušení, ×
 ❎	tlačítko, tlačítko s křížkem, x, znak, značka, ×, čtverec, čtvereček
-➕	+, matematika, plus, součet, sčítání, znak plus
-➖	-, matematika, minus, odčítání, rozdíl, znak minus, −
-➗	děleno, dělení, matematika, podíl, znak dělení, ÷
 ➰	smyčka, spirálka
 ➿	dvojitá smyčka, dvojitý, smyčka, spirálka
 〽️	part, symbol, začátek, znak, značka, značka přechodu mezi částmi skladby, zpěv, zpěvák
 ✳️	*, hvězdička, osmicípá hvězdička
 ✴️	*, hvězda, osmicípá hvězda
 ❇️	*, jiskra, jiskérka, jiskřička
-‼️	!, !!, dvojitý vykřičník, interpunkční znaménka, vykřičník
-⁉️	!, !?, ?, interpunkční znaménka, otazník, vykřičník, vykřičník a otazník
-❓️	?, interpunkční znaménka, otazník
-❔	?, bílý otazník, interpunkční znaménka, obrys, otazník
-❕	!, bílý vykřičník, interpunkční znaménka, obrys, vykřičník
-❗️	!, interpunkční znaménka, vykřičník
-〰️	dlouhá vlnovka, interpunkce, interpunkční, pomlčka, vlnitá, vlny, znaménka, čára
 ©️	autorská práva, c, copyright, znak ochrany autorského práva
 ®️	ochranná známka, r, registrováno, znak registrované ochranné známky
 ™️	tm, trademark, znak ochranné známky, značka
@@ -2750,6 +3029,7 @@
 🏴	prapor, praporek, vlající, černá vlajka
 🏳️	bílá vlajka, prapor, praporek, vlající
 🏳‍🌈	duha, duhová vlajka, prapor, praporek, vlajka
+🏳‍⚧	bílá, růžová, světle modrá, transgender, vlajka, vlajka trans hrdosti
 🏴‍☠	hnáty, lebka, pirát, pirátská vlajka, poklad
 🇦🇨	vlajka, vlajka: Ascension
 🇦🇩	vlajka, vlajka: Andorra

@@ -19,6 +19,7 @@
 ☺️	andlit, bros, brosandi andlit, broskall, broskarl
 😚	andlit, augu, koss, kyssandi andlit með lokuð augu, kyssandi andlit og lokuð augu
 😙	andlit, koss og bros, kyssa og brosa, kyssandi og brosandi andlit
+🥲	bros, brosandi andlit með tár, snortið, stolt, tár, ánægja, þakklæti
 😋	andlit, andlit að njóta matar, góður matur
 😛	andlit, andlit að ulla, tunga út, ulla
 😜	andlit, auga, blikkandi auga að ulla, blikkarl með útrétta tungu, brandari, tunga
@@ -57,6 +58,7 @@
 🤯	splundrað höfuð
 🤠	hattur, kúreki
 🥳	fagna, flauta, hattur, partí, partíandlit
+🥸	andlit, dulargervi, gleraugu, nef, óþekkjanlegt
 😎	bjart, brosandi andlit með sólgleraugu, brosandi andlit með sólgleraugum, svalt, sól, sólgleraugu
 🤓	andlit, lúði, nörd, nördaandlit
 🧐	andlit með einglyrni, gamaldags, teprulegur
@@ -183,6 +185,12 @@
 👌🏽	OK, bending, handarmerki, millihúðlitur, Í lagi, Í lagi: millihúðlitur, ókei
 👌🏾	OK, bending, handarmerki, meðaldökkur húðlitur, Í lagi, Í lagi: meðaldökkur húðlitur, ókei
 👌🏿	OK, bending, dökkur húðlitur, handarmerki, Í lagi, Í lagi: dökkur húðlitur, ókei
+🤌	fingur, handahreyfing, kaldhæðni, klípa, klípandi fingur, yfirheyrsla
+🤌🏻	fingur, handahreyfing, kaldhæðni, klípa, klípandi fingur, klípandi fingur: ljós húðlitur, ljós húðlitur, yfirheyrsla
+🤌🏼	fingur, handahreyfing, kaldhæðni, klípa, klípandi fingur, klípandi fingur: meðalljós húðlitur, meðalljós húðlitur, yfirheyrsla
+🤌🏽	fingur, handahreyfing, kaldhæðni, klípa, klípandi fingur, klípandi fingur: millihúðlitur, millihúðlitur, yfirheyrsla
+🤌🏾	fingur, handahreyfing, kaldhæðni, klípa, klípandi fingur, klípandi fingur: meðaldökkur húðlitur, meðaldökkur húðlitur, yfirheyrsla
+🤌🏿	dökkur húðlitur, fingur, handahreyfing, kaldhæðni, klípa, klípandi fingur, klípandi fingur: dökkur húðlitur, yfirheyrsla
 🤏	klípandi hönd, lítið magn
 🤏🏻	klípandi hönd, klípandi hönd: ljós húðlitur, ljós húðlitur, lítið magn
 🤏🏼	klípandi hönd, klípandi hönd: meðalljós húðlitur, lítið magn, meðalljós húðlitur
@@ -379,6 +387,8 @@
 👃🏾	andlit, líkami, meðaldökkur húðlitur, nef, nef: meðaldökkur húðlitur
 👃🏿	andlit, dökkur húðlitur, líkami, nef, nef: dökkur húðlitur
 🧠	gáfur, heili
+🫀	hjartavöðvi, hjartsláttur, líffæri, miðja, púls
+🫁	anda, innöndun, lungu, líffæri, öndun, útöndun
 🦷	tannlæknir, tennur
 🦴	bein, beinagrind
 👀	andlit, augu
@@ -421,6 +431,30 @@
 👱🏽	fólk, ljóshærð manneskja, ljóshærð manneskja: millihúðlitur, ljóst hár, millihúðlitur
 👱🏾	fólk, ljóshærð manneskja, ljóshærð manneskja: meðaldökkur húðlitur, ljóst hár, meðaldökkur húðlitur
 👱🏿	dökkur húðlitur, fólk, ljóshærð manneskja, ljóshærð manneskja: dökkur húðlitur, ljóst hár
+🧑‍🦰	fullorðinn, kynhlutlaust, manneskja, manneskja: rautt hár, rautt hár
+🧑🏻‍🦰	fullorðinn, kynhlutlaust, ljós húðlitur, manneskja, manneskja: ljós húðlitur og rautt hár, rautt hár
+🧑🏼‍🦰	fullorðinn, kynhlutlaust, manneskja, manneskja: meðalljós húðlitur og rautt hár, meðalljós húðlitur, rautt hár
+🧑🏽‍🦰	fullorðinn, kynhlutlaust, manneskja, manneskja: millihúðlitur og rautt hár, millihúðlitur, rautt hár
+🧑🏾‍🦰	fullorðinn, kynhlutlaust, manneskja, manneskja: meðaldökkur húðlitur og rautt hár, meðaldökkur húðlitur, rautt hár
+🧑🏿‍🦰	dökkur húðlitur, fullorðinn, kynhlutlaust, manneskja, manneskja: dökkur húðlitur og rautt hár, rautt hár
+🧑‍🦱	fullorðinn, krullur, kynhlutlaust, manneskja, manneskja: krullur
+🧑🏻‍🦱	fullorðinn, krullur, kynhlutlaust, ljós húðlitur, manneskja, manneskja: ljós húðlitur og krullur
+🧑🏼‍🦱	fullorðinn, krullur, kynhlutlaust, manneskja, manneskja: meðalljós húðlitur og krullur, meðalljós húðlitur
+🧑🏽‍🦱	fullorðinn, krullur, kynhlutlaust, manneskja, manneskja: millihúðlitur og krullur, millihúðlitur
+🧑🏾‍🦱	fullorðinn, krullur, kynhlutlaust, manneskja, manneskja: meðaldökkur húðlitur og krullur, meðaldökkur húðlitur
+🧑🏿‍🦱	dökkur húðlitur, fullorðinn, krullur, kynhlutlaust, manneskja, manneskja: dökkur húðlitur og krullur
+🧑‍🦳	fullorðinn, hvítt hár, kynhlutlaust, manneskja, manneskja: hvítt hár
+🧑🏻‍🦳	fullorðinn, hvítt hár, kynhlutlaust, ljós húðlitur, manneskja, manneskja: ljós húðlitur og hvítt hár
+🧑🏼‍🦳	fullorðinn, hvítt hár, kynhlutlaust, manneskja, manneskja: meðalljós húðlitur og hvítt hár, meðalljós húðlitur
+🧑🏽‍🦳	fullorðinn, hvítt hár, kynhlutlaust, manneskja, manneskja: millihúðlitur og hvítt hár, millihúðlitur
+🧑🏾‍🦳	fullorðinn, hvítt hár, kynhlutlaust, manneskja, manneskja: meðaldökkur húðlitur og hvítt hár, meðaldökkur húðlitur
+🧑🏿‍🦳	dökkur húðlitur, fullorðinn, hvítt hár, kynhlutlaust, manneskja, manneskja: dökkur húðlitur og hvítt hár
+🧑‍🦲	fullorðinn, kynhlutlaust, manneskja, manneskja: skalli, skalli
+🧑🏻‍🦲	fullorðinn, kynhlutlaust, ljós húðlitur, manneskja, manneskja: ljós húðlitur og skalli, skalli
+🧑🏼‍🦲	fullorðinn, kynhlutlaust, manneskja, manneskja: meðalljós húðlitur og skalli, meðalljós húðlitur, skalli
+🧑🏽‍🦲	fullorðinn, kynhlutlaust, manneskja, manneskja: millihúðlitur og skalli, millihúðlitur, skalli
+🧑🏾‍🦲	fullorðinn, kynhlutlaust, manneskja, manneskja: meðaldökkur húðlitur og skalli, meðaldökkur húðlitur, skalli
+🧑🏿‍🦲	dökkur húðlitur, fullorðinn, kynhlutlaust, manneskja, manneskja: dökkur húðlitur og skalli, skalli
 👨	fólk, karl, maður
 👨🏻	fólk, karl, karl: ljós húðlitur, ljós húðlitur, maður
 👨🏼	fólk, karl, karl: meðalljós húðlitur, maður, meðalljós húðlitur
@@ -697,6 +731,12 @@
 🤷🏽‍♀	kona, kona yppir öxlum, kona yppir öxlum: millihúðlitur, millihúðlitur, yppa, öxlum
 🤷🏾‍♀	kona, kona yppir öxlum, kona yppir öxlum: meðaldökkur húðlitur, meðaldökkur húðlitur, yppa, öxlum
 🤷🏿‍♀	dökkur húðlitur, kona, kona yppir öxlum, kona yppir öxlum: dökkur húðlitur, yppa, öxlum
+🧑‍⚕	heilbrigðismál, heilbrigðisstarfsmaður, hjúkrunarfræðingur, læknir, sérfræðingur
+🧑🏻‍⚕	heilbrigðismál, heilbrigðisstarfsmaður, heilbrigðisstarfsmaður: ljós húðlitur, hjúkrunarfræðingur, ljós húðlitur, læknir, sérfræðingur
+🧑🏼‍⚕	heilbrigðismál, heilbrigðisstarfsmaður, heilbrigðisstarfsmaður: meðalljós húðlitur, hjúkrunarfræðingur, læknir, meðalljós húðlitur, sérfræðingur
+🧑🏽‍⚕	heilbrigðismál, heilbrigðisstarfsmaður, heilbrigðisstarfsmaður: millihúðlitur, hjúkrunarfræðingur, læknir, millihúðlitur, sérfræðingur
+🧑🏾‍⚕	heilbrigðismál, heilbrigðisstarfsmaður, heilbrigðisstarfsmaður: meðaldökkur húðlitur, hjúkrunarfræðingur, læknir, meðaldökkur húðlitur, sérfræðingur
+🧑🏿‍⚕	dökkur húðlitur, heilbrigðismál, heilbrigðisstarfsmaður, heilbrigðisstarfsmaður: dökkur húðlitur, hjúkrunarfræðingur, læknir, sérfræðingur
 👨‍⚕	heilsa, hjúkrunarfræðingur, karl, karlkyns heilbrigðisstarfsmaður, læknir
 👨🏻‍⚕	heilsa, hjúkrunarfræðingur, karl, karlkyns heilbrigðisstarfsmaður, karlkyns heilbrigðisstarfsmaður: ljós húðlitur, ljós húðlitur, læknir
 👨🏼‍⚕	heilsa, hjúkrunarfræðingur, karl, karlkyns heilbrigðisstarfsmaður, karlkyns heilbrigðisstarfsmaður: meðalljós húðlitur, læknir, meðalljós húðlitur
@@ -709,6 +749,12 @@
 👩🏽‍⚕	heilsa, hjúkrunarfræðingur, kona, kvenkyns heilbrigðisstarfsmaður, kvenkyns heilbrigðisstarfsmaður: millihúðlitur, læknir, millihúðlitur
 👩🏾‍⚕	heilsa, hjúkrunarfræðingur, kona, kvenkyns heilbrigðisstarfsmaður, kvenkyns heilbrigðisstarfsmaður: meðaldökkur húðlitur, læknir, meðaldökkur húðlitur
 👩🏿‍⚕	dökkur húðlitur, heilsa, hjúkrunarfræðingur, kona, kvenkyns heilbrigðisstarfsmaður, kvenkyns heilbrigðisstarfsmaður: dökkur húðlitur, læknir
+🧑‍🎓	nemi, útskrift
+🧑🏻‍🎓	ljós húðlitur, nemi, nemi: ljós húðlitur, útskrift
+🧑🏼‍🎓	meðalljós húðlitur, nemi, nemi: meðalljós húðlitur, útskrift
+🧑🏽‍🎓	millihúðlitur, nemi, nemi: millihúðlitur, útskrift
+🧑🏾‍🎓	meðaldökkur húðlitur, nemi, nemi: meðaldökkur húðlitur, útskrift
+🧑🏿‍🎓	dökkur húðlitur, nemi, nemi: dökkur húðlitur, útskrift
 👨‍🎓	karl, karlkyns námsmaður, nemandi, námsmaður, útskrift
 👨🏻‍🎓	karl, karlkyns námsmaður, karlkyns námsmaður: ljós húðlitur, ljós húðlitur, nemandi, námsmaður, útskrift
 👨🏼‍🎓	karl, karlkyns námsmaður, karlkyns námsmaður: meðalljós húðlitur, meðalljós húðlitur, nemandi, námsmaður, útskrift
@@ -721,6 +767,12 @@
 👩🏽‍🎓	kona, kvenkyns námsmaður, kvenkyns námsmaður: millihúðlitur, millihúðlitur, nemandi, námsmaður, útskrift
 👩🏾‍🎓	kona, kvenkyns námsmaður, kvenkyns námsmaður: meðaldökkur húðlitur, meðaldökkur húðlitur, nemandi, námsmaður, útskrift
 👩🏿‍🎓	dökkur húðlitur, kona, kvenkyns námsmaður, kvenkyns námsmaður: dökkur húðlitur, nemandi, námsmaður, útskrift
+🧑‍🏫	kennari, leiðbeinandi, prófessor
+🧑🏻‍🏫	kennari, kennari: ljós húðlitur, leiðbeinandi, ljós húðlitur, prófessor
+🧑🏼‍🏫	kennari, kennari: meðalljós húðlitur, leiðbeinandi, meðalljós húðlitur, prófessor
+🧑🏽‍🏫	kennari, kennari: millihúðlitur, leiðbeinandi, millihúðlitur, prófessor
+🧑🏾‍🏫	kennari, kennari: meðaldökkur húðlitur, leiðbeinandi, meðaldökkur húðlitur, prófessor
+🧑🏿‍🏫	dökkur húðlitur, kennari, kennari: dökkur húðlitur, leiðbeinandi, prófessor
 👨‍🏫	karl, karlkyns kennari, kennari, leiðbeinandi, skóli
 👨🏻‍🏫	karl, karlkyns kennari, karlkyns kennari: ljós húðlitur, kennari, leiðbeinandi, ljós húðlitur, skóli
 👨🏼‍🏫	karl, karlkyns kennari, karlkyns kennari: meðalljós húðlitur, kennari, leiðbeinandi, meðalljós húðlitur, skóli
@@ -733,6 +785,12 @@
 👩🏽‍🏫	kennari, kona, kvenkyns kennari, kvenkyns kennari: millihúðlitur, leiðbeinandi, millihúðlitur, skóli
 👩🏾‍🏫	kennari, kona, kvenkyns kennari, kvenkyns kennari: meðaldökkur húðlitur, leiðbeinandi, meðaldökkur húðlitur, skóli
 👩🏿‍🏫	dökkur húðlitur, kennari, kona, kvenkyns kennari, kvenkyns kennari: dökkur húðlitur, leiðbeinandi, skóli
+🧑‍⚖	dómari, vog
+🧑🏻‍⚖	dómari, dómari: ljós húðlitur, ljós húðlitur, vog
+🧑🏼‍⚖	dómari, dómari: meðalljós húðlitur, meðalljós húðlitur, vog
+🧑🏽‍⚖	dómari, dómari: millihúðlitur, millihúðlitur, vog
+🧑🏾‍⚖	dómari, dómari: meðaldökkur húðlitur, meðaldökkur húðlitur, vog
+🧑🏿‍⚖	dómari, dómari: dökkur húðlitur, dökkur húðlitur, vog
 👨‍⚖	dómari, dómur, karl, karlkyns dómari, réttur
 👨🏻‍⚖	dómari, dómur, karl, karlkyns dómari, karlkyns dómari: ljós húðlitur, ljós húðlitur, réttur
 👨🏼‍⚖	dómari, dómur, karl, karlkyns dómari, karlkyns dómari: meðalljós húðlitur, meðalljós húðlitur, réttur
@@ -745,6 +803,12 @@
 👩🏽‍⚖	dómari, dómur, kona, kvenkyns dómari, kvenkyns dómari: millihúðlitur, millihúðlitur, réttur
 👩🏾‍⚖	dómari, dómur, kona, kvenkyns dómari, kvenkyns dómari: meðaldökkur húðlitur, meðaldökkur húðlitur, réttur
 👩🏿‍⚖	dómari, dómur, dökkur húðlitur, kona, kvenkyns dómari, kvenkyns dómari: dökkur húðlitur, réttur
+🧑‍🌾	bóndi, garðyrkjumaður, stórbóndi
+🧑🏻‍🌾	bóndi, bóndi: ljós húðlitur, garðyrkjumaður, ljós húðlitur, stórbóndi
+🧑🏼‍🌾	bóndi, bóndi: meðalljós húðlitur, garðyrkjumaður, meðalljós húðlitur, stórbóndi
+🧑🏽‍🌾	bóndi, bóndi: millihúðlitur, garðyrkjumaður, millihúðlitur, stórbóndi
+🧑🏾‍🌾	bóndi, bóndi: meðaldökkur húðlitur, garðyrkjumaður, meðaldökkur húðlitur, stórbóndi
+🧑🏿‍🌾	bóndi, bóndi: dökkur húðlitur, dökkur húðlitur, garðyrkjumaður, stórbóndi
 👨‍🌾	bóndi, garðyrkjumaður, karl, karlkyns bóndi
 👨🏻‍🌾	bóndi, garðyrkjumaður, karl, karlkyns bóndi, karlkyns bóndi: ljós húðlitur, ljós húðlitur
 👨🏼‍🌾	bóndi, garðyrkjumaður, karl, karlkyns bóndi, karlkyns bóndi: meðalljós húðlitur, meðalljós húðlitur
@@ -757,6 +821,12 @@
 👩🏽‍🌾	bóndi, garðyrkjumaður, kona, kvenkyns bóndi, kvenkyns bóndi: millihúðlitur, millihúðlitur
 👩🏾‍🌾	bóndi, garðyrkjumaður, kona, kvenkyns bóndi, kvenkyns bóndi: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍🌾	bóndi, dökkur húðlitur, garðyrkjumaður, kona, kvenkyns bóndi, kvenkyns bóndi: dökkur húðlitur
+🧑‍🍳	kokkur, matreiðslumaður
+🧑🏻‍🍳	kokkur, kokkur: ljós húðlitur, ljós húðlitur, matreiðslumaður
+🧑🏼‍🍳	kokkur, kokkur: meðalljós húðlitur, matreiðslumaður, meðalljós húðlitur
+🧑🏽‍🍳	kokkur, kokkur: millihúðlitur, matreiðslumaður, millihúðlitur
+🧑🏾‍🍳	kokkur, kokkur: meðaldökkur húðlitur, matreiðslumaður, meðaldökkur húðlitur
+🧑🏿‍🍳	dökkur húðlitur, kokkur, kokkur: dökkur húðlitur, matreiðslumaður
 👨‍🍳	elda, karl, karlkyns kokkur, kokkur, matreiðsla
 👨🏻‍🍳	elda, karl, karlkyns kokkur, karlkyns kokkur: ljós húðlitur, kokkur, ljós húðlitur, matreiðsla
 👨🏼‍🍳	elda, karl, karlkyns kokkur, karlkyns kokkur: meðalljós húðlitur, kokkur, matreiðsla, meðalljós húðlitur
@@ -769,6 +839,12 @@
 👩🏽‍🍳	elda, kokkur, kona, kvenkyns kokkur, kvenkyns kokkur: millihúðlitur, matreiðsla, millihúðlitur
 👩🏾‍🍳	elda, kokkur, kona, kvenkyns kokkur, kvenkyns kokkur: meðaldökkur húðlitur, matreiðsla, meðaldökkur húðlitur
 👩🏿‍🍳	dökkur húðlitur, elda, kokkur, kona, kvenkyns kokkur, kvenkyns kokkur: dökkur húðlitur, matreiðsla
+🧑‍🔧	iðnverkamaður, pípulagningarmaður, rafvirki, vélvirki
+🧑🏻‍🔧	iðnverkamaður, ljós húðlitur, pípulagningarmaður, rafvirki, vélvirki, vélvirki: ljós húðlitur
+🧑🏼‍🔧	iðnverkamaður, meðalljós húðlitur, pípulagningarmaður, rafvirki, vélvirki, vélvirki: meðalljós húðlitur
+🧑🏽‍🔧	iðnverkamaður, millihúðlitur, pípulagningarmaður, rafvirki, vélvirki, vélvirki: millihúðlitur
+🧑🏾‍🔧	iðnverkamaður, meðaldökkur húðlitur, pípulagningarmaður, rafvirki, vélvirki, vélvirki: meðaldökkur húðlitur
+🧑🏿‍🔧	dökkur húðlitur, iðnverkamaður, pípulagningarmaður, rafvirki, vélvirki, vélvirki: dökkur húðlitur
 👨‍🔧	karl, karl með skiptilykil, verkfæri, viðgerð, viðhald
 👨🏻‍🔧	karl, karl með skiptilykil, karl með skiptilykil: ljós húðlitur, ljós húðlitur, verkfæri, viðgerð, viðhald
 👨🏼‍🔧	karl, karl með skiptilykil, karl með skiptilykil: meðalljós húðlitur, meðalljós húðlitur, verkfæri, viðgerð, viðhald
@@ -781,6 +857,12 @@
 👩🏽‍🔧	kona, kona með skiptilykil, kona með skiptilykil: millihúðlitur, millihúðlitur, verkfæri, viðgerð, viðhald
 👩🏾‍🔧	kona, kona með skiptilykil, kona með skiptilykil: meðaldökkur húðlitur, meðaldökkur húðlitur, verkfæri, viðgerð, viðhald
 👩🏿‍🔧	dökkur húðlitur, kona, kona með skiptilykil, kona með skiptilykil: dökkur húðlitur, verkfæri, viðgerð, viðhald
+🧑‍🏭	fjöldaframleiðsla, iðnaður, starfsmaður, verksmiðja, verksmiðjustarfsmaður
+🧑🏻‍🏭	fjöldaframleiðsla, iðnaður, ljós húðlitur, starfsmaður, verksmiðja, verksmiðjustarfsmaður, verksmiðjustarfsmaður: ljós húðlitur
+🧑🏼‍🏭	fjöldaframleiðsla, iðnaður, meðalljós húðlitur, starfsmaður, verksmiðja, verksmiðjustarfsmaður, verksmiðjustarfsmaður: meðalljós húðlitur
+🧑🏽‍🏭	fjöldaframleiðsla, iðnaður, millihúðlitur, starfsmaður, verksmiðja, verksmiðjustarfsmaður, verksmiðjustarfsmaður: millihúðlitur
+🧑🏾‍🏭	fjöldaframleiðsla, iðnaður, meðaldökkur húðlitur, starfsmaður, verksmiðja, verksmiðjustarfsmaður, verksmiðjustarfsmaður: meðaldökkur húðlitur
+🧑🏿‍🏭	dökkur húðlitur, fjöldaframleiðsla, iðnaður, starfsmaður, verksmiðja, verksmiðjustarfsmaður, verksmiðjustarfsmaður: dökkur húðlitur
 👨‍🏭	iðnaður, karl, karlkyns verksmiðjustarfsmaður, verkfæri, verksmiðja
 👨🏻‍🏭	iðnaður, karl, karlkyns verksmiðjustarfsmaður, karlkyns verksmiðjustarfsmaður: ljós húðlitur, ljós húðlitur, verkfæri, verksmiðja
 👨🏼‍🏭	iðnaður, karl, karlkyns verksmiðjustarfsmaður, karlkyns verksmiðjustarfsmaður: meðalljós húðlitur, meðalljós húðlitur, verkfæri, verksmiðja
@@ -793,6 +875,12 @@
 👩🏽‍🏭	iðnaður, kona, kvenkyns verksmiðjustarfsmaður, kvenkyns verksmiðjustarfsmaður: millihúðlitur, millihúðlitur, verkfæri, verksmiðja
 👩🏾‍🏭	iðnaður, kona, kvenkyns verksmiðjustarfsmaður, kvenkyns verksmiðjustarfsmaður: meðaldökkur húðlitur, meðaldökkur húðlitur, verkfæri, verksmiðja
 👩🏿‍🏭	dökkur húðlitur, iðnaður, kona, kvenkyns verksmiðjustarfsmaður, kvenkyns verksmiðjustarfsmaður: dökkur húðlitur, verkfæri, verksmiðja
+🧑‍💼	arkítekt, hvítflibbi, skrifstofustarfsmaður, viðskipti, yfirmaður
+🧑🏻‍💼	arkítekt, hvítflibbi, ljós húðlitur, skrifstofustarfsmaður, skrifstofustarfsmaður: ljós húðlitur, viðskipti, yfirmaður
+🧑🏼‍💼	arkítekt, hvítflibbi, meðalljós húðlitur, skrifstofustarfsmaður, skrifstofustarfsmaður: meðalljós húðlitur, viðskipti, yfirmaður
+🧑🏽‍💼	arkítekt, hvítflibbi, millihúðlitur, skrifstofustarfsmaður, skrifstofustarfsmaður: millihúðlitur, viðskipti, yfirmaður
+🧑🏾‍💼	arkítekt, hvítflibbi, meðaldökkur húðlitur, skrifstofustarfsmaður, skrifstofustarfsmaður: meðaldökkur húðlitur, viðskipti, yfirmaður
+🧑🏿‍💼	arkítekt, dökkur húðlitur, hvítflibbi, skrifstofustarfsmaður, skrifstofustarfsmaður: dökkur húðlitur, viðskipti, yfirmaður
 👨‍💼	karl, karlkyns skrifstofustarfsmaður, skrifstofa, stjórnandi, viðskipti
 👨🏻‍💼	karl, karlkyns skrifstofustarfsmaður, karlkyns skrifstofustarfsmaður: ljós húðlitur, ljós húðlitur, skrifstofa, stjórnandi, viðskipti
 👨🏼‍💼	karl, karlkyns skrifstofustarfsmaður, karlkyns skrifstofustarfsmaður: meðalljós húðlitur, meðalljós húðlitur, skrifstofa, stjórnandi, viðskipti
@@ -805,6 +893,12 @@
 👩🏽‍💼	kona, kvenkyns skrifstofustarfsmaður, kvenkyns skrifstofustarfsmaður: millihúðlitur, millihúðlitur, skrifstofa, stjórnandi, viðskipti
 👩🏾‍💼	kona, kvenkyns skrifstofustarfsmaður, kvenkyns skrifstofustarfsmaður: meðaldökkur húðlitur, meðaldökkur húðlitur, skrifstofa, stjórnandi, viðskipti
 👩🏿‍💼	dökkur húðlitur, kona, kvenkyns skrifstofustarfsmaður, kvenkyns skrifstofustarfsmaður: dökkur húðlitur, skrifstofa, stjórnandi, viðskipti
+🧑‍🔬	efnafræðingur, eðlisfræðingur, líffræðingur, verkfræðingur, vísindafræðingur, vísindamaður
+🧑🏻‍🔬	efnafræðingur, eðlisfræðingur, ljós húðlitur, líffræðingur, verkfræðingur, vísindafræðingur, vísindafræðingur: ljós húðlitur, vísindamaður
+🧑🏼‍🔬	efnafræðingur, eðlisfræðingur, líffræðingur, meðalljós húðlitur, verkfræðingur, vísindafræðingur, vísindafræðingur: meðalljós húðlitur, vísindamaður
+🧑🏽‍🔬	efnafræðingur, eðlisfræðingur, líffræðingur, millihúðlitur, verkfræðingur, vísindafræðingur, vísindafræðingur: millihúðlitur, vísindamaður
+🧑🏾‍🔬	efnafræðingur, eðlisfræðingur, líffræðingur, meðaldökkur húðlitur, verkfræðingur, vísindafræðingur, vísindafræðingur: meðaldökkur húðlitur, vísindamaður
+🧑🏿‍🔬	dökkur húðlitur, efnafræðingur, eðlisfræðingur, líffræðingur, verkfræðingur, vísindafræðingur, vísindafræðingur: dökkur húðlitur, vísindamaður
 👨‍🔬	efnafræði, karl, rannsóknir, vísindamaður
 👨🏻‍🔬	efnafræði, karl, ljós húðlitur, rannsóknir, vísindamaður, vísindamaður: ljós húðlitur
 👨🏼‍🔬	efnafræði, karl, meðalljós húðlitur, rannsóknir, vísindamaður, vísindamaður: meðalljós húðlitur
@@ -817,6 +911,12 @@
 👩🏽‍🔬	efnafræði, kona, millihúðlitur, rannsóknir, vísindakona, vísindakona: millihúðlitur, vísindamaður
 👩🏾‍🔬	efnafræði, kona, meðaldökkur húðlitur, rannsóknir, vísindakona, vísindakona: meðaldökkur húðlitur, vísindamaður
 👩🏿‍🔬	dökkur húðlitur, efnafræði, kona, rannsóknir, vísindakona, vísindakona: dökkur húðlitur, vísindamaður
+🧑‍💻	forritari, hugbúnaður, hönnuður, tæknimaður
+🧑🏻‍💻	forritari, forritari: ljós húðlitur, hugbúnaður, hönnuður, ljós húðlitur, tæknimaður
+🧑🏼‍💻	forritari, forritari: meðalljós húðlitur, hugbúnaður, hönnuður, meðalljós húðlitur, tæknimaður
+🧑🏽‍💻	forritari, forritari: millihúðlitur, hugbúnaður, hönnuður, millihúðlitur, tæknimaður
+🧑🏾‍💻	forritari, forritari: meðaldökkur húðlitur, hugbúnaður, hönnuður, meðaldökkur húðlitur, tæknimaður
+🧑🏿‍💻	dökkur húðlitur, forritari, forritari: dökkur húðlitur, hugbúnaður, hönnuður, tæknimaður
 👨‍💻	forritari, hugbúnaður, hönnuður, karl, karlkyns forritari
 👨🏻‍💻	forritari, hugbúnaður, hönnuður, karl, karlkyns forritari, karlkyns forritari: ljós húðlitur, ljós húðlitur
 👨🏼‍💻	forritari, hugbúnaður, hönnuður, karl, karlkyns forritari, karlkyns forritari: meðalljós húðlitur, meðalljós húðlitur
@@ -829,6 +929,12 @@
 👩🏽‍💻	forritari, hugbúnaður, hönnuður, kona, kvenkyns forritari, kvenkyns forritari: millihúðlitur, millihúðlitur
 👩🏾‍💻	forritari, hugbúnaður, hönnuður, kona, kvenkyns forritari, kvenkyns forritari: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍💻	dökkur húðlitur, forritari, hugbúnaður, hönnuður, kona, kvenkyns forritari, kvenkyns forritari: dökkur húðlitur
+🧑‍🎤	skemmtikraftur, stjarna, söngfugl, söngvari, t´ónlist
+🧑🏻‍🎤	ljós húðlitur, skemmtikraftur, stjarna, söngfugl, söngfugl: ljós húðlitur, söngvari, t´ónlist
+🧑🏼‍🎤	meðalljós húðlitur, skemmtikraftur, stjarna, söngfugl, söngfugl: meðalljós húðlitur, söngvari, t´ónlist
+🧑🏽‍🎤	millihúðlitur, skemmtikraftur, stjarna, söngfugl, söngfugl: millihúðlitur, söngvari, t´ónlist
+🧑🏾‍🎤	meðaldökkur húðlitur, skemmtikraftur, stjarna, söngfugl, söngfugl: meðaldökkur húðlitur, söngvari, t´ónlist
+🧑🏿‍🎤	dökkur húðlitur, skemmtikraftur, stjarna, söngfugl, söngfugl: dökkur húðlitur, söngvari, t´ónlist
 👨‍🎤	karl, skemmtikraftur, söngvari, tónlist
 👨🏻‍🎤	karl, ljós húðlitur, skemmtikraftur, söngvari, söngvari: ljós húðlitur, tónlist
 👨🏼‍🎤	karl, meðalljós húðlitur, skemmtikraftur, söngvari, söngvari: meðalljós húðlitur, tónlist
@@ -841,18 +947,30 @@
 👩🏽‍🎤	kona, millihúðlitur, skemmtikraftur, söngkona, söngkona: millihúðlitur, tónlist
 👩🏾‍🎤	kona, meðaldökkur húðlitur, skemmtikraftur, söngkona, söngkona: meðaldökkur húðlitur, tónlist
 👩🏿‍🎤	dökkur húðlitur, kona, skemmtikraftur, söngkona, söngkona: dökkur húðlitur, tónlist
-👨‍🎨	karl, listamaður, litaspjald, málari
-👨🏻‍🎨	karl, listamaður, listamaður: ljós húðlitur, litaspjald, ljós húðlitur, málari
-👨🏼‍🎨	karl, listamaður, listamaður: meðalljós húðlitur, litaspjald, meðalljós húðlitur, málari
-👨🏽‍🎨	karl, listamaður, listamaður: millihúðlitur, litaspjald, millihúðlitur, málari
-👨🏾‍🎨	karl, listamaður, listamaður: meðaldökkur húðlitur, litaspjald, meðaldökkur húðlitur, málari
-👨🏿‍🎨	dökkur húðlitur, karl, listamaður, listamaður: dökkur húðlitur, litaspjald, málari
+🧑‍🎨	listamaður, listmálari, litaspjald
+🧑🏻‍🎨	listamaður, listmálari, listmálari: ljós húðlitur, litaspjald, ljós húðlitur
+🧑🏼‍🎨	listamaður, listmálari, listmálari: meðalljós húðlitur, litaspjald, meðalljós húðlitur
+🧑🏽‍🎨	listamaður, listmálari, listmálari: millihúðlitur, litaspjald, millihúðlitur
+🧑🏾‍🎨	listamaður, listmálari, listmálari: meðaldökkur húðlitur, litaspjald, meðaldökkur húðlitur
+🧑🏿‍🎨	dökkur húðlitur, listamaður, listmálari, listmálari: dökkur húðlitur, litaspjald
+👨‍🎨	karl, karlkyns listamaður, listamaður, litaspjald, málari
+👨🏻‍🎨	karl, karlkyns listamaður, karlkyns listamaður: ljós húðlitur, listamaður, litaspjald, ljós húðlitur, málari
+👨🏼‍🎨	karl, karlkyns listamaður, karlkyns listamaður: meðalljós húðlitur, listamaður, litaspjald, meðalljós húðlitur, málari
+👨🏽‍🎨	karl, karlkyns listamaður, karlkyns listamaður: millihúðlitur, listamaður, litaspjald, millihúðlitur, málari
+👨🏾‍🎨	karl, karlkyns listamaður, karlkyns listamaður: meðaldökkur húðlitur, listamaður, litaspjald, meðaldökkur húðlitur, málari
+👨🏿‍🎨	dökkur húðlitur, karl, karlkyns listamaður, karlkyns listamaður: dökkur húðlitur, listamaður, litaspjald, málari
 👩‍🎨	kona, listakona, listamaður, litaspjald, málari
 👩🏻‍🎨	kona, listakona, listakona: ljós húðlitur, listamaður, litaspjald, ljós húðlitur, málari
 👩🏼‍🎨	kona, listakona, listakona: meðalljós húðlitur, listamaður, litaspjald, meðalljós húðlitur, málari
 👩🏽‍🎨	kona, listakona, listakona: millihúðlitur, listamaður, litaspjald, millihúðlitur, málari
 👩🏾‍🎨	kona, listakona, listakona: meðaldökkur húðlitur, listamaður, litaspjald, meðaldökkur húðlitur, málari
 👩🏿‍🎨	dökkur húðlitur, kona, listakona, listakona: dökkur húðlitur, listamaður, litaspjald, málari
+🧑‍✈	flugstjóri, flugvél
+🧑🏻‍✈	flugstjóri, flugstjóri: ljós húðlitur, flugvél, ljós húðlitur
+🧑🏼‍✈	flugstjóri, flugstjóri: meðalljós húðlitur, flugvél, meðalljós húðlitur
+🧑🏽‍✈	flugstjóri, flugstjóri: millihúðlitur, flugvél, millihúðlitur
+🧑🏾‍✈	flugstjóri, flugstjóri: meðaldökkur húðlitur, flugvél, meðaldökkur húðlitur
+🧑🏿‍✈	dökkur húðlitur, flugstjóri, flugstjóri: dökkur húðlitur, flugvél
 👨‍✈	flugmaður, flugstjóri, flugvél, karl, karlkyns flugstjóri
 👨🏻‍✈	flugmaður, flugstjóri, flugvél, karl, karlkyns flugstjóri, karlkyns flugstjóri: ljós húðlitur, ljós húðlitur
 👨🏼‍✈	flugmaður, flugstjóri, flugvél, karl, karlkyns flugstjóri, karlkyns flugstjóri: meðalljós húðlitur, meðalljós húðlitur
@@ -865,6 +983,12 @@
 👩🏽‍✈	flugmaður, flugstjóri, flugvél, kona, kvenkyns flugstjóri, kvenkyns flugstjóri: millihúðlitur, millihúðlitur
 👩🏾‍✈	flugmaður, flugstjóri, flugvél, kona, kvenkyns flugstjóri, kvenkyns flugstjóri: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍✈	dökkur húðlitur, flugmaður, flugstjóri, flugvél, kona, kvenkyns flugstjóri, kvenkyns flugstjóri: dökkur húðlitur
+🧑‍🚀	eldflaug, geimfari
+🧑🏻‍🚀	eldflaug, geimfari, geimfari: ljós húðlitur, ljós húðlitur
+🧑🏼‍🚀	eldflaug, geimfari, geimfari: meðalljós húðlitur, meðalljós húðlitur
+🧑🏽‍🚀	eldflaug, geimfari, geimfari: millihúðlitur, millihúðlitur
+🧑🏾‍🚀	eldflaug, geimfari, geimfari: meðaldökkur húðlitur, meðaldökkur húðlitur
+🧑🏿‍🚀	dökkur húðlitur, eldflaug, geimfari, geimfari: dökkur húðlitur
 👨‍🚀	eldflaug, geimfari, geimur, karl, karlkyns geimfari
 👨🏻‍🚀	eldflaug, geimfari, geimur, karl, karlkyns geimfari, karlkyns geimfari: ljós húðlitur, ljós húðlitur
 👨🏼‍🚀	eldflaug, geimfari, geimur, karl, karlkyns geimfari, karlkyns geimfari: meðalljós húðlitur, meðalljós húðlitur
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	eldflaug, geimfari, geimur, kona, kvenkyns geimfari, kvenkyns geimfari: millihúðlitur, millihúðlitur
 👩🏾‍🚀	eldflaug, geimfari, geimur, kona, kvenkyns geimfari, kvenkyns geimfari: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍🚀	dökkur húðlitur, eldflaug, geimfari, geimur, kona, kvenkyns geimfari, kvenkyns geimfari: dökkur húðlitur
+🧑‍🚒	brunabíll, brunaliðsmaður, slökkviliðsmaður
+🧑🏻‍🚒	brunabíll, brunaliðsmaður, brunaliðsmaður: ljós húðlitur, ljós húðlitur, slökkviliðsmaður
+🧑🏼‍🚒	brunabíll, brunaliðsmaður, brunaliðsmaður: meðalljós húðlitur, meðalljós húðlitur, slökkviliðsmaður
+🧑🏽‍🚒	brunabíll, brunaliðsmaður, brunaliðsmaður: millihúðlitur, millihúðlitur, slökkviliðsmaður
+🧑🏾‍🚒	brunabíll, brunaliðsmaður, brunaliðsmaður: meðaldökkur húðlitur, meðaldökkur húðlitur, slökkviliðsmaður
+🧑🏿‍🚒	brunabíll, brunaliðsmaður, brunaliðsmaður: dökkur húðlitur, dökkur húðlitur, slökkviliðsmaður
 👨‍🚒	brunabíll, karl, slökkvilið, slökkviliðsmaður
 👨🏻‍🚒	brunabíll, karl, ljós húðlitur, slökkvilið, slökkviliðsmaður, slökkviliðsmaður: ljós húðlitur
 👨🏼‍🚒	brunabíll, karl, meðalljós húðlitur, slökkvilið, slökkviliðsmaður, slökkviliðsmaður: meðalljós húðlitur
@@ -943,6 +1073,7 @@
 💂🏽‍♀	kona, kvenkyns vörður, kvenkyns vörður: millihúðlitur, millihúðlitur, vakt, vaktmaður, vörður
 💂🏾‍♀	kona, kvenkyns vörður, kvenkyns vörður: meðaldökkur húðlitur, meðaldökkur húðlitur, vakt, vaktmaður, vörður
 💂🏿‍♀	dökkur húðlitur, kona, kvenkyns vörður, kvenkyns vörður: dökkur húðlitur, vakt, vaktmaður, vörður
+🥷	bardagamaður, falinn, laumulegur, ninja
 👷	fólk, verkamaður
 👷🏻	fólk, ljós húðlitur, verkamaður, verkamaður: ljós húðlitur
 👷🏼	fólk, meðalljós húðlitur, verkamaður, verkamaður: meðalljós húðlitur
@@ -1003,18 +1134,42 @@
 🧕🏽	blæja, höfuðklútur, kona með höfuðklút, kona með höfuðklút: millihúðlitur, millihúðlitur, slæða, slör
 🧕🏾	blæja, höfuðklútur, kona með höfuðklút, kona með höfuðklút: meðaldökkur húðlitur, meðaldökkur húðlitur, slæða, slör
 🧕🏿	blæja, dökkur húðlitur, höfuðklútur, kona með höfuðklút, kona með höfuðklút: dökkur húðlitur, slæða, slör
-🤵	brúðgumi, finn, maður, smóking
-🤵🏻	brúðgumi, finn, ljós húðlitur, maður, smóking, smóking: ljós húðlitur
-🤵🏼	brúðgumi, finn, maður, meðalljós húðlitur, smóking, smóking: meðalljós húðlitur
-🤵🏽	brúðgumi, finn, maður, millihúðlitur, smóking, smóking: millihúðlitur
-🤵🏾	brúðgumi, finn, maður, meðaldökkur húðlitur, smóking, smóking: meðaldökkur húðlitur
-🤵🏿	brúðgumi, dökkur húðlitur, finn, maður, smóking, smóking: dökkur húðlitur
+🤵	brúðgumi, fínn, maður, smóking
+🤵🏻	brúðgumi, fínn, ljós húðlitur, maður, smóking, smóking: ljós húðlitur
+🤵🏼	brúðgumi, fínn, maður, meðalljós húðlitur, smóking, smóking: meðalljós húðlitur
+🤵🏽	brúðgumi, fínn, maður, millihúðlitur, smóking, smóking: millihúðlitur
+🤵🏾	brúðgumi, fínn, maður, meðaldökkur húðlitur, smóking, smóking: meðaldökkur húðlitur
+🤵🏿	brúðgumi, dökkur húðlitur, fínn, maður, smóking, smóking: dökkur húðlitur
+🤵‍♂	karl, karl í smóking, smóking
+🤵🏻‍♂	karl, karl í smóking, karl í smóking: ljós húðlitur, ljós húðlitur, smóking
+🤵🏼‍♂	karl, karl í smóking, karl í smóking: meðalljós húðlitur, meðalljós húðlitur, smóking
+🤵🏽‍♂	karl, karl í smóking, karl í smóking: millihúðlitur, millihúðlitur, smóking
+🤵🏾‍♂	karl, karl í smóking, karl í smóking: meðaldökkur húðlitur, meðaldökkur húðlitur, smóking
+🤵🏿‍♂	dökkur húðlitur, karl, karl í smóking, karl í smóking: dökkur húðlitur, smóking
+🤵‍♀	kona, kona í smóking, smóking
+🤵🏻‍♀	kona, kona í smóking, kona í smóking: ljós húðlitur, ljós húðlitur, smóking
+🤵🏼‍♀	kona, kona í smóking, kona í smóking: meðalljós húðlitur, meðalljós húðlitur, smóking
+🤵🏽‍♀	kona, kona í smóking, kona í smóking: millihúðlitur, millihúðlitur, smóking
+🤵🏾‍♀	kona, kona í smóking, kona í smóking: meðaldökkur húðlitur, meðaldökkur húðlitur, smóking
+🤵🏿‍♀	dökkur húðlitur, kona, kona í smóking, kona í smóking: dökkur húðlitur, smóking
 👰	brúðarslör, brúðkaup, brúður, brúður með slör, fólk
 👰🏻	brúðarslör, brúðkaup, brúður, brúður með slör, brúður: ljós húðlitur, fólk, ljós húðlitur
 👰🏼	brúðarslör, brúðkaup, brúður, brúður með slör, brúður: meðalljós húðlitur, fólk, meðalljós húðlitur
 👰🏽	brúðarslör, brúðkaup, brúður, brúður með slör, brúður: millihúðlitur, fólk, millihúðlitur
 👰🏾	brúðarslör, brúðkaup, brúður, brúður með slör, brúður: meðaldökkur húðlitur, fólk, meðaldökkur húðlitur
 👰🏿	brúðarslör, brúðkaup, brúður, brúður með slör, brúður: dökkur húðlitur, dökkur húðlitur, fólk
+👰‍♂	karl, karl með slör, slör
+👰🏻‍♂	karl, karl með slör, karl með slör: ljós húðlitur, ljós húðlitur, slör
+👰🏼‍♂	karl, karl með slör, karl með slör: meðalljós húðlitur, meðalljós húðlitur, slör
+👰🏽‍♂	karl, karl með slör, karl með slör: millihúðlitur, millihúðlitur, slör
+👰🏾‍♂	karl, karl með slör, karl með slör: meðaldökkur húðlitur, meðaldökkur húðlitur, slör
+👰🏿‍♂	dökkur húðlitur, karl, karl með slör, karl með slör: dökkur húðlitur, slör
+👰‍♀	kona, kona með slör, slör
+👰🏻‍♀	kona, kona með slör, kona með slör: ljós húðlitur, ljós húðlitur, slör
+👰🏼‍♀	kona, kona með slör, kona með slör: meðalljós húðlitur, meðalljós húðlitur, slör
+👰🏽‍♀	kona, kona með slör, kona með slör: millihúðlitur, millihúðlitur, slör
+👰🏾‍♀	kona, kona með slör, kona með slör: meðaldökkur húðlitur, meðaldökkur húðlitur, slör
+👰🏿‍♀	dökkur húðlitur, kona, kona með slör, kona með slör: dökkur húðlitur, slör
 🤰	kona, ófrísk, ólétt, ólétt kona
 🤰🏻	kona, ljós húðlitur, ófrísk, ólétt, ólétt kona: ljós húðlitur
 🤰🏼	kona, meðalljós húðlitur, ófrísk, ólétt, ólétt kona: meðalljós húðlitur
@@ -1027,6 +1182,24 @@
 🤱🏽	barn, brjóst, brjóstagjöf, brjóstagjöf: millihúðlitur, millihúðlitur
 🤱🏾	barn, brjóst, brjóstagjöf, brjóstagjöf: meðaldökkur húðlitur, meðaldökkur húðlitur
 🤱🏿	barn, brjóst, brjóstagjöf, brjóstagjöf: dökkur húðlitur, dökkur húðlitur
+👩‍🍼	barn, brjóstagjöf, gjöf, kona, kona að gefa barni
+👩🏻‍🍼	barn, brjóstagjöf, gjöf, kona, kona að gefa barni, kona að gefa barni: ljós húðlitur, ljós húðlitur
+👩🏼‍🍼	barn, brjóstagjöf, gjöf, kona, kona að gefa barni, kona að gefa barni: meðalljós húðlitur, meðalljós húðlitur
+👩🏽‍🍼	barn, brjóstagjöf, gjöf, kona, kona að gefa barni, kona að gefa barni: millihúðlitur, millihúðlitur
+👩🏾‍🍼	barn, brjóstagjöf, gjöf, kona, kona að gefa barni, kona að gefa barni: meðaldökkur húðlitur, meðaldökkur húðlitur
+👩🏿‍🍼	barn, brjóstagjöf, dökkur húðlitur, gjöf, kona, kona að gefa barni, kona að gefa barni: dökkur húðlitur
+👨‍🍼	barn, brjóstagjöf, gjöf, karl, karl að gefa barni
+👨🏻‍🍼	barn, brjóstagjöf, gjöf, karl, karl að gefa barni, karl að gefa barni: ljós húðlitur, ljós húðlitur
+👨🏼‍🍼	barn, brjóstagjöf, gjöf, karl, karl að gefa barni, karl að gefa barni: meðalljós húðlitur, meðalljós húðlitur
+👨🏽‍🍼	barn, brjóstagjöf, gjöf, karl, karl að gefa barni, karl að gefa barni: millihúðlitur, millihúðlitur
+👨🏾‍🍼	barn, brjóstagjöf, gjöf, karl, karl að gefa barni, karl að gefa barni: meðaldökkur húðlitur, meðaldökkur húðlitur
+👨🏿‍🍼	barn, brjóstagjöf, dökkur húðlitur, gjöf, karl, karl að gefa barni, karl að gefa barni: dökkur húðlitur
+🧑‍🍼	barn, brjóstagjöf, gjöf, manneskja, manneskja að gefa barni
+🧑🏻‍🍼	barn, brjóstagjöf, gjöf, ljós húðlitur, manneskja, manneskja að gefa barni, manneskja að gefa barni: ljós húðlitur
+🧑🏼‍🍼	barn, brjóstagjöf, gjöf, manneskja, manneskja að gefa barni, manneskja að gefa barni: meðalljós húðlitur, meðalljós húðlitur
+🧑🏽‍🍼	barn, brjóstagjöf, gjöf, manneskja, manneskja að gefa barni, manneskja að gefa barni: millihúðlitur, millihúðlitur
+🧑🏾‍🍼	barn, brjóstagjöf, gjöf, manneskja, manneskja að gefa barni, manneskja að gefa barni: meðaldökkur húðlitur, meðaldökkur húðlitur
+🧑🏿‍🍼	barn, brjóstagjöf, dökkur húðlitur, gjöf, manneskja, manneskja að gefa barni, manneskja að gefa barni: dökkur húðlitur
 👼	andlit, barnsengill, engill, ævintýri
 👼🏻	andlit, barnsengill, barnsengill: ljós húðlitur, engill, ljós húðlitur, ævintýri
 👼🏼	andlit, barnsengill, barnsengill: meðalljós húðlitur, engill, meðalljós húðlitur, ævintýri
@@ -1045,6 +1218,12 @@
 🤶🏽	amma, jól, jólamamma, jólamamma: millihúðlitur, mamma, millihúðlitur
 🤶🏾	amma, jól, jólamamma, jólamamma: meðaldökkur húðlitur, mamma, meðaldökkur húðlitur
 🤶🏿	amma, dökkur húðlitur, jól, jólamamma, jólamamma: dökkur húðlitur, mamma
+🧑‍🎄	Sveinki, jól, frú sveinki
+🧑🏻‍🎄	Sveinki, jól, frú sveinki, frú sveinki: ljós húðlitur, ljós húðlitur
+🧑🏼‍🎄	Sveinki, jól, frú sveinki, frú sveinki: meðalljós húðlitur, meðalljós húðlitur
+🧑🏽‍🎄	Sveinki, jól, frú sveinki, frú sveinki: millihúðlitur, millihúðlitur
+🧑🏾‍🎄	Sveinki, jól, frú sveinki, frú sveinki: meðaldökkur húðlitur, meðaldökkur húðlitur
+🧑🏿‍🎄	Sveinki, jól, dökkur húðlitur, frú sveinki, frú sveinki: dökkur húðlitur
 🦸	góð, hetja, kvenhetja, ofurhetja, ofurkraftur
 🦸🏻	góð, hetja, kvenhetja, ljós húðlitur, ofurhetja, ofurhetja: ljós húðlitur, ofurkraftur
 🦸🏼	góð, hetja, kvenhetja, meðalljós húðlitur, ofurhetja, ofurhetja: meðalljós húðlitur, ofurkraftur
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	kona, krjúpandi, krjúpandi kona: millihúðlitur, millihúðlitur
 🧎🏾‍♀	kona, krjúpandi, krjúpandi kona: meðaldökkur húðlitur, meðaldökkur húðlitur
 🧎🏿‍♀	dökkur húðlitur, kona, krjúpandi, krjúpandi kona: dökkur húðlitur
+🧑‍🦯	aðgengi, manneskja með blindrastaf, sjónlaus
+🧑🏻‍🦯	aðgengi, ljós húðlitur, manneskja með blindrastaf, manneskja með blindrastaf: ljós húðlitur, sjónlaus
+🧑🏼‍🦯	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf: meðalljós húðlitur, meðalljós húðlitur, sjónlaus
+🧑🏽‍🦯	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf: millihúðlitur, millihúðlitur, sjónlaus
+🧑🏾‍🦯	aðgengi, manneskja með blindrastaf, manneskja með blindrastaf: meðaldökkur húðlitur, meðaldökkur húðlitur, sjónlaus
+🧑🏿‍🦯	aðgengi, dökkur húðlitur, manneskja með blindrastaf, manneskja með blindrastaf: dökkur húðlitur, sjónlaus
 👨‍🦯	aðgengi, blindur, maður, maður með blindrastaf
 👨🏻‍🦯	aðgengi, blindur, ljós húðlitur, maður, maður með blindrastaf, maður með blindrastaf: ljós húðlitur
 👨🏼‍🦯	aðgengi, blindur, maður, maður með blindrastaf, maður með blindrastaf: meðalljós húðlitur, meðalljós húðlitur
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf: millihúðlitur, millihúðlitur
 👩🏾‍🦯	aðgengi, blind, kona, kona með blindrastaf, kona með blindrastaf: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍🦯	aðgengi, blind, dökkur húðlitur, kona, kona með blindrastaf, kona með blindrastaf: dökkur húðlitur
+🧑‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól
+🧑🏻‍🦼	aðgengi, hjólastóll, ljós húðlitur, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: ljós húðlitur
+🧑🏼‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: meðalljós húðlitur, meðalljós húðlitur
+🧑🏽‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: millihúðlitur, millihúðlitur
+🧑🏾‍🦼	aðgengi, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
+🧑🏿‍🦼	aðgengi, dökkur húðlitur, hjólastóll, manneskja í vélknúnum hjólastól, manneskja í vélknúnum hjólastól: dökkur húðlitur
 👨‍🦼	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól
 👨🏻‍🦼	aðgengi, hjólastóll, ljós húðlitur, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól: ljós húðlitur
 👨🏼‍🦼	aðgengi, hjólastóll, maður, maður í vélknúnum hjólastól, maður í vélknúnum hjólastól: meðalljós húðlitur, meðalljós húðlitur
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: millihúðlitur, millihúðlitur
 👩🏾‍🦼	aðgengi, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
 👩🏿‍🦼	aðgengi, dökkur húðlitur, hjólastóll, kona, kona í vélknúnum hjólastól, kona í vélknúnum hjólastól: dökkur húðlitur
+🧑‍🦽	aðgengi, hjólastóll, manneskja í hjólastól
+🧑🏻‍🦽	aðgengi, hjólastóll, ljós húðlitur, manneskja í hjólastól, manneskja í hjólastól: ljós húðlitur
+🧑🏼‍🦽	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: meðalljós húðlitur, meðalljós húðlitur
+🧑🏽‍🦽	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: millihúðlitur, millihúðlitur
+🧑🏾‍🦽	aðgengi, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: meðaldökkur húðlitur, meðaldökkur húðlitur
+🧑🏿‍🦽	aðgengi, dökkur húðlitur, hjólastóll, manneskja í hjólastól, manneskja í hjólastól: dökkur húðlitur
 👨‍🦽	aðgengi, hjólastóll, maður, maður í hjólastól
 👨🏻‍🦽	aðgengi, hjólastóll, ljós húðlitur, maður, maður í hjólastól, maður í hjólastól: ljós húðlitur
 👨🏼‍🦽	aðgengi, hjólastóll, maður, maður í hjólastól, maður í hjólastól: meðalljós húðlitur, meðalljós húðlitur
@@ -1643,15 +1840,25 @@
 🛌🏿	dökkur húðlitur, hótel, manneskja í rúmi, manneskja í rúmi: dökkur húðlitur, sofa
 🧑‍🤝‍🧑	fólk að leiðast, haldast í hendur, hönd, leiða, leiðast, par
 🧑🏻‍🤝‍🧑🏻	fólk að leiðast, fólk að leiðast: ljós húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, par
+🧑🏻‍🤝‍🧑🏼	fólk að leiðast, fólk að leiðast: ljós húðlitur og meðalljós húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, meðalljós húðlitur, par
+🧑🏻‍🤝‍🧑🏽	fólk að leiðast, fólk að leiðast: ljós húðlitur og millihúðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, millihúðlitur, par
+🧑🏻‍🤝‍🧑🏾	fólk að leiðast, fólk að leiðast: ljós húðlitur og meðaldökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, meðaldökkur húðlitur, par
+🧑🏻‍🤝‍🧑🏿	dökkur húðlitur, fólk að leiðast, fólk að leiðast: ljós húðlitur og dökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, par
 🧑🏼‍🤝‍🧑🏻	fólk að leiðast, fólk að leiðast: meðalljós húðlitur og ljós húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, meðalljós húðlitur, par
 🧑🏼‍🤝‍🧑🏼	fólk að leiðast, fólk að leiðast: meðalljós húðlitur, haldast í hendur, hönd, leiða, leiðast, meðalljós húðlitur, par
+🧑🏼‍🤝‍🧑🏽	fólk að leiðast, fólk að leiðast: meðalljós húðlitur og millihúðlitur, haldast í hendur, hönd, leiða, leiðast, meðalljós húðlitur, millihúðlitur, par
+🧑🏼‍🤝‍🧑🏾	fólk að leiðast, fólk að leiðast: meðalljós húðlitur og meðaldökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, meðaldökkur húðlitur, meðalljós húðlitur, par
+🧑🏼‍🤝‍🧑🏿	dökkur húðlitur, fólk að leiðast, fólk að leiðast: meðalljós húðlitur og dökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, meðalljós húðlitur, par
 🧑🏽‍🤝‍🧑🏻	fólk að leiðast, fólk að leiðast: millihúðlitur og ljós húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, millihúðlitur, par
 🧑🏽‍🤝‍🧑🏼	fólk að leiðast, fólk að leiðast: millihúðlitur og meðalljós húðlitur, haldast í hendur, hönd, leiða, leiðast, meðalljós húðlitur, millihúðlitur, par
 🧑🏽‍🤝‍🧑🏽	fólk að leiðast, fólk að leiðast: millihúðlitur, haldast í hendur, hönd, leiða, leiðast, millihúðlitur, par
+🧑🏽‍🤝‍🧑🏾	fólk að leiðast, fólk að leiðast: millihúðlitur og meðaldökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, meðaldökkur húðlitur, millihúðlitur, par
+🧑🏽‍🤝‍🧑🏿	dökkur húðlitur, fólk að leiðast, fólk að leiðast: millihúðlitur og dökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, millihúðlitur, par
 🧑🏾‍🤝‍🧑🏻	fólk að leiðast, fólk að leiðast: meðaldökkur húðlitur og ljós húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, meðaldökkur húðlitur, par
 🧑🏾‍🤝‍🧑🏼	fólk að leiðast, fólk að leiðast: meðaldökkur húðlitur og meðalljós húðlitur, haldast í hendur, hönd, leiða, leiðast, meðaldökkur húðlitur, meðalljós húðlitur, par
 🧑🏾‍🤝‍🧑🏽	fólk að leiðast, fólk að leiðast: meðaldökkur húðlitur og millihúðlitur, haldast í hendur, hönd, leiða, leiðast, meðaldökkur húðlitur, millihúðlitur, par
 🧑🏾‍🤝‍🧑🏾	fólk að leiðast, fólk að leiðast: meðaldökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, meðaldökkur húðlitur, par
+🧑🏾‍🤝‍🧑🏿	dökkur húðlitur, fólk að leiðast, fólk að leiðast: meðaldökkur húðlitur og dökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, meðaldökkur húðlitur, par
 🧑🏿‍🤝‍🧑🏻	dökkur húðlitur, fólk að leiðast, fólk að leiðast: dökkur húðlitur og ljós húðlitur, haldast í hendur, hönd, leiða, leiðast, ljós húðlitur, par
 🧑🏿‍🤝‍🧑🏼	dökkur húðlitur, fólk að leiðast, fólk að leiðast: dökkur húðlitur og meðalljós húðlitur, haldast í hendur, hönd, leiða, leiðast, meðalljós húðlitur, par
 🧑🏿‍🤝‍🧑🏽	dökkur húðlitur, fólk að leiðast, fólk að leiðast: dökkur húðlitur og millihúðlitur, haldast í hendur, hönd, leiða, leiðast, millihúðlitur, par
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	dökkur húðlitur, fólk að leiðast, fólk að leiðast: dökkur húðlitur, haldast í hendur, hönd, leiða, leiðast, par
 👭	hendur, konur, konur sem leiðast, leiðast, par
 👭🏻	hendur, konur, konur sem leiðast, konur sem leiðast: ljós húðlitur, leiðast, ljós húðlitur, par
+👩🏻‍🤝‍👩🏼	hendur, konur, konur sem leiðast, konur sem leiðast: ljós húðlitur og meðalljós húðlitur, leiðast, ljós húðlitur, meðalljós húðlitur, par
+👩🏻‍🤝‍👩🏽	hendur, konur, konur sem leiðast, konur sem leiðast: ljós húðlitur og millihúðlitur, leiðast, ljós húðlitur, millihúðlitur, par
+👩🏻‍🤝‍👩🏾	hendur, konur, konur sem leiðast, konur sem leiðast: ljós húðlitur og meðaldökkur húðlitur, leiðast, ljós húðlitur, meðaldökkur húðlitur, par
+👩🏻‍🤝‍👩🏿	dökkur húðlitur, hendur, konur, konur sem leiðast, konur sem leiðast: ljós húðlitur og dökkur húðlitur, leiðast, ljós húðlitur, par
 👩🏼‍🤝‍👩🏻	hendur, konur, konur sem leiðast, konur sem leiðast: meðalljós húðlitur og ljós húðlitur, leiðast, ljós húðlitur, meðalljós húðlitur, par
 👭🏼	hendur, konur, konur sem leiðast, konur sem leiðast: meðalljós húðlitur, leiðast, meðalljós húðlitur, par
+👩🏼‍🤝‍👩🏽	hendur, konur, konur sem leiðast, konur sem leiðast: meðalljós húðlitur og millihúðlitur, leiðast, meðalljós húðlitur, millihúðlitur, par
+👩🏼‍🤝‍👩🏾	hendur, konur, konur sem leiðast, konur sem leiðast: meðalljós húðlitur og meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, meðalljós húðlitur, par
+👩🏼‍🤝‍👩🏿	dökkur húðlitur, hendur, konur, konur sem leiðast, konur sem leiðast: meðalljós húðlitur og dökkur húðlitur, leiðast, meðalljós húðlitur, par
 👩🏽‍🤝‍👩🏻	hendur, konur, konur sem leiðast, konur sem leiðast: millihúðlitur og ljós húðlitur, leiðast, ljós húðlitur, millihúðlitur, par
 👩🏽‍🤝‍👩🏼	hendur, konur, konur sem leiðast, konur sem leiðast: millihúðlitur og meðalljós húðlitur, leiðast, meðalljós húðlitur, millihúðlitur, par
 👭🏽	hendur, konur, konur sem leiðast, konur sem leiðast: millihúðlitur, leiðast, millihúðlitur, par
+👩🏽‍🤝‍👩🏾	hendur, konur, konur sem leiðast, konur sem leiðast: millihúðlitur og meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, millihúðlitur, par
+👩🏽‍🤝‍👩🏿	dökkur húðlitur, hendur, konur, konur sem leiðast, konur sem leiðast: millihúðlitur og dökkur húðlitur, leiðast, millihúðlitur, par
 👩🏾‍🤝‍👩🏻	hendur, konur, konur sem leiðast, konur sem leiðast: meðaldökkur húðlitur og ljós húðlitur, leiðast, ljós húðlitur, meðaldökkur húðlitur, par
 👩🏾‍🤝‍👩🏼	hendur, konur, konur sem leiðast, konur sem leiðast: meðaldökkur húðlitur og meðalljós húðlitur, leiðast, meðaldökkur húðlitur, meðalljós húðlitur, par
 👩🏾‍🤝‍👩🏽	hendur, konur, konur sem leiðast, konur sem leiðast: meðaldökkur húðlitur og millihúðlitur, leiðast, meðaldökkur húðlitur, millihúðlitur, par
 👭🏾	hendur, konur, konur sem leiðast, konur sem leiðast: meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, par
+👩🏾‍🤝‍👩🏿	dökkur húðlitur, hendur, konur, konur sem leiðast, konur sem leiðast: meðaldökkur húðlitur og dökkur húðlitur, leiðast, meðaldökkur húðlitur, par
 👩🏿‍🤝‍👩🏻	dökkur húðlitur, hendur, konur, konur sem leiðast, konur sem leiðast: dökkur húðlitur og ljós húðlitur, leiðast, ljós húðlitur, par
 👩🏿‍🤝‍👩🏼	dökkur húðlitur, hendur, konur, konur sem leiðast, konur sem leiðast: dökkur húðlitur og meðalljós húðlitur, leiðast, meðalljós húðlitur, par
 👩🏿‍🤝‍👩🏽	dökkur húðlitur, hendur, konur, konur sem leiðast, konur sem leiðast: dökkur húðlitur og millihúðlitur, leiðast, millihúðlitur, par
@@ -1699,22 +1916,32 @@
 👩🏿‍🤝‍👨🏽	dökkur húðlitur, haldast, hendur, karl og kona sem leiðast, karl og kona sem leiðast: dökkur húðlitur og millihúðlitur, kona, leiðast, maður, millihúðlitur, par
 👩🏿‍🤝‍👨🏾	dökkur húðlitur, haldast, hendur, karl og kona sem leiðast, karl og kona sem leiðast: dökkur húðlitur og meðaldökkur húðlitur, kona, leiðast, maður, meðaldökkur húðlitur, par
 👫🏿	dökkur húðlitur, haldast, hendur, karl og kona sem leiðast, karl og kona sem leiðast: dökkur húðlitur, kona, leiðast, maður, par
-👬	karl, karlar, karlar sem leiðast, leiðast, par, stjörnumerki, tvíburar, tvíburi
-👬🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: ljós húðlitur, leiðast, ljós húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏼‍🤝‍👨🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðalljós húðlitur og ljós húðlitur, leiðast, ljós húðlitur, meðalljós húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👬🏼	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðalljós húðlitur, leiðast, meðalljós húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏽‍🤝‍👨🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur og ljós húðlitur, leiðast, ljós húðlitur, millihúðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏽‍🤝‍👨🏼	karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur og meðalljós húðlitur, leiðast, meðalljós húðlitur, millihúðlitur, par, stjörnumerki, tvíburar, tvíburi
-👬🏽	karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur, leiðast, millihúðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏾‍🤝‍👨🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur og ljós húðlitur, leiðast, ljós húðlitur, meðaldökkur húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏾‍🤝‍👨🏼	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur og meðalljós húðlitur, leiðast, meðaldökkur húðlitur, meðalljós húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏾‍🤝‍👨🏽	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur og millihúðlitur, leiðast, meðaldökkur húðlitur, millihúðlitur, par, stjörnumerki, tvíburar, tvíburi
-👬🏾	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏿‍🤝‍👨🏻	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og ljós húðlitur, leiðast, ljós húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏿‍🤝‍👨🏼	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og meðalljós húðlitur, leiðast, meðalljós húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏿‍🤝‍👨🏽	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og millihúðlitur, leiðast, millihúðlitur, par, stjörnumerki, tvíburar, tvíburi
-👨🏿‍🤝‍👨🏾	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, par, stjörnumerki, tvíburar, tvíburi
-👬🏿	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur, leiðast, par, stjörnumerki, tvíburar, tvíburi
+👬	karl, karlar, karlar sem leiðast, leiðast, par, stjörnumerki, tvíburar
+👬🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: ljós húðlitur, leiðast, ljós húðlitur, par, stjörnumerki, tvíburar
+👨🏻‍🤝‍👨🏼	karl, karlar, karlar sem leiðast, karlar sem leiðast: ljós húðlitur og meðalljós húðlitur, leiðast, ljós húðlitur, meðalljós húðlitur, par, stjörnumerki, tvíburar
+👨🏻‍🤝‍👨🏽	karl, karlar, karlar sem leiðast, karlar sem leiðast: ljós húðlitur og millihúðlitur, leiðast, ljós húðlitur, millihúðlitur, par, stjörnumerki, tvíburar
+👨🏻‍🤝‍👨🏾	karl, karlar, karlar sem leiðast, karlar sem leiðast: ljós húðlitur og meðaldökkur húðlitur, leiðast, ljós húðlitur, meðaldökkur húðlitur, par, stjörnumerki, tvíburar
+👨🏻‍🤝‍👨🏿	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: ljós húðlitur og dökkur húðlitur, leiðast, ljós húðlitur, par, stjörnumerki, tvíburar
+👨🏼‍🤝‍👨🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðalljós húðlitur og ljós húðlitur, leiðast, ljós húðlitur, meðalljós húðlitur, par, stjörnumerki, tvíburar
+👬🏼	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðalljós húðlitur, leiðast, meðalljós húðlitur, par, stjörnumerki, tvíburar
+👨🏼‍🤝‍👨🏽	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðalljós húðlitur og millihúðlitur, leiðast, meðalljós húðlitur, millihúðlitur, par, stjörnumerki, tvíburar
+👨🏼‍🤝‍👨🏾	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðalljós húðlitur og meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, meðalljós húðlitur, par, stjörnumerki, tvíburar
+👨🏼‍🤝‍👨🏿	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: meðalljós húðlitur og dökkur húðlitur, leiðast, meðalljós húðlitur, par, stjörnumerki, tvíburar
+👨🏽‍🤝‍👨🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur og ljós húðlitur, leiðast, ljós húðlitur, millihúðlitur, par, stjörnumerki, tvíburar
+👨🏽‍🤝‍👨🏼	karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur og meðalljós húðlitur, leiðast, meðalljós húðlitur, millihúðlitur, par, stjörnumerki, tvíburar
+👬🏽	karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur, leiðast, millihúðlitur, par, stjörnumerki, tvíburar
+👨🏽‍🤝‍👨🏾	karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur og meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, millihúðlitur, par, stjörnumerki, tvíburar
+👨🏽‍🤝‍👨🏿	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: millihúðlitur og dökkur húðlitur, leiðast, millihúðlitur, par, stjörnumerki, tvíburar
+👨🏾‍🤝‍👨🏻	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur og ljós húðlitur, leiðast, ljós húðlitur, meðaldökkur húðlitur, par, stjörnumerki, tvíburar
+👨🏾‍🤝‍👨🏼	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur og meðalljós húðlitur, leiðast, meðaldökkur húðlitur, meðalljós húðlitur, par, stjörnumerki, tvíburar
+👨🏾‍🤝‍👨🏽	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur og millihúðlitur, leiðast, meðaldökkur húðlitur, millihúðlitur, par, stjörnumerki, tvíburar
+👬🏾	karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, par, stjörnumerki, tvíburar
+👨🏾‍🤝‍👨🏿	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: meðaldökkur húðlitur og dökkur húðlitur, leiðast, meðaldökkur húðlitur, par, stjörnumerki, tvíburar
+👨🏿‍🤝‍👨🏻	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og ljós húðlitur, leiðast, ljós húðlitur, par, stjörnumerki, tvíburar
+👨🏿‍🤝‍👨🏼	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og meðalljós húðlitur, leiðast, meðalljós húðlitur, par, stjörnumerki, tvíburar
+👨🏿‍🤝‍👨🏽	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og millihúðlitur, leiðast, millihúðlitur, par, stjörnumerki, tvíburar
+👨🏿‍🤝‍👨🏾	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur og meðaldökkur húðlitur, leiðast, meðaldökkur húðlitur, par, stjörnumerki, tvíburar
+👬🏿	dökkur húðlitur, karl, karlar, karlar sem leiðast, karlar sem leiðast: dökkur húðlitur, leiðast, par, stjörnumerki, tvíburar
 💏	fólk, koss, kyssast, rómantík
 👩‍❤‍💋‍👨	fólk, karl, kona, koss, koss: kona og karl, kyssast, rómantík
 👨‍❤‍💋‍👨	fólk, karl, koss, koss: karl og karl, kyssast, rómantík
@@ -1752,6 +1979,7 @@
 🗣️	andlit, höfuð, skuggamynd, tala, talandi, talandi höfuð
 👤	brjóstmynd, brjóstmynd í skugga, framan á, fólk
 👥	brjóstmynd, brjóstmyndir í skugga, framan á, fólk
+🫂	faðmlag, fólk að faðmast, halló, kveðja, þakklæti
 👣	fótspor, fótur, líkami, spor
 🦰	rautt hár, rauðleitt hár
 🦱	afró, krullað hár, krullur, lokkar
@@ -1771,6 +1999,7 @@
 🦝	forvitinn, slóttugur, þvottabjörn
 🐱	gæludýr, höfuð, kattarhöfuð, köttur
 🐈️	gæludýr, köttur
+🐈‍⬛	köttur, svartur, svartur köttur, óheppni
 🦁	andlit, ljón, ljónið, stjörnumerki
 🐯	höfuð, tígrisdýr, tígrisdýrshöfuð
 🐅	tígrisdýr
@@ -1780,6 +2009,7 @@
 🦄	andlit, einhyrningur
 🦓	rendur, rönd, sebrahestur
 🦌	dýr, hjörtur, hreindýr, ´hjartardýr
+🦬	Evrópusvísundur, buffali, hjörð, vísundur
 🐮	höfuð, kýr, kýrhöfuð
 🐂	naut, stjörnumerki, uxi
 🐃	buffaló, vatn, vatnabuffaló
@@ -1796,6 +2026,7 @@
 🦙	alpaka, lamadýr, ull, villt lamadýr, villt suður-amerískt spendýr
 🦒	blettir, doppur, gíraffi
 🐘	fíll
+🦣	loðfíll, loðinn, mammútur, stór, tennur, útdauði
 🦏	dýr, nashyrningur
 🦛	flóðhestur
 🐭	höfuð, mús, músarhöfuð
@@ -1805,9 +2036,11 @@
 🐰	höfuð, kanína, kanínuhöfuð
 🐇	kanína
 🐿️	jarðíkorni, íkorni
+🦫	bifur, bjór, stífla
 🦔	broddar, broddgöltur, broddóttur
 🦇	dýr, leðurblaka, vampíra
 🐻	andlit, björn
+🐻‍❄	björn, hv´ítur, norðurheimskaut, ísbjörn
 🐨	höfuð, kóalabjörn
 🐼	andlit, panda
 🦥	hægur, latur, letidýr
@@ -1829,6 +2062,8 @@
 🦆	fugl, önd
 🦢	fugl, ljóti andarunginn, svanur, álft, álftarungi
 🦉	fugl, ugla
+🦤	Márítíus, dúdúfugl, stór, útdauði
+🪶	fjaðraskraut, fjöður, flug, fugl, létt
 🦩	flamingói, hitabeltis, litríkur
 🦚	fugl, páfugl, páhæna, stoltur, sýndarmennska
 🦜	fugl, páfagaukur, sjóræningi, tal
@@ -1844,6 +2079,7 @@
 🐳	blásandi hvalur, hvalur
 🐋	hvalur, keikó
 🐬	höfrungur
+🦭	selur, sæljón
 🐟️	fiskar, fiskur, stjörnumerki
 🐠	fiskur, hitabelti, hitabeltisfiskur
 🐡	blöðrufiskur, fiskur
@@ -1855,17 +2091,21 @@
 🐛	margfætla, skordýr
 🐜	maur, skordýr
 🐝	býfluga, hunangsfluga
+🪲	bjalla, bjölludýr, padda, skordýr
 🐞	bjalla, maríubjalla, maríuhæna, skordýr
 🦗	engispretta, krybba
+🪳	kakkalakki, plága, skordýr
 🕷️	könguló, skordýr
 🕸️	könguló, köngulóarvefur, vefur
 🦂	sporðdreki, stjörnumerki
 🦟	hiti, malaría, moskító, skordýr, veiki, veira
+🪰	fluga, maðkar, plága, rotnun, sjúkdómur
+🪱	liðormur, ormur, sníkjudýr, ánamaðkur
 🦠	amaba, baktería, veira, vírus, örvera
 💐	blóm, blómvöndur, rómantík
 🌸	blóm, kirsuber, kirsuberjablóm
 💮	blóm, hvítt blóm, stimpill
-🏵️	blóm, panta, rós, rósarmynstur
+🏵️	blóm, planta, rós, rósarmynstur
 🌹	blóm, rós
 🥀	blóm, rós, sölnað blóm
 🌺	Havaírós, blóm
@@ -1873,6 +2113,7 @@
 🌼	blóm, planta
 🌷	blóm, túlípani
 🌱	græðlingur, planta
+🪴	gagnslaus, hús, næra, planta, pottaplanta, vaxa
 🌲	sígrænt, sígrænt tré, tré
 🌳	lauftré, sumargrænt tré, tré
 🌴	pálmatré, pálmi, tré
@@ -1898,8 +2139,10 @@
 🍑	ferskja, ávöxtur
 🍒	kirsuber, ávöxtur
 🍓	jarðarber, ávöxtur
+🫐	aðalbláber, ber, blá, bláber
 🥝	kíví, matur, ávöxtur
 🍅	grænmeti, tómatur
+🫒	matur, ólífa, ólífur
 🥥	kókoshneta, pina colada, pálmatré
 🥑	avókadó, grænmeti, matur
 🍆	eggaldin, grænmeti
@@ -1907,6 +2150,7 @@
 🥕	grænmeti, gulrót, matur
 🌽	maís
 🌶️	chilipipar, chilli, pipar, planta, sterkt
+🫑	grænmeti, paprika
 🥒	grænmeti, gúrka, matur
 🥬	bok choi, grænkál, hvítkál, kál
 🥦	brokkólí, garðakál
@@ -1918,6 +2162,7 @@
 🍞	brauð, brauðhleifur
 🥐	brauð, franskt, horn
 🥖	brauð, fransbrauð, franskt, matur
+🫓	arepa, flakaka, flatbrauð, flatkaka, flatkökur, lavash, nan
 🥨	saltkringla, snúin
 🥯	bakarí, beygla, smurostur
 🥞	eftirréttur, matur, pönnukökur
@@ -1934,12 +2179,14 @@
 🥪	brauð, samloka
 🌮	mexíkóskt, takó
 🌯	búrrító, mexíkóskt
+🫔	mexíkóskt, mexíkóskur matur, tamale, vefja
 🥙	kebab, kebap, matur, rúlla
 🧆	falafel, kjötbollur, kjúklingabaunir
 🥚	egg, matur
 🍳	elda, steikarpanna, steiking, veitingastaður
 🥘	matur, panna, pönnuréttur
 🍲	kássa, pottréttur
+🫕	Sviss, brætt, fondú, ostur, pottur, súkkulaði
 🥣	morgunkorn, morgunmatur, morgunverður, skál og skeið
 🥗	grænmeti, matur, salat
 🍿	popp
@@ -1985,6 +2232,7 @@
 🍼	drekka, mjólk, peli
 🥛	drykkur, glas, mjólk, mjólkurglas
 ☕️	drykkur, heitt, heitur drykkur, kaffi, rjúkandi, te
+🫖	drykkur, kanna, te, tekanna
 🍵	bolli, drykkur, te, tebolli
 🍶	bar, bolli, drykkur, flaska, sake
 🍾	bar, flaska, flaska með korktappa, korkur, skjóta
@@ -1996,6 +2244,7 @@
 🥂	drykkur, glas, glös, skál
 🥃	drykkur, glas, viskí, viskíglas, áfengi
 🥤	glas og rör, gos, safi
+🧋	kúlur, kúlute, mjólk, perlur, te
 🧃	ferna, safaferna
 🧉	drykkur, mate
 🧊	kuldi, ísjaki, ísmoli
@@ -2025,6 +2274,9 @@
 🏛️	bygging, klassísk, klassísk fornbygging, sígild
 🏗️	bygging, mannvirki í byggingu, í byggingu
 🧱	leir, múrhúð, múrsteinar, múrsteinn, vegglím, veggur
+🪨	gegnheill, grjót, hnullungur, steinn, þungur
+🪵	timbur, trjábolur, tré, viður
+🛖	færanlegt hús, hús, kofi, kringlótt hús
 🏘️	bygging, hús, húsaþyrping
 🏚️	bygging, hús, niðurnítt, niðurnítt hús
 🏠️	bygging, heimili, hús
@@ -2092,6 +2344,7 @@
 🚗	bifreið, bíll
 🚘️	bíll, bíll nálgast, bíll á móti
 🚙	dægrastytting, farartæki, jeppi
+🛻	pallbíll, pallur, trukkur
 🚚	flutningabifreið, flutningabíll, sendibíll
 🚛	flutningabíll, trukkur, vörubifreið, vörubíll
 🚜	dráttarvél, traktor
@@ -2104,6 +2357,7 @@
 🚲️	hjól, hjólreiðar, reiðhjól
 🛴	farartæki, hjól, sparka, sparkhjól
 🛹	bretti, hlaupabretti
+🛼	hjól, hjólaskautar, skauti
 🚏	langferðabíll, rúta, strætisvagn, strætó
 🛣️	hraðbraut, vegur
 🛤️	brautarteinar, járnbrautarteinar, lest
@@ -2274,6 +2528,7 @@
 🪁	fljúga, flugdreki, svífa
 🎱	biljarður, billjard, leikur, pool
 🔮	kristall, kristalskúla, kúla, spá, spádómur
+🪄	galdrakarl, galdrar, galdur, norn, töfrasproti
 🧿	heillagripur, illt-auga, nazar, nazar verndargripur, perla, verndargripur
 🎮️	leikjatölva, leikur, stýripinni, tölvuleikur
 🕹️	leikur, stýripinni, tölvuleikur
@@ -2281,6 +2536,8 @@
 🎲	leikur, spilateningur, teningur
 🧩	krækja saman, púsl, púsluspil, vísbending
 🧸	bangsi, dót, fínt, leikfang
+🪅	fögnuður, piñata, slá köttinn úr tunnunni
+🪆	Rússland, babúskur, dúkkur
 ♠️	leikur, spaði, spil, spilalitur
 ♥️	hjarta, leikur, spil, spilalitur
 ♦️	leikur, spil, spilalitur, tigull, tígull
@@ -2293,7 +2550,9 @@
 🖼️	list, mynd, málverk, rammi, rammi með mynd, safn
 🎨	list, listamaður, litapalletta, málning, palletta
 🧵	kefli, nál, sauma, tvinni, þráður
+🪡	nál, sauma, saumaspor, saumnál, sníða, spor, útsaumur
 🧶	garn, hekl, hespa, hnykill
+🪢	binda, flækja, hnútur, reipi, snúa, tvinni
 👓️	augu, gleraugu, klæðnaður
 🕶️	auga, dimmt, gleraugu, sólgleraugu
 🥽	hlífðargleraugu, logsuða, rafsuða, sund
@@ -2319,6 +2578,7 @@
 👝	budda, klæðnaður, smáveski
 🛍️	hótel, innkaupapoki, poki, verslunarleiðangur
 🎒	skólataska, skóli, taska
+🩴	flipflops, sandalar, sandali með ól, strandsandalar, zori, ól
 👞	herraskór, karl, klæðnaður, skór
 👟	klæðnaður, skór, strigaskór, íþróttaskór
 🥾	bakpokaferðalag, fjallganga, gönguskór, tjaldferðalag
@@ -2332,6 +2592,7 @@
 🎩	hattur, pípuhattur, skemmtun
 🎓️	hátíð, húfa, stúdentshúfa, útskrift, útskriftarhúfa
 🧢	derhúfa, hafnarboltahúfa
+🪖	her, herinn, hermannahjálmur, hermaður, hjálmur, stríðsmaður
 ⛑️	andlit, björgun, hjálmur, hjálmur með hvítum krossi, hjálp, kross
 📿	bæn, bænaband, föt, hálsmen, perlur, trú
 💄	förðun, snyrtivörur, varalitur
@@ -2354,14 +2615,16 @@
 🎛️	stýring, stýritakkar, takkar, tónlist
 🎤	hljóðnemi, karaoke, karókí, míkrófónn, skemmtun
 🎧️	heyrnartól, skemmtun
-📻️	útvarp
+📻️	myndband, útvarp
 🎷	hljóðfæri, saxófónn, tónlist
+🪗	harmonika, harmonikuleikari, konsertína, nikka
 🎸	gítar, hljóðfæri, tónlist
 🎹	hljómborð, hljóðfæri, píanó, tónlist
 🎺	hljóðfæri, trompet, tónlist
 🎻	fiðla, hljóðfæri, tónlist
 🪕	banjó, strengir, strengjahljóðfæri, tónlist
 🥁	hljóðfæri, tromma, trommuleikari, trommusett, tónlist
+🪘	handtromma, hrynjandi, kónga, taktur, tromma
 📱	farsími, sími
 📲	farsími, farsími með ör, hringja, sími
 ☎️	sími
@@ -2378,8 +2641,8 @@
 🖲️	stýrihjól, tölva
 💽	MD, MD-diskur, mini disc, smádiskur
 💾	disketta, diskur
-💿️	blu-ray, diskur, geisladiskur, mynddiskur, tölva
-📀	DVD, DVD-diskur, diskur, mynddiskur
+💿️	blu-ray, diskur, geisladiskur, tölva
+📀	DVD, blu-ray, diskur, geisladiskur, mynddiskur, tölva
 🧮	reikningur, talnagrind
 🎥	bíó, kvikmynd, kvikmyndatökuvél, skemmtun
 🎞️	bíómynd, kvikmynd, kvikmyndafilma, kvikmyndalist, rammi
@@ -2415,6 +2678,7 @@
 🔖	bókamerki, merki
 🏷️	merki, merkimiði
 💰️	peningapoki, peningar, poki
+🪙	fjársjóður, gull, mynt, málmur, peningur, silfur
 💴	peningar, peningaseðill, seðill, yen, yenaseðill
 💵	dollaraseðill, dollari, gjaldmiðill, peningaseðill, peningur, seðill
 💶	evra, evruseðill, peningar, peningaseðill, seðill
@@ -2423,8 +2687,6 @@
 💳️	greiðslukort, kort, kredit, kreditkort
 🧾	bókfærsla, bókhald, endurskoðun, kvittun, sönnun, sönnunargagn
 💹	hækkar, jákvætt, markaður á uppleið, verðbréfamarkaður, á uppleið
-💱	gjaldmiðlar, gjaldmiðlareikningur, gjaldmiðlaskipti, peningar
-💲	dalur, dollaramerki, dollari, feitletrað dollaramerki, peningar
 ✉️	tölvupóstur, umslag
 📧	bréf, póstur, samskipti, tölvubréf, tölvupóstur
 📨	bréf, móttekið, póstur, póstur á innleið, tölvupóstur, umslag
@@ -2482,9 +2744,12 @@
 🗡️	hnífur, rýtingur, vopn
 ⚔️	krosslögð, krosslögð sverð, sverð, vopn
 🔫	byssa, skammbyssa
+🪃	búmerang, endurkast, endurvarp, Ástralía
 🏹	bogaskytta, bogi, bogi og ör, bogmaður, ör
 🛡️	skjöldur, vopn
+🪚	smiður, sög, timbur, verkfæri, viður
 🔧	skiptilykill, verkfæri
+🪛	skrúfa, skrúfjárn, verkfæri
 🔩	bolti, bolti og ró, ró, verkfæri
 ⚙️	gírhjól, verkfæri
 🗜️	skrúfstykki, verkfæri, þjöppun
@@ -2492,8 +2757,10 @@
 🦯	aðgengi, blindrastafur, blindur, sjónlaus
 🔗	tenglamerki, tenglar, tveir hlekkir
 ⛓️	keðja
+🪝	bogi, gildra, krækja, krókur
 🧰	kista, tól, verkfærakassi, verkfæri, viðgerðir
 🧲	aðdráttarafl, segull, segulmagn, skeifa
+🪜	klifra, rim, stigi, trappa
 ⚗️	efnafræði, eimingarflaska
 🧪	efnafræði, efnafræðingur, tilraun, tilraunaglas, tilraunastofa, vísindi
 🧫	baktería, gerlaflóra, líffræði, líffræðingur, petrílskál, tilraunastofa
@@ -2507,26 +2774,35 @@
 🩹	plástur
 🩺	hjarta, hlustunarpípa, læknir, læknisfræði
 🚪	dyr, hurð
+🛗	aðgengi, hífa, lyfta
+🪞	endurspeglun, endurvarp, spegill, speglun
+🪟	ferskt loft, gegnsætt, gluggi, opna, rammi, útsýni
 🛏️	hótel, rúm, sofa
 🛋️	hótel, lampi, sófi, sófi og lampi
 🪑	setjast, sitja, stóll
 🚽	klósett, salerni
+🪠	drullusokkur, klósett, pípulagningar, salerni
 🚿	sturta, vatn
 🛁	bað, baðkar, baðker
+🪤	gildra, músagildra, veiði
 🪒	beittur, raka sig, rakhnífur
 🧴	krem, sjampó, sólarvörn, áburðarflaska, áburður
 🧷	bleyja, pönk, sikrisnæla, öryggisnæla
 🧹	kústur, norn, sópa, þrif
 🧺	búskapur, karfa, lautarferð, þvottur
 🧻	klósettpappír, pappírsrúlla, salernispappír
+🪣	fata, skjóla, ílát
 🧼	bað, löður, s´ápudiskur, sápa, sápustykki, þrif
+🪥	baðherbergi, bursti, hreinlæti, hreinn, tannbursti, tannhirða, tennur
 🧽	drekkur í sig, gljúpur, svampur, þrif
 🧯	eldur, kæfa, slökkva, slökkvitæki
 🛒	innkaup, innkaupakerra, innkaupavagn, kerra
 🚬	reykingar, sígaretta
 ⚰️	dauði, líkkista
+🪦	grafsteinn, gröf, kirkjugarður, legsteinn, leiði
 ⚱️	aska, dauði, duftker, jarðarför
 🗿	andlit, moyai, moyai-stytta, stytta
+🪧	kröfuganga, mótmæli, skilti, veggspjald
 🏧	banki, hraðbanki
 🚮	merki, rusl í ruslatunnu, rusl, ruslafata
 🚰	drykkjarvatn, vatn
@@ -2625,8 +2901,22 @@
 📴	farsími, slökkt, slökkt á farsíma, slökkt á síma, sími
 ♀️	konur, kvenkyns, kvenkyns merki, merki
 ♂️	karlar, karlkyns, karlkyns merki, merki
-⚕️	læknavísindi, lækningamerki, lækningar, læknir, merki
+⚧️	trans, transmerki
+✖️	hætta við, margfalda, margföldun, margföldunartákn, tákn, x, ×
+➕	+, merki, plús, plúsmerki, stærðfræði
+➖	-, merki, mínus, mínusmerki, stærðfræði, –
+➗	deiling, deilingarmerki, merki, stærðfræði, ÷
 ♾️	algilt, eilífð, takmarkaleysi, óendanleiki
+‼️	greinarmerki, merki, tvöfalt upphrópunarmerki, upphr´ópunarmerki
+⁉️	!, !?, ?, greinarmerki, interrobang, spurningarmerki, upphrópunarmerki, upphrópunarmerki og spurningarmerki
+❓️	greinarmerki, merki, spurning, spurningarmerki
+❔	greinarmerki, hvítt spurningarmerki, merki, spurning
+❕	greinarmerki, hvítt upphrópunarmerki, merki, upphrópun, útlínur
+❗️	greinarmerki, merki, upphrópun, upphrópunarmerki
+〰️	alda, bugða, bugðustrik, strik
+💱	gjaldmiðlar, gjaldmiðlareikningur, gjaldmiðlaskipti, peningar
+💲	dalur, dollaramerki, dollari, feitletrað dollaramerki, peningar
+⚕️	læknavísindi, lækningamerki, lækningar, læknir, merki
 ♻️	alþjóðlegt endurvinnslumerki, endurvinnsla, endurvinnslumerki
 ⚜	fleur-de-lis, fleur-de-lis-tákn
 🔱	akkeri, skip, tákn, tól, þríforkur
@@ -2636,25 +2926,14 @@
 ✅	hak, hakmerki, hnappur, merki
 ☑️	hak, hakreitur með haki, hakreitur með hakmerki, reitur, ✓
 ✔️	hak, merki, ✓
-✖️	hætta við, margfalda, margföldun, margföldunartákn, tákn, x, ×
 ❌	hætta við, kross, krossmerki, margfalda, margföldun, x, ×
 ❎	ferningur, krosshnappur, merki, ×
-➕	+, merki, plús, plúsmerki, stærðfræði
-➖	-, merki, mínus, mínusmerki, stærðfræði, –
-➗	deiling, deilingarmerki, merki, stærðfræði, ÷
 ➰	lykkja
 ➿	gormur, lykkjur, tvöföld lykkja
 〽️	japanskt upphafsmerki söngs, merki
 ✳️	*, stjarna, áttarma stjarna, áttarma stjörnumerki
 ✴️	stjarna, áttarma stjarna
 ❇️	*, leiftur
-‼️	greinarmerki, merki, tvöfalt upphrópunarmerki, upphr´ópunarmerki
-⁉️	!, !?, ?, greinarmerki, interrobang, spurningarmerki, upphrópunarmerki, upphrópunarmerki og spurningarmerki
-❓️	greinarmerki, merki, spurning, spurningarmerki
-❔	greinarmerki, hvítt spurningarmerki, merki, spurning
-❕	greinarmerki, hvítt upphrópunarmerki, merki, upphrópun, útlínur
-❗️	greinarmerki, merki, upphrópun, upphrópunarmerki
-〰️	alda, bugða, bugðustrik, strik
 ©️	höfundarréttarmerki, höfundarréttarvarið, höfundarréttur
 ®️	skráð, skráð vörumerki
 ™️	skrásett vörumerki, vörumerki
@@ -2750,6 +3029,7 @@
 🏴	blaktandi, blaktandi svartur fáni, svartur fáni
 🏳️	blaktandi, blaktandi hvítur fáni, hvítur fáni
 🏳‍🌈	fáni, gay pride, gleðiganga, regnbogafáni, regnbogi
+🏳‍⚧	bleikur, fáni, hvítur, ljósblár, trans, transfáni
 🏴‍☠	fjársjóður, hausk´úpuflagg, ræna og rupla, sjóræningi, sjóræningjafáni
 🇦🇨	fáni, fáni: Ascension-eyja
 🇦🇩	fáni, fáni: Andorra
@@ -2897,10 +3177,10 @@
 🇲🇨	fáni, fáni: Mónakó
 🇲🇩	fáni, fáni: Moldóva
 🇲🇪	fáni, fáni: Svartfjallaland
-🇲🇫	fáni, fáni: St. Martin
+🇲🇫	fáni, fáni: Saint-Martin
 🇲🇬	fáni, fáni: Madagaskar
 🇲🇭	fáni, fáni: Marshalleyjar
-🇲🇰	fáni, fáni: Makedónía
+🇲🇰	fáni, fáni: Norður-Makedónía
 🇲🇱	fáni, fáni: Malí
 🇲🇲	fáni, fáni: Mjanmar (Búrma)
 🇲🇳	fáni, fáni: Mongólía

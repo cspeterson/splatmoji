@@ -19,6 +19,7 @@
 ☺️	contorno faccina sorridente, emozionarsi, faccina, faccina sorridente, sorridente
 😚	baciare, bacio, faccina, faccina che bacia con occhi chiusi, occhi chiusi
 😙	faccina, faccina che bacia con occhi sorridenti, faccina che manda baci, faccina sorridente
+🥲	emozionato, faccina sorridente con lacrima, grato, lacrima, orgoglioso, rincuorato, sorridente
 😋	buono, cibo delizioso, faccina, faccina che si lecca i baffi, gnam
 😛	faccina, faccina che mostra la lingua, faccina con lingua fuori, linguaccia
 😜	faccina, faccina che fa l’occhiolino e mostra la lingua, linguaccia con occhiolino, occhiolino, scherzo
@@ -46,7 +47,7 @@
 😴	faccina, faccina che dorme, sonno
 😷	faccina, faccina con mascherina, maschera, mascherina
 🤒	ammalato, faccina con termometro, febbre, influenza, termometro
-🤕	bende, dolore, faccina, faccina bendata, farsi male, fasciarsi la testa
+🤕	bende, dolore, faccina, faccina bendata, faccina con la testa bendata, farsi male, fasciarsi la testa
 🤢	faccina, faccina nauseata, nausea, vomito
 🤮	faccina che vomita, nausea, vomito
 🤧	faccina, faccina che starnutisce, raffreddore, starnuto
@@ -57,6 +58,7 @@
 🤯	scioccato, testa che esplode
 🤠	cappello, cowboy, faccina, faccina con cappello da cowboy
 🥳	cappellino, faccina che festeggia, festa, festeggiamenti, party, trombetta
+🥸	faccina, faccina travestita, incognito, naso, occhiali, travestimento
 😎	faccina, faccina con sorriso e occhiali da sole, occhiali da sole, sorriso, spensierato
 🤓	faccina nerd, nerd, occhiali da nerd, secchione, studioso
 🧐	faccina con monocolo, sospetto
@@ -68,11 +70,11 @@
 😯	faccina, faccina sorpresa, sbalordita, sorpresa
 😲	faccina, faccina stupita, scioccata, stupita
 😳	confuso, faccina, faccina con guance rosse, faccina imbarazzata, imbarazzato
-🥺	faccina sull’orlo delle lacrime, implorare, lacrime, quasi in lacrime
+🥺	faccina sull’orlo delle lacrime, faccina supplichevole, implorare, lacrime, quasi in lacrime
 😦	bocca aperta, corrucciata, corrucciata con bocca aperta, faccina, faccina imbronciata con bocca aperta
 😧	angosciata, faccina, faccina angosciata, sofferente
 😨	faccina, faccina impaurita, impaurita, paura
-😰	faccina, faccina blu sudata, faccina frettolosa, sudata
+😰	faccina, faccina blu sudata, faccina frettolosa, faccina sudata in ansia, sudata
 😥	deluso, faccina, faccina delusa ma sollevata, sollevato
 😢	faccina, faccina che piange, lacrime, piangere, triste
 😭	faccina, faccina disperata, lacrime, piangere, pianto
@@ -85,7 +87,7 @@
 😫	faccina, faccina stanca, stanca
 🥱	annoiata, annoiate, annoiati, annoiato, faccina che sbadiglia, mi annoio, noia, sbadigliare, sbadiglio, sonno, stanca, stanche, stanchezza, stanchi, stanco
 😤	arrabbiarsi, faccina, faccina che sbuffa, sbuffare
-😡	arrabbiata, broncio, faccina rossa, imbronciata, muso
+😡	arrabbiata, broncio, faccina accigliata, faccina rossa, imbronciata, muso
 😠	arrabbiata, faccina, faccina arrabbiata, rabbia
 🤬	faccina con simboli sulla bocca, imprecare
 😈	corna, faccina, faccina con sorriso e corna, sorriso
@@ -97,7 +99,7 @@
 👹	faccina, favola, mostro, orco, orco giapponese
 👺	elfo, folletto, goblin, malefico, mostro
 👻	fantasma, favola, halloween, scherzo, storie di fantasmi
-👽️	UFO, alieno, extraterrestre, faccina, favola
+👽️	UFO, alieno, extraterrestre, faccina
 👾	UFO, faccina, favola, mostro, mostro alieno
 🤖	faccina, faccina di robot, robot
 😺	aperta, bocca, faccina, gatto, gatto che sorride
@@ -130,9 +132,9 @@
 💚	cuore, cuore verde, emozione, verde
 💙	azzurro, cuore, cuore azzurro, emozione
 💜	cuore, cuore viola, emozione, viola
-🤎	cuore marrone
+🤎	cuore, cuore marrone, emozione, marrone
 🖤	cuore, cuore nero, dolore, nero, tristezza
-🤍	cuore bianco
+🤍	bianco, cuore, cuore bianco, emozione
 💯	100, 100 punti, punteggio pieno, punti
 💢	arrabbiato, emozione, fumetto, rabbia, simbolo rabbia
 💥	collisione, emozione, fumetto, simbolo collisione
@@ -183,6 +185,12 @@
 👌🏽	OK, carnagione olivastra, mano, mano che fa OK, mano che fa OK: carnagione olivastra, segno di OK
 👌🏾	OK, carnagione abbastanza scura, mano, mano che fa OK, mano che fa OK: carnagione abbastanza scura, segno di OK
 👌🏿	OK, carnagione scura, mano, mano che fa OK, mano che fa OK: carnagione scura, segno di OK
+🤌	dita, dita unite, gesto della mano, interrogativo, mano a pigna, sarcastico
+🤌🏻	carnagione chiara, dita, dita unite, gesto della mano, interrogativo, mano a pigna, mano a pigna: carnagione chiara, sarcastico
+🤌🏼	carnagione abbastanza chiara, dita, dita unite, gesto della mano, interrogativo, mano a pigna, mano a pigna: carnagione abbastanza chiara, sarcastico
+🤌🏽	carnagione olivastra, dita, dita unite, gesto della mano, interrogativo, mano a pigna, mano a pigna: carnagione olivastra, sarcastico
+🤌🏾	carnagione abbastanza scura, dita, dita unite, gesto della mano, interrogativo, mano a pigna, mano a pigna: carnagione abbastanza scura, sarcastico
+🤌🏿	carnagione scura, dita, dita unite, gesto della mano, interrogativo, mano a pigna, mano a pigna: carnagione scura, sarcastico
 🤏	mano che fa il gesto del pizzico, piccola quantità, poco, un pochino, un po’
 🤏🏻	carnagione chiara, mano che fa il gesto del pizzico, mano che fa il gesto del pizzico: carnagione chiara, piccola quantità, poco, un pochino, un po’
 🤏🏼	carnagione abbastanza chiara, mano che fa il gesto del pizzico, mano che fa il gesto del pizzico: carnagione abbastanza chiara, piccola quantità, poco, un pochino, un po’
@@ -379,6 +387,8 @@
 👃🏾	carnagione abbastanza scura, corpo, faccia, naso, naso: carnagione abbastanza scura
 👃🏿	carnagione scura, corpo, faccia, naso, naso: carnagione scura
 🧠	cervello, intelligente
+🫀	battito, cardiologia, cuore, organo, organo del cuore, pulsazione
+🫁	espirazione, inspirazione, organo, polmoni, respirazione, respiro
 🦷	dente, dentista
 🦴	osso, scheletro
 👀	faccia, occhi
@@ -421,6 +431,30 @@
 👱🏽	biondo, carnagione olivastra, persona bionda, persona bionda: carnagione olivastra, persone
 👱🏾	biondo, carnagione abbastanza scura, persona bionda, persona bionda: carnagione abbastanza scura, persone
 👱🏿	biondo, carnagione scura, persona bionda, persona bionda: carnagione scura, persone
+🧑‍🦰	adulto, capelli rossi, persona, persona: capelli rossi
+🧑🏻‍🦰	adulto, capelli rossi, carnagione chiara, persona, persona: carnagione chiara e capelli rossi
+🧑🏼‍🦰	adulto, capelli rossi, carnagione abbastanza chiara, persona, persona: carnagione abbastanza chiara e capelli rossi
+🧑🏽‍🦰	adulto, capelli rossi, carnagione olivastra, persona, persona: carnagione olivastra e capelli rossi
+🧑🏾‍🦰	adulto, capelli rossi, carnagione abbastanza scura, persona, persona: carnagione abbastanza scura e capelli rossi
+🧑🏿‍🦰	adulto, capelli rossi, carnagione scura, persona, persona: carnagione scura e capelli rossi
+🧑‍🦱	adulto, capelli ricci, persona, persona: capelli ricci
+🧑🏻‍🦱	adulto, capelli ricci, carnagione chiara, persona, persona: carnagione chiara e capelli ricci
+🧑🏼‍🦱	adulto, capelli ricci, carnagione abbastanza chiara, persona, persona: carnagione abbastanza chiara e capelli ricci
+🧑🏽‍🦱	adulto, capelli ricci, carnagione olivastra, persona, persona: carnagione olivastra e capelli ricci
+🧑🏾‍🦱	adulto, capelli ricci, carnagione abbastanza scura, persona, persona: carnagione abbastanza scura e capelli ricci
+🧑🏿‍🦱	adulto, capelli ricci, carnagione scura, persona, persona: carnagione scura e capelli ricci
+🧑‍🦳	adulto, capelli bianchi, persona, persona: capelli bianchi
+🧑🏻‍🦳	adulto, capelli bianchi, carnagione chiara, persona, persona: carnagione chiara e capelli bianchi
+🧑🏼‍🦳	adulto, capelli bianchi, carnagione abbastanza chiara, persona, persona: carnagione abbastanza chiara e capelli bianchi
+🧑🏽‍🦳	adulto, capelli bianchi, carnagione olivastra, persona, persona: carnagione olivastra e capelli bianchi
+🧑🏾‍🦳	adulto, capelli bianchi, carnagione abbastanza scura, persona, persona: carnagione abbastanza scura e capelli bianchi
+🧑🏿‍🦳	adulto, capelli bianchi, carnagione scura, persona, persona: carnagione scura e capelli bianchi
+🧑‍🦲	adulto, calvo, persona, persona: calvo
+🧑🏻‍🦲	adulto, calvo, carnagione chiara, persona, persona: carnagione chiara e calvo
+🧑🏼‍🦲	adulto, calvo, carnagione abbastanza chiara, persona, persona: carnagione abbastanza chiara e calvo
+🧑🏽‍🦲	adulto, calvo, carnagione olivastra, persona, persona: carnagione olivastra e calvo
+🧑🏾‍🦲	adulto, calvo, carnagione abbastanza scura, persona, persona: carnagione abbastanza scura e calvo
+🧑🏿‍🦲	adulto, calvo, carnagione scura, persona, persona: carnagione scura e calvo
 👨	maschio, persone, uomo
 👨🏻	carnagione chiara, maschio, persone, uomo, uomo: carnagione chiara
 👨🏼	carnagione abbastanza chiara, maschio, persone, uomo, uomo: carnagione abbastanza chiara
@@ -499,12 +533,12 @@
 👩🏽‍🦲	calvo, carnagione olivastra, donna, donna: carnagione olivastra e calvo, femmina, persone
 👩🏾‍🦲	calvo, carnagione abbastanza scura, donna, donna: carnagione abbastanza scura e calvo, femmina, persone
 👩🏿‍🦲	calvo, carnagione scura, donna, donna: carnagione scura e calvo, femmina, persone
-🧓	adulto anziano, anziano
-🧓🏻	adulto anziano, adulto anziano: carnagione chiara, anziano, carnagione chiara
-🧓🏼	adulto anziano, adulto anziano: carnagione abbastanza chiara, anziano, carnagione abbastanza chiara
-🧓🏽	adulto anziano, adulto anziano: carnagione olivastra, anziano, carnagione olivastra
-🧓🏾	adulto anziano, adulto anziano: carnagione abbastanza scura, anziano, carnagione abbastanza scura
-🧓🏿	adulto anziano, adulto anziano: carnagione scura, anziano, carnagione scura
+🧓	adulto anziano, anziano, persona anziana
+🧓🏻	adulto anziano, anziano, carnagione chiara, persona anziana, persona anziana: carnagione chiara
+🧓🏼	adulto anziano, anziano, carnagione abbastanza chiara, persona anziana, persona anziana: carnagione abbastanza chiara
+🧓🏽	adulto anziano, anziano, carnagione olivastra, persona anziana, persona anziana: carnagione olivastra
+🧓🏾	adulto anziano, anziano, carnagione abbastanza scura, persona anziana, persona anziana: carnagione abbastanza scura
+🧓🏿	adulto anziano, anziano, carnagione scura, persona anziana, persona anziana: carnagione scura
 👴	anziano, nonno, persone, uomo, uomo anziano
 👴🏻	anziano, carnagione chiara, nonno, persone, uomo, uomo anziano: carnagione chiara
 👴🏼	anziano, carnagione abbastanza chiara, nonno, persone, uomo, uomo anziano: carnagione abbastanza chiara
@@ -697,6 +731,12 @@
 🤷🏽‍♀	carnagione olivastra, donna, donna che scrolla le spalle, donna che scrolla le spalle: carnagione olivastra, dubitare, gesto, indifferenza
 🤷🏾‍♀	carnagione abbastanza scura, donna, donna che scrolla le spalle, donna che scrolla le spalle: carnagione abbastanza scura, dubitare, gesto, indifferenza
 🤷🏿‍♀	carnagione scura, donna, donna che scrolla le spalle, donna che scrolla le spalle: carnagione scura, dubitare, gesto, indifferenza
+🧑‍⚕	infermiera, infermiere, medico, persona che lavora nella sanità, sanità, terapista
+🧑🏻‍⚕	carnagione chiara, infermiera, infermiere, medico, persona che lavora nella sanità, persona che lavora nella sanità: carnagione chiara, sanità, terapista
+🧑🏼‍⚕	carnagione abbastanza chiara, infermiera, infermiere, medico, persona che lavora nella sanità, persona che lavora nella sanità: carnagione abbastanza chiara, sanità, terapista
+🧑🏽‍⚕	carnagione olivastra, infermiera, infermiere, medico, persona che lavora nella sanità, persona che lavora nella sanità: carnagione olivastra, sanità, terapista
+🧑🏾‍⚕	carnagione abbastanza scura, infermiera, infermiere, medico, persona che lavora nella sanità, persona che lavora nella sanità: carnagione abbastanza scura, sanità, terapista
+🧑🏿‍⚕	carnagione scura, infermiera, infermiere, medico, persona che lavora nella sanità, persona che lavora nella sanità: carnagione scura, sanità, terapista
 👨‍⚕	camice, dottore, operatore sanitario, ospedale, uomo
 👨🏻‍⚕	camice, carnagione chiara, dottore, operatore sanitario, operatore sanitario: carnagione chiara, ospedale, uomo
 👨🏼‍⚕	camice, carnagione abbastanza chiara, dottore, operatore sanitario, operatore sanitario: carnagione abbastanza chiara, ospedale, uomo
@@ -709,18 +749,30 @@
 👩🏽‍⚕	camice, carnagione olivastra, donna, dottoressa, operatrice sanitaria, operatrice sanitaria: carnagione olivastra, ospedale
 👩🏾‍⚕	camice, carnagione abbastanza scura, donna, dottoressa, operatrice sanitaria, operatrice sanitaria: carnagione abbastanza scura, ospedale
 👩🏿‍⚕	camice, carnagione scura, donna, dottoressa, operatrice sanitaria, operatrice sanitaria: carnagione scura, ospedale
-👨‍🎓	laurea, maschio, ragazzo, studente
-👨🏻‍🎓	carnagione chiara, laurea, maschio, ragazzo, studente, studente: carnagione chiara
-👨🏼‍🎓	carnagione abbastanza chiara, laurea, maschio, ragazzo, studente, studente: carnagione abbastanza chiara
-👨🏽‍🎓	carnagione olivastra, laurea, maschio, ragazzo, studente, studente: carnagione olivastra
-👨🏾‍🎓	carnagione abbastanza scura, laurea, maschio, ragazzo, studente, studente: carnagione abbastanza scura
-👨🏿‍🎓	carnagione scura, laurea, maschio, ragazzo, studente, studente: carnagione scura
+🧑‍🎓	diploma, studente, studentessa
+🧑🏻‍🎓	carnagione chiara, diploma, studente, studente: carnagione chiara, studentessa
+🧑🏼‍🎓	carnagione abbastanza chiara, diploma, studente, studente: carnagione abbastanza chiara, studentessa
+🧑🏽‍🎓	carnagione olivastra, diploma, studente, studente: carnagione olivastra, studentessa
+🧑🏾‍🎓	carnagione abbastanza scura, diploma, studente, studente: carnagione abbastanza scura, studentessa
+🧑🏿‍🎓	carnagione scura, diploma, studente, studente: carnagione scura, studentessa
+👨‍🎓	laurea, maschio, ragazzo, studente, studente maschio
+👨🏻‍🎓	carnagione chiara, laurea, maschio, ragazzo, studente, studente maschio: carnagione chiara
+👨🏼‍🎓	carnagione abbastanza chiara, laurea, maschio, ragazzo, studente, studente maschio: carnagione abbastanza chiara
+👨🏽‍🎓	carnagione olivastra, laurea, maschio, ragazzo, studente, studente maschio: carnagione olivastra
+👨🏾‍🎓	carnagione abbastanza scura, laurea, maschio, ragazzo, studente, studente maschio: carnagione abbastanza scura
+👨🏿‍🎓	carnagione scura, laurea, maschio, ragazzo, studente, studente maschio: carnagione scura
 👩‍🎓	femmina, laurea, ragazza, studentessa
 👩🏻‍🎓	carnagione chiara, femmina, laurea, ragazza, studentessa, studentessa: carnagione chiara
 👩🏼‍🎓	carnagione abbastanza chiara, femmina, laurea, ragazza, studentessa, studentessa: carnagione abbastanza chiara
 👩🏽‍🎓	carnagione olivastra, femmina, laurea, ragazza, studentessa, studentessa: carnagione olivastra
 👩🏾‍🎓	carnagione abbastanza scura, femmina, laurea, ragazza, studentessa, studentessa: carnagione abbastanza scura
 👩🏿‍🎓	carnagione scura, femmina, laurea, ragazza, studentessa, studentessa: carnagione scura
+🧑‍🏫	insegnante, maestra, maestro, professore, professoressa
+🧑🏻‍🏫	carnagione chiara, insegnante, insegnante: carnagione chiara, maestra, maestro, professore, professoressa
+🧑🏼‍🏫	carnagione abbastanza chiara, insegnante, insegnante: carnagione abbastanza chiara, maestra, maestro, professore, professoressa
+🧑🏽‍🏫	carnagione olivastra, insegnante, insegnante: carnagione olivastra, maestra, maestro, professore, professoressa
+🧑🏾‍🏫	carnagione abbastanza scura, insegnante, insegnante: carnagione abbastanza scura, maestra, maestro, professore, professoressa
+🧑🏿‍🏫	carnagione scura, insegnante, insegnante: carnagione scura, maestra, maestro, professore, professoressa
 👨‍🏫	insegnante, professore, scuola, studio
 👨🏻‍🏫	carnagione chiara, insegnante, professore, professore: carnagione chiara, scuola, studio
 👨🏼‍🏫	carnagione abbastanza chiara, insegnante, professore, professore: carnagione abbastanza chiara, scuola, studio
@@ -733,6 +785,12 @@
 👩🏽‍🏫	carnagione olivastra, insegnante, professoressa, professoressa: carnagione olivastra, scuola, studio
 👩🏾‍🏫	carnagione abbastanza scura, insegnante, professoressa, professoressa: carnagione abbastanza scura, scuola, studio
 👩🏿‍🏫	carnagione scura, insegnante, professoressa, professoressa: carnagione scura, scuola, studio
+🧑‍⚖	bilancia, giudice, giustizia
+🧑🏻‍⚖	bilancia, carnagione chiara, giudice, giudice: carnagione chiara, giustizia
+🧑🏼‍⚖	bilancia, carnagione abbastanza chiara, giudice, giudice: carnagione abbastanza chiara, giustizia
+🧑🏽‍⚖	bilancia, carnagione olivastra, giudice, giudice: carnagione olivastra, giustizia
+🧑🏾‍⚖	bilancia, carnagione abbastanza scura, giudice, giudice: carnagione abbastanza scura, giustizia
+🧑🏿‍⚖	bilancia, carnagione scura, giudice, giudice: carnagione scura, giustizia
 👨‍⚖	bilancia, giudice, giudice uomo, giustizia, uomo
 👨🏻‍⚖	bilancia, carnagione chiara, giudice, giudice uomo: carnagione chiara, giustizia, uomo
 👨🏼‍⚖	bilancia, carnagione abbastanza chiara, giudice, giudice uomo: carnagione abbastanza chiara, giustizia, uomo
@@ -745,6 +803,12 @@
 👩🏽‍⚖	bilancia, carnagione olivastra, donna, giudice, giudice donna: carnagione olivastra, giustizia
 👩🏾‍⚖	bilancia, carnagione abbastanza scura, donna, giudice, giudice donna: carnagione abbastanza scura, giustizia
 👩🏿‍⚖	bilancia, carnagione scura, donna, giudice, giudice donna: carnagione scura, giustizia
+🧑‍🌾	agricoltore, allevatore, contadino, giardiniere
+🧑🏻‍🌾	agricoltore, agricoltore: carnagione chiara, allevatore, carnagione chiara, contadino, giardiniere
+🧑🏼‍🌾	agricoltore, agricoltore: carnagione abbastanza chiara, allevatore, carnagione abbastanza chiara, contadino, giardiniere
+🧑🏽‍🌾	agricoltore, agricoltore: carnagione olivastra, allevatore, carnagione olivastra, contadino, giardiniere
+🧑🏾‍🌾	agricoltore, agricoltore: carnagione abbastanza scura, allevatore, carnagione abbastanza scura, contadino, giardiniere
+🧑🏿‍🌾	agricoltore, agricoltore: carnagione scura, allevatore, carnagione scura, contadino, giardiniere
 👨‍🌾	allevatore, contadino, fattoria, uomo
 👨🏻‍🌾	allevatore, carnagione chiara, contadino, contadino: carnagione chiara, fattoria, uomo
 👨🏼‍🌾	allevatore, carnagione abbastanza chiara, contadino, contadino: carnagione abbastanza chiara, fattoria, uomo
@@ -757,6 +821,12 @@
 👩🏽‍🌾	allevatrice, carnagione olivastra, contadina, contadina: carnagione olivastra, donna, fattoria
 👩🏾‍🌾	allevatrice, carnagione abbastanza scura, contadina, contadina: carnagione abbastanza scura, donna, fattoria
 👩🏿‍🌾	allevatrice, carnagione scura, contadina, contadina: carnagione scura, donna, fattoria
+🧑‍🍳	chef, cuoco, persona che cucina
+🧑🏻‍🍳	carnagione chiara, chef, cuoco, persona che cucina, persona che cucina: carnagione chiara
+🧑🏼‍🍳	carnagione abbastanza chiara, chef, cuoco, persona che cucina, persona che cucina: carnagione abbastanza chiara
+🧑🏽‍🍳	carnagione olivastra, chef, cuoco, persona che cucina, persona che cucina: carnagione olivastra
+🧑🏾‍🍳	carnagione abbastanza scura, chef, cuoco, persona che cucina, persona che cucina: carnagione abbastanza scura
+🧑🏿‍🍳	carnagione scura, chef, cuoco, persona che cucina, persona che cucina: carnagione scura
 👨‍🍳	chef, cucinare, cuoco, uomo
 👨🏻‍🍳	carnagione chiara, chef, cucinare, cuoco, cuoco: carnagione chiara, uomo
 👨🏼‍🍳	carnagione abbastanza chiara, chef, cucinare, cuoco, cuoco: carnagione abbastanza chiara, uomo
@@ -769,6 +839,12 @@
 👩🏽‍🍳	carnagione olivastra, chef, cucinare, cuoca, cuoca: carnagione olivastra, donna
 👩🏾‍🍳	carnagione abbastanza scura, chef, cucinare, cuoca, cuoca: carnagione abbastanza scura, donna
 👩🏿‍🍳	carnagione scura, chef, cucinare, cuoca, cuoca: carnagione scura, donna
+🧑‍🔧	elettricista, idraulico, meccanico
+🧑🏻‍🔧	carnagione chiara, elettricista, idraulico, meccanico, meccanico: carnagione chiara
+🧑🏼‍🔧	carnagione abbastanza chiara, elettricista, idraulico, meccanico, meccanico: carnagione abbastanza chiara
+🧑🏽‍🔧	carnagione olivastra, elettricista, idraulico, meccanico, meccanico: carnagione olivastra
+🧑🏾‍🔧	carnagione abbastanza scura, elettricista, idraulico, meccanico, meccanico: carnagione abbastanza scura
+🧑🏿‍🔧	carnagione scura, elettricista, idraulico, meccanico, meccanico: carnagione scura
 👨‍🔧	chiave inglese, idraulico, meccanico, meccanico uomo, uomo
 👨🏻‍🔧	carnagione chiara, chiave inglese, idraulico, meccanico, meccanico uomo: carnagione chiara, uomo
 👨🏼‍🔧	carnagione abbastanza chiara, chiave inglese, idraulico, meccanico, meccanico uomo: carnagione abbastanza chiara, uomo
@@ -781,6 +857,12 @@
 👩🏽‍🔧	carnagione olivastra, chiave inglese, donna, idraulico donna, meccanico, meccanico donna: carnagione olivastra
 👩🏾‍🔧	carnagione abbastanza scura, chiave inglese, donna, idraulico donna, meccanico, meccanico donna: carnagione abbastanza scura
 👩🏿‍🔧	carnagione scura, chiave inglese, donna, idraulico donna, meccanico, meccanico donna: carnagione scura
+🧑‍🏭	assemblaggio, fabbrica, industria, operaio, persona che lavora in fabbrica
+🧑🏻‍🏭	assemblaggio, carnagione chiara, fabbrica, industria, operaio, persona che lavora in fabbrica, persona che lavora in fabbrica: carnagione chiara
+🧑🏼‍🏭	assemblaggio, carnagione abbastanza chiara, fabbrica, industria, operaio, persona che lavora in fabbrica, persona che lavora in fabbrica: carnagione abbastanza chiara
+🧑🏽‍🏭	assemblaggio, carnagione olivastra, fabbrica, industria, operaio, persona che lavora in fabbrica, persona che lavora in fabbrica: carnagione olivastra
+🧑🏾‍🏭	assemblaggio, carnagione abbastanza scura, fabbrica, industria, operaio, persona che lavora in fabbrica, persona che lavora in fabbrica: carnagione abbastanza scura
+🧑🏿‍🏭	assemblaggio, carnagione scura, fabbrica, industria, operaio, persona che lavora in fabbrica, persona che lavora in fabbrica: carnagione scura
 👨‍🏭	fabbrica, industria, operaio, uomo
 👨🏻‍🏭	carnagione chiara, fabbrica, industria, operaio, operaio: carnagione chiara, uomo
 👨🏼‍🏭	carnagione abbastanza chiara, fabbrica, industria, operaio, operaio: carnagione abbastanza chiara, uomo
@@ -793,6 +875,12 @@
 👩🏽‍🏭	carnagione olivastra, donna, fabbrica, industria, operaia, operaia: carnagione olivastra
 👩🏾‍🏭	carnagione abbastanza scura, donna, fabbrica, industria, operaia, operaia: carnagione abbastanza scura
 👩🏿‍🏭	carnagione scura, donna, fabbrica, industria, operaia, operaia: carnagione scura
+🧑‍💼	architetto, business, impiegato, manager, persona che fa un lavoro d’ufficio
+🧑🏻‍💼	architetto, business, carnagione chiara, impiegato, manager, persona che fa un lavoro d’ufficio, persona che fa un lavoro d’ufficio: carnagione chiara
+🧑🏼‍💼	architetto, business, carnagione abbastanza chiara, impiegato, manager, persona che fa un lavoro d’ufficio, persona che fa un lavoro d’ufficio: carnagione abbastanza chiara
+🧑🏽‍💼	architetto, business, carnagione olivastra, impiegato, manager, persona che fa un lavoro d’ufficio, persona che fa un lavoro d’ufficio: carnagione olivastra
+🧑🏾‍💼	architetto, business, carnagione abbastanza scura, impiegato, manager, persona che fa un lavoro d’ufficio, persona che fa un lavoro d’ufficio: carnagione abbastanza scura
+🧑🏿‍💼	architetto, business, carnagione scura, impiegato, manager, persona che fa un lavoro d’ufficio, persona che fa un lavoro d’ufficio: carnagione scura
 👨‍💼	business, impiegato, manager, ufficio, uomo
 👨🏻‍💼	business, carnagione chiara, impiegato, impiegato: carnagione chiara, manager, ufficio, uomo
 👨🏼‍💼	business, carnagione abbastanza chiara, impiegato, impiegato: carnagione abbastanza chiara, manager, ufficio, uomo
@@ -805,6 +893,12 @@
 👩🏽‍💼	business, carnagione olivastra, donna, impiegata, impiegata: carnagione olivastra, manager, ufficio
 👩🏾‍💼	business, carnagione abbastanza scura, donna, impiegata, impiegata: carnagione abbastanza scura, manager, ufficio
 👩🏿‍💼	business, carnagione scura, donna, impiegata, impiegata: carnagione scura, manager, ufficio
+🧑‍🔬	biologo, chimico, fisico, ingegnere, persona che lavora in campo scientifico, scienziato
+🧑🏻‍🔬	biologo, carnagione chiara, chimico, fisico, ingegnere, persona che lavora in campo scientifico, persona che lavora in campo scientifico: carnagione chiara, scienziato
+🧑🏼‍🔬	biologo, carnagione abbastanza chiara, chimico, fisico, ingegnere, persona che lavora in campo scientifico, persona che lavora in campo scientifico: carnagione abbastanza chiara, scienziato
+🧑🏽‍🔬	biologo, carnagione olivastra, chimico, fisico, ingegnere, persona che lavora in campo scientifico, persona che lavora in campo scientifico: carnagione olivastra, scienziato
+🧑🏾‍🔬	biologo, carnagione abbastanza scura, chimico, fisico, ingegnere, persona che lavora in campo scientifico, persona che lavora in campo scientifico: carnagione abbastanza scura, scienziato
+🧑🏿‍🔬	biologo, carnagione scura, chimico, fisico, ingegnere, persona che lavora in campo scientifico, persona che lavora in campo scientifico: carnagione scura, scienziato
 👨‍🔬	biologia, chimica, scienza, scienziato, uomo
 👨🏻‍🔬	biologia, carnagione chiara, chimica, scienza, scienziato, scienziato: carnagione chiara, uomo
 👨🏼‍🔬	biologia, carnagione abbastanza chiara, chimica, scienza, scienziato, scienziato: carnagione abbastanza chiara, uomo
@@ -817,6 +911,12 @@
 👩🏽‍🔬	biologia, carnagione olivastra, chimica, donna, scienza, scienziata, scienziata: carnagione olivastra
 👩🏾‍🔬	biologia, carnagione abbastanza scura, chimica, donna, scienza, scienziata, scienziata: carnagione abbastanza scura
 👩🏿‍🔬	biologia, carnagione scura, chimica, donna, scienza, scienziata, scienziata: carnagione scura
+🧑‍💻	inventore, persona esperta di tecnologia, programmatore, software, sviluppatore, tecnologo
+🧑🏻‍💻	carnagione chiara, inventore, persona esperta di tecnologia, persona esperta di tecnologia: carnagione chiara, programmatore, software, sviluppatore, tecnologo
+🧑🏼‍💻	carnagione abbastanza chiara, inventore, persona esperta di tecnologia, persona esperta di tecnologia: carnagione abbastanza chiara, programmatore, software, sviluppatore, tecnologo
+🧑🏽‍💻	carnagione olivastra, inventore, persona esperta di tecnologia, persona esperta di tecnologia: carnagione olivastra, programmatore, software, sviluppatore, tecnologo
+🧑🏾‍💻	carnagione abbastanza scura, inventore, persona esperta di tecnologia, persona esperta di tecnologia: carnagione abbastanza scura, programmatore, software, sviluppatore, tecnologo
+🧑🏿‍💻	carnagione scura, inventore, persona esperta di tecnologia, persona esperta di tecnologia: carnagione scura, programmatore, software, sviluppatore, tecnologo
 👨‍💻	computer, programmatore, sviluppatore, tecnologo, uomo
 👨🏻‍💻	carnagione chiara, computer, programmatore, sviluppatore, tecnologo, tecnologo: carnagione chiara, uomo
 👨🏼‍💻	carnagione abbastanza chiara, computer, programmatore, sviluppatore, tecnologo, tecnologo: carnagione abbastanza chiara, uomo
@@ -829,6 +929,12 @@
 👩🏽‍💻	carnagione olivastra, computer, donna, programmatrice, sviluppatrice, tecnologa, tecnologa: carnagione olivastra
 👩🏾‍💻	carnagione abbastanza scura, computer, donna, programmatrice, sviluppatrice, tecnologa, tecnologa: carnagione abbastanza scura
 👩🏿‍💻	carnagione scura, computer, donna, programmatrice, sviluppatrice, tecnologa, tecnologa: carnagione scura
+🧑‍🎤	attore, cantante, intrattenitore, rock, star
+🧑🏻‍🎤	attore, cantante, cantante: carnagione chiara, carnagione chiara, intrattenitore, rock, star
+🧑🏼‍🎤	attore, cantante, cantante: carnagione abbastanza chiara, carnagione abbastanza chiara, intrattenitore, rock, star
+🧑🏽‍🎤	attore, cantante, cantante: carnagione olivastra, carnagione olivastra, intrattenitore, rock, star
+🧑🏾‍🎤	attore, cantante, cantante: carnagione abbastanza scura, carnagione abbastanza scura, intrattenitore, rock, star
+🧑🏿‍🎤	attore, cantante, cantante: carnagione scura, carnagione scura, intrattenitore, rock, star
 👨‍🎤	attore, cantante, cantante uomo, musica, star
 👨🏻‍🎤	attore, cantante, cantante uomo, cantante uomo: carnagione chiara, carnagione chiara, musica, star
 👨🏼‍🎤	attore, cantante, cantante uomo, cantante uomo: carnagione abbastanza chiara, carnagione abbastanza chiara, musica, star
@@ -841,6 +947,12 @@
 👩🏽‍🎤	attrice, cantante, cantante donna, cantante donna: carnagione olivastra, carnagione olivastra, musica, star
 👩🏾‍🎤	attrice, cantante, cantante donna, cantante donna: carnagione abbastanza scura, carnagione abbastanza scura, musica, star
 👩🏿‍🎤	attrice, cantante, cantante donna, cantante donna: carnagione scura, carnagione scura, musica, star
+🧑‍🎨	artista, tavolozza
+🧑🏻‍🎨	artista, artista: carnagione chiara, carnagione chiara, tavolozza
+🧑🏼‍🎨	artista, artista: carnagione abbastanza chiara, carnagione abbastanza chiara, tavolozza
+🧑🏽‍🎨	artista, artista: carnagione olivastra, carnagione olivastra, tavolozza
+🧑🏾‍🎨	artista, artista: carnagione abbastanza scura, carnagione abbastanza scura, tavolozza
+🧑🏿‍🎨	artista, artista: carnagione scura, carnagione scura, tavolozza
 👨‍🎨	arte, artista, artista uomo, pittore, uomo
 👨🏻‍🎨	arte, artista, artista uomo: carnagione chiara, carnagione chiara, pittore, uomo
 👨🏼‍🎨	arte, artista, artista uomo: carnagione abbastanza chiara, carnagione abbastanza chiara, pittore, uomo
@@ -853,6 +965,12 @@
 👩🏽‍🎨	arte, artista, artista donna: carnagione olivastra, carnagione olivastra, donna, pittrice
 👩🏾‍🎨	arte, artista, artista donna: carnagione abbastanza scura, carnagione abbastanza scura, donna, pittrice
 👩🏿‍🎨	arte, artista, artista donna: carnagione scura, carnagione scura, donna, pittrice
+🧑‍✈	aereo, pilota
+🧑🏻‍✈	aereo, carnagione chiara, pilota, pilota: carnagione chiara
+🧑🏼‍✈	aereo, carnagione abbastanza chiara, pilota, pilota: carnagione abbastanza chiara
+🧑🏽‍✈	aereo, carnagione olivastra, pilota, pilota: carnagione olivastra
+🧑🏾‍✈	aereo, carnagione abbastanza scura, pilota, pilota: carnagione abbastanza scura
+🧑🏿‍✈	aereo, carnagione scura, pilota, pilota: carnagione scura
 👨‍✈	aereo, aeroplano, pilota, pilota uomo, uomo
 👨🏻‍✈	aereo, aeroplano, carnagione chiara, pilota, pilota uomo: carnagione chiara, uomo
 👨🏼‍✈	aereo, aeroplano, carnagione abbastanza chiara, pilota, pilota uomo: carnagione abbastanza chiara, uomo
@@ -865,6 +983,12 @@
 👩🏽‍✈	aereo, aeroplano, carnagione olivastra, donna, pilota, pilota donna: carnagione olivastra
 👩🏾‍✈	aereo, aeroplano, carnagione abbastanza scura, donna, pilota, pilota donna: carnagione abbastanza scura
 👩🏿‍✈	aereo, aeroplano, carnagione scura, donna, pilota, pilota donna: carnagione scura
+🧑‍🚀	astronauta, razzo
+🧑🏻‍🚀	astronauta, astronauta: carnagione chiara, carnagione chiara, razzo
+🧑🏼‍🚀	astronauta, astronauta: carnagione abbastanza chiara, carnagione abbastanza chiara, razzo
+🧑🏽‍🚀	astronauta, astronauta: carnagione olivastra, carnagione olivastra, razzo
+🧑🏾‍🚀	astronauta, astronauta: carnagione abbastanza scura, carnagione abbastanza scura, razzo
+🧑🏿‍🚀	astronauta, astronauta: carnagione scura, carnagione scura, razzo
 👨‍🚀	astronauta, astronauta uomo, razzo, spazio, uomo
 👨🏻‍🚀	astronauta, astronauta uomo: carnagione chiara, carnagione chiara, razzo, spazio, uomo
 👨🏼‍🚀	astronauta, astronauta uomo: carnagione abbastanza chiara, carnagione abbastanza chiara, razzo, spazio, uomo
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronauta, astronauta donna: carnagione olivastra, carnagione olivastra, donna, razzo, spazio
 👩🏾‍🚀	astronauta, astronauta donna: carnagione abbastanza scura, carnagione abbastanza scura, donna, razzo, spazio
 👩🏿‍🚀	astronauta, astronauta donna: carnagione scura, carnagione scura, donna, razzo, spazio
+🧑‍🚒	pompiere, vigile del fuoco
+🧑🏻‍🚒	carnagione chiara, pompiere, pompiere: carnagione chiara, vigile del fuoco
+🧑🏼‍🚒	carnagione abbastanza chiara, pompiere, pompiere: carnagione abbastanza chiara, vigile del fuoco
+🧑🏽‍🚒	carnagione olivastra, pompiere, pompiere: carnagione olivastra, vigile del fuoco
+🧑🏾‍🚒	carnagione abbastanza scura, pompiere, pompiere: carnagione abbastanza scura, vigile del fuoco
+🧑🏿‍🚒	carnagione scura, pompiere, pompiere: carnagione scura, vigile del fuoco
 👨‍🚒	incendio, pompiere, pompiere uomo, uomo, vigile del fuoco
 👨🏻‍🚒	carnagione chiara, incendio, pompiere, pompiere uomo: carnagione chiara, uomo, vigile del fuoco
 👨🏼‍🚒	carnagione abbastanza chiara, incendio, pompiere, pompiere uomo: carnagione abbastanza chiara, uomo, vigile del fuoco
@@ -943,6 +1073,7 @@
 💂🏽‍♀	carnagione olivastra, donna, femmina, guardia, guardia donna: carnagione olivastra
 💂🏾‍♀	carnagione abbastanza scura, donna, femmina, guardia, guardia donna: carnagione abbastanza scura
 💂🏿‍♀	carnagione scura, donna, femmina, guardia, guardia donna: carnagione scura
+🥷	guerriero, invisibile, nascosto, ninja
 👷	edile, operaio, operaio edile, persone
 👷🏻	carnagione chiara, edile, operaio, operaio edile: carnagione chiara, persone
 👷🏼	carnagione abbastanza chiara, edile, operaio, operaio edile: carnagione abbastanza chiara, persone
@@ -1003,18 +1134,42 @@
 🧕🏽	carnagione olivastra, donna con foulard, donna con hijab, donna con velo, donna con velo: carnagione olivastra
 🧕🏾	carnagione abbastanza scura, donna con foulard, donna con hijab, donna con velo, donna con velo: carnagione abbastanza scura
 🧕🏿	carnagione scura, donna con foulard, donna con hijab, donna con velo, donna con velo: carnagione scura
-🤵	smoking, sposo, uomo, uomo in smoking
-🤵🏻	carnagione chiara, smoking, sposo, uomo, uomo in smoking, uomo in smoking: carnagione chiara
-🤵🏼	carnagione abbastanza chiara, smoking, sposo, uomo, uomo in smoking, uomo in smoking: carnagione abbastanza chiara
-🤵🏽	carnagione olivastra, smoking, sposo, uomo, uomo in smoking, uomo in smoking: carnagione olivastra
-🤵🏾	carnagione abbastanza scura, smoking, sposo, uomo, uomo in smoking, uomo in smoking: carnagione abbastanza scura
-🤵🏿	carnagione scura, smoking, sposo, uomo, uomo in smoking, uomo in smoking: carnagione scura
-👰	matrimonio persone, sposa, sposa con il velo, velo
-👰🏻	carnagione chiara, matrimonio persone, sposa, sposa con il velo, sposa: carnagione chiara, velo
-👰🏼	carnagione abbastanza chiara, matrimonio persone, sposa, sposa con il velo, sposa: carnagione abbastanza chiara, velo
-👰🏽	carnagione olivastra, matrimonio persone, sposa, sposa con il velo, sposa: carnagione olivastra, velo
-👰🏾	carnagione abbastanza scura, matrimonio persone, sposa, sposa con il velo, sposa: carnagione abbastanza scura, velo
-👰🏿	carnagione scura, matrimonio persone, sposa, sposa con il velo, sposa: carnagione scura, velo
+🤵	persona, persona in smoking, smoking, sposo
+🤵🏻	carnagione chiara, persona, persona in smoking, persona in smoking: carnagione chiara, smoking, sposo
+🤵🏼	carnagione abbastanza chiara, persona, persona in smoking, persona in smoking: carnagione abbastanza chiara, smoking, sposo
+🤵🏽	carnagione olivastra, persona, persona in smoking, persona in smoking: carnagione olivastra, smoking, sposo
+🤵🏾	carnagione abbastanza scura, persona, persona in smoking, persona in smoking: carnagione abbastanza scura, smoking, sposo
+🤵🏿	carnagione scura, persona, persona in smoking, persona in smoking: carnagione scura, smoking, sposo
+🤵‍♂	smoking, uomo, uomo in smoking
+🤵🏻‍♂	carnagione chiara, smoking, uomo, uomo in smoking, uomo in smoking: carnagione chiara
+🤵🏼‍♂	carnagione abbastanza chiara, smoking, uomo, uomo in smoking, uomo in smoking: carnagione abbastanza chiara
+🤵🏽‍♂	carnagione olivastra, smoking, uomo, uomo in smoking, uomo in smoking: carnagione olivastra
+🤵🏾‍♂	carnagione abbastanza scura, smoking, uomo, uomo in smoking, uomo in smoking: carnagione abbastanza scura
+🤵🏿‍♂	carnagione scura, smoking, uomo, uomo in smoking, uomo in smoking: carnagione scura
+🤵‍♀	donna, donna in smoking, smoking
+🤵🏻‍♀	carnagione chiara, donna, donna in smoking, donna in smoking: carnagione chiara, smoking
+🤵🏼‍♀	carnagione abbastanza chiara, donna, donna in smoking, donna in smoking: carnagione abbastanza chiara, smoking
+🤵🏽‍♀	carnagione olivastra, donna, donna in smoking, donna in smoking: carnagione olivastra, smoking
+🤵🏾‍♀	carnagione abbastanza scura, donna, donna in smoking, donna in smoking: carnagione abbastanza scura, smoking
+🤵🏿‍♀	carnagione scura, donna, donna in smoking, donna in smoking: carnagione scura, smoking
+👰	matrimonio persone, persona con velo, sposa, sposa con il velo, velo
+👰🏻	carnagione chiara, matrimonio persone, persona con velo, persona con velo: carnagione chiara, sposa, sposa con il velo, velo
+👰🏼	carnagione abbastanza chiara, matrimonio persone, persona con velo, persona con velo: carnagione abbastanza chiara, sposa, sposa con il velo, velo
+👰🏽	carnagione olivastra, matrimonio persone, persona con velo, persona con velo: carnagione olivastra, sposa, sposa con il velo, velo
+👰🏾	carnagione abbastanza scura, matrimonio persone, persona con velo, persona con velo: carnagione abbastanza scura, sposa, sposa con il velo, velo
+👰🏿	carnagione scura, matrimonio persone, persona con velo, persona con velo: carnagione scura, sposa, sposa con il velo, velo
+👰‍♂	sposo, sposo con velo, velo
+👰🏻‍♂	carnagione chiara, sposo, sposo con velo, sposo con velo: carnagione chiara, velo
+👰🏼‍♂	carnagione abbastanza chiara, sposo, sposo con velo, sposo con velo: carnagione abbastanza chiara, velo
+👰🏽‍♂	carnagione olivastra, sposo, sposo con velo, sposo con velo: carnagione olivastra, velo
+👰🏾‍♂	carnagione abbastanza scura, sposo, sposo con velo, sposo con velo: carnagione abbastanza scura, velo
+👰🏿‍♂	carnagione scura, sposo, sposo con velo, sposo con velo: carnagione scura, velo
+👰‍♀	sposa, sposa con velo, velo
+👰🏻‍♀	carnagione chiara, sposa, sposa con velo, sposa con velo: carnagione chiara, velo
+👰🏼‍♀	carnagione abbastanza chiara, sposa, sposa con velo, sposa con velo: carnagione abbastanza chiara, velo
+👰🏽‍♀	carnagione olivastra, sposa, sposa con velo, sposa con velo: carnagione olivastra, velo
+👰🏾‍♀	carnagione abbastanza scura, sposa, sposa con velo, sposa con velo: carnagione abbastanza scura, velo
+👰🏿‍♀	carnagione scura, sposa, sposa con velo, sposa con velo: carnagione scura, velo
 🤰	donna, donna incinta, gravidanza, incinta
 🤰🏻	carnagione chiara, donna, donna incinta: carnagione chiara, gravidanza, incinta
 🤰🏼	carnagione abbastanza chiara, donna, donna incinta: carnagione abbastanza chiara, gravidanza, incinta
@@ -1027,6 +1182,24 @@
 🤱🏽	allattamento, allattare, allattare al seno, allattare: carnagione olivastra, carnagione olivastra
 🤱🏾	allattamento, allattare, allattare al seno, allattare: carnagione abbastanza scura, carnagione abbastanza scura
 🤱🏿	allattamento, allattare, allattare al seno, allattare: carnagione scura, carnagione scura
+👩‍🍼	allattamento, bebè, donna, donna che allatta, nutrire
+👩🏻‍🍼	allattamento, bebè, carnagione chiara, donna, donna che allatta, donna che allatta: carnagione chiara, nutrire
+👩🏼‍🍼	allattamento, bebè, carnagione abbastanza chiara, donna, donna che allatta, donna che allatta: carnagione abbastanza chiara, nutrire
+👩🏽‍🍼	allattamento, bebè, carnagione olivastra, donna, donna che allatta, donna che allatta: carnagione olivastra, nutrire
+👩🏾‍🍼	allattamento, bebè, carnagione abbastanza scura, donna, donna che allatta, donna che allatta: carnagione abbastanza scura, nutrire
+👩🏿‍🍼	allattamento, bebè, carnagione scura, donna, donna che allatta, donna che allatta: carnagione scura, nutrire
+👨‍🍼	allattamento, bebè, nutrire, uomo, uomo che allatta
+👨🏻‍🍼	allattamento, bebè, carnagione chiara, nutrire, uomo, uomo che allatta, uomo che allatta: carnagione chiara
+👨🏼‍🍼	allattamento, bebè, carnagione abbastanza chiara, nutrire, uomo, uomo che allatta, uomo che allatta: carnagione abbastanza chiara
+👨🏽‍🍼	allattamento, bebè, carnagione olivastra, nutrire, uomo, uomo che allatta, uomo che allatta: carnagione olivastra
+👨🏾‍🍼	allattamento, bebè, carnagione abbastanza scura, nutrire, uomo, uomo che allatta, uomo che allatta: carnagione abbastanza scura
+👨🏿‍🍼	allattamento, bebè, carnagione scura, nutrire, uomo, uomo che allatta, uomo che allatta: carnagione scura
+🧑‍🍼	allattamento, bebè, nutrire, persona, persona che allatta
+🧑🏻‍🍼	allattamento, bebè, carnagione chiara, nutrire, persona, persona che allatta, persona che allatta: carnagione chiara
+🧑🏼‍🍼	allattamento, bebè, carnagione abbastanza chiara, nutrire, persona, persona che allatta, persona che allatta: carnagione abbastanza chiara
+🧑🏽‍🍼	allattamento, bebè, carnagione olivastra, nutrire, persona, persona che allatta, persona che allatta: carnagione olivastra
+🧑🏾‍🍼	allattamento, bebè, carnagione abbastanza scura, nutrire, persona, persona che allatta, persona che allatta: carnagione abbastanza scura
+🧑🏿‍🍼	allattamento, bebè, carnagione scura, nutrire, persona, persona che allatta, persona che allatta: carnagione scura
 👼	angelo, angioletto, faccina, favola
 👼🏻	angelo, angioletto, angioletto: carnagione chiara, carnagione chiara, faccina, favola
 👼🏼	angelo, angioletto, angioletto: carnagione abbastanza chiara, carnagione abbastanza chiara, faccina, favola
@@ -1045,6 +1218,12 @@
 🤶🏽	Mamma Natale, Mamma Natale: carnagione olivastra, carnagione olivastra, mamma natale, natale
 🤶🏾	Mamma Natale, Mamma Natale: carnagione abbastanza scura, carnagione abbastanza scura, mamma natale, natale
 🤶🏿	Mamma Natale, Mamma Natale: carnagione scura, carnagione scura, mamma natale, natale
+🧑‍🎄	Claus, Natale, Santa Claus
+🧑🏻‍🎄	Claus, Natale, Santa Claus, Santa Claus: carnagione chiara, carnagione chiara
+🧑🏼‍🎄	Claus, Natale, Santa Claus, Santa Claus: carnagione abbastanza chiara, carnagione abbastanza chiara
+🧑🏽‍🎄	Claus, Natale, Santa Claus, Santa Claus: carnagione olivastra, carnagione olivastra
+🧑🏾‍🎄	Claus, Natale, Santa Claus, Santa Claus: carnagione abbastanza scura, carnagione abbastanza scura
+🧑🏿‍🎄	Claus, Natale, Santa Claus, Santa Claus: carnagione scura, carnagione scura
 🦸	eroina, supereroe, supereroina, superpoteri
 🦸🏻	carnagione chiara, eroina, supereroe, supereroe: carnagione chiara, supereroina, superpoteri
 🦸🏼	carnagione abbastanza chiara, eroina, supereroe, supereroe: carnagione abbastanza chiara, supereroina, superpoteri
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	carnagione olivastra, donna, donna inginocchiata, donna inginocchiata: carnagione olivastra, in ginocchio, inginocchiarsi
 🧎🏾‍♀	carnagione abbastanza scura, donna, donna inginocchiata, donna inginocchiata: carnagione abbastanza scura, in ginocchio, inginocchiarsi
 🧎🏿‍♀	carnagione scura, donna, donna inginocchiata, donna inginocchiata: carnagione scura, in ginocchio, inginocchiarsi
+🧑‍🦯	accessibilità, cecità, persona con bastone di orientamento
+🧑🏻‍🦯	accessibilità, carnagione chiara, cecità, persona con bastone di orientamento, persona con bastone di orientamento: carnagione chiara
+🧑🏼‍🦯	accessibilità, carnagione abbastanza chiara, cecità, persona con bastone di orientamento, persona con bastone di orientamento: carnagione abbastanza chiara
+🧑🏽‍🦯	accessibilità, carnagione olivastra, cecità, persona con bastone di orientamento, persona con bastone di orientamento: carnagione olivastra
+🧑🏾‍🦯	accessibilità, carnagione abbastanza scura, cecità, persona con bastone di orientamento, persona con bastone di orientamento: carnagione abbastanza scura
+🧑🏿‍🦯	accessibilità, carnagione scura, cecità, persona con bastone di orientamento, persona con bastone di orientamento: carnagione scura
 👨‍🦯	accessibilità, cecità, ciechi, cieco, ipovedente, ipovedenti, non vedente, non vedenti, uomo, uomo con bastone bianco di orientamento
 👨🏻‍🦯	accessibilità, carnagione chiara, cecità, ciechi, cieco, ipovedente, ipovedenti, non vedente, non vedenti, uomo, uomo con bastone bianco di orientamento, uomo con bastone bianco di orientamento: carnagione chiara
 👨🏼‍🦯	accessibilità, carnagione abbastanza chiara, cecità, ciechi, cieco, ipovedente, ipovedenti, non vedente, non vedenti, uomo, uomo con bastone bianco di orientamento, uomo con bastone bianco di orientamento: carnagione abbastanza chiara
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	accessibilità, carnagione olivastra, cecità, cieca, cieche, donna con bastone bianco di orientamento, donna con bastone bianco di orientamento: carnagione olivastra, donna non vedente, donne non vedenti, ipovedente, ipovedenti
 👩🏾‍🦯	accessibilità, carnagione abbastanza scura, cecità, cieca, cieche, donna con bastone bianco di orientamento, donna con bastone bianco di orientamento: carnagione abbastanza scura, donna non vedente, donne non vedenti, ipovedente, ipovedenti
 👩🏿‍🦯	accessibilità, carnagione scura, cecità, cieca, cieche, donna con bastone bianco di orientamento, donna con bastone bianco di orientamento: carnagione scura, donna non vedente, donne non vedenti, ipovedente, ipovedenti
+🧑‍🦼	accessibilità, persona su sedia a rotelle motorizzata, sedia a rotelle
+🧑🏻‍🦼	accessibilità, carnagione chiara, persona su sedia a rotelle motorizzata, persona su sedia a rotelle motorizzata: carnagione chiara, sedia a rotelle
+🧑🏼‍🦼	accessibilità, carnagione abbastanza chiara, persona su sedia a rotelle motorizzata, persona su sedia a rotelle motorizzata: carnagione abbastanza chiara, sedia a rotelle
+🧑🏽‍🦼	accessibilità, carnagione olivastra, persona su sedia a rotelle motorizzata, persona su sedia a rotelle motorizzata: carnagione olivastra, sedia a rotelle
+🧑🏾‍🦼	accessibilità, carnagione abbastanza scura, persona su sedia a rotelle motorizzata, persona su sedia a rotelle motorizzata: carnagione abbastanza scura, sedia a rotelle
+🧑🏿‍🦼	accessibilità, carnagione scura, persona su sedia a rotelle motorizzata, persona su sedia a rotelle motorizzata: carnagione scura, sedia a rotelle
 👨‍🦼	accessibilità, uomo in carrozzina, uomo in sedia a rotelle, uomo su sedia a rotelle motorizzata
 👨🏻‍🦼	accessibilità, carnagione chiara, uomo in carrozzina, uomo in sedia a rotelle, uomo su sedia a rotelle motorizzata, uomo su sedia a rotelle motorizzata: carnagione chiara
 👨🏼‍🦼	accessibilità, carnagione abbastanza chiara, uomo in carrozzina, uomo in sedia a rotelle, uomo su sedia a rotelle motorizzata, uomo su sedia a rotelle motorizzata: carnagione abbastanza chiara
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	accessibilità, carnagione olivastra, donna in carrozzina, donna in sedia a rotelle, donna su sedia a rotelle motorizzata, donna su sedia a rotelle motorizzata: carnagione olivastra
 👩🏾‍🦼	accessibilità, carnagione abbastanza scura, donna in carrozzina, donna in sedia a rotelle, donna su sedia a rotelle motorizzata, donna su sedia a rotelle motorizzata: carnagione abbastanza scura
 👩🏿‍🦼	accessibilità, carnagione scura, donna in carrozzina, donna in sedia a rotelle, donna su sedia a rotelle motorizzata, donna su sedia a rotelle motorizzata: carnagione scura
+🧑‍🦽	accessibilità, persona su sedia a rotelle manuale, sedia a rotelle
+🧑🏻‍🦽	accessibilità, carnagione chiara, persona su sedia a rotelle manuale, persona su sedia a rotelle manuale: carnagione chiara, sedia a rotelle
+🧑🏼‍🦽	accessibilità, carnagione abbastanza chiara, persona su sedia a rotelle manuale, persona su sedia a rotelle manuale: carnagione abbastanza chiara, sedia a rotelle
+🧑🏽‍🦽	accessibilità, carnagione olivastra, persona su sedia a rotelle manuale, persona su sedia a rotelle manuale: carnagione olivastra, sedia a rotelle
+🧑🏾‍🦽	accessibilità, carnagione abbastanza scura, persona su sedia a rotelle manuale, persona su sedia a rotelle manuale: carnagione abbastanza scura, sedia a rotelle
+🧑🏿‍🦽	accessibilità, carnagione scura, persona su sedia a rotelle manuale, persona su sedia a rotelle manuale: carnagione scura, sedia a rotelle
 👨‍🦽	accessibilità, uomo in carrozzina, uomo in sedia a rotelle, uomo su sedia a rotelle manuale
 👨🏻‍🦽	accessibilità, carnagione chiara, uomo in carrozzina, uomo in sedia a rotelle, uomo su sedia a rotelle manuale, uomo su sedia a rotelle manuale: carnagione chiara
 👨🏼‍🦽	accessibilità, carnagione abbastanza chiara, uomo in carrozzina, uomo in sedia a rotelle, uomo su sedia a rotelle manuale, uomo su sedia a rotelle manuale: carnagione abbastanza chiara
@@ -1641,33 +1838,53 @@
 🛌🏽	carnagione olivastra, dormire, hotel, letto, notte, persona a letto, persona a letto: carnagione olivastra
 🛌🏾	carnagione abbastanza scura, dormire, hotel, letto, notte, persona a letto, persona a letto: carnagione abbastanza scura
 🛌🏿	carnagione scura, dormire, hotel, letto, notte, persona a letto, persona a letto: carnagione scura
-🧑‍🤝‍🧑	persone che si tengono per mano
-🧑🏻‍🤝‍🧑🏻	carnagione chiara, persone che si tengono per mano, persone che si tengono per mano: carnagione chiara
-🧑🏼‍🤝‍🧑🏻	carnagione abbastanza chiara, carnagione chiara, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza chiara e carnagione chiara
-🧑🏼‍🤝‍🧑🏼	carnagione abbastanza chiara, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza chiara
-🧑🏽‍🤝‍🧑🏻	carnagione chiara, carnagione olivastra, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra e carnagione chiara
-🧑🏽‍🤝‍🧑🏼	carnagione abbastanza chiara, carnagione olivastra, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra e carnagione abbastanza chiara
-🧑🏽‍🤝‍🧑🏽	carnagione olivastra, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra
-🧑🏾‍🤝‍🧑🏻	carnagione abbastanza scura, carnagione chiara, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura e carnagione chiara
-🧑🏾‍🤝‍🧑🏼	carnagione abbastanza chiara, carnagione abbastanza scura, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura e carnagione abbastanza chiara
-🧑🏾‍🤝‍🧑🏽	carnagione abbastanza scura, carnagione olivastra, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura e carnagione olivastra
-🧑🏾‍🤝‍🧑🏾	carnagione abbastanza scura, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura
-🧑🏿‍🤝‍🧑🏻	carnagione chiara, carnagione scura, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione chiara
-🧑🏿‍🤝‍🧑🏼	carnagione abbastanza chiara, carnagione scura, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione abbastanza chiara
-🧑🏿‍🤝‍🧑🏽	carnagione olivastra, carnagione scura, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione olivastra
-🧑🏿‍🤝‍🧑🏾	carnagione abbastanza scura, carnagione scura, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione abbastanza scura
-🧑🏿‍🤝‍🧑🏿	carnagione scura, persone che si tengono per mano, persone che si tengono per mano: carnagione scura
+🧑‍🤝‍🧑	coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, tenersi per mano
+🧑🏻‍🤝‍🧑🏻	carnagione chiara, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione chiara, tenersi per mano
+🧑🏻‍🤝‍🧑🏼	carnagione abbastanza chiara, carnagione chiara, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione chiara e carnagione abbastanza chiara, tenersi per mano
+🧑🏻‍🤝‍🧑🏽	carnagione chiara, carnagione olivastra, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione chiara e carnagione olivastra, tenersi per mano
+🧑🏻‍🤝‍🧑🏾	carnagione abbastanza scura, carnagione chiara, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione chiara e carnagione abbastanza scura, tenersi per mano
+🧑🏻‍🤝‍🧑🏿	carnagione chiara, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione chiara e carnagione scura, tenersi per mano
+🧑🏼‍🤝‍🧑🏻	carnagione abbastanza chiara, carnagione chiara, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza chiara e carnagione chiara, tenersi per mano
+🧑🏼‍🤝‍🧑🏼	carnagione abbastanza chiara, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza chiara, tenersi per mano
+🧑🏼‍🤝‍🧑🏽	carnagione abbastanza chiara, carnagione olivastra, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza chiara e carnagione olivastra, tenersi per mano
+🧑🏼‍🤝‍🧑🏾	carnagione abbastanza chiara, carnagione abbastanza scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza chiara e carnagione abbastanza scura, tenersi per mano
+🧑🏼‍🤝‍🧑🏿	carnagione abbastanza chiara, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza chiara e carnagione scura, tenersi per mano
+🧑🏽‍🤝‍🧑🏻	carnagione chiara, carnagione olivastra, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra e carnagione chiara, tenersi per mano
+🧑🏽‍🤝‍🧑🏼	carnagione abbastanza chiara, carnagione olivastra, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra e carnagione abbastanza chiara, tenersi per mano
+🧑🏽‍🤝‍🧑🏽	carnagione olivastra, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra, tenersi per mano
+🧑🏽‍🤝‍🧑🏾	carnagione abbastanza scura, carnagione olivastra, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra e carnagione abbastanza scura, tenersi per mano
+🧑🏽‍🤝‍🧑🏿	carnagione olivastra, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione olivastra e carnagione scura, tenersi per mano
+🧑🏾‍🤝‍🧑🏻	carnagione abbastanza scura, carnagione chiara, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura e carnagione chiara, tenersi per mano
+🧑🏾‍🤝‍🧑🏼	carnagione abbastanza chiara, carnagione abbastanza scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura e carnagione abbastanza chiara, tenersi per mano
+🧑🏾‍🤝‍🧑🏽	carnagione abbastanza scura, carnagione olivastra, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura e carnagione olivastra, tenersi per mano
+🧑🏾‍🤝‍🧑🏾	carnagione abbastanza scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura, tenersi per mano
+🧑🏾‍🤝‍🧑🏿	carnagione abbastanza scura, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione abbastanza scura e carnagione scura, tenersi per mano
+🧑🏿‍🤝‍🧑🏻	carnagione chiara, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione chiara, tenersi per mano
+🧑🏿‍🤝‍🧑🏼	carnagione abbastanza chiara, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione abbastanza chiara, tenersi per mano
+🧑🏿‍🤝‍🧑🏽	carnagione olivastra, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione olivastra, tenersi per mano
+🧑🏿‍🤝‍🧑🏾	carnagione abbastanza scura, carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione scura e carnagione abbastanza scura, tenersi per mano
+🧑🏿‍🤝‍🧑🏿	carnagione scura, coppia, coppia che si tiene per mano, coppia per mano, persone che si tengono per mano, persone che si tengono per mano: carnagione scura, tenersi per mano
 👭	coppia, due donne che si tengono per mano, due donne per mano, tenersi per mano
 👭🏻	carnagione chiara, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione chiara, due donne per mano, tenersi per mano
+👩🏻‍🤝‍👩🏼	carnagione abbastanza chiara, carnagione chiara, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione chiara e carnagione abbastanza chiara, due donne per mano, tenersi per mano
+👩🏻‍🤝‍👩🏽	carnagione chiara, carnagione olivastra, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione chiara e carnagione olivastra, due donne per mano, tenersi per mano
+👩🏻‍🤝‍👩🏾	carnagione abbastanza scura, carnagione chiara, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione chiara e carnagione abbastanza scura, due donne per mano, tenersi per mano
+👩🏻‍🤝‍👩🏿	carnagione chiara, carnagione scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione chiara e carnagione scura, due donne per mano, tenersi per mano
 👩🏼‍🤝‍👩🏻	carnagione abbastanza chiara, carnagione chiara, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza chiara e carnagione chiara, due donne per mano, tenersi per mano
 👭🏼	carnagione abbastanza chiara, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza chiara, due donne per mano, tenersi per mano
+👩🏼‍🤝‍👩🏽	carnagione abbastanza chiara, carnagione olivastra, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza chiara e carnagione olivastra, due donne per mano, tenersi per mano
+👩🏼‍🤝‍👩🏾	carnagione abbastanza chiara, carnagione abbastanza scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza chiara e carnagione abbastanza scura, due donne per mano, tenersi per mano
+👩🏼‍🤝‍👩🏿	carnagione abbastanza chiara, carnagione scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza chiara e carnagione scura, due donne per mano, tenersi per mano
 👩🏽‍🤝‍👩🏻	carnagione chiara, carnagione olivastra, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione olivastra e carnagione chiara, due donne per mano, tenersi per mano
 👩🏽‍🤝‍👩🏼	carnagione abbastanza chiara, carnagione olivastra, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione olivastra e carnagione abbastanza chiara, due donne per mano, tenersi per mano
 👭🏽	carnagione olivastra, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione olivastra, due donne per mano, tenersi per mano
+👩🏽‍🤝‍👩🏾	carnagione abbastanza scura, carnagione olivastra, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione olivastra e carnagione abbastanza scura, due donne per mano, tenersi per mano
+👩🏽‍🤝‍👩🏿	carnagione olivastra, carnagione scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione olivastra e carnagione scura, due donne per mano, tenersi per mano
 👩🏾‍🤝‍👩🏻	carnagione abbastanza scura, carnagione chiara, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza scura e carnagione chiara, due donne per mano, tenersi per mano
 👩🏾‍🤝‍👩🏼	carnagione abbastanza chiara, carnagione abbastanza scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza scura e carnagione abbastanza chiara, due donne per mano, tenersi per mano
 👩🏾‍🤝‍👩🏽	carnagione abbastanza scura, carnagione olivastra, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza scura e carnagione olivastra, due donne per mano, tenersi per mano
 👭🏾	carnagione abbastanza scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza scura, due donne per mano, tenersi per mano
+👩🏾‍🤝‍👩🏿	carnagione abbastanza scura, carnagione scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione abbastanza scura e carnagione scura, due donne per mano, tenersi per mano
 👩🏿‍🤝‍👩🏻	carnagione chiara, carnagione scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione scura e carnagione chiara, due donne per mano, tenersi per mano
 👩🏿‍🤝‍👩🏼	carnagione abbastanza chiara, carnagione scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione scura e carnagione abbastanza chiara, due donne per mano, tenersi per mano
 👩🏿‍🤝‍👩🏽	carnagione olivastra, carnagione scura, coppia, due donne che si tengono per mano, due donne che si tengono per mano: carnagione scura e carnagione olivastra, due donne per mano, tenersi per mano
@@ -1701,15 +1918,25 @@
 👫🏿	carnagione scura, coppia, tenersi per mano, uomo, uomo e donna che si tengono per mano, uomo e donna che si tengono per mano: carnagione scura, uomo e donna per mano
 👬	coppia, due uomini che si tengono per mano, due uomini per mano, persone, tenersi per mano
 👬🏻	carnagione chiara, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione chiara, due uomini per mano, persone, tenersi per mano
+👨🏻‍🤝‍👨🏼	carnagione abbastanza chiara, carnagione chiara, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione chiara e carnagione abbastanza chiara, due uomini per mano, persone, tenersi per mano
+👨🏻‍🤝‍👨🏽	carnagione chiara, carnagione olivastra, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione chiara e carnagione olivastra, due uomini per mano, persone, tenersi per mano
+👨🏻‍🤝‍👨🏾	carnagione abbastanza scura, carnagione chiara, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione chiara e carnagione abbastanza scura, due uomini per mano, persone, tenersi per mano
+👨🏻‍🤝‍👨🏿	carnagione chiara, carnagione scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione chiara e carnagione scura, due uomini per mano, persone, tenersi per mano
 👨🏼‍🤝‍👨🏻	carnagione abbastanza chiara, carnagione chiara, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza chiara e carnagione chiara, due uomini per mano, persone, tenersi per mano
 👬🏼	carnagione abbastanza chiara, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza chiara, due uomini per mano, persone, tenersi per mano
+👨🏼‍🤝‍👨🏽	carnagione abbastanza chiara, carnagione olivastra, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza chiara e carnagione olivastra, due uomini per mano, persone, tenersi per mano
+👨🏼‍🤝‍👨🏾	carnagione abbastanza chiara, carnagione abbastanza scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza chiara e carnagione abbastanza scura, due uomini per mano, persone, tenersi per mano
+👨🏼‍🤝‍👨🏿	carnagione abbastanza chiara, carnagione scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza chiara e carnagione scura, due uomini per mano, persone, tenersi per mano
 👨🏽‍🤝‍👨🏻	carnagione chiara, carnagione olivastra, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione olivastra e carnagione chiara, due uomini per mano, persone, tenersi per mano
 👨🏽‍🤝‍👨🏼	carnagione abbastanza chiara, carnagione olivastra, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione olivastra e carnagione abbastanza chiara, due uomini per mano, persone, tenersi per mano
 👬🏽	carnagione olivastra, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione olivastra, due uomini per mano, persone, tenersi per mano
+👨🏽‍🤝‍👨🏾	carnagione abbastanza scura, carnagione olivastra, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione olivastra e carnagione abbastanza scura, due uomini per mano, persone, tenersi per mano
+👨🏽‍🤝‍👨🏿	carnagione olivastra, carnagione scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione olivastra e carnagione scura, due uomini per mano, persone, tenersi per mano
 👨🏾‍🤝‍👨🏻	carnagione abbastanza scura, carnagione chiara, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza scura e carnagione chiara, due uomini per mano, persone, tenersi per mano
 👨🏾‍🤝‍👨🏼	carnagione abbastanza chiara, carnagione abbastanza scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza scura e carnagione abbastanza chiara, due uomini per mano, persone, tenersi per mano
 👨🏾‍🤝‍👨🏽	carnagione abbastanza scura, carnagione olivastra, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza scura e carnagione olivastra, due uomini per mano, persone, tenersi per mano
 👬🏾	carnagione abbastanza scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza scura, due uomini per mano, persone, tenersi per mano
+👨🏾‍🤝‍👨🏿	carnagione abbastanza scura, carnagione scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione abbastanza scura e carnagione scura, due uomini per mano, persone, tenersi per mano
 👨🏿‍🤝‍👨🏻	carnagione chiara, carnagione scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione scura e carnagione chiara, due uomini per mano, persone, tenersi per mano
 👨🏿‍🤝‍👨🏼	carnagione abbastanza chiara, carnagione scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione scura e carnagione abbastanza chiara, due uomini per mano, persone, tenersi per mano
 👨🏿‍🤝‍👨🏽	carnagione olivastra, carnagione scura, coppia, due uomini che si tengono per mano, due uomini che si tengono per mano: carnagione scura e carnagione olivastra, due uomini per mano, persone, tenersi per mano
@@ -1752,6 +1979,7 @@
 🗣️	parlare, persona, persona che parla, profilo
 👤	persona, profilo, profilo di persona
 👥	persone, profilo, profilo di due persone
+🫂	abbraccio, addio, ciao, grazie, persone che si abbracciano
 👣	corpo, impronta, impronta di piedi, piede
 🦰	capelli rossi, pel di carota, rosso
 🦱	afro, boccoli, capelli ricci, ricci
@@ -1771,6 +1999,7 @@
 🦝	animale furbo, curiosità, furbizia, procione
 🐱	animale, faccina, gatto, muso di gatto
 🐈️	animale, gatto
+🐈‍⬛	gatto, gatto nero, nero, sfortuna
 🦁	faccina, leone, muso di leone, segno zodiacale
 🐯	animale, faccina, muso di tigre, tigre
 🐅	animale, tigre
@@ -1780,6 +2009,7 @@
 🦄	faccina, unicorno
 🦓	strisce, zebra
 🦌	animale, cervo
+🦬	bisonte, mandria
 🐮	animale, faccina, mucca, muso di mucca
 🐂	animale, bue
 🐃	animale, bufalo d’acqua
@@ -1796,6 +2026,7 @@
 🦙	alpaca, lama, lana di alpaca
 🦒	giraffa, puntini
 🐘	animale, elefante
+🦣	estinzione, grande, lanoso, mammut, zanna
 🦏	animale, rinoceronte
 🦛	ippo, ippopotamo
 🐭	animale, faccina, muso di topo, topo
@@ -1805,9 +2036,11 @@
 🐰	animale, coniglio, faccina, muso di coniglio
 🐇	animale, coniglietto, coniglio
 🐿️	animale, scoiattolo
+🦫	castoro, diga
 🦔	riccio, spinoso
 🦇	animale, pipistrello, vampiro
 🐻	animale, faccina, muso di orso, orso
+🐻‍❄	bianco, orso, orso polare, polare
 🐨	animale, koala
 🐼	animale, faccina, muso di panda, panda
 🦥	bradipo, calma, lenta, lente, lentezza, lenti, lento, pigra, pigre, pigri, pigrizia, pigro
@@ -1829,6 +2062,8 @@
 🦆	anatra, animale, uccello
 🦢	brutto anatroccolo, cigno, uccello, volatile
 🦉	animale, fortuna, gufo, saggezza, uccello
+🦤	Mauritius, dodo, estinzione, grande
+🪶	leggero, piuma, piumaggio, uccello, volo
 🦩	fenicottero, fenicottero rosa, flamingo, tropicale
 🦚	pavone, pavoneggiarsi, uccello, volatile
 🦜	pappagallo, pirati, uccello parlante
@@ -1844,6 +2079,7 @@
 🐳	animale, balena, balena che spruzza acqua, spruzzare
 🐋	animale, balena
 🐬	animale, delfino
+🦭	foca, leone marino, otaria
 🐟️	animale, pesce
 🐠	animale, pesce, pesce tropicale
 🐡	animale, pesce, pesce palla
@@ -1855,12 +2091,16 @@
 🐛	animale, bruco, insetto, millepiedi
 🐜	animale, formica
 🐝	animale, ape
+🪲	cimice, coleottero, insetto
 🐞	animale, coccinella
 🦗	cavalletta, grillo
+🪳	blatta, infestante, insetto, scarafaggio
 🕷️	animale, insetto, ragno
 🕸️	ragnatela, ragno
 🦂	animale, scorpione, segno zodiacale
 🦟	febbre, insetto, malaria, zanzara
+🪰	decomposizione, infestante, larva, malattia, mosca
+🪱	anellide, lombrico, parassita, verme
 🦠	ameba, batteri, microbo, virus
 💐	fiore, mazzo di fiori, romanticismo
 🌸	ciliegio, fiore, fiore di ciliegio
@@ -1873,6 +2113,7 @@
 🌼	bocciolo, fiore
 🌷	fiore, tulipano
 🌱	germoglio, piantina
+🪴	casa, coltivare, curare, inutile, noioso, pianta, pianta in vaso
 🌲	albero, albero sempreverde, sempreverde
 🌳	albero, albero deciduo, caduco, deciduo
 🌴	albero, palma
@@ -1898,8 +2139,10 @@
 🍑	frutta, pesca
 🍒	ciliegia, ciliegie, frutta
 🍓	fragola, frutta
+🫐	bacca, blu, mirtilli, mirtillo
 🥝	cibo, frutta, kiwi
 🍅	pomodoro, verdura
+🫒	cibo, oliva
 🥥	cocco, noce di cocco, palma, piña colada
 🥑	avocado, cibo, frutta
 🍆	melanzana, verdura
@@ -1907,6 +2150,7 @@
 🥕	carota, cibo, ortaggio, radice
 🌽	granoturco, mais, pannocchia
 🌶️	peperoncino, piccante
+🫑	ortaggio, peperone
 🥒	cetriolino sottaceto, cetriolo, cibo, ortaggio
 🥬	bok choy, cavolo nero, kale, lattuga, verdure a foglia
 🥦	broccoli, cavolo nero
@@ -1918,6 +2162,7 @@
 🍞	pancarré, pane in cassetta
 🥐	cibo, colazione, cornetto, croissant, francese
 🥖	baguette, cibo, filone, francese
+🫓	arepa, focaccia, lavash, naan, pita
 🥨	pretzel
 🥯	bagel, panetteria, spalmare formaggio sul bagel
 🥞	americano, cibo, colazione, crêpe, pancake
@@ -1934,12 +2179,14 @@
 🥪	pane, sandwich
 🌮	Messico, cucina messicana, taco
 🌯	Messico, burrito, cucina messicana
+🫔	involtino, messicano, tamal
 🥙	falafel, gyro, kebab, pita farcita, ripieno
 🧆	ceci, falafel, polpette di ceci
 🥚	cibo, uovo
 🍳	cucinare, ristorante
 🥘	casseruola, cibo, padella, padella con cibo, paella
 🍲	ciotola di cibo, ristorante, stufato, zuppa
+🫕	cioccolato, fonduta, formaggio, fuso, pentola, svizzero
 🥣	cereali, ciotola con cucchiaio, colazione
 🥗	cibo, insalata, insalata verde
 🍿	cinema, mais, popcorn
@@ -1948,7 +2195,7 @@
 🥫	cibo in scatola, scatoletta
 🍱	bento box, lunch box, monoporzione, ristorante
 🍘	galletta di riso, riso
-🍙	arancino di riso, onigiri, riso, ristorante
+🍙	arancino di riso giapponese, onigiri, polpetta di riso giapponese, ristorante
 🍚	riso, riso bollito, ristorante
 🍛	curry, riso, riso al curry, ristorante
 🍜	ciotola di noodle, ciotola fumante, noodle, piatto caldo, ramen, ristorante
@@ -1985,6 +2232,7 @@
 🍼	bere, biberon, latte
 🥛	bevanda, bicchiere, bicchiere di latte, latte
 ☕️	bevanda, bevanda calda, caffè, fumante, tè caldo
+🫖	bere, teiera, tè
 🍵	bere, tazza, tazza da tè senza manico, tazza di tè, tè
 🍶	bar, bere, bottiglia, bottiglia e bicchiere di sake, sake
 🍾	bar, bere, bottiglia, bottiglia stappata, festeggiare
@@ -1996,6 +2244,7 @@
 🥂	auguri, bere, brindisi, cin cin, festeggiare
 🥃	bicchiere, bicchiere tumbler, liquore, tumbler, whisky
 🥤	bibita, bicchiere con cannuccia
+🧋	bolla, bubble tea, latte, perla, sfera, tè
 🧃	bevanda in brick, bevanda monodose, succo di frutta in cartone
 🧉	bevanda, erba Mate, mate
 🧊	cubetto di ghiaccio, ghiaccio in cubetti, ghiaccio in cubi
@@ -2025,6 +2274,9 @@
 🏛️	Grecia, edificio, edificio classico, tempio
 🏗️	costruire, edifici, edificio in costruzione, edilizia
 🧱	malta, mattone, mattoni, muro di mattoni
+🪨	masso, pesante, pietra, roccia, solido
+🪵	alberi, legna, legname, tronco
+🛖	capanna, capanno, iurta
 🏘️	case, edifici
 🏚️	casa, casa in rovina, disabitata, fatiscente, rudere
 🏠️	abitazione, casa, edificio
@@ -2040,7 +2292,7 @@
 🏫	alunni, classi, edificio, imparare, scuola
 🏬	centro, commerciale, grande magazzino
 🏭️	azienda, edificio, fabbrica, industria, produzione
-🏯	casa, casa giapponese, castello giapponese, edificio
+🏯	casa, castello giapponese, edificio
 🏰	castello, edificio
 💒	cappella, chiesa, chiesa per matrimonio, matrimonio, romanticismo
 🗼	Tokyo, Tokyo Tower, Torre di Tokyo, torre
@@ -2092,6 +2344,7 @@
 🚗	auto, automobile, macchina, veicolo
 🚘️	auto in arrivo, automobile, automobile in arrivo, in arrivo, veicolo
 🚙	SUV, auto, veicolo
+🛻	camioncino, pick-up, pickup
 🚚	camion, veicolo
 🚛	autoarticolato, camion, rimorchio, veicolo
 🚜	trattore, veicolo
@@ -2100,10 +2353,11 @@
 🛵	motorino, scooter
 🦽	accessibilità, carrozzina manuale, sedia a rotelle manuale
 🦼	accessibilità, carrozzina motorizzata, sedia a rotelle motorizzata
-🛺	apecar, risciò a motore, tuk tuk
+🛺	risciò a motore, tuk tuk
 🚲️	bicicletta, veicolo
 🛴	monopattino
 🛹	skateboard, tavola da skateboard
+🛼	pattini, pattini a rotelle, rotelle
 🚏	autobus, fermata, fermata dell’autobus
 🛣️	autostrada, pedaggio, strada veloce
 🛤️	binari, treno
@@ -2118,7 +2372,7 @@
 ⛵️	barca, barca a vela, località balneare, vela, yacht
 🛶	canoa, imbarcazione
 🚤	barca, motoscafo, veicolo
-🛳️	crociera, nave, vacanza
+🛳️	crociera, nave, nave da crociera, vacanza
 ⛴️	barca, traghetto, traversata
 🛥️	barca, barca a motore, motore
 🚢	imbarcazione, nave, veicolo
@@ -2171,9 +2425,9 @@
 🌑	luna, luna nuova, novilunio, nuova
 🌒	crescente, luna, luna crescente
 🌓	luna, primo quarto di luna, quarto
-🌔	crescente, gibbosa, gibbosa crescente, luna
+🌔	crescente, gibbosa, luna, luna gibbosa crescente
 🌕️	luna, luna piena, piena, plenilunio
-🌖	calante, gibbosa, gibbosa calante, luna
+🌖	calante, gibbosa, luna, luna gibbosa calante
 🌗	luna, quarto, ultimo quarto di luna
 🌘	calante, luna, luna calante
 🌙	crescente, luna, spicchio di luna
@@ -2218,14 +2472,14 @@
 🎃	Halloween, festa, zucca, zucca di Halloween
 🎄	Natale, albero, albero di Natale, festa
 🎆	festa, fuochi d’artificio, fuoco d’artificio
-🎇	festa, fuoco d’artificio, stella filante, stelline scintillanti
+🎇	festa, fuoco d’artificio, stellina scintillante, stelline scintillanti
 🧨	dinamite, esplosivo, fuochi artificiali, petardo
 ✨	scintille, stelle, stelline
 🎈	festa, palloncino
 🎉	coriandoli, festa, party, spara coriandoli
 🎊	coriandoli, festa, palla, palla di coriandoli
 🎋	Festa delle stelle, albero, albero decorato, decorazioni di carta, festa
-🎍	Capodanno, bambù, bambù decorato, festa, giapponese, pino
+🎍	bambù, bambù decorato, decorazione kadomatsu, giapponese
 🎎	Festa delle bambole, bambole, bambole giapponesi, festa, giapponesi
 🎏	aquilone, aquilone a forma di carpa, carpa, festa
 🎐	campana, campana al vento, festa, vento
@@ -2267,13 +2521,14 @@
 🤿	diving, fare immersioni, immersioni, maschera da sub, snorkeling
 🎽	corsa, maglia, maglia da corsa, maglia da corsa con fascia
 🎿	scarpone, scarpone da sci, sci, sport
-🛷	slitta
+🛷	slitta, slittino
 🥌	stone da curling
 🎯	bersaglio, colpire, gioco, target
 🪀	giocattolo, rocchetto, yo-yo
 🪁	aquilone, planare, volare
 🎱	biliardo, gioco, palla da biliardo, palla otto
 🔮	chiromanzia, cristallo, futuro, sfera, sfera di cristallo
+🪄	bacchetta magica, maga, magia, mago, strega, stregone
 🧿	amuleto, malocchio, nazar, occhio di Allah
 🎮️	console, console videogioco, gamepad, gioco
 🕹️	giocare, joystick, leva del joystick, videogioco
@@ -2281,6 +2536,8 @@
 🎲	dadi, dado, gioco, gioco dei dadi
 🧩	pezzo di puzzle, puzzle, tessera del puzzle
 🧸	giocattolo, orsetto, peluche
+🪅	divertimento, festa, pentolaccia
+🪆	bambola, matrioska, russia
 ♠️	carte, picche, seme
 ♥️	carte, cuori, seme
 ♦️	carte, quadri, seme
@@ -2293,10 +2550,12 @@
 🖼️	cornice, museo, opera d’arte, quadro, quadro incorniciato
 🎨	arte, colori, pittura, tavolozza, tavolozza dei colori
 🧵	ago, filo, rocchetto
+🪡	ago, ago da cucito, cucito, punti, ricamo, sartoria, suture
 🧶	fare a maglia, gomitolo, palla, uncinetto
+🪢	annodato, corda, legare, nodo, spago
 👓️	abbigliamento, occhiali, occhiali da vista
 🕶️	occhiali da sole, occhiali scuri
-🥽	nuoto, occhiali di protezione, occhialini, saldatura
+🥽	maschera, nuoto, occhiali di protezione, occhialini, saldatura
 🥼	camice, dottore, esperimento, scienziato
 🦺	antinfortunistica, emergenza, gilet antinfortunistica, gilet di sicurezza
 👔	abbigliamento, cravatta
@@ -2319,6 +2578,7 @@
 👝	abbigliamento, borsa, pochette
 🛍️	borse della spesa, sacchetti, sacchetti regalo
 🎒	cartella, cartella di scuola, scuola, zaino, zaino per la scuola
+🩴	ciabatte, infradito, sandali, spiaggia
 👞	abbigliamento, scarpa, scarpa da uomo
 👟	abbigliamento, scarpa, scarpa sportiva, sneaker
 🥾	campeggio, stivale, stivale da trekking, trekking, viaggio zaino in spalla, zaino in spalla
@@ -2332,6 +2592,7 @@
 🎩	cappello, cilindro, intrattenimento
 🎓️	cappello, cappello da laureato, festa, laurea
 🧢	cappello con visiera, cappello da baseball
+🪖	elmetto, elmetto militare, esercito, militare, soldato
 ⛑️	bianca, croce, elmetto, elmetto con croce bianca
 📿	preghiera, rosario
 💄	cosmetici, makeup, rossetto, trucco
@@ -2356,12 +2617,14 @@
 🎧️	cuffie, intrattenimento
 📻️	ascoltare la radio, musica, radio, stazioni radio
 🎷	musica, sassofono, sax, strumento, strumento musicale
+🪗	concertina, fisarmonica, organetto
 🎸	chitarra, musica, strumento, strumento musicale
 🎹	musica, piano, pianoforte, strumento musicale, tastiera
 🎺	musica, strumento, strumento musicale, tromba
 🎻	musica, strumento, strumento musicale, violino
 🪕	banjo, musica, strumento a corde
 🥁	bacchette, musica, tamburo
+🪘	conga, percussioni, ritmo, tamburo, tamburo lungo
 📱	cellulare, telefono, telefono cellulare
 📲	cellulare, cellulare con freccia, telefonare, telefono, telefono cellulare con freccia
 ☎️	telefono di casa, telefono fisso
@@ -2415,6 +2678,7 @@
 🔖	lettura, libro, segnalibro
 🏷️	etichetta, identificativo, talloncino
 💰️	denaro, sacco, sacco di soldi
+🪙	argento, denaro, metallo, moneta, oro, tesoro
 💴	Yen, banconota, banconota Yen, denaro
 💵	Dollaro, banconota, banconota Dollaro, denaro
 💶	Euro, banconota, banconota Euro, denaro
@@ -2423,8 +2687,6 @@
 💳️	carta, carta di credito, credito
 🧾	contabilità, ricevuta di pagamento, scontrino
 💹	ascendente, grafico, grafico ascendente, mercato, mercato in salita
-💱	cambio, cambio di valuta, cambio valuta, denaro, valuta
-💲	Dollaro, denaro, simbolo del Dollaro
 ✉️	busta, email, lettera, posta, ricevere posta
 📧	comunicazione, e-mail, email, lettera, posta, posta elettronica
 📨	busta, comunicazione, email, in arrivo, lettera, posta in arrivo
@@ -2482,9 +2744,12 @@
 🗡️	affilato, arma, pugnalare, pugnale
 ⚔️	armi, combattimento, duello, spade incrociate
 🔫	arma, pistola, revolver
+🪃	australia, boomerang, rimbalzo, ripercussione
 🏹	arciere, arco e freccia, tiratore d’arco, tiro con l’arco
 🛡️	medioevo, protezione, scudo, simbolo, torneo
+🪚	falegname, legname, sega, sega da falegname, utensile
 🔧	attrezzo, chiave, chiave inglese, inglese, utensile
+🪛	avvitare, cacciavite, utensile, vite
 🔩	bullonare, bullone, fissare, vite e bullone
 ⚙️	componente, ingranaggio, meccanismo, ruota dentata
 🗜️	fissare, morsa, morsetto, serrare, stringere, utensile
@@ -2492,8 +2757,10 @@
 🦯	accessibilità, bastone bianco, bastone per ipovedenti, bastone per non vedenti
 🔗	collegamento, due anelli, link, simbolo link
 ⛓️	catene, imprigionare, incatenare
+🪝	curva, fermaglio, gancio, intrappolare, punto vendita, uncino
 🧰	attrezzi, cassetta degli attrezzi, meccanico, strumenti
 🧲	attrazione, calamita, ferro di cavallo, magnete, magnetica
+🪜	arrampicarsi, piolo, scala, scalino
 ⚗️	alambicco, chimica, esperimento, strumento
 🧪	chimica, chimico, esperimenti, laboratorio, provetta
 🧫	batteri, biologia, biologo, cultura, piastra di Petri
@@ -2507,26 +2774,35 @@
 🩹	cerotto, cerotto adesivo
 🩺	cardiologo, dottore, fonendoscopio, medico, stetoscopio
 🚪	porta
+🛗	accessibilità, ascensore, montacarichi
+🪞	riflesso, specchio
+🪟	apertura, aria fresca, finestra, telaio, trasparente, vista
 🛏️	dormire, hotel, letto
 🛋️	divano, divano e lampada, relax, salotto
 🪑	mettersi seduti, sedersi, sedia
 🚽	toilette, water
+🪠	aspirazione, idraulico, scarico, sturalavandini, ventosa
 🚿	doccia, fare la doccia, lavarsi
 🛁	vasca, vasca da bagno
+🪤	esca, trappola, trappola per topi
 🪒	farsi la barba, lama da barba, lama da barbiere, radersi, rasoio, rasoio da barbiere
 🧴	crema idratante, crema solare, flacone, lozione, shampoo
 🧷	pannolone, punk rock, spilla da balia
 🧹	pulire, scopa, scopare, spazzare, strega
 🧺	bucato, cesto, orto, picnic
-🧻	carta igienica, fazzoletti di carta, rotolo, rotolo di carta igienica
+🧻	carta igienica, rotolo, rotolo di carta igienica
+🪣	secchia, secchio
 🧼	bagno, sapone, saponetta, schiuma
+🪥	bagno, dentale, denti, igiene, pulito, spazzolino, spazzolino da denti
 🧽	assorbenza, pulizia, spugna, spugna porosa
 🧯	estintore, fiamme, fuoco, spegnere un incendio
 🛒	carrello, carrello della spesa, centro commerciale, fare la spesa, supermercato
 🚬	area fumatori, fumo, sigaretta
 ⚰️	bara, funerale, morte, sepoltura
+🪦	cimitero, lapide, pietra tombale, tomba
 ⚱️	ceneri, funerale, morte, sepoltura, urna cineraria, urna funeraria
 🗿	Moai, Moyai, statua dell’Isola di Pasqua
+🪧	cartello, corteo, manifestazione, picchetto, protesta, striscione
 🏧	ATM, bancomat, simbolo dello sportello bancomat
 🚮	raccolta rifiuti, simbolo, simbolo per la raccolta dei rifiuti, simbolo raccolta rifiuti
 🚰	acqua, acqua potabile, potabile, simbolo
@@ -2625,8 +2901,22 @@
 📴	cellulare, cellulare spento, spento, telefono
 ♀️	donna, femmina, simbolo di femmina, simbolo genere femminile
 ♂️	maschio, simbolo di maschio, simbolo genere maschile, uomo
-⚕️	bastone di esculapio, medicina, simbolo della medicina
+⚧️	simbolo transgender, transgender
+✖️	X, cancellare, moltiplicazione, segno moltiplicazione, segno per
+➕	addizione, più, simbolo dell’addizione
+➖	meno, simbolo della sottrazione, sottrazione
+➗	divisione, diviso, simbolo della divisione
 ♾️	eternità, illimitato, per sempre, simbolo dell’infinito, universale
+‼️	doppio punto esclamativo, esclamazione, punteggiatura, punto esclamativo
+⁉️	punteggiatura, punto esclamativo, punto esclamativo e interrogativo, punto interrogativo
+❓️	domanda, punto di domanda pieno, punto interrogativo rosso
+❔	domanda, punto di domanda vuoto, punto interrogativo bianco
+❕	esclamazione, punto esclamativo bianco, punto esclamativo vuoto
+❗️	esclamazione, punteggiatura, punto esclamativo, punto esclamativo pieno, punto esclamativo rosso
+〰️	ondulato, trattino, trattino ondulato
+💱	cambio, cambio di valuta, cambio valuta, denaro, valuta
+💲	Dollaro, denaro, simbolo del Dollaro
+⚕️	bastone di esculapio, medicina, simbolo della medicina
 ♻️	raccolta differenziata, riciclaggio, riciclare, riciclo, simbolo, simbolo del riciclaggio
 ⚜	fiore, giglio, giglio araldico, simbolo, stemma
 🔱	ancora, simbolo tridente, tridente
@@ -2635,26 +2925,15 @@
 ⭕️	cerchio, gioco, pallino, tris
 ✅	baffo, segno di spunta, segno di spunta grande
 ☑️	grigio, riquadro, riquadro con spunta, spunta
-✔️	nero, segno di spunta nero, spunta
-✖️	X, cancellare, moltiplicazione, segno moltiplicazione, segno per
+✔️	baffo, segno di spunta, segno di spunta nero, spunta
 ❌	X, croce
 ❎	X con quadrato, croce con quadrato
-➕	addizione, più, simbolo dell’addizione
-➖	meno, simbolo della sottrazione, sottrazione
-➗	divisione, diviso, simbolo della divisione
 ➰	cerchio, occhiello
 ➿	doppio, doppio occhiello, occhiello
 〽️	canzone, divisione spartito, parti musicali, segno, simbolo di alternanza delle parti, suddivisione parti
 ✳️	asterisco, otto punte, sfondo verde
 ✴️	asterisco, stella stilizzata
 ❇️	scintilla, scintilla stilizzata, sfondo verde
-‼️	doppio punto esclamativo, esclamazione, punteggiatura, punto esclamativo
-⁉️	punteggiatura, punto esclamativo, punto esclamativo e interrogativo, punto interrogativo
-❓️	domanda, punto di domanda pieno, punto interrogativo rosso
-❔	domanda, punto di domanda vuoto, punto interrogativo bianco
-❕	esclamazione, punto esclamativo bianco, punto esclamativo vuoto
-❗️	esclamazione, punteggiatura, punto esclamativo, punto esclamativo pieno, punto esclamativo rosso
-〰️	ondulato, trattino, trattino ondulato
 ©️	copyright
 ®️	marchio registrato, marchio registrato cerchiato
 ™️	TM, marchio, marchio commerciale, marchio di fabbrica, marchio registrato, trademark
@@ -2750,6 +3029,7 @@
 🏴	bandiera che sventola, bandiera nera
 🏳️	arrendersi, bandiera bianca, bandiera che sventola, sventolare bandiera bianca
 🏳‍🌈	Pride, bandiera arcobaleno
+🏳‍⚧	azzurro, bandiera, bandiera transgender, bianco, rosa, transgender
 🏴‍☠	bandiera dei pirati, corsari, corsaro, pirata, pirati
 🇦🇨	bandiera, bandiera: Isola Ascensione
 🇦🇩	bandiera, bandiera: Andorra

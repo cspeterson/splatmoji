@@ -19,6 +19,7 @@
 ☺️	cara, cara a sorrir, contorno, relaxado, sorriso
 😚	beijo, cara, cara a dar um beijo com olhos fechados, fechado, olho
 😙	beijo, cara, cara a dar um beijo com olhos sorridentes, olho, sorriso
+🥲	aliviado, cara sorridente com lágrima, emocionado, grato, lágrima, orgulhoso, sorridente
 😋	apetitoso, cara, cara a saborear uma refeição deliciosa, delicioso, saborear, sorriso
 😛	cara, cara com língua de fora, língua
 😜	cara, cara com língua de fora e olho a piscar, língua, olho, piada, piscadela
@@ -90,13 +91,13 @@
 🤬	cara com símbolos na boca, praguejar
 😈	cara, cara a sorrir com cornos, conto de fadas, cornos, fantasia, sorriso
 👿	cara, cara zangada com cornos, demónio, diabo, fantasia
-💀	cara, corpo, monstro, morte
+💀	cara, caveira, corpo, monstro, morte
 ☠️	cara, caveira, caveira e ossos cruzados, corpo, monstro, morte, ossos cruzados
 💩	caca, cara, cocó, desenho, monstro, monte de cocó
 🤡	cara de palhaço, palhaço, rosto, rosto de palhaço
 👹	cara, conto de fadas, criatura, fantasia, japonês, monstro, ogre
-👺	cara, conto de fadas, criatura, fantasia, japonês, monstro
-👻	cara, conto de fadas, criatura, fantasia, monstro
+👺	cara, conto de fadas, criatura, duende japonês, fantasia, japonês, monstro
+👻	cara, conto de fadas, criatura, fantasia, fantasma, monstro
 👽️	ET, cara, criatura, espaço, extraterrestre, fantasia, monstro, ovni
 👾	ET, cara, criatura, espaço, extraterrestre, fantasia, monstro, monstro extraterrestre, ovni
 🤖	cara, monstro, robô
@@ -112,19 +113,19 @@
 🙈	cara, gesto, macaco, macaco com as mãos a tapar os olhos, macaco que não vê nada, mau, não, olhos tapados, proibido, ver
 🙉	cara, gesto, macaco, macaco com as mãos a tapar os ouvidos, macaco que não ouve nada, mau, não, ouvidos tapados, ouvir, proibido
 🙊	boca tapada, cara, falar, gesto, macaco, macaco com as mãos a tapar a boca, macaco que não diz nada, mau, não, proibido
-💋	beijo, coração, lábios, marca, romance
-💌	amor, carta, coração, correio, romance
+💋	beijo, coração, lábios, marca, marca de beijo, romance
+💌	amor, carta, carta de amor, coração, correio, romance
 💘	coração, coração com seta, cupido, romance, seta
-💝	coração, coração com laço, fita, romance
+💝	coração, coração com fita, coração com laço, fita, romance
 💖	cintilante, coração, coração a brilhar, coração cintilante, entusiasmado
 💗	a crescer, coração, coração a crescer, entusiasmado, nervoso, palpitação
 💓	batimento, coração, coração a bater, palpitante
 💞	coração, corações, corações a girar, corações a rodopiar, corações rodopiantes, rodopiante
-💕	amor, coração, corações
+💕	amor, coração, corações, dois corações
 💟	coração, coração decorativo, decoração com coração
 ❣️	exclamação, ponto de exclamação com coração, pontuação, sinal
 💔	coração, partido, partir
-❤️	coração
+❤️	coração, coração vermelho
 🧡	coração, coração cor de laranja, coração laranja
 💛	amarelo, coração
 💚	coração, verde
@@ -134,17 +135,16 @@
 🖤	coração, malvado, mau, preto
 💯	100, cem, cem pontos, pontuação
 💢	desenho, enfurecido, irritado, símbolo de fúria, símbolo de raiva, zangado
-💥	bum, desenho
+💥	bum, colisão, desenho
 💫	desenho, estrela, tonto
 💦	desenho, gota, gotas de suor, suor
 💨	corrida, desenho, fugir, ir-se embora
-🕳️	buraco no chão
 💣️	bomba, desenho
 💬	balão, balão de fala, desenho, diálogo, fala
 👁‍🗨	balão de fala, olho, olho em balão de fala, testemunha
 🗨️	balão de fala do lado esquerdo, diálogo, fala
 🗯️	balão, balão de raiva do lado direito, enfurecido, irritado
-💭	balão, desenho, pensamento
+💭	balão, balão de pensamento, desenho, pensamento
 💤	desenho, dormir, sesta, sono, zzz
 👋	acenar, aceno, corpo, mão, mão a acenar
 👋🏻	acenar, aceno, corpo, mão, mão a acenar, mão a acenar: tipo de pele 1–2, tipo de pele 1–2
@@ -182,6 +182,11 @@
 👌🏽	OK com a mão, corpo, gesto de OK, gesto de OK: tipo de pele 4, mão, mão com gesto de OK, ok, sinal de OK com a mão, tipo de pele 4
 👌🏾	OK com a mão, corpo, gesto de OK, gesto de OK: tipo de pele 5, mão, mão com gesto de OK, ok, sinal de OK com a mão, tipo de pele 5
 👌🏿	OK com a mão, corpo, gesto de OK, gesto de OK: tipo de pele 6, mão, mão com gesto de OK, ok, sinal de OK com a mão, tipo de pele 6
+🤌🏻	beliscado, dedos, dedos comprimidos, dedos comprimidos: tipo de pele 1–2, gesto de mão, interrogação, sarcástico, tipo de pele 1–2
+🤌🏼	beliscado, dedos, dedos comprimidos, dedos comprimidos: tipo de pele 3, gesto de mão, interrogação, sarcástico, tipo de pele 3
+🤌🏽	beliscado, dedos, dedos comprimidos, dedos comprimidos: tipo de pele 4, gesto de mão, interrogação, sarcástico, tipo de pele 4
+🤌🏾	beliscado, dedos, dedos comprimidos, dedos comprimidos: tipo de pele 5, gesto de mão, interrogação, sarcástico, tipo de pele 5
+🤌🏿	beliscado, dedos, dedos comprimidos, dedos comprimidos: tipo de pele 6, gesto de mão, interrogação, sarcástico, tipo de pele 6
 🤏	mão a dar um beliscão
 🤏🏻	mão a dar um beliscão, mão a dar um beliscão: tipo de pele 1–2, tipo de pele 1–2
 🤏🏼	mão a dar um beliscão, mão a dar um beliscão: tipo de pele 3, tipo de pele 3
@@ -302,12 +307,12 @@
 🙌🏽	celebração, corpo, gesto, mão, mãos levantadas, mãos no ar, mãos no ar: tipo de pele 4, tipo de pele 4, viva
 🙌🏾	celebração, corpo, gesto, mão, mãos levantadas, mãos no ar, mãos no ar: tipo de pele 5, tipo de pele 5, viva
 🙌🏿	celebração, corpo, gesto, mão, mãos levantadas, mãos no ar, mãos no ar: tipo de pele 6, tipo de pele 6, viva
-👐	aberta, corpo, mão
-👐🏻	aberta, corpo, mão, mãos abertas: tipo de pele 1–2, tipo de pele 1–2
-👐🏼	aberta, corpo, mão, mãos abertas: tipo de pele 3, tipo de pele 3
-👐🏽	aberta, corpo, mão, mãos abertas: tipo de pele 4, tipo de pele 4
-👐🏾	aberta, corpo, mão, mãos abertas: tipo de pele 5, tipo de pele 5
-👐🏿	aberta, corpo, mão, mãos abertas: tipo de pele 6, tipo de pele 6
+👐	aberta, corpo, mão, mãos abertas
+👐🏻	aberta, corpo, mão, mãos abertas, mãos abertas: tipo de pele 1–2, tipo de pele 1–2
+👐🏼	aberta, corpo, mão, mãos abertas, mãos abertas: tipo de pele 3, tipo de pele 3
+👐🏽	aberta, corpo, mão, mãos abertas, mãos abertas: tipo de pele 4, tipo de pele 4
+👐🏾	aberta, corpo, mão, mãos abertas, mãos abertas: tipo de pele 5, tipo de pele 5
+👐🏿	aberta, corpo, mão, mãos abertas, mãos abertas: tipo de pele 6, tipo de pele 6
 🤲	mãos abertas, mãos estendidas, palmas abertas, palmas juntas abertas, palmas juntas para cima, prece
 🤲🏻	mãos abertas, mãos estendidas, palmas abertas, palmas juntas abertas, palmas juntas abertas: tipo de pele 1–2, palmas juntas para cima, prece, tipo de pele 1–2
 🤲🏼	mãos abertas, mãos estendidas, palmas abertas, palmas juntas abertas, palmas juntas abertas: tipo de pele 3, palmas juntas para cima, prece, tipo de pele 3
@@ -315,24 +320,24 @@
 🤲🏾	mãos abertas, mãos estendidas, palmas abertas, palmas juntas abertas, palmas juntas abertas: tipo de pele 5, palmas juntas para cima, prece, tipo de pele 5
 🤲🏿	mãos abertas, mãos estendidas, palmas abertas, palmas juntas abertas, palmas juntas abertas: tipo de pele 6, palmas juntas para cima, prece, tipo de pele 6
 🤝	acordo, aperto, aperto de mão, mão, passou-bem, reunião
-🙏	agradecimento, corpo, gesto, juntas, mão, pedido, por favor, reverência, rezar
-🙏🏻	agradecimento, corpo, gesto, juntas, mão, mãos juntas: tipo de pele 1–2, pedido, por favor, reverência, rezar, tipo de pele 1–2
-🙏🏼	agradecimento, corpo, gesto, juntas, mão, mãos juntas: tipo de pele 3, pedido, por favor, reverência, rezar, tipo de pele 3
-🙏🏽	agradecimento, corpo, gesto, juntas, mão, mãos juntas: tipo de pele 4, pedido, por favor, reverência, rezar, tipo de pele 4
-🙏🏾	agradecimento, corpo, gesto, juntas, mão, mãos juntas: tipo de pele 5, pedido, por favor, reverência, rezar, tipo de pele 5
-🙏🏿	agradecimento, corpo, gesto, juntas, mão, mãos juntas: tipo de pele 6, pedido, por favor, reverência, rezar, tipo de pele 6
+🙏	agradecimento, corpo, gesto, juntas, mão, mãos juntas, pedido, por favor, reverência, rezar
+🙏🏻	agradecimento, corpo, gesto, juntas, mão, mãos juntas, mãos juntas: tipo de pele 1–2, pedido, por favor, reverência, rezar, tipo de pele 1–2
+🙏🏼	agradecimento, corpo, gesto, juntas, mão, mãos juntas, mãos juntas: tipo de pele 3, pedido, por favor, reverência, rezar, tipo de pele 3
+🙏🏽	agradecimento, corpo, gesto, juntas, mão, mãos juntas, mãos juntas: tipo de pele 4, pedido, por favor, reverência, rezar, tipo de pele 4
+🙏🏾	agradecimento, corpo, gesto, juntas, mão, mãos juntas, mãos juntas: tipo de pele 5, pedido, por favor, reverência, rezar, tipo de pele 5
+🙏🏿	agradecimento, corpo, gesto, juntas, mão, mãos juntas, mãos juntas: tipo de pele 6, pedido, por favor, reverência, rezar, tipo de pele 6
 ✍️	corpo, escrever, mão, mão a escrever
 ✍🏻	corpo, escrever, mão, mão a escrever, mão a escrever: tipo de pele 1–2, tipo de pele 1–2
 ✍🏼	corpo, escrever, mão, mão a escrever, mão a escrever: tipo de pele 3, tipo de pele 3
 ✍🏽	corpo, escrever, mão, mão a escrever, mão a escrever: tipo de pele 4, tipo de pele 4
 ✍🏾	corpo, escrever, mão, mão a escrever, mão a escrever: tipo de pele 5, tipo de pele 5
 ✍🏿	corpo, escrever, mão, mão a escrever, mão a escrever: tipo de pele 6, tipo de pele 6
-💅	corpo, cosméticos, cuidado, manicura, unha, verniz, verniz das unhas, verniz para as unhas
-💅🏻	corpo, cosméticos, cuidado, manicura, tipo de pele 1–2, unha, verniz, verniz das unhas, verniz para as unhas, verniz para as unhas: tipo de pele 1–2
-💅🏼	corpo, cosméticos, cuidado, manicura, tipo de pele 3, unha, verniz, verniz das unhas, verniz para as unhas, verniz para as unhas: tipo de pele 3
-💅🏽	corpo, cosméticos, cuidado, manicura, tipo de pele 4, unha, verniz, verniz das unhas, verniz para as unhas, verniz para as unhas: tipo de pele 4
-💅🏾	corpo, cosméticos, cuidado, manicura, tipo de pele 5, unha, verniz, verniz das unhas, verniz para as unhas, verniz para as unhas: tipo de pele 5
-💅🏿	corpo, cosméticos, cuidado, manicura, tipo de pele 6, unha, verniz, verniz das unhas, verniz para as unhas, verniz para as unhas: tipo de pele 6
+💅	cosméticos, manicura, unha, verniz, verniz para as unhas
+💅🏻	cosméticos, manicura, tipo de pele 1–2, unha, verniz, verniz para as unhas, verniz para as unhas: tipo de pele 1–2
+💅🏼	cosméticos, manicura, tipo de pele 3, unha, verniz, verniz para as unhas, verniz para as unhas: tipo de pele 3
+💅🏽	cosméticos, manicura, tipo de pele 4, unha, verniz, verniz para as unhas, verniz para as unhas: tipo de pele 4
+💅🏾	cosméticos, manicura, tipo de pele 5, unha, verniz, verniz para as unhas, verniz para as unhas: tipo de pele 5
+💅🏿	cosméticos, manicura, tipo de pele 6, unha, verniz, verniz para as unhas, verniz para as unhas: tipo de pele 6
 🤳	câmara, selfie, telemóvel
 🤳🏻	câmara, selfie, selfie: tipo de pele 1–2, telemóvel, tipo de pele 1–2
 🤳🏼	câmara, selfie, selfie: tipo de pele 3, telemóvel, tipo de pele 3
@@ -345,39 +350,39 @@
 💪🏽	bíceps, bíceps fletido, bíceps fletido: tipo de pele 4, corpo, desenho, flexão, músculo, tipo de pele 4
 💪🏾	bíceps, bíceps fletido, bíceps fletido: tipo de pele 5, corpo, desenho, flexão, músculo, tipo de pele 5
 💪🏿	bíceps, bíceps fletido, bíceps fletido: tipo de pele 6, corpo, desenho, flexão, músculo, tipo de pele 6
-🦵	extremidade, pontapé
-🦵🏻	extremidade, perna: tipo de pele 1–2, pontapé, tipo de pele 1–2
-🦵🏼	extremidade, perna: tipo de pele 3, pontapé, tipo de pele 3
-🦵🏽	extremidade, perna: tipo de pele 4, pontapé, tipo de pele 4
-🦵🏾	extremidade, perna: tipo de pele 5, pontapé, tipo de pele 5
-🦵🏿	extremidade, perna: tipo de pele 6, pontapé, tipo de pele 6
-🦶	pisar, pontapé
-🦶🏻	pisar, pontapé, pé: tipo de pele 1–2, tipo de pele 1–2
-🦶🏼	pisar, pontapé, pé: tipo de pele 3, tipo de pele 3
-🦶🏽	pisar, pontapé, pé: tipo de pele 4, tipo de pele 4
-🦶🏾	pisar, pontapé, pé: tipo de pele 5, tipo de pele 5
-🦶🏿	pisar, pontapé, pé: tipo de pele 6, tipo de pele 6
+🦵	extremidade, perna, pontapé
+🦵🏻	extremidade, perna, perna: tipo de pele 1–2, pontapé, tipo de pele 1–2
+🦵🏼	extremidade, perna, perna: tipo de pele 3, pontapé, tipo de pele 3
+🦵🏽	extremidade, perna, perna: tipo de pele 4, pontapé, tipo de pele 4
+🦵🏾	extremidade, perna, perna: tipo de pele 5, pontapé, tipo de pele 5
+🦵🏿	extremidade, perna, perna: tipo de pele 6, pontapé, tipo de pele 6
+🦶	pisar, pontapé, pé
+🦶🏻	pisar, pontapé, pé, pé: tipo de pele 1–2, tipo de pele 1–2
+🦶🏼	pisar, pontapé, pé, pé: tipo de pele 3, tipo de pele 3
+🦶🏽	pisar, pontapé, pé, pé: tipo de pele 4, tipo de pele 4
+🦶🏾	pisar, pontapé, pé, pé: tipo de pele 5, tipo de pele 5
+🦶🏿	pisar, pontapé, pé, pé: tipo de pele 6, tipo de pele 6
 👂🏻	corpo, orelha, orelha: tipo de pele 1–2, tipo de pele 1–2
 👂🏼	corpo, orelha, orelha: tipo de pele 3, tipo de pele 3
 👂🏽	corpo, orelha, orelha: tipo de pele 4, tipo de pele 4
 👂🏾	corpo, orelha, orelha: tipo de pele 5, tipo de pele 5
 👂🏿	corpo, orelha, orelha: tipo de pele 6, tipo de pele 6
-🦻	acessibilidade, deficiência auditiva, orelha com aparelho auditivo
-🦻🏻	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 1–2, tipo de pele 1–2
-🦻🏼	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 3, tipo de pele 3
-🦻🏽	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 4, tipo de pele 4
-🦻🏾	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 5, tipo de pele 5
-🦻🏿	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 6, tipo de pele 6
-👃	corpo
-👃🏻	corpo, nariz: tipo de pele 1–2, tipo de pele 1–2
-👃🏼	corpo, nariz: tipo de pele 3, tipo de pele 3
-👃🏽	corpo, nariz: tipo de pele 4, tipo de pele 4
-👃🏾	corpo, nariz: tipo de pele 5, tipo de pele 5
-👃🏿	corpo, nariz: tipo de pele 6, tipo de pele 6
-👀	cara, corpo, olho
-👁️	corpo
-👅	corpo
-👄	corpo, lábios
+🦻	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo
+🦻🏻	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 1–2, tipo de pele 1–2
+🦻🏼	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 3, tipo de pele 3
+🦻🏽	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 4, tipo de pele 4
+🦻🏾	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 5, tipo de pele 5
+🦻🏿	acessibilidade, deficiência auditiva, orelha com aparelho auditivo, ouvido com aparelho auditivo, ouvido com aparelho auditivo: tipo de pele 6, tipo de pele 6
+👃	corpo, nariz
+👃🏻	corpo, nariz, nariz: tipo de pele 1–2, tipo de pele 1–2
+👃🏼	corpo, nariz, nariz: tipo de pele 3, tipo de pele 3
+👃🏽	corpo, nariz, nariz: tipo de pele 4, tipo de pele 4
+👃🏾	corpo, nariz, nariz: tipo de pele 5, tipo de pele 5
+👃🏿	corpo, nariz, nariz: tipo de pele 6, tipo de pele 6
+👀	cara, corpo, olho, olhos
+👁️	corpo, olho
+👅	corpo, língua
+👄	boca, corpo, lábios
 👶	bebé, criança, pessoa
 👶🏻	bebé, bebé: tipo de pele 1–2, criança, pessoa, tipo de pele 1–2
 👶🏼	bebé, bebé: tipo de pele 3, criança, pessoa, tipo de pele 3
@@ -408,30 +413,54 @@
 🧑🏽	adulta, adulto, género neutro, pessoa, pessoa: tipo de pele 4, tipo de pele 4
 🧑🏾	adulta, adulto, género neutro, pessoa, pessoa: tipo de pele 5, tipo de pele 5
 🧑🏿	adulta, adulto, género neutro, pessoa, pessoa: tipo de pele 6, tipo de pele 6
-👱	loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro
-👱🏻	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: tipo de pele 1–2 e cabelo louro, tipo de pele 1–2
-👱🏼	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: tipo de pele 3 e cabelo louro, tipo de pele 3
-👱🏽	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: tipo de pele 4 e cabelo louro, tipo de pele 4
-👱🏾	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: tipo de pele 5 e cabelo louro, tipo de pele 5
-👱🏿	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: tipo de pele 6 e cabelo louro, tipo de pele 6
+👱	loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: cabelo louro
+👱🏻	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: cabelo louro, pessoa: tipo de pele 1–2 e cabelo louro, tipo de pele 1–2
+👱🏼	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: cabelo louro, pessoa: tipo de pele 3 e cabelo louro, tipo de pele 3
+👱🏽	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: cabelo louro, pessoa: tipo de pele 4 e cabelo louro, tipo de pele 4
+👱🏾	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: cabelo louro, pessoa: tipo de pele 5 e cabelo louro, tipo de pele 5
+👱🏿	cabelo louro, loira, loiro, loura, louro, pessoa com cabelo loiro, pessoa com cabelo louro, pessoa: cabelo louro, pessoa: tipo de pele 6 e cabelo louro, tipo de pele 6
+🧑‍🦰	adulta, adulto, cabelo ruivo, género neutro, pessoa, pessoa: cabelo ruivo
+🧑🏻‍🦰	adulta, adulto, cabelo ruivo, género neutro, pessoa, pessoa: tipo de pele 1–2 e cabelo ruivo, tipo de pele 1–2
+🧑🏼‍🦰	adulta, adulto, cabelo ruivo, género neutro, pessoa, pessoa: tipo de pele 3 e cabelo ruivo, tipo de pele 3
+🧑🏽‍🦰	adulta, adulto, cabelo ruivo, género neutro, pessoa, pessoa: tipo de pele 4 e cabelo ruivo, tipo de pele 4
+🧑🏾‍🦰	adulta, adulto, cabelo ruivo, género neutro, pessoa, pessoa: tipo de pele 5 e cabelo ruivo, tipo de pele 5
+🧑🏿‍🦰	adulta, adulto, cabelo ruivo, género neutro, pessoa, pessoa: tipo de pele 6 e cabelo ruivo, tipo de pele 6
+🧑‍🦱	adulta, adulto, cabelo encaracolado, género neutro, pessoa, pessoa: cabelo encaracolado
+🧑🏻‍🦱	adulta, adulto, cabelo encaracolado, género neutro, pessoa, pessoa: tipo de pele 1–2 e cabelo encaracolado, tipo de pele 1–2
+🧑🏼‍🦱	adulta, adulto, cabelo encaracolado, género neutro, pessoa, pessoa: tipo de pele 3 e cabelo encaracolado, tipo de pele 3
+🧑🏽‍🦱	adulta, adulto, cabelo encaracolado, género neutro, pessoa, pessoa: tipo de pele 4 e cabelo encaracolado, tipo de pele 4
+🧑🏾‍🦱	adulta, adulto, cabelo encaracolado, género neutro, pessoa, pessoa: tipo de pele 5 e cabelo encaracolado, tipo de pele 5
+🧑🏿‍🦱	adulta, adulto, cabelo encaracolado, género neutro, pessoa, pessoa: tipo de pele 6 e cabelo encaracolado, tipo de pele 6
+🧑‍🦳	adulta, adulto, cabelo branco, género neutro, pessoa
+🧑🏻‍🦳	adulta, adulto, cabelo branco, género neutro, pessoa, pessoa: tipo de pele 1–2 e cabelo branco, tipo de pele 1–2
+🧑🏼‍🦳	adulta, adulto, cabelo branco, género neutro, pessoa, pessoa: tipo de pele 3 e cabelo branco, tipo de pele 3
+🧑🏽‍🦳	adulta, adulto, cabelo branco, género neutro, pessoa, pessoa: tipo de pele 4 e cabelo branco, tipo de pele 4
+🧑🏾‍🦳	adulta, adulto, cabelo branco, género neutro, pessoa, pessoa: tipo de pele 5 e cabelo branco, tipo de pele 5
+🧑🏿‍🦳	adulta, adulto, cabelo branco, género neutro, pessoa, pessoa: tipo de pele 6 e cabelo branco, tipo de pele 6
+🧑‍🦲	adulta, adulto, careca, género neutro, pessoa
+🧑🏻‍🦲	adulta, adulto, careca, género neutro, pessoa, pessoa: tipo de pele 1–2 e careca, tipo de pele 1–2
+🧑🏼‍🦲	adulta, adulto, careca, género neutro, pessoa, pessoa: tipo de pele 3 e careca, tipo de pele 3
+🧑🏽‍🦲	adulta, adulto, careca, género neutro, pessoa, pessoa: tipo de pele 4 e careca, tipo de pele 4
+🧑🏾‍🦲	adulta, adulto, careca, género neutro, pessoa, pessoa: tipo de pele 5 e careca, tipo de pele 5
+🧑🏿‍🦲	adulta, adulto, careca, género neutro, pessoa, pessoa: tipo de pele 6 e careca, tipo de pele 6
 👨	adulto, homem, pessoa
 👨🏻	adulto, homem, homem: tipo de pele 1–2, pessoa, tipo de pele 1–2
 👨🏼	adulto, homem, homem: tipo de pele 3, pessoa, tipo de pele 3
 👨🏽	adulto, homem, homem: tipo de pele 4, pessoa, tipo de pele 4
 👨🏾	adulto, homem, homem: tipo de pele 5, pessoa, tipo de pele 5
 👨🏿	adulto, homem, homem: tipo de pele 6, pessoa, tipo de pele 6
-🧔	barba, pessoa
-🧔🏻	barba, homem: tipo de pele 1–2 e barba, pessoa, tipo de pele 1–2
-🧔🏼	barba, homem: tipo de pele 3 e barba, pessoa, tipo de pele 3
-🧔🏽	barba, homem: tipo de pele 4 e barba, pessoa, tipo de pele 4
-🧔🏾	barba, homem: tipo de pele 5 e barba, pessoa, tipo de pele 5
-🧔🏿	barba, homem: tipo de pele 6 e barba, pessoa, tipo de pele 6
-👱‍♂	homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, louro
-👱🏻‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: tipo de pele 1–2 e cabelo loiro, louro, tipo de pele 1–2
-👱🏼‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: tipo de pele 3 e cabelo loiro, louro, tipo de pele 3
-👱🏽‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: tipo de pele 4 e cabelo loiro, louro, tipo de pele 4
-👱🏾‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: tipo de pele 5 e cabelo loiro, louro, tipo de pele 5
-👱🏿‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: tipo de pele 6 e cabelo loiro, louro, tipo de pele 6
+🧔	barba, homem, homem: barba, pessoa
+🧔🏻	barba, homem, homem: barba, homem: tipo de pele 1–2 e barba, pessoa, tipo de pele 1–2
+🧔🏼	barba, homem, homem: barba, homem: tipo de pele 3 e barba, pessoa, tipo de pele 3
+🧔🏽	barba, homem, homem: barba, homem: tipo de pele 4 e barba, pessoa, tipo de pele 4
+🧔🏾	barba, homem, homem: barba, homem: tipo de pele 5 e barba, pessoa, tipo de pele 5
+🧔🏿	barba, homem, homem: barba, homem: tipo de pele 6 e barba, pessoa, tipo de pele 6
+👱‍♂	homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: cabelo loiro, louro
+👱🏻‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: cabelo loiro, homem: tipo de pele 1–2 e cabelo loiro, louro, tipo de pele 1–2
+👱🏼‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: cabelo loiro, homem: tipo de pele 3 e cabelo loiro, louro, tipo de pele 3
+👱🏽‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: cabelo loiro, homem: tipo de pele 4 e cabelo loiro, louro, tipo de pele 4
+👱🏾‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: cabelo loiro, homem: tipo de pele 5 e cabelo loiro, louro, tipo de pele 5
+👱🏿‍♂	cabelo loiro, homem, homem com cabelo loiro, homem com cabelo louro, homem loiro, homem: cabelo loiro, homem: tipo de pele 6 e cabelo loiro, louro, tipo de pele 6
 👨‍🦰	adulto, cabelo ruivo, homem, homem: cabelo ruivo, pessoa
 👨🏻‍🦰	adulto, cabelo ruivo, homem, homem: tipo de pele 1–2 e cabelo ruivo, pessoa, tipo de pele 1–2
 👨🏼‍🦰	adulto, cabelo ruivo, homem, homem: tipo de pele 3 e cabelo ruivo, pessoa, tipo de pele 3
@@ -462,12 +491,12 @@
 👩🏽	adulta, mulher, mulher: tipo de pele 4, pessoa, tipo de pele 4
 👩🏾	adulta, mulher, mulher: tipo de pele 5, pessoa, tipo de pele 5
 👩🏿	adulta, mulher, mulher: tipo de pele 6, pessoa, tipo de pele 6
-👱‍♀	loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira
-👱🏻‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: tipo de pele 1–2 e cabelo loiro, tipo de pele 1–2
-👱🏼‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: tipo de pele 3 e cabelo loiro, tipo de pele 3
-👱🏽‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: tipo de pele 4 e cabelo loiro, tipo de pele 4
-👱🏾‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: tipo de pele 5 e cabelo loiro, tipo de pele 5
-👱🏿‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: tipo de pele 6 e cabelo loiro, tipo de pele 6
+👱‍♀	loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: cabelo loiro
+👱🏻‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: cabelo loiro, mulher: tipo de pele 1–2 e cabelo loiro, tipo de pele 1–2
+👱🏼‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: cabelo loiro, mulher: tipo de pele 3 e cabelo loiro, tipo de pele 3
+👱🏽‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: cabelo loiro, mulher: tipo de pele 4 e cabelo loiro, tipo de pele 4
+👱🏾‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: cabelo loiro, mulher: tipo de pele 5 e cabelo loiro, tipo de pele 5
+👱🏿‍♀	cabelo loiro, loura, mulher, mulher com cabelo loiro, mulher com cabelo louro, mulher loira, mulher: cabelo loiro, mulher: tipo de pele 6 e cabelo loiro, tipo de pele 6
 👩‍🦰	adulta, cabelo ruivo, mulher, mulher: cabelo ruivo, pessoa
 👩🏻‍🦰	adulta, cabelo ruivo, mulher, mulher: tipo de pele 1–2 e cabelo ruivo, pessoa, tipo de pele 1–2
 👩🏼‍🦰	adulta, cabelo ruivo, mulher, mulher: tipo de pele 3 e cabelo ruivo, pessoa, tipo de pele 3
@@ -498,18 +527,18 @@
 🧓🏽	género neutro, pessoa de idade, pessoa idosa, pessoa idosa: tipo de pele 4, tipo de pele 4
 🧓🏾	género neutro, pessoa de idade, pessoa idosa, pessoa idosa: tipo de pele 5, tipo de pele 5
 🧓🏿	género neutro, pessoa de idade, pessoa idosa, pessoa idosa: tipo de pele 6, tipo de pele 6
-👴	homem de idade avançada, homem idoso, idoso, velho
-👴🏻	homem de idade avançada, homem idoso, idoso, idoso: tipo de pele 1–2, tipo de pele 1–2, velho
-👴🏼	homem de idade avançada, homem idoso, idoso, idoso: tipo de pele 3, tipo de pele 3, velho
-👴🏽	homem de idade avançada, homem idoso, idoso, idoso: tipo de pele 4, tipo de pele 4, velho
-👴🏾	homem de idade avançada, homem idoso, idoso, idoso: tipo de pele 5, tipo de pele 5, velho
-👴🏿	homem de idade avançada, homem idoso, idoso, idoso: tipo de pele 6, tipo de pele 6, velho
-👵	mulher de idade avançada, mulher idosa, velha
-👵🏻	idosa: tipo de pele 1–2, mulher de idade avançada, mulher idosa, tipo de pele 1–2, velha
-👵🏼	idosa: tipo de pele 3, mulher de idade avançada, mulher idosa, tipo de pele 3, velha
-👵🏽	idosa: tipo de pele 4, mulher de idade avançada, mulher idosa, tipo de pele 4, velha
-👵🏾	idosa: tipo de pele 5, mulher de idade avançada, mulher idosa, tipo de pele 5, velha
-👵🏿	idosa: tipo de pele 6, mulher de idade avançada, mulher idosa, tipo de pele 6, velha
+👴	idoso
+👴🏻	adulto, homem, idoso, idoso: tipo de pele 1–2, tipo de pele 1–2
+👴🏼	adulto, homem, idoso, idoso: tipo de pele 3, tipo de pele 3
+👴🏽	adulto, homem, idoso, idoso: tipo de pele 4, tipo de pele 4
+👴🏾	adulto, homem, idoso, idoso: tipo de pele 5, tipo de pele 5
+👴🏿	adulto, homem, idoso, idoso: tipo de pele 6, tipo de pele 6
+👵	idosa, mulher de idade avançada, mulher idosa, velha
+👵🏻	idosa, idosa: tipo de pele 1–2, mulher de idade avançada, mulher idosa, tipo de pele 1–2, velha
+👵🏼	idosa, idosa: tipo de pele 3, mulher de idade avançada, mulher idosa, tipo de pele 3, velha
+👵🏽	idosa, idosa: tipo de pele 4, mulher de idade avançada, mulher idosa, tipo de pele 4, velha
+👵🏾	idosa, idosa: tipo de pele 5, mulher de idade avançada, mulher idosa, tipo de pele 5, velha
+👵🏿	idosa, idosa: tipo de pele 6, mulher de idade avançada, mulher idosa, tipo de pele 6, velha
 🙍	cara triste, gesto, pessoa de sobrolho franzido
 🙍🏻	cara triste, gesto, pessoa de sobrolho franzido, pessoa de sobrolho franzido: tipo de pele 1–2, tipo de pele 1–2
 🙍🏼	cara triste, gesto, pessoa de sobrolho franzido, pessoa de sobrolho franzido: tipo de pele 3, tipo de pele 3
@@ -618,21 +647,21 @@
 🙋🏽‍♀	gesto, mulher, mulher de mão levantada, mulher de mão levantada: tipo de pele 4, mão levantada, tipo de pele 4
 🙋🏾‍♀	gesto, mulher, mulher de mão levantada, mulher de mão levantada: tipo de pele 5, mão levantada, tipo de pele 5
 🙋🏿‍♀	gesto, mulher, mulher de mão levantada, mulher de mão levantada: tipo de pele 6, mão levantada, tipo de pele 6
-🧏🏻	pessoa surda, pessoa surda: tipo de pele 1–2, tipo de pele 1–2
-🧏🏼	pessoa surda, pessoa surda: tipo de pele 3, tipo de pele 3
-🧏🏽	pessoa surda, pessoa surda: tipo de pele 4, tipo de pele 4
-🧏🏾	pessoa surda, pessoa surda: tipo de pele 5, tipo de pele 5
-🧏🏿	pessoa surda, pessoa surda: tipo de pele 6, tipo de pele 6
-🧏🏻‍♂	homem surdo, homem surdo: tipo de pele 1–2, tipo de pele 1–2
-🧏🏼‍♂	homem surdo, homem surdo: tipo de pele 3, tipo de pele 3
-🧏🏽‍♂	homem surdo, homem surdo: tipo de pele 4, tipo de pele 4
-🧏🏾‍♂	homem surdo, homem surdo: tipo de pele 5, tipo de pele 5
-🧏🏿‍♂	homem surdo, homem surdo: tipo de pele 6, tipo de pele 6
-🧏🏻‍♀	mulher surda, mulher surda: tipo de pele 1–2, tipo de pele 1–2
-🧏🏼‍♀	mulher surda, mulher surda: tipo de pele 3, tipo de pele 3
-🧏🏽‍♀	mulher surda, mulher surda: tipo de pele 4, tipo de pele 4
-🧏🏾‍♀	mulher surda, mulher surda: tipo de pele 5, tipo de pele 5
-🧏🏿‍♀	mulher surda, mulher surda: tipo de pele 6, tipo de pele 6
+🧏🏻	acessibilidade, audição, orelha, pessoa surda, pessoa surda: tipo de pele 1–2, surdos, tipo de pele 1–2
+🧏🏼	acessibilidade, audição, orelha, pessoa surda, pessoa surda: tipo de pele 3, surdos, tipo de pele 3
+🧏🏽	acessibilidade, audição, orelha, pessoa surda, pessoa surda: tipo de pele 4, surdos, tipo de pele 4
+🧏🏾	acessibilidade, audição, orelha, pessoa surda, pessoa surda: tipo de pele 5, surdos, tipo de pele 5
+🧏🏿	acessibilidade, audição, orelha, pessoa surda, pessoa surda: tipo de pele 6, surdos, tipo de pele 6
+🧏🏻‍♂	homem, homem surdo: tipo de pele 1–2, surdo, tipo de pele 1–2
+🧏🏼‍♂	homem, homem surdo: tipo de pele 3, surdo, tipo de pele 3
+🧏🏽‍♂	homem, homem surdo: tipo de pele 4, surdo, tipo de pele 4
+🧏🏾‍♂	homem, homem surdo: tipo de pele 5, surdo, tipo de pele 5
+🧏🏿‍♂	homem, homem surdo: tipo de pele 6, surdo, tipo de pele 6
+🧏🏻‍♀	mulher, mulher surda: tipo de pele 1–2, surda, tipo de pele 1–2
+🧏🏼‍♀	mulher, mulher surda: tipo de pele 3, surda, tipo de pele 3
+🧏🏽‍♀	mulher, mulher surda: tipo de pele 4, surda, tipo de pele 4
+🧏🏾‍♀	mulher, mulher surda: tipo de pele 5, surda, tipo de pele 5
+🧏🏿‍♀	mulher, mulher surda: tipo de pele 6, surda, tipo de pele 6
 🙇	desculpa, gesto, pedido de desculpas, pessoa a fazer vénia, vénia
 🙇🏻	desculpa, gesto, pedido de desculpas, pessoa a fazer vénia, pessoa a fazer vénia: tipo de pele 1–2, tipo de pele 1–2, vénia
 🙇🏼	desculpa, gesto, pedido de desculpas, pessoa a fazer vénia, pessoa a fazer vénia: tipo de pele 3, tipo de pele 3, vénia
@@ -687,6 +716,11 @@
 🤷🏽‍♀	dúvida, indiferença, mulher, mulher a encolher os ombros, mulher a encolher os ombros: tipo de pele 4, tipo de pele 4
 🤷🏾‍♀	dúvida, indiferença, mulher, mulher a encolher os ombros, mulher a encolher os ombros: tipo de pele 5, tipo de pele 5
 🤷🏿‍♀	dúvida, indiferença, mulher, mulher a encolher os ombros, mulher a encolher os ombros: tipo de pele 6, tipo de pele 6
+🧑🏻‍⚕	cuidados de saúde, enfermeira, médico, profissional de saúde, profissional de saúde: tipo de pele 1–2, terapeuta, tipo de pele 1–2
+🧑🏼‍⚕	cuidados de saúde, enfermeira, médico, profissional de saúde, profissional de saúde: tipo de pele 3, terapeuta, tipo de pele 3
+🧑🏽‍⚕	cuidados de saúde, enfermeira, médico, profissional de saúde, profissional de saúde: tipo de pele 4, terapeuta, tipo de pele 4
+🧑🏾‍⚕	cuidados de saúde, enfermeira, médico, profissional de saúde, profissional de saúde: tipo de pele 5, terapeuta, tipo de pele 5
+🧑🏿‍⚕	cuidados de saúde, enfermeira, médico, profissional de saúde, profissional de saúde: tipo de pele 6, terapeuta, tipo de pele 6
 👨‍⚕	doutor, enfermeiro, homem, médico, profissional da saúde (homem), profissional da área da saúde, profissional de saúde (homem), saúde, terapeuta
 👨🏻‍⚕	doutor, enfermeiro, homem, médico, profissional da saúde (homem), profissional da área da saúde, profissional de saúde (homem), profissional de saúde (homem): tipo de pele 1–2, saúde, terapeuta, tipo de pele 1–2
 👨🏼‍⚕	doutor, enfermeiro, homem, médico, profissional da saúde (homem), profissional da área da saúde, profissional de saúde (homem), profissional de saúde (homem): tipo de pele 3, saúde, terapeuta, tipo de pele 3
@@ -699,6 +733,12 @@
 👩🏽‍⚕	doutora, enfermeira, mulher, médica, profissional da saúde (mulher), profissional da área da saúde, profissional de saúde (mulher), profissional de saúde (mulher): tipo de pele 4, serviço de saúde, tipo de pele 4
 👩🏾‍⚕	doutora, enfermeira, mulher, médica, profissional da saúde (mulher), profissional da área da saúde, profissional de saúde (mulher), profissional de saúde (mulher): tipo de pele 5, serviço de saúde, tipo de pele 5
 👩🏿‍⚕	doutora, enfermeira, mulher, médica, profissional da saúde (mulher), profissional da área da saúde, profissional de saúde (mulher), profissional de saúde (mulher): tipo de pele 6, serviço de saúde, tipo de pele 6
+🧑‍🎓	aluno, estudante, universitário
+🧑🏻‍🎓	aluno, aluno: tipo de pele 1–2, estudante, tipo de pele 1–2, universitário
+🧑🏼‍🎓	aluno, aluno: tipo de pele 3, estudante, tipo de pele 3, universitário
+🧑🏽‍🎓	aluno, aluno: tipo de pele 4, estudante, tipo de pele 4, universitário
+🧑🏾‍🎓	aluno, aluno: tipo de pele 5, estudante, tipo de pele 5, universitário
+🧑🏿‍🎓	aluno, aluno: tipo de pele 6, estudante, tipo de pele 6, universitário
 👨‍🎓	aluno, estudante, estudante (homem), homem, universitário
 👨🏻‍🎓	aluno, estudante, estudante (homem), estudante (homem): tipo de pele 1–2, homem, tipo de pele 1–2, universitário
 👨🏼‍🎓	aluno, estudante, estudante (homem), estudante (homem): tipo de pele 3, homem, tipo de pele 3, universitário
@@ -711,30 +751,47 @@
 👩🏽‍🎓	aluna, estudante, estudante (mulher), estudante (mulher): tipo de pele 4, mulher, tipo de pele 4, universitária
 👩🏾‍🎓	aluna, estudante, estudante (mulher), estudante (mulher): tipo de pele 5, mulher, tipo de pele 5, universitária
 👩🏿‍🎓	aluna, estudante, estudante (mulher), estudante (mulher): tipo de pele 6, mulher, tipo de pele 6, universitária
-👨‍🏫	homem, instrutor, professor
-👨🏻‍🏫	homem, instrutor, professor, professor: tipo de pele 1–2, tipo de pele 1–2
-👨🏼‍🏫	homem, instrutor, professor, professor: tipo de pele 3, tipo de pele 3
-👨🏽‍🏫	homem, instrutor, professor, professor: tipo de pele 4, tipo de pele 4
-👨🏾‍🏫	homem, instrutor, professor, professor: tipo de pele 5, tipo de pele 5
-👨🏿‍🏫	homem, instrutor, professor, professor: tipo de pele 6, tipo de pele 6
+🧑‍🏫	educador, formador, instrutor, professor
+🧑🏻‍🏫	educador, formador, instrutor, professor, professor: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍🏫	educador, formador, instrutor, professor, professor: tipo de pele 3, tipo de pele 3
+🧑🏽‍🏫	educador, formador, instrutor, professor, professor: tipo de pele 4, tipo de pele 4
+🧑🏾‍🏫	educador, formador, instrutor, professor, professor: tipo de pele 5, tipo de pele 5
+🧑🏿‍🏫	educador, formador, instrutor, professor, professor: tipo de pele 6, tipo de pele 6
+👨‍🏫	homem, instrutor, professor, professor (homem)
+👨🏻‍🏫	homem, instrutor, professor, professor (homem), professor (homem): tipo de pele 1–2, tipo de pele 1–2
+👨🏼‍🏫	homem, instrutor, professor, professor (homem), professor (homem): tipo de pele 3, tipo de pele 3
+👨🏽‍🏫	homem, instrutor, professor, professor (homem), professor (homem): tipo de pele 4, tipo de pele 4
+👨🏾‍🏫	homem, instrutor, professor, professor (homem), professor (homem): tipo de pele 5, tipo de pele 5
+👨🏿‍🏫	homem, instrutor, professor, professor (homem), professor (homem): tipo de pele 6, tipo de pele 6
 👩‍🏫	instrutora, mulher, professora
 👩🏻‍🏫	instrutora, mulher, professora, professora: tipo de pele 1–2, tipo de pele 1–2
 👩🏼‍🏫	instrutora, mulher, professora, professora: tipo de pele 3, tipo de pele 3
 👩🏽‍🏫	instrutora, mulher, professora, professora: tipo de pele 4, tipo de pele 4
 👩🏾‍🏫	instrutora, mulher, professora, professora: tipo de pele 5, tipo de pele 5
 👩🏿‍🏫	instrutora, mulher, professora, professora: tipo de pele 6, tipo de pele 6
-👨‍⚖	balança, homem, justiça
-👨🏻‍⚖	balança, homem, juiz: tipo de pele 1–2, justiça, tipo de pele 1–2
-👨🏼‍⚖	balança, homem, juiz: tipo de pele 3, justiça, tipo de pele 3
-👨🏽‍⚖	balança, homem, juiz: tipo de pele 4, justiça, tipo de pele 4
-👨🏾‍⚖	balança, homem, juiz: tipo de pele 5, justiça, tipo de pele 5
-👨🏿‍⚖	balança, homem, juiz: tipo de pele 6, justiça, tipo de pele 6
-👩‍⚖	balança, justiça, mulher
-👩🏻‍⚖	balança, justiça, juíza: tipo de pele 1–2, mulher, tipo de pele 1–2
-👩🏼‍⚖	balança, justiça, juíza: tipo de pele 3, mulher, tipo de pele 3
-👩🏽‍⚖	balança, justiça, juíza: tipo de pele 4, mulher, tipo de pele 4
-👩🏾‍⚖	balança, justiça, juíza: tipo de pele 5, mulher, tipo de pele 5
-👩🏿‍⚖	balança, justiça, juíza: tipo de pele 6, mulher, tipo de pele 6
+🧑‍⚖	balança, juiz, justiça
+🧑🏻‍⚖	balança, juiz, juiz: tipo de pele 1–2, justiça, tipo de pele 1–2
+🧑🏼‍⚖	balança, juiz, juiz: tipo de pele 3, justiça, tipo de pele 3
+🧑🏽‍⚖	balança, juiz, juiz: tipo de pele 4, justiça, tipo de pele 4
+🧑🏾‍⚖	balança, juiz, juiz: tipo de pele 5, justiça, tipo de pele 5
+🧑🏿‍⚖	balança, juiz, juiz: tipo de pele 6, justiça, tipo de pele 6
+👨‍⚖	balança, homem, juiz (homem), justiça
+👨🏻‍⚖	balança, homem, juiz (homem), juiz (homem): tipo de pele 1–2, justiça, tipo de pele 1–2
+👨🏼‍⚖	balança, homem, juiz (homem), juiz (homem): tipo de pele 3, justiça, tipo de pele 3
+👨🏽‍⚖	balança, homem, juiz (homem), juiz (homem): tipo de pele 4, justiça, tipo de pele 4
+👨🏾‍⚖	balança, homem, juiz (homem), juiz (homem): tipo de pele 5, justiça, tipo de pele 5
+👨🏿‍⚖	balança, homem, juiz (homem), juiz (homem): tipo de pele 6, justiça, tipo de pele 6
+👩🏻‍⚖	balança, justiça, juíza, juíza: tipo de pele 1–2, mulher, tipo de pele 1–2
+👩🏼‍⚖	balança, justiça, juíza, juíza: tipo de pele 3, mulher, tipo de pele 3
+👩🏽‍⚖	balança, justiça, juíza, juíza: tipo de pele 4, mulher, tipo de pele 4
+👩🏾‍⚖	balança, justiça, juíza, juíza: tipo de pele 5, mulher, tipo de pele 5
+👩🏿‍⚖	balança, justiça, juíza, juíza: tipo de pele 6, mulher, tipo de pele 6
+🧑‍🌾	agricultor, jardineiro, lavrador, rancheiro
+🧑🏻‍🌾	agricultor, jardineiro, lavrador, lavrador: tipo de pele 1–2, rancheiro, tipo de pele 1–2
+🧑🏼‍🌾	agricultor, jardineiro, lavrador, lavrador: tipo de pele 3, rancheiro, tipo de pele 3
+🧑🏽‍🌾	agricultor, jardineiro, lavrador, lavrador: tipo de pele 4, rancheiro, tipo de pele 4
+🧑🏾‍🌾	agricultor, jardineiro, lavrador, lavrador: tipo de pele 5, rancheiro, tipo de pele 5
+🧑🏿‍🌾	agricultor, jardineiro, lavrador, lavrador: tipo de pele 6, rancheiro, tipo de pele 6
 👨‍🌾	agricultor, fazendeiro, homem, jardineiro, lavrador
 👨🏻‍🌾	agricultor, agricultor: tipo de pele 1–2, fazendeiro, homem, jardineiro, lavrador, tipo de pele 1–2
 👨🏼‍🌾	agricultor, agricultor: tipo de pele 3, fazendeiro, homem, jardineiro, lavrador, tipo de pele 3
@@ -747,29 +804,48 @@
 👩🏽‍🌾	agricultora, agricultora: tipo de pele 4, fazendeira, jardineira, lavradora, mulher, tipo de pele 4
 👩🏾‍🌾	agricultora, agricultora: tipo de pele 5, fazendeira, jardineira, lavradora, mulher, tipo de pele 5
 👩🏿‍🌾	agricultora, agricultora: tipo de pele 6, fazendeira, jardineira, lavradora, mulher, tipo de pele 6
-👨🏻‍🍳	chef, cozinheiro, cozinheiro: tipo de pele 1–2, homem, tipo de pele 1–2
-👨🏼‍🍳	chef, cozinheiro, cozinheiro: tipo de pele 3, homem, tipo de pele 3
-👨🏽‍🍳	chef, cozinheiro, cozinheiro: tipo de pele 4, homem, tipo de pele 4
-👨🏾‍🍳	chef, cozinheiro, cozinheiro: tipo de pele 5, homem, tipo de pele 5
-👨🏿‍🍳	chef, cozinheiro, cozinheiro: tipo de pele 6, homem, tipo de pele 6
+🧑‍🍳	chefe de cozinha, cozinheiro
+🧑🏻‍🍳	chefe de cozinha, cozinheiro, cozinheiro: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍🍳	chefe de cozinha, cozinheiro, cozinheiro: tipo de pele 3, tipo de pele 3
+🧑🏽‍🍳	chefe de cozinha, cozinheiro, cozinheiro: tipo de pele 4, tipo de pele 4
+🧑🏾‍🍳	chefe de cozinha, cozinheiro, cozinheiro: tipo de pele 5, tipo de pele 5
+🧑🏿‍🍳	chefe de cozinha, cozinheiro, cozinheiro: tipo de pele 6, tipo de pele 6
+👨‍🍳	chef, cozinheiro, cozinheiro (homem), homem
+👨🏻‍🍳	chef, cozinheiro, cozinheiro (homem), cozinheiro (homem): tipo de pele 1–2, homem, tipo de pele 1–2
+👨🏼‍🍳	chef, cozinheiro, cozinheiro (homem), cozinheiro (homem): tipo de pele 3, homem, tipo de pele 3
+👨🏽‍🍳	chef, cozinheiro, cozinheiro (homem), cozinheiro (homem): tipo de pele 4, homem, tipo de pele 4
+👨🏾‍🍳	chef, cozinheiro, cozinheiro (homem), cozinheiro (homem): tipo de pele 5, homem, tipo de pele 5
+👨🏿‍🍳	chef, cozinheiro, cozinheiro (homem), cozinheiro (homem): tipo de pele 6, homem, tipo de pele 6
 👩‍🍳	chef, cozinheira, homem
 👩🏻‍🍳	chef, cozinheira, cozinheira: tipo de pele 1–2, homem, tipo de pele 1–2
 👩🏼‍🍳	chef, cozinheira, cozinheira: tipo de pele 3, homem, tipo de pele 3
 👩🏽‍🍳	chef, cozinheira, cozinheira: tipo de pele 4, homem, tipo de pele 4
 👩🏾‍🍳	chef, cozinheira, cozinheira: tipo de pele 5, homem, tipo de pele 5
 👩🏿‍🍳	chef, cozinheira, cozinheira: tipo de pele 6, homem, tipo de pele 6
-👨‍🔧	canalizador, electricista, eletricista, homem, mecânico
-👨🏻‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico: tipo de pele 1–2, tipo de pele 1–2
-👨🏼‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico: tipo de pele 3, tipo de pele 3
-👨🏽‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico: tipo de pele 4, tipo de pele 4
-👨🏾‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico: tipo de pele 5, tipo de pele 5
-👨🏿‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico: tipo de pele 6, tipo de pele 6
+🧑‍🔧	canalizador, eletricista, mecânico, ofício
+🧑🏻‍🔧	canalizador, eletricista, mecânico, mecânico: tipo de pele 1–2, ofício, tipo de pele 1–2
+🧑🏼‍🔧	canalizador, eletricista, mecânico, mecânico: tipo de pele 3, ofício, tipo de pele 3
+🧑🏽‍🔧	canalizador, eletricista, mecânico, mecânico: tipo de pele 4, ofício, tipo de pele 4
+🧑🏾‍🔧	canalizador, eletricista, mecânico, mecânico: tipo de pele 5, ofício, tipo de pele 5
+🧑🏿‍🔧	canalizador, eletricista, mecânico, mecânico: tipo de pele 6, ofício, tipo de pele 6
+👨‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico (homem)
+👨🏻‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico (homem), mecânico (homem): tipo de pele 1–2, tipo de pele 1–2
+👨🏼‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico (homem), mecânico (homem): tipo de pele 3, tipo de pele 3
+👨🏽‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico (homem), mecânico (homem): tipo de pele 4, tipo de pele 4
+👨🏾‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico (homem), mecânico (homem): tipo de pele 5, tipo de pele 5
+👨🏿‍🔧	canalizador, electricista, eletricista, homem, mecânico, mecânico (homem), mecânico (homem): tipo de pele 6, tipo de pele 6
 👩‍🔧	canalizadora, electricista, eletricista, mecânica, mulher
 👩🏻‍🔧	canalizadora, electricista, eletricista, mecânica, mecânica: tipo de pele 1–2, mulher, tipo de pele 1–2
 👩🏼‍🔧	canalizadora, electricista, eletricista, mecânica, mecânica: tipo de pele 3, mulher, tipo de pele 3
 👩🏽‍🔧	canalizadora, electricista, eletricista, mecânica, mecânica: tipo de pele 4, mulher, tipo de pele 4
 👩🏾‍🔧	canalizadora, electricista, eletricista, mecânica, mecânica: tipo de pele 5, mulher, tipo de pele 5
 👩🏿‍🔧	canalizadora, electricista, eletricista, mecânica, mecânica: tipo de pele 6, mulher, tipo de pele 6
+🧑‍🏭	funcionário de fábrica, fábrica, industrial, montagem, trabalhador, trabalhador fabril
+🧑🏻‍🏭	funcionário de fábrica, fábrica, industrial, montagem, tipo de pele 1–2, trabalhador, trabalhador fabril, trabalhador fabril: tipo de pele 1–2
+🧑🏼‍🏭	funcionário de fábrica, fábrica, industrial, montagem, tipo de pele 3, trabalhador, trabalhador fabril, trabalhador fabril: tipo de pele 3
+🧑🏽‍🏭	funcionário de fábrica, fábrica, industrial, montagem, tipo de pele 4, trabalhador, trabalhador fabril, trabalhador fabril: tipo de pele 4
+🧑🏾‍🏭	funcionário de fábrica, fábrica, industrial, montagem, tipo de pele 5, trabalhador, trabalhador fabril, trabalhador fabril: tipo de pele 5
+🧑🏿‍🏭	funcionário de fábrica, fábrica, industrial, montagem, tipo de pele 6, trabalhador, trabalhador fabril, trabalhador fabril: tipo de pele 6
 👨‍🏭	fábrica, homem, industrial, montagem, operário, operário fabril, trabalhador
 👨🏻‍🏭	fábrica, homem, industrial, montagem, operário, operário fabril, operário fabril: tipo de pele 1–2, tipo de pele 1–2, trabalhador
 👨🏼‍🏭	fábrica, homem, industrial, montagem, operário, operário fabril, operário fabril: tipo de pele 3, tipo de pele 3, trabalhador
@@ -782,6 +858,12 @@
 👩🏽‍🏭	fábrica, industrial, montagem, mulher, operária, operária fabril, operária fabril: tipo de pele 4, tipo de pele 4, trabalhadora
 👩🏾‍🏭	fábrica, industrial, montagem, mulher, operária, operária fabril, operária fabril: tipo de pele 5, tipo de pele 5, trabalhadora
 👩🏿‍🏭	fábrica, industrial, montagem, mulher, operária, operária fabril, operária fabril: tipo de pele 6, tipo de pele 6, trabalhadora
+🧑‍💼	arquiteto, empregado de escritório, gerente, negócios, trabalhador de escritório
+🧑🏻‍💼	arquiteto, empregado de escritório, empregado de escritório: tipo de pele 1–2, gerente, negócios, tipo de pele 1–2, trabalhador de escritório
+🧑🏼‍💼	arquiteto, empregado de escritório, empregado de escritório: tipo de pele 3, gerente, negócios, tipo de pele 3, trabalhador de escritório
+🧑🏽‍💼	arquiteto, empregado de escritório, empregado de escritório: tipo de pele 4, gerente, negócios, tipo de pele 4, trabalhador de escritório
+🧑🏾‍💼	arquiteto, empregado de escritório, empregado de escritório: tipo de pele 5, gerente, negócios, tipo de pele 5, trabalhador de escritório
+🧑🏿‍💼	arquiteto, empregado de escritório, empregado de escritório: tipo de pele 6, gerente, negócios, tipo de pele 6, trabalhador de escritório
 👨‍💼	administrador, empresa, funcionário de escritório, gerente, homem, trabalhador de escritório
 👨🏻‍💼	administrador, empresa, funcionário de escritório, funcionário de escritório: tipo de pele 1–2, gerente, homem, tipo de pele 1–2, trabalhador de escritório
 👨🏼‍💼	administrador, empresa, funcionário de escritório, funcionário de escritório: tipo de pele 3, gerente, homem, tipo de pele 3, trabalhador de escritório
@@ -794,6 +876,11 @@
 👩🏽‍💼	administradora, empresa, funcionária de escritório, funcionária de escritório: tipo de pele 4, gerente, mulher, tipo de pele 4, trabalhadora de escritório
 👩🏾‍💼	administradora, empresa, funcionária de escritório, funcionária de escritório: tipo de pele 5, gerente, mulher, tipo de pele 5, trabalhadora de escritório
 👩🏿‍💼	administradora, empresa, funcionária de escritório, funcionária de escritório: tipo de pele 6, gerente, mulher, tipo de pele 6, trabalhadora de escritório
+🧑🏻‍🔬	biólogo, cientista, cientista: tipo de pele 1–2, engenheiro, físico, químico, tipo de pele 1–2
+🧑🏼‍🔬	biólogo, cientista, cientista: tipo de pele 3, engenheiro, físico, químico, tipo de pele 3
+🧑🏽‍🔬	biólogo, cientista, cientista: tipo de pele 4, engenheiro, físico, químico, tipo de pele 4
+🧑🏾‍🔬	biólogo, cientista, cientista: tipo de pele 5, engenheiro, físico, químico, tipo de pele 5
+🧑🏿‍🔬	biólogo, cientista, cientista: tipo de pele 6, engenheiro, físico, químico, tipo de pele 6
 👨‍🔬	biólogo, cientista (homem), engenheiro, farmacêutico, matemático
 👨🏻‍🔬	biólogo, cientista (homem), cientista (homem): tipo de pele 1–2, engenheiro, farmacêutico, matemático, tipo de pele 1–2
 👨🏼‍🔬	biólogo, cientista (homem), cientista (homem): tipo de pele 3, engenheiro, farmacêutico, matemático, tipo de pele 3
@@ -806,6 +893,11 @@
 👩🏽‍🔬	bióloga, cientista (mulher), cientista (mulher): tipo de pele 4, engenheira, farmacêutica, matemática, tipo de pele 4
 👩🏾‍🔬	bióloga, cientista (mulher), cientista (mulher): tipo de pele 5, engenheira, farmacêutica, matemática, tipo de pele 5
 👩🏿‍🔬	bióloga, cientista (mulher), cientista (mulher): tipo de pele 6, engenheira, farmacêutica, matemática, tipo de pele 6
+🧑🏻‍💻	desenvolvedor, inventor, programador, programador: tipo de pele 1–2, software, tecnólogo, tipo de pele 1–2
+🧑🏼‍💻	desenvolvedor, inventor, programador, programador: tipo de pele 3, software, tecnólogo, tipo de pele 3
+🧑🏽‍💻	desenvolvedor, inventor, programador, programador: tipo de pele 4, software, tecnólogo, tipo de pele 4
+🧑🏾‍💻	desenvolvedor, inventor, programador, programador: tipo de pele 5, software, tecnólogo, tipo de pele 5
+🧑🏿‍💻	desenvolvedor, inventor, programador, programador: tipo de pele 6, software, tecnólogo, tipo de pele 6
 👨‍💻	homem, informático, inventor, programador, software
 👨🏻‍💻	homem, informático, informático: tipo de pele 1–2, inventor, programador, software, tipo de pele 1–2
 👨🏼‍💻	homem, informático, informático: tipo de pele 3, inventor, programador, software, tipo de pele 3
@@ -818,18 +910,29 @@
 👩🏽‍💻	informática, informática: tipo de pele 4, inventora, mulher, programadora, software, tipo de pele 4
 👩🏾‍💻	informática, informática: tipo de pele 5, inventora, mulher, programadora, software, tipo de pele 5
 👩🏿‍💻	informática, informática: tipo de pele 6, inventora, mulher, programadora, software, tipo de pele 6
-👨‍🎤	ator, estrela, homem, rock
-👨🏻‍🎤	ator, cantor: tipo de pele 1–2, estrela, homem, rock, tipo de pele 1–2
-👨🏼‍🎤	ator, cantor: tipo de pele 3, estrela, homem, rock, tipo de pele 3
-👨🏽‍🎤	ator, cantor: tipo de pele 4, estrela, homem, rock, tipo de pele 4
-👨🏾‍🎤	ator, cantor: tipo de pele 5, estrela, homem, rock, tipo de pele 5
-👨🏿‍🎤	ator, cantor: tipo de pele 6, estrela, homem, rock, tipo de pele 6
-👩‍🎤	atriz, estrela, mulher, rock
-👩🏻‍🎤	atriz, cantora: tipo de pele 1–2, estrela, mulher, rock, tipo de pele 1–2
-👩🏼‍🎤	atriz, cantora: tipo de pele 3, estrela, mulher, rock, tipo de pele 3
-👩🏽‍🎤	atriz, cantora: tipo de pele 4, estrela, mulher, rock, tipo de pele 4
-👩🏾‍🎤	atriz, cantora: tipo de pele 5, estrela, mulher, rock, tipo de pele 5
-👩🏿‍🎤	atriz, cantora: tipo de pele 6, estrela, mulher, rock, tipo de pele 6
+🧑‍🎤	ator, cantor, estrela, rock, vocalista
+🧑🏻‍🎤	ator, cantor, estrela, rock, tipo de pele 1–2, vocalista, vocalista: tipo de pele 1–2
+🧑🏼‍🎤	ator, cantor, estrela, rock, tipo de pele 3, vocalista, vocalista: tipo de pele 3
+🧑🏽‍🎤	ator, cantor, estrela, rock, tipo de pele 4, vocalista, vocalista: tipo de pele 4
+🧑🏾‍🎤	ator, cantor, estrela, rock, tipo de pele 5, vocalista, vocalista: tipo de pele 5
+🧑🏿‍🎤	ator, cantor, estrela, rock, tipo de pele 6, vocalista, vocalista: tipo de pele 6
+👨‍🎤	ator, cantor homem, estrela, homem, rock
+👨🏻‍🎤	ator, cantor homem, cantor homem: tipo de pele 1–2, estrela, homem, rock, tipo de pele 1–2
+👨🏼‍🎤	ator, cantor homem, cantor homem: tipo de pele 3, estrela, homem, rock, tipo de pele 3
+👨🏽‍🎤	ator, cantor homem, cantor homem: tipo de pele 4, estrela, homem, rock, tipo de pele 4
+👨🏾‍🎤	ator, cantor homem, cantor homem: tipo de pele 5, estrela, homem, rock, tipo de pele 5
+👨🏿‍🎤	ator, cantor homem, cantor homem: tipo de pele 6, estrela, homem, rock, tipo de pele 6
+👩‍🎤	atriz, cantora, estrela, mulher, rock
+👩🏻‍🎤	atriz, cantora, cantora: tipo de pele 1–2, estrela, mulher, rock, tipo de pele 1–2
+👩🏼‍🎤	atriz, cantora, cantora: tipo de pele 3, estrela, mulher, rock, tipo de pele 3
+👩🏽‍🎤	atriz, cantora, cantora: tipo de pele 4, estrela, mulher, rock, tipo de pele 4
+👩🏾‍🎤	atriz, cantora, cantora: tipo de pele 5, estrela, mulher, rock, tipo de pele 5
+👩🏿‍🎤	atriz, cantora, cantora: tipo de pele 6, estrela, mulher, rock, tipo de pele 6
+🧑🏻‍🎨	artista, artista: tipo de pele 1–2, paleta, tipo de pele 1–2
+🧑🏼‍🎨	artista, artista: tipo de pele 3, paleta, tipo de pele 3
+🧑🏽‍🎨	artista, artista: tipo de pele 4, paleta, tipo de pele 4
+🧑🏾‍🎨	artista, artista: tipo de pele 5, paleta, tipo de pele 5
+🧑🏿‍🎨	artista, artista: tipo de pele 6, paleta, tipo de pele 6
 👨‍🎨	artista, artista (homem), homem, paleta
 👨🏻‍🎨	artista, artista (homem), artista (homem): tipo de pele 1–2, homem, paleta, tipo de pele 1–2
 👨🏼‍🎨	artista, artista (homem), artista (homem): tipo de pele 3, homem, paleta, tipo de pele 3
@@ -842,6 +945,11 @@
 👩🏽‍🎨	artista, artista (mulher), artista (mulher): tipo de pele 4, mulher, paleta, tipo de pele 4
 👩🏾‍🎨	artista, artista (mulher), artista (mulher): tipo de pele 5, mulher, paleta, tipo de pele 5
 👩🏿‍🎨	artista, artista (mulher), artista (mulher): tipo de pele 6, mulher, paleta, tipo de pele 6
+🧑🏻‍✈	avião, piloto, piloto: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍✈	avião, piloto, piloto: tipo de pele 3, tipo de pele 3
+🧑🏽‍✈	avião, piloto, piloto: tipo de pele 4, tipo de pele 4
+🧑🏾‍✈	avião, piloto, piloto: tipo de pele 5, tipo de pele 5
+🧑🏿‍✈	avião, piloto, piloto: tipo de pele 6, tipo de pele 6
 👨‍✈	avião, homem, piloto, piloto (homem)
 👨🏻‍✈	avião, homem, piloto, piloto (homem), piloto (homem): tipo de pele 1–2, tipo de pele 1–2
 👨🏼‍✈	avião, homem, piloto, piloto (homem), piloto (homem): tipo de pele 3, tipo de pele 3
@@ -854,6 +962,12 @@
 👩🏽‍✈	avião, mulher, pilota, piloto (mulher), piloto (mulher): tipo de pele 4, tipo de pele 4
 👩🏾‍✈	avião, mulher, pilota, piloto (mulher), piloto (mulher): tipo de pele 5, tipo de pele 5
 👩🏿‍✈	avião, mulher, pilota, piloto (mulher), piloto (mulher): tipo de pele 6, tipo de pele 6
+🧑‍🚀	astronauta, foguetão
+🧑🏻‍🚀	astronauta, astronauta: tipo de pele 1–2, foguetão, tipo de pele 1–2
+🧑🏼‍🚀	astronauta, astronauta: tipo de pele 3, foguetão, tipo de pele 3
+🧑🏽‍🚀	astronauta, astronauta: tipo de pele 4, foguetão, tipo de pele 4
+🧑🏾‍🚀	astronauta, astronauta: tipo de pele 5, foguetão, tipo de pele 5
+🧑🏿‍🚀	astronauta, astronauta: tipo de pele 6, foguetão, tipo de pele 6
 👨‍🚀	astronauta (homem), espaço, foguete, homem
 👨🏻‍🚀	astronauta (homem), astronauta (homem): tipo de pele 1–2, espaço, foguete, homem, tipo de pele 1–2
 👨🏼‍🚀	astronauta (homem), astronauta (homem): tipo de pele 3, espaço, foguete, homem, tipo de pele 3
@@ -866,6 +980,12 @@
 👩🏽‍🚀	astronauta (mulher), astronauta (mulher): tipo de pele 4, espaço, foguete, mulher, tipo de pele 4
 👩🏾‍🚀	astronauta (mulher), astronauta (mulher): tipo de pele 5, espaço, foguete, mulher, tipo de pele 5
 👩🏿‍🚀	astronauta (mulher), astronauta (mulher): tipo de pele 6, espaço, foguete, mulher, tipo de pele 6
+🧑‍🚒	bombeiro, bombeiro (homem), camião dos bombeiros, carro dos bombeiros
+🧑🏻‍🚒	bombeiro, bombeiro (homem), bombeiro (homem): tipo de pele 1–2, camião dos bombeiros, carro dos bombeiros, tipo de pele 1–2
+🧑🏼‍🚒	bombeiro, bombeiro (homem), bombeiro (homem): tipo de pele 3, camião dos bombeiros, carro dos bombeiros, tipo de pele 3
+🧑🏽‍🚒	bombeiro, bombeiro (homem), bombeiro (homem): tipo de pele 4, camião dos bombeiros, carro dos bombeiros, tipo de pele 4
+🧑🏾‍🚒	bombeiro, bombeiro (homem), bombeiro (homem): tipo de pele 5, camião dos bombeiros, carro dos bombeiros, tipo de pele 5
+🧑🏿‍🚒	bombeiro, bombeiro (homem), bombeiro (homem): tipo de pele 6, camião dos bombeiros, carro dos bombeiros, tipo de pele 6
 👨‍🚒	bombeiro, carro de bombeiro, homem
 👨🏻‍🚒	bombeiro, bombeiro: tipo de pele 1–2, carro de bombeiro, homem, tipo de pele 1–2
 👨🏼‍🚒	bombeiro, bombeiro: tipo de pele 3, carro de bombeiro, homem, tipo de pele 3
@@ -896,12 +1016,12 @@
 👮🏽‍♀	agente, bófia, chui, mulher, polícia (mulher), polícia (mulher): tipo de pele 4, tipo de pele 4
 👮🏾‍♀	agente, bófia, chui, mulher, polícia (mulher), polícia (mulher): tipo de pele 5, tipo de pele 5
 👮🏿‍♀	agente, bófia, chui, mulher, polícia (mulher), polícia (mulher): tipo de pele 6, tipo de pele 6
-🕵️	espião
-🕵🏻	detetive: tipo de pele 1–2, espião, tipo de pele 1–2
-🕵🏼	detetive: tipo de pele 3, espião, tipo de pele 3
-🕵🏽	detetive: tipo de pele 4, espião, tipo de pele 4
-🕵🏾	detetive: tipo de pele 5, espião, tipo de pele 5
-🕵🏿	detetive: tipo de pele 6, espião, tipo de pele 6
+🕵️	detetive, espião
+🕵🏻	detetive, detetive: tipo de pele 1–2, espião, tipo de pele 1–2
+🕵🏼	detetive, detetive: tipo de pele 3, espião, tipo de pele 3
+🕵🏽	detetive, detetive: tipo de pele 4, espião, tipo de pele 4
+🕵🏾	detetive, detetive: tipo de pele 5, espião, tipo de pele 5
+🕵🏿	detetive, detetive: tipo de pele 6, espião, tipo de pele 6
 🕵‍♂	detetive (homem), espião, homem, investigador
 🕵🏻‍♂	detetive (homem), detetive (homem): tipo de pele 1–2, espião, homem, investigador, tipo de pele 1–2
 🕵🏼‍♂	detetive (homem), detetive (homem): tipo de pele 3, espião, homem, investigador, tipo de pele 3
@@ -931,6 +1051,7 @@
 💂🏽‍♀	guarda, mulher, segurança (mulher), segurança (mulher): tipo de pele 4, tipo de pele 4, uniforme
 💂🏾‍♀	guarda, mulher, segurança (mulher), segurança (mulher): tipo de pele 5, tipo de pele 5, uniforme
 💂🏿‍♀	guarda, mulher, segurança (mulher), segurança (mulher): tipo de pele 6, tipo de pele 6, uniforme
+🥷	escondido, lutador, ninja, oculto
 👷	chapéu, construção, pedreiro, trabalhador, trabalhador da construção civil
 👷🏻	chapéu, construção, pedreiro, pedreiro: tipo de pele 1–2, tipo de pele 1–2, trabalhador, trabalhador da construção civil
 👷🏼	chapéu, construção, pedreiro, pedreiro: tipo de pele 3, tipo de pele 3, trabalhador, trabalhador da construção civil
@@ -954,12 +1075,11 @@
 🤴🏽	príncipe, príncipe: tipo de pele 4, tipo de pele 4
 🤴🏾	príncipe, príncipe: tipo de pele 5, tipo de pele 5
 🤴🏿	príncipe, príncipe: tipo de pele 6, tipo de pele 6
-👸	conto de fadas, fantasia
-👸🏻	conto de fadas, fantasia, princesa: tipo de pele 1–2, tipo de pele 1–2
-👸🏼	conto de fadas, fantasia, princesa: tipo de pele 3, tipo de pele 3
-👸🏽	conto de fadas, fantasia, princesa: tipo de pele 4, tipo de pele 4
-👸🏾	conto de fadas, fantasia, princesa: tipo de pele 5, tipo de pele 5
-👸🏿	conto de fadas, fantasia, princesa: tipo de pele 6, tipo de pele 6
+👸🏻	conto de fadas, fantasia, princesa, princesa: tipo de pele 1–2, tipo de pele 1–2
+👸🏼	conto de fadas, fantasia, princesa, princesa: tipo de pele 3, tipo de pele 3
+👸🏽	conto de fadas, fantasia, princesa, princesa: tipo de pele 4, tipo de pele 4
+👸🏾	conto de fadas, fantasia, princesa, princesa: tipo de pele 5, tipo de pele 5
+👸🏿	conto de fadas, fantasia, princesa, princesa: tipo de pele 6, tipo de pele 6
 👳	homem, pessoa com turbante, turbante
 👳🏻	homem, pessoa com turbante, pessoa com turbante: tipo de pele 1–2, tipo de pele 1–2, turbante
 👳🏼	homem, pessoa com turbante, pessoa com turbante: tipo de pele 3, tipo de pele 3, turbante
@@ -988,18 +1108,40 @@
 🧕🏽	lenço, mulher com lenço islâmico, mulher com lenço na cabeça, mulher com lenço na cabeça: tipo de pele 4, tipo de pele 4
 🧕🏾	lenço, mulher com lenço islâmico, mulher com lenço na cabeça, mulher com lenço na cabeça: tipo de pele 5, tipo de pele 5
 🧕🏿	lenço, mulher com lenço islâmico, mulher com lenço na cabeça, mulher com lenço na cabeça: tipo de pele 6, tipo de pele 6
-🤵	homem, noivo, smoking
-🤵🏻	homem, homem de smoking: tipo de pele 1–2, noivo, smoking, tipo de pele 1–2
-🤵🏼	homem, homem de smoking: tipo de pele 3, noivo, smoking, tipo de pele 3
-🤵🏽	homem, homem de smoking: tipo de pele 4, noivo, smoking, tipo de pele 4
-🤵🏾	homem, homem de smoking: tipo de pele 5, noivo, smoking, tipo de pele 5
-🤵🏿	homem, homem de smoking: tipo de pele 6, noivo, smoking, tipo de pele 6
-👰	noiva com véu
-👰🏻	casamento, noiva, noiva com véu, noiva com véu: tipo de pele 1–2, tipo de pele 1–2, véu
-👰🏼	casamento, noiva, noiva com véu, noiva com véu: tipo de pele 3, tipo de pele 3, véu
-👰🏽	casamento, noiva, noiva com véu, noiva com véu: tipo de pele 4, tipo de pele 4, véu
-👰🏾	casamento, noiva, noiva com véu, noiva com véu: tipo de pele 5, tipo de pele 5, véu
-👰🏿	casamento, noiva, noiva com véu, noiva com véu: tipo de pele 6, tipo de pele 6, véu
+🤵	noivo, pessoa, pessoa de smoking, smoking
+🤵🏻	noivo, pessoa, pessoa de smoking, pessoa de smoking: tipo de pele 1–2, smoking, tipo de pele 1–2
+🤵🏼	noivo, pessoa, pessoa de smoking, pessoa de smoking: tipo de pele 3, smoking, tipo de pele 3
+🤵🏽	noivo, pessoa, pessoa de smoking, pessoa de smoking: tipo de pele 4, smoking, tipo de pele 4
+🤵🏾	noivo, pessoa, pessoa de smoking, pessoa de smoking: tipo de pele 5, smoking, tipo de pele 5
+🤵🏿	noivo, pessoa, pessoa de smoking, pessoa de smoking: tipo de pele 6, smoking, tipo de pele 6
+🤵🏻‍♂	homem, homem de smoking, homem de smoking: tipo de pele 1–2, smoking, tipo de pele 1–2
+🤵🏼‍♂	homem, homem de smoking, homem de smoking: tipo de pele 3, smoking, tipo de pele 3
+🤵🏽‍♂	homem, homem de smoking, homem de smoking: tipo de pele 4, smoking, tipo de pele 4
+🤵🏾‍♂	homem, homem de smoking, homem de smoking: tipo de pele 5, smoking, tipo de pele 5
+🤵🏿‍♂	homem, homem de smoking, homem de smoking: tipo de pele 6, smoking, tipo de pele 6
+🤵🏻‍♀	mulher, mulher de smoking, mulher de smoking: tipo de pele 1–2, smoking, tipo de pele 1–2
+🤵🏼‍♀	mulher, mulher de smoking, mulher de smoking: tipo de pele 3, smoking, tipo de pele 3
+🤵🏽‍♀	mulher, mulher de smoking, mulher de smoking: tipo de pele 4, smoking, tipo de pele 4
+🤵🏾‍♀	mulher, mulher de smoking, mulher de smoking: tipo de pele 5, smoking, tipo de pele 5
+🤵🏿‍♀	mulher, mulher de smoking, mulher de smoking: tipo de pele 6, smoking, tipo de pele 6
+👰	casamento, noiva, pessoa, pessoa com véu, véu
+👰🏻	casamento, noiva, pessoa, pessoa com véu, pessoa com véu: tipo de pele 1–2, tipo de pele 1–2, véu
+👰🏼	casamento, noiva, pessoa, pessoa com véu, pessoa com véu: tipo de pele 3, tipo de pele 3, véu
+👰🏽	casamento, noiva, pessoa, pessoa com véu, pessoa com véu: tipo de pele 4, tipo de pele 4, véu
+👰🏾	casamento, noiva, pessoa, pessoa com véu, pessoa com véu: tipo de pele 5, tipo de pele 5, véu
+👰🏿	casamento, noiva, pessoa, pessoa com véu, pessoa com véu: tipo de pele 6, tipo de pele 6, véu
+👰‍♂	homem, homem com véu, véu
+👰🏻‍♂	homem, homem com véu, homem com véu: tipo de pele 1–2, tipo de pele 1–2, véu
+👰🏼‍♂	homem, homem com véu, homem com véu: tipo de pele 3, tipo de pele 3, véu
+👰🏽‍♂	homem, homem com véu, homem com véu: tipo de pele 4, tipo de pele 4, véu
+👰🏾‍♂	homem, homem com véu, homem com véu: tipo de pele 5, tipo de pele 5, véu
+👰🏿‍♂	homem, homem com véu, homem com véu: tipo de pele 6, tipo de pele 6, véu
+👰‍♀	mulher, mulher com véu, véu
+👰🏻‍♀	mulher, mulher com véu, mulher com véu: tipo de pele 1–2, tipo de pele 1–2, véu
+👰🏼‍♀	mulher, mulher com véu, mulher com véu: tipo de pele 3, tipo de pele 3, véu
+👰🏽‍♀	mulher, mulher com véu, mulher com véu: tipo de pele 4, tipo de pele 4, véu
+👰🏾‍♀	mulher, mulher com véu, mulher com véu: tipo de pele 5, tipo de pele 5, véu
+👰🏿‍♀	mulher, mulher com véu, mulher com véu: tipo de pele 6, tipo de pele 6, véu
 🤰🏻	grávida, grávida: tipo de pele 1–2, mulher, tipo de pele 1–2
 🤰🏼	grávida, grávida: tipo de pele 3, mulher, tipo de pele 3
 🤰🏽	grávida, grávida: tipo de pele 4, mulher, tipo de pele 4
@@ -1011,6 +1153,24 @@
 🤱🏽	amamentar, amamentar: tipo de pele 4, amamentação, bebé, dar de mamar, seio, tipo de pele 4
 🤱🏾	amamentar, amamentar: tipo de pele 5, amamentação, bebé, dar de mamar, seio, tipo de pele 5
 🤱🏿	amamentar, amamentar: tipo de pele 6, amamentação, bebé, dar de mamar, seio, tipo de pele 6
+👩‍🍼	alimentar, amamentação, bebé, mulher, mulher a alimentar bebé
+👩🏻‍🍼	alimentar, amamentação, bebé, mulher, mulher a alimentar bebé, mulher a alimentar bebé: tipo de pele 1–2, tipo de pele 1–2
+👩🏼‍🍼	alimentar, amamentação, bebé, mulher, mulher a alimentar bebé, mulher a alimentar bebé: tipo de pele 3, tipo de pele 3
+👩🏽‍🍼	alimentar, amamentação, bebé, mulher, mulher a alimentar bebé, mulher a alimentar bebé: tipo de pele 4, tipo de pele 4
+👩🏾‍🍼	alimentar, amamentação, bebé, mulher, mulher a alimentar bebé, mulher a alimentar bebé: tipo de pele 5, tipo de pele 5
+👩🏿‍🍼	alimentar, amamentação, bebé, mulher, mulher a alimentar bebé, mulher a alimentar bebé: tipo de pele 6, tipo de pele 6
+👨‍🍼	alimentar, amamentação, bebé, homem, homem a alimentar bebé
+👨🏻‍🍼	alimentar, amamentação, bebé, homem, homem a alimentar bebé, homem a alimentar bebé: tipo de pele 1–2, tipo de pele 1–2
+👨🏼‍🍼	alimentar, amamentação, bebé, homem, homem a alimentar bebé, homem a alimentar bebé: tipo de pele 3, tipo de pele 3
+👨🏽‍🍼	alimentar, amamentação, bebé, homem, homem a alimentar bebé, homem a alimentar bebé: tipo de pele 4, tipo de pele 4
+👨🏾‍🍼	alimentar, amamentação, bebé, homem, homem a alimentar bebé, homem a alimentar bebé: tipo de pele 5, tipo de pele 5
+👨🏿‍🍼	alimentar, amamentação, bebé, homem, homem a alimentar bebé, homem a alimentar bebé: tipo de pele 6, tipo de pele 6
+🧑‍🍼	alimentar, amamentação, bebé, pessoa, pessoa a alimentar bebé
+🧑🏻‍🍼	alimentar, amamentação, bebé, pessoa, pessoa a alimentar bebé, pessoa a alimentar bebé: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍🍼	alimentar, amamentação, bebé, pessoa, pessoa a alimentar bebé, pessoa a alimentar bebé: tipo de pele 3, tipo de pele 3
+🧑🏽‍🍼	alimentar, amamentação, bebé, pessoa, pessoa a alimentar bebé, pessoa a alimentar bebé: tipo de pele 4, tipo de pele 4
+🧑🏾‍🍼	alimentar, amamentação, bebé, pessoa, pessoa a alimentar bebé, pessoa a alimentar bebé: tipo de pele 5, tipo de pele 5
+🧑🏿‍🍼	alimentar, amamentação, bebé, pessoa, pessoa a alimentar bebé, pessoa a alimentar bebé: tipo de pele 6, tipo de pele 6
 👼	anjo, anjo bebé, bebé, cara, conto de fadas, fantasia
 👼🏻	anjo, anjo bebé: tipo de pele 1–2, bebé, cara, conto de fadas, fantasia, tipo de pele 1–2
 👼🏼	anjo, anjo bebé: tipo de pele 3, bebé, cara, conto de fadas, fantasia, tipo de pele 3
@@ -1029,36 +1189,41 @@
 🤶🏽	mãe, mãe natal: tipo de pele 4, natal, senhora Noel, tipo de pele 4
 🤶🏾	mãe, mãe natal: tipo de pele 5, natal, senhora Noel, tipo de pele 5
 🤶🏿	mãe, mãe natal: tipo de pele 6, natal, senhora Noel, tipo de pele 6
-🦸	bom, heroína, herói, superpoder
-🦸🏻	bom, heroína, herói, super-herói: tipo de pele 1–2, superpoder, tipo de pele 1–2
-🦸🏼	bom, heroína, herói, super-herói: tipo de pele 3, superpoder, tipo de pele 3
-🦸🏽	bom, heroína, herói, super-herói: tipo de pele 4, superpoder, tipo de pele 4
-🦸🏾	bom, heroína, herói, super-herói: tipo de pele 5, superpoder, tipo de pele 5
-🦸🏿	bom, heroína, herói, super-herói: tipo de pele 6, superpoder, tipo de pele 6
-🦸‍♂	bom, herói, homem, superpoder
-🦸🏻‍♂	bom, herói, homem, homem super-herói: tipo de pele 1–2, superpoder, tipo de pele 1–2
-🦸🏼‍♂	bom, herói, homem, homem super-herói: tipo de pele 3, superpoder, tipo de pele 3
-🦸🏽‍♂	bom, herói, homem, homem super-herói: tipo de pele 4, superpoder, tipo de pele 4
-🦸🏾‍♂	bom, herói, homem, homem super-herói: tipo de pele 5, superpoder, tipo de pele 5
-🦸🏿‍♂	bom, herói, homem, homem super-herói: tipo de pele 6, superpoder, tipo de pele 6
-🦸‍♀	boa, heroína, herói, superpoder
-🦸🏻‍♀	boa, heroína, herói, super-heroína: tipo de pele 1–2, superpoder, tipo de pele 1–2
-🦸🏼‍♀	boa, heroína, herói, super-heroína: tipo de pele 3, superpoder, tipo de pele 3
-🦸🏽‍♀	boa, heroína, herói, super-heroína: tipo de pele 4, superpoder, tipo de pele 4
-🦸🏾‍♀	boa, heroína, herói, super-heroína: tipo de pele 5, superpoder, tipo de pele 5
-🦸🏿‍♀	boa, heroína, herói, super-heroína: tipo de pele 6, superpoder, tipo de pele 6
-🦹	criminoso, mau, superpoder, vilão
-🦹🏻	criminoso, mau, superpoder, supervilão: tipo de pele 1–2, tipo de pele 1–2, vilão
-🦹🏼	criminoso, mau, superpoder, supervilão: tipo de pele 3, tipo de pele 3, vilão
-🦹🏽	criminoso, mau, superpoder, supervilão: tipo de pele 4, tipo de pele 4, vilão
-🦹🏾	criminoso, mau, superpoder, supervilão: tipo de pele 5, tipo de pele 5, vilão
-🦹🏿	criminoso, mau, superpoder, supervilão: tipo de pele 6, tipo de pele 6, vilão
-🦹‍♂	criminoso, homem, mau, superpoderoso, vilão
-🦹🏻‍♂	criminoso, homem, homem supervilão: tipo de pele 1–2, mau, superpoderoso, tipo de pele 1–2, vilão
-🦹🏼‍♂	criminoso, homem, homem supervilão: tipo de pele 3, mau, superpoderoso, tipo de pele 3, vilão
-🦹🏽‍♂	criminoso, homem, homem supervilão: tipo de pele 4, mau, superpoderoso, tipo de pele 4, vilão
-🦹🏾‍♂	criminoso, homem, homem supervilão: tipo de pele 5, mau, superpoderoso, tipo de pele 5, vilão
-🦹🏿‍♂	criminoso, homem, homem supervilão: tipo de pele 6, mau, superpoderoso, tipo de pele 6, vilão
+🧑‍🎄	Natal, Sra. Natal
+🧑🏻‍🎄	Natal, Sra. Natal, Sra. Natal: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍🎄	Natal, Sra. Natal, Sra. Natal: tipo de pele 3, tipo de pele 3
+🧑🏽‍🎄	Natal, Sra. Natal, Sra. Natal: tipo de pele 4, tipo de pele 4
+🧑🏾‍🎄	Natal, Sra. Natal, Sra. Natal: tipo de pele 5, tipo de pele 5
+🧑🏿‍🎄	Natal, Sra. Natal, Sra. Natal: tipo de pele 6, tipo de pele 6
+🦸	bom, heroína, herói, super-herói, superpoder
+🦸🏻	bom, heroína, herói, super-herói, super-herói: tipo de pele 1–2, superpoder, tipo de pele 1–2
+🦸🏼	bom, heroína, herói, super-herói, super-herói: tipo de pele 3, superpoder, tipo de pele 3
+🦸🏽	bom, heroína, herói, super-herói, super-herói: tipo de pele 4, superpoder, tipo de pele 4
+🦸🏾	bom, heroína, herói, super-herói, super-herói: tipo de pele 5, superpoder, tipo de pele 5
+🦸🏿	bom, heroína, herói, super-herói, super-herói: tipo de pele 6, superpoder, tipo de pele 6
+🦸🏻‍♂	bom, herói, homem, homem super-herói, homem super-herói: tipo de pele 1–2, superpoder, tipo de pele 1–2
+🦸🏼‍♂	bom, herói, homem, homem super-herói, homem super-herói: tipo de pele 3, superpoder, tipo de pele 3
+🦸🏽‍♂	bom, herói, homem, homem super-herói, homem super-herói: tipo de pele 4, superpoder, tipo de pele 4
+🦸🏾‍♂	bom, herói, homem, homem super-herói, homem super-herói: tipo de pele 5, superpoder, tipo de pele 5
+🦸🏿‍♂	bom, herói, homem, homem super-herói, homem super-herói: tipo de pele 6, superpoder, tipo de pele 6
+🦸‍♀	boa, heroína, herói, super-heroína, superpoder
+🦸🏻‍♀	boa, heroína, herói, super-heroína, super-heroína: tipo de pele 1–2, superpoder, tipo de pele 1–2
+🦸🏼‍♀	boa, heroína, herói, super-heroína, super-heroína: tipo de pele 3, superpoder, tipo de pele 3
+🦸🏽‍♀	boa, heroína, herói, super-heroína, super-heroína: tipo de pele 4, superpoder, tipo de pele 4
+🦸🏾‍♀	boa, heroína, herói, super-heroína, super-heroína: tipo de pele 5, superpoder, tipo de pele 5
+🦸🏿‍♀	boa, heroína, herói, super-heroína, super-heroína: tipo de pele 6, superpoder, tipo de pele 6
+🦹	criminoso, mau, superpoder, supervilão, vilão
+🦹🏻	criminoso, mau, superpoder, supervilão, supervilão: tipo de pele 1–2, tipo de pele 1–2, vilão
+🦹🏼	criminoso, mau, superpoder, supervilão, supervilão: tipo de pele 3, tipo de pele 3, vilão
+🦹🏽	criminoso, mau, superpoder, supervilão, supervilão: tipo de pele 4, tipo de pele 4, vilão
+🦹🏾	criminoso, mau, superpoder, supervilão, supervilão: tipo de pele 5, tipo de pele 5, vilão
+🦹🏿	criminoso, mau, superpoder, supervilão, supervilão: tipo de pele 6, tipo de pele 6, vilão
+🦹‍♂	criminoso, homem, homem supervilão, mau, superpoderoso, vilão
+🦹🏻‍♂	criminoso, homem, homem supervilão, homem supervilão: tipo de pele 1–2, mau, superpoderoso, tipo de pele 1–2, vilão
+🦹🏼‍♂	criminoso, homem, homem supervilão, homem supervilão: tipo de pele 3, mau, superpoderoso, tipo de pele 3, vilão
+🦹🏽‍♂	criminoso, homem, homem supervilão, homem supervilão: tipo de pele 4, mau, superpoderoso, tipo de pele 4, vilão
+🦹🏾‍♂	criminoso, homem, homem supervilão, homem supervilão: tipo de pele 5, mau, superpoderoso, tipo de pele 5, vilão
+🦹🏿‍♂	criminoso, homem, homem supervilão, homem supervilão: tipo de pele 6, mau, superpoderoso, tipo de pele 6, vilão
 🦹‍♀	criminosa, mulher, mulher supervilã, má, superpoder, vilã
 🦹🏻‍♀	criminosa, mulher, mulher supervilã, mulher supervilã: tipo de pele 1–2, má, superpoder, tipo de pele 1–2, vilã
 🦹🏼‍♀	criminosa, mulher, mulher supervilã, mulher supervilã: tipo de pele 3, má, superpoder, tipo de pele 3, vilã
@@ -1211,21 +1376,21 @@
 🚶🏽‍♀	andar, boleia, mulher, mulher a andar, mulher a andar: tipo de pele 4, tipo de pele 4
 🚶🏾‍♀	andar, boleia, mulher, mulher a andar, mulher a andar: tipo de pele 5, tipo de pele 5
 🚶🏿‍♀	andar, boleia, mulher, mulher a andar, mulher a andar: tipo de pele 6, tipo de pele 6
-🧍🏻	pessoa em pé, pessoa em pé: tipo de pele 1–2, tipo de pele 1–2
-🧍🏼	pessoa em pé, pessoa em pé: tipo de pele 3, tipo de pele 3
-🧍🏽	pessoa em pé, pessoa em pé: tipo de pele 4, tipo de pele 4
-🧍🏾	pessoa em pé, pessoa em pé: tipo de pele 5, tipo de pele 5
-🧍🏿	pessoa em pé, pessoa em pé: tipo de pele 6, tipo de pele 6
-🧍🏻‍♂	homem em pé, homem em pé: tipo de pele 1–2, tipo de pele 1–2
-🧍🏼‍♂	homem em pé, homem em pé: tipo de pele 3, tipo de pele 3
-🧍🏽‍♂	homem em pé, homem em pé: tipo de pele 4, tipo de pele 4
-🧍🏾‍♂	homem em pé, homem em pé: tipo de pele 5, tipo de pele 5
-🧍🏿‍♂	homem em pé, homem em pé: tipo de pele 6, tipo de pele 6
-🧍🏻‍♀	mulher em pé, mulher em pé: tipo de pele 1–2, tipo de pele 1–2
-🧍🏼‍♀	mulher em pé, mulher em pé: tipo de pele 3, tipo de pele 3
-🧍🏽‍♀	mulher em pé, mulher em pé: tipo de pele 4, tipo de pele 4
-🧍🏾‍♀	mulher em pé, mulher em pé: tipo de pele 5, tipo de pele 5
-🧍🏿‍♀	mulher em pé, mulher em pé: tipo de pele 6, tipo de pele 6
+🧍🏻	de pé, pessoa em pé, pessoa em pé: tipo de pele 1–2, tipo de pele 1–2
+🧍🏼	de pé, pessoa em pé, pessoa em pé: tipo de pele 3, tipo de pele 3
+🧍🏽	de pé, pessoa em pé, pessoa em pé: tipo de pele 4, tipo de pele 4
+🧍🏾	de pé, pessoa em pé, pessoa em pé: tipo de pele 5, tipo de pele 5
+🧍🏿	de pé, pessoa em pé, pessoa em pé: tipo de pele 6, tipo de pele 6
+🧍🏻‍♂	em pé, homem, homem em pé, homem em pé: tipo de pele 1–2, tipo de pele 1–2
+🧍🏼‍♂	em pé, homem, homem em pé, homem em pé: tipo de pele 3, tipo de pele 3
+🧍🏽‍♂	em pé, homem, homem em pé, homem em pé: tipo de pele 4, tipo de pele 4
+🧍🏾‍♂	em pé, homem, homem em pé, homem em pé: tipo de pele 5, tipo de pele 5
+🧍🏿‍♂	em pé, homem, homem em pé, homem em pé: tipo de pele 6, tipo de pele 6
+🧍🏻‍♀	em pé, mulher, mulher em pé, mulher em pé: tipo de pele 1–2, tipo de pele 1–2
+🧍🏼‍♀	em pé, mulher, mulher em pé, mulher em pé: tipo de pele 3, tipo de pele 3
+🧍🏽‍♀	em pé, mulher, mulher em pé, mulher em pé: tipo de pele 4, tipo de pele 4
+🧍🏾‍♀	em pé, mulher, mulher em pé, mulher em pé: tipo de pele 5, tipo de pele 5
+🧍🏿‍♀	em pé, mulher, mulher em pé, mulher em pé: tipo de pele 6, tipo de pele 6
 🧎	pessoa de joelhos
 🧎🏻	pessoa de joelhos, pessoa de joelhos: tipo de pele 1–2, tipo de pele 1–2
 🧎🏼	pessoa de joelhos, pessoa de joelhos: tipo de pele 3, tipo de pele 3
@@ -1244,42 +1409,57 @@
 🧎🏽‍♀	mulher de joelhos, mulher de joelhos: tipo de pele 4, tipo de pele 4
 🧎🏾‍♀	mulher de joelhos, mulher de joelhos: tipo de pele 5, tipo de pele 5
 🧎🏿‍♀	mulher de joelhos, mulher de joelhos: tipo de pele 6, tipo de pele 6
-👨‍🦯	homem com bengala para cegos
-👨🏻‍🦯	homem com bengala para cegos, homem com bengala para cegos: tipo de pele 1–2, tipo de pele 1–2
-👨🏼‍🦯	homem com bengala para cegos, homem com bengala para cegos: tipo de pele 3, tipo de pele 3
-👨🏽‍🦯	homem com bengala para cegos, homem com bengala para cegos: tipo de pele 4, tipo de pele 4
-👨🏾‍🦯	homem com bengala para cegos, homem com bengala para cegos: tipo de pele 5, tipo de pele 5
-👨🏿‍🦯	homem com bengala para cegos, homem com bengala para cegos: tipo de pele 6, tipo de pele 6
-👩‍🦯	mulher com bengala para cegos
-👩🏻‍🦯	mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 1–2, tipo de pele 1–2
-👩🏼‍🦯	mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 3, tipo de pele 3
-👩🏽‍🦯	mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 4, tipo de pele 4
-👩🏾‍🦯	mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 5, tipo de pele 5
-👩🏿‍🦯	mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 6, tipo de pele 6
-👨‍🦼	homem em cadeira de rodas elétrica
-👨🏻‍🦼	homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 1–2, tipo de pele 1–2
-👨🏼‍🦼	homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 3, tipo de pele 3
-👨🏽‍🦼	homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 4, tipo de pele 4
-👨🏾‍🦼	homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 5, tipo de pele 5
-👨🏿‍🦼	homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 6, tipo de pele 6
-👩‍🦼	mulher em cadeira de rodas elétrica
-👩🏻‍🦼	mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 1–2, tipo de pele 1–2
-👩🏼‍🦼	mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 3, tipo de pele 3
-👩🏽‍🦼	mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 4, tipo de pele 4
-👩🏾‍🦼	mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 5, tipo de pele 5
-👩🏿‍🦼	mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 6, tipo de pele 6
-👨‍🦽	homem em cadeira de rodas manual
-👨🏻‍🦽	homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 1–2, tipo de pele 1–2
-👨🏼‍🦽	homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 3, tipo de pele 3
-👨🏽‍🦽	homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 4, tipo de pele 4
-👨🏾‍🦽	homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 5, tipo de pele 5
-👨🏿‍🦽	homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 6, tipo de pele 6
-👩‍🦽	mulher em cadeira de rodas manual
-👩🏻‍🦽	mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 1–2, tipo de pele 1–2
-👩🏼‍🦽	mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 3, tipo de pele 3
-👩🏽‍🦽	mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 4, tipo de pele 4
-👩🏾‍🦽	mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 5, tipo de pele 5
-👩🏿‍🦽	mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 6, tipo de pele 6
+🧑‍🦯	acessibilidade, cego, pessoa com bengala para cegos
+🧑🏻‍🦯	acessibilidade, cego, pessoa com bengala para cegos, pessoa com bengala para cegos: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍🦯	acessibilidade, cego, pessoa com bengala para cegos, pessoa com bengala para cegos: tipo de pele 3, tipo de pele 3
+🧑🏽‍🦯	acessibilidade, cego, pessoa com bengala para cegos, pessoa com bengala para cegos: tipo de pele 4, tipo de pele 4
+🧑🏾‍🦯	acessibilidade, cego, pessoa com bengala para cegos, pessoa com bengala para cegos: tipo de pele 5, tipo de pele 5
+🧑🏿‍🦯	acessibilidade, cego, pessoa com bengala para cegos, pessoa com bengala para cegos: tipo de pele 6, tipo de pele 6
+👨‍🦯	accessibilidade, cego, homem, homem com bengala para cegos
+👨🏻‍🦯	accessibilidade, cego, homem, homem com bengala para cegos, homem com bengala para cegos: tipo de pele 1–2, tipo de pele 1–2
+👨🏼‍🦯	accessibilidade, cego, homem, homem com bengala para cegos, homem com bengala para cegos: tipo de pele 3, tipo de pele 3
+👨🏽‍🦯	accessibilidade, cego, homem, homem com bengala para cegos, homem com bengala para cegos: tipo de pele 4, tipo de pele 4
+👨🏾‍🦯	accessibilidade, cego, homem, homem com bengala para cegos, homem com bengala para cegos: tipo de pele 5, tipo de pele 5
+👨🏿‍🦯	accessibilidade, cego, homem, homem com bengala para cegos, homem com bengala para cegos: tipo de pele 6, tipo de pele 6
+👩‍🦯	accessibilidade, cega, mulher, mulher com bengala para cegos
+👩🏻‍🦯	accessibilidade, cega, mulher, mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 1–2, tipo de pele 1–2
+👩🏼‍🦯	accessibilidade, cega, mulher, mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 3, tipo de pele 3
+👩🏽‍🦯	accessibilidade, cega, mulher, mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 4, tipo de pele 4
+👩🏾‍🦯	accessibilidade, cega, mulher, mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 5, tipo de pele 5
+👩🏿‍🦯	accessibilidade, cega, mulher, mulher com bengala para cegos, mulher com bengala para cegos: tipo de pele 6, tipo de pele 6
+🧑‍🦼	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas elétrica
+🧑🏻‍🦼	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas elétrica, pessoa em cadeira de rodas elétrica: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍🦼	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas elétrica, pessoa em cadeira de rodas elétrica: tipo de pele 3, tipo de pele 3
+🧑🏽‍🦼	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas elétrica, pessoa em cadeira de rodas elétrica: tipo de pele 4, tipo de pele 4
+🧑🏾‍🦼	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas elétrica, pessoa em cadeira de rodas elétrica: tipo de pele 5, tipo de pele 5
+🧑🏿‍🦼	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas elétrica, pessoa em cadeira de rodas elétrica: tipo de pele 6, tipo de pele 6
+👨‍🦼	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas elétrica, homem em cadeira de rodas motorizada
+👨🏻‍🦼	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 1–2, homem em cadeira de rodas motorizada, tipo de pele 1–2
+👨🏼‍🦼	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 3, homem em cadeira de rodas motorizada, tipo de pele 3
+👨🏽‍🦼	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 4, homem em cadeira de rodas motorizada, tipo de pele 4
+👨🏾‍🦼	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 5, homem em cadeira de rodas motorizada, tipo de pele 5
+👨🏿‍🦼	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas elétrica, homem em cadeira de rodas elétrica: tipo de pele 6, homem em cadeira de rodas motorizada, tipo de pele 6
+👩‍🦼	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas elétrica, mulher em cadeira de rodas motorizada
+👩🏻‍🦼	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 1–2, mulher em cadeira de rodas motorizada, tipo de pele 1–2
+👩🏼‍🦼	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 3, mulher em cadeira de rodas motorizada, tipo de pele 3
+👩🏽‍🦼	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 4, mulher em cadeira de rodas motorizada, tipo de pele 4
+👩🏾‍🦼	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 5, mulher em cadeira de rodas motorizada, tipo de pele 5
+👩🏿‍🦼	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas elétrica, mulher em cadeira de rodas elétrica: tipo de pele 6, mulher em cadeira de rodas motorizada, tipo de pele 6
+🧑🏻‍🦽	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas manual, pessoa em cadeira de rodas manual: tipo de pele 1–2, tipo de pele 1–2
+🧑🏼‍🦽	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas manual, pessoa em cadeira de rodas manual: tipo de pele 3, tipo de pele 3
+🧑🏽‍🦽	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas manual, pessoa em cadeira de rodas manual: tipo de pele 4, tipo de pele 4
+🧑🏾‍🦽	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas manual, pessoa em cadeira de rodas manual: tipo de pele 5, tipo de pele 5
+🧑🏿‍🦽	acessibilidade, cadeira de rodas, pessoa em cadeira de rodas manual, pessoa em cadeira de rodas manual: tipo de pele 6, tipo de pele 6
+👨🏻‍🦽	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 1–2, tipo de pele 1–2
+👨🏼‍🦽	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 3, tipo de pele 3
+👨🏽‍🦽	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 4, tipo de pele 4
+👨🏾‍🦽	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 5, tipo de pele 5
+👨🏿‍🦽	acessibilidade, cadeira de rodas, homem, homem em cadeira de rodas manual, homem em cadeira de rodas manual: tipo de pele 6, tipo de pele 6
+👩🏻‍🦽	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 1–2, tipo de pele 1–2
+👩🏼‍🦽	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 3, tipo de pele 3
+👩🏽‍🦽	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 4, tipo de pele 4
+👩🏾‍🦽	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 5, tipo de pele 5
+👩🏿‍🦽	acessibilidade, cadeira de rodas, mulher, mulher em cadeira de rodas manual, mulher em cadeira de rodas manual: tipo de pele 6, tipo de pele 6
 🏃	correr, maratona, pessoa a correr
 🏃🏻	correr, maratona, pessoa a correr, pessoa a correr: tipo de pele 1–2, tipo de pele 1–2
 🏃🏼	correr, maratona, pessoa a correr, pessoa a correr: tipo de pele 3, tipo de pele 3
@@ -1356,18 +1536,18 @@
 🧗🏾‍♀	montanhista, mulher a escalar, mulher a escalar: tipo de pele 5, tipo de pele 5
 🧗🏿‍♀	montanhista, mulher a escalar, mulher a escalar: tipo de pele 6, tipo de pele 6
 🤺	desporto, esgrima, esgrimista, espada, pessoa, pessoa a esgrimir
-🏇	cavalo, jóquei
-🏇🏻	cavalo, corrida de cavalos: tipo de pele 1–2, jóquei, tipo de pele 1–2
-🏇🏼	cavalo, corrida de cavalos: tipo de pele 3, jóquei, tipo de pele 3
-🏇🏽	cavalo, corrida de cavalos: tipo de pele 4, jóquei, tipo de pele 4
-🏇🏾	cavalo, corrida de cavalos: tipo de pele 5, jóquei, tipo de pele 5
-🏇🏿	cavalo, corrida de cavalos: tipo de pele 6, jóquei, tipo de pele 6
-🏂️	esqui, neve, snowboard
-🏂🏻	esqui, neve, praticante de snowboard: tipo de pele 1–2, snowboard, tipo de pele 1–2
-🏂🏼	esqui, neve, praticante de snowboard: tipo de pele 3, snowboard, tipo de pele 3
-🏂🏽	esqui, neve, praticante de snowboard: tipo de pele 4, snowboard, tipo de pele 4
-🏂🏾	esqui, neve, praticante de snowboard: tipo de pele 5, snowboard, tipo de pele 5
-🏂🏿	esqui, neve, praticante de snowboard: tipo de pele 6, snowboard, tipo de pele 6
+🏇	cavalo, corrida de cavalos, jóquei
+🏇🏻	cavalo, corrida de cavalos, corrida de cavalos: tipo de pele 1–2, jóquei, tipo de pele 1–2
+🏇🏼	cavalo, corrida de cavalos, corrida de cavalos: tipo de pele 3, jóquei, tipo de pele 3
+🏇🏽	cavalo, corrida de cavalos, corrida de cavalos: tipo de pele 4, jóquei, tipo de pele 4
+🏇🏾	cavalo, corrida de cavalos, corrida de cavalos: tipo de pele 5, jóquei, tipo de pele 5
+🏇🏿	cavalo, corrida de cavalos, corrida de cavalos: tipo de pele 6, jóquei, tipo de pele 6
+🏂️	esqui, neve, praticante de snowboard, snowboard
+🏂🏻	esqui, neve, praticante de snowboard, praticante de snowboard: tipo de pele 1–2, snowboard, tipo de pele 1–2
+🏂🏼	esqui, neve, praticante de snowboard, praticante de snowboard: tipo de pele 3, snowboard, tipo de pele 3
+🏂🏽	esqui, neve, praticante de snowboard, praticante de snowboard: tipo de pele 4, snowboard, tipo de pele 4
+🏂🏾	esqui, neve, praticante de snowboard, praticante de snowboard: tipo de pele 5, snowboard, tipo de pele 5
+🏂🏿	esqui, neve, praticante de snowboard, praticante de snowboard: tipo de pele 6, snowboard, tipo de pele 6
 🏌️	bola, golfe, golfista
 🏌🏻	bola, golfe, golfista, golfista: tipo de pele 1–2, tipo de pele 1–2
 🏌🏼	bola, golfe, golfista, golfista: tipo de pele 3, tipo de pele 3
@@ -1476,12 +1656,12 @@
 🏋🏽‍♀	levantamento de pesos, mulher, mulher halterofilista, mulher halterofilista: tipo de pele 4, tipo de pele 4
 🏋🏾‍♀	levantamento de pesos, mulher, mulher halterofilista, mulher halterofilista: tipo de pele 5, tipo de pele 5
 🏋🏿‍♀	levantamento de pesos, mulher, mulher halterofilista, mulher halterofilista: tipo de pele 6, tipo de pele 6
-🚴	bicicleta, pessoa a andar de bicicleta
-🚴🏻	bicicleta, ciclista: tipo de pele 1–2, pessoa a andar de bicicleta, tipo de pele 1–2
-🚴🏼	bicicleta, ciclista: tipo de pele 3, pessoa a andar de bicicleta, tipo de pele 3
-🚴🏽	bicicleta, ciclista: tipo de pele 4, pessoa a andar de bicicleta, tipo de pele 4
-🚴🏾	bicicleta, ciclista: tipo de pele 5, pessoa a andar de bicicleta, tipo de pele 5
-🚴🏿	bicicleta, ciclista: tipo de pele 6, pessoa a andar de bicicleta, tipo de pele 6
+🚴	bicicleta, ciclista, pessoa a andar de bicicleta
+🚴🏻	bicicleta, ciclista, ciclista: tipo de pele 1–2, pessoa a andar de bicicleta, tipo de pele 1–2
+🚴🏼	bicicleta, ciclista, ciclista: tipo de pele 3, pessoa a andar de bicicleta, tipo de pele 3
+🚴🏽	bicicleta, ciclista, ciclista: tipo de pele 4, pessoa a andar de bicicleta, tipo de pele 4
+🚴🏾	bicicleta, ciclista, ciclista: tipo de pele 5, pessoa a andar de bicicleta, tipo de pele 5
+🚴🏿	bicicleta, ciclista, ciclista: tipo de pele 6, pessoa a andar de bicicleta, tipo de pele 6
 🚴‍♂	bicicleta, ciclista, ciclista (homem), homem, homem a andar de bicicleta
 🚴🏻‍♂	bicicleta, ciclista, ciclista (homem), ciclista (homem): tipo de pele 1–2, homem, homem a andar de bicicleta, tipo de pele 1–2
 🚴🏼‍♂	bicicleta, ciclista, ciclista (homem), ciclista (homem): tipo de pele 3, homem, homem a andar de bicicleta, tipo de pele 3
@@ -1530,7 +1710,7 @@
 🤸🏽‍♀	desporto, estrela, ginástica, mulher, mulher a fazer a roda, mulher a fazer a roda: tipo de pele 4, tipo de pele 4
 🤸🏾‍♀	desporto, estrela, ginástica, mulher, mulher a fazer a roda, mulher a fazer a roda: tipo de pele 5, tipo de pele 5
 🤸🏿‍♀	desporto, estrela, ginástica, mulher, mulher a fazer a roda, mulher a fazer a roda: tipo de pele 6, tipo de pele 6
-🤼	desporto, luta, lutador, pessoa
+🤼	desporto, luta, lutador, pessoa, pessoas lutando
 🤼‍♂	desporto, homem, luta, lutador de luta livre, lutadores de luta livre, pessoas
 🤼‍♀	desporto, luta, lutadora de luta livre, lutadoras de luta livre, mulher, pessoas
 🤽	desporto, pessoa, pessoa a jogar polo aquático, polo, água
@@ -1587,24 +1767,21 @@
 🤹🏽‍♀	habilidade, malabarismo, malabarista, mulher, mulher a fazer malabarismo, mulher a fazer malabarismo: tipo de pele 4, multitarefa, tipo de pele 4
 🤹🏾‍♀	habilidade, malabarismo, malabarista, mulher, mulher a fazer malabarismo, mulher a fazer malabarismo: tipo de pele 5, multitarefa, tipo de pele 5
 🤹🏿‍♀	habilidade, malabarismo, malabarista, mulher, mulher a fazer malabarismo, mulher a fazer malabarismo: tipo de pele 6, multitarefa, tipo de pele 6
-🧘	ioga, meditação, yoga
-🧘🏻	ioga, meditação, pessoa na posição de lótus: tipo de pele 1–2, tipo de pele 1–2, yoga
-🧘🏼	ioga, meditação, pessoa na posição de lótus: tipo de pele 3, tipo de pele 3, yoga
-🧘🏽	ioga, meditação, pessoa na posição de lótus: tipo de pele 4, tipo de pele 4, yoga
-🧘🏾	ioga, meditação, pessoa na posição de lótus: tipo de pele 5, tipo de pele 5, yoga
-🧘🏿	ioga, meditação, pessoa na posição de lótus: tipo de pele 6, tipo de pele 6, yoga
-🧘‍♂	ioga, meditação, yoga
-🧘🏻‍♂	homem na posição de lótus: tipo de pele 1–2, ioga, meditação, tipo de pele 1–2, yoga
-🧘🏼‍♂	homem na posição de lótus: tipo de pele 3, ioga, meditação, tipo de pele 3, yoga
-🧘🏽‍♂	homem na posição de lótus: tipo de pele 4, ioga, meditação, tipo de pele 4, yoga
-🧘🏾‍♂	homem na posição de lótus: tipo de pele 5, ioga, meditação, tipo de pele 5, yoga
-🧘🏿‍♂	homem na posição de lótus: tipo de pele 6, ioga, meditação, tipo de pele 6, yoga
-🧘‍♀	ioga, meditação, yoga
-🧘🏻‍♀	ioga, meditação, mulher na posição de lótus: tipo de pele 1–2, tipo de pele 1–2, yoga
-🧘🏼‍♀	ioga, meditação, mulher na posição de lótus: tipo de pele 3, tipo de pele 3, yoga
-🧘🏽‍♀	ioga, meditação, mulher na posição de lótus: tipo de pele 4, tipo de pele 4, yoga
-🧘🏾‍♀	ioga, meditação, mulher na posição de lótus: tipo de pele 5, tipo de pele 5, yoga
-🧘🏿‍♀	ioga, meditação, mulher na posição de lótus: tipo de pele 6, tipo de pele 6, yoga
+🧘🏻	ioga, meditação, pessoa na posição de lótus, pessoa na posição de lótus: tipo de pele 1–2, tipo de pele 1–2, yoga
+🧘🏼	ioga, meditação, pessoa na posição de lótus, pessoa na posição de lótus: tipo de pele 3, tipo de pele 3, yoga
+🧘🏽	ioga, meditação, pessoa na posição de lótus, pessoa na posição de lótus: tipo de pele 4, tipo de pele 4, yoga
+🧘🏾	ioga, meditação, pessoa na posição de lótus, pessoa na posição de lótus: tipo de pele 5, tipo de pele 5, yoga
+🧘🏿	ioga, meditação, pessoa na posição de lótus, pessoa na posição de lótus: tipo de pele 6, tipo de pele 6, yoga
+🧘🏻‍♂	homem na posição de lótus, homem na posição de lótus: tipo de pele 1–2, ioga, meditação, tipo de pele 1–2, yoga
+🧘🏼‍♂	homem na posição de lótus, homem na posição de lótus: tipo de pele 3, ioga, meditação, tipo de pele 3, yoga
+🧘🏽‍♂	homem na posição de lótus, homem na posição de lótus: tipo de pele 4, ioga, meditação, tipo de pele 4, yoga
+🧘🏾‍♂	homem na posição de lótus, homem na posição de lótus: tipo de pele 5, ioga, meditação, tipo de pele 5, yoga
+🧘🏿‍♂	homem na posição de lótus, homem na posição de lótus: tipo de pele 6, ioga, meditação, tipo de pele 6, yoga
+🧘🏻‍♀	ioga, meditação, mulher na posição de lótus, mulher na posição de lótus: tipo de pele 1–2, tipo de pele 1–2, yoga
+🧘🏼‍♀	ioga, meditação, mulher na posição de lótus, mulher na posição de lótus: tipo de pele 3, tipo de pele 3, yoga
+🧘🏽‍♀	ioga, meditação, mulher na posição de lótus, mulher na posição de lótus: tipo de pele 4, tipo de pele 4, yoga
+🧘🏾‍♀	ioga, meditação, mulher na posição de lótus, mulher na posição de lótus: tipo de pele 5, tipo de pele 5, yoga
+🧘🏿‍♀	ioga, meditação, mulher na posição de lótus, mulher na posição de lótus: tipo de pele 6, tipo de pele 6, yoga
 🛀	banheira, banho, pessoa a tomar banho
 🛀🏻	banheira, banho, pessoa a tomar banho, pessoa a tomar banho: tipo de pele 1–2, tipo de pele 1–2
 🛀🏼	banheira, banho, pessoa a tomar banho, pessoa a tomar banho: tipo de pele 3, tipo de pele 3
@@ -1617,33 +1794,53 @@
 🛌🏽	dormir, hotel, pessoa na cama, pessoa na cama: tipo de pele 4, tipo de pele 4
 🛌🏾	dormir, hotel, pessoa na cama, pessoa na cama: tipo de pele 5, tipo de pele 5
 🛌🏿	dormir, hotel, pessoa na cama, pessoa na cama: tipo de pele 6, tipo de pele 6
-🧑‍🤝‍🧑	casal, mão, mãos dadas, pessoa
-🧑🏻‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 1–2, tipo de pele 1–2
-🧑🏼‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 3 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 3
-🧑🏼‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 3, tipo de pele 3
-🧑🏽‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 4 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 4
-🧑🏽‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 4 e tipo de pele 3, tipo de pele 3, tipo de pele 4
-🧑🏽‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 4, tipo de pele 4
-🧑🏾‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 5 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 5
-🧑🏾‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 5 e tipo de pele 3, tipo de pele 3, tipo de pele 5
-🧑🏾‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 5 e tipo de pele 4, tipo de pele 4, tipo de pele 5
-🧑🏾‍🤝‍🧑🏾	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 5, tipo de pele 5
-🧑🏿‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 6
-🧑🏿‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 3, tipo de pele 3, tipo de pele 6
-🧑🏿‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 4, tipo de pele 4, tipo de pele 6
-🧑🏿‍🤝‍🧑🏾	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 5, tipo de pele 5, tipo de pele 6
-🧑🏿‍🤝‍🧑🏿	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas: tipo de pele 6, tipo de pele 6
+🧑‍🤝‍🧑	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas
+🧑🏻‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 1–2, tipo de pele 1–2
+🧑🏻‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 1–2 e tipo de pele 3, tipo de pele 1–2, tipo de pele 3
+🧑🏻‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 1–2 e tipo de pele 4, tipo de pele 1–2, tipo de pele 4
+🧑🏻‍🤝‍🧑🏾	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 1–2 e tipo de pele 5, tipo de pele 1–2, tipo de pele 5
+🧑🏻‍🤝‍🧑🏿	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 1–2 e tipo de pele 6, tipo de pele 1–2, tipo de pele 6
+🧑🏼‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 3 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 3
+🧑🏼‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 3, tipo de pele 3
+🧑🏼‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 3 e tipo de pele 4, tipo de pele 3, tipo de pele 4
+🧑🏼‍🤝‍🧑🏾	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 3 e tipo de pele 5, tipo de pele 3, tipo de pele 5
+🧑🏼‍🤝‍🧑🏿	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 3 e tipo de pele 6, tipo de pele 3, tipo de pele 6
+🧑🏽‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 4 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 4
+🧑🏽‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 4 e tipo de pele 3, tipo de pele 3, tipo de pele 4
+🧑🏽‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 4, tipo de pele 4
+🧑🏽‍🤝‍🧑🏾	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 4 e tipo de pele 5, tipo de pele 4, tipo de pele 5
+🧑🏽‍🤝‍🧑🏿	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 4 e tipo de pele 6, tipo de pele 4, tipo de pele 6
+🧑🏾‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 5 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 5
+🧑🏾‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 5 e tipo de pele 3, tipo de pele 3, tipo de pele 5
+🧑🏾‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 5 e tipo de pele 4, tipo de pele 4, tipo de pele 5
+🧑🏾‍🤝‍🧑🏾	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 5, tipo de pele 5
+🧑🏾‍🤝‍🧑🏿	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 5 e tipo de pele 6, tipo de pele 5, tipo de pele 6
+🧑🏿‍🤝‍🧑🏻	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 1–2, tipo de pele 1–2, tipo de pele 6
+🧑🏿‍🤝‍🧑🏼	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 3, tipo de pele 3, tipo de pele 6
+🧑🏿‍🤝‍🧑🏽	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 4, tipo de pele 4, tipo de pele 6
+🧑🏿‍🤝‍🧑🏾	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 6 e tipo de pele 5, tipo de pele 5, tipo de pele 6
+🧑🏿‍🤝‍🧑🏿	casal, mão, mãos dadas, pessoa, pessoas de mãos dadas, pessoas de mãos dadas: tipo de pele 6, tipo de pele 6
 👭	casal, mulheres, mulheres de mãos dadas, mão, mãos dadas
 👭🏻	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 1–2, mão, mãos dadas, tipo de pele 1–2
+👩🏻‍🤝‍👩🏼	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 1–2 e tipo de pele 3, mão, mãos dadas, tipo de pele 1–2, tipo de pele 3
+👩🏻‍🤝‍👩🏽	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 1–2 e tipo de pele 4, mão, mãos dadas, tipo de pele 1–2, tipo de pele 4
+👩🏻‍🤝‍👩🏾	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 1–2 e tipo de pele 5, mão, mãos dadas, tipo de pele 1–2, tipo de pele 5
+👩🏻‍🤝‍👩🏿	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 1–2 e tipo de pele 6, mão, mãos dadas, tipo de pele 1–2, tipo de pele 6
 👩🏼‍🤝‍👩🏻	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 3 e tipo de pele 1–2, mão, mãos dadas, tipo de pele 1–2, tipo de pele 3
 👭🏼	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 3, mão, mãos dadas, tipo de pele 3
+👩🏼‍🤝‍👩🏽	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 3 e tipo de pele 4, mão, mãos dadas, tipo de pele 3, tipo de pele 4
+👩🏼‍🤝‍👩🏾	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 3 e tipo de pele 5, mão, mãos dadas, tipo de pele 3, tipo de pele 5
+👩🏼‍🤝‍👩🏿	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 3 e tipo de pele 6, mão, mãos dadas, tipo de pele 3, tipo de pele 6
 👩🏽‍🤝‍👩🏻	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 4 e tipo de pele 1–2, mão, mãos dadas, tipo de pele 1–2, tipo de pele 4
 👩🏽‍🤝‍👩🏼	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 4 e tipo de pele 3, mão, mãos dadas, tipo de pele 3, tipo de pele 4
 👭🏽	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 4, mão, mãos dadas, tipo de pele 4
+👩🏽‍🤝‍👩🏾	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 4 e tipo de pele 5, mão, mãos dadas, tipo de pele 4, tipo de pele 5
+👩🏽‍🤝‍👩🏿	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 4 e tipo de pele 6, mão, mãos dadas, tipo de pele 4, tipo de pele 6
 👩🏾‍🤝‍👩🏻	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 5 e tipo de pele 1–2, mão, mãos dadas, tipo de pele 1–2, tipo de pele 5
 👩🏾‍🤝‍👩🏼	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 5 e tipo de pele 3, mão, mãos dadas, tipo de pele 3, tipo de pele 5
 👩🏾‍🤝‍👩🏽	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 5 e tipo de pele 4, mão, mãos dadas, tipo de pele 4, tipo de pele 5
 👭🏾	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 5, mão, mãos dadas, tipo de pele 5
+👩🏾‍🤝‍👩🏿	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 5 e tipo de pele 6, mão, mãos dadas, tipo de pele 5, tipo de pele 6
 👩🏿‍🤝‍👩🏻	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 6 e tipo de pele 1–2, mão, mãos dadas, tipo de pele 1–2, tipo de pele 6
 👩🏿‍🤝‍👩🏼	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 6 e tipo de pele 3, mão, mãos dadas, tipo de pele 3, tipo de pele 6
 👩🏿‍🤝‍👩🏽	casal, mulheres, mulheres de mãos dadas, mulheres de mãos dadas: tipo de pele 6 e tipo de pele 4, mão, mãos dadas, tipo de pele 4, tipo de pele 6
@@ -1677,58 +1874,69 @@
 👫🏿	casal, homem, mulher, mulher e homem de mãos dadas, mulher e homem de mãos dadas: tipo de pele 6, mão, mãos dadas, tipo de pele 6
 👬	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, mãos dadas, signo
 👬🏻	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 1–2, mãos dadas, signo, tipo de pele 1–2
+👨🏻‍🤝‍👨🏼	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 1–2 e tipo de pele 3, mãos dadas, signo, tipo de pele 1–2, tipo de pele 3
+👨🏻‍🤝‍👨🏽	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 1–2 e tipo de pele 4, mãos dadas, signo, tipo de pele 1–2, tipo de pele 4
+👨🏻‍🤝‍👨🏾	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 1–2 e tipo de pele 5, mãos dadas, signo, tipo de pele 1–2, tipo de pele 5
+👨🏻‍🤝‍👨🏿	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 1–2 e tipo de pele 6, mãos dadas, signo, tipo de pele 1–2, tipo de pele 6
 👨🏼‍🤝‍👨🏻	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 3 e tipo de pele 1–2, mãos dadas, signo, tipo de pele 1–2, tipo de pele 3
 👬🏼	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 3, mãos dadas, signo, tipo de pele 3
+👨🏼‍🤝‍👨🏽	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 3 e tipo de pele 4, mãos dadas, signo, tipo de pele 3, tipo de pele 4
+👨🏼‍🤝‍👨🏾	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 3 e tipo de pele 5, mãos dadas, signo, tipo de pele 3, tipo de pele 5
+👨🏼‍🤝‍👨🏿	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 3 e tipo de pele 6, mãos dadas, signo, tipo de pele 3, tipo de pele 6
 👨🏽‍🤝‍👨🏻	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 4 e tipo de pele 1–2, mãos dadas, signo, tipo de pele 1–2, tipo de pele 4
 👨🏽‍🤝‍👨🏼	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 4 e tipo de pele 3, mãos dadas, signo, tipo de pele 3, tipo de pele 4
 👬🏽	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 4, mãos dadas, signo, tipo de pele 4
+👨🏽‍🤝‍👨🏾	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 4 e tipo de pele 5, mãos dadas, signo, tipo de pele 4, tipo de pele 5
+👨🏽‍🤝‍👨🏿	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 4 e tipo de pele 6, mãos dadas, signo, tipo de pele 4, tipo de pele 6
 👨🏾‍🤝‍👨🏻	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 5 e tipo de pele 1–2, mãos dadas, signo, tipo de pele 1–2, tipo de pele 5
 👨🏾‍🤝‍👨🏼	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 5 e tipo de pele 3, mãos dadas, signo, tipo de pele 3, tipo de pele 5
 👨🏾‍🤝‍👨🏽	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 5 e tipo de pele 4, mãos dadas, signo, tipo de pele 4, tipo de pele 5
 👬🏾	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 5, mãos dadas, signo, tipo de pele 5
+👨🏾‍🤝‍👨🏿	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 5 e tipo de pele 6, mãos dadas, signo, tipo de pele 5, tipo de pele 6
 👨🏿‍🤝‍👨🏻	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 6 e tipo de pele 1–2, mãos dadas, signo, tipo de pele 1–2, tipo de pele 6
 👨🏿‍🤝‍👨🏼	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 6 e tipo de pele 3, mãos dadas, signo, tipo de pele 3, tipo de pele 6
 👨🏿‍🤝‍👨🏽	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 6 e tipo de pele 4, mãos dadas, signo, tipo de pele 4, tipo de pele 6
 👨🏿‍🤝‍👨🏾	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 6 e tipo de pele 5, mãos dadas, signo, tipo de pele 5, tipo de pele 6
 👬🏿	Gémeos, casal, gémeos, homem, homens, homens de mãos dadas, homens de mãos dadas: tipo de pele 6, mãos dadas, signo, tipo de pele 6
-💏	casal, romance
-👩‍❤‍💋‍👨	casal, homem, mulher, romance
-👨‍❤‍💋‍👨	casal, homem, romance
-👩‍❤‍💋‍👩	casal, mulher, romance
+💏	beijo, casal, romance
+👩‍❤‍💋‍👨	beijo, casal, homem, mulher, romance
+👨‍❤‍💋‍👨	beijo, casal, homem, romance
+👩‍❤‍💋‍👩	beijo, casal, mulher, romance
 💑	amor, casal, casal com coração, coração, romance
 👩‍❤‍👨	amor, casal, casal com coração, casal com coração: mulher e homem, coração, homem, mulher, romance
 👨‍❤‍👨	amor, casal, casal com coração, casal com coração: homem e homem, coração, homem, romance
 👩‍❤‍👩	amor, casal, casal com coração, casal com coração: mulher e mulher, coração, mulher, romance
-👪️	criança, mãe, pai
-👨‍👩‍👦	criança, família: homem, mulher e rapaz, homem, mulher, mãe, pai, rapaz
-👨‍👩‍👧	criança, família: homem, mulher e rapariga, homem, mulher, mãe, pai, rapariga
-👨‍👩‍👧‍👦	criança, família: homem, mulher, rapariga e rapaz, homem, mulher, mãe, pai, rapariga, rapaz
-👨‍👩‍👦‍👦	criança, família: homem, mulher, rapaz e rapaz, homem, mulher, mãe, pai, rapaz
-👨‍👩‍👧‍👧	criança, família: homem, mulher, rapariga e rapariga, homem, mulher, mãe, pai, rapariga
-👨‍👨‍👦	criança, família: homem, homem e rapaz, homem, mãe, pai, rapaz
-👨‍👨‍👧	criança, família: homem, homem e rapariga, homem, mãe, pai, rapariga
-👨‍👨‍👧‍👦	criança, família: homem, homem, rapariga e rapaz, homem, mãe, pai, rapariga, rapaz
-👨‍👨‍👦‍👦	criança, família: homem, homem, rapaz e rapaz, homem, mãe, pai, rapaz
-👨‍👨‍👧‍👧	criança, família: homem, homem, rapariga e rapariga, homem, mãe, pai, rapariga
-👩‍👩‍👦	criança, família: mulher, mulher e rapaz, mulher, mãe, pai, rapaz
-👩‍👩‍👧	criança, família: mulher, mulher e rapariga, mulher, mãe, pai, rapariga
-👩‍👩‍👧‍👦	criança, família: mulher, mulher, rapariga e rapaz, mulher, mãe, pai, rapariga, rapaz
-👩‍👩‍👦‍👦	criança, família: mulher, mulher, rapaz e rapaz, mulher, mãe, pai, rapaz
-👩‍👩‍👧‍👧	criança, família: mulher, mulher, rapariga e rapariga, mulher, mãe, pai, rapariga
-👨‍👦	criança, família: homem e rapaz, homem, mãe, pai, rapaz
-👨‍👦‍👦	criança, família: homem, rapaz e rapaz, homem, mãe, pai, rapaz
-👨‍👧	criança, família: homem e rapariga, homem, mãe, pai, rapariga
-👨‍👧‍👦	criança, família: homem, rapariga e rapaz, homem, mãe, pai, rapariga, rapaz
-👨‍👧‍👧	criança, família: homem, rapariga e rapariga, homem, mãe, pai, rapariga
-👩‍👦	criança, família: mulher e rapaz, mulher, mãe, pai, rapaz
-👩‍👦‍👦	criança, família: mulher, rapaz e rapaz, mulher, mãe, pai, rapaz
-👩‍👧	criança, família: mulher e rapariga, mulher, mãe, pai, rapariga
-👩‍👧‍👦	criança, família: mulher, rapariga e rapaz, mulher, mãe, pai, rapariga, rapaz
-👩‍👧‍👧	criança, família: mulher, rapariga e rapariga, mulher, mãe, pai, rapariga
+👪️	criança, família, mãe, pai
+👨‍👩‍👦	criança, família, família: homem, mulher e rapaz, homem, mulher, mãe, pai, rapaz
+👨‍👩‍👧	criança, família, família: homem, mulher e rapariga, homem, mulher, mãe, pai, rapariga
+👨‍👩‍👧‍👦	criança, família, família: homem, mulher, rapariga e rapaz, homem, mulher, mãe, pai, rapariga, rapaz
+👨‍👩‍👦‍👦	criança, família, família: homem, mulher, rapaz e rapaz, homem, mulher, mãe, pai, rapaz
+👨‍👩‍👧‍👧	criança, família, família: homem, mulher, rapariga e rapariga, homem, mulher, mãe, pai, rapariga
+👨‍👨‍👦	criança, família, família: homem, homem e rapaz, homem, mãe, pai, rapaz
+👨‍👨‍👧	criança, família, família: homem, homem e rapariga, homem, mãe, pai, rapariga
+👨‍👨‍👧‍👦	criança, família, família: homem, homem, rapariga e rapaz, homem, mãe, pai, rapariga, rapaz
+👨‍👨‍👦‍👦	criança, família, família: homem, homem, rapaz e rapaz, homem, mãe, pai, rapaz
+👨‍👨‍👧‍👧	criança, família, família: homem, homem, rapariga e rapariga, homem, mãe, pai, rapariga
+👩‍👩‍👦	criança, família, família: mulher, mulher e rapaz, mulher, mãe, pai, rapaz
+👩‍👩‍👧	criança, família, família: mulher, mulher e rapariga, mulher, mãe, pai, rapariga
+👩‍👩‍👧‍👦	criança, família, família: mulher, mulher, rapariga e rapaz, mulher, mãe, pai, rapariga, rapaz
+👩‍👩‍👦‍👦	criança, família, família: mulher, mulher, rapaz e rapaz, mulher, mãe, pai, rapaz
+👩‍👩‍👧‍👧	criança, família, família: mulher, mulher, rapariga e rapariga, mulher, mãe, pai, rapariga
+👨‍👦	criança, família, família: homem e rapaz, homem, mãe, pai, rapaz
+👨‍👦‍👦	criança, família, família: homem, rapaz e rapaz, homem, mãe, pai, rapaz
+👨‍👧	criança, família, família: homem e rapariga, homem, mãe, pai, rapariga
+👨‍👧‍👦	criança, família, família: homem, rapariga e rapaz, homem, mãe, pai, rapariga, rapaz
+👨‍👧‍👧	criança, família, família: homem, rapariga e rapariga, homem, mãe, pai, rapariga
+👩‍👦	criança, família, família: mulher e rapaz, mulher, mãe, pai, rapaz
+👩‍👦‍👦	criança, família, família: mulher, rapaz e rapaz, mulher, mãe, pai, rapaz
+👩‍👧	criança, família, família: mulher e rapariga, mulher, mãe, pai, rapariga
+👩‍👧‍👦	criança, família, família: mulher, rapariga e rapaz, mulher, mãe, pai, rapariga, rapaz
+👩‍👧‍👧	criança, família, família: mulher, rapariga e rapariga, mulher, mãe, pai, rapariga
 🗣️	cabeça, cabeça a falar, cara, falar, silhueta
-👤	busto, silhueta
-👥	busto, silhueta
-👣	corpo, pegada, pé
+👤	busto, silhueta, silhueta de busto
+👥	busto, silhueta, silhueta de bustos
+🫂	abraço, adeus, obrigado, olá, pessoas abraçadas, pessoas se abraçando
+👣	corpo, pegada, pegadas, pé
 🦰	cabelo ruivo, ruiva, ruivo
 🦱	afro, cabelo encaracolado, caracóis, encaracolado
 🦳	brancas, branco, cabelho grisalho, cabelo, velho
@@ -1736,11 +1944,10 @@
 🐵	cara, cara de macaco, macaco
 🐒	macaco
 🦍	gorila
-🦧	orangotango
+🦧	orangotango, símio
 🐶	animal de estimação, cara, cara de cão, cão
 🐕️	animal de estimação, cão
-🦮	cão-guia
-🐕‍🦺	cão de assistência
+🐕‍🦺	accessibilidade, assistência, cão, cão de assistência
 🐩	caniche, cão
 🐺	cara, lobo
 🦊	cara, raposa
@@ -1751,7 +1958,7 @@
 🐅	tigre
 🐆	leopardo
 🐴	cara, cara de cavalo, cavalo
-🐎	cavalo de corrida, corrida, equestre, equitação
+🐎	cavalo, cavalo de corrida, corrida, equestre, equitação
 🦄	cara, unicórnio
 🦓	risca, zebra
 🦌	veado
@@ -1762,7 +1969,7 @@
 🐷	cara, cara de porco, porco
 🐖	porco
 🐗	javali, porco
-🐽	cara, focinho, porco
+🐽	cara, focinho, nariz de porco, porco
 🐏	carneiro, carneiro (animal), ovelha, signo
 🐑	ovelha
 🐐	cabra, capricórnio, signo
@@ -1776,18 +1983,16 @@
 🐀	ratazana
 🐹	animal de estimação, cara, hamster
 🐰	animal de estimação, cara, cara de coelho, coelhinho, coelho
-🐇	animal de estimação, coelhinho
+🐇	animal de estimação, coelhinho, coelho
 🐿️	esquilo
 🦔	animal, espinhoso, ouriço, ouriço-caixeiro
 🦇	morcego, vampiro
 🐻	cara, urso
 🐨	coala, urso
 🐼	cara, panda
-🦥	preguiça
-🦦	lontra
-🦨	doninha fedorenta
-🦘	Austrália, joey, marsupial, saltar
-🦡	chatear, ratel, texugo-do-mel
+🦨	doninha fedorenta, mau cheiro
+🦘	Austrália, canguru, joey, marsupial, saltar
+🦡	chatear, ratel, texugo, texugo-do-mel
 🐾	patas, pegada, pegadas de patas
 🐣	bebé, ovo, pintainho, pintainho a sair do ovo
 🐤	bebé, pintainho
@@ -1799,13 +2004,13 @@
 🦆	ave, pato
 🦢	cisne, patinho feio, pinto de cisne
 🦉	coruja, mocho, pássaro, sensato
-🦩	flamingo
-🦜	falar, pirata, pássaro
+🦤	Maurícias, dodó, extinto, grande
+🦜	falar, papagaio, pirata, pássaro
 🐸	cara, sapo
 🐊	crocodilo, jacaré
 🐢	cágado, tartaruga
 🦎	lagarto, réptil
-🐍	ofiúco, serpente, serpentário, signo
+🐍	cobra, ofiúco, serpente, serpentário, signo
 🐲	cara, cara de dragão, conto de fadas, dragão
 🐉	conto de fadas, dragão
 🐳	baleia, baleia com esguicho de água, cara, esguichar
@@ -1821,12 +2026,13 @@
 🐛	bicho, insecto, inseto, lagarta
 🐜	formiga, insecto, inseto
 🐝	abelha, insecto, inseto, mel
-🐞	bicho, inseto, voa voa
+🐞	bicho, inseto, joaninha, voa voa
 🦗	gafanhoto, grilo
 🕷️	aranha, insecto, inseto
-🕸️	aranha, teia
+🕸️	aranha, teia, teia de aranha
 🦂	escorpião, escorpião (animal), signo
 🦟	doença, febre, insecto, inseto, malária, melga, vírus
+🪰	decomposição, doença, larva, mosca, praga
 💐	flor, planta, ramo de flores, romance
 🌸	cerejeira, cerejeira em flor, em flor, flor, planta
 🏵️	planta, rosácea
@@ -1843,7 +2049,7 @@
 🌾	arroz, espiga, feixe de arroz, planta
 🌿	erva aromática, folha, planta
 ☘️	planta, trevo
-🍀	4, folha, planta, quatro, trevo
+🍀	4, folha, planta, quatro, trevo, trevo de quatro folhas
 🍁	folha, folha de ácer, planta, queda, ácer
 🍂	folha, folha caída, planta, queda
 🍃	esvoaçar, folha, folha a esvoaçar ao vento, planta, soprar, vento
@@ -1856,8 +2062,10 @@
 🍎	fruta, maçã, pêro, vermelha
 🍒	cereja, cerejas, fruta, ginja
 🍓	fruta, morango
+🫐	azul, baga, mirtilo, mirtilos
 🥝	fruta, kiwi, quivi
 🍅	fruta, legume, tomate
+🫒	azeitona, comida
 🥥	coco, fruta, palmeira
 🥑	abacate, fruta
 🍆	beringela, legume
@@ -1865,46 +2073,44 @@
 🥕	cenoura, legume
 🌽	cereal, espiga, espiga de milho, milho
 🌶️	legume, malagueta, picante
+🫑	capsicum, pimento, vegetal
 🥒	legume, pepino, pickle, picles
 🥦	brócolos, legume
-🧄	alho
-🧅	cebola
 🍄	cogumelo, fungo
 🥜	amendoim, amendoins, leguminosa
-🍞	pão de forma
 🥐	croissant, folhado, francês
 🥖	baguete, cacete, francês, pão
 🥯	argola, bagel, pão
-🥞	comida, crepe, doce, panqueca
+🥞	comida, crepe, doce, panqueca, panquecas
 🧇	waffle
 🧀	fatia de queijo, queijo
 🍖	carne, osso, osso com carne
 🍗	coxa, coxa de ave, frango, galinha, osso
 🥩	bife, costeleta, costeleta de cordeiro, costeleta de porco, naco de carne
 🥓	bacon, carne, comida, toucinho
-🍔	cheeseburger, hambúrger
+🍔	cheeseburger, hambúrger, hambúrguer
 🍟	batatas, batatas fritas, fritas
 🍕	fatia, piza, queijo
 🌭	cachorro, cachorro quente, salsicha
 🥪	pão, sande, sandes, sanduíche
 🌮	comida, mexicana, taco
-🌯	comida, mexicana
+🌯	burrito, comida, mexicana
+🫔	mexicano, tamale, wrap
 🥙	falafel, kebab, pita, recheado
-🧆	falafel
+🧆	almôndega, faláfel, grão de bico
 🍳	cozinhar, frigideira, ovo
 🥘	caçarola, caçarola de comida, comida, paelha, panela, rasa
 🍲	guisado, tacho, tacho com comida
 🥣	cereais, pequeno-almoço, tigela com colher
 🥗	alface, comida, salada, verdura
 🍿	balde de pipoca, pipoca de cinema, pipocas
-🧈	manteiga
-🥫	comida de lata, lata
+🥫	comida de lata, comida enlatada, lata
 🍱	caixa, caixa de refeições, refeições
 🍘	arroz, bolacha, bolacha de arroz
 🍙	arroz, bola de arroz, bolinho, japonês
 🍚	arroz, cozido, tigela de arroz
 🍛	arroz, arroz com caril, caril
-🍜	japonês, massa, quente, ramen, tigela, tigela com comida quente
+🍜	massa, noodles, quente, ramen, tigela com comida quente
 🍝	esparguete, massa
 🍠	assada, batata, batata-doce assada, doce
 🍢	espetada, marisco, oden
@@ -1914,12 +2120,11 @@
 🥮	bolo da lua, festival, outono, yuèbǐng
 🍡	dango, doce, espetada, espeto, japonesa, sobremesa
 🥟	empanada, guioza, pierogi, ravioli
-🥠	bolinho, sorte
+🥠	biscoito da sorte, bolinho, sorte
 🥡	caixa, caixa de takeaway, comida pronta, takeaway
 🦀	caranguejo, caranguejo (animal), signo
-🦞	mariscada, marisco, pinças
+🦞	lagosta, mariscada, marisco, pinças
 🦐	camarão, comida, gamba, marisco
-🦪	ostra
 🍦	cone de gelado, creme, cremoso, doce, gelado, gelo, sobremesa
 🍧	doce, gelo, granizado, sobremesa
 🍨	creme, doce, gelado, gelo, sobremesa
@@ -1927,15 +2132,15 @@
 🍪	biscoito, bolacha, doce
 🎂	aniversário, bolo, bolo de anos, celebração, doce, pastelaria, sobremesa
 🍰	bolo, doce, fatia, fatia de bolo, pastelaria, sobremesa
-🧁	bolo, doce, pastelaria, queque
+🧁	bolo, cupcake, doce, pastelaria, queque
 🥧	recheio, tarte
 🍫	chocolate, doce, sobremesa, tablete, tablete de chocolate
 🍬	doce, rebuçado, sobremesa
 🍭	chupa-chupa, doce, guloseima, sobremesa
 🍮	doce, pudim, sobremesa
-🍯	doce, mel, pote
+🍯	doce, mel, pote, pote de mel
 🍼	beber, bebé, biberão, leite
-🥛	bebida, copo, leite
+🥛	bebida, copo, copo de leite, leite
 ☕️	beber, bebida, bebida quente, café, chá, quente, vapor
 🍵	beber, bebida, chá, chávena, chávena de chá, chávena de chá sem asa
 🍶	bar, bebida, garrafa, saqué, saquê, taça
@@ -1950,17 +2155,17 @@
 🥤	copo com palhinha, refrigerante, sumo
 🧃	pacote de sumo
 🧉	mate
-🧊	cubo de gelo
+🧊	cubo de gelo, frio, gelo, icebergue
 🥢	pauzinhos
 🍽️	cozinhar, faca, faca e garfo com prato, garfo, prato, talheres
 🍴	cozinhar, faca, faca e garfo, garfo, talheres
 🥄	colher, talheres
-🔪	arma, cortar, cozinhar, faca, utensílio
+🔪	arma, cortar, cozinhar, faca, faca de cozinha, utensílio
 🏺	beber, jarro, líquidos, utensílio, ânfora
 🌍	Europa, Terra, globo, globo com a Europa e a África visíveis, mundo, África
 🌎️	Américas, Terra, globo, globo com as Américas visíveis, mundo
 🌏	Austrália, Terra, globo, globo a mostrar Ásia e Austrália, globo com a Ásia e a Austrália visíveis, mundo, Ásia
-🌐	Terra, globo, meridianos, mundo
+🌐	Terra, globo, globo com meridianos, meridianos, mundo
 🗺️	mapa, mapa do mundo, mundo
 🏔️	frio, montanha, montanha coberta de neve, neve
 ⛰️	montanha, monte
@@ -1973,6 +2178,7 @@
 🏞️	parque, parque nacional
 🏛️	clássico, edifício clássico, edifício da antiguidade
 🏗️	construção, construção civil, edifício, obras
+🪵	madeira
 🏘️	casas, edifícios, edifícios de habitação, habitação
 🏚️	abandonado, casa, casa abandonada, casa em ruínas
 🏠️	casa, edifício, habitação
@@ -1980,11 +2186,11 @@
 🏢	edifício, edifício de escritórios, escritórios
 🏣	correios, edifício, estação de correios japonesa, japonês
 🏤	correios, edifício, estação de correios, europeu
-🏥	edifício, medicina, médico
-🏦	banca, edifício
-🏨	edifício
+🏥	edifício, hospital, medicina, médico
+🏦	banca, banco, edifício
+🏨	edifício, hotel
 🏩	amor, edifício, hotel, hotel com coração, motel
-🏪	conveniência, edifício, loja
+🏪	conveniência, edifício, loja, loja de conveniência
 🏫	edifício, escola
 🏬	comércio, edifício, grande armazém, lojas
 🏭️	edifício, fábrica
@@ -1993,18 +2199,17 @@
 💒	capela, casamento, romance
 🗼	Tóquio, torre, torre de Tóquio
 ⛪️	cristão, cruz, igreja, religião
-🕌	islão, muçulmano, religião
-🛕	templo hindu
+🕌	islão, mesquita, muçulmano, religião
 ⛩️	religião, templo, templo xintoísta, xintoísmo
 🕋	caaba, islamismo, muçulmano, religião
 ⛺️	campismo, tenda
-🌁	nevoeiro, nublado
+🌁	enevoado, nevoeiro, nublado
 🌃	estrelas, noite, noite com estrelas
 🏙️	cidade, edifícios, paisagem urbana
 🌄	manhã, montanha, nascer do sol, nascer do sol nas montanhas, sol
 🌅	manhã, nascer do sol, sol
 🌆	anoitecer, cidade, crepúsculo, paisagem, paisagem urbana ao anoitecer, pôr do sol, sol
-🌇	crepúsculo, edifícios, pôr-do-sol, sol
+🌇	crepúsculo, edifícios, pôr do sol, pôr-do-sol, sol
 🌉	noite, ponte, ponte à noite
 ♨️	nascentes, quente, termas, vapor, águas termais
 🎠	carrossel, cavalo, cavalo de carrossel
@@ -2035,13 +2240,13 @@
 🚗	automóvel
 🚘️	aproximação, automóvel, automóvel a aproximar-se, carro, veículo
 🚙	SUV, recreio, veículo
+🛻	carrinha
 🚚	camião, camião de entregas, entregas, veículo
 🚛	camião, camião articulado, semirreboque, veículo
 🚜	trator
 🏍️	corrida, mota, moto, motociclismo, motociclo
 🛵	lambreta, motorizada, scooter
-🦽	cadeira de rodas manual
-🦼	cadeira de rodas elétrica
+🦼	acessibilidade, cadeira de rodas elétrica, cadeira de rodas motorizada
 🛺	riquexó motorizado
 🚲️	bicicleta, bicla
 🛴	pontapé, trotineta, trotinete
@@ -2051,26 +2256,26 @@
 🛢️	barril, barril de petróleo, petróleo
 ⛽️	abastecimento, bomba, bomba de gasolina, gasolina
 🚨	carro, luz, luz de carro da polícia, polícia, sirene
-🚥	semáforo, sinal, trânsito
-🚦	semáforo, sinal, trânsito
+🚥	semáforo, semáforo horizontal, sinal, trânsito
+🚦	semáforo, semáforo vertical, sinal, trânsito
 🛑	octagonal, sinal, sinal de stop, stop
 🚧	barreira, obras
-⚓️	instrumento, navio
+⚓️	instrumento, navio, âncora
 ⛵️	barco, estância, iate, mar, veleiro, veículo
 🛳️	navio, navio de passageiros, passageiros, veículo
 ⛴️	barco, ferry
 🛥️	barco, barco a motor, motor, veículo
-🚢	veículo
-✈️	veículo
+🚢	barco, navio, passageiro
+✈️	avião, veículo
 🛩️	avioneta, avião, veículo
 🛫	avião, avião a levantar, check-in, levantar, partida, veículo
 🛬	aterragem, avião, avião a aterrar, chegadas, veículo
 🪂	paraquedas
-💺	banco
+💺	assento, banco
 🚟	monocarril suspenso, veículo
 🚠	cabo, montanha, teleférico de montanha, veículo
 🚡	aéreo, cabo, funicular, gôndola, teleférico, veículo
-🛰️	espaço, veículo
+🛰️	espaço, satélite, veículo
 🚀	espaço, foguetão, veículo
 🛸	OVNI, disco voador
 🛎️	campainha, campainha de receção, hotel, rececionista
@@ -2081,81 +2286,81 @@
 ⏲️	relógio, temporizador
 🕰️	mesa, relógio, relógio de lareira
 🕛️	00, 12, 12:00, doze, doze horas, horas, relógio, vinte e quatro
-🕧	12, 12:30, 30, doze, meia-noite e meia, meio-dia e meia, relógio, trinta
+🕧	12, 12:30, doze, doze e meia, meia-noite e meia, meio-dia e meia, relógio, trinta
 🕐️	00, 1, 1:00, horas, relógio, treze, uma, uma hora
-🕜	1, 1:30, 30, meia, relógio, trinta, uma
+🕜	1, 1:30, 30, meia, relógio, trinta, uma, uma e meia
 🕑️	00, 2, 2:00, catorze, duas, duas horas, horas, relógio
-🕝	2, 2:30, 30, duas, meia, relógio, trinta
+🕝	2, 2:30, 30, duas, duas e meia, meia, relógio, trinta
 🕒️	00, 3, 3:00, horas, quinze, relógio, três, três horas
-🕞	3, 30, 3:30, meia, relógio, trinta, três
+🕞	3, 30, 3:30, meia, relógio, trinta, três, três e meia
 🕓️	00, 4, 4:00, dezasseis, horas, quatro, quatro horas, relógio
-🕟	30, 4, 4:30, meia, quatro, relógio, trinta
+🕟	30, 4, 4:30, meia, quatro, quatro e meia, relógio, trinta
 🕔️	00, 5, 5:00, cinco, cinco horas, dezassete, horas, relógio
-🕠	30, 5, 5:30, cinco, meia, relógio, trinta
+🕠	5, 5:30, cinco, cinco e meia, meia, relógio, trinta
 🕕️	00, 6, 6:00, dezoito, horas, relógio, seis, seis horas
-🕡	30, 6, 6:30, meia, relógio, seis, trinta
+🕡	30, 6, 6:30, meia, relógio, seis, seis e meia, trinta
 🕖️	00, 7, 7:00, dezanove, horas, relógio, sete, sete horas
-🕢	30, 7, 7:30, meia, relógio, sete, trinta
+🕢	30, 7, 7:30, meia, relógio, sete, sete e meia, trinta
 🕗️	00, 8, 8:00, horas, oito, oito horas, relógio, vinte
-🕣	30, 8, 8:30, meia, oito, relógio, trinta
+🕣	30, 8, 8:30, meia, oito, oito e meia, relógio, trinta
 🕘️	00, 9, 9:00, horas, nove, nove horas, relógio, vinte e uma
-🕤	30, 9, 9:30, meia, nove, relógio, trinta
+🕤	30, 9, 9:30, meia, nove, nove e meia, relógio, trinta
 🕙️	00, 10, 10:00, dez, dez horas, horas, relógio, vinte e duas
-🕥	10, 10:30, 30, dez, meia, relógio, trinta
+🕥	10, 10:30, 30, dez, dez e meia, meia, relógio, trinta
 🕚️	00, 11, 11:00, horas, onze, onze horas, relógio, vinte e três
-🕦	11, 11:30, 30, meia, onze, relógio, trinta
-🌑	escuro, espaço, lua, meteorologia
+🕦	11, 11:30, 30, meia, onze, onze e meia, relógio, trinta
+🌑	escuro, espaço, lua, lua nova, meteorologia
 🌒	crescente, espaço, lua, lua na primeira falcada, meteorologia
 🌓	crescente, espaço, lua, lua em quarto crescente, meteorologia, quatro
 🌔	convexa, crescente, espaço, lua, lua na primeira giba, meteorologia
 🌕️	cheia, espaço, lua, meteorologia
 🌖	convexa, espaço, lua, meteorologia, minguante
 🌗	espaço, lua, lua em quarto minguante, meteorologia, minguante, quatro
-🌘	crescente, espaço, lua, meteorologia, minguante
+🌘	crescente, espaço, lua, lua minguante côncava, meteorologia, minguante
 🌙	crescente, espaço, lua, lua crescente sem sombra, meteorologia
 🌚	cara, cara de lua nova, espaço, lua, meteorologia
 🌛	cara, espaço, lua, lua em quarto crescente com cara, meteorologia, quarto
 🌜️	cara, espaço, lua, lua em quarto minguante com cara, meteorologia, quarto
 🌡️	meteorologia, temperatura, termómetro
-☀️	brilhante, espaço, meteorologia, raios, soalheiro
+☀️	brilhante, espaço, meteorologia, raios, soalheiro, sol
 🌝	brilhante, cara, cheia, espaço, lua, lua cheia com cara, meteorologia
 🌞	brilhante, cara, espaço, meteorologia, sol, sol com cara
-🪐	planeta anelado
+🪐	planeta anelado, planeta com anéis, saturnino, saturno
 🌟	brilhante, brilho, cintilante, estrela
 🌠	cadente, espaço, estrela
 🌌	espaço, via láctea
-☁️	meteorologia, tempo
+☁️	meteorologia, nuvem, tempo
 ⛅️	meteorologia, nuvem, sol, sol atrás de nuvem
 ⛈️	chuva, meteorologia, nuvem, nuvem com relâmpago e chuva, trovoada
 🌤️	meteorologia, nuvem, sol, sol atrás de nuvem pequena
 🌥️	meteorologia, nuvem, sol, sol atrás de nuvem grande
 🌦️	chuva, meteorologia, nuvem, sol, sol atrás de nuvem com chuva
-🌧️	chuva, meteorologia, nuvem
-🌨️	frio, meteorologia, neve, nuvem
+🌧️	chuva, meteorologia, nuvem, nuvem com chuva
+🌨️	frio, meteorologia, neve, nuvem, nuvem com neve
 🌩️	meteorologia, nuvem, nuvem com relâmpago, relâmpago
-🌪️	furacão, meteorologia, nuvem
+🌪️	furacão, meteorologia, nuvem, tornado
 🌫️	meteorologia, nevoeiro, nuvem, névoa
 🌬️	cara, cara de vento, meteorologia, nuvem, soprar, vento
-🌀	meteorologia, tufão
-🌈	chuva, cores, meteorologia
+🌀	ciclone, meteorologia, tufão
+🌈	arco-íris, chuva, cores, meteorologia
 🌂	acessório, chuva, guarda-chuva, guarda-chuva fechado, meteorologia
 ☂️	acessório, chuva, guarda-chuva, meteorologia
 ☔️	acessório, chuva, gotas, guarda-chuva, guarda-chuva com gotas de chuva, meteorologia
 ⛱️	chuva, guarda-sol, guarda-sol na areia, meteorologia, sol
-⚡️	choque elétrico, eletricidade, perigo, tensão, voltagem
-❄️	frio, meteorologia, neve
+⚡️	alta tensão, choque elétrico, eletricidade, perigo, tensão, voltagem
+❄️	floco de neve, frio, meteorologia, neve
 ☃️	boneco de neve, frio, meteorologia, neve
 ⛄️	boneco de neve, boneco de neve sem neve, frio, meteorologia, neve
-☄️	astro, espaço
+☄️	astro, cometa, espaço
 💧	desenho, frio, gota, meteorologia, suor
-🌊	meteorologia, oceano, água
-🎃	abóbora, celebração, dia das bruxas, halloween
-🎄	celebração, natal, árvore
+🌊	meteorologia, oceano, onda, água
+🎃	abóbora, abóbora de halloween, celebração, dia das bruxas, halloween
+🎄	celebração, natal, árvore, árvore de natal
 🎆	celebração, fogo de artifício
 🎇	celebração, faísca, vela, vela com faísca
-🧨	petardo
+🧨	dinamite, explosivo, fogo de artifício, petardo
 ✨	*, centelha, cintilação, estrelas, faíscas
-🎈	celebração, festa
+🎈	balão, celebração, festa
 🎉	celebração, confetti, lança-confetes, surpresa
 🎊	bola, bola de confete, celebração, confetti
 🎋	celebração, faixa, japonês, árvore, árvore do Tanabata
@@ -2164,127 +2369,130 @@
 🎏	bandeirola, bandeirola de carpas, carpas, celebração
 🎐	celebração, espanta-espíritos, sino, vento
 🎑	celebração, cerimónia, cerimónia da lua, lua
-🎀	celebração, festa
+🎀	celebração, festa, fita
 🎁	caixa, celebração, embrulhado, presente, presente embrulhado
 🎗️	celebração, laço, laço de solidariedade, solidariedade
 🎟️	bilhete, bilhetes, entrada
 🎫	bilhete, entrada
 🎖️	celebração, medalha, militar
-🏆️	prémio
+🏆️	prémio, troféu
 🏅	medalha, medalha desportiva
 🥇	medalha, medalha de 1.º lugar, ouro, primeiro
 🥈	medalha, medalha de 2.º lugar, prata, segundo
 🥉	bronze, medalha, medalha de 3.º lugar, terceiro
 ⚾️	beisebol, bola
-🥎	bola, luva
+🥎	bola, luva, softbol
 🏀	basquetebol, bola, cesto
 🏐	bola, jogo, voleibol
-🏈	americano, bola, futebol
+🏈	americano, bola, bola de futebol americano, futebol
 🏉	bola, râguebi
-🎾	bola, raquete, ténis, ténis (bola)
+🎾	bola, raquete, ténis
 🎳	bola, bowling, jogo
 🏑	bola, campo, hóquei, hóquei em campo, jogo, stick
 🏒	disco, gelo, hóquei, jogo, stick, stick e disco de hóquei no gelo
-🥍	baliza, bastão, bola
-🏓	bola, jogo, raquete, ténis de mesa
+🥍	baliza, bastão, bola, lacrosse
+🏓	bola, jogo, pingue-pongue, raquete, ténis de mesa
 🏸	badmínton, jogo, pena, raquete, volante
-🥊	boxe, desporto, luva
+🥊	boxe, desporto, luva, luva de boxe
 🥋	artes marciais, desporto, judo, karaté, kimono de artes marciais, taekwondo, uniforme
 🥅	baliza, desporto, objetivo, rede
-⛳️	buraco, golfe
+⛳️	bandeira no buraco, buraco, golfe
 ⛸️	gelo, patim, patim de gelo
 🎣	cana, cana de pesca, peixe
-🤿	máscara de mergulho
 🎽	camisola, camisola de corrida, corrida, faixa
 🎿	esqui, esquis, neve
 🎯	alvo, centro, dardo, em cheio no alvo, jogo
 🪀	ioió
-🪁	papagaio de papel
-🎱	bola, bola 8, jogo, oito, snooker
-🔮	bola, conto de fadas, cristal, fantasia, instrumento, sorte
+🪁	papagaio de papel, planar, voar
+🎱	bilhar, bola, bola 8, jogo, oito, snooker
+🔮	bola, bola de cristal, conto de fadas, cristal, fantasia, instrumento, sorte
+🪄	bruxa, feiticeiro, magia, varinha mágica
 🧿	amuleto, mau-olhado, missanga, nazar, olho turco, talismã
 🎮️	comando, comando de consola, jogo
-🕹️	joystick
+🕹️	jogo, joystick, videojogo
 🎰	jogo, slot, slot machine
 🎲	dado, jogo, valor
 🧩	dica, encaixe, peça, peça de puzzle, quebra-cabeça
-🧸	ursinho de peluche
-♠️	carta, espadas, jogo, naipe
-♥️	carta, copas, jogo, naipe
-♦️	carta, jogo, naipe, ouros
-♣️	carta, jogo, naipe, paus
-♟️	engano, peão, xadrez
+🧸	brinquedo, enchimento, peluche, ursinho de peluche
+♠️	carta, espadas, jogo, naipe, naipe de espadas
+♥️	carta, copas, jogo, naipe, naipe de copas
+♦️	carta, jogo, naipe, naipe de ouros, ouros
+♣️	carta, jogo, naipe, naipe de paus, paus
+♟️	engano, peão, peão de xadrez, xadrez
 🃏	carta, jogar, jogo, jóquer
 🀄️	dragão vermelho de mahjong, jogo, mahjong, vermelho
 🎴	baralho de cartas com flores, carta, flor, japonês, jogar, jogo
 🎭️	artes, artes performativas, máscaras, performativas, teatro
 🖼️	arte, imagem, moldura, moldura com imagem, museu, pintura, quadro com moldura
 🎨	arte, museu, paleta, paleta de artista, pintura
-🧵	fio
-👓️	acessório, olhos
+🧵	agulha, barbante, carretel, costura, fio
+👓️	acessório, olhos, óculos
 🕶️	acessório, escuro, olhos, óculos, óculos de sol, óculos escuros
 🥼	bata de laboratório, cientista, experiência, médico
 🦺	colete, colete de segurança, emergência, segurança
-👔	acessório, vestuário
+👔	acessório, gravata, vestuário
 👕	camisola, manga curta, t-shirt, vestuário
 👖	calças, calças de ganga, jeans, vestuário
 🧣	cachecol, lenço, pescoço, écharpe
 🧤	luva, luvas, mão
 🧥	casaco, jaqueta
 🧦	meia, meias, peúgas
-👗	vestuário
-👘	vestuário
+👗	vestido, vestuário
+👘	quimono, vestuário
 🥻	sari, vestido, vestuário
 🩱	fato de banho
 🩲	fato de banho, roupa interior, slip de banho
 🩳	calções de banho, fato de banho, roupa interior, slip
-👙	praia, vestuário
+👙	biquíni, praia, vestuário
 👚	roupa de senhora, roupas de senhora, senhora, vestuário
 👛	acessório, carteira, dinheiro, porta-moedas
 👜	acessório, carteira, mala, saco
-👝	acessório, bolsa, pochete, saco
+👝	acessório, bolsa, bolsa pequena, pochete, saco
 🛍️	compras, hotel, saco, sacos de compras
 🎒	escola, mochila, mochila da escola, pasta, saco
+🩴	chinelo
 👞	calçado, calçado masculino, homem, sapato de homem
 👟	calçado, desporto, sapatilha, ténis, vestuário
 🥾	acampamento, bota, bota de caminhada, caminhada, mochila
 🥿	chinelo, sabrina, slip-on
-👠	calçado, salto, saltos altos, senhora
+👠	calçado, salto, saltos altos, sapato de salto alto, senhora
 👡	calçado, sandália, sandália de senhora, senhora, vestuário
 🩰	ballet, dança, sapatos de ballet
 👢	bota, bota de senhora, calçado, senhora, vestuário
-👑	acessório, rainha, rei, vestuário
+👑	acessório, coroa, rainha, rei, vestuário
 👒	acessório, chapéu, chapéu de senhora, senhora, vestuário
-🎩	acessório, chapéu, chapéu alto, vestuário
+🎩	acessório, cartola, chapéu, chapéu alto, vestuário
 🎓️	acessório, celebração, chapéu, chapéu de finalista, chapéu de graduação, formatura, licenciatura
 🧢	boné, chapéu, chapéu de baseball
-⛑️	capacete, cara, chapéu, cruz, socorro
+⛑️	capacacete de socorrista, capacete, cara, chapéu, cruz, socorro
 📿	acessório, colar, contas, oração, religião, rosário
-💄	cosméticos, maquilhagem
-💍	diamante, noivado
+💄	batom, cosméticos, maquilhagem
+💍	anel, diamante, noivado
 💎	diamante, joia, jóia, pedra preciosa, preciosa
 🔇	altifalante, altifalante desligado, sem som, silencioso, silêncio, volume
 🔈️	altifalante baixo, volume
 🔉	altifalante, altifalante médio, baixo, onda sonora, volume
 🔊	3, altifalante, altifalante alto, alto, elevado, três, volume
 📢	altifalante, altifalante público, alto, público
-📣	apoiar, torcer
+📣	apoiar, megafone, torcer
 📯	correios, trompa, trompa dos correios
 🔕	não, proibido, silêncio, sino, sino com barra, sino riscado
 🎼	música, partitura, pauta
-🎶	música, notas
+🎶	música, notas, notas musicais
 🎚️	controlo de nível, música, nível, seletor
 🎛️	botões, botões de controlo, comando, música
 🎤	karaoke, microfone
 🎧️	auscultador, intra-auricular
-📻️	música
+📻️	música, rádio
 🎷	instrumento, música, saxofone
+🪗	acordeão
 🎸	guitarra elétrica, instrumento, música
 🎹	instrumento, música, piano, teclado, teclado musical
-🎺	instrumento, música
-🎻	instrumento, música
+🎺	instrumento, música, trompete
+🎻	instrumento, música, violino
 🪕	banjo
 🥁	baquetas, música, tambor
+🪘	tambor alto
 📱	telefone, telemóvel
 📲	chamada, receber, seta, telefone, telemóvel, telemóvel com seta
 ☎️	telefone, telefone fixo
@@ -2309,34 +2517,33 @@
 📷️	foto, fotografia, máquina fotográfica
 📸	câmara, flash, máquina fotográfica com flash, vídeo
 📹️	câmara, câmara de vídeo, vídeo
-📼	cassete, vhs, vídeo
+📼	cassete, vhs, videocassete, vídeo
 🔍	ferramenta, lupa, lupa inclinada para a esquerda, pesquisar
 🔎	ferramenta, lupa, lupa inclinada para a direita, pesquisar
 💡	desenho, eletricidade, ideia, luz, lâmpada
-🔦	eletricidade, luz, utensílio
+🔦	eletricidade, lanterna, luz, utensílio
 🏮	bar, japonês, lanterna, lanterna de papel vermelha, luz, vermelha
 🪔	diya, lâmpada, lâmpada diya, óleo
 📔	bloco de notas, bloco de notas com capa decorada, capa, decorada, livro
 📙	cor de laranja, livro, livro cor de laranja
 📒	bloco de notas, livro-razão
 📃	dobra, documento, página, página com dobra
-📜	papel
+📜	papel, pergaminho
 📄	documento, página, página virada para cima
-📰	notícias, papel
+📰	jornal, notícias, papel
 🗞	enrolado, jornal, notícias, papel
 📑	marcadores, marcadores de folhas, marcar
 🔖	marcador de livros, marcar
-💰️	dinheiro, dólar, saco
-💴	banco, dinheiro, iene, moeda, nota
-💵	banco, dinheiro, dólar, moeda, nota
-💶	banco, dinheiro, euro, moeda, nota
-💷	banco, dinheiro, libra, moeda, nota
+💰️	dinheiro, dólar, saco, saco de dinheiro
+💴	banco, dinheiro, iene, moeda, nota, nota de iene
+💵	banco, dinheiro, dólar, moeda, nota, nota de dólar
+💶	banco, dinheiro, euro, moeda, nota, nota de euro
+💷	banco, dinheiro, libra, moeda, nota, nota de libra
 💸	asas, banco, dinheiro, dinheiro com asas, dólar, nota, voar
-💳️	banco, cartão, crédito, dinheiro
-🧾	comprovativo, contabilidade, fatura, tesouraria
+💳️	banco, cartão, cartão de crédito, crédito, dinheiro
+🧾	comprovativo, contabilidade, fatura, recibo, tesouraria
 💹	ascendente, banco, crescimento, dinheiro, gráfico, gráfico a subir com iene, iene, mercado, moeda, subida, tendência
-💲	dinheiro, dólar, moeda, símbolo de dólar
-✉️	correio, email
+✉️	correio, email, envelope
 📧	carta, correio, e-mail
 📨	carta, chegada, correio, email, envelope, envelope a chegar, receber
 📩	carta, correio, email, envelope, envelope com seta, enviado, para baixo, saída, seta
@@ -2351,20 +2558,19 @@
 🗳️	caixa, urna com voto, voto
 ✒️	aparo, aparo preto, caneta
 🖋️	caneta, caneta de tinta permanente, tinta permanente
-🖊️	esferográfica
 🖍️	lápis de cera
 📝	folha, lápis, nota
 📁	arquivo, pasta, pasta de arquivo
 📂	aberta, arquivo, pasta, pasta de arquivo aberta
 🗂️	fichas, separadores, separadores de fichas
-📅	data
+📅	calendário, data
 📆	calendário, calendário destacável
 🗒️	bloco, bloco de notas com espiral, espiral, notas
 🗓️	bloco, calendário, calendário com espiral, espiral
 📇	ficha, fichas, rolodex
 📈	crescimento, gráfico, gráfico a subir, subida, tendência
 📉	descida, gráfico, gráfico a descer, tendência
-📊	barras, gráfico
+📊	barras, gráfico, gráfico de barras
 📌	alfinete, pionés, tacha
 📍	alfinete, alfinete de cabeça redonda, redondo
 📎	clipe
@@ -2377,49 +2583,56 @@
 🗑️	caixote do lixo, cesto do lixo
 🔓️	aberto, cadeado
 🔏	aparo, cadeado, cadeado com caneta, caneta, privacidade, tinta
-🔐	cadeado, chave, fechado, seguro
+🔐	cadeado, cadeado fechado com chave, chave, fechado, seguro
 🔑	chave, fechadura, palavra-passe, proteção, senha
-🗝️	antiga, fechadura, pista
+🗝️	antiga, chave antiga, fechadura, pista
 🪓	cortar, cutelo, lenha, machado, rachar
-⛏️	ferramenta, mineração
-⚒️	ferramenta, martelo, picareta
 🛠️	chave inglesa, ferramenta, martelo, martelo e chave inglesa
 🗡️	arma, punhal
 ⚔️	arma, cruzadas, espadas
 🔫	arma, pistola, revólver
-🏹	arco, arma, arqueiro, sagitário, seta, zodíaco
+🪃	bumerangue
+🏹	arco, arco e flecha, arma, arqueiro, sagitário, seta, zodíaco
+🪛	chave de fendas
 ⚙️	ferramenta, roda dentada
 🗜️	ferramenta, grampo, torno
 ⚖️	balança, balança (objeto), instrumento, justiça, pesar, zodíaco
 🦯	acessibilidade, bengala para invisuais, invisual
 🔗	corrente, ligação
-⛓️	corrente, correntes
+🪝	gancho
 🧰	caixa, ferramenta, mala de ferramentas, mecânico
 🧲	atração, ferradura, magnético, íman
+🪜	escada
 ⚗️	balão de vidro, instrumento, química
 🧬	adn, biólogo, evolução, gene, genética, vida
 🔬	ciência, instrumento, microscópio
 🔭	ciência, instrumento, telescópio
 📡	antena, parabólica, satélite
-💉	agulha, doente, instrumento, medicina, médico, seringa
-💊	doente, medicina, médico
+💉	agulha, doente, injeção, medicamento, remédio, seringa
+💊	comprimido, doente, medicina, médico
 🩹	penso, penso rápido
+🪞	espelho
 🛏️	cama, dormir, hotel
 🛋️	candeeiro, hotel, sofá, sofá e candeeiro
 🚽	casa de banho, sanita
+🪠	desentupidor
 🚿	chuveiro, duche, água
-🛁	banho
+🛁	banheira, banho
+🪤	ratoeira
 🪒	afiado, barbear, lâmina de barbear
-🧴	champô, hidratante, loção, protetor solar
+🧴	champô, frasco de loção, hidratante, loção, protetor solar
 🧷	alfinete de dama, fralda, punk rock
-🧺	agricultura, cesto de roupa, piquenique
+🧺	agricultura, cesta, cesto de roupa, piquenique
 🧻	papel de cozinha, papel higiênico, rolo de cozinha
-🧼	banho, espuma, limpeza, saboneteira
+🪣	balde
+🧼	banho, espuma, limpeza, sabonete, saboneteira
+🪥	escova de dentes
 🧯	apagar, extinguir, extintor, incêndio
-🛒	carrinho, compras
+🛒	carrinho, carrinho de compras, compras
 ⚰️	caixão, morte
 ⚱️	funeral, morte, urna
 🗿	cara, estátua, ilha de páscoa, moai
+🪧	placard
 🏧	banco, caixa, sinal de caixa automática, sinal de multibanco
 🚮	cesto do lixo, lixo, sinal de lixo no caixote do lixo
 ♿️	acessibilidade, símbolo de cadeira de rodas
@@ -2429,10 +2642,10 @@
 🚼️	bebé, símbolo de fraldário, trocar fraldas
 🚾	WC, casa de banho, wc
 🛂	controlo, controlo de passaportes, passaporte
-🛃	aduana
+🛃	aduana, alfândega
 🛄	bagagem, recolha, recolha de bagagem
 🛅	bagagem, cacifo, depósito de bagagem
-⚠️	atenção, aviso
+⚠️	aviso
 🚸	atravessar, crianças, crianças a atravessar, passagem de crianças, peões, trânsito
 ⛔️	entrada, não, proibida, proibida a entrada, transitar, trânsito
 🚫	entrada, não, proibida, proibido
@@ -2443,17 +2656,17 @@
 🚷	não, peões, proibido, proibido a peões
 📵	não, proibido, proibido usar telemóveis, telefone, telemóvel
 🔞	18, dezoito, menores, proibido a menores de dezoito anos, restrição
-☢️	radioactividade, radioactivo, radioativo, sinal
+☢️	radioativo, sinal
 ☣️	biológico, perigo biológico, risco
-⬆️	cardeal, direção, norte, seta
+⬆️	cardeal, direção, norte, seta, seta para cima
 ↗️	direção, intermédio, nordeste, seta, seta para cima e para a direita
-➡️	cardinal, direção, este, seta
+➡️	cardeal, direção, este, seta, seta para a direita
 ↘️	direção, intermédio, seta, seta para a direita e para baixo, sudeste
-⬇️	cardeal, direção, para baixo, seta, sul
+⬇️	cardeal, direção, para baixo, seta, seta para baixo, sul
 ↙️	direção, intermédio, seta, seta para baixo e para a esquerda, sudoeste
-⬅️	cardinal, direção, oeste, seta
+⬅️	cardeal, direção, oeste, seta, seta para a esquerda
 ↖️	direção, intermédio, noroeste, seta, seta para cima e para a esquerda
-↕️	para baixo, para cima, seta
+↕️	para baixo, para cima, seta, seta para cima e para baixo
 ↔️	direita, esquerda, seta, seta para a esquerda e para a direita
 ↩️	curva, esquerda, seta, seta para a direita com curva para a esquerda
 ↪️	curva, direita, seta, seta para a esquerda com curva para a direita
@@ -2467,13 +2680,13 @@
 🔜	brevemente, seta, seta SOON
 🔝	parte superior, seta, seta TOP
 ⚛️	ateísta, símbolo do átomo
-🕉️	hinduísmo, religião
+🕉️	hinduísmo, om, religião
 ✡️	david, estrela, estrela de David, judaísmo, judeu, religião
 ☯️	religião, taoismo, taoista, yang, yin
-✝️	cristã, cruz, religião
+✝️	cristã, cruz, cruz latina, religião
 ☦️	cristã, cruz, ortodoxa, religião
 ☪️	Islão, estrela e lua crescente, muçulmano, religião
-☮️	paz
+☮️	paz, símbolo da paz
 🔯	estrela, estrela de seis pontas com ponto, sorte
 ♈️	Carneiro, carneiro, signo
 ♉️	Touro, signo
@@ -2514,35 +2727,37 @@
 📴	desligado, telefone, telemóvel, telemóvel desligado
 ♀️	mulher, símbolo feminino
 ♂️	homem, símbolo masculino
+⚧️	símbolo transgénero
+✖️	cancelar, multiplicar, multiplicação, sinal de multiplicação, ×
+➕	+, adição, mais, matemática, sinal de adição
+➖	-, matemática, menos, sinal de subtração, subtracção, subtração, −
+➗	divisão, matemática, sinal de divisão, ÷
+‼️	!, !!, exclamação, ponto de exclamação duplo, pontuação
+⁉️	!, !?, ?, exclamação, interrogação, pergunta, pontos de exclamação e de interrogação, pontuação
+❓️	?, interrogação, pergunta, ponto de interrogação, pontuação
+❔	?, delineado, pergunta, ponto de interrogação branco, pontuação, sinal, sinal de interrogação branco
+❕	!, delineado, exclamação, ponto de exclamação branco, pontuação, sinal, sinal de exclamação branco
+❗️	!, exclamação, ponto de exclamação, pontuação, sinal
+〰️	ondulado, pontuação, traço, traço ondulado
+💲	dinheiro, dólar, moeda, símbolo de dólar
 ⚕️	esculápio, medicina, pessoal, símbolo médico
-♻️	reciclar
-⚜	fleur-de-lis
-🔱	emblema, navio, tridente, âncora
+♻️	reciclar, símbolo de reciclagem
+⚜	fleur-de-lis, flor-de-lis
+🔱	emblema, emblema de tridente, navio, tridente, âncora
 📛	dístico, nome
 🔰	amarelo, insígnia, japonês, principiante, símbolo japonês para principiante, verde
 ⭕️	círculo, círculo vermelho oco, encarnado, grande, o, vermelho
 ✅	botão, botão de visto, visto, ✓
 ☑️	caixa, caixa com visto, visto
 ✔️	marca de verificação, visto, ✓
-✖️	cancelar, multiplicar, multiplicação, sinal, sinal de multiplicação, x de multiplicação carregado, ×
 ❌	cancelar, cruz, multiplicar, multiplicação, x, ×
 ❎	botão com cruz, quadrado, x, ×
-➕	+, adição, mais, matemática, sinal de adição
-➖	matemática, menos, sinal de subtração, subtracção, subtração
-➗	divisão, matemática, sinal de divisão, ÷
 ➰	caracol, laço, laço encaracolado
 ➿	caracol, duplo, laço, laço encaracolado duplo
 〽️	entrada, marca de alternância parcial, música
 ✳️	*, asterisco, asterisco com oito raios
 ✴️	estrela, estrela com oito pontas
-❇️	*, brilho, centelha
-‼️	!, !!, exclamação, ponto de exclamação duplo, pontuação
-⁉️	!, !?, ?, exclamação, interrogação, pergunta, pontos de exclamação e de interrogação, pontuação
-❓️	?, interrogação, pergunta, ponto de interrogação, pontuação
-❔	?, delineado, pergunta, pontuação, sinal, sinal de interrogação branco
-❕	!, delineado, exclamação, pontuação, sinal, sinal de exclamação branco
-❗️	!, exclamação, ponto de exclamação, pontuação, sinal
-〰️	ondulado, pontuação, traço, traço ondulado
+❇️	*, brilho, centelha, faísca
 ©️	c, direitos de autor
 ®️	marca registada, r
 ™️	marca, marca comercial, tm
@@ -2584,42 +2799,27 @@
 ㊙️	"segredo", botão "segredo" em japonês, ideograma, japonês
 🈺	botão "em funcionamento" em japonês, ideograma, japonês
 🈵	botão "sem vagas" em japonês, ideograma, japonês
-🟠	círculo cor de laranja
-🟡	círculo amarelo
-🟢	círculo verde
-🟣	círculo roxo
-🟤	círculo castanho
-⚫️	círculo, geométrico
-⚪️	círculo, geométrico
-🟥	quadrado vermelho
-🟧	quadrado cor de laranja
-🟨	quadrado amarelo
-🟩	quadrado verde
-🟦	quadrado azul
-🟪	quadrado roxo
-🟫	quadrado castanho
-⬛️	geométrico, quadrado
-⬜️	geométrico, quadrado
-◼️	geométrico, quadrado
-◻️	geométrico, quadrado
+🟠	cor de laranja, círculo, círculo cor de laranja
+🟤	castanho, círculo, círculo castanho
+🟧	cor de laranja, quadrado, quadrado cor de laranja
+🟫	castanho, quadrado, quadrado castanho
 ◾️	geométrico, quadrado, quadrado preto pequeno/médio
 ◽️	geométrico, quadrado, quadrado branco pequeno/médio
-▪️	geométrico, quadrado
-▫️	geométrico, quadrado
 🔶	cor de laranja, geométrico, losango, losango cor de laranja grande
 🔸	cor de laranja, geométrico, losango, losango cor de laranja pequeno
 🔺	geométrico, para cima, triângulo, triângulo vermelho a apontar para cima, vermelho
 🔻	geométrico, para baixo, triângulo, triângulo vermelho a apontar para baixo, vermelho
 💠	desenho, geométrico, interior, losango, losango com um ponto
-🔘	botão, geométrico, opção
+🔘	botão, botão de opção, geométrico, opção
 🔳	botão, botão quadrado branco, delineado, geométrico, quadrado
 🔲	botão, botão quadrado preto, geométrico, quadrado
 🏁	axadrezado, bandeira axadrezada, corrida
 🚩	bandeira triangular, golfe
 🎌	bandeiras do Japão cruzadas, celebração, cruz, cruzado, japonês
-🏴	abanar, bandeira preta a abanar
-🏳️	abanar, bandeira branca a abanar
+🏴	abanar, bandeira preta, bandeira preta a abanar
+🏳️	abanar, bandeira branca, bandeira branca a abanar
 🏳‍🌈	arco-íris, bandeira, bandeira arco-íris
+🏳‍⚧	azul clara, bandeira, bandeira transgénero, branca, rosa, transgénero
 🏴‍☠	bandeira pirata, perna-de-pau, pirata, tesouro
 🇦🇲	bandeira: Arménia
 🇦🇽	bandeira: Alanda
@@ -2656,7 +2856,7 @@
 🇲🇨	bandeira: Mónaco
 🇲🇩	bandeira: Moldávia
 🇲🇬	bandeira: Madagáscar
-🇲🇰	bandeira: Macedónia
+🇲🇰	bandeira: Macedónia do Norte
 🇲🇸	bandeira: Monserrate
 🇲🇺	bandeira: Maurícia
 🇲🇼	bandeira: Maláui
@@ -2669,7 +2869,7 @@
 🇸🇲	bandeira: São Marinho
 🇸🇻	bandeira: Salvador
 🇸🇽	bandeira: São Martinho (Sint Maarten)
-🇸🇿	bandeira: Essuatíni
+🇹🇫	bandeira: Territórios Austrais Franceses
 🇹🇯	bandeira: Tajiquistão
 🇹🇰	bandeira: Toquelau
 🇹🇲	bandeira: Turquemenistão

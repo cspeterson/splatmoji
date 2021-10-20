@@ -19,6 +19,7 @@
 ☺️	lice, opušten, osmijeh
 😚	lice, oko, poljubac, poljubac žmireći, žmirenje
 😙	lice, oko, osmijeh, poljubac, poljubac sa škiljenjem
+🥲	dirnutost, nasmijano lice sa suzom, olakšanje, ponos, smiješak, suza, zahvalnost
 😋	lice, njam njam, oblizivanje, ukusno, žderanje
 😛	isplažen, jezik, lice, ruganje
 😜	jezik, lice, mig, ruganje sa namigivanjem, šala
@@ -57,6 +58,7 @@
 🤯	eksplodirajuća glava, šok
 🤠	kauboj, lice, šešir
 🥳	lice koje se zabavlja, party, proslava, slavlje, zabava, šešir
+🥸	inkognito, lice, naočale, nos, prerušavanje, prerušeno lice
 😎	fora, naočale, osmijeh sa sunčanim naočalama, sunčane naočale, svjetlost
 🤓	lice, čudak, štreber
 🧐	monokl, začepljen
@@ -147,12 +149,12 @@
 🗯️	dijalog, ljutnja, oblačić, oblačić ljutitog razgovora okrenut nadesno, razgovor
 💭	dijalog, oblačić, oblačić razmišljanja, razmišljanje, stripovi
 💤	spavanje, stripovi, zzz
-👋	mahanje, mahanje rukom, ruka
-👋🏻	mahanje, mahanje rukom, mahanje rukom: svijetla boja kože, ruka, svijetla boja kože
-👋🏼	mahanje, mahanje rukom, mahanje rukom: umjereno svijetla boja kože, ruka, umjereno svijetla boja kože
-👋🏽	mahanje, mahanje rukom, mahanje rukom: umjerena boja kože, ruka, umjerena boja kože
-👋🏾	mahanje, mahanje rukom, mahanje rukom: umjereno tamna boja kože, ruka, umjereno tamna boja kože
-👋🏿	mahanje, mahanje rukom, mahanje rukom: tamna boja kože, ruka, tamna boja kože
+👋	mahanje, mahanje rukom
+👋🏻	mahanje, mahanje rukom, mahanje rukom: svijetla boja kože, svijetla boja kože
+👋🏼	mahanje, mahanje rukom, mahanje rukom: umjereno svijetla boja kože, umjereno svijetla boja kože
+👋🏽	mahanje, mahanje rukom, mahanje rukom: umjerena boja kože, umjerena boja kože
+👋🏾	mahanje, mahanje rukom, mahanje rukom: umjereno tamna boja kože, umjereno tamna boja kože
+👋🏿	mahanje, mahanje rukom, mahanje rukom: tamna boja kože, tamna boja kože
 🤚	dlan, podignuto, ruka, ruka gore, uspravno
 🤚🏻	dlan, podignuto, ruka, ruka gore, ruka gore: svijetla boja kože, svijetla boja kože, uspravno
 🤚🏼	dlan, podignuto, ruka, ruka gore, ruka gore: umjereno svijetla boja kože, umjereno svijetla boja kože, uspravno
@@ -177,24 +179,30 @@
 🖖🏽	pozdrav, ruka, spock, umjerena boja kože, vulkanac, vulkanski pozdrav, vulkanski pozdrav: umjerena boja kože
 🖖🏾	pozdrav, ruka, spock, umjereno tamna boja kože, vulkanac, vulkanski pozdrav, vulkanski pozdrav: umjereno tamna boja kože
 🖖🏿	pozdrav, ruka, spock, tamna boja kože, vulkanac, vulkanski pozdrav, vulkanski pozdrav: tamna boja kože
-👌	ok, pokazivanje, prsti, prsti pokazuju ok, ruka
-👌🏻	ok, pokazivanje, prsti, prsti pokazuju ok, prsti pokazuju ok: svijetla boja kože, ruka, svijetla boja kože
-👌🏼	ok, pokazivanje, prsti, prsti pokazuju ok, prsti pokazuju ok: umjereno svijetla boja kože, ruka, umjereno svijetla boja kože
-👌🏽	ok, pokazivanje, prsti, prsti pokazuju ok, prsti pokazuju ok: umjerena boja kože, ruka, umjerena boja kože
-👌🏾	ok, pokazivanje, prsti, prsti pokazuju ok, prsti pokazuju ok: umjereno tamna boja kože, ruka, umjereno tamna boja kože
-👌🏿	ok, pokazivanje, prsti, prsti pokazuju ok, prsti pokazuju ok: tamna boja kože, ruka, tamna boja kože
+👌	ok, prsti pokazuju ok
+👌🏻	ok, prsti pokazuju ok, prsti pokazuju ok: svijetla boja kože, svijetla boja kože
+👌🏼	ok, prsti pokazuju ok, prsti pokazuju ok: umjereno svijetla boja kože, umjereno svijetla boja kože
+👌🏽	ok, prsti pokazuju ok, prsti pokazuju ok: umjerena boja kože, umjerena boja kože
+👌🏾	ok, prsti pokazuju ok, prsti pokazuju ok: umjereno tamna boja kože, umjereno tamna boja kože
+👌🏿	ok, prsti pokazuju ok, prsti pokazuju ok: tamna boja kože, tamna boja kože
+🤌	gest rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, uštinuti
+🤌🏻	gest rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: svijetla boja kože, svijetla boja kože, uštinuti
+🤌🏼	gest rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: umjereno svijetla boja kože, umjereno svijetla boja kože, uštinuti
+🤌🏽	gest rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: umjerena boja kože, umjerena boja kože, uštinuti
+🤌🏾	gest rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: umjereno tamna boja kože, umjereno tamna boja kože, uštinuti
+🤌🏿	gest rukom, ispitivanje, prsti, sarkastično, skupljeni prsti, skupljeni prsti: tamna boja kože, tamna boja kože, uštinuti
 🤏	ruka koja štipa, ruka pokazuje malo
 🤏🏻	ruka koja štipa, ruka koja štipa: svijetla boja kože, ruka pokazuje malo, svijetla boja kože
 🤏🏼	ruka koja štipa, ruka koja štipa: umjereno svijetla boja kože, ruka pokazuje malo, umjereno svijetla boja kože
 🤏🏽	ruka koja štipa, ruka koja štipa: umjerena boja kože, ruka pokazuje malo, umjerena boja kože
 🤏🏾	ruka koja štipa, ruka koja štipa: umjereno tamna boja kože, ruka pokazuje malo, umjereno tamna boja kože
 🤏🏿	ruka koja štipa, ruka koja štipa: tamna boja kože, ruka pokazuje malo, tamna boja kože
-✌️	dva prsta, dva prsta u znaku pobjede, pobjeda, pokazivanje, ruka
-✌🏻	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: svijetla boja kože, pobjeda, pokazivanje, ruka, svijetla boja kože
-✌🏼	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: umjereno svijetla boja kože, pobjeda, pokazivanje, ruka, umjereno svijetla boja kože
-✌🏽	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: umjerena boja kože, pobjeda, pokazivanje, ruka, umjerena boja kože
-✌🏾	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: umjereno tamna boja kože, pobjeda, pokazivanje, ruka, umjereno tamna boja kože
-✌🏿	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: tamna boja kože, pobjeda, pokazivanje, ruka, tamna boja kože
+✌️	dva prsta, dva prsta u znaku pobjede, pobjeda
+✌🏻	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: svijetla boja kože, pobjeda, svijetla boja kože
+✌🏼	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: umjereno svijetla boja kože, pobjeda, umjereno svijetla boja kože
+✌🏽	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: umjerena boja kože, pobjeda, umjerena boja kože
+✌🏾	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: umjereno tamna boja kože, pobjeda, umjereno tamna boja kože
+✌🏿	dva prsta, dva prsta u znaku pobjede, dva prsta u znaku pobjede: tamna boja kože, pobjeda, tamna boja kože
 🤞	držanje palčeva, držati, fige, palac, sreća
 🤞🏻	držanje palčeva, držanje palčeva: svijetla boja kože, držati, fige, palac, sreća, svijetla boja kože
 🤞🏼	držanje palčeva, držanje palčeva: umjereno svijetla boja kože, držati, fige, palac, sreća, umjereno svijetla boja kože
@@ -249,12 +257,12 @@
 👇🏽	dolje, kažiprst, kažiprst dolje: umjerena boja kože, nadlanica, pokazivanje, umjerena boja kože
 👇🏾	dolje, kažiprst, kažiprst dolje: umjereno tamna boja kože, nadlanica, pokazivanje, umjereno tamna boja kože
 👇🏿	dolje, kažiprst, kažiprst dolje: tamna boja kože, nadlanica, pokazivanje, tamna boja kože
-☝️	dlan, gore, kažiprst, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom
-☝🏻	dlan, gore, kažiprst, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, pokazivanje kažiprstom gore s okrenutim dlanom: svijetla boja kože, svijetla boja kože
-☝🏼	dlan, gore, kažiprst, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, pokazivanje kažiprstom gore s okrenutim dlanom: umjereno svijetla boja kože, umjereno svijetla boja kože
-☝🏽	dlan, gore, kažiprst, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, pokazivanje kažiprstom gore s okrenutim dlanom: umjerena boja kože, umjerena boja kože
-☝🏾	dlan, gore, kažiprst, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, pokazivanje kažiprstom gore s okrenutim dlanom: umjereno tamna boja kože, umjereno tamna boja kože
-☝🏿	dlan, gore, kažiprst, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, pokazivanje kažiprstom gore s okrenutim dlanom: tamna boja kože, tamna boja kože
+☝️	dlan, gore, kažiprst, kažiprst pokazuje gore, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom
+☝🏻	dlan, gore, kažiprst, kažiprst pokazuje gore, kažiprst pokazuje gore: svijetla boja kože, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, svijetla boja kože
+☝🏼	dlan, gore, kažiprst, kažiprst pokazuje gore, kažiprst pokazuje gore: umjereno svijetla boja kože, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, umjereno svijetla boja kože
+☝🏽	dlan, gore, kažiprst, kažiprst pokazuje gore, kažiprst pokazuje gore: umjerena boja kože, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, umjerena boja kože
+☝🏾	dlan, gore, kažiprst, kažiprst pokazuje gore, kažiprst pokazuje gore: umjereno tamna boja kože, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, umjereno tamna boja kože
+☝🏿	dlan, gore, kažiprst, kažiprst pokazuje gore, kažiprst pokazuje gore: tamna boja kože, pokazivanje, pokazivanje kažiprstom gore s okrenutim dlanom, tamna boja kože
 👍️	gore, palac, palac gore, ruka
 👍🏻	gore, palac, palac gore: svijetla boja kože, ruka, svijetla boja kože
 👍🏼	gore, palac, palac gore: umjereno svijetla boja kože, ruka, umjereno svijetla boja kože
@@ -267,12 +275,12 @@
 👎🏽	dolje, palac, palac dolje: umjerena boja kože, ruka, umjerena boja kože
 👎🏾	dolje, palac, palac dolje: umjereno tamna boja kože, ruka, umjereno tamna boja kože
 👎🏿	dolje, palac, palac dolje: tamna boja kože, ruka, tamna boja kože
-✊	pesnica, podignuta pesnica, ruka
-✊🏻	pesnica, podignuta pesnica, podignuta pesnica: svijetla boja kože, ruka, svijetla boja kože
-✊🏼	pesnica, podignuta pesnica, podignuta pesnica: umjereno svijetla boja kože, ruka, umjereno svijetla boja kože
-✊🏽	pesnica, podignuta pesnica, podignuta pesnica: umjerena boja kože, ruka, umjerena boja kože
-✊🏾	pesnica, podignuta pesnica, podignuta pesnica: umjereno tamna boja kože, ruka, umjereno tamna boja kože
-✊🏿	pesnica, podignuta pesnica, podignuta pesnica: tamna boja kože, ruka, tamna boja kože
+✊	pesnica, podignuta pesnica, podignuta šaka, ruka
+✊🏻	pesnica, podignuta pesnica, podignuta pesnica: svijetla boja kože, podignuta šaka, ruka, svijetla boja kože
+✊🏼	pesnica, podignuta pesnica, podignuta pesnica: umjereno svijetla boja kože, podignuta šaka, ruka, umjereno svijetla boja kože
+✊🏽	pesnica, podignuta pesnica, podignuta pesnica: umjerena boja kože, podignuta šaka, ruka, umjerena boja kože
+✊🏾	pesnica, podignuta pesnica, podignuta pesnica: umjereno tamna boja kože, podignuta šaka, ruka, umjereno tamna boja kože
+✊🏿	pesnica, podignuta pesnica, podignuta pesnica: tamna boja kože, podignuta šaka, ruka, tamna boja kože
 👊	nabacivanje pesnicom, pesnica, ruka
 👊🏻	nabacivanje pesnicom, nabacivanje pesnicom: svijetla boja kože, pesnica, ruka, svijetla boja kože
 👊🏼	nabacivanje pesnicom, nabacivanje pesnicom: umjereno svijetla boja kože, pesnica, ruka, umjereno svijetla boja kože
@@ -379,6 +387,8 @@
 👃🏾	dio tijela, nos, nos: umjereno tamna boja kože, umjereno tamna boja kože
 👃🏿	dio tijela, nos, nos: tamna boja kože, tamna boja kože
 🧠	inteligentan, mozak
+🫀	centar, kardiologija, organ, otkucaj srca, puls, srce organ
+🫁	dah, disanje, izdisaj, organ, pluća, udisaj
 🦷	stomatolog, zub
 🦴	kost, kostur
 👀	lice, oči
@@ -409,36 +419,60 @@
 👧🏽	djevojka, djevojčica, djevojčica: umjerena boja kože, umjerena boja kože
 👧🏾	djevojka, djevojčica, djevojčica: umjereno tamna boja kože, umjereno tamna boja kože
 👧🏿	djevojka, djevojčica, djevojčica: tamna boja kože, tamna boja kože
-🧑	odrasla osoba, srednji rod
-🧑🏻	odrasla osoba, odrasla osoba: svijetla boja kože, srednji rod, svijetla boja kože
-🧑🏼	odrasla osoba, odrasla osoba: umjereno svijetla boja kože, srednji rod, umjereno svijetla boja kože
-🧑🏽	odrasla osoba, odrasla osoba: umjerena boja kože, srednji rod, umjerena boja kože
-🧑🏾	odrasla osoba, odrasla osoba: umjereno tamna boja kože, srednji rod, umjereno tamna boja kože
-🧑🏿	odrasla osoba, odrasla osoba: tamna boja kože, srednji rod, tamna boja kože
-👱	osoba sa plavom kosom, plava kosa
-👱🏻	osoba sa plavom kosom, osoba sa plavom kosom: svijetla boja kože, plava kosa, svijetla boja kože
-👱🏼	osoba sa plavom kosom, osoba sa plavom kosom: umjereno svijetla boja kože, plava kosa, umjereno svijetla boja kože
-👱🏽	osoba sa plavom kosom, osoba sa plavom kosom: umjerena boja kože, plava kosa, umjerena boja kože
-👱🏾	osoba sa plavom kosom, osoba sa plavom kosom: umjereno tamna boja kože, plava kosa, umjereno tamna boja kože
-👱🏿	osoba sa plavom kosom, osoba sa plavom kosom: tamna boja kože, plava kosa, tamna boja kože
+🧑	neodređeni spol, odrasla osoba, srednji rod
+🧑🏻	neodređeni spol, odrasla osoba, odrasla osoba: svijetla boja kože, srednji rod, svijetla boja kože
+🧑🏼	neodređeni spol, odrasla osoba, odrasla osoba: umjereno svijetla boja kože, srednji rod, umjereno svijetla boja kože
+🧑🏽	neodređeni spol, odrasla osoba, odrasla osoba: umjerena boja kože, srednji rod, umjerena boja kože
+🧑🏾	neodređeni spol, odrasla osoba, odrasla osoba: umjereno tamna boja kože, srednji rod, umjereno tamna boja kože
+🧑🏿	neodređeni spol, odrasla osoba, odrasla osoba: tamna boja kože, srednji rod, tamna boja kože
+👱	kosa, osoba s plavom kosom, plavo
+👱🏻	kosa, osoba s plavom kosom, osoba s plavom kosom: svijetla boja kože, plavo, svijetla boja kože
+👱🏼	kosa, osoba s plavom kosom, osoba s plavom kosom: umjereno svijetla boja kože, plavo, umjereno svijetla boja kože
+👱🏽	kosa, osoba s plavom kosom, osoba s plavom kosom: umjerena boja kože, plavo, umjerena boja kože
+👱🏾	kosa, osoba s plavom kosom, osoba s plavom kosom: umjereno tamna boja kože, plavo, umjereno tamna boja kože
+👱🏿	kosa, osoba s plavom kosom, osoba s plavom kosom: tamna boja kože, plavo, tamna boja kože
+🧑‍🦰	crvena kosa, neodređeni spol, odrasla osoba, odrasla osoba: crvena kosa, srednji rod
+🧑🏻‍🦰	crvena kosa, neodređeni spol, odrasla osoba, odrasla osoba: svijetla boja kože i crvena kosa, srednji rod, svijetla boja kože
+🧑🏼‍🦰	crvena kosa, neodređeni spol, odrasla osoba, odrasla osoba: umjereno svijetla boja kože i crvena kosa, srednji rod, umjereno svijetla boja kože
+🧑🏽‍🦰	crvena kosa, neodređeni spol, odrasla osoba, odrasla osoba: umjerena boja kože i crvena kosa, srednji rod, umjerena boja kože
+🧑🏾‍🦰	crvena kosa, neodređeni spol, odrasla osoba, odrasla osoba: umjereno tamna boja kože i crvena kosa, srednji rod, umjereno tamna boja kože
+🧑🏿‍🦰	crvena kosa, neodređeni spol, odrasla osoba, odrasla osoba: tamna boja kože i crvena kosa, srednji rod, tamna boja kože
+🧑‍🦱	kovrdžava kosa, neodređeni spol, odrasla osoba, odrasla osoba: kovrdžava kosa, srednji rod
+🧑🏻‍🦱	kovrdžava kosa, neodređeni spol, odrasla osoba, odrasla osoba: svijetla boja kože i kovrdžava kosa, srednji rod, svijetla boja kože
+🧑🏼‍🦱	kovrdžava kosa, neodređeni spol, odrasla osoba, odrasla osoba: umjereno svijetla boja kože i kovrdžava kosa, srednji rod, umjereno svijetla boja kože
+🧑🏽‍🦱	kovrdžava kosa, neodređeni spol, odrasla osoba, odrasla osoba: umjerena boja kože i kovrdžava kosa, srednji rod, umjerena boja kože
+🧑🏾‍🦱	kovrdžava kosa, neodređeni spol, odrasla osoba, odrasla osoba: umjereno tamna boja kože i kovrdžava kosa, srednji rod, umjereno tamna boja kože
+🧑🏿‍🦱	kovrdžava kosa, neodređeni spol, odrasla osoba, odrasla osoba: tamna boja kože i kovrdžava kosa, srednji rod, tamna boja kože
+🧑‍🦳	neodređeni spol, odrasla osoba, odrasla osoba: sijeda kosa, sijeda kosa, srednji rod
+🧑🏻‍🦳	neodređeni spol, odrasla osoba, odrasla osoba: svijetla boja kože i sijeda kosa, sijeda kosa, srednji rod, svijetla boja kože
+🧑🏼‍🦳	neodređeni spol, odrasla osoba, odrasla osoba: umjereno svijetla boja kože i sijeda kosa, sijeda kosa, srednji rod, umjereno svijetla boja kože
+🧑🏽‍🦳	neodređeni spol, odrasla osoba, odrasla osoba: umjerena boja kože i sijeda kosa, sijeda kosa, srednji rod, umjerena boja kože
+🧑🏾‍🦳	neodređeni spol, odrasla osoba, odrasla osoba: umjereno tamna boja kože i sijeda kosa, sijeda kosa, srednji rod, umjereno tamna boja kože
+🧑🏿‍🦳	neodređeni spol, odrasla osoba, odrasla osoba: tamna boja kože i sijeda kosa, sijeda kosa, srednji rod, tamna boja kože
+🧑‍🦲	neodređeni spol, odrasla osoba, odrasla osoba: ćelavo, srednji rod, ćelavo
+🧑🏻‍🦲	neodređeni spol, odrasla osoba, odrasla osoba: svijetla boja kože i ćelavo, srednji rod, svijetla boja kože, ćelavo
+🧑🏼‍🦲	neodređeni spol, odrasla osoba, odrasla osoba: umjereno svijetla boja kože i ćelavo, srednji rod, umjereno svijetla boja kože, ćelavo
+🧑🏽‍🦲	neodređeni spol, odrasla osoba, odrasla osoba: umjerena boja kože i ćelavo, srednji rod, umjerena boja kože, ćelavo
+🧑🏾‍🦲	neodređeni spol, odrasla osoba, odrasla osoba: umjereno tamna boja kože i ćelavo, srednji rod, umjereno tamna boja kože, ćelavo
+🧑🏿‍🦲	neodređeni spol, odrasla osoba, odrasla osoba: tamna boja kože i ćelavo, srednji rod, tamna boja kože, ćelavo
 👨	muškarac, muško
 👨🏻	muškarac, muškarac: svijetla boja kože, muško, svijetla boja kože
 👨🏼	muškarac, muškarac: umjereno svijetla boja kože, muško, umjereno svijetla boja kože
 👨🏽	muškarac, muškarac: umjerena boja kože, muško, umjerena boja kože
 👨🏾	muškarac, muškarac: umjereno tamna boja kože, muško, umjereno tamna boja kože
 👨🏿	muškarac, muškarac: tamna boja kože, muško, tamna boja kože
-🧔	brada, osoba s bradom
-🧔🏻	brada, osoba s bradom, osoba s bradom: svijetla boja kože, svijetla boja kože
-🧔🏼	brada, osoba s bradom, osoba s bradom: umjereno svijetla boja kože, umjereno svijetla boja kože
-🧔🏽	brada, osoba s bradom, osoba s bradom: umjerena boja kože, umjerena boja kože
-🧔🏾	brada, osoba s bradom, osoba s bradom: umjereno tamna boja kože, umjereno tamna boja kože
-🧔🏿	brada, osoba s bradom, osoba s bradom: tamna boja kože, tamna boja kože
-👱‍♂	muškarac, plava kosa, plavušan
-👱🏻‍♂	muškarac, plava kosa, plavušan, plavušan: svijetla boja kože, svijetla boja kože
-👱🏼‍♂	muškarac, plava kosa, plavušan, plavušan: umjereno svijetla boja kože, umjereno svijetla boja kože
-👱🏽‍♂	muškarac, plava kosa, plavušan, plavušan: umjerena boja kože, umjerena boja kože
-👱🏾‍♂	muškarac, plava kosa, plavušan, plavušan: umjereno tamna boja kože, umjereno tamna boja kože
-👱🏿‍♂	muškarac, plava kosa, plavušan, plavušan: tamna boja kože, tamna boja kože
+🧔	brada, muškarac s bradom, osoba s bradom
+🧔🏻	brada, muškarac s bradom, muškarac s bradom: svijetla boja kože, osoba s bradom, svijetla boja kože
+🧔🏼	brada, muškarac s bradom, muškarac s bradom: umjereno svijetla boja kože, osoba s bradom, umjereno svijetla boja kože
+🧔🏽	brada, muškarac s bradom, muškarac s bradom: umjerena boja kože, osoba s bradom, umjerena boja kože
+🧔🏾	brada, muškarac s bradom, muškarac s bradom: umjereno tamna boja kože, osoba s bradom, umjereno tamna boja kože
+🧔🏿	brada, muškarac s bradom, muškarac s bradom: tamna boja kože, osoba s bradom, tamna boja kože
+👱‍♂	kosa, muškarac, muškarac s plavom kosom, plavo, plavušan
+👱🏻‍♂	kosa, muškarac, muškarac s plavom kosom, muškarac s plavom kosom: svijetla boja kože, plavo, plavušan, svijetla boja kože
+👱🏼‍♂	kosa, muškarac, muškarac s plavom kosom, muškarac s plavom kosom: umjereno svijetla boja kože, plavo, plavušan, umjereno svijetla boja kože
+👱🏽‍♂	kosa, muškarac, muškarac s plavom kosom, muškarac s plavom kosom: umjerena boja kože, plavo, plavušan, umjerena boja kože
+👱🏾‍♂	kosa, muškarac, muškarac s plavom kosom, muškarac s plavom kosom: umjereno tamna boja kože, plavo, plavušan, umjereno tamna boja kože
+👱🏿‍♂	kosa, muškarac, muškarac s plavom kosom, muškarac s plavom kosom: tamna boja kože, plavo, plavušan, tamna boja kože
 👨‍🦰	crvena kosa, muškarac, muškarac: crvena kosa, muško
 👨🏻‍🦰	crvena kosa, muškarac, muškarac: svijetla boja kože i crvena kosa, muško, svijetla boja kože
 👨🏼‍🦰	crvena kosa, muškarac, muškarac: umjereno svijetla boja kože i crvena kosa, muško, umjereno svijetla boja kože
@@ -469,12 +503,12 @@
 👩🏽	umjerena boja kože, žena, žena: umjerena boja kože, žensko
 👩🏾	umjereno tamna boja kože, žena, žena: umjereno tamna boja kože, žensko
 👩🏿	tamna boja kože, žena, žena: tamna boja kože, žensko
-👱‍♀	plava kosa, plavuša, žena
-👱🏻‍♀	plava kosa, plavuša, plavuša: svijetla boja kože, svijetla boja kože, žena
-👱🏼‍♀	plava kosa, plavuša, plavuša: umjereno svijetla boja kože, umjereno svijetla boja kože, žena
-👱🏽‍♀	plava kosa, plavuša, plavuša: umjerena boja kože, umjerena boja kože, žena
-👱🏾‍♀	plava kosa, plavuša, plavuša: umjereno tamna boja kože, umjereno tamna boja kože, žena
-👱🏿‍♀	plava kosa, plavuša, plavuša: tamna boja kože, tamna boja kože, žena
+👱‍♀	kosa, plavo, plavuša, žena, žena s plavom kosom
+👱🏻‍♀	kosa, plavo, plavuša, svijetla boja kože, žena, žena s plavom kosom, žena s plavom kosom: svijetla boja kože
+👱🏼‍♀	kosa, plavo, plavuša, umjereno svijetla boja kože, žena, žena s plavom kosom, žena s plavom kosom: umjereno svijetla boja kože
+👱🏽‍♀	kosa, plavo, plavuša, umjerena boja kože, žena, žena s plavom kosom, žena s plavom kosom: umjerena boja kože
+👱🏾‍♀	kosa, plavo, plavuša, umjereno tamna boja kože, žena, žena s plavom kosom, žena s plavom kosom: umjereno tamna boja kože
+👱🏿‍♀	kosa, plavo, plavuša, tamna boja kože, žena, žena s plavom kosom, žena s plavom kosom: tamna boja kože
 👩‍🦰	crvena kosa, žena, žena: crvena kosa, žensko
 👩🏻‍🦰	crvena kosa, svijetla boja kože, žena, žena: svijetla boja kože i crvena kosa, žensko
 👩🏼‍🦰	crvena kosa, umjereno svijetla boja kože, žena, žena: umjereno svijetla boja kože i crvena kosa, žensko
@@ -697,30 +731,48 @@
 🤷🏽‍♀	gestikulacija, neznanje, ravnodušnost, umjerena boja kože, žena, žena sliježe ramenima, žena sliježe ramenima: umjerena boja kože
 🤷🏾‍♀	gestikulacija, neznanje, ravnodušnost, umjereno tamna boja kože, žena, žena sliježe ramenima, žena sliježe ramenima: umjereno tamna boja kože
 🤷🏿‍♀	gestikulacija, neznanje, ravnodušnost, tamna boja kože, žena, žena sliježe ramenima, žena sliježe ramenima: tamna boja kože
-👨‍⚕	doktor, liječnik, ljekar, medicinski tehničar, zdravstveni radnik
-👨🏻‍⚕	doktor, liječnik, ljekar, medicinski tehničar, svijetla boja kože, zdravstveni radnik, zdravstveni radnik: svijetla boja kože
-👨🏼‍⚕	doktor, liječnik, ljekar, medicinski tehničar, umjereno svijetla boja kože, zdravstveni radnik, zdravstveni radnik: umjereno svijetla boja kože
-👨🏽‍⚕	doktor, liječnik, ljekar, medicinski tehničar, umjerena boja kože, zdravstveni radnik, zdravstveni radnik: umjerena boja kože
-👨🏾‍⚕	doktor, liječnik, ljekar, medicinski tehničar, umjereno tamna boja kože, zdravstveni radnik, zdravstveni radnik: umjereno tamna boja kože
-👨🏿‍⚕	doktor, liječnik, ljekar, medicinski tehničar, tamna boja kože, zdravstveni radnik, zdravstveni radnik: tamna boja kože
+🧑‍⚕	doktor, medicinska sestra, terapeut, zdravstvena njega, zdravstveni radnik
+🧑🏻‍⚕	doktor, medicinska sestra, svijetla boja kože, terapeut, zdravstvena njega, zdravstveni radnik, zdravstveni radnik: svijetla boja kože
+🧑🏼‍⚕	doktor, medicinska sestra, terapeut, umjereno svijetla boja kože, zdravstvena njega, zdravstveni radnik, zdravstveni radnik: umjereno svijetla boja kože
+🧑🏽‍⚕	doktor, medicinska sestra, terapeut, umjerena boja kože, zdravstvena njega, zdravstveni radnik, zdravstveni radnik: umjerena boja kože
+🧑🏾‍⚕	doktor, medicinska sestra, terapeut, umjereno tamna boja kože, zdravstvena njega, zdravstveni radnik, zdravstveni radnik: umjereno tamna boja kože
+🧑🏿‍⚕	doktor, medicinska sestra, tamna boja kože, terapeut, zdravstvena njega, zdravstveni radnik, zdravstveni radnik: tamna boja kože
+👨‍⚕	doktor, liječnik, ljekar, medicinski tehničar, zdravstveni radnik, zdravstveni radnik muškarac
+👨🏻‍⚕	doktor, liječnik, ljekar, medicinski tehničar, svijetla boja kože, zdravstveni radnik, zdravstveni radnik muškarac, zdravstveni radnik muškarac: svijetla boja kože
+👨🏼‍⚕	doktor, liječnik, ljekar, medicinski tehničar, umjereno svijetla boja kože, zdravstveni radnik, zdravstveni radnik muškarac, zdravstveni radnik muškarac: umjereno svijetla boja kože
+👨🏽‍⚕	doktor, liječnik, ljekar, medicinski tehničar, umjerena boja kože, zdravstveni radnik, zdravstveni radnik muškarac, zdravstveni radnik muškarac: umjerena boja kože
+👨🏾‍⚕	doktor, liječnik, ljekar, medicinski tehničar, umjereno tamna boja kože, zdravstveni radnik, zdravstveni radnik muškarac, zdravstveni radnik muškarac: umjereno tamna boja kože
+👨🏿‍⚕	doktor, liječnik, ljekar, medicinski tehničar, tamna boja kože, zdravstveni radnik, zdravstveni radnik muškarac, zdravstveni radnik muškarac: tamna boja kože
 👩‍⚕	doktorica, liječnica, ljekarka, medicinska sestra, zdravstvena radnica
 👩🏻‍⚕	doktorica, liječnica, ljekarka, medicinska sestra, svijetla boja kože, zdravstvena radnica, zdravstvena radnica: svijetla boja kože
 👩🏼‍⚕	doktorica, liječnica, ljekarka, medicinska sestra, umjereno svijetla boja kože, zdravstvena radnica, zdravstvena radnica: umjereno svijetla boja kože
 👩🏽‍⚕	doktorica, liječnica, ljekarka, medicinska sestra, umjerena boja kože, zdravstvena radnica, zdravstvena radnica: umjerena boja kože
 👩🏾‍⚕	doktorica, liječnica, ljekarka, medicinska sestra, umjereno tamna boja kože, zdravstvena radnica, zdravstvena radnica: umjereno tamna boja kože
 👩🏿‍⚕	doktorica, liječnica, ljekarka, medicinska sestra, tamna boja kože, zdravstvena radnica, zdravstvena radnica: tamna boja kože
-👨‍🎓	diploma, muškarac, student
-👨🏻‍🎓	diploma, muškarac, student, student: svijetla boja kože, svijetla boja kože
-👨🏼‍🎓	diploma, muškarac, student, student: umjereno svijetla boja kože, umjereno svijetla boja kože
-👨🏽‍🎓	diploma, muškarac, student, student: umjerena boja kože, umjerena boja kože
-👨🏾‍🎓	diploma, muškarac, student, student: umjereno tamna boja kože, umjereno tamna boja kože
-👨🏿‍🎓	diploma, muškarac, student, student: tamna boja kože, tamna boja kože
+🧑‍🎓	diplomirani, student
+🧑🏻‍🎓	diplomirani, student, student: svijetla boja kože, svijetla boja kože
+🧑🏼‍🎓	diplomirani, student, student: umjereno svijetla boja kože, umjereno svijetla boja kože
+🧑🏽‍🎓	diplomirani, student, student: umjerena boja kože, umjerena boja kože
+🧑🏾‍🎓	diplomirani, student, student: umjereno tamna boja kože, umjereno tamna boja kože
+🧑🏿‍🎓	diplomirani, student, student: tamna boja kože, tamna boja kože
+👨‍🎓	diploma, muškarac, student, student muškarac
+👨🏻‍🎓	diploma, muškarac, student, student muškarac: svijetla boja kože, svijetla boja kože
+👨🏼‍🎓	diploma, muškarac, student, student muškarac: umjereno svijetla boja kože, umjereno svijetla boja kože
+👨🏽‍🎓	diploma, muškarac, student, student muškarac: umjerena boja kože, umjerena boja kože
+👨🏾‍🎓	diploma, muškarac, student, student muškarac: umjereno tamna boja kože, umjereno tamna boja kože
+👨🏿‍🎓	diploma, muškarac, student, student muškarac: tamna boja kože, tamna boja kože
 👩‍🎓	diploma, student, studentica, žena
 👩🏻‍🎓	diploma, student, studentica, studentica: svijetla boja kože, svijetla boja kože, žena
 👩🏼‍🎓	diploma, student, studentica, studentica: umjereno svijetla boja kože, umjereno svijetla boja kože, žena
 👩🏽‍🎓	diploma, student, studentica, studentica: umjerena boja kože, umjerena boja kože, žena
 👩🏾‍🎓	diploma, student, studentica, studentica: umjereno tamna boja kože, umjereno tamna boja kože, žena
 👩🏿‍🎓	diploma, student, studentica, studentica: tamna boja kože, tamna boja kože, žena
+🧑‍🏫	instruktor, profesor, učitelj
+🧑🏻‍🏫	instruktor, profesor, svijetla boja kože, učitelj, učitelj: svijetla boja kože
+🧑🏼‍🏫	instruktor, profesor, umjereno svijetla boja kože, učitelj, učitelj: umjereno svijetla boja kože
+🧑🏽‍🏫	instruktor, profesor, umjerena boja kože, učitelj, učitelj: umjerena boja kože
+🧑🏾‍🏫	instruktor, profesor, umjereno tamna boja kože, učitelj, učitelj: umjereno tamna boja kože
+🧑🏿‍🏫	instruktor, profesor, tamna boja kože, učitelj, učitelj: tamna boja kože
 👨‍🏫	muškarac, nastavnik, profesor, učitelj
 👨🏻‍🏫	muškarac, nastavnik, profesor, profesor: svijetla boja kože, svijetla boja kože, učitelj
 👨🏼‍🏫	muškarac, nastavnik, profesor, profesor: umjereno svijetla boja kože, umjereno svijetla boja kože, učitelj
@@ -733,6 +785,12 @@
 👩🏽‍🏫	nastavnik, profesor, profesorica, profesorica: umjerena boja kože, umjerena boja kože, učitelj, žena
 👩🏾‍🏫	nastavnik, profesor, profesorica, profesorica: umjereno tamna boja kože, umjereno tamna boja kože, učitelj, žena
 👩🏿‍🏫	nastavnik, profesor, profesorica, profesorica: tamna boja kože, tamna boja kože, učitelj, žena
+🧑‍⚖	sudija, vaga s dva tasa
+🧑🏻‍⚖	sudija, sudija: svijetla boja kože, svijetla boja kože, vaga s dva tasa
+🧑🏼‍⚖	sudija, sudija: umjereno svijetla boja kože, umjereno svijetla boja kože, vaga s dva tasa
+🧑🏽‍⚖	sudija, sudija: umjerena boja kože, umjerena boja kože, vaga s dva tasa
+🧑🏾‍⚖	sudija, sudija: umjereno tamna boja kože, umjereno tamna boja kože, vaga s dva tasa
+🧑🏿‍⚖	sudija, sudija: tamna boja kože, tamna boja kože, vaga s dva tasa
 👨‍⚖	muškarac, muškarac sudija, pravda, sudija
 👨🏻‍⚖	muškarac, muškarac sudija: svijetla boja kože, pravda, sudija, svijetla boja kože
 👨🏼‍⚖	muškarac, muškarac sudija: umjereno svijetla boja kože, pravda, sudija, umjereno svijetla boja kože
@@ -745,6 +803,12 @@
 👩🏽‍⚖	pravda, sudija, umjerena boja kože, žena, žena sudija: umjerena boja kože
 👩🏾‍⚖	pravda, sudija, umjereno tamna boja kože, žena, žena sudija: umjereno tamna boja kože
 👩🏿‍⚖	pravda, sudija, tamna boja kože, žena, žena sudija: tamna boja kože
+🧑‍🌾	farmer, poljoprivrednik, vrtlar
+🧑🏻‍🌾	farmer, farmer: svijetla boja kože, poljoprivrednik, svijetla boja kože, vrtlar
+🧑🏼‍🌾	farmer, farmer: umjereno svijetla boja kože, poljoprivrednik, umjereno svijetla boja kože, vrtlar
+🧑🏽‍🌾	farmer, farmer: umjerena boja kože, poljoprivrednik, umjerena boja kože, vrtlar
+🧑🏾‍🌾	farmer, farmer: umjereno tamna boja kože, poljoprivrednik, umjereno tamna boja kože, vrtlar
+🧑🏿‍🌾	farmer, farmer: tamna boja kože, poljoprivrednik, tamna boja kože, vrtlar
 👨‍🌾	farmer, muškarac, poljoprivrednik, selo
 👨🏻‍🌾	farmer, muškarac, poljoprivrednik, poljoprivrednik: svijetla boja kože, selo, svijetla boja kože
 👨🏼‍🌾	farmer, muškarac, poljoprivrednik, poljoprivrednik: umjereno svijetla boja kože, selo, umjereno svijetla boja kože
@@ -757,42 +821,66 @@
 👩🏽‍🌾	farmer, poljoprivrednica, poljoprivrednica: umjerena boja kože, poljoprivrednik, selo, umjerena boja kože, žena
 👩🏾‍🌾	farmer, poljoprivrednica, poljoprivrednica: umjereno tamna boja kože, poljoprivrednik, selo, umjereno tamna boja kože, žena
 👩🏿‍🌾	farmer, poljoprivrednica, poljoprivrednica: tamna boja kože, poljoprivrednik, selo, tamna boja kože, žena
-👨‍🍳	kuhar, kuhinja, muškarac, šef kuhinje
-👨🏻‍🍳	kuhar, kuhar: svijetla boja kože, kuhinja, muškarac, svijetla boja kože, šef kuhinje
-👨🏼‍🍳	kuhar, kuhar: umjereno svijetla boja kože, kuhinja, muškarac, umjereno svijetla boja kože, šef kuhinje
-👨🏽‍🍳	kuhar, kuhar: umjerena boja kože, kuhinja, muškarac, umjerena boja kože, šef kuhinje
-👨🏾‍🍳	kuhar, kuhar: umjereno tamna boja kože, kuhinja, muškarac, umjereno tamna boja kože, šef kuhinje
-👨🏿‍🍳	kuhar, kuhar: tamna boja kože, kuhinja, muškarac, tamna boja kože, šef kuhinje
-👩‍🍳	kuhar, kuharica, kuhinja, šef kuhinje, žena
-👩🏻‍🍳	kuhar, kuharica, kuharica: svijetla boja kože, kuhinja, svijetla boja kože, šef kuhinje, žena
-👩🏼‍🍳	kuhar, kuharica, kuharica: umjereno svijetla boja kože, kuhinja, umjereno svijetla boja kože, šef kuhinje, žena
-👩🏽‍🍳	kuhar, kuharica, kuharica: umjerena boja kože, kuhinja, umjerena boja kože, šef kuhinje, žena
-👩🏾‍🍳	kuhar, kuharica, kuharica: umjereno tamna boja kože, kuhinja, umjereno tamna boja kože, šef kuhinje, žena
-👩🏿‍🍳	kuhar, kuharica, kuharica: tamna boja kože, kuhinja, tamna boja kože, šef kuhinje, žena
-👨‍🔧	alat, mehaničar, muškarac
-👨🏻‍🔧	alat, mehaničar, mehaničar: svijetla boja kože, muškarac, svijetla boja kože
-👨🏼‍🔧	alat, mehaničar, mehaničar: umjereno svijetla boja kože, muškarac, umjereno svijetla boja kože
-👨🏽‍🔧	alat, mehaničar, mehaničar: umjerena boja kože, muškarac, umjerena boja kože
-👨🏾‍🔧	alat, mehaničar, mehaničar: umjereno tamna boja kože, muškarac, umjereno tamna boja kože
-👨🏿‍🔧	alat, mehaničar, mehaničar: tamna boja kože, muškarac, tamna boja kože
-👩‍🔧	alat, mehaničar, mehaničarka, žena
-👩🏻‍🔧	alat, mehaničar, mehaničarka, mehaničarka: svijetla boja kože, svijetla boja kože, žena
-👩🏼‍🔧	alat, mehaničar, mehaničarka, mehaničarka: umjereno svijetla boja kože, umjereno svijetla boja kože, žena
-👩🏽‍🔧	alat, mehaničar, mehaničarka, mehaničarka: umjerena boja kože, umjerena boja kože, žena
-👩🏾‍🔧	alat, mehaničar, mehaničarka, mehaničarka: umjereno tamna boja kože, umjereno tamna boja kože, žena
-👩🏿‍🔧	alat, mehaničar, mehaničarka, mehaničarka: tamna boja kože, tamna boja kože, žena
-👨‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici
-👨🏻‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici: svijetla boja kože, svijetla boja kože
-👨🏼‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici: umjereno svijetla boja kože, umjereno svijetla boja kože
-👨🏽‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici: umjerena boja kože, umjerena boja kože
-👨🏾‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici: umjereno tamna boja kože, umjereno tamna boja kože
-👨🏿‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici: tamna boja kože, tamna boja kože
+🧑‍🍳	kuhar, šef kuhinje
+🧑🏻‍🍳	kuhar, kuhar: svijetla boja kože, svijetla boja kože, šef kuhinje
+🧑🏼‍🍳	kuhar, kuhar: umjereno svijetla boja kože, umjereno svijetla boja kože, šef kuhinje
+🧑🏽‍🍳	kuhar, kuhar: umjerena boja kože, umjerena boja kože, šef kuhinje
+🧑🏾‍🍳	kuhar, kuhar: umjereno tamna boja kože, umjereno tamna boja kože, šef kuhinje
+🧑🏿‍🍳	kuhar, kuhar: tamna boja kože, tamna boja kože, šef kuhinje
+👨‍🍳	kuhar, kuhar muškarac, kuhinja, muškarac, šef kuhinje
+👨🏻‍🍳	kuhar, kuhar muškarac: svijetla boja kože, kuhinja, muškarac, svijetla boja kože, šef kuhinje
+👨🏼‍🍳	kuhar, kuhar muškarac: umjereno svijetla boja kože, kuhinja, muškarac, umjereno svijetla boja kože, šef kuhinje
+👨🏽‍🍳	kuhar, kuhar muškarac: umjerena boja kože, kuhinja, muškarac, umjerena boja kože, šef kuhinje
+👨🏾‍🍳	kuhar, kuhar muškarac: umjereno tamna boja kože, kuhinja, muškarac, umjereno tamna boja kože, šef kuhinje
+👨🏿‍🍳	kuhar, kuhar muškarac: tamna boja kože, kuhinja, muškarac, tamna boja kože, šef kuhinje
+👩‍🍳	kuhar, kuharica, kuhinja, šef kuhinje
+👩🏻‍🍳	kuhar, kuharica, kuharica: svijetla boja kože, kuhinja, svijetla boja kože, šef kuhinje
+👩🏼‍🍳	kuhar, kuharica, kuharica: umjereno svijetla boja kože, kuhinja, umjereno svijetla boja kože, šef kuhinje
+👩🏽‍🍳	kuhar, kuharica, kuharica: umjerena boja kože, kuhinja, umjerena boja kože, šef kuhinje
+👩🏾‍🍳	kuhar, kuharica, kuharica: umjereno tamna boja kože, kuhinja, umjereno tamna boja kože, šef kuhinje
+👩🏿‍🍳	kuhar, kuharica, kuharica: tamna boja kože, kuhinja, tamna boja kože, šef kuhinje
+🧑‍🔧	električar, fizički radnik, mehaničar, vodoinstalater
+🧑🏻‍🔧	električar, fizički radnik, mehaničar, mehaničar: svijetla boja kože, svijetla boja kože, vodoinstalater
+🧑🏼‍🔧	električar, fizički radnik, mehaničar, mehaničar: umjereno svijetla boja kože, umjereno svijetla boja kože, vodoinstalater
+🧑🏽‍🔧	električar, fizički radnik, mehaničar, mehaničar: umjerena boja kože, umjerena boja kože, vodoinstalater
+🧑🏾‍🔧	električar, fizički radnik, mehaničar, mehaničar: umjereno tamna boja kože, umjereno tamna boja kože, vodoinstalater
+🧑🏿‍🔧	električar, fizički radnik, mehaničar, mehaničar: tamna boja kože, tamna boja kože, vodoinstalater
+👨‍🔧	alat, mehaničar, mehaničar muškarac, muškarac
+👨🏻‍🔧	alat, mehaničar, mehaničar muškarac: svijetla boja kože, muškarac, svijetla boja kože
+👨🏼‍🔧	alat, mehaničar, mehaničar muškarac: umjereno svijetla boja kože, muškarac, umjereno svijetla boja kože
+👨🏽‍🔧	alat, mehaničar, mehaničar muškarac: umjerena boja kože, muškarac, umjerena boja kože
+👨🏾‍🔧	alat, mehaničar, mehaničar muškarac: umjereno tamna boja kože, muškarac, umjereno tamna boja kože
+👨🏿‍🔧	alat, mehaničar, mehaničar muškarac: tamna boja kože, muškarac, tamna boja kože
+👩‍🔧	alat, električarka, mehaničarka, vodoinstalaterka
+👩🏻‍🔧	alat, električarka, mehaničarka, mehaničarka: svijetla boja kože, svijetla boja kože, vodoinstalaterka
+👩🏼‍🔧	alat, električarka, mehaničarka, mehaničarka: umjereno svijetla boja kože, umjereno svijetla boja kože, vodoinstalaterka
+👩🏽‍🔧	alat, električarka, mehaničarka, mehaničarka: umjerena boja kože, umjerena boja kože, vodoinstalaterka
+👩🏾‍🔧	alat, električarka, mehaničarka, mehaničarka: umjereno tamna boja kože, umjereno tamna boja kože, vodoinstalaterka
+👩🏿‍🔧	alat, električarka, mehaničarka, mehaničarka: tamna boja kože, tamna boja kože, vodoinstalaterka
+🧑‍🏭	fabrika, industrija, montaža, radnik, radnik u fabrici
+🧑🏻‍🏭	fabrika, industrija, montaža, radnik, radnik u fabrici, radnik u fabrici: svijetla boja kože, svijetla boja kože
+🧑🏼‍🏭	fabrika, industrija, montaža, radnik, radnik u fabrici, radnik u fabrici: umjereno svijetla boja kože, umjereno svijetla boja kože
+🧑🏽‍🏭	fabrika, industrija, montaža, radnik, radnik u fabrici, radnik u fabrici: umjerena boja kože, umjerena boja kože
+🧑🏾‍🏭	fabrika, industrija, montaža, radnik, radnik u fabrici, radnik u fabrici: umjereno tamna boja kože, umjereno tamna boja kože
+🧑🏿‍🏭	fabrika, industrija, montaža, radnik, radnik u fabrici, radnik u fabrici: tamna boja kože, tamna boja kože
+👨‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici muškarac
+👨🏻‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici muškarac, radnik u fabrici muškarac: svijetla boja kože, svijetla boja kože
+👨🏼‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici muškarac, radnik u fabrici muškarac: umjereno svijetla boja kože, umjereno svijetla boja kože
+👨🏽‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici muškarac, radnik u fabrici muškarac: umjerena boja kože, umjerena boja kože
+👨🏾‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici muškarac, radnik u fabrici muškarac: umjereno tamna boja kože, umjereno tamna boja kože
+👨🏿‍🏭	fabrika, industrijska proizvodnja, mašine, radnik, radnik u fabrici, radnik u fabrici muškarac, radnik u fabrici muškarac: tamna boja kože, tamna boja kože
 👩‍🏭	fabrika, industrijska proizvodnja, mašine, radnica u fabrici, radnik
 👩🏻‍🏭	fabrika, industrijska proizvodnja, mašine, radnica u fabrici, radnica u fabrici: svijetla boja kože, radnik, svijetla boja kože
 👩🏼‍🏭	fabrika, industrijska proizvodnja, mašine, radnica u fabrici, radnica u fabrici: umjereno svijetla boja kože, radnik, umjereno svijetla boja kože
 👩🏽‍🏭	fabrika, industrijska proizvodnja, mašine, radnica u fabrici, radnica u fabrici: umjerena boja kože, radnik, umjerena boja kože
 👩🏾‍🏭	fabrika, industrijska proizvodnja, mašine, radnica u fabrici, radnica u fabrici: umjereno tamna boja kože, radnik, umjereno tamna boja kože
 👩🏿‍🏭	fabrika, industrijska proizvodnja, mašine, radnica u fabrici, radnica u fabrici: tamna boja kože, radnik, tamna boja kože
+🧑‍💼	arhitekta, bijela kragna, menadžer, poslovanje, radnik u kancelariji
+🧑🏻‍💼	arhitekta, bijela kragna, menadžer, poslovanje, radnik u kancelariji, radnik u kancelariji: svijetla boja kože, svijetla boja kože
+🧑🏼‍💼	arhitekta, bijela kragna, menadžer, poslovanje, radnik u kancelariji, radnik u kancelariji: umjereno svijetla boja kože, umjereno svijetla boja kože
+🧑🏽‍💼	arhitekta, bijela kragna, menadžer, poslovanje, radnik u kancelariji, radnik u kancelariji: umjerena boja kože, umjerena boja kože
+🧑🏾‍💼	arhitekta, bijela kragna, menadžer, poslovanje, radnik u kancelariji, radnik u kancelariji: umjereno tamna boja kože, umjereno tamna boja kože
+🧑🏿‍💼	arhitekta, bijela kragna, menadžer, poslovanje, radnik u kancelariji, radnik u kancelariji: tamna boja kože, tamna boja kože
 👨‍💼	menadžer, muškarac u kancelariji, posao, poslovno odijelo, zaposlenik
 👨🏻‍💼	menadžer, muškarac u kancelariji, muškarac u kancelariji: svijetla boja kože, posao, poslovno odijelo, svijetla boja kože, zaposlenik
 👨🏼‍💼	menadžer, muškarac u kancelariji, muškarac u kancelariji: umjereno svijetla boja kože, posao, poslovno odijelo, umjereno svijetla boja kože, zaposlenik
@@ -805,96 +893,138 @@
 👩🏽‍💼	menadžer, posao, poslovno odijelo, umjerena boja kože, zaposlenik, žena u kancelariji, žena u kancelariji: umjerena boja kože
 👩🏾‍💼	menadžer, posao, poslovno odijelo, umjereno tamna boja kože, zaposlenik, žena u kancelariji, žena u kancelariji: umjereno tamna boja kože
 👩🏿‍💼	menadžer, posao, poslovno odijelo, tamna boja kože, zaposlenik, žena u kancelariji, žena u kancelariji: tamna boja kože
-👨‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik
-👨🏻‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: svijetla boja kože, svijetla boja kože
-👨🏼‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: umjereno svijetla boja kože, umjereno svijetla boja kože
-👨🏽‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: umjerena boja kože, umjerena boja kože
-👨🏾‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: umjereno tamna boja kože, umjereno tamna boja kože
-👨🏿‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: tamna boja kože, tamna boja kože
+🧑‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik
+🧑🏻‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: svijetla boja kože, svijetla boja kože
+🧑🏼‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: umjereno svijetla boja kože, umjereno svijetla boja kože
+🧑🏽‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: umjerena boja kože, umjerena boja kože
+🧑🏾‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: umjereno tamna boja kože, umjereno tamna boja kože
+🧑🏿‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik: tamna boja kože, tamna boja kože
+👨‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik muškarac
+👨🏻‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik muškarac, naučnik muškarac: svijetla boja kože, svijetla boja kože
+👨🏼‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik muškarac, naučnik muškarac: umjereno svijetla boja kože, umjereno svijetla boja kože
+👨🏽‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik muškarac, naučnik muškarac: umjerena boja kože, umjerena boja kože
+👨🏾‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik muškarac, naučnik muškarac: umjereno tamna boja kože, umjereno tamna boja kože
+👨🏿‍🔬	biolog, fizičar, hemičar, inžinjer, naučnik, naučnik muškarac, naučnik muškarac: tamna boja kože, tamna boja kože
 👩‍🔬	biolog, fizičar, hemičar, inžinjer, naučnica
 👩🏻‍🔬	biolog, fizičar, hemičar, inžinjer, naučnica, naučnica: svijetla boja kože, svijetla boja kože
 👩🏼‍🔬	biolog, fizičar, hemičar, inžinjer, naučnica, naučnica: umjereno svijetla boja kože, umjereno svijetla boja kože
 👩🏽‍🔬	biolog, fizičar, hemičar, inžinjer, naučnica, naučnica: umjerena boja kože, umjerena boja kože
 👩🏾‍🔬	biolog, fizičar, hemičar, inžinjer, naučnica, naučnica: umjereno tamna boja kože, umjereno tamna boja kože
 👩🏿‍🔬	biolog, fizičar, hemičar, inžinjer, naučnica, naučnica: tamna boja kože, tamna boja kože
-👨‍💻	muškarac, programer, pronalazač, softver, tehnolog
-👨🏻‍💻	muškarac, programer, pronalazač, softver, svijetla boja kože, tehnolog, tehnolog: svijetla boja kože
-👨🏼‍💻	muškarac, programer, pronalazač, softver, tehnolog, tehnolog: umjereno svijetla boja kože, umjereno svijetla boja kože
-👨🏽‍💻	muškarac, programer, pronalazač, softver, tehnolog, tehnolog: umjerena boja kože, umjerena boja kože
-👨🏾‍💻	muškarac, programer, pronalazač, softver, tehnolog, tehnolog: umjereno tamna boja kože, umjereno tamna boja kože
-👨🏿‍💻	muškarac, programer, pronalazač, softver, tamna boja kože, tehnolog, tehnolog: tamna boja kože
+🧑‍💻	inovator, koder, programer, softver, tehnolog, tehnologija
+🧑🏻‍💻	inovator, koder, programer, softver, svijetla boja kože, tehnolog, tehnolog: svijetla boja kože, tehnologija
+🧑🏼‍💻	inovator, koder, programer, softver, tehnolog, tehnolog: umjereno svijetla boja kože, tehnologija, umjereno svijetla boja kože
+🧑🏽‍💻	inovator, koder, programer, softver, tehnolog, tehnolog: umjerena boja kože, tehnologija, umjerena boja kože
+🧑🏾‍💻	inovator, koder, programer, softver, tehnolog, tehnolog: umjereno tamna boja kože, tehnologija, umjereno tamna boja kože
+🧑🏿‍💻	inovator, koder, programer, softver, tamna boja kože, tehnolog, tehnolog: tamna boja kože, tehnologija
+👨‍💻	muškarac, programer, pronalazač, softver, tehnolog, tehnolog muškarac
+👨🏻‍💻	muškarac, programer, pronalazač, softver, svijetla boja kože, tehnolog, tehnolog muškarac: svijetla boja kože
+👨🏼‍💻	muškarac, programer, pronalazač, softver, tehnolog, tehnolog muškarac: umjereno svijetla boja kože, umjereno svijetla boja kože
+👨🏽‍💻	muškarac, programer, pronalazač, softver, tehnolog, tehnolog muškarac: umjerena boja kože, umjerena boja kože
+👨🏾‍💻	muškarac, programer, pronalazač, softver, tehnolog, tehnolog muškarac: umjereno tamna boja kože, umjereno tamna boja kože
+👨🏿‍💻	muškarac, programer, pronalazač, softver, tamna boja kože, tehnolog, tehnolog muškarac: tamna boja kože
 👩‍💻	programer, pronalazač, softver, žena, žena tehnolog
 👩🏻‍💻	programer, pronalazač, softver, svijetla boja kože, žena, žena tehnolog, žena tehnolog: svijetla boja kože
 👩🏼‍💻	programer, pronalazač, softver, umjereno svijetla boja kože, žena, žena tehnolog, žena tehnolog: umjereno svijetla boja kože
 👩🏽‍💻	programer, pronalazač, softver, umjerena boja kože, žena, žena tehnolog, žena tehnolog: umjerena boja kože
 👩🏾‍💻	programer, pronalazač, softver, umjereno tamna boja kože, žena, žena tehnolog, žena tehnolog: umjereno tamna boja kože
 👩🏿‍💻	programer, pronalazač, softver, tamna boja kože, žena, žena tehnolog, žena tehnolog: tamna boja kože
-👨‍🎤	izvođač, pjevač, roker, zabavljač, zvijezda
-👨🏻‍🎤	izvođač, pjevač, pjevač: svijetla boja kože, roker, svijetla boja kože, zabavljač, zvijezda
-👨🏼‍🎤	izvođač, pjevač, pjevač: umjereno svijetla boja kože, roker, umjereno svijetla boja kože, zabavljač, zvijezda
-👨🏽‍🎤	izvođač, pjevač, pjevač: umjerena boja kože, roker, umjerena boja kože, zabavljač, zvijezda
-👨🏾‍🎤	izvođač, pjevač, pjevač: umjereno tamna boja kože, roker, umjereno tamna boja kože, zabavljač, zvijezda
-👨🏿‍🎤	izvođač, pjevač, pjevač: tamna boja kože, roker, tamna boja kože, zabavljač, zvijezda
+🧑‍🎤	glumac, pjevač, rocker, zabavljač, zvijezda
+🧑🏻‍🎤	glumac, pjevač, pjevač: svijetla boja kože, rocker, svijetla boja kože, zabavljač, zvijezda
+🧑🏼‍🎤	glumac, pjevač, pjevač: umjereno svijetla boja kože, rocker, umjereno svijetla boja kože, zabavljač, zvijezda
+🧑🏽‍🎤	glumac, pjevač, pjevač: umjerena boja kože, rocker, umjerena boja kože, zabavljač, zvijezda
+🧑🏾‍🎤	glumac, pjevač, pjevač: umjereno tamna boja kože, rocker, umjereno tamna boja kože, zabavljač, zvijezda
+🧑🏿‍🎤	glumac, pjevač, pjevač: tamna boja kože, rocker, tamna boja kože, zabavljač, zvijezda
+👨‍🎤	izvođač, pjevač, pjevač muškarac, roker, zabavljač, zvijezda
+👨🏻‍🎤	izvođač, pjevač, pjevač muškarac, pjevač muškarac: svijetla boja kože, roker, svijetla boja kože, zabavljač, zvijezda
+👨🏼‍🎤	izvođač, pjevač, pjevač muškarac, pjevač muškarac: umjereno svijetla boja kože, roker, umjereno svijetla boja kože, zabavljač, zvijezda
+👨🏽‍🎤	izvođač, pjevač, pjevač muškarac, pjevač muškarac: umjerena boja kože, roker, umjerena boja kože, zabavljač, zvijezda
+👨🏾‍🎤	izvođač, pjevač, pjevač muškarac, pjevač muškarac: umjereno tamna boja kože, roker, umjereno tamna boja kože, zabavljač, zvijezda
+👨🏿‍🎤	izvođač, pjevač, pjevač muškarac, pjevač muškarac: tamna boja kože, roker, tamna boja kože, zabavljač, zvijezda
 👩‍🎤	izvođač, pjevačica, roker, zabavljač, zvijezda
 👩🏻‍🎤	izvođač, pjevačica, pjevačica: svijetla boja kože, roker, svijetla boja kože, zabavljač, zvijezda
 👩🏼‍🎤	izvođač, pjevačica, pjevačica: umjereno svijetla boja kože, roker, umjereno svijetla boja kože, zabavljač, zvijezda
 👩🏽‍🎤	izvođač, pjevačica, pjevačica: umjerena boja kože, roker, umjerena boja kože, zabavljač, zvijezda
 👩🏾‍🎤	izvođač, pjevačica, pjevačica: umjereno tamna boja kože, roker, umjereno tamna boja kože, zabavljač, zvijezda
 👩🏿‍🎤	izvođač, pjevačica, pjevačica: tamna boja kože, roker, tamna boja kože, zabavljač, zvijezda
-👨‍🎨	artist, muškarac, slikar, umjetnik
-👨🏻‍🎨	artist, muškarac, slikar, svijetla boja kože, umjetnik, umjetnik: svijetla boja kože
-👨🏼‍🎨	artist, muškarac, slikar, umjereno svijetla boja kože, umjetnik, umjetnik: umjereno svijetla boja kože
-👨🏽‍🎨	artist, muškarac, slikar, umjerena boja kože, umjetnik, umjetnik: umjerena boja kože
-👨🏾‍🎨	artist, muškarac, slikar, umjereno tamna boja kože, umjetnik, umjetnik: umjereno tamna boja kože
-👨🏿‍🎨	artist, muškarac, slikar, tamna boja kože, umjetnik, umjetnik: tamna boja kože
-👩‍🎨	artist, slikar, umjetnica, umjetnik, žena
-👩🏻‍🎨	artist, slikar, svijetla boja kože, umjetnica, umjetnica: svijetla boja kože, umjetnik, žena
-👩🏼‍🎨	artist, slikar, umjereno svijetla boja kože, umjetnica, umjetnica: umjereno svijetla boja kože, umjetnik, žena
-👩🏽‍🎨	artist, slikar, umjerena boja kože, umjetnica, umjetnica: umjerena boja kože, umjetnik, žena
-👩🏾‍🎨	artist, slikar, umjereno tamna boja kože, umjetnica, umjetnica: umjereno tamna boja kože, umjetnik, žena
-👩🏿‍🎨	artist, slikar, tamna boja kože, umjetnica, umjetnica: tamna boja kože, umjetnik, žena
-👨‍✈	avion, muškarac, pilot
-👨🏻‍✈	avion, muškarac, pilot, pilot: svijetla boja kože, svijetla boja kože
-👨🏼‍✈	avion, muškarac, pilot, pilot: umjereno svijetla boja kože, umjereno svijetla boja kože
-👨🏽‍✈	avion, muškarac, pilot, pilot: umjerena boja kože, umjerena boja kože
-👨🏾‍✈	avion, muškarac, pilot, pilot: umjereno tamna boja kože, umjereno tamna boja kože
-👨🏿‍✈	avion, muškarac, pilot, pilot: tamna boja kože, tamna boja kože
+🧑‍🎨	slikarska paleta, umjetnik
+🧑🏻‍🎨	slikarska paleta, svijetla boja kože, umjetnik, umjetnik: svijetla boja kože
+🧑🏼‍🎨	slikarska paleta, umjereno svijetla boja kože, umjetnik, umjetnik: umjereno svijetla boja kože
+🧑🏽‍🎨	slikarska paleta, umjerena boja kože, umjetnik, umjetnik: umjerena boja kože
+🧑🏾‍🎨	slikarska paleta, umjereno tamna boja kože, umjetnik, umjetnik: umjereno tamna boja kože
+🧑🏿‍🎨	slikarska paleta, tamna boja kože, umjetnik, umjetnik: tamna boja kože
+👨‍🎨	artist, muškarac, slikar, umjetnik, umjetnik muškarac
+👨🏻‍🎨	artist, muškarac, slikar, svijetla boja kože, umjetnik, umjetnik muškarac: svijetla boja kože
+👨🏼‍🎨	artist, muškarac, slikar, umjereno svijetla boja kože, umjetnik, umjetnik muškarac: umjereno svijetla boja kože
+👨🏽‍🎨	artist, muškarac, slikar, umjerena boja kože, umjetnik, umjetnik muškarac: umjerena boja kože
+👨🏾‍🎨	artist, muškarac, slikar, umjereno tamna boja kože, umjetnik, umjetnik muškarac: umjereno tamna boja kože
+👨🏿‍🎨	artist, muškarac, slikar, tamna boja kože, umjetnik, umjetnik muškarac: tamna boja kože
+👩‍🎨	slikar, slikarka, umjetnica
+👩🏻‍🎨	slikar, slikarka, svijetla boja kože, umjetnica, umjetnica: svijetla boja kože
+👩🏼‍🎨	slikar, slikarka, umjereno svijetla boja kože, umjetnica, umjetnica: umjereno svijetla boja kože
+👩🏽‍🎨	slikar, slikarka, umjerena boja kože, umjetnica, umjetnica: umjerena boja kože
+👩🏾‍🎨	slikar, slikarka, umjereno tamna boja kože, umjetnica, umjetnica: umjereno tamna boja kože
+👩🏿‍🎨	slikar, slikarka, tamna boja kože, umjetnica, umjetnica: tamna boja kože
+🧑‍✈	avion, pilot
+🧑🏻‍✈	avion, pilot, pilot: svijetla boja kože, svijetla boja kože
+🧑🏼‍✈	avion, pilot, pilot: umjereno svijetla boja kože, umjereno svijetla boja kože
+🧑🏽‍✈	avion, pilot, pilot: umjerena boja kože, umjerena boja kože
+🧑🏾‍✈	avion, pilot, pilot: umjereno tamna boja kože, umjereno tamna boja kože
+🧑🏿‍✈	avion, pilot, pilot: tamna boja kože, tamna boja kože
+👨‍✈	avion, muškarac, pilot, pilot muškarac
+👨🏻‍✈	avion, muškarac, pilot, pilot muškarac: svijetla boja kože, svijetla boja kože
+👨🏼‍✈	avion, muškarac, pilot, pilot muškarac: umjereno svijetla boja kože, umjereno svijetla boja kože
+👨🏽‍✈	avion, muškarac, pilot, pilot muškarac: umjerena boja kože, umjerena boja kože
+👨🏾‍✈	avion, muškarac, pilot, pilot muškarac: umjereno tamna boja kože, umjereno tamna boja kože
+👨🏿‍✈	avion, muškarac, pilot, pilot muškarac: tamna boja kože, tamna boja kože
 👩‍✈	avion, pilot, žena, žena pilot
 👩🏻‍✈	avion, pilot, svijetla boja kože, žena, žena pilot: svijetla boja kože
 👩🏼‍✈	avion, pilot, umjereno svijetla boja kože, žena, žena pilot: umjereno svijetla boja kože
 👩🏽‍✈	avion, pilot, umjerena boja kože, žena, žena pilot: umjerena boja kože
 👩🏾‍✈	avion, pilot, umjereno tamna boja kože, žena, žena pilot: umjereno tamna boja kože
 👩🏿‍✈	avion, pilot, tamna boja kože, žena, žena pilot: tamna boja kože
-👨‍🚀	astronaut, mjesec, muškarac, raketa, svemir
-👨🏻‍🚀	astronaut, astronaut: svijetla boja kože, mjesec, muškarac, raketa, svemir, svijetla boja kože
-👨🏼‍🚀	astronaut, astronaut: umjereno svijetla boja kože, mjesec, muškarac, raketa, svemir, umjereno svijetla boja kože
-👨🏽‍🚀	astronaut, astronaut: umjerena boja kože, mjesec, muškarac, raketa, svemir, umjerena boja kože
-👨🏾‍🚀	astronaut, astronaut: umjereno tamna boja kože, mjesec, muškarac, raketa, svemir, umjereno tamna boja kože
-👨🏿‍🚀	astronaut, astronaut: tamna boja kože, mjesec, muškarac, raketa, svemir, tamna boja kože
+🧑‍🚀	astronaut, raketa
+🧑🏻‍🚀	astronaut, astronaut: svijetla boja kože, raketa, svijetla boja kože
+🧑🏼‍🚀	astronaut, astronaut: umjereno svijetla boja kože, raketa, umjereno svijetla boja kože
+🧑🏽‍🚀	astronaut, astronaut: umjerena boja kože, raketa, umjerena boja kože
+🧑🏾‍🚀	astronaut, astronaut: umjereno tamna boja kože, raketa, umjereno tamna boja kože
+🧑🏿‍🚀	astronaut, astronaut: tamna boja kože, raketa, tamna boja kože
+👨‍🚀	astronaut, astronaut muškarac, mjesec, muškarac, raketa, svemir
+👨🏻‍🚀	astronaut, astronaut muškarac: svijetla boja kože, mjesec, muškarac, raketa, svemir, svijetla boja kože
+👨🏼‍🚀	astronaut, astronaut muškarac: umjereno svijetla boja kože, mjesec, muškarac, raketa, svemir, umjereno svijetla boja kože
+👨🏽‍🚀	astronaut, astronaut muškarac: umjerena boja kože, mjesec, muškarac, raketa, svemir, umjerena boja kože
+👨🏾‍🚀	astronaut, astronaut muškarac: umjereno tamna boja kože, mjesec, muškarac, raketa, svemir, umjereno tamna boja kože
+👨🏿‍🚀	astronaut, astronaut muškarac: tamna boja kože, mjesec, muškarac, raketa, svemir, tamna boja kože
 👩‍🚀	astronaut, astronautkinja, mjesec, raketa, svemir
 👩🏻‍🚀	astronaut, astronautkinja, astronautkinja: svijetla boja kože, mjesec, raketa, svemir, svijetla boja kože
 👩🏼‍🚀	astronaut, astronautkinja, astronautkinja: umjereno svijetla boja kože, mjesec, raketa, svemir, umjereno svijetla boja kože
 👩🏽‍🚀	astronaut, astronautkinja, astronautkinja: umjerena boja kože, mjesec, raketa, svemir, umjerena boja kože
 👩🏾‍🚀	astronaut, astronautkinja, astronautkinja: umjereno tamna boja kože, mjesec, raketa, svemir, umjereno tamna boja kože
 👩🏿‍🚀	astronaut, astronautkinja, astronautkinja: tamna boja kože, mjesec, raketa, svemir, tamna boja kože
-👨‍🚒	muškarac, vatrogasac, vatrogasna kola
-👨🏻‍🚒	muškarac, svijetla boja kože, vatrogasac, vatrogasac: svijetla boja kože, vatrogasna kola
-👨🏼‍🚒	muškarac, umjereno svijetla boja kože, vatrogasac, vatrogasac: umjereno svijetla boja kože, vatrogasna kola
-👨🏽‍🚒	muškarac, umjerena boja kože, vatrogasac, vatrogasac: umjerena boja kože, vatrogasna kola
-👨🏾‍🚒	muškarac, umjereno tamna boja kože, vatrogasac, vatrogasac: umjereno tamna boja kože, vatrogasna kola
-👨🏿‍🚒	muškarac, tamna boja kože, vatrogasac, vatrogasac: tamna boja kože, vatrogasna kola
+🧑‍🚒	vatrogasac, vatrogasno vozilo
+🧑🏻‍🚒	svijetla boja kože, vatrogasac, vatrogasac: svijetla boja kože, vatrogasno vozilo
+🧑🏼‍🚒	umjereno svijetla boja kože, vatrogasac, vatrogasac: umjereno svijetla boja kože, vatrogasno vozilo
+🧑🏽‍🚒	umjerena boja kože, vatrogasac, vatrogasac: umjerena boja kože, vatrogasno vozilo
+🧑🏾‍🚒	umjereno tamna boja kože, vatrogasac, vatrogasac: umjereno tamna boja kože, vatrogasno vozilo
+🧑🏿‍🚒	tamna boja kože, vatrogasac, vatrogasac: tamna boja kože, vatrogasno vozilo
+👨‍🚒	muškarac, vatrogasac, vatrogasac muškarac, vatrogasna kola
+👨🏻‍🚒	muškarac, svijetla boja kože, vatrogasac, vatrogasac muškarac: svijetla boja kože, vatrogasna kola
+👨🏼‍🚒	muškarac, umjereno svijetla boja kože, vatrogasac, vatrogasac muškarac: umjereno svijetla boja kože, vatrogasna kola
+👨🏽‍🚒	muškarac, umjerena boja kože, vatrogasac, vatrogasac muškarac: umjerena boja kože, vatrogasna kola
+👨🏾‍🚒	muškarac, umjereno tamna boja kože, vatrogasac, vatrogasac muškarac: umjereno tamna boja kože, vatrogasna kola
+👨🏿‍🚒	muškarac, tamna boja kože, vatrogasac, vatrogasac muškarac: tamna boja kože, vatrogasna kola
 👩‍🚒	vatrogasac, vatrogasna kola, žena, žena vatrogasac
 👩🏻‍🚒	svijetla boja kože, vatrogasac, vatrogasna kola, žena, žena vatrogasac: svijetla boja kože
 👩🏼‍🚒	umjereno svijetla boja kože, vatrogasac, vatrogasna kola, žena, žena vatrogasac: umjereno svijetla boja kože
 👩🏽‍🚒	umjerena boja kože, vatrogasac, vatrogasna kola, žena, žena vatrogasac: umjerena boja kože
 👩🏾‍🚒	umjereno tamna boja kože, vatrogasac, vatrogasna kola, žena, žena vatrogasac: umjereno tamna boja kože
 👩🏿‍🚒	tamna boja kože, vatrogasac, vatrogasna kola, žena, žena vatrogasac: tamna boja kože
-👮	muškarac, policajac, policija, policijski službenik
-👮🏻	muškarac, policajac, policija, policijski službenik, policijski službenik: svijetla boja kože, svijetla boja kože
-👮🏼	muškarac, policajac, policija, policijski službenik, policijski službenik: umjereno svijetla boja kože, umjereno svijetla boja kože
-👮🏽	muškarac, policajac, policija, policijski službenik, policijski službenik: umjerena boja kože, umjerena boja kože
-👮🏾	muškarac, policajac, policija, policijski službenik, policijski službenik: umjereno tamna boja kože, umjereno tamna boja kože
-👮🏿	muškarac, policajac, policija, policijski službenik, policijski službenik: tamna boja kože, tamna boja kože
+👮	policajac, policija, policijski službenik
+👮🏻	policajac, policija, policijski službenik, policijski službenik: svijetla boja kože, svijetla boja kože
+👮🏼	policajac, policija, policijski službenik, policijski službenik: umjereno svijetla boja kože, umjereno svijetla boja kože
+👮🏽	policajac, policija, policijski službenik, policijski službenik: umjerena boja kože, umjerena boja kože
+👮🏾	policajac, policija, policijski službenik, policijski službenik: umjereno tamna boja kože, umjereno tamna boja kože
+👮🏿	policajac, policija, policijski službenik, policijski službenik: tamna boja kože, tamna boja kože
 👮‍♂	muškarac, policajac, policija
 👮🏻‍♂	muškarac, policajac, policajac: svijetla boja kože, policija, svijetla boja kože
 👮🏼‍♂	muškarac, policajac, policajac: umjereno svijetla boja kože, policija, umjereno svijetla boja kože
@@ -937,12 +1067,13 @@
 💂🏽‍♂	muškarac, muškarac stražar, muškarac stražar: umjerena boja kože, straža, umjerena boja kože
 💂🏾‍♂	muškarac, muškarac stražar, muškarac stražar: umjereno tamna boja kože, straža, umjereno tamna boja kože
 💂🏿‍♂	muškarac, muškarac stražar, muškarac stražar: tamna boja kože, straža, tamna boja kože
-💂‍♀	straža, stražarka, žena
-💂🏻‍♀	straža, stražarka, stražarka: svijetla boja kože, svijetla boja kože, žena
-💂🏼‍♀	straža, stražarka, stražarka: umjereno svijetla boja kože, umjereno svijetla boja kože, žena
-💂🏽‍♀	straža, stražarka, stražarka: umjerena boja kože, umjerena boja kože, žena
-💂🏾‍♀	straža, stražarka, stražarka: umjereno tamna boja kože, umjereno tamna boja kože, žena
-💂🏿‍♀	straža, stražarka, stražarka: tamna boja kože, tamna boja kože, žena
+💂‍♀	straža, stražarka
+💂🏻‍♀	straža, stražarka, stražarka: svijetla boja kože, svijetla boja kože
+💂🏼‍♀	straža, stražarka, stražarka: umjereno svijetla boja kože, umjereno svijetla boja kože
+💂🏽‍♀	straža, stražarka, stražarka: umjerena boja kože, umjerena boja kože
+💂🏾‍♀	straža, stražarka, stražarka: umjereno tamna boja kože, umjereno tamna boja kože
+💂🏿‍♀	straža, stražarka, stražarka: tamna boja kože, tamna boja kože
+🥷	borac, nindža, prikradanje, sakrivanje
 👷	građevina, građevinski radnik, građevinski radovi, radnik, šljem
 👷🏻	građevina, građevinski radnik, građevinski radnik: svijetla boja kože, građevinski radovi, radnik, svijetla boja kože, šljem
 👷🏼	građevina, građevinski radnik, građevinski radnik: umjereno svijetla boja kože, građevinski radovi, radnik, umjereno svijetla boja kože, šljem
@@ -1003,18 +1134,42 @@
 🧕🏽	hidžab, pokrivalo, pokrivena žena, pokrivena žena: umjerena boja kože, umjerena boja kože, šal
 🧕🏾	hidžab, pokrivalo, pokrivena žena, pokrivena žena: umjereno tamna boja kože, umjereno tamna boja kože, šal
 🧕🏿	hidžab, pokrivalo, pokrivena žena, pokrivena žena: tamna boja kože, tamna boja kože, šal
-🤵	mladoženja, odijelo, smoking, čovjek
-🤵🏻	mladoženja, odijelo, odijelo: svijetla boja kože, smoking, svijetla boja kože, čovjek
-🤵🏼	mladoženja, odijelo, odijelo: umjereno svijetla boja kože, smoking, umjereno svijetla boja kože, čovjek
-🤵🏽	mladoženja, odijelo, odijelo: umjerena boja kože, smoking, umjerena boja kože, čovjek
-🤵🏾	mladoženja, odijelo, odijelo: umjereno tamna boja kože, smoking, umjereno tamna boja kože, čovjek
-🤵🏿	mladoženja, odijelo, odijelo: tamna boja kože, smoking, tamna boja kože, čovjek
-👰	mlada, mlada s velom, veo, vjenčanje
-👰🏻	mlada, mlada s velom, mlada s velom: svijetla boja kože, svijetla boja kože, veo, vjenčanje
-👰🏼	mlada, mlada s velom, mlada s velom: umjereno svijetla boja kože, umjereno svijetla boja kože, veo, vjenčanje
-👰🏽	mlada, mlada s velom, mlada s velom: umjerena boja kože, umjerena boja kože, veo, vjenčanje
-👰🏾	mlada, mlada s velom, mlada s velom: umjereno tamna boja kože, umjereno tamna boja kože, veo, vjenčanje
-👰🏿	mlada, mlada s velom, mlada s velom: tamna boja kože, tamna boja kože, veo, vjenčanje
+🤵	mladoženja, muškarac u smokingu, odijelo, osoba u smokingu, smoking
+🤵🏻	mladoženja, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: svijetla boja kože, smoking, svijetla boja kože
+🤵🏼	mladoženja, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: umjereno svijetla boja kože, smoking, umjereno svijetla boja kože
+🤵🏽	mladoženja, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: umjerena boja kože, smoking, umjerena boja kože
+🤵🏾	mladoženja, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: umjereno tamna boja kože, smoking, umjereno tamna boja kože
+🤵🏿	mladoženja, muškarac u smokingu, odijelo, osoba u smokingu, osoba u smokingu: tamna boja kože, smoking, tamna boja kože
+🤵‍♂	muškarac, muškarac u smokingu, smoking
+🤵🏻‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: svijetla boja kože, smoking, svijetla boja kože
+🤵🏼‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: umjereno svijetla boja kože, smoking, umjereno svijetla boja kože
+🤵🏽‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: umjerena boja kože, smoking, umjerena boja kože
+🤵🏾‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: umjereno tamna boja kože, smoking, umjereno tamna boja kože
+🤵🏿‍♂	muškarac, muškarac u smokingu, muškarac u smokingu: tamna boja kože, smoking, tamna boja kože
+🤵‍♀	smoking, žena, žena u smokingu
+🤵🏻‍♀	smoking, svijetla boja kože, žena, žena u smokingu, žena u smokingu: svijetla boja kože
+🤵🏼‍♀	smoking, umjereno svijetla boja kože, žena, žena u smokingu, žena u smokingu: umjereno svijetla boja kože
+🤵🏽‍♀	smoking, umjerena boja kože, žena, žena u smokingu, žena u smokingu: umjerena boja kože
+🤵🏾‍♀	smoking, umjereno tamna boja kože, žena, žena u smokingu, žena u smokingu: umjereno tamna boja kože
+🤵🏿‍♀	smoking, tamna boja kože, žena, žena u smokingu, žena u smokingu: tamna boja kože
+👰	mlada, osoba, osoba s velom, veo, vjenčanje
+👰🏻	mlada, osoba, osoba s velom, osoba s velom: svijetla boja kože, svijetla boja kože, veo, vjenčanje
+👰🏼	mlada, osoba, osoba s velom, osoba s velom: umjereno svijetla boja kože, umjereno svijetla boja kože, veo, vjenčanje
+👰🏽	mlada, osoba, osoba s velom, osoba s velom: umjerena boja kože, umjerena boja kože, veo, vjenčanje
+👰🏾	mlada, osoba, osoba s velom, osoba s velom: umjereno tamna boja kože, umjereno tamna boja kože, veo, vjenčanje
+👰🏿	mlada, osoba, osoba s velom, osoba s velom: tamna boja kože, tamna boja kože, veo, vjenčanje
+👰‍♂	muškarac, muškarac s velom, veo
+👰🏻‍♂	muškarac, muškarac s velom, muškarac s velom: svijetla boja kože, svijetla boja kože, veo
+👰🏼‍♂	muškarac, muškarac s velom, muškarac s velom: umjereno svijetla boja kože, umjereno svijetla boja kože, veo
+👰🏽‍♂	muškarac, muškarac s velom, muškarac s velom: umjerena boja kože, umjerena boja kože, veo
+👰🏾‍♂	muškarac, muškarac s velom, muškarac s velom: umjereno tamna boja kože, umjereno tamna boja kože, veo
+👰🏿‍♂	muškarac, muškarac s velom, muškarac s velom: tamna boja kože, tamna boja kože, veo
+👰‍♀	veo, žena, žena s velom
+👰🏻‍♀	svijetla boja kože, veo, žena, žena s velom, žena s velom: svijetla boja kože
+👰🏼‍♀	umjereno svijetla boja kože, veo, žena, žena s velom, žena s velom: umjereno svijetla boja kože
+👰🏽‍♀	umjerena boja kože, veo, žena, žena s velom, žena s velom: umjerena boja kože
+👰🏾‍♀	umjereno tamna boja kože, veo, žena, žena s velom, žena s velom: umjereno tamna boja kože
+👰🏿‍♀	tamna boja kože, veo, žena, žena s velom, žena s velom: tamna boja kože
 🤰	trudnica, žena
 🤰🏻	svijetla boja kože, trudnica, trudnica: svijetla boja kože, žena
 🤰🏼	trudnica, trudnica: umjereno svijetla boja kože, umjereno svijetla boja kože, žena
@@ -1027,6 +1182,24 @@
 🤱🏽	beba, dojenje, dojenje: umjerena boja kože, dojenče, hranjenje, umjerena boja kože
 🤱🏾	beba, dojenje, dojenje: umjereno tamna boja kože, dojenče, hranjenje, umjereno tamna boja kože
 🤱🏿	beba, dojenje, dojenje: tamna boja kože, dojenče, hranjenje, tamna boja kože
+👩‍🍼	beba, dojenje, hranjenje, žena, žena doji bebu
+👩🏻‍🍼	beba, dojenje, hranjenje, svijetla boja kože, žena, žena doji bebu, žena doji bebu: svijetla boja kože
+👩🏼‍🍼	beba, dojenje, hranjenje, umjereno svijetla boja kože, žena, žena doji bebu, žena doji bebu: umjereno svijetla boja kože
+👩🏽‍🍼	beba, dojenje, hranjenje, umjerena boja kože, žena, žena doji bebu, žena doji bebu: umjerena boja kože
+👩🏾‍🍼	beba, dojenje, hranjenje, umjereno tamna boja kože, žena, žena doji bebu, žena doji bebu: umjereno tamna boja kože
+👩🏿‍🍼	beba, dojenje, hranjenje, tamna boja kože, žena, žena doji bebu, žena doji bebu: tamna boja kože
+👨‍🍼	beba, dojenje, hranjenje, muškarac, muškarac doji bebu
+👨🏻‍🍼	beba, dojenje, hranjenje, muškarac, muškarac doji bebu, muškarac doji bebu: svijetla boja kože, svijetla boja kože
+👨🏼‍🍼	beba, dojenje, hranjenje, muškarac, muškarac doji bebu, muškarac doji bebu: umjereno svijetla boja kože, umjereno svijetla boja kože
+👨🏽‍🍼	beba, dojenje, hranjenje, muškarac, muškarac doji bebu, muškarac doji bebu: umjerena boja kože, umjerena boja kože
+👨🏾‍🍼	beba, dojenje, hranjenje, muškarac, muškarac doji bebu, muškarac doji bebu: umjereno tamna boja kože, umjereno tamna boja kože
+👨🏿‍🍼	beba, dojenje, hranjenje, muškarac, muškarac doji bebu, muškarac doji bebu: tamna boja kože, tamna boja kože
+🧑‍🍼	beba, dojenje, hranjenje, osoba, osoba doji bebu, osoba hrani bebu
+🧑🏻‍🍼	beba, dojenje, hranjenje, osoba, osoba doji bebu: svijetla boja kože, osoba hrani bebu, svijetla boja kože
+🧑🏼‍🍼	beba, dojenje, hranjenje, osoba, osoba doji bebu: umjereno svijetla boja kože, osoba hrani bebu, umjereno svijetla boja kože
+🧑🏽‍🍼	beba, dojenje, hranjenje, osoba, osoba doji bebu: umjerena boja kože, osoba hrani bebu, umjerena boja kože
+🧑🏾‍🍼	beba, dojenje, hranjenje, osoba, osoba doji bebu: umjereno tamna boja kože, osoba hrani bebu, umjereno tamna boja kože
+🧑🏿‍🍼	beba, dojenje, hranjenje, osoba, osoba doji bebu: tamna boja kože, osoba hrani bebu, tamna boja kože
 👼	anđelak, anđeo, bajka, beba, fantazija
 👼🏻	anđelak, anđelak: svijetla boja kože, anđeo, bajka, beba, fantazija, svijetla boja kože
 👼🏼	anđelak, anđelak: umjereno svijetla boja kože, anđeo, bajka, beba, fantazija, umjereno svijetla boja kože
@@ -1045,6 +1218,12 @@
 🤶🏽	Baka Mraz, Baka Mraz: umjerena boja kože, Božić, Djeda Mraz, umjerena boja kože, žena
 🤶🏾	Baka Mraz, Baka Mraz: umjereno tamna boja kože, Božić, Djeda Mraz, umjereno tamna boja kože, žena
 🤶🏿	Baka Mraz, Baka Mraz: tamna boja kože, Božić, Djeda Mraz, tamna boja kože, žena
+🧑‍🎄	Djeda Mraz, božić, g. Mraz
+🧑🏻‍🎄	Djeda Mraz, božić, g. Mraz, g. Mraz: svijetla boja kože, svijetla boja kože
+🧑🏼‍🎄	Djeda Mraz, božić, g. Mraz, g. Mraz: umjereno svijetla boja kože, umjereno svijetla boja kože
+🧑🏽‍🎄	Djeda Mraz, božić, g. Mraz, g. Mraz: umjerena boja kože, umjerena boja kože
+🧑🏾‍🎄	Djeda Mraz, božić, g. Mraz, g. Mraz: umjereno tamna boja kože, umjereno tamna boja kože
+🧑🏿‍🎄	Djeda Mraz, božić, g. Mraz, g. Mraz: tamna boja kože, tamna boja kože
 🦸	dobro, heroina, heroj, superheroj, supermoć
 🦸🏻	dobro, heroina, heroj, superheroj, superheroj: svijetla boja kože, supermoć, svijetla boja kože
 🦸🏼	dobro, heroina, heroj, superheroj, superheroj: umjereno svijetla boja kože, supermoć, umjereno svijetla boja kože
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	umjerena boja kože, žena kleči, žena kleči: umjerena boja kože
 🧎🏾‍♀	umjereno tamna boja kože, žena kleči, žena kleči: umjereno tamna boja kože
 🧎🏿‍♀	tamna boja kože, žena kleči, žena kleči: tamna boja kože
+🧑‍🦯	osoba sa štapom za hodanje, pomagalo, sljepoća
+🧑🏻‍🦯	osoba sa štapom za hodanje, osoba sa štapom za hodanje: svijetla boja kože, pomagalo, sljepoća, svijetla boja kože
+🧑🏼‍🦯	osoba sa štapom za hodanje, osoba sa štapom za hodanje: umjereno svijetla boja kože, pomagalo, sljepoća, umjereno svijetla boja kože
+🧑🏽‍🦯	osoba sa štapom za hodanje, osoba sa štapom za hodanje: umjerena boja kože, pomagalo, sljepoća, umjerena boja kože
+🧑🏾‍🦯	osoba sa štapom za hodanje, osoba sa štapom za hodanje: umjereno tamna boja kože, pomagalo, sljepoća, umjereno tamna boja kože
+🧑🏿‍🦯	osoba sa štapom za hodanje, osoba sa štapom za hodanje: tamna boja kože, pomagalo, sljepoća, tamna boja kože
 👨‍🦯	pomagalo, slijep, čovjek, čovjek sa štapom za hodanje
 👨🏻‍🦯	pomagalo, slijep, svijetla boja kože, čovjek, čovjek sa štapom za hodanje, čovjek sa štapom za hodanje: svijetla boja kože
 👨🏼‍🦯	pomagalo, slijep, umjereno svijetla boja kože, čovjek, čovjek sa štapom za hodanje, čovjek sa štapom za hodanje: umjereno svijetla boja kože
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	pomagalo, slijepa, umjerena boja kože, žena, žena sa štapom za hodanje, žena sa štapom za hodanje: umjerena boja kože
 👩🏾‍🦯	pomagalo, slijepa, umjereno tamna boja kože, žena, žena sa štapom za hodanje, žena sa štapom za hodanje: umjereno tamna boja kože
 👩🏿‍🦯	pomagalo, slijepa, tamna boja kože, žena, žena sa štapom za hodanje, žena sa štapom za hodanje: tamna boja kože
+🧑‍🦼	invalidska kolica, osoba u motornim invalidskim kolicima, pomagalo
+🧑🏻‍🦼	invalidska kolica, osoba u motornim invalidskim kolicima, osoba u motornim invalidskim kolicima: svijetla boja kože, pomagalo, svijetla boja kože
+🧑🏼‍🦼	invalidska kolica, osoba u motornim invalidskim kolicima, osoba u motornim invalidskim kolicima: umjereno svijetla boja kože, pomagalo, umjereno svijetla boja kože
+🧑🏽‍🦼	invalidska kolica, osoba u motornim invalidskim kolicima, osoba u motornim invalidskim kolicima: umjerena boja kože, pomagalo, umjerena boja kože
+🧑🏾‍🦼	invalidska kolica, osoba u motornim invalidskim kolicima, osoba u motornim invalidskim kolicima: umjereno tamna boja kože, pomagalo, umjereno tamna boja kože
+🧑🏿‍🦼	invalidska kolica, osoba u motornim invalidskim kolicima, osoba u motornim invalidskim kolicima: tamna boja kože, pomagalo, tamna boja kože
 👨‍🦼	motorna invalidska kolica, muškarac, muškarac u motornim invalidskim kolicima, pomagalo
 👨🏻‍🦼	motorna invalidska kolica, muškarac, muškarac u motornim invalidskim kolicima, muškarac u motornim invalidskim kolicima: svijetla boja kože, pomagalo, svijetla boja kože
 👨🏼‍🦼	motorna invalidska kolica, muškarac, muškarac u motornim invalidskim kolicima, muškarac u motornim invalidskim kolicima: umjereno svijetla boja kože, pomagalo, umjereno svijetla boja kože
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	motorna invalidska kolica, pomagalo, umjerena boja kože, žena, žena u motornim invalidskim kolicima, žena u motornim invalidskim kolicima: umjerena boja kože
 👩🏾‍🦼	motorna invalidska kolica, pomagalo, umjereno tamna boja kože, žena, žena u motornim invalidskim kolicima, žena u motornim invalidskim kolicima: umjereno tamna boja kože
 👩🏿‍🦼	motorna invalidska kolica, pomagalo, tamna boja kože, žena, žena u motornim invalidskim kolicima, žena u motornim invalidskim kolicima: tamna boja kože
+🧑‍🦽	invalidska kolica, osoba u invalidskim kolicima, pomagalo
+🧑🏻‍🦽	invalidska kolica, osoba u invalidskim kolicima, osoba u invalidskim kolicima: svijetla boja kože, pomagalo, svijetla boja kože
+🧑🏼‍🦽	invalidska kolica, osoba u invalidskim kolicima, osoba u invalidskim kolicima: umjereno svijetla boja kože, pomagalo, umjereno svijetla boja kože
+🧑🏽‍🦽	invalidska kolica, osoba u invalidskim kolicima, osoba u invalidskim kolicima: umjerena boja kože, pomagalo, umjerena boja kože
+🧑🏾‍🦽	invalidska kolica, osoba u invalidskim kolicima, osoba u invalidskim kolicima: umjereno tamna boja kože, pomagalo, umjereno tamna boja kože
+🧑🏿‍🦽	invalidska kolica, osoba u invalidskim kolicima, osoba u invalidskim kolicima: tamna boja kože, pomagalo, tamna boja kože
 👨‍🦽	invalidska kolica, muškarac, muškarac u invalidskim kolicima, pomagalo
 👨🏻‍🦽	invalidska kolica, muškarac, muškarac u invalidskim kolicima, muškarac u invalidskim kolicima: svijetla boja kože, pomagalo, svijetla boja kože
 👨🏼‍🦽	invalidska kolica, muškarac, muškarac u invalidskim kolicima, muškarac u invalidskim kolicima: umjereno svijetla boja kože, pomagalo, umjereno svijetla boja kože
@@ -1321,12 +1518,12 @@
 🏃🏽‍♀	maraton, trka, trčanje, umjerena boja kože, žena, žena trči, žena trči: umjerena boja kože
 🏃🏾‍♀	maraton, trka, trčanje, umjereno tamna boja kože, žena, žena trči, žena trči: umjereno tamna boja kože
 🏃🏿‍♀	maraton, tamna boja kože, trka, trčanje, žena, žena trči, žena trči: tamna boja kože
-💃	ples, plesanje, žena, žena pleše
-💃🏻	ples, plesanje, svijetla boja kože, žena, žena pleše, žena pleše: svijetla boja kože
-💃🏼	ples, plesanje, umjereno svijetla boja kože, žena, žena pleše, žena pleše: umjereno svijetla boja kože
-💃🏽	ples, plesanje, umjerena boja kože, žena, žena pleše, žena pleše: umjerena boja kože
-💃🏾	ples, plesanje, umjereno tamna boja kože, žena, žena pleše, žena pleše: umjereno tamna boja kože
-💃🏿	ples, plesanje, tamna boja kože, žena, žena pleše, žena pleše: tamna boja kože
+💃	ples, plesanje, žena pleše
+💃🏻	ples, plesanje, svijetla boja kože, žena pleše, žena pleše: svijetla boja kože
+💃🏼	ples, plesanje, umjereno svijetla boja kože, žena pleše, žena pleše: umjereno svijetla boja kože
+💃🏽	ples, plesanje, umjerena boja kože, žena pleše, žena pleše: umjerena boja kože
+💃🏾	ples, plesanje, umjereno tamna boja kože, žena pleše, žena pleše: umjereno tamna boja kože
+💃🏿	ples, plesanje, tamna boja kože, žena pleše, žena pleše: tamna boja kože
 🕺	plesanje, čovjek
 🕺🏻	plesanje, plesanje: svijetla boja kože, svijetla boja kože, čovjek
 🕺🏼	plesanje, plesanje: umjereno svijetla boja kože, umjereno svijetla boja kože, čovjek
@@ -1379,12 +1576,12 @@
 🧗🏾‍♀	penjač, umjereno tamna boja kože, žena koja se penje, žena koja se penje: umjereno tamna boja kože
 🧗🏿‍♀	penjač, tamna boja kože, žena koja se penje, žena koja se penje: tamna boja kože
 🤺	mač, mačevalac, mačevanje, osoba, sport
-🏇	jahanje, jahanje konja, konj, trka, trkaći konj
-🏇🏻	jahanje, jahanje konja, jahanje konja: svijetla boja kože, konj, svijetla boja kože, trka, trkaći konj
-🏇🏼	jahanje, jahanje konja, jahanje konja: umjereno svijetla boja kože, konj, trka, trkaći konj, umjereno svijetla boja kože
-🏇🏽	jahanje, jahanje konja, jahanje konja: umjerena boja kože, konj, trka, trkaći konj, umjerena boja kože
-🏇🏾	jahanje, jahanje konja, jahanje konja: umjereno tamna boja kože, konj, trka, trkaći konj, umjereno tamna boja kože
-🏇🏿	jahanje, jahanje konja, jahanje konja: tamna boja kože, konj, tamna boja kože, trka, trkaći konj
+🏇	konj, konjska trka, trka konja, trkaći konj
+🏇🏻	konj, konjska trka, konjska trka: svijetla boja kože, svijetla boja kože, trka konja, trkaći konj
+🏇🏼	konj, konjska trka, konjska trka: umjereno svijetla boja kože, trka konja, trkaći konj, umjereno svijetla boja kože
+🏇🏽	konj, konjska trka, konjska trka: umjerena boja kože, trka konja, trkaći konj, umjerena boja kože
+🏇🏾	konj, konjska trka, konjska trka: umjereno tamna boja kože, trka konja, trkaći konj, umjereno tamna boja kože
+🏇🏿	konj, konjska trka, konjska trka: tamna boja kože, tamna boja kože, trka konja, trkaći konj
 ⛷️	skijanje, skijaš, snijeg, sport
 🏂️	daska, daskanje, daskanje na snijegu, snijeg
 🏂🏻	daska, daskanje, daskanje na snijegu, daskanje na snijegu: svijetla boja kože, snijeg, svijetla boja kože
@@ -1416,18 +1613,18 @@
 🏄🏽	osoba surfa, osoba surfa: umjerena boja kože, surfanje, umjerena boja kože
 🏄🏾	osoba surfa, osoba surfa: umjereno tamna boja kože, surfanje, umjereno tamna boja kože
 🏄🏿	osoba surfa, osoba surfa: tamna boja kože, surfanje, tamna boja kože
-🏄‍♂	muškarac, surfanje, surfer
-🏄🏻‍♂	muškarac, surfanje, surfer, surfer: svijetla boja kože, svijetla boja kože
-🏄🏼‍♂	muškarac, surfanje, surfer, surfer: umjereno svijetla boja kože, umjereno svijetla boja kože
-🏄🏽‍♂	muškarac, surfanje, surfer, surfer: umjerena boja kože, umjerena boja kože
-🏄🏾‍♂	muškarac, surfanje, surfer, surfer: umjereno tamna boja kože, umjereno tamna boja kože
-🏄🏿‍♂	muškarac, surfanje, surfer, surfer: tamna boja kože, tamna boja kože
-🏄‍♀	surfanje, surferka, žena
-🏄🏻‍♀	surfanje, surferka, surferka: svijetla boja kože, svijetla boja kože, žena
-🏄🏼‍♀	surfanje, surferka, surferka: umjereno svijetla boja kože, umjereno svijetla boja kože, žena
-🏄🏽‍♀	surfanje, surferka, surferka: umjerena boja kože, umjerena boja kože, žena
-🏄🏾‍♀	surfanje, surferka, surferka: umjereno tamna boja kože, umjereno tamna boja kože, žena
-🏄🏿‍♀	surfanje, surferka, surferka: tamna boja kože, tamna boja kože, žena
+🏄‍♂	surfanje, surfer
+🏄🏻‍♂	surfanje, surfer, surfer: svijetla boja kože, svijetla boja kože
+🏄🏼‍♂	surfanje, surfer, surfer: umjereno svijetla boja kože, umjereno svijetla boja kože
+🏄🏽‍♂	surfanje, surfer, surfer: umjerena boja kože, umjerena boja kože
+🏄🏾‍♂	surfanje, surfer, surfer: umjereno tamna boja kože, umjereno tamna boja kože
+🏄🏿‍♂	surfanje, surfer, surfer: tamna boja kože, tamna boja kože
+🏄‍♀	surfanje, surferka
+🏄🏻‍♀	surfanje, surferka, surferka: svijetla boja kože, svijetla boja kože
+🏄🏼‍♀	surfanje, surferka, surferka: umjereno svijetla boja kože, umjereno svijetla boja kože
+🏄🏽‍♀	surfanje, surferka, surferka: umjerena boja kože, umjerena boja kože
+🏄🏾‍♀	surfanje, surferka, surferka: umjereno tamna boja kože, umjereno tamna boja kože
+🏄🏿‍♀	surfanje, surferka, surferka: tamna boja kože, tamna boja kože
 🚣	osoba vesla, veslanje, čamac
 🚣🏻	osoba vesla, osoba vesla: svijetla boja kože, svijetla boja kože, veslanje, čamac
 🚣🏼	osoba vesla, osoba vesla: umjereno svijetla boja kože, umjereno svijetla boja kože, veslanje, čamac
@@ -1599,18 +1796,18 @@
 🤹🏽	balansiranje, multitasking, umjerena boja kože, vještina, žongliranje, žongliranje: umjerena boja kože
 🤹🏾	balansiranje, multitasking, umjereno tamna boja kože, vještina, žongliranje, žongliranje: umjereno tamna boja kože
 🤹🏿	balansiranje, multitasking, tamna boja kože, vještina, žongliranje, žongliranje: tamna boja kože
-🤹‍♂	cirkus, muškarac, žongler, žongliranje
-🤹🏻‍♂	cirkus, muškarac, svijetla boja kože, žongler, žongler: svijetla boja kože, žongliranje
-🤹🏼‍♂	cirkus, muškarac, umjereno svijetla boja kože, žongler, žongler: umjereno svijetla boja kože, žongliranje
-🤹🏽‍♂	cirkus, muškarac, umjerena boja kože, žongler, žongler: umjerena boja kože, žongliranje
-🤹🏾‍♂	cirkus, muškarac, umjereno tamna boja kože, žongler, žongler: umjereno tamna boja kože, žongliranje
-🤹🏿‍♂	cirkus, muškarac, tamna boja kože, žongler, žongler: tamna boja kože, žongliranje
-🤹‍♀	cirkus, žena, žonglerka, žongliranje
-🤹🏻‍♀	cirkus, svijetla boja kože, žena, žonglerka, žonglerka: svijetla boja kože, žongliranje
-🤹🏼‍♀	cirkus, umjereno svijetla boja kože, žena, žonglerka, žonglerka: umjereno svijetla boja kože, žongliranje
-🤹🏽‍♀	cirkus, umjerena boja kože, žena, žonglerka, žonglerka: umjerena boja kože, žongliranje
-🤹🏾‍♀	cirkus, umjereno tamna boja kože, žena, žonglerka, žonglerka: umjereno tamna boja kože, žongliranje
-🤹🏿‍♀	cirkus, tamna boja kože, žena, žonglerka, žonglerka: tamna boja kože, žongliranje
+🤹‍♂	cirkus, žongler, žongliranje
+🤹🏻‍♂	cirkus, svijetla boja kože, žongler, žongler: svijetla boja kože, žongliranje
+🤹🏼‍♂	cirkus, umjereno svijetla boja kože, žongler, žongler: umjereno svijetla boja kože, žongliranje
+🤹🏽‍♂	cirkus, umjerena boja kože, žongler, žongler: umjerena boja kože, žongliranje
+🤹🏾‍♂	cirkus, umjereno tamna boja kože, žongler, žongler: umjereno tamna boja kože, žongliranje
+🤹🏿‍♂	cirkus, tamna boja kože, žongler, žongler: tamna boja kože, žongliranje
+🤹‍♀	cirkus, žonglerka, žongliranje
+🤹🏻‍♀	cirkus, svijetla boja kože, žonglerka, žonglerka: svijetla boja kože, žongliranje
+🤹🏼‍♀	cirkus, umjereno svijetla boja kože, žonglerka, žonglerka: umjereno svijetla boja kože, žongliranje
+🤹🏽‍♀	cirkus, umjerena boja kože, žonglerka, žonglerka: umjerena boja kože, žongliranje
+🤹🏾‍♀	cirkus, umjereno tamna boja kože, žonglerka, žonglerka: umjereno tamna boja kože, žongliranje
+🤹🏿‍♀	cirkus, tamna boja kože, žonglerka, žonglerka: tamna boja kože, žongliranje
 🧘	joga, meditacija, osoba u položaju lotosa
 🧘🏻	joga, meditacija, osoba u položaju lotosa, osoba u položaju lotosa: svijetla boja kože, svijetla boja kože
 🧘🏼	joga, meditacija, osoba u položaju lotosa, osoba u položaju lotosa: umjereno svijetla boja kože, umjereno svijetla boja kože
@@ -1643,15 +1840,25 @@
 🛌🏿	hotel, osoba u krevetu, osoba u krevetu: tamna boja kože, spavanje, tamna boja kože
 🧑‍🤝‍🧑	držanje za ruke, ljudi se drže za ruke, par, ruka
 🧑🏻‍🤝‍🧑🏻	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: svijetla boja kože, par, ruka, svijetla boja kože
+🧑🏻‍🤝‍🧑🏼	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: svijetla boja kože i umjereno svijetla boja kože, par, ruka, svijetla boja kože, umjereno svijetla boja kože
+🧑🏻‍🤝‍🧑🏽	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: svijetla boja kože i umjerena boja kože, par, ruka, svijetla boja kože, umjerena boja kože
+🧑🏻‍🤝‍🧑🏾	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: svijetla boja kože i umjereno tamna boja kože, par, ruka, svijetla boja kože, umjereno tamna boja kože
+🧑🏻‍🤝‍🧑🏿	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: svijetla boja kože i tamna boja kože, par, ruka, svijetla boja kože, tamna boja kože
 🧑🏼‍🤝‍🧑🏻	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno svijetla boja kože i svijetla boja kože, par, ruka, svijetla boja kože, umjereno svijetla boja kože
 🧑🏼‍🤝‍🧑🏼	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno svijetla boja kože, par, ruka, umjereno svijetla boja kože
+🧑🏼‍🤝‍🧑🏽	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno svijetla boja kože i umjerena boja kože, par, ruka, umjerena boja kože, umjereno svijetla boja kože
+🧑🏼‍🤝‍🧑🏾	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno svijetla boja kože i umjereno tamna boja kože, par, ruka, umjereno svijetla boja kože, umjereno tamna boja kože
+🧑🏼‍🤝‍🧑🏿	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno svijetla boja kože i tamna boja kože, par, ruka, tamna boja kože, umjereno svijetla boja kože
 🧑🏽‍🤝‍🧑🏻	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjerena boja kože i svijetla boja kože, par, ruka, svijetla boja kože, umjerena boja kože
 🧑🏽‍🤝‍🧑🏼	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjerena boja kože i umjereno svijetla boja kože, par, ruka, umjerena boja kože, umjereno svijetla boja kože
 🧑🏽‍🤝‍🧑🏽	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjerena boja kože, par, ruka, umjerena boja kože
+🧑🏽‍🤝‍🧑🏾	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjerena boja kože i umjereno tamna boja kože, par, ruka, umjerena boja kože, umjereno tamna boja kože
+🧑🏽‍🤝‍🧑🏿	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjerena boja kože i tamna boja kože, par, ruka, tamna boja kože, umjerena boja kože
 🧑🏾‍🤝‍🧑🏻	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno tamna boja kože i svijetla boja kože, par, ruka, svijetla boja kože, umjereno tamna boja kože
 🧑🏾‍🤝‍🧑🏼	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno tamna boja kože i umjereno svijetla boja kože, par, ruka, umjereno svijetla boja kože, umjereno tamna boja kože
 🧑🏾‍🤝‍🧑🏽	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno tamna boja kože i umjerena boja kože, par, ruka, umjerena boja kože, umjereno tamna boja kože
 🧑🏾‍🤝‍🧑🏾	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno tamna boja kože, par, ruka, umjereno tamna boja kože
+🧑🏾‍🤝‍🧑🏿	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: umjereno tamna boja kože i tamna boja kože, par, ruka, tamna boja kože, umjereno tamna boja kože
 🧑🏿‍🤝‍🧑🏻	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: tamna boja kože i svijetla boja kože, par, ruka, svijetla boja kože, tamna boja kože
 🧑🏿‍🤝‍🧑🏼	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: tamna boja kože i umjereno svijetla boja kože, par, ruka, tamna boja kože, umjereno svijetla boja kože
 🧑🏿‍🤝‍🧑🏽	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: tamna boja kože i umjerena boja kože, par, ruka, tamna boja kože, umjerena boja kože
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	držanje za ruke, ljudi se drže za ruke, ljudi se drže za ruke: tamna boja kože, par, ruka, tamna boja kože
 👭	blizanci, dvije žene se drže za ruke, par, žena
 👭🏻	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: svijetla boja kože, par, svijetla boja kože, žena
+👩🏻‍🤝‍👩🏼	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: svijetla boja kože i umjereno svijetla boja kože, par, svijetla boja kože, umjereno svijetla boja kože, žena
+👩🏻‍🤝‍👩🏽	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: svijetla boja kože i umjerena boja kože, par, svijetla boja kože, umjerena boja kože, žena
+👩🏻‍🤝‍👩🏾	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: svijetla boja kože i umjereno tamna boja kože, par, svijetla boja kože, umjereno tamna boja kože, žena
+👩🏻‍🤝‍👩🏿	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: svijetla boja kože i tamna boja kože, par, svijetla boja kože, tamna boja kože, žena
 👩🏼‍🤝‍👩🏻	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno svijetla boja kože i svijetla boja kože, par, svijetla boja kože, umjereno svijetla boja kože, žena
 👭🏼	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno svijetla boja kože, par, umjereno svijetla boja kože, žena
+👩🏼‍🤝‍👩🏽	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno svijetla boja kože i umjerena boja kože, par, umjerena boja kože, umjereno svijetla boja kože, žena
+👩🏼‍🤝‍👩🏾	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno svijetla boja kože i umjereno tamna boja kože, par, umjereno svijetla boja kože, umjereno tamna boja kože, žena
+👩🏼‍🤝‍👩🏿	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno svijetla boja kože i tamna boja kože, par, tamna boja kože, umjereno svijetla boja kože, žena
 👩🏽‍🤝‍👩🏻	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjerena boja kože i svijetla boja kože, par, svijetla boja kože, umjerena boja kože, žena
 👩🏽‍🤝‍👩🏼	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjerena boja kože i umjereno svijetla boja kože, par, umjerena boja kože, umjereno svijetla boja kože, žena
 👭🏽	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjerena boja kože, par, umjerena boja kože, žena
+👩🏽‍🤝‍👩🏾	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjerena boja kože i umjereno tamna boja kože, par, umjerena boja kože, umjereno tamna boja kože, žena
+👩🏽‍🤝‍👩🏿	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjerena boja kože i tamna boja kože, par, tamna boja kože, umjerena boja kože, žena
 👩🏾‍🤝‍👩🏻	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno tamna boja kože i svijetla boja kože, par, svijetla boja kože, umjereno tamna boja kože, žena
 👩🏾‍🤝‍👩🏼	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno tamna boja kože i umjereno svijetla boja kože, par, umjereno svijetla boja kože, umjereno tamna boja kože, žena
 👩🏾‍🤝‍👩🏽	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno tamna boja kože i umjerena boja kože, par, umjerena boja kože, umjereno tamna boja kože, žena
 👭🏾	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno tamna boja kože, par, umjereno tamna boja kože, žena
+👩🏾‍🤝‍👩🏿	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: umjereno tamna boja kože i tamna boja kože, par, tamna boja kože, umjereno tamna boja kože, žena
 👩🏿‍🤝‍👩🏻	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: tamna boja kože i svijetla boja kože, par, svijetla boja kože, tamna boja kože, žena
 👩🏿‍🤝‍👩🏼	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: tamna boja kože i umjereno svijetla boja kože, par, tamna boja kože, umjereno svijetla boja kože, žena
 👩🏿‍🤝‍👩🏽	blizanci, dvije žene se drže za ruke, dvije žene se drže za ruke: tamna boja kože i umjerena boja kože, par, tamna boja kože, umjerena boja kože, žena
@@ -1701,15 +1918,25 @@
 👫🏿	muškarac, muškarac i žena se drže za ruke, muškarac i žena se drže za ruke: tamna boja kože, par, tamna boja kože, žena
 👬	blizanci, dva muškarca se drže za ruke, muškarac, par
 👬🏻	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: svijetla boja kože, muškarac, par, svijetla boja kože
+👨🏻‍🤝‍👨🏼	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: svijetla boja kože i umjereno svijetla boja kože, muškarac, par, svijetla boja kože, umjereno svijetla boja kože
+👨🏻‍🤝‍👨🏽	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: svijetla boja kože i umjerena boja kože, muškarac, par, svijetla boja kože, umjerena boja kože
+👨🏻‍🤝‍👨🏾	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: svijetla boja kože i umjereno tamna boja kože, muškarac, par, svijetla boja kože, umjereno tamna boja kože
+👨🏻‍🤝‍👨🏿	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: svijetla boja kože i tamna boja kože, muškarac, par, svijetla boja kože, tamna boja kože
 👨🏼‍🤝‍👨🏻	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno svijetla boja kože i svijetla boja kože, muškarac, par, svijetla boja kože, umjereno svijetla boja kože
 👬🏼	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno svijetla boja kože, muškarac, par, umjereno svijetla boja kože
+👨🏼‍🤝‍👨🏽	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno svijetla boja kože i umjerena boja kože, muškarac, par, umjerena boja kože, umjereno svijetla boja kože
+👨🏼‍🤝‍👨🏾	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno svijetla boja kože i umjereno tamna boja kože, muškarac, par, umjereno svijetla boja kože, umjereno tamna boja kože
+👨🏼‍🤝‍👨🏿	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno svijetla boja kože i tamna boja kože, muškarac, par, tamna boja kože, umjereno svijetla boja kože
 👨🏽‍🤝‍👨🏻	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjerena boja kože i svijetla boja kože, muškarac, par, svijetla boja kože, umjerena boja kože
 👨🏽‍🤝‍👨🏼	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjerena boja kože i umjereno svijetla boja kože, muškarac, par, umjerena boja kože, umjereno svijetla boja kože
 👬🏽	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjerena boja kože, muškarac, par, umjerena boja kože
+👨🏽‍🤝‍👨🏾	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjerena boja kože i umjereno tamna boja kože, muškarac, par, umjerena boja kože, umjereno tamna boja kože
+👨🏽‍🤝‍👨🏿	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjerena boja kože i tamna boja kože, muškarac, par, tamna boja kože, umjerena boja kože
 👨🏾‍🤝‍👨🏻	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno tamna boja kože i svijetla boja kože, muškarac, par, svijetla boja kože, umjereno tamna boja kože
 👨🏾‍🤝‍👨🏼	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno tamna boja kože i umjereno svijetla boja kože, muškarac, par, umjereno svijetla boja kože, umjereno tamna boja kože
 👨🏾‍🤝‍👨🏽	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno tamna boja kože i umjerena boja kože, muškarac, par, umjerena boja kože, umjereno tamna boja kože
 👬🏾	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno tamna boja kože, muškarac, par, umjereno tamna boja kože
+👨🏾‍🤝‍👨🏿	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: umjereno tamna boja kože i tamna boja kože, muškarac, par, tamna boja kože, umjereno tamna boja kože
 👨🏿‍🤝‍👨🏻	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: tamna boja kože i svijetla boja kože, muškarac, par, svijetla boja kože, tamna boja kože
 👨🏿‍🤝‍👨🏼	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: tamna boja kože i umjereno svijetla boja kože, muškarac, par, tamna boja kože, umjereno svijetla boja kože
 👨🏿‍🤝‍👨🏽	blizanci, dva muškarca se drže za ruke, dva muškarca se drže za ruke: tamna boja kože i umjerena boja kože, muškarac, par, tamna boja kože, umjerena boja kože
@@ -1749,9 +1976,10 @@
 👩‍👧	dijete, djevojčica, majka, otac, porodica, porodica: žena i djevojčica, žena
 👩‍👧‍👦	dijete, djevojčica, dječak, majka, otac, porodica, porodica: žena, djevojčica i dječak, žena
 👩‍👧‍👧	dijete, djevojčica, majka, otac, porodica, porodica: žena, djevojčica i djevojčica, žena
-🗣️	glava, govor, silueta, silueta glave koja govori
+🗣️	govor, silueta, silueta glave koja govori
 👤	glava, ramena, silueta, silueta glave s ramenima
 👥	glava, ramena, silueta, siluete glave s ramenima
+🫂	doviđenja, grljenje, ljudi se grle, pozdrav, zahvaljivanje
 👣	dio tijela, otisak, otisci stopala, stopala
 🦰	crvena kosa, crvenokos, crvenokosa, riđa, riđast
 🦱	afro, kovrdžav, kovrdžava, kovrdžava kosa, kovrdže, uvojci
@@ -1764,22 +1992,24 @@
 🐶	glava, glava psa, ljubimac, pas
 🐕️	ljubimac, pas
 🦮	pas vodič, pristup, slijep, vodič
-🐕‍🦺	pas, pas sluga, pomoć, pristup, sluga
+🐕‍🦺	pas, pas pomagač, pomagač, pomoć, pristup
 🐩	pas, pudlica
-🐺	glava, glava vuka, vuk
-🦊	glava lisice, lice, lisica, životinja
+🐺	lice, vuk
+🦊	lice, lisica
 🦝	lisica, lukav, rakun, znatiželjan
 🐱	glava, glava mačke, ljubimac, mačka
 🐈️	ljubimac, mačka
-🦁	glava, glava lava, lav
+🐈‍⬛	crna mačka, crno, loša sreća, mačka
+🦁	glava lava, horoskop, lav
 🐯	glava, glava tigra, tigar
 🐅	tigar
 🐆	leopard
 🐴	glava, glava konja, konj
 🐎	konj, trkanje, trkači konj
-🦄	glava, glava jednoroga, jednorog
+🦄	glava jednoroga, jednorog
 🦓	linije, zebra
 🦌	jelen, životinja
+🦬	bizon, divlji vo, evropski bizon, stado
 🐮	glava, glava krave, krava
 🐂	bik, vo
 🐃	bivo
@@ -1796,6 +2026,7 @@
 🦙	alpaka, guanaco, lama, vicuna, vuna
 🦒	tačke, žirafa
 🐘	slon
+🦣	izumiranje, kljova, mamut, veliko, vuneno
 🦏	nosorog, životinja
 🦛	hippo, hippopotamus, nilski konj
 🐭	glava, glava miša, miš
@@ -1805,11 +2036,13 @@
 🐰	glava zeca, ljubimac, zec, zeko
 🐇	ljubimac, zec, zeko
 🐿️	vjeverica
+🦫	brana, dabar
 🦔	bodlje, jež
 🦇	vampir, šišmiš, životinja
-🐻	glava medvjeda, lice, medvjed
+🐻	glava medvjeda, medvjed
+🐻‍❄	arktički, bijelo, medvjed, polarni medvjed
 🐨	koala
-🐼	glava pande, lice, panda
+🐼	glava pande, panda
 🦥	lijen, ljenivac, spor, trom
 🦦	lovljenje riba, razigranost, vidra
 🦨	smrad, tvor
@@ -1829,10 +2062,12 @@
 🦆	patka, ptica
 🦢	labud, mladi labud, ptica, ružno pače
 🦉	mudrost, ptica, sova
+🦤	Mauricijus, dodo, izumiranje, veliki dodo
+🪶	lagano, let, perje, pero, ptica
 🦩	flamingo, kitnjast, tropska ptica, tropski
 🦚	hvalisav, paun, ponosan, ptica, šepurenje
 🦜	papagaj, papiga, pričanje, ptica
-🐸	glava žabe, lice, žaba
+🐸	glava žabe, žaba
 🐊	krokodil
 🐢	kornjača
 🦎	gušter, reptil
@@ -1844,6 +2079,7 @@
 🐳	izdiše, kit, kit koji izdiše, pljuje, vodu
 🐋	kit
 🐬	delfin
+🦭	foka, morski lav
 🐟️	riba, ribe
 🐠	riba, tropska, tropska riba
 🐡	napuhača, riba
@@ -1855,15 +2091,19 @@
 🐛	buba, insekt
 🐜	insekt, mrav
 🐝	insekt, pčela
+🪲	buba, insekt, tvrdokrilac
 🐞	buba, bubamara, insekt
 🦗	cvrčak, skakavac
+🪳	bubašvaba, insekt, štetočina, žohar
 🕷️	insekt, pauk
 🕸️	mreža, pauk, paukova mreža
 🦂	horoskopski znak, škorpija, škorpion
 🦟	bolest, groznica, insekt, komarac, malarija, virus
+🪰	bolest, larva, muha, truljenje, štetočina
+🪱	crv, glista, kišna glista, kišni crv, parazit, prstenasta glista, prstenasti crv
 🦠	ameba, bakterija, mikrob, virus
 💐	biljka, buket, cvijet
-🌸	behar, biljka, cvijet, cvijet višnje, trešna
+🌸	behar, biljka, cvijet, cvijet višnje
 💮	bijeli cvijet, cvijet
 🏵️	biljka, rozeta
 🌹	biljka, cvijet, ruža
@@ -1873,6 +2113,7 @@
 🌼	biljka, cvijet, procvjetati
 🌷	biljka, cvijet, tulipan
 🌱	biljka, rasad, sjeme
+🪴	beskorisno, biljka, biljka u saksiji, dosadno, kuća, raste, zalijevanje
 🌲	biljka, drvo, zimzelen
 🌳	bjelogorica, bjelogorično drvo, drvo, hrast, listopadno
 🌴	biljka, drvo, palma
@@ -1898,15 +2139,18 @@
 🍑	biljka, breskva, voće
 🍒	biljka, trešnja, trešnje, voće
 🍓	biljka, bobica, jagoda, voće
-🥝	hrana, kivi, kiwi, voće
+🫐	bobica, bobičasto voće, borovnica, borovnice, plavo
+🥝	hrana, kivi, voće
 🍅	biljka, paradajz, povrće
+🫒	hrana, maslina
 🥥	kokos, palma, pinja kolada
 🥑	avokado, hrana, voće
 🍆	biljka, patlidžan, plavi, povrće
 🥔	hrana, krompir, povrće
 🥕	hrana, mrkva, povrće
 🌽	biljka, klas, kukuruz
-🌶️	biljka, feferon, ljuta, ljuti feferon, paprika
+🌶️	feferon, ljuta paprika, ljuti feferon
+🫑	babura, paprika, paprika babura, povrće
 🥒	hrana, kiseli krastavac, krastavac, povrće
 🥬	kelj, kupus, lisnato povrće, zelena salata
 🥦	brokoli, divlji kupus
@@ -1917,7 +2161,8 @@
 🌰	biljka, kesten
 🍞	hljeb, štruca
 🥐	francusko, hljeb, hrana, kifla, kroasan
-🥖	baget, francuski hljeb, francusko, hljeb, hrana
+🥖	baget, francuski, francuski hljeb, hljeb, hrana
+🫓	hrskave lepinice, lepine, lepinica, lepinice, zemičke
 🥨	perec, savijeno
 🥯	pecivo, zemička, đevrek
 🥞	crepe, hrana, palačinke
@@ -1934,20 +2179,22 @@
 🥪	hljeb, sendvič
 🌮	meksička, tortilja
 🌯	burito, meksička
+🫔	meksička kuhinja, smotuljci, tamale
 🥙	falafel, giros, hrana, kebab, lepinja
 🧆	falafel, leblebije, okruglice od leblebija
 🥚	hrana, jaja, jaje
 🍳	jaje, kuhanje, pečenje, tava
 🥘	hrana, plitko, tava, tava s hranom, tepsija
 🍲	lonac, lonac hrane, paprikaš
+🫕	fondue, istopljeno, lonac, sir, čokolada, švicarska kuhinja
 🥣	doručak, zdjela s kašikom, žitarice
-🥗	hrana, salata, zelena salata, zeleno
+🥗	hrana, salata, zelena salata
 🍿	kokice
 🧈	mliječni proizvodi, puter
 🧂	slanik, so, začin
 🥫	konzerva, konzervirana hrana
 🍱	bento, bento kutija, kutija
-🍘	kreker, kreker od riže, riža
+🍘	kreker, kreker od riže
 🍙	japanska, kugla, kugla od riže, riža
 🍚	kuhana, kuhana riža, riža
 🍛	kari, kari riža, riža
@@ -1956,7 +2203,7 @@
 🍠	krompir, pečeni, slatki, slatki pečeni krompir
 🍢	kebab, oden, plodovi mora, ražnjić
 🍣	suši
-🍤	prženi škampi, prženo, škampi
+🍤	kozice, prženi škampi, prženo, tempura, škampi
 🍥	kolač, riba, riblji rolat, smotuljak, spirala
 🥮	festival, jesen, mjesečev kolač, yuebing
 🍡	dango, desert, japanski, slatko, štapić
@@ -1969,8 +2216,8 @@
 🦑	hrana, lignja, mekušac
 🦪	biser, kamenica, ronjenje, školjka
 🍦	desert, krema, led, sladoled, sladoled na točenje
-🍧	desert, havajski sladoled, led, obrijani, sladoled
-🍨	desert, krema, led, sladoled, slatko
+🍧	desert, havajski sladoled, led, sladoled
+🍨	desert, krema, sladoled, slatko
 🍩	desert, krofna, slatko
 🍪	desert, kolačić, slatko
 🎂	desert, rođendan, rođendanska torta, slavlje, torta
@@ -1985,6 +2232,7 @@
 🍼	beba, flašica, flašica za bebu, mlijeko, piće
 🥛	mlijeko, piće, čaša
 ☕️	kafa, napitak, para, topli napitak, toplo, čaj
+🫖	napitak, topli napitak, čaj, čajnik
 🍵	napitak, čaj, šolja, šolja za čaj, šolja za čaj bez drške
 🍶	boca, napitak, piće, sake, šolja
 🍾	boca, boca sa plutanim čepom koji iskače, piće, čep, šank
@@ -1996,12 +2244,13 @@
 🥂	kucnuti, piće, slavlje, uzdravlje, čaša
 🥃	piće, viski, čaša, čašica za žestoko piće, žestoko
 🥤	sok, čaša sa slamkom
+🧋	boba čaj, kuglice, mjehurići, mlijeko, čaj
 🧃	gusti sok u tetrapaku, sok u tetrapaku
 🧉	mate čaj, topli napitak
 🧊	kocka leda, ledeno
 🥢	haši, štapići
 🍽️	kuhanje, nož, tanjir, viljuška, viljuška i nož uz tanjir
-🍴	kuhanje, nož, viljuška, viljuška i nož
+🍴	escajg, kuhanje, nož, viljuška, viljuška i nož
 🥄	escajg, kašika
 🔪	alat, kuhanje, kuhinjski nož, nož, oružje
 🏺	amfora, horoskopski znak, kuhanje, piće, ćup
@@ -2009,7 +2258,7 @@
 🌎️	Amerika, Zemlja, globus prikazuje Sjevernu i Južnu Ameriku, svijet, zemaljska kugla
 🌏	Zemlja, globus, globus pokazuje Aziju i Australiju, svijet, zemaljska kugla
 🌐	Zemlja, globus sa meridijanima, meridijani, svijet, zemaljska kugla
-🗺️	karta, karta svijeta, svijet
+🗺️	karta, karta svijeta, mapa, svijet
 🗾	Japan, karta, karta Japana
 🧭	kompas, navigacija, orijentacija
 🏔️	hladan, planina, snijeg, sniježni planinski vrh
@@ -2025,6 +2274,9 @@
 🏛️	klasika, klasična zgrada, zgrada
 🏗️	građevina, zgrada
 🧱	cigla, cigle, glina, malter, zid
+🪨	gromada, kamen, stijena, teško, čvrsto
+🪵	cjepanica, drvo, greda, klada
+🛖	koliba, kuća, kuća od slame, slamnata kuća
 🏘️	kuća, kuće, zgrada
 🏚️	kuća, napuštena, napuštena kuća, zgrada
 🏠️	dom, kuća, zgrada
@@ -2092,6 +2344,7 @@
 🚗	auto, automobil, vozilo
 🚘️	auto, automobil, dolazeći automobil, vozilo
 🚙	džip, terenac, terensko, terensko vozilo, vozilo
+🛻	kamionet, pick-up, teretno vozilo
 🚚	dostava, dostavno vozilo, kamion, vozilo
 🚛	kamion, teret, teretni kamion, vozilo
 🚜	traktor, vozilo
@@ -2104,6 +2357,7 @@
 🚲️	biciklo, vozilo
 🛴	noga, romobil
 🛹	daska, skateboard
+🛼	roleri, rolšua, rolšue
 🚏	autobuska stanica, bus, stajalište, stanica
 🛣️	autoput, cesta
 🛤️	pruga, voz, željeznica
@@ -2220,7 +2474,7 @@
 🎆	proslava, vatromet, zabava
 🎇	proslava, prskalica, vatromet, zabava
 🧨	dinamit, eksploziv, petarda, vatromet
-✨	iskre, iskrice, zvjezdice
+✨	*, iskre, iskrice, zvjezdice
 🎈	balon, proslava, zabava
 🎉	proslava, pucanje i konfete, zabava
 🎊	konfete, proslava, zabava
@@ -2242,13 +2496,13 @@
 🥇	medalja, prva, prvi, prvo mjesto, zlato
 🥈	druga, drugi, drugo mjesto, medalja, srebro
 🥉	bronza, medalja, treća, treće mjesto, treći
-⚽️	fudbal, fudbalska lopta, lopta
+⚽️	fudbal, fudbalska lopta, lopta, nogomet
 ⚾️	bejzbol, lopta, sport
 🥎	lopta, loptica, pazuh, rukavica, softbol
 🏀	koš, košarka, lopta
 🏐	lopta, odbojka, sport
 🏈	američki, američki fudbal, fudbal, lopta, sport
-🏉	lopta, ragbi, sport
+🏉	američki fudbal, lopta, ragbi, sport
 🎾	loptica, reket, sport, tenis
 🥏	krajnji cilj, leteći disk
 🎳	igra, kugla, kuglanje, sport
@@ -2269,11 +2523,12 @@
 🎿	skijanje, skije, snijeg, sport
 🛷	sanke, spuštanje
 🥌	igra, kamen, kamen za karling
-🎯	cilj, igra, pikado, strjelica, tabla
+🎯	cilj, igra, pikado, strelica, tabla
 🪀	gibanje, igračka, yo-yo
 🪁	lebdjenje, letenje, zmaj od papira
 🎱	bilijar, igra, osmica, sport
 🔮	bajka, fantazija, gatanje, kristalna, kristalna kugla, kugla
+🪄	magija, vještica, čarobni štapić, čarobnjak
 🧿	Fatimino oko
 🎮️	igre, upravljač, video igre
 🕹️	džojstik, igre, video igre
@@ -2281,6 +2536,8 @@
 🎲	društvene igre, igre, kockica, kockica za igru
 🧩	dio, međusobno povezano, puzle, slagalica, trag
 🧸	igračka, medo, plišana
+🪅	party, pinjata, proslava, slavlje
+🪆	babuška, babuške, lutka, rusija
 ♠️	igra, karte, pik, znak
 ♥️	igra, karte, srce, znak
 ♦️	igra, karo, karte, znak
@@ -2293,7 +2550,9 @@
 🖼️	izvedba, maska, pozorište, umjetnost, uramljena slika
 🎨	muzej, paleta, slika, slikarska paleta, umjetnost
 🧵	igla, konac, šivanje, šivenje, šplulna
+🪡	igla, igla za šivenje, krojenje, vez, šav, šavovi, šivanje, šivenje
 🧶	hekleraj, klupko, pletivo, predivo
+🪢	kanap, konopac, uvrnuti, zamrsiti, zavezati, čvor
 👓️	asesoar, naočale, oči, predmet
 🕶️	asesoar, naočale, oči, predmet, sunčane naočale
 🥽	plivanje, zavarivanje, zaštita za oči, zaštitne naočale
@@ -2319,6 +2578,7 @@
 👝	neseser, odjevni predmet, torbica
 🛍️	kupovina, vrećica, vrećice za kupovinu, šoping
 🎒	ruksak, torba, škola
+🩴	japanke, papuče za plažu, sandale, sandale za plažu
 👞	cipela, muška cipela, muškarac, obuća
 👟	atletika, obuća, patika
 🥾	gojzerica, kampovanje, pješačenje, planinarenje, čizma
@@ -2332,6 +2592,7 @@
 🎩	asesoar, cilindar, šešir
 🎓️	asesoar, diploma, kapa, matura, maturska kapa
 🧢	kapa za bejzbol, kačket
+🪖	armija, kaciga, ratnik, vojna kaciga, vojnik, vojska
 ⛑️	krst, pomoć, prva pomoć, šljem, šljem s bijelim krstom
 📿	brojanica, molitva, perle, tespih
 💄	karmin, kozmetika, šminka
@@ -2343,27 +2604,29 @@
 🔊	jako, zvučnik glasno
 📢	glasno, razglas, zvučnik
 📣	megafon
-📯	pošta, poštanski rog, rog, sirena
+📯	pošta, poštanski rog, sirena
 🔔	zvono
 🔕	bez zvuka, nečujno, prekriženo zvono, utišano, zabranjeno
 🎼	muzika, note, notni zapis, partitura
 🎵	muzika, nota
 🎶	muzika, note
 🎙️	mikrofon, pjevanje, studijski mikrofon, studio
-🎚️	klizač, klizni potenciometar, muzika, nivo
-🎛️	dugmad, kontrola, muzika, potenciometar
+🎚️	klizač, klizni potenciometar, nivo
+🎛️	dugmad, kontrola, potenciometar
 🎤	mikrofon, pjevanje
 🎧️	bubice, slušalice
 📻️	radio, video
 🎷	instrument, muzika, saksofon
+🪗	harmonika, instrument, muzika
 🎸	gitara, instrument, muzika
 🎹	instrument, klavijature, klavir, muzika
 🎺	instrument, muzika, truba
 🎻	instrument, muzika, violina
 🪕	bendžo, muzika, žičani instrument
 🥁	bubanj, muzika, palice
+🪘	bubnjevi, kongo bubnjevi, kongo bubnjevo, ritam, udarac
 📱	mobilni, mobitel, telefon
-📲	mobilni, poziv, strjelica, strjelica pokazuje mobitel, telefon
+📲	mobilni, poziv, strelica, strelica pokazuje mobitel, strjelica pokazuje mobitel, telefon
 ☎️	telefon
 📞	slušalica, telefon
 📟️	pejdžer
@@ -2377,7 +2640,7 @@
 🖱️	miš, miš za računar, računar
 🖲️	kuglica za kretanje, računar, trackball
 💽	disk, minidisk, optički, računar
-💾	disk, disketa, floppy, računar
+💾	disk, disketa, floppy
 💿️	blu-ray, cd, disk, optički, računar
 📀	blu-ray, disk, dvd, optički, računar
 🧮	računaljka, računanje
@@ -2400,9 +2663,9 @@
 📔	knjiga, korice, sveska, sveska sa ukrasnim koricama, ukrasne
 📕	knjiga, zatvorena, zatvorena knjiga
 📖	knjiga, otvorena, otvorena knjiga
-📗	knjiga, zelena knjiga, zeleno
-📘	knjiga, plava knjiga, plavo
-📙	knjiga, narandžasta knjiga, narandžasto
+📗	knjiga, zelena knjiga
+📘	knjiga, plava knjiga
+📙	knjiga, narandžasta knjiga
 📚️	knjiga, knjige
 📓	sveska
 📒	rokovnik
@@ -2411,20 +2674,19 @@
 📄	dokument, stranica, stranica okrenuta prema gore
 📰	novine, novosti, papir
 🗞	novine, novosti, papir, smotane novine, smotano
-📑	bukmark, knjiga, marker, markeri za knjige, oznaka
+📑	bukmark, marker, markeri za knjige, oznaka
 🔖	marker, oznaka
 🏷️	etiketa
 💰️	dolar, novac, vreća, vreća novca
+🪙	blago, metal, novac, novčić, srebro, zlato
 💴	jen, novac, novčanica, novčanica jena, valuta
 💵	dolar, novac, novčanica, novčanica dolara, valuta
 💶	euro, novac, novčanica, novčanica eura, valuta
 💷	funta, novac, novčanica, novčanica funte, valuta
 💸	dolar, krila, novac, novac sa krilima, novčanica
-💳️	banka, kartica, kredit, kreditna kartica, pare
+💳️	kartica, kredit, kreditna kartica, pare
 🧾	evidencija, izvod, knjigovodstvo, račun, računovodstvo
 💹	grafikon sa jenom koji prikazuje rast, jen, prikaz rasta, trend, valuta
-💱	banka, mjenjačnica, novac, pare, valuta
-💲	dolar, pare, podebljani znak dolara, valuta
 ✉️	e-mail, e-pošta, koverta, pošta
 📧	e-pošta, email, pošta
 📨	e-mail, e-poruka, e-pošta, pismo, pristigla koverta, pristigla pošta
@@ -2440,7 +2702,7 @@
 🗳️	glasačka, glasačka kutija sa glasačkim listićem, kutija
 ✏️	olovka
 ✒️	crno pero, olovka, pero
-🖋️	naliv, nalivpero, pero
+🖋️	nalivpero, pero
 🖊️	hemijska, olovka
 🖌️	crtanje, farbanje, četka, četkica
 🖍️	voštana, voštana olovka
@@ -2448,12 +2710,12 @@
 💼	aktovka
 📁	fajl, fascikla
 📂	fajl, fascikla, otvorena fascikla, otvoreno
-🗂️	dokumenti, fascikla, fascikla s odjeljcima, odjeljci
+🗂️	dokumenti, fascikla s odjeljcima, odjeljci
 📅	datum, kalendar
 📆	kalendar, kalendar na kidanje
 🗒️	blokčić, notes, spiralni blokčić, spiralni uvez
-🗓️	kalendar, spiralni kalendar, spiralni uvez
-📇	rotirajući stalak za vizit kartice, stalak, vizit kartica, vizitka
+🗓️	kalendar, spiralni kalendar
+📇	rotirajući stalak za vizit kartice, vizit kartica, vizitka
 📈	dijagram, dijagram rasta, grafikon, rast
 📉	dijagram, dijagram opadanja, grafikon, opadanje
 📊	dijagram, grafikon, stupčasti grafikon
@@ -2465,7 +2727,7 @@
 📏	lenjir, linijar
 📐	lenjir, linijar, trokut, trokutasti linijar, trougao
 ✂️	makaze, pribor
-🗃️	fascikle, kartonska kutija za fascikle, kutija
+🗃️	fascikle, kartonska kutija za fascikle
 🗄️	fascikle, kartoteka, ormar
 🗑️	korpa za otpatke
 🔒️	katanac, zaključano
@@ -2473,7 +2735,7 @@
 🔏	katanac, katanac s olovkom, katanac sa olovkom, naliv pero, privatnost, tinta
 🔐	katanac, ključ, sigurno, zatvoren, zatvoren katanac sa ključem
 🔑	ključ, lozinka, zaključan, šifra
-🗝️	katanac, ključ, star, stari ključ, trag
+🗝️	katanac, ključ, stari ključ, trag
 🔨	alat, čekić
 🪓	cijepati, drvo, sjekira, sjeći
 ⛏️	alat, krampa, rudarstvo
@@ -2482,9 +2744,12 @@
 🗡️	bodež, nož, oružje
 ⚔️	mačevi, oružje, ukršteni, ukršteni mačevi
 🔫	alat, oružje, pištolj, revolver
+🪃	australija, bumerang, reperkusija, vraćanje
 🏹	luk, luk i strijela, strijela, strijelac, zodijak
 🛡️	oružje, štit
+🪚	alat, drvena građa, pila, stolar, stolaraska pila
 🔧	alat, ključ viljuškasti
+🪛	alat, šrafciger
 🔩	alat, matica, vijak, šaraf, šaraf i matica
 ⚙️	alat, zupčanik
 🗜️	alat, kompresija, stega
@@ -2492,8 +2757,10 @@
 🦯	pomagalo, slijepi, štap za slabovidne i slijepe
 🔗	karika
 ⛓️	lanac, lanci
+🪝	hvatanje, udica, uhvatiti u zamku, ulov, uloviti, upecati
 🧰	alat, kofer, kutija za alat, mehaničar
 🧲	magnet, magnetski, potkovica, privlačenje
+🪜	ljestve, lotre, merdevine, penjanje
 ⚗️	alat, alembik, hemija
 🧪	eksperiment, epruveta, hemija, hemičar, laboratorija, nauka
 🧫	bakterija, biolog, biologija, kultura, laboratorija, petri jelo
@@ -2507,26 +2774,35 @@
 🩹	adhezivni flaster, flaster
 🩺	doktor, medicina, srce, stetoskop
 🚪	vrata
+🛗	dizanje, elevator, lift, pomagalo
+🪞	metalno ogledalo, odraz, ogledalo
+🪟	okvir, otvaranje, pogled, prozor, svjež zrak, transparentno
 🛏️	hotel, krevet, spavanje
 🛋️	hotel, kauč, kauč i lampa, lampa
 🪑	sjedalo, sjediti, stolica
 🚽	toalet, wc, wc šolja
+🪠	kupatilo, odčepljivanje odvoda, odčepljivač odvoda, pumpa za odčepljivanje odvoda, toalet
 🚿	tuš, voda
 🛁	kada, kupanje
+🪤	klopka, klopka za miševe, mamac, zamka, zamka za miševe
 🪒	brijač, oštrica, čakija
 🧴	losion, ovlaživač, zaštitni faktor, šampon
 🧷	bašlija, punk rock
 🧹	metenje, metla, vještica, čišćenje
 🧺	korpa, piknik, poljoprivreda, veš
 🧻	papirni ubrusi, toalet papir
+🪣	bure, kaca, kanta, kofa
 🧼	kupanje, pranje, sapun, sapunica, čišćenje
+🪥	dentalna higijena, kupatilo, oralna higijena, zubi, četkica, četkica za zube, čiščenje
 🧽	porozno, spužva, upijanje, čišćenje
 🧯	aparat za gašenje požara, gašenje, požar, vatra
 🛒	kolica, kupovina, supermarket, šoping
 🚬	pušenje
 ⚰️	smrt, tabut
+🪦	grob, groblje, mezar, mezarje, nadgrobni spomenik
 ⚱️	sahrana, smrt, urna
 🗿	kamena, lice, moai, skulptura, statua
+🪧	demonstracije, natpis, plakat, protest, znak
 🏧	banka, bankomat, blagajna, oznaka bankomata, znak
 🚮	kanta, otpaci, smeće, znak za odlaganje otpada
 🚰	pitka, pitka voda, piće, voda
@@ -2553,13 +2829,13 @@
 🔞	18, maloljetan, ne, osamnaest, zabranjen pristup maloljetnima
 ☢️	radioaktivno, znak
 ☣️	biološka, biološka opasnost, opasnost, znak
-⬆️	sjever, smjer, strjelica, strjelica gore
+⬆️	sjever, smjer, strelica, strelica nagore
 ↗️	sjeveroistok, smjer, strjelica, strjelica gore-desno
-➡️	istok, smjer, strjelica, strjelica desno
+➡️	istok, smjer, strelica, strelica nadesno
 ↘️	jugoistok, smjer, strjelica, strjelica dolje-desno
-⬇️	jug, smjer, strjelica, strjelica dolje
+⬇️	jug, smjer, strelica, strelica nadolje
 ↙️	jugozapad, smjer, strjelica, strjelica dolje-lijevo
-⬅️	smjer, strjelica, strjelica lijevo, zapad
+⬅️	smjer, strelica, strelica nalijevo, zapad
 ↖️	sjeverozapad, smjer, strjelica, strjelica gore-lijevo
 ↕️	strjelica, strjelica gore-dolje
 ↔️	strjelica, strjelica lijevo-desno
@@ -2625,29 +2901,12 @@
 📴	isključen, mobilni isključen, mobitel, telefon
 ♀️	žena, žensko
 ♂️	muškarac, muško
-⚕️	aesculapius, medicina, medicinski simbol, osoblje
-♾️	beskonačno, neograničeno, univerzalno
-♻️	reciklaža, simbol za reciklažu
-⚜	ljiljan
-🔱	brod, emblem, sidro, trozubac, trozubac amblem
-📛	ime, značka, značka za ime
-🔰	japanski, japanski simbol za početnike, list, početnik, zeleno-žuto
-⭕️	krug, o, podebljani veliki krug
-✅	kvačica, oznaka, podebljana bijela kvačica
-☑️	glasačka, glasačka kutija za ispunjene listiće, kutija, kvačica
-✔️	kvačica, oznaka, podebljana kvačica
-✖️	otkaži, podebljan križić, prekriži, puta, umnoži, x
-❌	križić, otkaži, oznaka prekriženo, puta, umnoži
-❎	dugme križić, kvadratić, oznaka
-➕	matematika, plus, podebljani znak plus
-➖	matematika, minus, podebljani znak minus
-➗	dijeljenje, matematika, podebljani znak dijeljenja
-➰	petlja, rotor, uvrnuta petlja
-➿	dupla, dupla uvrnuta petlja, petlja, rotor
-〽️	dio, oznaka, oznaka djelimične alteracije
-✳️	asterisk
-✴️	zvjezdica
-❇️	iskra
+⚧️	simbol transrodnih osoba, transrodna osoba
+✖️	križić, množenje, otkaži, x, znak množenja
+➕	+, matematika, plus, znak plus
+➖	-, matematika, minus, znak minus, −
+➗	dijeljenje, matematika, znak dijeljenja, ÷
+♾️	beskonačno, beskonačnost, neograničeno, univerzalno
 ‼️	bum bum, dupli uzvičnik, interpunkcija, oznaka, uzvik
 ⁉️	interpunkcija, upit, uzvik, uzvičnik upitnik, čuđenje
 ❓️	interpunkcija, oznaka, pitanje, upitnik
@@ -2655,6 +2914,26 @@
 ❕	bijeli uzvičnik, interpunkcija, ocrtano, oznaka, uzvik
 ❗️	interpunkcija, oznaka, uzvik, uzvičnik
 〰️	crtice, interpunkcija, talas, talasasta crta
+💱	banka, mjenjačnica, novac, pare, valuta
+💲	dolar, pare, podebljani znak dolara, valuta
+⚕️	aesculapius, medicina, medicinski simbol, osoblje
+♻️	reciklaža, simbol za reciklažu
+⚜	ljiljan
+🔱	brod, emblem, sidro, trozubac, trozubac amblem
+📛	ime, značka, značka za ime
+🔰	japanski, japanski simbol za početnike, list, početnik, zeleno-žuto
+⭕️	crvena, krug, o, podebljani veliki krug
+✅	kvačica, oznaka, podebljana bijela kvačica, potvrđivanje, ✓
+☑️	kvačica, polje za potvrdu, polje za potvrdu s kvačicom, ✓
+✔️	kvačica, oznaka, ✓
+❌	križić, otkaži, oznaka prekriženo, puta, umnoži
+❎	dugme križić, kvadratić, oznaka
+➰	petlja, rotor, uvrnuta petlja
+➿	dupla, dupla uvrnuta petlja, petlja, rotor
+〽️	dio, oznaka, oznaka djelimične alteracije
+✳️	*, osmerokraka zvjezdica, zvjezdica
+✴️	*, osmerokraka zvijezda, zvijezda
+❇️	*, iskra
 ©️	autorska prava, autorsko pravo
 ®️	registracija, registriran
 ™️	oznaka, tm, zaštitni znak
@@ -2750,6 +3029,7 @@
 🏴	crna zastava, mahanje
 🏳️	bijela zastava, mahanje
 🏳‍🌈	duga, zastava, zastava duginih boja
+🏳‍⚧	bijela, roze, svijetloplava, transrodnost, zastava pokreta transrodnih osoba
 🏴‍☠	blago, jolly roger, pirati, piratska zastava, pljačka
 🇦🇨	Zastava, Zastava: Ostrvo Ascension
 🇦🇩	Zastava, Zastava: Andora
@@ -2832,7 +3112,7 @@
 🇫🇴	Zastava, Zastava: Farska ostrva
 🇫🇷	Zastava, Zastava: Francuska
 🇬🇦	Zastava, Zastava: Gabon
-🇬🇧	Zastava, Zastava: Velika Britanija
+🇬🇧	Zastava, Zastava: Ujedinjeno Kraljevstvo
 🇬🇩	Zastava, Zastava: Grenada
 🇬🇪	Zastava, Zastava: Gruzija
 🇬🇫	Zastava, Zastava: Francuska Gvajana
@@ -2900,7 +3180,7 @@
 🇲🇫	Zastava, Zastava: Sveti Martin
 🇲🇬	Zastava, Zastava: Madagaskar
 🇲🇭	Zastava, Zastava: Maršalova ostrva
-🇲🇰	Zastava, Zastava: Makedonija
+🇲🇰	Zastava, Zastava: Sjeverna Makedonija
 🇲🇱	Zastava, Zastava: Mali
 🇲🇲	Zastava, Zastava: Mjanmar
 🇲🇳	Zastava, Zastava: Mongolija
@@ -2969,7 +3249,7 @@
 🇸🇻	Zastava, Zastava: Salvador
 🇸🇽	Zastava, Zastava: Sint Marten
 🇸🇾	Zastava, Zastava: Sirija
-🇸🇿	Zastava, Zastava: Svazilend
+🇸🇿	Zastava, Zastava: Esvatini
 🇹🇦	Zastava, Zastava: Tristan da Cunha
 🇹🇨	Zastava, Zastava: Ostrva Turks i Kaikos
 🇹🇩	Zastava, Zastava: Čad
@@ -2991,7 +3271,7 @@
 🇺🇬	Zastava, Zastava: Uganda
 🇺🇲	Zastava, Zastava: Američka Vanjska Ostrva
 🇺🇳	Zastava, Zastava: Ujedinjene Nacije
-🇺🇸	Zastava, Zastava: Sjedinjene Američke Države
+🇺🇸	Zastava, Zastava: Sjedinjene Države
 🇺🇾	Zastava, Zastava: Urugvaj
 🇺🇿	Zastava, Zastava: Uzbekistan
 🇻🇦	Zastava, Zastava: Vatikan
@@ -3011,7 +3291,7 @@
 🇿🇼	Zastava, Zastava: Zimbabve
 🏴󠁧󠁢󠁥󠁮󠁧󠁿	Zastava, Zastava: Engleska
 🏴󠁧󠁢󠁳󠁣󠁴󠁿	Zastava, Zastava: Škotska
-🏴󠁧󠁢󠁷󠁬󠁳󠁿	Zastava, Zastava: Wales
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	Zastava, Zastava: Vels
 🏻	boja kože, svijetla boja kože, tip 1–2
 🏼	boja kože, tip 3, umjereno svijetla boja kože
 🏽	boja kože, tip 4, umjerena boja kože

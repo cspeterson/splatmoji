@@ -19,6 +19,7 @@
 ☺️	face, outlined, relaxed, smile, smiling face
 😚	closed, eye, face, kiss, kissing face with closed eyes
 😙	eye, face, kiss, kissing face with smiling eyes, smile
+🥲	grateful, proud, relieved, smiling, smiling face with tear, tear, touched
 😋	delicious, face, face savoring food, savouring, smile, yum
 😛	face, face with tongue, tongue
 😜	eye, face, joke, tongue, wink, winking face with tongue
@@ -54,9 +55,10 @@
 🥶	blue-faced, cold, cold face, freezing, frostbite, icicles
 🥴	dizzy, intoxicated, tipsy, uneven eyes, wavy mouth, woozy face
 😵	dizzy, dizzy face, face
-🤯	exploding head, shocked
+🤯	exploding head, mind blown, shocked
 🤠	cowboy, cowboy hat face, cowgirl, face, hat
 🥳	celebration, hat, horn, party, partying face
+🥸	disguise, disguised face, face, glasses, incognito, nose
 😎	bright, cool, face, smiling face with sunglasses, sun, sunglasses
 🤓	face, geek, nerd, nerd face
 🧐	face with monocle, stuffy
@@ -183,6 +185,12 @@
 👌🏽	OK, OK hand: medium skin tone, hand, medium skin tone
 👌🏾	OK, OK hand: medium-dark skin tone, hand, medium-dark skin tone
 👌🏿	OK, OK hand: dark skin tone, dark skin tone, hand
+🤌	fingers, hand gesture, interrogation, pinched, pinched fingers, sarcastic
+🤌🏻	fingers, hand gesture, interrogation, light skin tone, pinched, pinched fingers: light skin tone, sarcastic
+🤌🏼	fingers, hand gesture, interrogation, medium-light skin tone, pinched, pinched fingers: medium-light skin tone, sarcastic
+🤌🏽	fingers, hand gesture, interrogation, medium skin tone, pinched, pinched fingers: medium skin tone, sarcastic
+🤌🏾	fingers, hand gesture, interrogation, medium-dark skin tone, pinched, pinched fingers: medium-dark skin tone, sarcastic
+🤌🏿	dark skin tone, fingers, hand gesture, interrogation, pinched, pinched fingers: dark skin tone, sarcastic
 🤏	pinching hand, small amount
 🤏🏻	light skin tone, pinching hand, pinching hand: light skin tone, small amount
 🤏🏼	medium-light skin tone, pinching hand, pinching hand: medium-light skin tone, small amount
@@ -379,6 +387,8 @@
 👃🏾	body, medium-dark skin tone, nose, nose: medium-dark skin tone
 👃🏿	body, dark skin tone, nose, nose: dark skin tone
 🧠	brain, intelligent
+🫀	anatomical, anatomical heart, cardiology, heart, organ, pulse
+🫁	breath, exhalation, inhalation, lungs, organ, respiration
 🦷	dentist, tooth
 🦴	bone, skeleton
 👀	eye, eyes, face
@@ -421,6 +431,30 @@
 👱🏽	blond, blond-haired person, hair, medium skin tone, person: blond hair, person: medium skin tone, blond hair
 👱🏾	blond, blond-haired person, hair, medium-dark skin tone, person: blond hair, person: medium-dark skin tone, blond hair
 👱🏿	blond, blond-haired person, dark skin tone, hair, person: blond hair, person: dark skin tone, blond hair
+🧑‍🦰	adult, gender-neutral, person, person: red hair, red hair, unspecified gender
+🧑🏻‍🦰	adult, gender-neutral, light skin tone, person, person: light skin tone, red hair, red hair, unspecified gender
+🧑🏼‍🦰	adult, gender-neutral, medium-light skin tone, person, person: medium-light skin tone, red hair, red hair, unspecified gender
+🧑🏽‍🦰	adult, gender-neutral, medium skin tone, person, person: medium skin tone, red hair, red hair, unspecified gender
+🧑🏾‍🦰	adult, gender-neutral, medium-dark skin tone, person, person: medium-dark skin tone, red hair, red hair, unspecified gender
+🧑🏿‍🦰	adult, dark skin tone, gender-neutral, person, person: dark skin tone, red hair, red hair, unspecified gender
+🧑‍🦱	adult, curly hair, gender-neutral, person, person: curly hair, unspecified gender
+🧑🏻‍🦱	adult, curly hair, gender-neutral, light skin tone, person, person: light skin tone, curly hair, unspecified gender
+🧑🏼‍🦱	adult, curly hair, gender-neutral, medium-light skin tone, person, person: medium-light skin tone, curly hair, unspecified gender
+🧑🏽‍🦱	adult, curly hair, gender-neutral, medium skin tone, person, person: medium skin tone, curly hair, unspecified gender
+🧑🏾‍🦱	adult, curly hair, gender-neutral, medium-dark skin tone, person, person: medium-dark skin tone, curly hair, unspecified gender
+🧑🏿‍🦱	adult, curly hair, dark skin tone, gender-neutral, person, person: dark skin tone, curly hair, unspecified gender
+🧑‍🦳	adult, gender-neutral, person, person: white hair, unspecified gender, white hair
+🧑🏻‍🦳	adult, gender-neutral, light skin tone, person, person: light skin tone, white hair, unspecified gender, white hair
+🧑🏼‍🦳	adult, gender-neutral, medium-light skin tone, person, person: medium-light skin tone, white hair, unspecified gender, white hair
+🧑🏽‍🦳	adult, gender-neutral, medium skin tone, person, person: medium skin tone, white hair, unspecified gender, white hair
+🧑🏾‍🦳	adult, gender-neutral, medium-dark skin tone, person, person: medium-dark skin tone, white hair, unspecified gender, white hair
+🧑🏿‍🦳	adult, dark skin tone, gender-neutral, person, person: dark skin tone, white hair, unspecified gender, white hair
+🧑‍🦲	adult, bald, gender-neutral, person, person: bald, unspecified gender
+🧑🏻‍🦲	adult, bald, gender-neutral, light skin tone, person, person: light skin tone, bald, unspecified gender
+🧑🏼‍🦲	adult, bald, gender-neutral, medium-light skin tone, person, person: medium-light skin tone, bald, unspecified gender
+🧑🏽‍🦲	adult, bald, gender-neutral, medium skin tone, person, person: medium skin tone, bald, unspecified gender
+🧑🏾‍🦲	adult, bald, gender-neutral, medium-dark skin tone, person, person: medium-dark skin tone, bald, unspecified gender
+🧑🏿‍🦲	adult, bald, dark skin tone, gender-neutral, person, person: dark skin tone, bald, unspecified gender
 👨	adult, man
 👨🏻	adult, light skin tone, man, man: light skin tone
 👨🏼	adult, man, man: medium-light skin tone, medium-light skin tone
@@ -697,6 +731,12 @@
 🤷🏽‍♀	doubt, ignorance, indifference, medium skin tone, shrug, woman, woman shrugging, woman shrugging: medium skin tone
 🤷🏾‍♀	doubt, ignorance, indifference, medium-dark skin tone, shrug, woman, woman shrugging, woman shrugging: medium-dark skin tone
 🤷🏿‍♀	dark skin tone, doubt, ignorance, indifference, shrug, woman, woman shrugging, woman shrugging: dark skin tone
+🧑‍⚕	doctor, health worker, healthcare, nurse, therapist
+🧑🏻‍⚕	doctor, health worker, health worker: light skin tone, healthcare, light skin tone, nurse, therapist
+🧑🏼‍⚕	doctor, health worker, health worker: medium-light skin tone, healthcare, medium-light skin tone, nurse, therapist
+🧑🏽‍⚕	doctor, health worker, health worker: medium skin tone, healthcare, medium skin tone, nurse, therapist
+🧑🏾‍⚕	doctor, health worker, health worker: medium-dark skin tone, healthcare, medium-dark skin tone, nurse, therapist
+🧑🏿‍⚕	dark skin tone, doctor, health worker, health worker: dark skin tone, healthcare, nurse, therapist
 👨‍⚕	doctor, healthcare, man, man health worker, nurse, therapist
 👨🏻‍⚕	doctor, healthcare, light skin tone, man, man health worker, man health worker: light skin tone, nurse, therapist
 👨🏼‍⚕	doctor, healthcare, man, man health worker, man health worker: medium-light skin tone, medium-light skin tone, nurse, therapist
@@ -709,6 +749,12 @@
 👩🏽‍⚕	doctor, healthcare, medium skin tone, nurse, therapist, woman, woman health worker, woman health worker: medium skin tone
 👩🏾‍⚕	doctor, healthcare, medium-dark skin tone, nurse, therapist, woman, woman health worker, woman health worker: medium-dark skin tone
 👩🏿‍⚕	dark skin tone, doctor, healthcare, nurse, therapist, woman, woman health worker, woman health worker: dark skin tone
+🧑‍🎓	graduate, student
+🧑🏻‍🎓	graduate, light skin tone, student, student: light skin tone
+🧑🏼‍🎓	graduate, medium-light skin tone, student, student: medium-light skin tone
+🧑🏽‍🎓	graduate, medium skin tone, student, student: medium skin tone
+🧑🏾‍🎓	graduate, medium-dark skin tone, student, student: medium-dark skin tone
+🧑🏿‍🎓	dark skin tone, graduate, student, student: dark skin tone
 👨‍🎓	graduate, man, man student, student
 👨🏻‍🎓	graduate, light skin tone, man, man student: light skin tone, student
 👨🏼‍🎓	graduate, man, man student: medium-light skin tone, medium-light skin tone, student
@@ -721,6 +767,12 @@
 👩🏽‍🎓	graduate, medium skin tone, student, woman, woman student: medium skin tone
 👩🏾‍🎓	graduate, medium-dark skin tone, student, woman, woman student: medium-dark skin tone
 👩🏿‍🎓	dark skin tone, graduate, student, woman, woman student: dark skin tone
+🧑‍🏫	instructor, professor, teacher
+🧑🏻‍🏫	instructor, light skin tone, professor, teacher, teacher: light skin tone
+🧑🏼‍🏫	instructor, medium-light skin tone, professor, teacher, teacher: medium-light skin tone
+🧑🏽‍🏫	instructor, medium skin tone, professor, teacher, teacher: medium skin tone
+🧑🏾‍🏫	instructor, medium-dark skin tone, professor, teacher, teacher: medium-dark skin tone
+🧑🏿‍🏫	dark skin tone, instructor, professor, teacher, teacher: dark skin tone
 👨‍🏫	instructor, man, man teacher, professor, teacher
 👨🏻‍🏫	instructor, light skin tone, man, man teacher: light skin tone, professor, teacher
 👨🏼‍🏫	instructor, man, man teacher: medium-light skin tone, medium-light skin tone, professor, teacher
@@ -733,6 +785,12 @@
 👩🏽‍🏫	instructor, medium skin tone, professor, teacher, woman, woman teacher: medium skin tone
 👩🏾‍🏫	instructor, medium-dark skin tone, professor, teacher, woman, woman teacher: medium-dark skin tone
 👩🏿‍🏫	dark skin tone, instructor, professor, teacher, woman, woman teacher: dark skin tone
+🧑‍⚖	judge, scales
+🧑🏻‍⚖	judge, judge: light skin tone, light skin tone, scales
+🧑🏼‍⚖	judge, judge: medium-light skin tone, medium-light skin tone, scales
+🧑🏽‍⚖	judge, judge: medium skin tone, medium skin tone, scales
+🧑🏾‍⚖	judge, judge: medium-dark skin tone, medium-dark skin tone, scales
+🧑🏿‍⚖	dark skin tone, judge, judge: dark skin tone, scales
 👨‍⚖	justice, man, man judge, scales
 👨🏻‍⚖	justice, light skin tone, man, man judge, man judge: light skin tone, scales
 👨🏼‍⚖	justice, man, man judge, man judge: medium-light skin tone, medium-light skin tone, scales
@@ -745,6 +803,12 @@
 👩🏽‍⚖	judge, medium skin tone, scales, woman, woman judge: medium skin tone
 👩🏾‍⚖	judge, medium-dark skin tone, scales, woman, woman judge: medium-dark skin tone
 👩🏿‍⚖	dark skin tone, judge, scales, woman, woman judge: dark skin tone
+🧑‍🌾	farmer, gardener, rancher
+🧑🏻‍🌾	farmer, farmer: light skin tone, gardener, light skin tone, rancher
+🧑🏼‍🌾	farmer, farmer: medium-light skin tone, gardener, medium-light skin tone, rancher
+🧑🏽‍🌾	farmer, farmer: medium skin tone, gardener, medium skin tone, rancher
+🧑🏾‍🌾	farmer, farmer: medium-dark skin tone, gardener, medium-dark skin tone, rancher
+🧑🏿‍🌾	dark skin tone, farmer, farmer: dark skin tone, gardener, rancher
 👨‍🌾	farmer, gardener, man, man farmer, rancher
 👨🏻‍🌾	farmer, gardener, light skin tone, man, man farmer: light skin tone, rancher
 👨🏼‍🌾	farmer, gardener, man, man farmer: medium-light skin tone, medium-light skin tone, rancher
@@ -757,6 +821,12 @@
 👩🏽‍🌾	farmer, gardener, medium skin tone, rancher, woman, woman farmer: medium skin tone
 👩🏾‍🌾	farmer, gardener, medium-dark skin tone, rancher, woman, woman farmer: medium-dark skin tone
 👩🏿‍🌾	dark skin tone, farmer, gardener, rancher, woman, woman farmer: dark skin tone
+🧑‍🍳	chef, cook
+🧑🏻‍🍳	chef, cook, cook: light skin tone, light skin tone
+🧑🏼‍🍳	chef, cook, cook: medium-light skin tone, medium-light skin tone
+🧑🏽‍🍳	chef, cook, cook: medium skin tone, medium skin tone
+🧑🏾‍🍳	chef, cook, cook: medium-dark skin tone, medium-dark skin tone
+🧑🏿‍🍳	chef, cook, cook: dark skin tone, dark skin tone
 👨‍🍳	chef, cook, man, man cook
 👨🏻‍🍳	chef, cook, light skin tone, man, man cook: light skin tone
 👨🏼‍🍳	chef, cook, man, man cook: medium-light skin tone, medium-light skin tone
@@ -769,6 +839,12 @@
 👩🏽‍🍳	chef, cook, medium skin tone, woman, woman cook: medium skin tone
 👩🏾‍🍳	chef, cook, medium-dark skin tone, woman, woman cook: medium-dark skin tone
 👩🏿‍🍳	chef, cook, dark skin tone, woman, woman cook: dark skin tone
+🧑‍🔧	electrician, mechanic, plumber, tradesperson
+🧑🏻‍🔧	electrician, light skin tone, mechanic, mechanic: light skin tone, plumber, tradesperson
+🧑🏼‍🔧	electrician, mechanic, mechanic: medium-light skin tone, medium-light skin tone, plumber, tradesperson
+🧑🏽‍🔧	electrician, mechanic, mechanic: medium skin tone, medium skin tone, plumber, tradesperson
+🧑🏾‍🔧	electrician, mechanic, mechanic: medium-dark skin tone, medium-dark skin tone, plumber, tradesperson
+🧑🏿‍🔧	dark skin tone, electrician, mechanic, mechanic: dark skin tone, plumber, tradesperson
 👨‍🔧	electrician, man, man mechanic, mechanic, plumber, tradesperson
 👨🏻‍🔧	electrician, light skin tone, man, man mechanic: light skin tone, mechanic, plumber, tradesperson
 👨🏼‍🔧	electrician, man, man mechanic: medium-light skin tone, mechanic, medium-light skin tone, plumber, tradesperson
@@ -781,6 +857,12 @@
 👩🏽‍🔧	electrician, mechanic, medium skin tone, plumber, tradesperson, woman, woman mechanic: medium skin tone
 👩🏾‍🔧	electrician, mechanic, medium-dark skin tone, plumber, tradesperson, woman, woman mechanic: medium-dark skin tone
 👩🏿‍🔧	dark skin tone, electrician, mechanic, plumber, tradesperson, woman, woman mechanic: dark skin tone
+🧑‍🏭	assembly, factory, factory worker, industrial, worker
+🧑🏻‍🏭	assembly, factory, factory worker: light skin tone, industrial, light skin tone, worker
+🧑🏼‍🏭	assembly, factory, factory worker: medium-light skin tone, industrial, medium-light skin tone, worker
+🧑🏽‍🏭	assembly, factory, factory worker: medium skin tone, industrial, medium skin tone, worker
+🧑🏾‍🏭	assembly, factory, factory worker: medium-dark skin tone, industrial, medium-dark skin tone, worker
+🧑🏿‍🏭	assembly, dark skin tone, factory, factory worker: dark skin tone, industrial, worker
 👨‍🏭	assembly, factory, industrial, man, man factory worker, worker
 👨🏻‍🏭	assembly, factory, industrial, light skin tone, man, man factory worker: light skin tone, worker
 👨🏼‍🏭	assembly, factory, industrial, man, man factory worker: medium-light skin tone, medium-light skin tone, worker
@@ -793,6 +875,12 @@
 👩🏽‍🏭	assembly, factory, industrial, medium skin tone, woman, woman factory worker: medium skin tone, worker
 👩🏾‍🏭	assembly, factory, industrial, medium-dark skin tone, woman, woman factory worker: medium-dark skin tone, worker
 👩🏿‍🏭	assembly, dark skin tone, factory, industrial, woman, woman factory worker: dark skin tone, worker
+🧑‍💼	architect, business, manager, office worker, white-collar
+🧑🏻‍💼	architect, business, light skin tone, manager, office worker, office worker: light skin tone, white-collar
+🧑🏼‍💼	architect, business, manager, medium-light skin tone, office worker, office worker: medium-light skin tone, white-collar
+🧑🏽‍💼	architect, business, manager, medium skin tone, office worker, office worker: medium skin tone, white-collar
+🧑🏾‍💼	architect, business, manager, medium-dark skin tone, office worker, office worker: medium-dark skin tone, white-collar
+🧑🏿‍💼	architect, business, dark skin tone, manager, office worker, office worker: dark skin tone, white-collar
 👨‍💼	architect, business, man, man office worker, manager, white-collar
 👨🏻‍💼	architect, business, light skin tone, man, man office worker, man office worker: light skin tone, manager, white-collar
 👨🏼‍💼	architect, business, man, man office worker, man office worker: medium-light skin tone, manager, medium-light skin tone, white-collar
@@ -805,6 +893,12 @@
 👩🏽‍💼	architect, business, manager, medium skin tone, white-collar, woman, woman office worker, woman office worker: medium skin tone
 👩🏾‍💼	architect, business, manager, medium-dark skin tone, white-collar, woman, woman office worker, woman office worker: medium-dark skin tone
 👩🏿‍💼	architect, business, dark skin tone, manager, white-collar, woman, woman office worker, woman office worker: dark skin tone
+🧑‍🔬	biologist, chemist, engineer, physicist, scientist
+🧑🏻‍🔬	biologist, chemist, engineer, light skin tone, physicist, scientist, scientist: light skin tone
+🧑🏼‍🔬	biologist, chemist, engineer, medium-light skin tone, physicist, scientist, scientist: medium-light skin tone
+🧑🏽‍🔬	biologist, chemist, engineer, medium skin tone, physicist, scientist, scientist: medium skin tone
+🧑🏾‍🔬	biologist, chemist, engineer, medium-dark skin tone, physicist, scientist, scientist: medium-dark skin tone
+🧑🏿‍🔬	biologist, chemist, dark skin tone, engineer, physicist, scientist, scientist: dark skin tone
 👨‍🔬	biologist, chemist, engineer, man, man scientist, physicist, scientist
 👨🏻‍🔬	biologist, chemist, engineer, light skin tone, man, man scientist: light skin tone, physicist, scientist
 👨🏼‍🔬	biologist, chemist, engineer, man, man scientist: medium-light skin tone, medium-light skin tone, physicist, scientist
@@ -817,6 +911,12 @@
 👩🏽‍🔬	biologist, chemist, engineer, medium skin tone, physicist, scientist, woman, woman scientist: medium skin tone
 👩🏾‍🔬	biologist, chemist, engineer, medium-dark skin tone, physicist, scientist, woman, woman scientist: medium-dark skin tone
 👩🏿‍🔬	biologist, chemist, dark skin tone, engineer, physicist, scientist, woman, woman scientist: dark skin tone
+🧑‍💻	coder, developer, inventor, software, technologist
+🧑🏻‍💻	coder, developer, inventor, light skin tone, software, technologist, technologist: light skin tone
+🧑🏼‍💻	coder, developer, inventor, medium-light skin tone, software, technologist, technologist: medium-light skin tone
+🧑🏽‍💻	coder, developer, inventor, medium skin tone, software, technologist, technologist: medium skin tone
+🧑🏾‍💻	coder, developer, inventor, medium-dark skin tone, software, technologist, technologist: medium-dark skin tone
+🧑🏿‍💻	coder, dark skin tone, developer, inventor, software, technologist, technologist: dark skin tone
 👨‍💻	coder, developer, inventor, man, man technologist, software, technologist
 👨🏻‍💻	coder, developer, inventor, light skin tone, man, man technologist: light skin tone, software, technologist
 👨🏼‍💻	coder, developer, inventor, man, man technologist: medium-light skin tone, medium-light skin tone, software, technologist
@@ -829,6 +929,12 @@
 👩🏽‍💻	coder, developer, inventor, medium skin tone, software, technologist, woman, woman technologist: medium skin tone
 👩🏾‍💻	coder, developer, inventor, medium-dark skin tone, software, technologist, woman, woman technologist: medium-dark skin tone
 👩🏿‍💻	coder, dark skin tone, developer, inventor, software, technologist, woman, woman technologist: dark skin tone
+🧑‍🎤	actor, entertainer, rock, singer, star
+🧑🏻‍🎤	actor, entertainer, light skin tone, rock, singer, singer: light skin tone, star
+🧑🏼‍🎤	actor, entertainer, medium-light skin tone, rock, singer, singer: medium-light skin tone, star
+🧑🏽‍🎤	actor, entertainer, medium skin tone, rock, singer, singer: medium skin tone, star
+🧑🏾‍🎤	actor, entertainer, medium-dark skin tone, rock, singer, singer: medium-dark skin tone, star
+🧑🏿‍🎤	actor, dark skin tone, entertainer, rock, singer, singer: dark skin tone, star
 👨‍🎤	actor, entertainer, man, man singer, rock, singer, star
 👨🏻‍🎤	actor, entertainer, light skin tone, man, man singer: light skin tone, rock, singer, star
 👨🏼‍🎤	actor, entertainer, man, man singer: medium-light skin tone, medium-light skin tone, rock, singer, star
@@ -841,6 +947,12 @@
 👩🏽‍🎤	actor, entertainer, medium skin tone, rock, singer, star, woman, woman singer: medium skin tone
 👩🏾‍🎤	actor, entertainer, medium-dark skin tone, rock, singer, star, woman, woman singer: medium-dark skin tone
 👩🏿‍🎤	actor, dark skin tone, entertainer, rock, singer, star, woman, woman singer: dark skin tone
+🧑‍🎨	artist, palette
+🧑🏻‍🎨	artist, artist: light skin tone, light skin tone, palette
+🧑🏼‍🎨	artist, artist: medium-light skin tone, medium-light skin tone, palette
+🧑🏽‍🎨	artist, artist: medium skin tone, medium skin tone, palette
+🧑🏾‍🎨	artist, artist: medium-dark skin tone, medium-dark skin tone, palette
+🧑🏿‍🎨	artist, artist: dark skin tone, dark skin tone, palette
 👨‍🎨	artist, man, man artist, palette
 👨🏻‍🎨	artist, light skin tone, man, man artist: light skin tone, palette
 👨🏼‍🎨	artist, man, man artist: medium-light skin tone, medium-light skin tone, palette
@@ -853,6 +965,12 @@
 👩🏽‍🎨	artist, medium skin tone, palette, woman, woman artist: medium skin tone
 👩🏾‍🎨	artist, medium-dark skin tone, palette, woman, woman artist: medium-dark skin tone
 👩🏿‍🎨	artist, dark skin tone, palette, woman, woman artist: dark skin tone
+🧑‍✈	pilot, plane
+🧑🏻‍✈	light skin tone, pilot, pilot: light skin tone, plane
+🧑🏼‍✈	medium-light skin tone, pilot, pilot: medium-light skin tone, plane
+🧑🏽‍✈	medium skin tone, pilot, pilot: medium skin tone, plane
+🧑🏾‍✈	medium-dark skin tone, pilot, pilot: medium-dark skin tone, plane
+🧑🏿‍✈	dark skin tone, pilot, pilot: dark skin tone, plane
 👨‍✈	man, man pilot, pilot, plane
 👨🏻‍✈	light skin tone, man, man pilot: light skin tone, pilot, plane
 👨🏼‍✈	man, man pilot: medium-light skin tone, medium-light skin tone, pilot, plane
@@ -865,6 +983,12 @@
 👩🏽‍✈	medium skin tone, pilot, plane, woman, woman pilot: medium skin tone
 👩🏾‍✈	medium-dark skin tone, pilot, plane, woman, woman pilot: medium-dark skin tone
 👩🏿‍✈	dark skin tone, pilot, plane, woman, woman pilot: dark skin tone
+🧑‍🚀	astronaut, rocket
+🧑🏻‍🚀	astronaut, astronaut: light skin tone, light skin tone, rocket
+🧑🏼‍🚀	astronaut, astronaut: medium-light skin tone, medium-light skin tone, rocket
+🧑🏽‍🚀	astronaut, astronaut: medium skin tone, medium skin tone, rocket
+🧑🏾‍🚀	astronaut, astronaut: medium-dark skin tone, medium-dark skin tone, rocket
+🧑🏿‍🚀	astronaut, astronaut: dark skin tone, dark skin tone, rocket
 👨‍🚀	astronaut, man, man astronaut, rocket
 👨🏻‍🚀	astronaut, light skin tone, man, man astronaut: light skin tone, rocket
 👨🏼‍🚀	astronaut, man, man astronaut: medium-light skin tone, medium-light skin tone, rocket
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronaut, medium skin tone, rocket, woman, woman astronaut: medium skin tone
 👩🏾‍🚀	astronaut, medium-dark skin tone, rocket, woman, woman astronaut: medium-dark skin tone
 👩🏿‍🚀	astronaut, dark skin tone, rocket, woman, woman astronaut: dark skin tone
+🧑‍🚒	firefighter, firetruck
+🧑🏻‍🚒	firefighter, firefighter: light skin tone, firetruck, light skin tone
+🧑🏼‍🚒	firefighter, firefighter: medium-light skin tone, firetruck, medium-light skin tone
+🧑🏽‍🚒	firefighter, firefighter: medium skin tone, firetruck, medium skin tone
+🧑🏾‍🚒	firefighter, firefighter: medium-dark skin tone, firetruck, medium-dark skin tone
+🧑🏿‍🚒	dark skin tone, firefighter, firefighter: dark skin tone, firetruck
 👨‍🚒	firefighter, firetruck, man, man firefighter
 👨🏻‍🚒	firefighter, firetruck, light skin tone, man, man firefighter: light skin tone
 👨🏼‍🚒	firefighter, firetruck, man, man firefighter: medium-light skin tone, medium-light skin tone
@@ -943,6 +1073,7 @@
 💂🏽‍♀	guard, medium skin tone, woman, woman guard: medium skin tone
 💂🏾‍♀	guard, medium-dark skin tone, woman, woman guard: medium-dark skin tone
 💂🏿‍♀	dark skin tone, guard, woman, woman guard: dark skin tone
+🥷	fighter, hidden, ninja, stealth
 👷	construction, construction worker, hat, worker
 👷🏻	construction, construction worker: light skin tone, hat, light skin tone, worker
 👷🏼	construction, construction worker: medium-light skin tone, hat, medium-light skin tone, worker
@@ -991,30 +1122,54 @@
 👳🏽‍♀	medium skin tone, turban, woman, woman wearing turban, woman wearing turban: medium skin tone
 👳🏾‍♀	medium-dark skin tone, turban, woman, woman wearing turban, woman wearing turban: medium-dark skin tone
 👳🏿‍♀	dark skin tone, turban, woman, woman wearing turban, woman wearing turban: dark skin tone
-👲	gua pi mao, hat, man, man with Chinese cap
-👲🏻	gua pi mao, hat, light skin tone, man, man with Chinese cap, man with Chinese cap: light skin tone
-👲🏼	gua pi mao, hat, man, man with Chinese cap, man with Chinese cap: medium-light skin tone, medium-light skin tone
-👲🏽	gua pi mao, hat, man, man with Chinese cap, man with Chinese cap: medium skin tone, medium skin tone
-👲🏾	gua pi mao, hat, man, man with Chinese cap, man with Chinese cap: medium-dark skin tone, medium-dark skin tone
-👲🏿	dark skin tone, gua pi mao, hat, man, man with Chinese cap, man with Chinese cap: dark skin tone
+👲	cap, gua pi mao, hat, person, person with skullcap, skullcap
+👲🏻	cap, gua pi mao, hat, light skin tone, person, person with skullcap, person with skullcap: light skin tone, skullcap
+👲🏼	cap, gua pi mao, hat, medium-light skin tone, person, person with skullcap, person with skullcap: medium-light skin tone, skullcap
+👲🏽	cap, gua pi mao, hat, medium skin tone, person, person with skullcap, person with skullcap: medium skin tone, skullcap
+👲🏾	cap, gua pi mao, hat, medium-dark skin tone, person, person with skullcap, person with skullcap: medium-dark skin tone, skullcap
+👲🏿	cap, dark skin tone, gua pi mao, hat, person, person with skullcap, person with skullcap: dark skin tone, skullcap
 🧕	headscarf, hijab, mantilla, tichel, woman with headscarf
 🧕🏻	headscarf, hijab, light skin tone, mantilla, tichel, woman with headscarf, woman with headscarf: light skin tone
 🧕🏼	headscarf, hijab, mantilla, medium-light skin tone, tichel, woman with headscarf, woman with headscarf: medium-light skin tone
 🧕🏽	headscarf, hijab, mantilla, medium skin tone, tichel, woman with headscarf, woman with headscarf: medium skin tone
 🧕🏾	headscarf, hijab, mantilla, medium-dark skin tone, tichel, woman with headscarf, woman with headscarf: medium-dark skin tone
 🧕🏿	dark skin tone, headscarf, hijab, mantilla, tichel, woman with headscarf, woman with headscarf: dark skin tone
-🤵	groom, man, man in tuxedo, tuxedo
-🤵🏻	groom, light skin tone, man, man in tuxedo, man in tuxedo: light skin tone, tuxedo
-🤵🏼	groom, man, man in tuxedo, man in tuxedo: medium-light skin tone, medium-light skin tone, tuxedo
-🤵🏽	groom, man, man in tuxedo, man in tuxedo: medium skin tone, medium skin tone, tuxedo
-🤵🏾	groom, man, man in tuxedo, man in tuxedo: medium-dark skin tone, medium-dark skin tone, tuxedo
-🤵🏿	dark skin tone, groom, man, man in tuxedo, man in tuxedo: dark skin tone, tuxedo
-👰	bride, bride with veil, veil, wedding
-👰🏻	bride, bride with veil, bride with veil: light skin tone, light skin tone, veil, wedding
-👰🏼	bride, bride with veil, bride with veil: medium-light skin tone, medium-light skin tone, veil, wedding
-👰🏽	bride, bride with veil, bride with veil: medium skin tone, medium skin tone, veil, wedding
-👰🏾	bride, bride with veil, bride with veil: medium-dark skin tone, medium-dark skin tone, veil, wedding
-👰🏿	bride, bride with veil, bride with veil: dark skin tone, dark skin tone, veil, wedding
+🤵	groom, person, person in tuxedo, tuxedo
+🤵🏻	groom, light skin tone, person, person in tuxedo, person in tuxedo: light skin tone, tuxedo
+🤵🏼	groom, medium-light skin tone, person, person in tuxedo, person in tuxedo: medium-light skin tone, tuxedo
+🤵🏽	groom, medium skin tone, person, person in tuxedo, person in tuxedo: medium skin tone, tuxedo
+🤵🏾	groom, medium-dark skin tone, person, person in tuxedo, person in tuxedo: medium-dark skin tone, tuxedo
+🤵🏿	dark skin tone, groom, person, person in tuxedo, person in tuxedo: dark skin tone, tuxedo
+🤵‍♂	man, man in tuxedo, tuxedo
+🤵🏻‍♂	light skin tone, man, man in tuxedo, man in tuxedo: light skin tone, tuxedo
+🤵🏼‍♂	man, man in tuxedo, man in tuxedo: medium-light skin tone, medium-light skin tone, tuxedo
+🤵🏽‍♂	man, man in tuxedo, man in tuxedo: medium skin tone, medium skin tone, tuxedo
+🤵🏾‍♂	man, man in tuxedo, man in tuxedo: medium-dark skin tone, medium-dark skin tone, tuxedo
+🤵🏿‍♂	dark skin tone, man, man in tuxedo, man in tuxedo: dark skin tone, tuxedo
+🤵‍♀	tuxedo, woman, woman in tuxedo
+🤵🏻‍♀	light skin tone, tuxedo, woman, woman in tuxedo, woman in tuxedo: light skin tone
+🤵🏼‍♀	medium-light skin tone, tuxedo, woman, woman in tuxedo, woman in tuxedo: medium-light skin tone
+🤵🏽‍♀	medium skin tone, tuxedo, woman, woman in tuxedo, woman in tuxedo: medium skin tone
+🤵🏾‍♀	medium-dark skin tone, tuxedo, woman, woman in tuxedo, woman in tuxedo: medium-dark skin tone
+🤵🏿‍♀	dark skin tone, tuxedo, woman, woman in tuxedo, woman in tuxedo: dark skin tone
+👰	bride, person, person with veil, veil, wedding
+👰🏻	bride, light skin tone, person, person with veil, person with veil: light skin tone, veil, wedding
+👰🏼	bride, medium-light skin tone, person, person with veil, person with veil: medium-light skin tone, veil, wedding
+👰🏽	bride, medium skin tone, person, person with veil, person with veil: medium skin tone, veil, wedding
+👰🏾	bride, medium-dark skin tone, person, person with veil, person with veil: medium-dark skin tone, veil, wedding
+👰🏿	bride, dark skin tone, person, person with veil, person with veil: dark skin tone, veil, wedding
+👰‍♂	man, man with veil, veil
+👰🏻‍♂	light skin tone, man, man with veil, man with veil: light skin tone, veil
+👰🏼‍♂	man, man with veil, man with veil: medium-light skin tone, medium-light skin tone, veil
+👰🏽‍♂	man, man with veil, man with veil: medium skin tone, medium skin tone, veil
+👰🏾‍♂	man, man with veil, man with veil: medium-dark skin tone, medium-dark skin tone, veil
+👰🏿‍♂	dark skin tone, man, man with veil, man with veil: dark skin tone, veil
+👰‍♀	veil, woman, woman with veil
+👰🏻‍♀	light skin tone, veil, woman, woman with veil, woman with veil: light skin tone
+👰🏼‍♀	medium-light skin tone, veil, woman, woman with veil, woman with veil: medium-light skin tone
+👰🏽‍♀	medium skin tone, veil, woman, woman with veil, woman with veil: medium skin tone
+👰🏾‍♀	medium-dark skin tone, veil, woman, woman with veil, woman with veil: medium-dark skin tone
+👰🏿‍♀	dark skin tone, veil, woman, woman with veil, woman with veil: dark skin tone
 🤰	pregnant, pregnant woman, woman
 🤰🏻	light skin tone, pregnant, pregnant woman: light skin tone, woman
 🤰🏼	medium-light skin tone, pregnant, pregnant woman: medium-light skin tone, woman
@@ -1027,6 +1182,24 @@
 🤱🏽	baby, breast, breast-feeding, breast-feeding: medium skin tone, medium skin tone, nursing
 🤱🏾	baby, breast, breast-feeding, breast-feeding: medium-dark skin tone, medium-dark skin tone, nursing
 🤱🏿	baby, breast, breast-feeding, breast-feeding: dark skin tone, dark skin tone, nursing
+👩‍🍼	baby, feeding, nursing, woman, woman feeding baby
+👩🏻‍🍼	baby, feeding, light skin tone, nursing, woman, woman feeding baby: light skin tone
+👩🏼‍🍼	baby, feeding, medium-light skin tone, nursing, woman, woman feeding baby: medium-light skin tone
+👩🏽‍🍼	baby, feeding, medium skin tone, nursing, woman, woman feeding baby: medium skin tone
+👩🏾‍🍼	baby, feeding, medium-dark skin tone, nursing, woman, woman feeding baby: medium-dark skin tone
+👩🏿‍🍼	baby, dark skin tone, feeding, nursing, woman, woman feeding baby: dark skin tone
+👨‍🍼	baby, feeding, man, man feeding baby, nursing
+👨🏻‍🍼	baby, feeding, light skin tone, man, man feeding baby: light skin tone, nursing
+👨🏼‍🍼	baby, feeding, man, man feeding baby: medium-light skin tone, medium-light skin tone, nursing
+👨🏽‍🍼	baby, feeding, man, man feeding baby: medium skin tone, medium skin tone, nursing
+👨🏾‍🍼	baby, feeding, man, man feeding baby: medium-dark skin tone, medium-dark skin tone, nursing
+👨🏿‍🍼	baby, dark skin tone, feeding, man, man feeding baby: dark skin tone, nursing
+🧑‍🍼	baby, feeding, nursing, person, person feeding baby
+🧑🏻‍🍼	baby, feeding, light skin tone, nursing, person, person feeding baby: light skin tone
+🧑🏼‍🍼	baby, feeding, medium-light skin tone, nursing, person, person feeding baby: medium-light skin tone
+🧑🏽‍🍼	baby, feeding, medium skin tone, nursing, person, person feeding baby: medium skin tone
+🧑🏾‍🍼	baby, feeding, medium-dark skin tone, nursing, person, person feeding baby: medium-dark skin tone
+🧑🏿‍🍼	baby, dark skin tone, feeding, nursing, person, person feeding baby: dark skin tone
 👼	angel, baby, baby angel, face, fairy tale, fantasy
 👼🏻	angel, baby, baby angel: light skin tone, face, fairy tale, fantasy, light skin tone
 👼🏼	angel, baby, baby angel: medium-light skin tone, face, fairy tale, fantasy, medium-light skin tone
@@ -1045,6 +1218,12 @@
 🤶🏽	Christmas, Mrs., Mrs. Claus, Mrs. Claus: medium skin tone, celebration, claus, medium skin tone, mother
 🤶🏾	Christmas, Mrs., Mrs. Claus, Mrs. Claus: medium-dark skin tone, celebration, claus, medium-dark skin tone, mother
 🤶🏿	Christmas, Mrs., Mrs. Claus, Mrs. Claus: dark skin tone, celebration, claus, dark skin tone, mother
+🧑‍🎄	Claus, christmas, mx claus
+🧑🏻‍🎄	Claus, christmas, light skin tone, mx claus, mx claus: light skin tone
+🧑🏼‍🎄	Claus, christmas, medium-light skin tone, mx claus, mx claus: medium-light skin tone
+🧑🏽‍🎄	Claus, christmas, medium skin tone, mx claus, mx claus: medium skin tone
+🧑🏾‍🎄	Claus, christmas, medium-dark skin tone, mx claus, mx claus: medium-dark skin tone
+🧑🏿‍🎄	Claus, christmas, dark skin tone, mx claus, mx claus: dark skin tone
 🦸	good, hero, heroine, superhero, superpower
 🦸🏻	good, hero, heroine, light skin tone, superhero, superhero: light skin tone, superpower
 🦸🏼	good, hero, heroine, medium-light skin tone, superhero, superhero: medium-light skin tone, superpower
@@ -1267,18 +1446,30 @@
 🧎🏽‍♀	kneeling, medium skin tone, woman, woman kneeling: medium skin tone
 🧎🏾‍♀	kneeling, medium-dark skin tone, woman, woman kneeling: medium-dark skin tone
 🧎🏿‍♀	dark skin tone, kneeling, woman, woman kneeling: dark skin tone
-👨‍🦯	accessibility, blind, man, man with probing cane
-👨🏻‍🦯	accessibility, blind, light skin tone, man, man with probing cane, man with probing cane: light skin tone
-👨🏼‍🦯	accessibility, blind, man, man with probing cane, man with probing cane: medium-light skin tone, medium-light skin tone
-👨🏽‍🦯	accessibility, blind, man, man with probing cane, man with probing cane: medium skin tone, medium skin tone
-👨🏾‍🦯	accessibility, blind, man, man with probing cane, man with probing cane: medium-dark skin tone, medium-dark skin tone
-👨🏿‍🦯	accessibility, blind, dark skin tone, man, man with probing cane, man with probing cane: dark skin tone
-👩‍🦯	accessibility, blind, woman, woman with probing cane
-👩🏻‍🦯	accessibility, blind, light skin tone, woman, woman with probing cane, woman with probing cane: light skin tone
-👩🏼‍🦯	accessibility, blind, medium-light skin tone, woman, woman with probing cane, woman with probing cane: medium-light skin tone
-👩🏽‍🦯	accessibility, blind, medium skin tone, woman, woman with probing cane, woman with probing cane: medium skin tone
-👩🏾‍🦯	accessibility, blind, medium-dark skin tone, woman, woman with probing cane, woman with probing cane: medium-dark skin tone
-👩🏿‍🦯	accessibility, blind, dark skin tone, woman, woman with probing cane, woman with probing cane: dark skin tone
+🧑‍🦯	accessibility, blind, person with white cane
+🧑🏻‍🦯	accessibility, blind, light skin tone, person with white cane, person with white cane: light skin tone
+🧑🏼‍🦯	accessibility, blind, medium-light skin tone, person with white cane, person with white cane: medium-light skin tone
+🧑🏽‍🦯	accessibility, blind, medium skin tone, person with white cane, person with white cane: medium skin tone
+🧑🏾‍🦯	accessibility, blind, medium-dark skin tone, person with white cane, person with white cane: medium-dark skin tone
+🧑🏿‍🦯	accessibility, blind, dark skin tone, person with white cane, person with white cane: dark skin tone
+👨‍🦯	accessibility, blind, man, man with white cane
+👨🏻‍🦯	accessibility, blind, light skin tone, man, man with white cane, man with white cane: light skin tone
+👨🏼‍🦯	accessibility, blind, man, man with white cane, man with white cane: medium-light skin tone, medium-light skin tone
+👨🏽‍🦯	accessibility, blind, man, man with white cane, man with white cane: medium skin tone, medium skin tone
+👨🏾‍🦯	accessibility, blind, man, man with white cane, man with white cane: medium-dark skin tone, medium-dark skin tone
+👨🏿‍🦯	accessibility, blind, dark skin tone, man, man with white cane, man with white cane: dark skin tone
+👩‍🦯	accessibility, blind, woman, woman with white cane
+👩🏻‍🦯	accessibility, blind, light skin tone, woman, woman with white cane, woman with white cane: light skin tone
+👩🏼‍🦯	accessibility, blind, medium-light skin tone, woman, woman with white cane, woman with white cane: medium-light skin tone
+👩🏽‍🦯	accessibility, blind, medium skin tone, woman, woman with white cane, woman with white cane: medium skin tone
+👩🏾‍🦯	accessibility, blind, medium-dark skin tone, woman, woman with white cane, woman with white cane: medium-dark skin tone
+👩🏿‍🦯	accessibility, blind, dark skin tone, woman, woman with white cane, woman with white cane: dark skin tone
+🧑‍🦼	accessibility, person in motorized wheelchair, wheelchair
+🧑🏻‍🦼	accessibility, light skin tone, person in motorized wheelchair, person in motorized wheelchair: light skin tone, wheelchair
+🧑🏼‍🦼	accessibility, medium-light skin tone, person in motorized wheelchair, person in motorized wheelchair: medium-light skin tone, wheelchair
+🧑🏽‍🦼	accessibility, medium skin tone, person in motorized wheelchair, person in motorized wheelchair: medium skin tone, wheelchair
+🧑🏾‍🦼	accessibility, medium-dark skin tone, person in motorized wheelchair, person in motorized wheelchair: medium-dark skin tone, wheelchair
+🧑🏿‍🦼	accessibility, dark skin tone, person in motorized wheelchair, person in motorized wheelchair: dark skin tone, wheelchair
 👨‍🦼	accessibility, man, man in motorized wheelchair, wheelchair
 👨🏻‍🦼	accessibility, light skin tone, man, man in motorized wheelchair, man in motorized wheelchair: light skin tone, wheelchair
 👨🏼‍🦼	accessibility, man, man in motorized wheelchair, man in motorized wheelchair: medium-light skin tone, medium-light skin tone, wheelchair
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	accessibility, medium skin tone, wheelchair, woman, woman in motorized wheelchair, woman in motorized wheelchair: medium skin tone
 👩🏾‍🦼	accessibility, medium-dark skin tone, wheelchair, woman, woman in motorized wheelchair, woman in motorized wheelchair: medium-dark skin tone
 👩🏿‍🦼	accessibility, dark skin tone, wheelchair, woman, woman in motorized wheelchair, woman in motorized wheelchair: dark skin tone
+🧑‍🦽	accessibility, person in manual wheelchair, wheelchair
+🧑🏻‍🦽	accessibility, light skin tone, person in manual wheelchair, person in manual wheelchair: light skin tone, wheelchair
+🧑🏼‍🦽	accessibility, medium-light skin tone, person in manual wheelchair, person in manual wheelchair: medium-light skin tone, wheelchair
+🧑🏽‍🦽	accessibility, medium skin tone, person in manual wheelchair, person in manual wheelchair: medium skin tone, wheelchair
+🧑🏾‍🦽	accessibility, medium-dark skin tone, person in manual wheelchair, person in manual wheelchair: medium-dark skin tone, wheelchair
+🧑🏿‍🦽	accessibility, dark skin tone, person in manual wheelchair, person in manual wheelchair: dark skin tone, wheelchair
 👨‍🦽	accessibility, man, man in manual wheelchair, wheelchair
 👨🏻‍🦽	accessibility, light skin tone, man, man in manual wheelchair, man in manual wheelchair: light skin tone, wheelchair
 👨🏼‍🦽	accessibility, man, man in manual wheelchair, man in manual wheelchair: medium-light skin tone, medium-light skin tone, wheelchair
@@ -1333,12 +1530,12 @@
 🕺🏽	dance, man, man dancing, man dancing: medium skin tone, medium skin tone
 🕺🏾	dance, man, man dancing, man dancing: medium-dark skin tone, medium-dark skin tone
 🕺🏿	dance, dark skin tone, man, man dancing, man dancing: dark skin tone
-🕴️	business, man, man in suit levitating, suit
-🕴🏻	business, light skin tone, man, man in suit levitating, man in suit levitating: light skin tone, suit
-🕴🏼	business, man, man in suit levitating, man in suit levitating: medium-light skin tone, medium-light skin tone, suit
-🕴🏽	business, man, man in suit levitating, man in suit levitating: medium skin tone, medium skin tone, suit
-🕴🏾	business, man, man in suit levitating, man in suit levitating: medium-dark skin tone, medium-dark skin tone, suit
-🕴🏿	business, dark skin tone, man, man in suit levitating, man in suit levitating: dark skin tone, suit
+🕴️	business, person, person in suit levitating, suit
+🕴🏻	business, light skin tone, person, person in suit levitating, person in suit levitating: light skin tone, suit
+🕴🏼	business, medium-light skin tone, person, person in suit levitating, person in suit levitating: medium-light skin tone, suit
+🕴🏽	business, medium skin tone, person, person in suit levitating, person in suit levitating: medium skin tone, suit
+🕴🏾	business, medium-dark skin tone, person, person in suit levitating, person in suit levitating: medium-dark skin tone, suit
+🕴🏿	business, dark skin tone, person, person in suit levitating, person in suit levitating: dark skin tone, suit
 👯	bunny ear, dancer, partying, people with bunny ears
 👯‍♂	bunny ear, dancer, men, men with bunny ears, partying
 👯‍♀	bunny ear, dancer, partying, women, women with bunny ears
@@ -1643,15 +1840,25 @@
 🛌🏿	dark skin tone, hotel, person in bed, person in bed: dark skin tone, sleep
 🧑‍🤝‍🧑	couple, hand, hold, holding hands, people holding hands, person
 🧑🏻‍🤝‍🧑🏻	couple, hand, hold, holding hands, light skin tone, people holding hands, people holding hands: light skin tone, person
+🧑🏻‍🤝‍🧑🏼	couple, hand, hold, holding hands, light skin tone, medium-light skin tone, people holding hands, people holding hands: light skin tone, medium-light skin tone, person
+🧑🏻‍🤝‍🧑🏽	couple, hand, hold, holding hands, light skin tone, medium skin tone, people holding hands, people holding hands: light skin tone, medium skin tone, person
+🧑🏻‍🤝‍🧑🏾	couple, hand, hold, holding hands, light skin tone, medium-dark skin tone, people holding hands, people holding hands: light skin tone, medium-dark skin tone, person
+🧑🏻‍🤝‍🧑🏿	couple, dark skin tone, hand, hold, holding hands, light skin tone, people holding hands, people holding hands: light skin tone, dark skin tone, person
 🧑🏼‍🤝‍🧑🏻	couple, hand, hold, holding hands, light skin tone, medium-light skin tone, people holding hands, people holding hands: medium-light skin tone, light skin tone, person
 🧑🏼‍🤝‍🧑🏼	couple, hand, hold, holding hands, medium-light skin tone, people holding hands, people holding hands: medium-light skin tone, person
+🧑🏼‍🤝‍🧑🏽	couple, hand, hold, holding hands, medium skin tone, medium-light skin tone, people holding hands, people holding hands: medium-light skin tone, medium skin tone, person
+🧑🏼‍🤝‍🧑🏾	couple, hand, hold, holding hands, medium-dark skin tone, medium-light skin tone, people holding hands, people holding hands: medium-light skin tone, medium-dark skin tone, person
+🧑🏼‍🤝‍🧑🏿	couple, dark skin tone, hand, hold, holding hands, medium-light skin tone, people holding hands, people holding hands: medium-light skin tone, dark skin tone, person
 🧑🏽‍🤝‍🧑🏻	couple, hand, hold, holding hands, light skin tone, medium skin tone, people holding hands, people holding hands: medium skin tone, light skin tone, person
 🧑🏽‍🤝‍🧑🏼	couple, hand, hold, holding hands, medium skin tone, medium-light skin tone, people holding hands, people holding hands: medium skin tone, medium-light skin tone, person
 🧑🏽‍🤝‍🧑🏽	couple, hand, hold, holding hands, medium skin tone, people holding hands, people holding hands: medium skin tone, person
+🧑🏽‍🤝‍🧑🏾	couple, hand, hold, holding hands, medium skin tone, medium-dark skin tone, people holding hands, people holding hands: medium skin tone, medium-dark skin tone, person
+🧑🏽‍🤝‍🧑🏿	couple, dark skin tone, hand, hold, holding hands, medium skin tone, people holding hands, people holding hands: medium skin tone, dark skin tone, person
 🧑🏾‍🤝‍🧑🏻	couple, hand, hold, holding hands, light skin tone, medium-dark skin tone, people holding hands, people holding hands: medium-dark skin tone, light skin tone, person
 🧑🏾‍🤝‍🧑🏼	couple, hand, hold, holding hands, medium-dark skin tone, medium-light skin tone, people holding hands, people holding hands: medium-dark skin tone, medium-light skin tone, person
 🧑🏾‍🤝‍🧑🏽	couple, hand, hold, holding hands, medium skin tone, medium-dark skin tone, people holding hands, people holding hands: medium-dark skin tone, medium skin tone, person
 🧑🏾‍🤝‍🧑🏾	couple, hand, hold, holding hands, medium-dark skin tone, people holding hands, people holding hands: medium-dark skin tone, person
+🧑🏾‍🤝‍🧑🏿	couple, dark skin tone, hand, hold, holding hands, medium-dark skin tone, people holding hands, people holding hands: medium-dark skin tone, dark skin tone, person
 🧑🏿‍🤝‍🧑🏻	couple, dark skin tone, hand, hold, holding hands, light skin tone, people holding hands, people holding hands: dark skin tone, light skin tone, person
 🧑🏿‍🤝‍🧑🏼	couple, dark skin tone, hand, hold, holding hands, medium-light skin tone, people holding hands, people holding hands: dark skin tone, medium-light skin tone, person
 🧑🏿‍🤝‍🧑🏽	couple, dark skin tone, hand, hold, holding hands, medium skin tone, people holding hands, people holding hands: dark skin tone, medium skin tone, person
@@ -1659,15 +1866,25 @@
 🧑🏿‍🤝‍🧑🏿	couple, dark skin tone, hand, hold, holding hands, people holding hands, people holding hands: dark skin tone, person
 👭	couple, hand, holding hands, women, women holding hands
 👭🏻	couple, hand, holding hands, light skin tone, women, women holding hands, women holding hands: light skin tone
+👩🏻‍🤝‍👩🏼	couple, hand, holding hands, light skin tone, medium-light skin tone, women, women holding hands, women holding hands: light skin tone, medium-light skin tone
+👩🏻‍🤝‍👩🏽	couple, hand, holding hands, light skin tone, medium skin tone, women, women holding hands, women holding hands: light skin tone, medium skin tone
+👩🏻‍🤝‍👩🏾	couple, hand, holding hands, light skin tone, medium-dark skin tone, women, women holding hands, women holding hands: light skin tone, medium-dark skin tone
+👩🏻‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, light skin tone, women, women holding hands, women holding hands: light skin tone, dark skin tone
 👩🏼‍🤝‍👩🏻	couple, hand, holding hands, light skin tone, medium-light skin tone, women, women holding hands, women holding hands: medium-light skin tone, light skin tone
 👭🏼	couple, hand, holding hands, medium-light skin tone, women, women holding hands, women holding hands: medium-light skin tone
+👩🏼‍🤝‍👩🏽	couple, hand, holding hands, medium skin tone, medium-light skin tone, women, women holding hands, women holding hands: medium-light skin tone, medium skin tone
+👩🏼‍🤝‍👩🏾	couple, hand, holding hands, medium-dark skin tone, medium-light skin tone, women, women holding hands, women holding hands: medium-light skin tone, medium-dark skin tone
+👩🏼‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, medium-light skin tone, women, women holding hands, women holding hands: medium-light skin tone, dark skin tone
 👩🏽‍🤝‍👩🏻	couple, hand, holding hands, light skin tone, medium skin tone, women, women holding hands, women holding hands: medium skin tone, light skin tone
 👩🏽‍🤝‍👩🏼	couple, hand, holding hands, medium skin tone, medium-light skin tone, women, women holding hands, women holding hands: medium skin tone, medium-light skin tone
 👭🏽	couple, hand, holding hands, medium skin tone, women, women holding hands, women holding hands: medium skin tone
+👩🏽‍🤝‍👩🏾	couple, hand, holding hands, medium skin tone, medium-dark skin tone, women, women holding hands, women holding hands: medium skin tone, medium-dark skin tone
+👩🏽‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, medium skin tone, women, women holding hands, women holding hands: medium skin tone, dark skin tone
 👩🏾‍🤝‍👩🏻	couple, hand, holding hands, light skin tone, medium-dark skin tone, women, women holding hands, women holding hands: medium-dark skin tone, light skin tone
 👩🏾‍🤝‍👩🏼	couple, hand, holding hands, medium-dark skin tone, medium-light skin tone, women, women holding hands, women holding hands: medium-dark skin tone, medium-light skin tone
 👩🏾‍🤝‍👩🏽	couple, hand, holding hands, medium skin tone, medium-dark skin tone, women, women holding hands, women holding hands: medium-dark skin tone, medium skin tone
 👭🏾	couple, hand, holding hands, medium-dark skin tone, women, women holding hands, women holding hands: medium-dark skin tone
+👩🏾‍🤝‍👩🏿	couple, dark skin tone, hand, holding hands, medium-dark skin tone, women, women holding hands, women holding hands: medium-dark skin tone, dark skin tone
 👩🏿‍🤝‍👩🏻	couple, dark skin tone, hand, holding hands, light skin tone, women, women holding hands, women holding hands: dark skin tone, light skin tone
 👩🏿‍🤝‍👩🏼	couple, dark skin tone, hand, holding hands, medium-light skin tone, women, women holding hands, women holding hands: dark skin tone, medium-light skin tone
 👩🏿‍🤝‍👩🏽	couple, dark skin tone, hand, holding hands, medium skin tone, women, women holding hands, women holding hands: dark skin tone, medium skin tone
@@ -1701,15 +1918,25 @@
 👫🏿	couple, dark skin tone, hand, hold, holding hands, man, woman, woman and man holding hands, woman and man holding hands: dark skin tone
 👬	Gemini, couple, holding hands, man, men, men holding hands, twins, zodiac
 👬🏻	Gemini, couple, holding hands, light skin tone, man, men, men holding hands, men holding hands: light skin tone, twins, zodiac
+👨🏻‍🤝‍👨🏼	Gemini, couple, holding hands, light skin tone, man, medium-light skin tone, men, men holding hands, men holding hands: light skin tone, medium-light skin tone, twins, zodiac
+👨🏻‍🤝‍👨🏽	Gemini, couple, holding hands, light skin tone, man, medium skin tone, men, men holding hands, men holding hands: light skin tone, medium skin tone, twins, zodiac
+👨🏻‍🤝‍👨🏾	Gemini, couple, holding hands, light skin tone, man, medium-dark skin tone, men, men holding hands, men holding hands: light skin tone, medium-dark skin tone, twins, zodiac
+👨🏻‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, light skin tone, man, men, men holding hands, men holding hands: light skin tone, dark skin tone, twins, zodiac
 👨🏼‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, man, medium-light skin tone, men, men holding hands, men holding hands: medium-light skin tone, light skin tone, twins, zodiac
 👬🏼	Gemini, couple, holding hands, man, medium-light skin tone, men, men holding hands, men holding hands: medium-light skin tone, twins, zodiac
+👨🏼‍🤝‍👨🏽	Gemini, couple, holding hands, man, medium skin tone, medium-light skin tone, men, men holding hands, men holding hands: medium-light skin tone, medium skin tone, twins, zodiac
+👨🏼‍🤝‍👨🏾	Gemini, couple, holding hands, man, medium-dark skin tone, medium-light skin tone, men, men holding hands, men holding hands: medium-light skin tone, medium-dark skin tone, twins, zodiac
+👨🏼‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, man, medium-light skin tone, men, men holding hands, men holding hands: medium-light skin tone, dark skin tone, twins, zodiac
 👨🏽‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, man, medium skin tone, men, men holding hands, men holding hands: medium skin tone, light skin tone, twins, zodiac
 👨🏽‍🤝‍👨🏼	Gemini, couple, holding hands, man, medium skin tone, medium-light skin tone, men, men holding hands, men holding hands: medium skin tone, medium-light skin tone, twins, zodiac
 👬🏽	Gemini, couple, holding hands, man, medium skin tone, men, men holding hands, men holding hands: medium skin tone, twins, zodiac
+👨🏽‍🤝‍👨🏾	Gemini, couple, holding hands, man, medium skin tone, medium-dark skin tone, men, men holding hands, men holding hands: medium skin tone, medium-dark skin tone, twins, zodiac
+👨🏽‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, man, medium skin tone, men, men holding hands, men holding hands: medium skin tone, dark skin tone, twins, zodiac
 👨🏾‍🤝‍👨🏻	Gemini, couple, holding hands, light skin tone, man, medium-dark skin tone, men, men holding hands, men holding hands: medium-dark skin tone, light skin tone, twins, zodiac
 👨🏾‍🤝‍👨🏼	Gemini, couple, holding hands, man, medium-dark skin tone, medium-light skin tone, men, men holding hands, men holding hands: medium-dark skin tone, medium-light skin tone, twins, zodiac
 👨🏾‍🤝‍👨🏽	Gemini, couple, holding hands, man, medium skin tone, medium-dark skin tone, men, men holding hands, men holding hands: medium-dark skin tone, medium skin tone, twins, zodiac
 👬🏾	Gemini, couple, holding hands, man, medium-dark skin tone, men, men holding hands, men holding hands: medium-dark skin tone, twins, zodiac
+👨🏾‍🤝‍👨🏿	Gemini, couple, dark skin tone, holding hands, man, medium-dark skin tone, men, men holding hands, men holding hands: medium-dark skin tone, dark skin tone, twins, zodiac
 👨🏿‍🤝‍👨🏻	Gemini, couple, dark skin tone, holding hands, light skin tone, man, men, men holding hands, men holding hands: dark skin tone, light skin tone, twins, zodiac
 👨🏿‍🤝‍👨🏼	Gemini, couple, dark skin tone, holding hands, man, medium-light skin tone, men, men holding hands, men holding hands: dark skin tone, medium-light skin tone, twins, zodiac
 👨🏿‍🤝‍👨🏽	Gemini, couple, dark skin tone, holding hands, man, medium skin tone, men, men holding hands, men holding hands: dark skin tone, medium skin tone, twins, zodiac
@@ -1752,6 +1979,7 @@
 🗣️	face, head, silhouette, speak, speaking, speaking head
 👤	bust, bust in silhouette, silhouette
 👥	bust, busts in silhouette, silhouette
+🫂	goodbye, hello, hug, people hugging, thanks
 👣	clothing, footprint, footprints, print
 🦰	ginger, red hair, redhead
 🦱	afro, curly, curly hair, ringlets
@@ -1771,6 +1999,7 @@
 🦝	curious, raccoon, sly
 🐱	cat, cat face, face, pet
 🐈️	cat, pet
+🐈‍⬛	black, black cat, cat, unlucky
 🦁	Leo, face, lion, zodiac
 🐯	face, tiger, tiger face
 🐅	tiger
@@ -1780,6 +2009,7 @@
 🦄	face, unicorn
 🦓	stripe, zebra
 🦌	deer
+🦬	bison, buffalo, herd, wisent
 🐮	cow, cow face, face
 🐂	Taurus, bull, ox, zodiac
 🐃	buffalo, water, water buffalo
@@ -1796,6 +2026,7 @@
 🦙	alpaca, guanaco, llama, vicuña, wool
 🦒	giraffe, spots
 🐘	elephant
+🦣	extinction, large, mammoth, tusk, woolly
 🦏	rhinoceros
 🦛	hippo, hippopotamus
 🐭	face, mouse, mouse face
@@ -1805,9 +2036,11 @@
 🐰	bunny, face, pet, rabbit, rabbit face
 🐇	bunny, pet, rabbit
 🐿️	chipmunk, squirrel
+🦫	beaver, dam
 🦔	hedgehog, spiny
 🦇	bat, vampire
 🐻	bear, face
+🐻‍❄	arctic, bear, polar bear, white
 🐨	bear, koala
 🐼	face, panda
 🦥	lazy, sloth, slow
@@ -1829,6 +2062,8 @@
 🦆	bird, duck
 🦢	bird, cygnet, swan, ugly duckling
 🦉	bird, owl, wise
+🦤	Mauritius, dodo, extinction, large
+🪶	bird, feather, flight, light, plumage
 🦩	flamboyant, flamingo, tropical
 🦚	bird, ostentatious, peacock, peahen, proud
 🦜	bird, parrot, pirate, talk
@@ -1844,6 +2079,7 @@
 🐳	face, spouting, spouting whale, whale
 🐋	whale
 🐬	dolphin, flipper
+🦭	sea Lion, seal
 🐟️	Pisces, fish, zodiac
 🐠	fish, tropical, tropical fish
 🐡	blowfish, fish
@@ -1855,12 +2091,16 @@
 🐛	bug, insect
 🐜	ant, insect
 🐝	bee, honeybee, insect
+🪲	beetle, bug, insect
 🐞	beetle, insect, lady beetle, ladybird, ladybug
 🦗	cricket, grasshopper
+🪳	cockroach, insect, pest, roach
 🕷️	insect, spider
 🕸️	spider, spider web, web
 🦂	Scorpio, scorpio, scorpion, zodiac
-🦟	disease, fever, insect, malaria, mosquito, virus
+🦟	disease, fever, malaria, mosquito, pest, virus
+🪰	disease, fly, maggot, pest, rotting
+🪱	annelid, earthworm, parasite, worm
 🦠	amoeba, bacteria, microbe, virus
 💐	bouquet, flower
 🌸	blossom, cherry, cherry blossom, flower
@@ -1873,6 +2113,7 @@
 🌼	blossom, flower
 🌷	flower, tulip
 🌱	seedling, young
+🪴	boring, grow, house, nurturing, plant, potted plant, useless
 🌲	evergreen tree, tree
 🌳	deciduous, deciduous tree, shedding, tree
 🌴	palm, palm tree, tree
@@ -1898,8 +2139,10 @@
 🍑	fruit, peach
 🍒	berries, cherries, cherry, fruit, red
 🍓	berry, fruit, strawberry
+🫐	berry, bilberry, blue, blueberries, blueberry
 🥝	food, fruit, kiwi, kiwi fruit
 🍅	fruit, tomato, vegetable
+🫒	food, olive
 🥥	coconut, palm, piña colada
 🥑	avocado, food, fruit
 🍆	aubergine, eggplant, vegetable
@@ -1907,6 +2150,7 @@
 🥕	carrot, food, vegetable
 🌽	corn, ear, ear of corn, maize, maze
 🌶️	hot, hot pepper, pepper
+🫑	bell pepper, capsicum, pepper, vegetable
 🥒	cucumber, food, pickle, vegetable
 🥬	bok choy, cabbage, kale, leafy green, lettuce
 🥦	broccoli, wild cabbage
@@ -1916,17 +2160,18 @@
 🥜	food, nut, peanut, peanuts, vegetable
 🌰	chestnut, plant
 🍞	bread, loaf
-🥐	bread, crescent roll, croissant, food, french
+🥐	bread, breakfast, croissant, food, french, roll
 🥖	baguette, baguette bread, bread, food, french
+🫓	arepa, flatbread, lavash, naan, pita
 🥨	pretzel, twisted
-🥯	bagel, bakery, schmear
-🥞	crêpe, food, hotcake, pancake, pancakes
-🧇	indecisive, iron, waffle
+🥯	bagel, bakery, breakfast, schmear
+🥞	breakfast, crêpe, food, hotcake, pancake, pancakes
+🧇	breakfast, indecisive, iron, waffle
 🧀	cheese, cheese wedge
 🍖	bone, meat, meat on bone
 🍗	bone, chicken, drumstick, leg, poultry, poultry leg
 🥩	chop, cut of meat, lambchop, porkchop, steak
-🥓	bacon, food, meat
+🥓	bacon, breakfast, food, meat
 🍔	burger, hamburger
 🍟	french, french fries, fries
 🍕	cheese, pizza, slice
@@ -1934,12 +2179,14 @@
 🥪	bread, sandwich
 🌮	mexican, taco
 🌯	burrito, mexican, wrap
+🫔	mexican, tamale, wrapped
 🥙	falafel, flatbread, food, gyro, kebab, stuffed, stuffed flatbread
 🧆	chickpea, falafel, meatball
-🥚	egg, food
-🍳	cooking, egg, frying, pan
+🥚	breakfast, egg, food
+🍳	breakfast, cooking, egg, frying, pan
 🥘	casserole, food, paella, pan, shallow, shallow pan of food
 🍲	pot, pot of food, stew
+🫕	Swiss, cheese, chocolate, fondue, melted, pot
 🥣	bowl with spoon, breakfast, cereal, congee
 🥗	food, green, green salad, salad
 🍿	popcorn
@@ -1971,7 +2218,7 @@
 🍦	cream, dessert, ice, icecream, soft, soft ice cream, sweet
 🍧	dessert, ice, shaved, shaved ice, sweet
 🍨	cream, dessert, ice, ice cream, sweet
-🍩	dessert, donut, doughnut, sweet
+🍩	breakfast, dessert, donut, doughnut, sweet
 🍪	cookie, dessert, sweet
 🎂	birthday, birthday cake, cake, celebration, dessert, pastry, sweet
 🍰	cake, dessert, pastry, shortcake, slice, sweet
@@ -1985,6 +2232,7 @@
 🍼	baby, baby bottle, bottle, drink, milk
 🥛	drink, glass, glass of milk, milk
 ☕️	beverage, coffee, drink, hot, hot beverage, steaming, tea
+🫖	drink, pot, tea, teapot
 🍵	beverage, cup, drink, tea, teacup, teacup without handle
 🍶	bar, beverage, bottle, cup, drink, sake
 🍾	bar, bottle, bottle with popping cork, cork, drink, popping
@@ -1996,7 +2244,8 @@
 🥂	celebrate, clink, clinking glasses, drink, glass
 🥃	glass, liquor, shot, tumbler, tumbler glass, whisky
 🥤	cup with straw, juice, soda
-🧃	beverage box, juice box
+🧋	bubble, bubble tea, milk, pearl, tea
+🧃	beverage, beverage box, box, juice, straw, sweet
 🧉	drink, mate
 🧊	cold, ice, ice cube, iceberg
 🥢	chopsticks, hashi
@@ -2025,6 +2274,9 @@
 🏛️	classical, classical building
 🏗️	building construction, construction
 🧱	brick, bricks, clay, mortar, wall
+🪨	boulder, heavy, rock, solid, stone
+🪵	log, lumber, timber, wood
+🛖	house, hut, roundhouse, yurt
 🏘️	houses
 🏚️	derelict, derelict house, house
 🏠️	home, house
@@ -2092,6 +2344,7 @@
 🚗	automobile, car
 🚘️	automobile, car, oncoming, oncoming automobile
 🚙	recreational, sport utility, sport utility vehicle
+🛻	pick-up, pickup, pickup truck, truck
 🚚	delivery, delivery truck, truck
 🚛	articulated lorry, lorry, semi, truck
 🚜	tractor, vehicle
@@ -2104,6 +2357,7 @@
 🚲️	bicycle, bike
 🛴	kick, kick scooter, scooter
 🛹	board, skateboard
+🛼	roller, roller skate, skate
 🚏	bus, bus stop, busstop, stop
 🛣️	highway, motorway, road
 🛤️	railway, railway track, train
@@ -2274,6 +2528,7 @@
 🪁	fly, kite, soar
 🎱	8, ball, billiard, eight, game, pool 8 ball
 🔮	ball, crystal, crystal ball, fairy tale, fantasy, fortune, tool
+🪄	magic, magic wand, witch, wizard
 🧿	bead, charm, evil-eye, nazar, nazar amulet, talisman
 🎮️	controller, game, video game
 🕹️	game, joystick, video game
@@ -2281,6 +2536,8 @@
 🎲	dice, die, game, game die
 🧩	clue, interlocking, jigsaw, piece, puzzle, puzzle piece
 🧸	plaything, plush, stuffed, teddy bear, toy
+🪅	celebration, party, piñata
+🪆	doll, nesting, nesting dolls, russia
 ♠️	card, game, spade suit
 ♥️	card, game, heart suit
 ♦️	card, diamond suit, game
@@ -2293,7 +2550,9 @@
 🖼️	art, frame, framed picture, museum, painting, picture
 🎨	art, artist palette, museum, painting, palette
 🧵	needle, sewing, spool, string, thread
+🪡	embroidery, needle, sewing, sewing needle, stitches, sutures, tailoring
 🧶	ball, crochet, knit, yarn
+🪢	knot, rope, tangled, tie, twine, twist
 👓️	clothing, eye, eyeglasses, eyewear, glasses
 🕶️	dark, eye, eyewear, glasses, sunglasses
 🥽	eye protection, goggles, swimming, welding
@@ -2319,6 +2578,7 @@
 👝	bag, clothing, clutch bag, pouch
 🛍️	bag, hotel, shopping, shopping bags
 🎒	backpack, bag, rucksack, satchel, school
+🩴	beach sandals, sandals, thong sandal, thong sandals, thongs, zōri
 👞	clothing, man, man’s shoe, shoe
 👟	athletic, clothing, running shoe, shoe, sneaker
 🥾	backpacking, boot, camping, hiking, hiking boot
@@ -2332,6 +2592,7 @@
 🎩	clothing, hat, top, top hat, tophat
 🎓️	cap, celebration, clothing, graduation, graduation cap, hat
 🧢	baseball cap, billed cap
+🪖	army, helmet, military, military helmet, soldier, warrior
 ⛑️	aid, cross, face, hat, helmet, rescue worker’s helmet
 📿	beads, clothing, necklace, prayer, prayer beads, religion
 💄	cosmetics, lipstick, makeup
@@ -2356,12 +2617,14 @@
 🎧️	earbud, headphone
 📻️	radio, video
 🎷	instrument, music, sax, saxophone
+🪗	accordian, accordion, concertina, squeeze box
 🎸	guitar, instrument, music
 🎹	instrument, keyboard, music, musical keyboard, piano
 🎺	instrument, music, trumpet
 🎻	instrument, music, violin
 🪕	banjo, music, stringed
 🥁	drum, drumsticks, music
+🪘	beat, conga, drum, long drum, rhythm
 📱	cell, mobile, mobile phone, phone, telephone
 📲	arrow, cell, mobile, mobile phone with arrow, phone, receive
 ☎️	phone, telephone
@@ -2370,7 +2633,7 @@
 📠	fax, fax machine
 🔋	battery
 🔌	electric, electric plug, electricity, plug
-💻️	computer, laptop computer, pc, personal
+💻️	computer, laptop, pc, personal
 🖥️	computer, desktop, desktop computer
 🖨️	computer, printer
 ⌨️	computer, keyboard
@@ -2415,6 +2678,7 @@
 🔖	bookmark, mark
 🏷️	label
 💰️	bag, dollar, money, money bag, moneybag
+🪙	coin, gold, metal, money, silver, treasure
 💴	banknote, bill, currency, money, note, yen, yen banknote
 💵	banknote, bill, currency, dollar, dollar banknote, money, note
 💶	banknote, bill, currency, euro, euro banknote, money, note
@@ -2423,8 +2687,6 @@
 💳️	card, credit, credit card, money
 🧾	accounting, bookkeeping, evidence, proof, receipt
 💹	chart, chart increasing with yen, graph, growth, money, yen
-💱	bank, currency, currency exchange, exchange, money
-💲	currency, dollar, heavy dollar sign, money
 ✉️	email, envelope, letter
 📧	e-mail, email, letter, mail
 📨	e-mail, email, envelope, incoming, incoming envelope, letter, receive
@@ -2482,18 +2744,23 @@
 🗡️	dagger, knife, weapon
 ⚔️	crossed, crossed swords, swords, weapon
 🔫	gun, handgun, pistol, revolver, tool, weapon
+🪃	australia, boomerang, rebound, repercussion
 🏹	Sagittarius, archer, arrow, bow, bow and arrow, zodiac
 🛡️	shield, weapon
+🪚	carpenter, carpentry saw, lumber, saw, tool
 🔧	spanner, tool, wrench
+🪛	screw, screwdriver, tool
 🔩	bolt, nut, nut and bolt, tool
 ⚙️	cog, cogwheel, gear, tool
 🗜️	clamp, compress, tool, vice
 ⚖️	Libra, balance, balance scale, justice, scale, zodiac
-🦯	accessibility, blind, probing cane
+🦯	accessibility, blind, white cane
 🔗	link
 ⛓️	chain, chains
+🪝	catch, crook, curve, ensnare, hook, selling point
 🧰	chest, mechanic, tool, toolbox
 🧲	attraction, horseshoe, magnet, magnetic
+🪜	climb, ladder, rung, step
 ⚗️	alembic, chemistry, tool
 🧪	chemist, chemistry, experiment, lab, science, test tube
 🧫	bacteria, biologist, biology, culture, lab, petri dish
@@ -2507,26 +2774,35 @@
 🩹	adhesive bandage, bandage
 🩺	doctor, heart, medicine, stethoscope
 🚪	door
+🛗	accessibility, elevator, hoist, lift
+🪞	mirror, reflection, reflector, speculum
+🪟	frame, fresh air, opening, transparent, view, window
 🛏️	bed, hotel, sleep
 🛋️	couch, couch and lamp, hotel, lamp
 🪑	chair, seat, sit
 🚽	toilet
+🪠	force cup, plumber, plunger, suction, toilet
 🚿	shower, water
 🛁	bath, bathtub
+🪤	bait, mouse trap, mousetrap, snare, trap
 🪒	razor, sharp, shave
 🧴	lotion, lotion bottle, moisturizer, shampoo, sunscreen
 🧷	diaper, punk rock, safety pin
 🧹	broom, cleaning, sweeping, witch
 🧺	basket, farming, laundry, picnic
 🧻	paper towels, roll of paper, toilet paper
+🪣	bucket, cask, pail, vat
 🧼	bar, bathing, cleaning, lather, soap, soapdish
+🪥	bathroom, brush, clean, dental, hygiene, teeth, toothbrush
 🧽	absorbing, cleaning, porous, sponge
 🧯	extinguish, fire, fire extinguisher, quench
 🛒	cart, shopping, shopping cart, trolley
 🚬	cigarette, smoking
 ⚰️	coffin, death
+🪦	cemetery, grave, graveyard, headstone, tombstone
 ⚱️	ashes, death, funeral, funeral urn, urn
 🗿	face, moai, moyai, statue
+🪧	demonstration, picket, placard, protest, sign
 🏧	ATM sign, atm, automated, bank, teller
 🚮	litter, litter bin, litter in bin sign
 🚰	drinking, potable, potable water, water
@@ -2625,8 +2901,22 @@
 📴	cell, mobile, mobile phone off, off, phone, telephone
 ♀️	female sign, woman
 ♂️	male sign, man
-⚕️	aesculapius, medical symbol, medicine, staff
+⚧️	transgender, transgender symbol
+✖️	cancel, multiplication, multiply, sign, x, ×
+➕	+, math, plus, sign
+➖	-, math, minus, sign, −
+➗	divide, division, math, sign, ÷
 ♾️	forever, infinity, unbounded, universal
+‼️	!, !!, bangbang, double exclamation mark, exclamation, mark
+⁉️	!, !?, ?, exclamation, exclamation question mark, interrobang, mark, punctuation, question
+❓️	?, mark, punctuation, question, question mark
+❔	?, mark, outlined, punctuation, question, white question mark
+❕	!, exclamation, mark, outlined, punctuation, white exclamation mark
+❗️	!, exclamation, exclamation mark, mark, punctuation
+〰️	dash, punctuation, wavy, wavy dash
+💱	bank, currency, currency exchange, exchange, money
+💲	currency, dollar, heavy dollar sign, money
+⚕️	aesculapius, medical symbol, medicine, staff
 ♻️	recycle, recycling symbol
 ⚜	fleur-de-lis
 🔱	anchor, emblem, ship, tool, trident, trident emblem
@@ -2636,25 +2926,14 @@
 ✅	button, check, check mark button, mark, ✓
 ☑️	box, check, check box with check, ✓
 ✔️	check, check mark, mark, ✓
-✖️	cancel, multiplication, multiplication sign, multiply, sign, x, ×
 ❌	cancel, cross, cross mark, mark, multiplication, multiply, x, ×
 ❎	cross mark button, mark, square, x, ×
-➕	+, math, plus, plus sign, sign
-➖	-, math, minus, minus sign, sign, −
-➗	division, division sign, math, sign, ÷
 ➰	curl, curly loop, loop
 ➿	curl, double, double curly loop, loop
 〽️	mark, part, part alternation mark
 ✳️	*, asterisk, eight-spoked asterisk
 ✴️	*, eight-pointed star, star
 ❇️	*, sparkle
-‼️	!, !!, bangbang, double exclamation mark, exclamation, mark
-⁉️	!, !?, ?, exclamation, exclamation question mark, interrobang, mark, punctuation, question
-❓️	?, mark, punctuation, question, question mark
-❔	?, mark, outlined, punctuation, question, white question mark
-❕	!, exclamation, mark, outlined, punctuation, white exclamation mark
-❗️	!, exclamation, exclamation mark, mark, punctuation
-〰️	dash, punctuation, wavy, wavy dash
 ©️	c, copyright
 ®️	r, registered
 ™️	mark, tm, trade mark, trademark
@@ -2749,7 +3028,8 @@
 🎌	Japanese, celebration, cross, crossed, crossed flags
 🏴	black flag, waving
 🏳️	waving, white flag
-🏳‍🌈	rainbow, rainbow flag
+🏳‍🌈	pride, rainbow, rainbow flag
+🏳‍⚧	flag, light blue, pink, transgender, transgender flag, white
 🏴‍☠	Jolly Roger, pirate, pirate flag, plunder, treasure
 🇦🇨	flag, flag: Ascension Island
 🇦🇩	flag, flag: Andorra

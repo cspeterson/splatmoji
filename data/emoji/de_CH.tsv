@@ -1,11 +1,12 @@
 😃	Gesicht, grinsendes Gesicht mit grossen Augen, lol, lustig
 😅	Gesicht, Lachender Smiley mit kaltem Schweiss, Schweiss, lustig, schwitzen
-🤪	Auge, gross, klein
+🤪	irres Gesicht
 🤐	Gesicht, Mund, Reissverschluss, Smiley mit Reissverschlussmund
-🥵	Fieber, Hitzschlag, erhitzt, heiss, schwitzen
+🥵	schwitzendes Gesicht
+🥸	Brille, Gesicht, Gesicht mit Maske, Maske, Nase, incognito
 😳	Erröteter Smiley mit grossen Augen, Gesicht, rote Wangen, überrascht
 😰	Gesicht, Smiley mit offenem Mund und kaltem Schweiss, kalter Schweiss, offener Mund
-😥	Gesicht, Schweiss, erleichtert
+😥	trauriges aber erleichtertes Gesicht
 😓	Gesicht, Smiley mit kaltem Schweiss, geschlossene Augen
 👽️	Alien, Ausserirdischer, Ausserirdisches Wesen, Gesicht, UFO
 🤎	braunes Herz
@@ -30,6 +31,13 @@
 🦶🏽	Fuss, Fuss: mittlere Hautfarbe, mittlere Hautfarbe
 🦶🏾	Fuss, Fuss: mitteldunkle Hautfarbe, mitteldunkle Hautfarbe
 🦶🏿	Fuss, Fuss: dunkle Hautfarbe, dunkle Hautfarbe
+🫁	Lungen
+🧑‍🦳	Erwachsener, Erwachsener: weisses Haar, geschlechtsneutral, weisses Haar
+🧑🏻‍🦳	Erwachsener, Erwachsener: helle Hautfarbe, weisses Haar, geschlechtsneutral, helle Hautfarbe, weisses Haar
+🧑🏼‍🦳	Erwachsener, Erwachsener: mittelhelle Hautfarbe, weisses Haar, geschlechtsneutral, mittelhelle Hautfarbe, weisses Haar
+🧑🏽‍🦳	Erwachsener, Erwachsener: mittlere Hautfarbe, weisses Haar, geschlechtsneutral, mittlere Hautfarbe, weisses Haar
+🧑🏾‍🦳	Erwachsener, Erwachsener: mitteldunkle Hautfarbe, weisses Haar, geschlechtsneutral, mitteldunkle Hautfarbe, weisses Haar
+🧑🏿‍🦳	Erwachsener, Erwachsener: dunkle Hautfarbe, weisses Haar, dunkle Hautfarbe, geschlechtsneutral, weisses Haar
 👨‍🦳	Mann, Mann: weisses Haar, weisses Haar
 👨🏻‍🦳	Mann, Mann: helle Hautfarbe, weisses Haar, helle Hautfarbe, weisses Haar
 👨🏼‍🦳	Mann, Mann: mittelhelle Hautfarbe, weisses Haar, mittelhelle Hautfarbe, weisses Haar
@@ -42,6 +50,31 @@
 👩🏽‍🦳	Frau, Frau: mittlere Hautfarbe, weisses Haar, mittlere Hautfarbe, weisses Haar
 👩🏾‍🦳	Frau, Frau: mitteldunkle Hautfarbe, weisses Haar, mitteldunkle Hautfarbe, weisses Haar
 👩🏿‍🦳	Frau, Frau: dunkle Hautfarbe, weisses Haar, dunkle Hautfarbe, weisses Haar
+🧑‍🔧	Mechaniker(in)
+🧑🏻‍🔧	Mechaniker(in), helle Hautfarbe
+🧑🏼‍🔧	Mechaniker(in), mittelhelle Hautfarbe
+🧑🏽‍🔧	Mechaniker(in), mittlere Hautfarbe
+🧑🏾‍🔧	Mechaniker(in), mitteldunkle Hautfarbe
+🧑🏿‍🔧	Mechaniker(in), dunkle Hautfarbe
+🧑‍🏭	Fabrikarbeiter(in)
+🧑🏻‍🏭	Fabrikarbeiter(in), helle Hautfarbe
+🧑🏼‍🏭	Fabrikarbeiter(in), mittelhelle Hautfarbe
+🧑🏽‍🏭	Fabrikarbeiter(in), mittlere Hautfarbe
+🧑🏾‍🏭	Fabrikarbeiter(in), mitteldunkle Hautfarbe
+🧑🏿‍🏭	Fabrikarbeiter(in), dunkle Hautfarbe
+🧑‍💼	Architekt, Business, Büroangestellte(r), Manager
+🧑🏻‍💼	Architekt, Business, Büroangestellte(r), Manager, helle Hautfarbe
+🧑🏼‍💼	Architekt, Business, Büroangestellte(r), Manager, mittelhelle Hautfarbe
+🧑🏽‍💼	Architekt, Business, Büroangestellte(r), Manager, mittlere Hautfarbe
+🧑🏾‍💼	Architekt, Business, Büroangestellte(r), Manager, mitteldunkle Hautfarbe
+🧑🏿‍💼	Architekt, Business, Büroangestellte(r), Manager, dunkle Hautfarbe
+🧑‍🔬	Wissenschaftler(in)
+🧑🏻‍🔬	Wissenschaftler(in), helle Hautfarbe
+🧑🏼‍🔬	Wissenschaftler(in), mittelhelle Hautfarbe
+🧑🏽‍🔬	Wissenschaftler(in), mittlere Hautfarbe
+🧑🏾‍🔬	Wissenschaftler(in), mitteldunkle Hautfarbe
+🧑🏿‍🔬	Wissenschaftler(in), dunkle Hautfarbe
+🥷	Ninja
 🧟‍♂	Zombiemann
 🚶	Fussgänger(in), gehen, gehend, wandern
 🚶🏻	Fussgänger(in), Fussgänger(in): helle Hautfarbe, gehen, gehend, helle Hautfarbe, wandern
@@ -61,55 +94,82 @@
 🚶🏽‍♀	Frau, Fussgängerin, Fussgängerin: mittlere Hautfarbe, Spaziergang, gehen, mittlere Hautfarbe
 🚶🏾‍♀	Frau, Fussgängerin, Fussgängerin: mitteldunkle Hautfarbe, Spaziergang, gehen, mitteldunkle Hautfarbe
 🚶🏿‍♀	Frau, Fussgängerin, Fussgängerin: dunkle Hautfarbe, Spaziergang, dunkle Hautfarbe, gehen
-👨‍🦯	Barrierefreiheit, Mann, blind
-👨🏻‍🦯	Barrierefreiheit, Mann, blind, helle Hautfarbe
-👨🏼‍🦯	Barrierefreiheit, Mann, blind, mittelhelle Hautfarbe
-👨🏽‍🦯	Barrierefreiheit, Mann, blind, mittlere Hautfarbe
-👨🏾‍🦯	Barrierefreiheit, Mann, blind, mitteldunkle Hautfarbe
-👨🏿‍🦯	Barrierefreiheit, Mann, blind, dunkle Hautfarbe
+🧑‍🦯	Barrierefreiheit, Person mit Langstock, blind
+🧑🏻‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: helle Hautfarbe, blind, helle Hautfarbe
+🧑🏼‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: mittelhelle Hautfarbe, blind, mittelhelle Hautfarbe
+🧑🏽‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: mittlere Hautfarbe, blind, mittlere Hautfarbe
+🧑🏾‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: mitteldunkle Hautfarbe, blind, mitteldunkle Hautfarbe
+🧑🏿‍🦯	Barrierefreiheit, Person mit Langstock, Person mit Langstock: dunkle Hautfarbe, blind, dunkle Hautfarbe
+👨‍🦯	Mann mit Gehstock
+👨🏻‍🦯	Mann mit Gehstock, helle Hautfarbe
+👨🏼‍🦯	Mann mit Gehstock, mittelhelle Hautfarbe
+👨🏽‍🦯	Mann mit Gehstock, mittlere Hautfarbe
+👨🏾‍🦯	Mann mit Gehstock, mitteldunkle Hautfarbe
+👨🏿‍🦯	Mann mit Gehstock, dunkle Hautfarbe
 👣	Abdruck, Fuss, Fussabdrücke
 🦳	weisses Haar
+🦣	Mammut
+🐻‍❄	Eisbär
+🦤	Dodo
+🦭	Seehund
 💐	Blumen, Blumenstrauss, Bouquet
-🥨	verdreht
-🍝	Nudeln mit Tomatensosse, Pasta, Restaurant
+🌶️	Chili
+🫑	Gemüse, Paprika, Peperoni
+🥨	Brezel
+🍝	Spaghetti
 🍠	Geröstete Süsskartoffel, Süsskartoffel, geröstet
-🍡	Mochi-Kugeln auf einem Spiess, Restaurant, japanisches Gericht
-🍧	Eis, zerstossen
-🧁	Cupcake, Gebäck, Konditorei, Muffin, süss
-🍬	Süssigkeit
-🍭	Lolli, Süssigkeit
-🍮	Dessert, Nachspeise, Nachtisch, Schokolade, Sosse
+🍡	Dango
+🍧	Wassereis
+🧁	Cupcake
+🍬	Bonbon
+🍭	Lutscher
+🍮	Pudding
 ☕️	Getränk, Heissgetränk, Kaffee, Tee, dampfend, heiss, trinken
-🍻	Bier, anstossen
-🥂	Getränk, Sekt, anstossen, feiern
-🏺	Gefäss, Krug, Sternzeichen, Tierkreis, Vase, kochen, trinken
+🍻	Bierkrüge
+🥂	Sektgläser
+🧋	Bubble Tea
+🏺	Amphore
 ♨️	Dampf, Heisse Quellen, Quellen, dampfend, heiss, heisse Quellen
 🚃	Fahrzeug, Strassenbahn, Strassenbahnwagen, Tram, Wagen, Wagon, Zug
 🚊	Strassenbahn, Tram
-🚋	Strassenbahn, Tram, Waggon
-🛣️	Autobahn, Schnellstrasse
+🚋	Tramwagen
+🛣️	Autobahn
 ⭐️	Stern, weisser mittelgrosser Stern
 🌌	Galaxie, Milchstrasse
 🌥️	Sonne, Sonne hinter grosser Wolke, Wetter, Wolke, grosse Wolke
-🔥	Flamme, heiss
-💧	Schweiss, Wasser, Wassertropfen
+🔥	Feuer
+💧	Tropfen
 ⚽️	Ball, Fussball
-🥌	Spiel, Stein
-🥽	Augenschutz, Schweissen, Schwimmen
+🥌	Curlingstein
+🪄	Zauberstab
+🪅	Piñata
+🪆	Matroschka
+🥽	Schutzbrille
+🩴	Flipflops, Zehensandale, Zehensandalen
 ⛑️	Helm, Helm mit weissem Kreuz, Hilfe, Kreuz
-🔍	Suche, Vergrösserungsglas
-🔎	Suche, Vergrösserungsglas
+🪗	Akkordeon
+🔍	Lupe nach links
+🔎	Lupe nach rechts
 📆	Abreisskalender, Kalender
 📌	Reisszwecke, anpinnen
 📍	Reisszwecke, anpinnen, rund, runde Reisszwecke
+🪃	Bumerang
+🪝	Haken
+🛗	Lift
+🪟	Fenster
+🪠	Klempner, Pümpel, Sanitär, Saugglocke, WC
+🪤	Mäusefalle
+🪦	Grabstein
+🪧	Demonstration, Plakat, Protest, Transparent
 🚼️	Baby-Symbol
-🛅	Gepäck, Schliessfach
+🛅	Gepäckaufbewahrung
 🚸	Kinder, Kinder-queren-die-Strasse-Schild, Vorsicht
 🚷	Fussgänger-verboten-Schild, verboten
-⭕️	Grosser Kreis, Kreis, o, rot
-✅	Weisses Häkchen, abgehakt, erledigt
+☢️	radioaktiv
 ❔	Satzzeichen, weiss, weisses Fragezeichen
 ❕	Satzzeichen, weiss, weisses Ausrufezeichen
+⭕️	Grosser Kreis, Kreis, o, rot
+✅	Weisses Häkchen, abgehakt, erledigt
 🔠	Eingabesymbol lateinische Grossbuchstaben, Grossbuchstaben, lateinische Grossbuchstaben
 🅰️	Blut, Blutgruppe, Grossbuchstabe A in Quadrat, a, negativ, positiv
 🆎	Blut, Blutgruppe, Grossbuchstaben AB in rotem Quadrat, ab, negativ, positiv
@@ -135,6 +195,7 @@
 🔷	Grosse blaue Raute, Raute, blau
 🔳	Schaltfläche, Weisse quadratische Schaltfläche, quadratisch, weiss
 🏳️	Fahne, Wehende weisse Fahne, wehen, weisse Fahne
+🏳‍⚧	Flagge, Transgender, Transgenderflagge, hellblau, pink, weiss
 🇧🇳	Flagge: Brunei
 🇧🇼	Flagge: Botswana
 🇧🇾	Flagge: Weissrussland

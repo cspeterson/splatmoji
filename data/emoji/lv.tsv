@@ -11,7 +11,7 @@
 😉	acs, miegt, mirkšķināt, seja, seja ar piemiegtu aci
 😊	nosarkt, prieks, seja, smaidoša seja ar smaidošām acīm, smaids
 😇	eņģelis, nevainīgs, nimbs, seja, smaidoša seja ar nimbu, smaids, svētais
-🥰	aizrāvies, dievināt, iemīlējies, smaidoša seja ar sirsniņām
+🥰	aizrāvies, dievināt, iemīlējies, sirdis, smaidoša seja ar sirsniņām
 😍	acs, mīlestība, seja, sirds, smaidoša seja ar sirds formas acīm, smaids
 🤩	acis, seja, smaidīt, zvaigznes, zvaigžņu pārņemts
 😘	seja, sirds, skūpstoša seja, skūpsts
@@ -19,6 +19,7 @@
 ☺️	mierīgs, prieks, seja, smaidoša seja, smaids
 😚	acs, aizvērts, seja, seja ar aizvērtām acīm sniedz skūpstu, skūpsts, smaids
 😙	seja, seja ar smaidošām acīm sniedz skūpstu, skūpsts, smaids
+🥲	aizkustināts, asara, atvieglots, lepns, pateicīgs, smaidoša seja ar asaru, smaidošs
 😋	garšīgs, seja, smaids, ēdienu baudoša seja, ņamm
 😛	mēle, seja, seja ar izbāztu mēli
 😜	acs, miegt, mirkšķināt, mēle, seja, seja ar izbāztu mēli un piemiegtu aci
@@ -51,12 +52,13 @@
 🤮	nelabums, slimība, vemjoša seja
 🤧	seja, šķauda
 🥵	drudzī, karstuma dūriens, nosvīdis, piesārtusi seja, sarkanu seju, saules dūriens
-🥶	apsaldējies, auksta seja, auksts, lāstekas, nozilējis, stindzinošs
+🥶	apsaldējies, auksts, lāstekas, nosalusi seja, nozilējis, stindzinošs
 🥴	apreibis, noreibusi seja, piedzēries, šķību muti, šķībām acīm
 😵	apreibis, apreibusi seja, seja
 🤯	eksplodējoša galva, šokēts
 🤠	cepure, kovbojs, seja, seja ar kovboja cepuri, seja kovboja cepurē
 🥳	ballīte, ballīšu seja, cepure, svinības, taurīte
+🥸	brilles, deguns, inkognito, maska, paslēpta seja, seja
 😎	saulesbrilles, seja, smaidoša seja ar saulesbrillēm, smaids, stilīgs
 🤓	briļļainais, gudrītis, seja
 🧐	seja ar monokli, vecmodīga
@@ -100,14 +102,14 @@
 👽️	NLO, briesmonis, citplanētietis, kosmoss, visums
 👾	NLO, briesmonis, citplanētietis, citplanētiešu briesmonis, kosmoss, visums
 🤖	monstrs, robots, seja
-😺	atvērts, galva, kaķis, mute, plati smaidošs kaķis, smaidoša kaķa galva ar atvērtu muti, smaids
+😺	atvērts, galva, kaķis, mute, plati smaidošs kaķis, plats smaids, smaids
 😸	acis, kaķis, plati smaidošs kaķis ar smaidošām acīm, plats smaids, seja, smaids
-😹	asaras, kaķa galva ar prieka asarām, kaķis, prieks, seja
-😻	acis, kaķis, mīlestība, sirds, smaidoša kaķa galva ar sirds formas acīm, smaids
-😼	ironisks, kaķa galva ar viltīgu smaidu, kaķis, seja, smaids, sājš
+😹	asaras, kaķis, kaķis ar prieka asarām, prieks, seja
+😻	acis, kaķis, mīlestība, sirds, smaidošs kaķis ar sirds formas acīm, smaids
+😼	ironisks, kaķis, kaķis ar viltīgu smaidu, seja, smaids, sājš
 😽	acis, kaķis, kaķis sniedz skūpstu, seja, skūpsts
-🙀	ak, kaķis, noraizējies, noraizējusies kaķa galva, pārsteigts, seja
-😿	asaras, kaķis, raudoša kaķa galva, raudāt, seja, skumjš
+🙀	ak, kaķis, noraizējies, noraizējies kaķis, pārsteigts, seja
+😿	asaras, kaķis, raudošs kaķis, raudāt, seja, skumjš
 😾	kaķis, sabozies, sabozies kaķis, seja
 🙈	aizliegts, galva, nedrīkst, neko neredzu, nē, pērtiķis, redzēt, ļauns, žests
 🙉	aizliegts, dzirdēt, galva, nedrīkst, neko nedzirdu, nē, pērtiķis, ļauns, žests
@@ -183,6 +185,12 @@
 👌🏽	labi, ok, roka, simbols OK, simbols OK: vidējs ādas tonis, vidējs ādas tonis, ķermenis
 👌🏾	labi, ok, roka, simbols OK, simbols OK: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, ķermenis
 👌🏿	labi, ok, roka, simbols OK, simbols OK: tumšs ādas tonis, tumšs ādas tonis, ķermenis
+🤌	pastiepti pirksti, pirksti, rokas žests, sarkastisks, saspiests
+🤌🏻	gaišs ādas tonis, pastiepti pirksti, pastiepti pirksti: gaišs ādas tonis, pirksti, rokas žests, sarkastisks, saspiests
+🤌🏼	pastiepti pirksti, pastiepti pirksti: vidēji gaišs ādas tonis, pirksti, rokas žests, sarkastisks, saspiests, vidēji gaišs ādas tonis
+🤌🏽	pastiepti pirksti, pastiepti pirksti: vidējs ādas tonis, pirksti, rokas žests, sarkastisks, saspiests, vidējs ādas tonis
+🤌🏾	pastiepti pirksti, pastiepti pirksti: vidēji tumšs ādas tonis, pirksti, rokas žests, sarkastisks, saspiests, vidēji tumšs ādas tonis
+🤌🏿	pastiepti pirksti, pastiepti pirksti: tumšs ādas tonis, pirksti, rokas žests, sarkastisks, saspiests, tumšs ādas tonis
 🤏	nedaudz, roka rāda drusciņu
 🤏🏻	gaišs ādas tonis, nedaudz, roka rāda drusciņu, roka rāda drusciņu: gaišs ādas tonis
 🤏🏼	nedaudz, roka rāda drusciņu, roka rāda drusciņu: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
@@ -379,6 +387,8 @@
 👃🏾	deguns, deguns: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, ķermenis
 👃🏿	deguns, deguns: tumšs ādas tonis, tumšs ādas tonis, ķermenis
 🧠	intelekts, smadzenes
+🫀	centrs, cilvēka sirds, kardioloģija, orgāns, pulss, sirdspuksti
+🫁	ekshalācija, elpošana, inhalācija, orgāns, plaušas, respirācija
 🦷	zobs, zobārsts
 🦴	kauls, skelets
 👀	acis, acs, ķermenis
@@ -421,18 +431,42 @@
 👱🏽	blonds, blonds cilvēks, blonds cilvēks: vidējs ādas tonis, seja, vidējs ādas tonis
 👱🏾	blonds, blonds cilvēks, blonds cilvēks: vidēji tumšs ādas tonis, seja, vidēji tumšs ādas tonis
 👱🏿	blonds, blonds cilvēks, blonds cilvēks: tumšs ādas tonis, seja, tumšs ādas tonis
+🧑‍🦰	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: sarkani mati, sarkani mati
+🧑🏻‍🦰	bezdzimuma, dzimumneitrāls, gaišs ādas tonis, pieaugušais, pieaugušais: gaišs ādas tonis un sarkani mati, sarkani mati
+🧑🏼‍🦰	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji gaišs ādas tonis un sarkani mati, sarkani mati, vidēji gaišs ādas tonis
+🧑🏽‍🦰	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidējs ādas tonis un sarkani mati, sarkani mati, vidējs ādas tonis
+🧑🏾‍🦰	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji tumšs ādas tonis un sarkani mati, sarkani mati, vidēji tumšs ādas tonis
+🧑🏿‍🦰	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: tumšs ādas tonis un sarkani mati, sarkani mati, tumšs ādas tonis
+🧑‍🦱	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: sprogaini mati, sprogaini mati
+🧑🏻‍🦱	bezdzimuma, dzimumneitrāls, gaišs ādas tonis, pieaugušais, pieaugušais: gaišs ādas tonis un sprogaini mati, sprogaini mati
+🧑🏼‍🦱	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji gaišs ādas tonis un sprogaini mati, sprogaini mati, vidēji gaišs ādas tonis
+🧑🏽‍🦱	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidējs ādas tonis un sprogaini mati, sprogaini mati, vidējs ādas tonis
+🧑🏾‍🦱	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji tumšs ādas tonis un sprogaini mati, sprogaini mati, vidēji tumšs ādas tonis
+🧑🏿‍🦱	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: tumšs ādas tonis un sprogaini mati, sprogaini mati, tumšs ādas tonis
+🧑‍🦳	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: sirmi mati, sirmi mati
+🧑🏻‍🦳	bezdzimuma, dzimumneitrāls, gaišs ādas tonis, pieaugušais, pieaugušais: gaišs ādas tonis un sirmi mati, sirmi mati
+🧑🏼‍🦳	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji gaišs ādas tonis un sirmi mati, sirmi mati, vidēji gaišs ādas tonis
+🧑🏽‍🦳	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidējs ādas tonis un sirmi mati, sirmi mati, vidējs ādas tonis
+🧑🏾‍🦳	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji tumšs ādas tonis un sirmi mati, sirmi mati, vidēji tumšs ādas tonis
+🧑🏿‍🦳	bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: tumšs ādas tonis un sirmi mati, sirmi mati, tumšs ādas tonis
+🧑‍🦲	bez matiem, bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: bez matiem
+🧑🏻‍🦲	bez matiem, bezdzimuma, dzimumneitrāls, gaišs ādas tonis, pieaugušais, pieaugušais: gaišs ādas tonis un bez matiem
+🧑🏼‍🦲	bez matiem, bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji gaišs ādas tonis un bez matiem, vidēji gaišs ādas tonis
+🧑🏽‍🦲	bez matiem, bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidējs ādas tonis un bez matiem, vidējs ādas tonis
+🧑🏾‍🦲	bez matiem, bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: vidēji tumšs ādas tonis un bez matiem, vidēji tumšs ādas tonis
+🧑🏿‍🦲	bez matiem, bezdzimuma, dzimumneitrāls, pieaugušais, pieaugušais: tumšs ādas tonis un bez matiem, tumšs ādas tonis
 👨	kungs, seja, vīrietis, vīrs
 👨🏻	gaišs ādas tonis, kungs, seja, vīrietis, vīrietis: gaišs ādas tonis, vīrs
 👨🏼	kungs, seja, vidēji gaišs ādas tonis, vīrietis, vīrietis: vidēji gaišs ādas tonis, vīrs
 👨🏽	kungs, seja, vidējs ādas tonis, vīrietis, vīrietis: vidējs ādas tonis, vīrs
 👨🏾	kungs, seja, vidēji tumšs ādas tonis, vīrietis, vīrietis: vidēji tumšs ādas tonis, vīrs
 👨🏿	kungs, seja, tumšs ādas tonis, vīrietis, vīrietis: tumšs ādas tonis, vīrs
-🧔	bārda, bārdaina persona, persona, vīrietis
-🧔🏻	bārda, bārdaina persona, bārdaina persona: gaišs ādas tonis, gaišs ādas tonis, persona, vīrietis
-🧔🏼	bārda, bārdaina persona, bārdaina persona: vidēji gaišs ādas tonis, persona, vidēji gaišs ādas tonis, vīrietis
-🧔🏽	bārda, bārdaina persona, bārdaina persona: vidējs ādas tonis, persona, vidējs ādas tonis, vīrietis
-🧔🏾	bārda, bārdaina persona, bārdaina persona: vidēji tumšs ādas tonis, persona, vidēji tumšs ādas tonis, vīrietis
-🧔🏿	bārda, bārdaina persona, bārdaina persona: tumšs ādas tonis, persona, tumšs ādas tonis, vīrietis
+🧔	bārda, bārdaina persona, bārdains vīrietis, persona, vīrietis
+🧔🏻	bārda, bārdaina persona, bārdains vīrietis, bārdains vīrietis: gaišs ādas tonis, gaišs ādas tonis, persona, vīrietis
+🧔🏼	bārda, bārdaina persona, bārdains vīrietis, bārdains vīrietis: vidēji gaišs ādas tonis, persona, vidēji gaišs ādas tonis, vīrietis
+🧔🏽	bārda, bārdaina persona, bārdains vīrietis, bārdains vīrietis: vidējs ādas tonis, persona, vidējs ādas tonis, vīrietis
+🧔🏾	bārda, bārdaina persona, bārdains vīrietis, bārdains vīrietis: vidēji tumšs ādas tonis, persona, vidēji tumšs ādas tonis, vīrietis
+🧔🏿	bārda, bārdaina persona, bārdains vīrietis, bārdains vīrietis: tumšs ādas tonis, persona, tumšs ādas tonis, vīrietis
 👱‍♂	blondīns, vīrietis
 👱🏻‍♂	blondīns, blondīns: gaišs ādas tonis, gaišs ādas tonis, vīrietis
 👱🏼‍♂	blondīns, blondīns: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -553,24 +587,24 @@
 🙎🏽‍♀	bēdāties, sabozusies sieviete, sabozusies sieviete: vidējs ādas tonis, sieviete, vidējs ādas tonis, žests
 🙎🏾‍♀	bēdāties, sabozusies sieviete, sabozusies sieviete: vidēji tumšs ādas tonis, sieviete, vidēji tumšs ādas tonis, žests
 🙎🏿‍♀	bēdāties, sabozusies sieviete, sabozusies sieviete: tumšs ādas tonis, sieviete, tumšs ādas tonis, žests
-🙅	aizliegts, cilvēks ar aizlieguma žestu, nedrīkst, nē, roka, žests
-🙅🏻	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: gaišs ādas tonis, gaišs ādas tonis, nedrīkst, nē, roka, žests
-🙅🏼	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: vidēji gaišs ādas tonis, nedrīkst, nē, roka, vidēji gaišs ādas tonis, žests
-🙅🏽	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: vidējs ādas tonis, nedrīkst, nē, roka, vidējs ādas tonis, žests
-🙅🏾	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: vidēji tumšs ādas tonis, nedrīkst, nē, roka, vidēji tumšs ādas tonis, žests
-🙅🏿	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: tumšs ādas tonis, nedrīkst, nē, roka, tumšs ādas tonis, žests
-🙅‍♂	nepiekrišana, pret, vīrietis, vīrietis ar aizlieguma žestu, žests
-🙅🏻‍♂	gaišs ādas tonis, nepiekrišana, pret, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: gaišs ādas tonis, žests
-🙅🏼‍♂	nepiekrišana, pret, vidēji gaišs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: vidēji gaišs ādas tonis, žests
-🙅🏽‍♂	nepiekrišana, pret, vidējs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: vidējs ādas tonis, žests
-🙅🏾‍♂	nepiekrišana, pret, vidēji tumšs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: vidēji tumšs ādas tonis, žests
-🙅🏿‍♂	nepiekrišana, pret, tumšs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: tumšs ādas tonis, žests
-🙅‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, žests
-🙅🏻‍♀	gaišs ādas tonis, nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: gaišs ādas tonis, žests
-🙅🏼‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, žests
-🙅🏽‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: vidējs ādas tonis, vidējs ādas tonis, žests
-🙅🏾‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, žests
-🙅🏿‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: tumšs ādas tonis, tumšs ādas tonis, žests
+🙅	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar noraidījuma žestu, nedrīkst, nē, roka, žests
+🙅🏻	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: gaišs ādas tonis, cilvēks ar noraidījuma žestu, gaišs ādas tonis, nedrīkst, nē, roka, žests
+🙅🏼	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: vidēji gaišs ādas tonis, cilvēks ar noraidījuma žestu, nedrīkst, nē, roka, vidēji gaišs ādas tonis, žests
+🙅🏽	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: vidējs ādas tonis, cilvēks ar noraidījuma žestu, nedrīkst, nē, roka, vidējs ādas tonis, žests
+🙅🏾	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: vidēji tumšs ādas tonis, cilvēks ar noraidījuma žestu, nedrīkst, nē, roka, vidēji tumšs ādas tonis, žests
+🙅🏿	aizliegts, cilvēks ar aizlieguma žestu, cilvēks ar aizlieguma žestu: tumšs ādas tonis, cilvēks ar noraidījuma žestu, nedrīkst, nē, roka, tumšs ādas tonis, žests
+🙅‍♂	nepiekrišana, pret, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar noraidījuma žestu, žests
+🙅🏻‍♂	gaišs ādas tonis, nepiekrišana, pret, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: gaišs ādas tonis, vīrietis ar noraidījuma žestu, žests
+🙅🏼‍♂	nepiekrišana, pret, vidēji gaišs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: vidēji gaišs ādas tonis, vīrietis ar noraidījuma žestu, žests
+🙅🏽‍♂	nepiekrišana, pret, vidējs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: vidējs ādas tonis, vīrietis ar noraidījuma žestu, žests
+🙅🏾‍♂	nepiekrišana, pret, vidēji tumšs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: vidēji tumšs ādas tonis, vīrietis ar noraidījuma žestu, žests
+🙅🏿‍♂	nepiekrišana, pret, tumšs ādas tonis, vīrietis, vīrietis ar aizlieguma žestu, vīrietis ar aizlieguma žestu: tumšs ādas tonis, vīrietis ar noraidījuma žestu, žests
+🙅‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar noraidījuma žestu, žests
+🙅🏻‍♀	gaišs ādas tonis, nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: gaišs ādas tonis, sieviete ar noraidījuma žestu, žests
+🙅🏼‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: vidēji gaišs ādas tonis, sieviete ar noraidījuma žestu, vidēji gaišs ādas tonis, žests
+🙅🏽‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: vidējs ādas tonis, sieviete ar noraidījuma žestu, vidējs ādas tonis, žests
+🙅🏾‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: vidēji tumšs ādas tonis, sieviete ar noraidījuma žestu, vidēji tumšs ādas tonis, žests
+🙅🏿‍♀	nepiekrišana, pret, sieviete, sieviete ar aizlieguma žestu, sieviete ar aizlieguma žestu: tumšs ādas tonis, sieviete ar noraidījuma žestu, tumšs ādas tonis, žests
 🙆	cilvēks ar apstiprinājuma žestu, labi, ok, roka, žests
 🙆🏻	cilvēks ar apstiprinājuma žestu, cilvēks ar apstiprinājuma žestu: gaišs ādas tonis, gaišs ādas tonis, labi, ok, roka, žests
 🙆🏼	cilvēks ar apstiprinājuma žestu, cilvēks ar apstiprinājuma žestu: vidēji gaišs ādas tonis, labi, ok, roka, vidēji gaišs ādas tonis, žests
@@ -697,6 +731,12 @@
 🤷🏽‍♀	neziņa, rausta plecus, sieviete, sieviete rausta plecus, sieviete rausta plecus: vidējs ādas tonis, vidējs ādas tonis, vienaldzība, vienalga
 🤷🏾‍♀	neziņa, rausta plecus, sieviete, sieviete rausta plecus, sieviete rausta plecus: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, vienaldzība, vienalga
 🤷🏿‍♀	neziņa, rausta plecus, sieviete, sieviete rausta plecus, sieviete rausta plecus: tumšs ādas tonis, tumšs ādas tonis, vienaldzība, vienalga
+🧑‍⚕	medmāsa, veselības aprūpe, veselības aprūpes darbinieks, ārsts
+🧑🏻‍⚕	gaišs ādas tonis, medmāsa, veselības aprūpe, veselības aprūpes darbinieks, veselības aprūpes darbinieks: gaišs ādas tonis, ārsts
+🧑🏼‍⚕	medmāsa, veselības aprūpe, veselības aprūpes darbinieks, veselības aprūpes darbinieks: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, ārsts
+🧑🏽‍⚕	medmāsa, veselības aprūpe, veselības aprūpes darbinieks, veselības aprūpes darbinieks: vidējs ādas tonis, vidējs ādas tonis, ārsts
+🧑🏾‍⚕	medmāsa, veselības aprūpe, veselības aprūpes darbinieks, veselības aprūpes darbinieks: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, ārsts
+🧑🏿‍⚕	medmāsa, tumšs ādas tonis, veselības aprūpe, veselības aprūpes darbinieks, veselības aprūpes darbinieks: tumšs ādas tonis, ārsts
 👨‍⚕	brālītis, dakteris, terapeits, veselības aprūpes speciālists, vīrietis, ārsts
 👨🏻‍⚕	brālītis, dakteris, gaišs ādas tonis, terapeits, veselības aprūpes speciālists, veselības aprūpes speciālists: gaišs ādas tonis, vīrietis, ārsts
 👨🏼‍⚕	brālītis, dakteris, terapeits, veselības aprūpes speciālists, veselības aprūpes speciālists: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis, ārsts
@@ -709,6 +749,12 @@
 👩🏽‍⚕	daktere, medmāsa, sieviete, terapeite, veselības aprūpes speciāliste, veselības aprūpes speciāliste: vidējs ādas tonis, vidējs ādas tonis, ārste
 👩🏾‍⚕	daktere, medmāsa, sieviete, terapeite, veselības aprūpes speciāliste, veselības aprūpes speciāliste: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, ārste
 👩🏿‍⚕	daktere, medmāsa, sieviete, terapeite, tumšs ādas tonis, veselības aprūpes speciāliste, veselības aprūpes speciāliste: tumšs ādas tonis, ārste
+🧑‍🎓	absolvents, izlaidums, students
+🧑🏻‍🎓	absolvents, absolvents: gaišs ādas tonis, gaišs ādas tonis, izlaidums, students
+🧑🏼‍🎓	absolvents, absolvents: vidēji gaišs ādas tonis, izlaidums, students, vidēji gaišs ādas tonis
+🧑🏽‍🎓	absolvents, absolvents: vidējs ādas tonis, izlaidums, students, vidējs ādas tonis
+🧑🏾‍🎓	absolvents, absolvents: vidēji tumšs ādas tonis, izlaidums, students, vidēji tumšs ādas tonis
+🧑🏿‍🎓	absolvents, absolvents: tumšs ādas tonis, izlaidums, students, tumšs ādas tonis
 👨‍🎓	absolvents, students, vīrietis
 👨🏻‍🎓	absolvents, gaišs ādas tonis, students, students: gaišs ādas tonis, vīrietis
 👨🏼‍🎓	absolvents, students, students: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -721,6 +767,12 @@
 👩🏽‍🎓	absolvente, sieviete, studente, studente: vidējs ādas tonis, vidējs ādas tonis
 👩🏾‍🎓	absolvente, sieviete, studente, studente: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
 👩🏿‍🎓	absolvente, sieviete, studente, studente: tumšs ādas tonis, tumšs ādas tonis
+🧑‍🏫	instruktors, pedagogs, profesors, skolotājs
+🧑🏻‍🏫	gaišs ādas tonis, instruktors, pedagogs, pedagogs: gaišs ādas tonis, profesors, skolotājs
+🧑🏼‍🏫	instruktors, pedagogs, pedagogs: vidēji gaišs ādas tonis, profesors, skolotājs, vidēji gaišs ādas tonis
+🧑🏽‍🏫	instruktors, pedagogs, pedagogs: vidējs ādas tonis, profesors, skolotājs, vidējs ādas tonis
+🧑🏾‍🏫	instruktors, pedagogs, pedagogs: vidēji tumšs ādas tonis, profesors, skolotājs, vidēji tumšs ādas tonis
+🧑🏿‍🏫	instruktors, pedagogs, pedagogs: tumšs ādas tonis, profesors, skolotājs, tumšs ādas tonis
 👨‍🏫	pasniedzējs, profesors, skolotājs, vīrietis
 👨🏻‍🏫	gaišs ādas tonis, pasniedzējs, profesors, skolotājs, skolotājs: gaišs ādas tonis, vīrietis
 👨🏼‍🏫	pasniedzējs, profesors, skolotājs, skolotājs: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -733,6 +785,12 @@
 👩🏽‍🏫	pasniedzēja, profesore, sieviete, skolotāja, skolotāja: vidējs ādas tonis, vidējs ādas tonis
 👩🏾‍🏫	pasniedzēja, profesore, sieviete, skolotāja, skolotāja: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
 👩🏿‍🏫	pasniedzēja, profesore, sieviete, skolotāja, skolotāja: tumšs ādas tonis, tumšs ādas tonis
+🧑‍⚖	soģis, svari, tiesnesis
+🧑🏻‍⚖	gaišs ādas tonis, soģis, soģis: gaišs ādas tonis, svari, tiesnesis
+🧑🏼‍⚖	soģis, soģis: vidēji gaišs ādas tonis, svari, tiesnesis, vidēji gaišs ādas tonis
+🧑🏽‍⚖	soģis, soģis: vidējs ādas tonis, svari, tiesnesis, vidējs ādas tonis
+🧑🏾‍⚖	soģis, soģis: vidēji tumšs ādas tonis, svari, tiesnesis, vidēji tumšs ādas tonis
+🧑🏿‍⚖	soģis, soģis: tumšs ādas tonis, svari, tiesnesis, tumšs ādas tonis
 👨‍⚖	likums, svari, tiesnesis, vīrietis
 👨🏻‍⚖	gaišs ādas tonis, likums, svari, tiesnesis, tiesnesis: gaišs ādas tonis, vīrietis
 👨🏼‍⚖	likums, svari, tiesnesis, tiesnesis: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -745,6 +803,12 @@
 👩🏽‍⚖	likums, sieviete, svari, tiesnese, tiesnese: vidējs ādas tonis, vidējs ādas tonis
 👩🏾‍⚖	likums, sieviete, svari, tiesnese, tiesnese: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
 👩🏿‍⚖	likums, sieviete, svari, tiesnese, tiesnese: tumšs ādas tonis, tumšs ādas tonis
+🧑‍🌾	dārznieks, fermeris, lauksaimnieks, zemnieks
+🧑🏻‍🌾	dārznieks, fermeris, fermeris: gaišs ādas tonis, gaišs ādas tonis, lauksaimnieks, zemnieks
+🧑🏼‍🌾	dārznieks, fermeris, fermeris: vidēji gaišs ādas tonis, lauksaimnieks, vidēji gaišs ādas tonis, zemnieks
+🧑🏽‍🌾	dārznieks, fermeris, fermeris: vidējs ādas tonis, lauksaimnieks, vidējs ādas tonis, zemnieks
+🧑🏾‍🌾	dārznieks, fermeris, fermeris: vidēji tumšs ādas tonis, lauksaimnieks, vidēji tumšs ādas tonis, zemnieks
+🧑🏿‍🌾	dārznieks, fermeris, fermeris: tumšs ādas tonis, lauksaimnieks, tumšs ādas tonis, zemnieks
 👨‍🌾	dārzenieks, lauksaimnieks, vīrietis
 👨🏻‍🌾	dārzenieks, gaišs ādas tonis, lauksaimnieks, lauksaimnieks: gaišs ādas tonis, vīrietis
 👨🏼‍🌾	dārzenieks, lauksaimnieks, lauksaimnieks: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -757,6 +821,12 @@
 👩🏽‍🌾	dārzeniece, lauksaimniece, lauksaimniece: vidējs ādas tonis, sieviete, vidējs ādas tonis
 👩🏾‍🌾	dārzeniece, lauksaimniece, lauksaimniece: vidēji tumšs ādas tonis, sieviete, vidēji tumšs ādas tonis
 👩🏿‍🌾	dārzeniece, lauksaimniece, lauksaimniece: tumšs ādas tonis, sieviete, tumšs ādas tonis
+🧑‍🍳	pavārs, vīrietis pavārs, šefpavārs
+🧑🏻‍🍳	gaišs ādas tonis, pavārs, vīrietis pavārs, vīrietis pavārs: gaišs ādas tonis, šefpavārs
+🧑🏼‍🍳	pavārs, vidēji gaišs ādas tonis, vīrietis pavārs, vīrietis pavārs: vidēji gaišs ādas tonis, šefpavārs
+🧑🏽‍🍳	pavārs, vidējs ādas tonis, vīrietis pavārs, vīrietis pavārs: vidējs ādas tonis, šefpavārs
+🧑🏾‍🍳	pavārs, vidēji tumšs ādas tonis, vīrietis pavārs, vīrietis pavārs: vidēji tumšs ādas tonis, šefpavārs
+🧑🏿‍🍳	pavārs, tumšs ādas tonis, vīrietis pavārs, vīrietis pavārs: tumšs ādas tonis, šefpavārs
 👨‍🍳	pavārs, vīrietis, šefpavārs
 👨🏻‍🍳	gaišs ādas tonis, pavārs, pavārs: gaišs ādas tonis, vīrietis, šefpavārs
 👨🏼‍🍳	pavārs, pavārs: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis, šefpavārs
@@ -769,6 +839,12 @@
 👩🏽‍🍳	pavāre, pavāre: vidējs ādas tonis, sieviete, vidējs ādas tonis, šefpavāre
 👩🏾‍🍳	pavāre, pavāre: vidēji tumšs ādas tonis, sieviete, vidēji tumšs ādas tonis, šefpavāre
 👩🏿‍🍳	pavāre, pavāre: tumšs ādas tonis, sieviete, tumšs ādas tonis, šefpavāre
+🧑‍🔧	elektriķis, mehāniķis, santehniķis, vīrietis, vīrietis mehāniķis
+🧑🏻‍🔧	elektriķis, gaišs ādas tonis, mehāniķis, santehniķis, vīrietis, vīrietis mehāniķis: gaišs ādas tonis
+🧑🏼‍🔧	elektriķis, mehāniķis, santehniķis, vidēji gaišs ādas tonis, vīrietis, vīrietis mehāniķis: vidēji gaišs ādas tonis
+🧑🏽‍🔧	elektriķis, mehāniķis, santehniķis, vidējs ādas tonis, vīrietis, vīrietis mehāniķis: vidējs ādas tonis
+🧑🏾‍🔧	elektriķis, mehāniķis, santehniķis, vidēji tumšs ādas tonis, vīrietis, vīrietis mehāniķis: vidēji tumšs ādas tonis
+🧑🏿‍🔧	elektriķis, mehāniķis, santehniķis, tumšs ādas tonis, vīrietis, vīrietis mehāniķis: tumšs ādas tonis
 👨‍🔧	elektriķis, mehāniķis, santehniķis, vīrietis
 👨🏻‍🔧	elektriķis, gaišs ādas tonis, mehāniķis, mehāniķis: gaišs ādas tonis, santehniķis, vīrietis
 👨🏼‍🔧	elektriķis, mehāniķis, mehāniķis: vidēji gaišs ādas tonis, santehniķis, vidēji gaišs ādas tonis, vīrietis
@@ -781,6 +857,12 @@
 👩🏽‍🔧	elektriķe, mehāniķe, mehāniķe: vidējs ādas tonis, santehniķe, sieviete, vidējs ādas tonis
 👩🏾‍🔧	elektriķe, mehāniķe, mehāniķe: vidēji tumšs ādas tonis, santehniķe, sieviete, vidēji tumšs ādas tonis
 👩🏿‍🔧	elektriķe, mehāniķe, mehāniķe: tumšs ādas tonis, santehniķe, sieviete, tumšs ādas tonis
+🧑‍🏭	montāža, nozare, rūpnīca, rūpnīcas strādnieks, strādnieks
+🧑🏻‍🏭	gaišs ādas tonis, montāža, nozare, rūpnīca, rūpnīcas strādnieks, rūpnīcas strādnieks: gaišs ādas tonis, strādnieks
+🧑🏼‍🏭	montāža, nozare, rūpnīca, rūpnīcas strādnieks, rūpnīcas strādnieks: vidēji gaišs ādas tonis, strādnieks, vidēji gaišs ādas tonis
+🧑🏽‍🏭	montāža, nozare, rūpnīca, rūpnīcas strādnieks, rūpnīcas strādnieks: vidējs ādas tonis, strādnieks, vidējs ādas tonis
+🧑🏾‍🏭	montāža, nozare, rūpnīca, rūpnīcas strādnieks, rūpnīcas strādnieks: vidēji tumšs ādas tonis, strādnieks, vidēji tumšs ādas tonis
+🧑🏿‍🏭	montāža, nozare, rūpnīca, rūpnīcas strādnieks, rūpnīcas strādnieks: tumšs ādas tonis, strādnieks, tumšs ādas tonis
 👨‍🏭	fabrikas strādnieks, ražošana, rūpnīca, strādnieks, vīrietis
 👨🏻‍🏭	fabrikas strādnieks, fabrikas strādnieks: gaišs ādas tonis, gaišs ādas tonis, ražošana, rūpnīca, strādnieks, vīrietis
 👨🏼‍🏭	fabrikas strādnieks, fabrikas strādnieks: vidēji gaišs ādas tonis, ražošana, rūpnīca, strādnieks, vidēji gaišs ādas tonis, vīrietis
@@ -793,6 +875,12 @@
 👩🏽‍🏭	fabrikas strādniece, fabrikas strādniece: vidējs ādas tonis, ražošana, rūpnīca, sieviete, strādniece, vidējs ādas tonis
 👩🏾‍🏭	fabrikas strādniece, fabrikas strādniece: vidēji tumšs ādas tonis, ražošana, rūpnīca, sieviete, strādniece, vidēji tumšs ādas tonis
 👩🏿‍🏭	fabrikas strādniece, fabrikas strādniece: tumšs ādas tonis, ražošana, rūpnīca, sieviete, strādniece, tumšs ādas tonis
+🧑‍💼	arhitekts, baltā apkaklīte, pārvaldnieks, uzņēmējs, vīrietis biroja darbinieks
+🧑🏻‍💼	arhitekts, baltā apkaklīte, gaišs ādas tonis, pārvaldnieks, uzņēmējs, vīrietis biroja darbinieks, vīrietis biroja darbinieks: gaišs ādas tonis
+🧑🏼‍💼	arhitekts, baltā apkaklīte, pārvaldnieks, uzņēmējs, vidēji gaišs ādas tonis, vīrietis biroja darbinieks, vīrietis biroja darbinieks: vidēji gaišs ādas tonis
+🧑🏽‍💼	arhitekts, baltā apkaklīte, pārvaldnieks, uzņēmējs, vidējs ādas tonis, vīrietis biroja darbinieks, vīrietis biroja darbinieks: vidējs ādas tonis
+🧑🏾‍💼	arhitekts, baltā apkaklīte, pārvaldnieks, uzņēmējs, vidēji tumšs ādas tonis, vīrietis biroja darbinieks, vīrietis biroja darbinieks: vidēji tumšs ādas tonis
+🧑🏿‍💼	arhitekts, baltā apkaklīte, pārvaldnieks, tumšs ādas tonis, uzņēmējs, vīrietis biroja darbinieks, vīrietis biroja darbinieks: tumšs ādas tonis
 👨‍💼	arhitekts, baltās apkaklītes, biroja darbinieks, birojs, menedžeris, uzņēmējdarbība, virietis
 👨🏻‍💼	arhitekts, baltās apkaklītes, biroja darbinieks, biroja darbinieks: gaišs ādas tonis, birojs, gaišs ādas tonis, menedžeris, uzņēmējdarbība, virietis
 👨🏼‍💼	arhitekts, baltās apkaklītes, biroja darbinieks, biroja darbinieks: vidēji gaišs ādas tonis, birojs, menedžeris, uzņēmējdarbība, vidēji gaišs ādas tonis, virietis
@@ -805,6 +893,12 @@
 👩🏽‍💼	arhitekte, baltās apkaklītes, biroja darbiniece, biroja darbiniece: vidējs ādas tonis, birojs, menedžere, sieviete, uzņēmējdarbība, vidējs ādas tonis
 👩🏾‍💼	arhitekte, baltās apkaklītes, biroja darbiniece, biroja darbiniece: vidēji tumšs ādas tonis, birojs, menedžere, sieviete, uzņēmējdarbība, vidēji tumšs ādas tonis
 👩🏿‍💼	arhitekte, baltās apkaklītes, biroja darbiniece, biroja darbiniece: tumšs ādas tonis, birojs, menedžere, sieviete, tumšs ādas tonis, uzņēmējdarbība
+🧑‍🔬	biologs, fiziķis, inženieris, vīrietis zinātnieks, zinātnieks, ķīmiķis
+🧑🏻‍🔬	biologs, fiziķis, gaišs ādas tonis, inženieris, vīrietis zinātnieks, vīrietis zinātnieks: gaišs ādas tonis, zinātnieks, ķīmiķis
+🧑🏼‍🔬	biologs, fiziķis, inženieris, vidēji gaišs ādas tonis, vīrietis zinātnieks, vīrietis zinātnieks: vidēji gaišs ādas tonis, zinātnieks, ķīmiķis
+🧑🏽‍🔬	biologs, fiziķis, inženieris, vidējs ādas tonis, vīrietis zinātnieks, vīrietis zinātnieks: vidējs ādas tonis, zinātnieks, ķīmiķis
+🧑🏾‍🔬	biologs, fiziķis, inženieris, vidēji tumšs ādas tonis, vīrietis zinātnieks, vīrietis zinātnieks: vidēji tumšs ādas tonis, zinātnieks, ķīmiķis
+🧑🏿‍🔬	biologs, fiziķis, inženieris, tumšs ādas tonis, vīrietis zinātnieks, vīrietis zinātnieks: tumšs ādas tonis, zinātnieks, ķīmiķis
 👨‍🔬	biologs, fiziķis, inženieris, matemātiķis, vīrietis, zinātnieks, ķīmiķis
 👨🏻‍🔬	biologs, fiziķis, gaišs ādas tonis, inženieris, matemātiķis, vīrietis, zinātnieks, zinātnieks: gaišs ādas tonis, ķīmiķis
 👨🏼‍🔬	biologs, fiziķis, inženieris, matemātiķis, vidēji gaišs ādas tonis, vīrietis, zinātnieks, zinātnieks: vidēji gaišs ādas tonis, ķīmiķis
@@ -817,6 +911,12 @@
 👩🏽‍🔬	bioloģe, fiziķe, inženiere, matemātiķe, sieviete, vidējs ādas tonis, zinātniece, zinātniece: vidējs ādas tonis, ķīmiķe
 👩🏾‍🔬	bioloģe, fiziķe, inženiere, matemātiķe, sieviete, vidēji tumšs ādas tonis, zinātniece, zinātniece: vidēji tumšs ādas tonis, ķīmiķe
 👩🏿‍🔬	bioloģe, fiziķe, inženiere, matemātiķe, sieviete, tumšs ādas tonis, zinātniece, zinātniece: tumšs ādas tonis, ķīmiķe
+🧑‍💻	izgudrotājs, izstrādātājs, kodētājs, programmatūra, tehnologs, vīrietis tehniķis
+🧑🏻‍💻	gaišs ādas tonis, izgudrotājs, izstrādātājs, kodētājs, programmatūra, tehnologs, vīrietis tehniķis, vīrietis tehniķis: gaišs ādas tonis
+🧑🏼‍💻	izgudrotājs, izstrādātājs, kodētājs, programmatūra, tehnologs, vidēji gaišs ādas tonis, vīrietis tehniķis, vīrietis tehniķis: vidēji gaišs ādas tonis
+🧑🏽‍💻	izgudrotājs, izstrādātājs, kodētājs, programmatūra, tehnologs, vidējs ādas tonis, vīrietis tehniķis, vīrietis tehniķis: vidējs ādas tonis
+🧑🏾‍💻	izgudrotājs, izstrādātājs, kodētājs, programmatūra, tehnologs, vidēji tumšs ādas tonis, vīrietis tehniķis, vīrietis tehniķis: vidēji tumšs ādas tonis
+🧑🏿‍💻	izgudrotājs, izstrādātājs, kodētājs, programmatūra, tehnologs, tumšs ādas tonis, vīrietis tehniķis, vīrietis tehniķis: tumšs ādas tonis
 👨‍💻	izstrādātājs, programmatūra, programmētājs, tehniķis, vīrietis
 👨🏻‍💻	gaišs ādas tonis, izstrādātājs, programmatūra, programmētājs, tehniķis, tehniķis: gaišs ādas tonis, vīrietis
 👨🏼‍💻	izstrādātājs, programmatūra, programmētājs, tehniķis, tehniķis: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -829,6 +929,12 @@
 👩🏽‍💻	izstrādātāja, programmatūra, programmētāja, sieviete, tehniķe, tehniķe: vidējs ādas tonis, vidējs ādas tonis
 👩🏾‍💻	izstrādātāja, programmatūra, programmētāja, sieviete, tehniķe, tehniķe: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
 👩🏿‍💻	izstrādātāja, programmatūra, programmētāja, sieviete, tehniķe, tehniķe: tumšs ādas tonis, tumšs ādas tonis
+🧑‍🎤	aktieris, dziedātājs, izklaidētājs, roks, vīrietis dziedātājs, zvaigzne
+🧑🏻‍🎤	aktieris, dziedātājs, gaišs ādas tonis, izklaidētājs, roks, vīrietis dziedātājs, vīrietis dziedātājs: gaišs ādas tonis, zvaigzne
+🧑🏼‍🎤	aktieris, dziedātājs, izklaidētājs, roks, vidēji gaišs ādas tonis, vīrietis dziedātājs, vīrietis dziedātājs: vidēji gaišs ādas tonis, zvaigzne
+🧑🏽‍🎤	aktieris, dziedātājs, izklaidētājs, roks, vidējs ādas tonis, vīrietis dziedātājs, vīrietis dziedātājs: vidējs ādas tonis, zvaigzne
+🧑🏾‍🎤	aktieris, dziedātājs, izklaidētājs, roks, vidēji tumšs ādas tonis, vīrietis dziedātājs, vīrietis dziedātājs: vidēji tumšs ādas tonis, zvaigzne
+🧑🏿‍🎤	aktieris, dziedātājs, izklaidētājs, roks, tumšs ādas tonis, vīrietis dziedātājs, vīrietis dziedātājs: tumšs ādas tonis, zvaigzne
 👨‍🎤	aktieris, dziedātājs, izklaide, roks, vīrietis, zvaigzne
 👨🏻‍🎤	aktieris, dziedātājs, dziedātājs: gaišs ādas tonis, gaišs ādas tonis, izklaide, roks, vīrietis, zvaigzne
 👨🏼‍🎤	aktieris, dziedātājs, dziedātājs: vidēji gaišs ādas tonis, izklaide, roks, vidēji gaišs ādas tonis, vīrietis, zvaigzne
@@ -841,6 +947,12 @@
 👩🏽‍🎤	aktrise, dziedātāja, dziedātāja: vidējs ādas tonis, izklaide, roks, sieviete, vidējs ādas tonis, zvaigzne
 👩🏾‍🎤	aktrise, dziedātāja, dziedātāja: vidēji tumšs ādas tonis, izklaide, roks, sieviete, vidēji tumšs ādas tonis, zvaigzne
 👩🏿‍🎤	aktrise, dziedātāja, dziedātāja: tumšs ādas tonis, izklaide, roks, sieviete, tumšs ādas tonis, zvaigzne
+🧑‍🎨	mākslinieks, palete, vīrietis mākslinieks
+🧑🏻‍🎨	gaišs ādas tonis, mākslinieks, palete, vīrietis mākslinieks, vīrietis mākslinieks: gaišs ādas tonis
+🧑🏼‍🎨	mākslinieks, palete, vidēji gaišs ādas tonis, vīrietis mākslinieks, vīrietis mākslinieks: vidēji gaišs ādas tonis
+🧑🏽‍🎨	mākslinieks, palete, vidējs ādas tonis, vīrietis mākslinieks, vīrietis mākslinieks: vidējs ādas tonis
+🧑🏾‍🎨	mākslinieks, palete, vidēji tumšs ādas tonis, vīrietis mākslinieks, vīrietis mākslinieks: vidēji tumšs ādas tonis
+🧑🏿‍🎨	mākslinieks, palete, tumšs ādas tonis, vīrietis mākslinieks, vīrietis mākslinieks: tumšs ādas tonis
 👨‍🎨	mākslinieks, palete, vīrietis
 👨🏻‍🎨	gaišs ādas tonis, mākslinieks, mākslinieks: gaišs ādas tonis, palete, vīrietis
 👨🏼‍🎨	mākslinieks, mākslinieks: vidēji gaišs ādas tonis, palete, vidēji gaišs ādas tonis, vīrietis
@@ -853,6 +965,12 @@
 👩🏽‍🎨	māksliniece, māksliniece: vidējs ādas tonis, palete, sieviete, vidējs ādas tonis
 👩🏾‍🎨	māksliniece, māksliniece: vidēji tumšs ādas tonis, palete, sieviete, vidēji tumšs ādas tonis
 👩🏿‍🎨	māksliniece, māksliniece: tumšs ādas tonis, palete, sieviete, tumšs ādas tonis
+🧑‍✈	lidmašīna, pilots, vīrietis pilots
+🧑🏻‍✈	gaišs ādas tonis, lidmašīna, pilots, vīrietis pilots, vīrietis pilots: gaišs ādas tonis
+🧑🏼‍✈	lidmašīna, pilots, vidēji gaišs ādas tonis, vīrietis pilots, vīrietis pilots: vidēji gaišs ādas tonis
+🧑🏽‍✈	lidmašīna, pilots, vidējs ādas tonis, vīrietis pilots, vīrietis pilots: vidējs ādas tonis
+🧑🏾‍✈	lidmašīna, pilots, vidēji tumšs ādas tonis, vīrietis pilots, vīrietis pilots: vidēji tumšs ādas tonis
+🧑🏿‍✈	lidmašīna, pilots, tumšs ādas tonis, vīrietis pilots, vīrietis pilots: tumšs ādas tonis
 👨‍✈	lidmašīna, pilots, vīrietis
 👨🏻‍✈	gaišs ādas tonis, lidmašīna, pilots, pilots: gaišs ādas tonis, vīrietis
 👨🏼‍✈	lidmašīna, pilots, pilots: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -865,6 +983,12 @@
 👩🏽‍✈	lidmašīna, pilote, pilote: vidējs ādas tonis, sieviete, vidējs ādas tonis
 👩🏾‍✈	lidmašīna, pilote, pilote: vidēji tumšs ādas tonis, sieviete, vidēji tumšs ādas tonis
 👩🏿‍✈	lidmašīna, pilote, pilote: tumšs ādas tonis, sieviete, tumšs ādas tonis
+🧑‍🚀	astronauts, raķete, vīrietis astronauts
+🧑🏻‍🚀	astronauts, gaišs ādas tonis, raķete, vīrietis astronauts, vīrietis astronauts: gaišs ādas tonis
+🧑🏼‍🚀	astronauts, raķete, vidēji gaišs ādas tonis, vīrietis astronauts, vīrietis astronauts: vidēji gaišs ādas tonis
+🧑🏽‍🚀	astronauts, raķete, vidējs ādas tonis, vīrietis astronauts, vīrietis astronauts: vidējs ādas tonis
+🧑🏾‍🚀	astronauts, raķete, vidēji tumšs ādas tonis, vīrietis astronauts, vīrietis astronauts: vidēji tumšs ādas tonis
+🧑🏿‍🚀	astronauts, raķete, tumšs ādas tonis, vīrietis astronauts, vīrietis astronauts: tumšs ādas tonis
 👨‍🚀	astronauts, kosmoss, raķete, vīrietis
 👨🏻‍🚀	astronauts, astronauts: gaišs ādas tonis, gaišs ādas tonis, kosmoss, raķete, vīrietis
 👨🏼‍🚀	astronauts, astronauts: vidēji gaišs ādas tonis, kosmoss, raķete, vidēji gaišs ādas tonis, vīrietis
@@ -877,6 +1001,12 @@
 👩🏽‍🚀	astronaute, astronaute: vidējs ādas tonis, kosmoss, raķete, sieviete, vidējs ādas tonis
 👩🏾‍🚀	astronaute, astronaute: vidēji tumšs ādas tonis, kosmoss, raķete, sieviete, vidēji tumšs ādas tonis
 👩🏿‍🚀	astronaute, astronaute: tumšs ādas tonis, kosmoss, raķete, sieviete, tumšs ādas tonis
+🧑‍🚒	ugunsdzēsēja, ugunsdzēsējs, vīrietis ugunsdzēsējs
+🧑🏻‍🚒	gaišs ādas tonis, ugunsdzēsēja, ugunsdzēsējs, vīrietis ugunsdzēsējs, vīrietis ugunsdzēsējs: gaišs ādas tonis
+🧑🏼‍🚒	ugunsdzēsēja, ugunsdzēsējs, vidēji gaišs ādas tonis, vīrietis ugunsdzēsējs, vīrietis ugunsdzēsējs: vidēji gaišs ādas tonis
+🧑🏽‍🚒	ugunsdzēsēja, ugunsdzēsējs, vidējs ādas tonis, vīrietis ugunsdzēsējs, vīrietis ugunsdzēsējs: vidējs ādas tonis
+🧑🏾‍🚒	ugunsdzēsēja, ugunsdzēsējs, vidēji tumšs ādas tonis, vīrietis ugunsdzēsējs, vīrietis ugunsdzēsējs: vidēji tumšs ādas tonis
+🧑🏿‍🚒	tumšs ādas tonis, ugunsdzēsēja, ugunsdzēsējs, vīrietis ugunsdzēsējs, vīrietis ugunsdzēsējs: tumšs ādas tonis
 👨‍🚒	ugunsdzēsējs, vīrietis
 👨🏻‍🚒	gaišs ādas tonis, ugunsdzēsējs, ugunsdzēsējs: gaišs ādas tonis, vīrietis
 👨🏼‍🚒	ugunsdzēsējs, ugunsdzēsējs: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
@@ -943,6 +1073,7 @@
 💂🏽‍♀	sardze, sardze: vidējs ādas tonis, sieviete, vidējs ādas tonis
 💂🏾‍♀	sardze, sardze: vidēji tumšs ādas tonis, sieviete, vidēji tumšs ādas tonis
 💂🏿‍♀	sardze, sardze: tumšs ādas tonis, sieviete, tumšs ādas tonis
+🥷	cīnītājs, nindzja, paslēpts, slepens
 👷	celtnieks, seja, ķivere
 👷🏻	celtnieks, celtnieks: gaišs ādas tonis, gaišs ādas tonis, seja, ķivere
 👷🏼	celtnieks, celtnieks: vidēji gaišs ādas tonis, seja, vidēji gaišs ādas tonis, ķivere
@@ -1003,18 +1134,42 @@
 🧕🏽	galvas lakats, hidžabs, lakats, sieviete ar lakatu, sieviete ar lakatu: vidējs ādas tonis, vidējs ādas tonis
 🧕🏾	galvas lakats, hidžabs, lakats, sieviete ar lakatu, sieviete ar lakatu: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
 🧕🏿	galvas lakats, hidžabs, lakats, sieviete ar lakatu, sieviete ar lakatu: tumšs ādas tonis, tumšs ādas tonis
-🤵	līgavainis, smokings, vīrietis, vīrietis smokingā
-🤵🏻	gaišs ādas tonis, līgavainis, smokings, vīrietis, vīrietis smokingā, vīrietis smokingā: gaišs ādas tonis
-🤵🏼	līgavainis, smokings, vidēji gaišs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: vidēji gaišs ādas tonis
-🤵🏽	līgavainis, smokings, vidējs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: vidējs ādas tonis
-🤵🏾	līgavainis, smokings, vidēji tumšs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: vidēji tumšs ādas tonis
-🤵🏿	līgavainis, smokings, tumšs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: tumšs ādas tonis
-👰	kāzas, līgava, līgava ar plīvuru, plīvurs
-👰🏻	gaišs ādas tonis, kāzas, līgava, līgava ar plīvuru, līgava ar plīvuru: gaišs ādas tonis, plīvurs
-👰🏼	kāzas, līgava, līgava ar plīvuru, līgava ar plīvuru: vidēji gaišs ādas tonis, plīvurs, vidēji gaišs ādas tonis
-👰🏽	kāzas, līgava, līgava ar plīvuru, līgava ar plīvuru: vidējs ādas tonis, plīvurs, vidējs ādas tonis
-👰🏾	kāzas, līgava, līgava ar plīvuru, līgava ar plīvuru: vidēji tumšs ādas tonis, plīvurs, vidēji tumšs ādas tonis
-👰🏿	kāzas, līgava, līgava ar plīvuru, līgava ar plīvuru: tumšs ādas tonis, plīvurs, tumšs ādas tonis
+🤵	cilvēks, cilvēks smokingā, līgavainis, smokings
+🤵🏻	cilvēks, cilvēks smokingā, cilvēks smokingā: gaišs ādas tonis, gaišs ādas tonis, līgavainis, smokings
+🤵🏼	cilvēks, cilvēks smokingā, cilvēks smokingā: vidēji gaišs ādas tonis, līgavainis, smokings, vidēji gaišs ādas tonis
+🤵🏽	cilvēks, cilvēks smokingā, cilvēks smokingā: vidējs ādas tonis, līgavainis, smokings, vidējs ādas tonis
+🤵🏾	cilvēks, cilvēks smokingā, cilvēks smokingā: vidēji tumšs ādas tonis, līgavainis, smokings, vidēji tumšs ādas tonis
+🤵🏿	cilvēks, cilvēks smokingā, cilvēks smokingā: tumšs ādas tonis, līgavainis, smokings, tumšs ādas tonis
+🤵‍♂	smokings, vīrietis, vīrietis smokingā
+🤵🏻‍♂	gaišs ādas tonis, smokings, vīrietis, vīrietis smokingā, vīrietis smokingā: gaišs ādas tonis
+🤵🏼‍♂	smokings, vidēji gaišs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: vidēji gaišs ādas tonis
+🤵🏽‍♂	smokings, vidējs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: vidējs ādas tonis
+🤵🏾‍♂	smokings, vidēji tumšs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: vidēji tumšs ādas tonis
+🤵🏿‍♂	smokings, tumšs ādas tonis, vīrietis, vīrietis smokingā, vīrietis smokingā: tumšs ādas tonis
+🤵‍♀	sieviete, sieviete smokingā, smokings
+🤵🏻‍♀	gaišs ādas tonis, sieviete, sieviete smokingā, sieviete smokingā: gaišs ādas tonis, smokings
+🤵🏼‍♀	sieviete, sieviete smokingā, sieviete smokingā: vidēji gaišs ādas tonis, smokings, vidēji gaišs ādas tonis
+🤵🏽‍♀	sieviete, sieviete smokingā, sieviete smokingā: vidējs ādas tonis, smokings, vidējs ādas tonis
+🤵🏾‍♀	sieviete, sieviete smokingā, sieviete smokingā: vidēji tumšs ādas tonis, smokings, vidēji tumšs ādas tonis
+🤵🏿‍♀	sieviete, sieviete smokingā, sieviete smokingā: tumšs ādas tonis, smokings, tumšs ādas tonis
+👰	cilvēks ar plīvuru, kāzas, persona, persona ar plīvuru, plīvurs
+👰🏻	cilvēks ar plīvuru, cilvēks ar plīvuru: gaišs ādas tonis, gaišs ādas tonis, kāzas, persona, persona ar plīvuru, plīvurs
+👰🏼	cilvēks ar plīvuru, cilvēks ar plīvuru: vidēji gaišs ādas tonis, kāzas, persona, persona ar plīvuru, plīvurs, vidēji gaišs ādas tonis
+👰🏽	cilvēks ar plīvuru, cilvēks ar plīvuru: vidējs ādas tonis, kāzas, persona, persona ar plīvuru, plīvurs, vidējs ādas tonis
+👰🏾	cilvēks ar plīvuru, cilvēks ar plīvuru: vidēji tumšs ādas tonis, kāzas, persona, persona ar plīvuru, plīvurs, vidēji tumšs ādas tonis
+👰🏿	cilvēks ar plīvuru, cilvēks ar plīvuru: tumšs ādas tonis, kāzas, persona, persona ar plīvuru, plīvurs, tumšs ādas tonis
+👰‍♂	plīvurs, vīrietis, vīrietis ar plīvuru
+👰🏻‍♂	gaišs ādas tonis, plīvurs, vīrietis, vīrietis ar plīvuru, vīrietis ar plīvuru: gaišs ādas tonis
+👰🏼‍♂	plīvurs, vidēji gaišs ādas tonis, vīrietis, vīrietis ar plīvuru, vīrietis ar plīvuru: vidēji gaišs ādas tonis
+👰🏽‍♂	plīvurs, vidējs ādas tonis, vīrietis, vīrietis ar plīvuru, vīrietis ar plīvuru: vidējs ādas tonis
+👰🏾‍♂	plīvurs, vidēji tumšs ādas tonis, vīrietis, vīrietis ar plīvuru, vīrietis ar plīvuru: vidēji tumšs ādas tonis
+👰🏿‍♂	plīvurs, tumšs ādas tonis, vīrietis, vīrietis ar plīvuru, vīrietis ar plīvuru: tumšs ādas tonis
+👰‍♀	plīvurs, sieviete, sieviete ar plīvuru
+👰🏻‍♀	gaišs ādas tonis, plīvurs, sieviete, sieviete ar plīvuru, sieviete ar plīvuru: gaišs ādas tonis
+👰🏼‍♀	plīvurs, sieviete, sieviete ar plīvuru, sieviete ar plīvuru: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
+👰🏽‍♀	plīvurs, sieviete, sieviete ar plīvuru, sieviete ar plīvuru: vidējs ādas tonis, vidējs ādas tonis
+👰🏾‍♀	plīvurs, sieviete, sieviete ar plīvuru, sieviete ar plīvuru: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
+👰🏿‍♀	plīvurs, sieviete, sieviete ar plīvuru, sieviete ar plīvuru: tumšs ādas tonis, tumšs ādas tonis
 🤰	sieviete, sieviete stāvoklī, stāvoklī
 🤰🏻	gaišs ādas tonis, sieviete, sieviete stāvoklī: gaišs ādas tonis, stāvoklī
 🤰🏼	sieviete, sieviete stāvoklī: vidēji gaišs ādas tonis, stāvoklī, vidēji gaišs ādas tonis
@@ -1027,12 +1182,30 @@
 🤱🏽	barošana ar krūti, barošana ar krūti: vidējs ādas tonis, krūts, mazulis, vidējs ādas tonis, zīdīšana
 🤱🏾	barošana ar krūti, barošana ar krūti: vidēji tumšs ādas tonis, krūts, mazulis, vidēji tumšs ādas tonis, zīdīšana
 🤱🏿	barošana ar krūti, barošana ar krūti: tumšs ādas tonis, krūts, mazulis, tumšs ādas tonis, zīdīšana
-👼	eņģelis, mazs eņģelītis, nimbs
-👼🏻	eņģelis, gaišs ādas tonis, mazs eņģelītis, mazs eņģelītis: gaišs ādas tonis, nimbs
-👼🏼	eņģelis, mazs eņģelītis, mazs eņģelītis: vidēji gaišs ādas tonis, nimbs, vidēji gaišs ādas tonis
-👼🏽	eņģelis, mazs eņģelītis, mazs eņģelītis: vidējs ādas tonis, nimbs, vidējs ādas tonis
-👼🏾	eņģelis, mazs eņģelītis, mazs eņģelītis: vidēji tumšs ādas tonis, nimbs, vidēji tumšs ādas tonis
-👼🏿	eņģelis, mazs eņģelītis, mazs eņģelītis: tumšs ādas tonis, nimbs, tumšs ādas tonis
+👩‍🍼	barošana, mazulis, sieviete, sieviete baro bērnu, zīdīšana
+👩🏻‍🍼	barošana, gaišs ādas tonis, mazulis, sieviete, sieviete baro bērnu, sieviete baro bērnu: gaišs ādas tonis, zīdīšana
+👩🏼‍🍼	barošana, mazulis, sieviete, sieviete baro bērnu, sieviete baro bērnu: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, zīdīšana
+👩🏽‍🍼	barošana, mazulis, sieviete, sieviete baro bērnu, sieviete baro bērnu: vidējs ādas tonis, vidējs ādas tonis, zīdīšana
+👩🏾‍🍼	barošana, mazulis, sieviete, sieviete baro bērnu, sieviete baro bērnu: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, zīdīšana
+👩🏿‍🍼	barošana, mazulis, sieviete, sieviete baro bērnu, sieviete baro bērnu: tumšs ādas tonis, tumšs ādas tonis, zīdīšana
+👨‍🍼	barošana, bērnu barojošs cilvēks, cilvēks, kopšana, mazulis
+👨🏻‍🍼	barošana, bērnu barojošs cilvēks, bērnu barojošs cilvēks: gaišs ādas tonis, cilvēks, gaišs ādas tonis, kopšana, mazulis
+👨🏼‍🍼	barošana, bērnu barojošs cilvēks, bērnu barojošs cilvēks: vidēji gaišs ādas tonis, cilvēks, kopšana, mazulis, vidēji gaišs ādas tonis
+👨🏽‍🍼	barošana, bērnu barojošs cilvēks, bērnu barojošs cilvēks: vidējs ādas tonis, cilvēks, kopšana, mazulis, vidējs ādas tonis
+👨🏾‍🍼	barošana, bērnu barojošs cilvēks, bērnu barojošs cilvēks: vidēji tumšs ādas tonis, cilvēks, kopšana, mazulis, vidēji tumšs ādas tonis
+👨🏿‍🍼	barošana, bērnu barojošs cilvēks, bērnu barojošs cilvēks: tumšs ādas tonis, cilvēks, kopšana, mazulis, tumšs ādas tonis
+🧑‍🍼	barošana, mazulis, persona, persona baro bērnu, zīdīšana
+🧑🏻‍🍼	barošana, gaišs ādas tonis, mazulis, persona, persona baro bērnu, persona baro bērnu: gaišs ādas tonis, zīdīšana
+🧑🏼‍🍼	barošana, mazulis, persona, persona baro bērnu, persona baro bērnu: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, zīdīšana
+🧑🏽‍🍼	barošana, mazulis, persona, persona baro bērnu, persona baro bērnu: vidējs ādas tonis, vidējs ādas tonis, zīdīšana
+🧑🏾‍🍼	barošana, mazulis, persona, persona baro bērnu, persona baro bērnu: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, zīdīšana
+🧑🏿‍🍼	barošana, mazulis, persona, persona baro bērnu, persona baro bērnu: tumšs ādas tonis, tumšs ādas tonis, zīdīšana
+👼	eņģelis, fantāzija, mazs eņģelītis, mazulis, pasaka, seja
+👼🏻	eņģelis, fantāzija, gaišs ādas tonis, mazs eņģelītis, mazs eņģelītis: gaišs ādas tonis, mazulis, pasaka, seja
+👼🏼	eņģelis, fantāzija, mazs eņģelītis, mazs eņģelītis: vidēji gaišs ādas tonis, mazulis, pasaka, seja, vidēji gaišs ādas tonis
+👼🏽	eņģelis, fantāzija, mazs eņģelītis, mazs eņģelītis: vidējs ādas tonis, mazulis, pasaka, seja, vidējs ādas tonis
+👼🏾	eņģelis, fantāzija, mazs eņģelītis, mazs eņģelītis: vidēji tumšs ādas tonis, mazulis, pasaka, seja, vidēji tumšs ādas tonis
+👼🏿	eņģelis, fantāzija, mazs eņģelītis, mazs eņģelītis: tumšs ādas tonis, mazulis, pasaka, seja, tumšs ādas tonis
 🎅	Ziemassvētku vecītis, santaklauss, vecītis, ziemassvētki
 🎅🏻	Ziemassvētku vecītis, Ziemassvētku vecītis: gaišs ādas tonis, gaišs ādas tonis, santaklauss, vecītis, ziemassvētki
 🎅🏼	Ziemassvētku vecītis, Ziemassvētku vecītis: vidēji gaišs ādas tonis, santaklauss, vecītis, vidēji gaišs ādas tonis, ziemassvētki
@@ -1045,6 +1218,12 @@
 🤶🏽	Ziemassvētku omīte, Ziemassvētku omīte: vidējs ādas tonis, omīte, salavecis, vidējs ādas tonis, ziemassvētki, ziemassvētku vecītis
 🤶🏾	Ziemassvētku omīte, Ziemassvētku omīte: vidēji tumšs ādas tonis, omīte, salavecis, vidēji tumšs ādas tonis, ziemassvētki, ziemassvētku vecītis
 🤶🏿	Ziemassvētku omīte, Ziemassvētku omīte: tumšs ādas tonis, omīte, salavecis, tumšs ādas tonis, ziemassvētki, ziemassvētku vecītis
+🧑‍🎄	Ziemassvētku santaklauss, dzimumneitrāls santaklauss
+🧑🏻‍🎄	Ziemassvētku santaklauss, dzimumneitrāls santaklauss, dzimumneitrāls santaklauss: gaišs ādas tonis, gaišs ādas tonis
+🧑🏼‍🎄	Ziemassvētku santaklauss, dzimumneitrāls santaklauss, dzimumneitrāls santaklauss: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
+🧑🏽‍🎄	Ziemassvētku santaklauss, dzimumneitrāls santaklauss, dzimumneitrāls santaklauss: vidējs ādas tonis, vidējs ādas tonis
+🧑🏾‍🎄	Ziemassvētku santaklauss, dzimumneitrāls santaklauss, dzimumneitrāls santaklauss: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
+🧑🏿‍🎄	Ziemassvētku santaklauss, dzimumneitrāls santaklauss, dzimumneitrāls santaklauss: tumšs ādas tonis, tumšs ādas tonis
 🦸	labais, superspēks, supervaronis, varone, varonis
 🦸🏻	gaišs ādas tonis, labais, superspēks, supervaronis, supervaronis: gaišs ādas tonis, varone, varonis
 🦸🏼	labais, superspēks, supervaronis, supervaronis: vidēji gaišs ādas tonis, varone, varonis, vidēji gaišs ādas tonis
@@ -1175,8 +1354,8 @@
 🧞‍♂	burvis, džins, vīrietis džins
 🧞‍♀	džins, sieviete džins
 🧟	dzīvais mironis, nemirstīgs, zombijs
-🧟‍♂	nemirstīgs, staigājošais mironis, vīrietis zombijs
-🧟‍♀	nemirstīgs, sieviete zombijs, staigājošais mironis
+🧟‍♂	nemirstīgs, staigājošais mironis, vīrietis zombijs, zombijvīrietis
+🧟‍♀	nemirstīgs, sieviete zombijs, staigājošais mironis, zombijsieviete
 💆	masāža, seja, sejas masāža
 💆🏻	gaišs ādas tonis, masāža, seja, sejas masāža, sejas masāža: gaišs ādas tonis
 💆🏼	masāža, seja, sejas masāža, sejas masāža: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	sieviete, sieviete uz ceļiem, sieviete uz ceļiem: vidējs ādas tonis, uz ceļiem, vidējs ādas tonis
 🧎🏾‍♀	sieviete, sieviete uz ceļiem, sieviete uz ceļiem: vidēji tumšs ādas tonis, uz ceļiem, vidēji tumšs ādas tonis
 🧎🏿‍♀	sieviete, sieviete uz ceļiem, sieviete uz ceļiem: tumšs ādas tonis, tumšs ādas tonis, uz ceļiem
+🧑‍🦯	akls, persona ar balto spieķi, pieejamība
+🧑🏻‍🦯	akls, gaišs ādas tonis, persona ar balto spieķi, persona ar balto spieķi: gaišs ādas tonis, pieejamība
+🧑🏼‍🦯	akls, persona ar balto spieķi, persona ar balto spieķi: vidēji gaišs ādas tonis, pieejamība, vidēji gaišs ādas tonis
+🧑🏽‍🦯	akls, persona ar balto spieķi, persona ar balto spieķi: vidējs ādas tonis, pieejamība, vidējs ādas tonis
+🧑🏾‍🦯	akls, persona ar balto spieķi, persona ar balto spieķi: vidēji tumšs ādas tonis, pieejamība, vidēji tumšs ādas tonis
+🧑🏿‍🦯	akls, persona ar balto spieķi, persona ar balto spieķi: tumšs ādas tonis, pieejamība, tumšs ādas tonis
 👨‍🦯	akls, cilvēks, pieejamība, vīrietis ar balto atbalsta spieķi
 👨🏻‍🦯	akls, cilvēks, gaišs ādas tonis, pieejamība, vīrietis ar balto atbalsta spieķi, vīrietis ar balto atbalsta spieķi: gaišs ādas tonis
 👨🏼‍🦯	akls, cilvēks, pieejamība, vidēji gaišs ādas tonis, vīrietis ar balto atbalsta spieķi, vīrietis ar balto atbalsta spieķi: vidēji gaišs ādas tonis
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	akls, pieejamība, sieviete, sieviete ar balto atbalsta spieķi, sieviete ar balto atbalsta spieķi: vidējs ādas tonis, vidējs ādas tonis
 👩🏾‍🦯	akls, pieejamība, sieviete, sieviete ar balto atbalsta spieķi, sieviete ar balto atbalsta spieķi: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
 👩🏿‍🦯	akls, pieejamība, sieviete, sieviete ar balto atbalsta spieķi, sieviete ar balto atbalsta spieķi: tumšs ādas tonis, tumšs ādas tonis
+🧑‍🦼	persona ratiņkrēslā, pieejamība, ratiņkrēsls
+🧑🏻‍🦼	gaišs ādas tonis, persona ratiņkrēslā, persona ratiņkrēslā: gaišs ādas tonis, pieejamība, ratiņkrēsls
+🧑🏼‍🦼	persona ratiņkrēslā, persona ratiņkrēslā: vidēji gaišs ādas tonis, pieejamība, ratiņkrēsls, vidēji gaišs ādas tonis
+🧑🏽‍🦼	persona ratiņkrēslā, persona ratiņkrēslā: vidējs ādas tonis, pieejamība, ratiņkrēsls, vidējs ādas tonis
+🧑🏾‍🦼	persona ratiņkrēslā, persona ratiņkrēslā: vidēji tumšs ādas tonis, pieejamība, ratiņkrēsls, vidēji tumšs ādas tonis
+🧑🏿‍🦼	persona ratiņkrēslā, persona ratiņkrēslā: tumšs ādas tonis, pieejamība, ratiņkrēsls, tumšs ādas tonis
 👨‍🦼	cilvēks, pieejamība, ratiņkrēsls, vīrietis motorizētā ratiņkrēslā
 👨🏻‍🦼	cilvēks, gaišs ādas tonis, pieejamība, ratiņkrēsls, vīrietis motorizētā ratiņkrēslā, vīrietis motorizētā ratiņkrēslā: gaišs ādas tonis
 👨🏼‍🦼	cilvēks, pieejamība, ratiņkrēsls, vidēji gaišs ādas tonis, vīrietis motorizētā ratiņkrēslā, vīrietis motorizētā ratiņkrēslā: vidēji gaišs ādas tonis
@@ -1291,12 +1482,18 @@
 👩🏽‍🦼	pieejamība, ratiņkrēsls, sieviete, sieviete motorizētā ratiņkrēslā, sieviete motorizētā ratiņkrēslā: vidējs ādas tonis, vidējs ādas tonis
 👩🏾‍🦼	pieejamība, ratiņkrēsls, sieviete, sieviete motorizētā ratiņkrēslā, sieviete motorizētā ratiņkrēslā: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
 👩🏿‍🦼	pieejamība, ratiņkrēsls, sieviete, sieviete motorizētā ratiņkrēslā, sieviete motorizētā ratiņkrēslā: tumšs ādas tonis, tumšs ādas tonis
-👨‍🦽	pieejamība, ratiņkrēsls, vīretis manuālā ratiņkrēslā, vīrietis
-👨🏻‍🦽	gaišs ādas tonis, pieejamība, ratiņkrēsls, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: gaišs ādas tonis, vīrietis
-👨🏼‍🦽	pieejamība, ratiņkrēsls, vidēji gaišs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: vidēji gaišs ādas tonis, vīrietis
-👨🏽‍🦽	pieejamība, ratiņkrēsls, vidējs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: vidējs ādas tonis, vīrietis
-👨🏾‍🦽	pieejamība, ratiņkrēsls, vidēji tumšs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: vidēji tumšs ādas tonis, vīrietis
-👨🏿‍🦽	pieejamība, ratiņkrēsls, tumšs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: tumšs ādas tonis, vīrietis
+🧑‍🦽	persona manuālajā ratiņkrēslā, pieejamība, ratiņkrēsls
+🧑🏻‍🦽	gaišs ādas tonis, persona manuālajā ratiņkrēslā, persona manuālajā ratiņkrēslā: gaišs ādas tonis, pieejamība, ratiņkrēsls
+🧑🏼‍🦽	persona manuālajā ratiņkrēslā, persona manuālajā ratiņkrēslā: vidēji gaišs ādas tonis, pieejamība, ratiņkrēsls, vidēji gaišs ādas tonis
+🧑🏽‍🦽	persona manuālajā ratiņkrēslā, persona manuālajā ratiņkrēslā: vidējs ādas tonis, pieejamība, ratiņkrēsls, vidējs ādas tonis
+🧑🏾‍🦽	persona manuālajā ratiņkrēslā, persona manuālajā ratiņkrēslā: vidēji tumšs ādas tonis, pieejamība, ratiņkrēsls, vidēji tumšs ādas tonis
+🧑🏿‍🦽	persona manuālajā ratiņkrēslā, persona manuālajā ratiņkrēslā: tumšs ādas tonis, pieejamība, ratiņkrēsls, tumšs ādas tonis
+👨‍🦽	pieejamība, ratiņkrēsls, vīretis manuālā ratiņkrēslā, vīrietis, vīrietis manuālā ratiņkrēslā
+👨🏻‍🦽	gaišs ādas tonis, pieejamība, ratiņkrēsls, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: gaišs ādas tonis, vīrietis, vīrietis manuālā ratiņkrēslā
+👨🏼‍🦽	pieejamība, ratiņkrēsls, vidēji gaišs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: vidēji gaišs ādas tonis, vīrietis, vīrietis manuālā ratiņkrēslā
+👨🏽‍🦽	pieejamība, ratiņkrēsls, vidējs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: vidējs ādas tonis, vīrietis, vīrietis manuālā ratiņkrēslā
+👨🏾‍🦽	pieejamība, ratiņkrēsls, vidēji tumšs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: vidēji tumšs ādas tonis, vīrietis, vīrietis manuālā ratiņkrēslā
+👨🏿‍🦽	pieejamība, ratiņkrēsls, tumšs ādas tonis, vīretis manuālā ratiņkrēslā, vīretis manuālā ratiņkrēslā: tumšs ādas tonis, vīrietis, vīrietis manuālā ratiņkrēslā
 👩‍🦽	pieejamība, ratiņkrēsls, sieviete, sieviete manuālā ratiņkrēslā
 👩🏻‍🦽	gaišs ādas tonis, pieejamība, ratiņkrēsls, sieviete, sieviete manuālā ratiņkrēslā, sieviete manuālā ratiņkrēslā: gaišs ādas tonis
 👩🏼‍🦽	pieejamība, ratiņkrēsls, sieviete, sieviete manuālā ratiņkrēslā, sieviete manuālā ratiņkrēslā: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
@@ -1360,18 +1557,18 @@
 🧖🏽‍♀	sauna, sieviete tvaika telpā, sieviete tvaika telpā: vidējs ādas tonis, tvaika telpa, vidējs ādas tonis
 🧖🏾‍♀	sauna, sieviete tvaika telpā, sieviete tvaika telpā: vidēji tumšs ādas tonis, tvaika telpa, vidēji tumšs ādas tonis
 🧖🏿‍♀	sauna, sieviete tvaika telpā, sieviete tvaika telpā: tumšs ādas tonis, tumšs ādas tonis, tvaika telpa
-🧗	alpīniste, alpīnists
-🧗🏻	alpīniste, alpīnists, alpīnists: gaišs ādas tonis, gaišs ādas tonis
-🧗🏼	alpīniste, alpīnists, alpīnists: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
-🧗🏽	alpīniste, alpīnists, alpīnists: vidējs ādas tonis, vidējs ādas tonis
-🧗🏾	alpīniste, alpīnists, alpīnists: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
-🧗🏿	alpīniste, alpīnists, alpīnists: tumšs ādas tonis, tumšs ādas tonis
-🧗‍♂	kāpēja, kāpējs
-🧗🏻‍♂	gaišs ādas tonis, kāpēja, kāpējs, kāpējs: gaišs ādas tonis
-🧗🏼‍♂	kāpēja, kāpējs, kāpējs: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
-🧗🏽‍♂	kāpēja, kāpējs, kāpējs: vidējs ādas tonis, vidējs ādas tonis
-🧗🏾‍♂	kāpēja, kāpējs, kāpējs: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
-🧗🏿‍♂	kāpēja, kāpējs, kāpējs: tumšs ādas tonis, tumšs ādas tonis
+🧗	alpīniste, alpīnists, kalnā kāpējs
+🧗🏻	alpīniste, alpīnists, gaišs ādas tonis, kalnā kāpējs, kalnā kāpējs: gaišs ādas tonis
+🧗🏼	alpīniste, alpīnists, kalnā kāpējs, kalnā kāpējs: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
+🧗🏽	alpīniste, alpīnists, kalnā kāpējs, kalnā kāpējs: vidējs ādas tonis, vidējs ādas tonis
+🧗🏾	alpīniste, alpīnists, kalnā kāpējs, kalnā kāpējs: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
+🧗🏿	alpīniste, alpīnists, kalnā kāpējs, kalnā kāpējs: tumšs ādas tonis, tumšs ādas tonis
+🧗‍♂	alpīnists, kāpēja, kāpējs
+🧗🏻‍♂	alpīnists, alpīnists: gaišs ādas tonis, gaišs ādas tonis, kāpēja, kāpējs
+🧗🏼‍♂	alpīnists, alpīnists: vidēji gaišs ādas tonis, kāpēja, kāpējs, vidēji gaišs ādas tonis
+🧗🏽‍♂	alpīnists, alpīnists: vidējs ādas tonis, kāpēja, kāpējs, vidējs ādas tonis
+🧗🏾‍♂	alpīnists, alpīnists: vidēji tumšs ādas tonis, kāpēja, kāpējs, vidēji tumšs ādas tonis
+🧗🏿‍♂	alpīnists, alpīnists: tumšs ādas tonis, kāpēja, kāpējs, tumšs ādas tonis
 🧗‍♀	alpīniste, alpīnists
 🧗🏻‍♀	alpīniste, alpīniste: gaišs ādas tonis, alpīnists, gaišs ādas tonis
 🧗🏼‍♀	alpīniste, alpīniste: vidēji gaišs ādas tonis, alpīnists, vidēji gaišs ādas tonis
@@ -1641,80 +1838,110 @@
 🛌🏽	cilvēks, cilvēks gultā, cilvēks gultā: vidējs ādas tonis, gulta, gulēt, vidējs ādas tonis
 🛌🏾	cilvēks, cilvēks gultā, cilvēks gultā: vidēji tumšs ādas tonis, gulta, gulēt, vidēji tumšs ādas tonis
 🛌🏿	cilvēks, cilvēks gultā, cilvēks gultā: tumšs ādas tonis, gulta, gulēt, tumšs ādas tonis
-🧑‍🤝‍🧑	cilvēki sadevušies rokās
-🧑🏻‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: gaišs ādas tonis, gaišs ādas tonis
-🧑🏼‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, vidēji gaišs ādas tonis
-🧑🏼‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
-🧑🏽‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, vidējs ādas tonis
-🧑🏽‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vidējs ādas tonis
-🧑🏽‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis, vidējs ādas tonis
-🧑🏾‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, vidēji tumšs ādas tonis
-🧑🏾‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis
-🧑🏾‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis, vidēji tumšs ādas tonis, vidējs ādas tonis
-🧑🏾‍🤝‍🧑🏾	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
-🧑🏿‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, tumšs ādas tonis
-🧑🏿‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis, tumšs ādas tonis, vidēji gaišs ādas tonis
-🧑🏿‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis, tumšs ādas tonis, vidējs ādas tonis
-🧑🏿‍🤝‍🧑🏾	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis, tumšs ādas tonis, vidēji tumšs ādas tonis
-🧑🏿‍🤝‍🧑🏿	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis, tumšs ādas tonis
-👭	divas sievietes sadevušās rokās, pāris, rokas, sadot, sieviete
-👭🏻	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: gaišs ādas tonis, gaišs ādas tonis, pāris, rokas, sadot, sieviete
-👩🏼‍🤝‍👩🏻	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidēji gaišs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis
-👭🏼	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidēji gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis
-👩🏽‍🤝‍👩🏻	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidējs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidējs ādas tonis
-👩🏽‍🤝‍👩🏼	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidējs ādas tonis un vidēji gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidējs ādas tonis
-👭🏽	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidējs ādas tonis, pāris, rokas, sadot, sieviete, vidējs ādas tonis
-👩🏾‍🤝‍👩🏻	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidēji tumšs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis
-👩🏾‍🤝‍👩🏼	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis
-👩🏾‍🤝‍👩🏽	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidēji tumšs ādas tonis un vidējs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vidējs ādas tonis
-👭🏾	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: vidēji tumšs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis
-👩🏿‍🤝‍👩🏻	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: tumšs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis
-👩🏿‍🤝‍👩🏼	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: tumšs ādas tonis un vidēji gaišs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji gaišs ādas tonis
-👩🏿‍🤝‍👩🏽	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: tumšs ādas tonis un vidējs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidējs ādas tonis
-👩🏿‍🤝‍👩🏾	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: tumšs ādas tonis un vidēji tumšs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji tumšs ādas tonis
-👭🏿	divas sievietes sadevušās rokās, divas sievietes sadevušās rokās: tumšs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis
-👫	pāris, rokas, sadot, sieviete, vīrietis, vīrietis un sieviete sadevušies rokās
-👫🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: gaišs ādas tonis
-👩🏻‍🤝‍👨🏼	gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un vidēji gaišs ādas tonis
-👩🏻‍🤝‍👨🏽	gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un vidējs ādas tonis
-👩🏻‍🤝‍👨🏾	gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un vidēji tumšs ādas tonis
-👩🏻‍🤝‍👨🏿	gaišs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un tumšs ādas tonis
-👩🏼‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis
-👫🏼	pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis
-👩🏼‍🤝‍👨🏽	pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un vidējs ādas tonis
-👩🏼‍🤝‍👨🏾	pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un vidēji tumšs ādas tonis
-👩🏼‍🤝‍👨🏿	pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji gaišs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un tumšs ādas tonis
-👩🏽‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis
-👩🏽‍🤝‍👨🏼	pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis
-👫🏽	pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidējs ādas tonis
-👩🏽‍🤝‍👨🏾	pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un vidēji tumšs ādas tonis
-👩🏽‍🤝‍👨🏿	pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un tumšs ādas tonis
-👩🏾‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis
-👩🏾‍🤝‍👨🏼	pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis
-👩🏾‍🤝‍👨🏽	pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis
-👫🏾	pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis
-👩🏾‍🤝‍👨🏿	pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un tumšs ādas tonis
-👩🏿‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis
-👩🏿‍🤝‍👨🏼	pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji gaišs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis
-👩🏿‍🤝‍👨🏽	pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis
-👩🏿‍🤝‍👨🏾	pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis
-👫🏿	pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, vīrietis un sieviete sadevušies rokās, vīrietis un sieviete sadevušies rokās: tumšs ādas tonis
-👬	divi vīrieši sadevušies rokās, dvīņi, pāris, rokas, sadot, sieviete, vīrietis, zodiaks
-👬🏻	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: gaišs ādas tonis, dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vīrietis, zodiaks
-👨🏼‍🤝‍👨🏻	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis, dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, zodiaks
-👬🏼	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidēji gaišs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, zodiaks
-👨🏽‍🤝‍👨🏻	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis, dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, zodiaks
-👨🏽‍🤝‍👨🏼	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidējs ādas tonis, vīrietis, zodiaks
-👬🏽	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidējs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, zodiaks
-👨🏾‍🤝‍👨🏻	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis, dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, zodiaks
-👨🏾‍🤝‍👨🏼	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis, zodiaks
-👨🏾‍🤝‍👨🏽	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vidējs ādas tonis, vīrietis, zodiaks
-👬🏾	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, zodiaks
-👨🏿‍🤝‍👨🏻	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis, dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, zodiaks
-👨🏿‍🤝‍👨🏼	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji gaišs ādas tonis, vīrietis, zodiaks
-👨🏿‍🤝‍👨🏽	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidējs ādas tonis, vīrietis, zodiaks
-👨🏿‍🤝‍👨🏾	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis, zodiaks
-👬🏿	divi vīrieši sadevušies rokās, divi vīrieši sadevušies rokās: tumšs ādas tonis, dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, zodiaks
+🧑‍🤝‍🧑	cilvēki sadevušies rokās, persona, pāris, roka, sadotas rokas, satvēriens
+🧑🏻‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: gaišs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens
+🧑🏻‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: gaišs ādas tonis un vidēji gaišs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji gaišs ādas tonis
+🧑🏻‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: gaišs ādas tonis un vidējs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidējs ādas tonis
+🧑🏻‍🤝‍🧑🏾	cilvēki sadevušies rokās, cilvēki sadevušies rokās: gaišs ādas tonis un vidēji tumšs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji tumšs ādas tonis
+🧑🏻‍🤝‍🧑🏿	cilvēki sadevušies rokās, cilvēki sadevušies rokās: gaišs ādas tonis un tumšs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis
+🧑🏼‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji gaišs ādas tonis
+🧑🏼‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji gaišs ādas tonis
+🧑🏼‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji gaišs ādas tonis un vidējs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji gaišs ādas tonis, vidējs ādas tonis
+🧑🏼‍🤝‍🧑🏾	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji gaišs ādas tonis un vidēji tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis
+🧑🏼‍🤝‍🧑🏿	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji gaišs ādas tonis un tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis, vidēji gaišs ādas tonis
+🧑🏽‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidējs ādas tonis
+🧑🏽‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji gaišs ādas tonis, vidējs ādas tonis
+🧑🏽‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidējs ādas tonis
+🧑🏽‍🤝‍🧑🏾	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis un vidēji tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji tumšs ādas tonis, vidējs ādas tonis
+🧑🏽‍🤝‍🧑🏿	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidējs ādas tonis un tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis, vidējs ādas tonis
+🧑🏾‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji tumšs ādas tonis
+🧑🏾‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis
+🧑🏾‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji tumšs ādas tonis, vidējs ādas tonis
+🧑🏾‍🤝‍🧑🏾	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, vidēji tumšs ādas tonis
+🧑🏾‍🤝‍🧑🏿	cilvēki sadevušies rokās, cilvēki sadevušies rokās: vidēji tumšs ādas tonis un tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis, vidēji tumšs ādas tonis
+🧑🏿‍🤝‍🧑🏻	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis, gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis
+🧑🏿‍🤝‍🧑🏼	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis, vidēji gaišs ādas tonis
+🧑🏿‍🤝‍🧑🏽	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis, vidējs ādas tonis
+🧑🏿‍🤝‍🧑🏾	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis, vidēji tumšs ādas tonis
+🧑🏿‍🤝‍🧑🏿	cilvēki sadevušies rokās, cilvēki sadevušies rokās: tumšs ādas tonis, persona, pāris, roka, sadotas rokas, satvēriens, tumšs ādas tonis
+👭	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās
+👭🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: gaišs ādas tonis
+👩🏻‍🤝‍👩🏼	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: gaišs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
+👩🏻‍🤝‍👩🏽	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: gaišs ādas tonis un vidējs ādas tonis, vidējs ādas tonis
+👩🏻‍🤝‍👩🏾	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: gaišs ādas tonis un vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
+👩🏻‍🤝‍👩🏿	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: gaišs ādas tonis un tumšs ādas tonis, tumšs ādas tonis
+👩🏼‍🤝‍👩🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji gaišs ādas tonis un gaišs ādas tonis, vidēji gaišs ādas tonis
+👭🏼	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis
+👩🏼‍🤝‍👩🏽	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji gaišs ādas tonis un vidējs ādas tonis, vidēji gaišs ādas tonis, vidējs ādas tonis
+👩🏼‍🤝‍👩🏾	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji gaišs ādas tonis un vidēji tumšs ādas tonis, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis
+👩🏼‍🤝‍👩🏿	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji gaišs ādas tonis un tumšs ādas tonis, tumšs ādas tonis, vidēji gaišs ādas tonis
+👩🏽‍🤝‍👩🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidējs ādas tonis un gaišs ādas tonis, vidējs ādas tonis
+👩🏽‍🤝‍👩🏼	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidējs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vidējs ādas tonis
+👭🏽	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidējs ādas tonis, vidējs ādas tonis
+👩🏽‍🤝‍👩🏾	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidējs ādas tonis un vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, vidējs ādas tonis
+👩🏽‍🤝‍👩🏿	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidējs ādas tonis un tumšs ādas tonis, tumšs ādas tonis, vidējs ādas tonis
+👩🏾‍🤝‍👩🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji tumšs ādas tonis un gaišs ādas tonis, vidēji tumšs ādas tonis
+👩🏾‍🤝‍👩🏼	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis
+👩🏾‍🤝‍👩🏽	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji tumšs ādas tonis un vidējs ādas tonis, vidēji tumšs ādas tonis, vidējs ādas tonis
+👭🏾	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis
+👩🏾‍🤝‍👩🏿	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: vidēji tumšs ādas tonis un tumšs ādas tonis, tumšs ādas tonis, vidēji tumšs ādas tonis
+👩🏿‍🤝‍👩🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: tumšs ādas tonis un gaišs ādas tonis, tumšs ādas tonis
+👩🏿‍🤝‍👩🏼	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: tumšs ādas tonis un vidēji gaišs ādas tonis, tumšs ādas tonis, vidēji gaišs ādas tonis
+👩🏿‍🤝‍👩🏽	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: tumšs ādas tonis un vidējs ādas tonis, tumšs ādas tonis, vidējs ādas tonis
+👩🏿‍🤝‍👩🏾	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: tumšs ādas tonis un vidēji tumšs ādas tonis, tumšs ādas tonis, vidēji tumšs ādas tonis
+👭🏿	pāris, rokas, sadot, sieviete, sievietes sadevušās rokās, sievietes sadevušās rokās: tumšs ādas tonis, tumšs ādas tonis
+👫	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, vīrietis
+👫🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: gaišs ādas tonis, vīrietis
+👩🏻‍🤝‍👨🏼	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: gaišs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
+👩🏻‍🤝‍👨🏽	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: gaišs ādas tonis un vidējs ādas tonis, vidējs ādas tonis, vīrietis
+👩🏻‍🤝‍👨🏾	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: gaišs ādas tonis un vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis
+👩🏻‍🤝‍👨🏿	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: gaišs ādas tonis un tumšs ādas tonis, tumšs ādas tonis, vīrietis
+👩🏼‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
+👫🏼	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vīrietis
+👩🏼‍🤝‍👨🏽	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji gaišs ādas tonis un vidējs ādas tonis, vidēji gaišs ādas tonis, vidējs ādas tonis, vīrietis
+👩🏼‍🤝‍👨🏾	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji gaišs ādas tonis un vidēji tumšs ādas tonis, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis
+👩🏼‍🤝‍👨🏿	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji gaišs ādas tonis un tumšs ādas tonis, tumšs ādas tonis, vidēji gaišs ādas tonis, vīrietis
+👩🏽‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis, vidējs ādas tonis, vīrietis
+👩🏽‍🤝‍👨🏼	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vidējs ādas tonis, vīrietis
+👫🏽	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidējs ādas tonis, vidējs ādas tonis, vīrietis
+👩🏽‍🤝‍👨🏾	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidējs ādas tonis un vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, vidējs ādas tonis, vīrietis
+👩🏽‍🤝‍👨🏿	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidējs ādas tonis un tumšs ādas tonis, tumšs ādas tonis, vidējs ādas tonis, vīrietis
+👩🏾‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis
+👩🏾‍🤝‍👨🏼	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis
+👩🏾‍🤝‍👨🏽	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis, vidēji tumšs ādas tonis, vidējs ādas tonis, vīrietis
+👫🏾	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis
+👩🏾‍🤝‍👨🏿	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: vidēji tumšs ādas tonis un tumšs ādas tonis, tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis
+👩🏿‍🤝‍👨🏻	gaišs ādas tonis, pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis, tumšs ādas tonis, vīrietis
+👩🏿‍🤝‍👨🏼	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis, tumšs ādas tonis, vidēji gaišs ādas tonis, vīrietis
+👩🏿‍🤝‍👨🏽	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis, tumšs ādas tonis, vidējs ādas tonis, vīrietis
+👩🏿‍🤝‍👨🏾	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis, tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis
+👫🏿	pāris, rokas, sadot, sieviete, sieviete un vīrietis sadevušies rokās, sieviete un vīrietis sadevušies rokās: tumšs ādas tonis, tumšs ādas tonis, vīrietis
+👬	dvīņi, pāris, rokas, sadot, sieviete, vīrietis, vīrieši sadevušies rokās, zodiaks
+👬🏻	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: gaišs ādas tonis, zodiaks
+👨🏻‍🤝‍👨🏼	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: gaišs ādas tonis un vidēji gaišs ādas tonis, zodiaks
+👨🏻‍🤝‍👨🏽	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: gaišs ādas tonis un vidējs ādas tonis, zodiaks
+👨🏻‍🤝‍👨🏾	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: gaišs ādas tonis un vidēji tumšs ādas tonis, zodiaks
+👨🏻‍🤝‍👨🏿	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: gaišs ādas tonis un tumšs ādas tonis, zodiaks
+👨🏼‍🤝‍👨🏻	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis, zodiaks
+👬🏼	dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji gaišs ādas tonis, zodiaks
+👨🏼‍🤝‍👨🏽	dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji gaišs ādas tonis un vidējs ādas tonis, zodiaks
+👨🏼‍🤝‍👨🏾	dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji gaišs ādas tonis un vidēji tumšs ādas tonis, zodiaks
+👨🏼‍🤝‍👨🏿	dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji gaišs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji gaišs ādas tonis un tumšs ādas tonis, zodiaks
+👨🏽‍🤝‍👨🏻	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis, zodiaks
+👨🏽‍🤝‍👨🏼	dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis, zodiaks
+👬🏽	dvīņi, pāris, rokas, sadot, sieviete, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidējs ādas tonis, zodiaks
+👨🏽‍🤝‍👨🏾	dvīņi, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidējs ādas tonis un vidēji tumšs ādas tonis, zodiaks
+👨🏽‍🤝‍👨🏿	dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidējs ādas tonis un tumšs ādas tonis, zodiaks
+👨🏾‍🤝‍👨🏻	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis, zodiaks
+👨🏾‍🤝‍👨🏼	dvīņi, pāris, rokas, sadot, sieviete, vidēji gaišs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis, zodiaks
+👨🏾‍🤝‍👨🏽	dvīņi, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis, zodiaks
+👬🏾	dvīņi, pāris, rokas, sadot, sieviete, vidēji tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji tumšs ādas tonis, zodiaks
+👨🏾‍🤝‍👨🏿	dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: vidēji tumšs ādas tonis un tumšs ādas tonis, zodiaks
+👨🏿‍🤝‍👨🏻	dvīņi, gaišs ādas tonis, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis, zodiaks
+👨🏿‍🤝‍👨🏼	dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji gaišs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis, zodiaks
+👨🏿‍🤝‍👨🏽	dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidējs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis, zodiaks
+👨🏿‍🤝‍👨🏾	dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vidēji tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis, zodiaks
+👬🏿	dvīņi, pāris, rokas, sadot, sieviete, tumšs ādas tonis, vīrietis, vīrieši sadevušies rokās, vīrieši sadevušies rokās: tumšs ādas tonis, zodiaks
 💏	pāris, romantika, skūpsts
 👩‍❤‍💋‍👨	pāris, romantika, sieviete, skūpsts, skūpsts: sieviete un vīrietis, vīrietis
 👨‍❤‍💋‍👨	pāris, romantika, skūpsts, skūpsts: vīrietis un vīrietis, vīrietis
@@ -1752,6 +1979,7 @@
 🗣️	galva, runājoša galva, runāt, siluets
 👤	krūšutēla siluets, krūšutēls, siluets
 👥	divu krūšutēlu silueti, krūšutēls, siluets
+🫂	apskāviens, ardievu, cilvēki apkampjas, labdien, paldies
 👣	nospiedumi, pēdu nospiedumi, ķermenis
 🦰	rudi mati, sarkani mati
 🦱	afrikāņu, sprogaini, sprogaini mati, sprogas
@@ -1766,11 +1994,12 @@
 🦮	akls, pavadonis, pieejamība, suns pavadonis
 🐕‍🦺	atbalsts, dienesta suns, dienests, pieejamība, suns
 🐩	mājdzīvnieks, pūdelis, suns
-🐺	galva, vilka galva, vilks
+🐺	galva, vilks
 🦊	galva, lapsa
 🦝	jenots, viltīgs, ziņkārīgs
 🐱	galva, kaķa galva, kaķis, mājdzīvnieks
 🐈️	kaķis, mājdzīvnieks
+🐈‍⬛	kaķis, melns, melns kaķis, neveiksme
 🦁	Lauva, galva, lauva, zodiaks
 🐯	galva, tīģera galva, tīģeris
 🐅	tīģeris
@@ -1780,6 +2009,7 @@
 🦄	galva, vienradzis
 🦓	svītra, zebra
 🦌	briedis, dzīvnieks
+🦬	bifelis, bizons, ganāmpulks, sumbrs
 🐮	galva, govs, govs galva
 🐂	Vērsis, bullis, vērsis, zodiaks
 🐃	bifelis, ūdens
@@ -1796,6 +2026,7 @@
 🦙	alpaka, gvanako, lama, vikunja, vilna
 🦒	plankumi, žirafe
 🐘	zilonis
+🦣	ilknis, izmiršana, liels, mamuts, vilnains
 🦏	degunradzis, dzīvnieks
 🦛	begemots, nīlzirgs
 🐭	galva, pele, peles galva
@@ -1805,13 +2036,15 @@
 🐰	galva, mājdzīvnieks, trusis, truša galva
 🐇	mājdzīvnieks, trusis
 🐿️	burunduks
+🦫	bebrs, dambis
 🦔	adatains, ezis
 🦇	dzīvnieks, sikspārnis, vampīrs
 🐻	galva, lācis
+🐻‍❄	arktisks, balts, leduslācis, lācis, polārlācis
 🐨	koala, lācis
-🐼	galva, panda, pandas galva
+🐼	galva, panda
 🦥	lēns, slinks, sliņķis
-🦦	rotaļāties, spēlēties, ūdrs
+🦦	rotaļāties, spēlēties, zivju ķeršana, ūdrs
 🦨	skunkss, smaka
 🦘	Austrālija, lēciens, somainis, ķengura mazulis, ķengurs
 🦡	medusāpsis, traucētājs, āpsis
@@ -1829,6 +2062,8 @@
 🦆	putns, pīle
 🦢	gulbis, jauns gulbis, neglītais pīlēns, putns
 🦉	gudrs, putns, pūce, vieds
+🦤	Maurīcija, dodo, izmiršana, liels
+🪶	apspalvojums, putns, spalva, viegls
 🦩	flamingo, spilgts, tropisks
 🦚	iedomīgs, putns, pāvs, pāvu mātīte, ārišķīgs
 🦜	papagailis, pirāts, putns, runāt
@@ -1844,6 +2079,7 @@
 🐳	valis, valis šļāc ūdeni, ūdens
 🐋	valis
 🐬	delfīns, peldpleznas
+🦭	jūras lauva, ronis
 🐟️	zivis, zivs, zodiaks
 🐠	tropi, tropu zivs, zivs
 🐡	balonzivs, zivs
@@ -1855,12 +2091,16 @@
 🐛	blakts, kukainis
 🐜	kukainis, skudra
 🐝	bite, kukainis
+🪲	insekts, kukainis, vabole
 🐞	bizbizmārīte, kukainis, mārīte
 🦗	circenis, sienāzis
+🪳	insekts, kaitēklis, prusaks, tarakāns
 🕷️	kukainis, zirneklis
 🕸️	tīkls, zirneklis, zirnekļa tīkls
 🦂	skorpions, zodiaks
 🦟	drudzis, insekts, malārija, ods, slimība, vīruss
+🪰	kaitēklis, kāpurs, muša, pūšana, slimība
+🪱	parazīts, posmtārps, slieka, tārps
 🦠	amēba, baktērija, mikrobs, vīruss
 💐	pušķis, romantika, ziedi
 🌸	augs, zieds, ķirši, ķiršu zieds
@@ -1873,6 +2113,7 @@
 🌼	augs, zieds
 🌷	augs, tulpe, zieds
 🌱	asns, augs
+🪴	audzēt, augs, augs podiņā, augt, garlaicība, māja, nevajadzīgs
 🌲	augs, koks, skujkoks
 🌳	augs, koks, lapas, lapu koks
 🌴	augs, koks, palma
@@ -1898,8 +2139,10 @@
 🍑	auglis, augs, persiks
 🍒	augs, oga, ķirsis, ķirši
 🍓	augs, oga, zemene
+🫐	mellene, mellenes, oga, zilene, zils
 🥝	auglis, kivi, kivi auglis, pārtika
 🍅	dārzenis, tomāts
+🫒	olīva, ēdiens
 🥥	kokosrieksts, palma, pina colada
 🥑	auglis, avokado, pārtika
 🍆	augs, baklažāns, dārzenis
@@ -1907,6 +2150,7 @@
 🥕	burkāns, dārzenis, pārtika
 🌽	augs, dārzenis, kukurūza, kukurūzas vālīte
 🌶️	asais pipars, ass, augs, pipars
+🫑	dārzenis, paprika, pipars, sarkanie pipari
 🥒	dārzenis, gurķis, pārtika, skābēts
 🥬	kacenkāposts, kāposts, lapu dārzenis, lapu kāposts, Ķīnas kāposts
 🥦	brokoļi, dārza kāposts
@@ -1918,6 +2162,7 @@
 🍞	kukulis, maize
 🥐	franču, kruasāns, maize, ēdiens
 🥖	bagete, franču, maize, ēdiens
+🫓	arepa, lavašs, nāanmaize, pita, plācenis
 🥨	kliņģeris, savīts
 🥯	beigelis, maiznīca, smērējams
 🥞	bliņa, pankūka, pankūkas, ēdiens
@@ -1934,12 +2179,14 @@
 🥪	maize, sendvičs
 🌮	meksikāņu, tako
 🌯	burito, meksikāņu
+🫔	meksikāņu, satīts, tamale, vraps
 🥙	giross, kebabs, lavašs, pildīts, pildīts lavašs, ēdiens
 🧆	aunazirņi / frikadele, felāfels
 🥚	ola, ēdiens
 🍳	cept, ola, panna, ēdiena gatavošana
 🥘	paelja, panna, sautējums, sautējums pannā, ēdiens
 🍲	bļoda, ēdiena bļodiņa, ēdiens
+🫕	fondī, kausēts, podiņš, siers, šokolāde, šveiciešu
 🥣	brokastis, bļoda ar karoti, graudaugi, rīsu putra
 🥗	salāti, zaļi, zaļie salāti, ēdiens
 🍿	kukurūza, popkorns
@@ -1985,6 +2232,7 @@
 🍼	bērna pudelīte, bērns, dzert, piens, pudele, zīdainis
 🥛	dzert, glāze, piena glāze, piens
 ☕️	dzert, dzēriens, kafija, karsts, karsts dzēriens, tēja
+🫖	dzēriens, kanna, tēja, tējkanna
 🍵	dzert, dzēriens, tēja, tējas tase bez osiņas
 🍶	bārs, dzert, dzēriens, pudele, sakē
 🍾	bārs, dzert, dzēriens, korķis, pudele, pudele ar izšautu korķi, šampanietis
@@ -1996,7 +2244,8 @@
 🥂	dzert, glāze, glāžu skandināšana, svinēt, šampanietis
 🥃	glāze, liķieris, viskija glāze, viskijs, šots
 🥤	dzēriens ar salmiņu, gāzēts, limonāda, sula
-🧃	dzēriena kārba, sulas kārba
+🧋	burbulis, burbuļtēja, piens, pērle, tēja
+🧃	dzēriena kārba, sulas kārba, sulas paka
 🧉	dzēriens, mate
 🧊	aisbergs, auksts, ledus gabaliņš
 🥢	haši, irbulīši
@@ -2014,17 +2263,20 @@
 🧭	kompass, magnētisks, navigācija, orientēšanās
 🏔️	auksts, kalni, sniegoti kalni, sniegs
 ⛰️	kalns
-🌋	izvirdums, vulkāns
+🌋	izvirdums, kalns, vulkāns
 🗻	Fudzi, Fudzi kalns, kalns
 🏕️	kempings, nometne, telts
 🏖️	pludmale, pludmale ar saulessargu, saulessargs
-🏜️	deserts
+🏜️	deserts, tuksnesis
 🏝️	sala, vientuļa sala, vientuļš
 🏞️	daba, nacionālais parks, parks
 🏟️	sacensības, stadions
 🏛️	klasicisma stila ēka, klasicisms, māja, ēka
 🏗️	būvlaukums, būvniecība, celtniecība
 🧱	kaļķu java, māls, siena, ķieģelis, ķieģeļi
+🪨	akmens, ciets, iezis, klints, smags
+🪵	baļķis, kokmateriāls, koks
+🛖	apaļa māja, būda, jurta, māja
 🏘️	māja, ēka, ēkas
 🏚️	māja, nolaists, pamesta ēka, pamests, ēka
 🏠️	māja, ēka
@@ -2065,7 +2317,7 @@
 🎠	karuselis, karuseļa zirdziņš, zirgs
 🎡	atrakciju parks, panorāma, panorāmas rats, rats
 🎢	amerikāņu kalniņi, atrakciju parks
-💈	bārddzinis, bārddziņa simbols, friziera izkārtne, frizieris
+💈	bārddzinis, friziera izkārtne, frizieris
 🎪	cirka telts, cirks, telts
 🚂	dzelzceļš, dzinējs, lokomotīve, transports, vilciens
 🚃	dzelzceļa vagons, dzelzceļš, tramvajs, trolejbuss, vagons, vilciens
@@ -2092,6 +2344,7 @@
 🚗	automašīna, mašīna, transports
 🚘️	automašīna, mašīna, pretī braucoša automašīna, transports
 🚙	automašīna, kemperis, mašīna, transports
+🛻	mašīna, piegāde, piegādes auto, pikaps
 🚚	automašīna, krava, kravas automašīna, mašīna, transports
 🚛	automašīna, krava, mašīna, smagā automašīna, transports
 🚜	traktors, transports
@@ -2104,6 +2357,7 @@
 🚲️	ritenis, transports, velosipēds
 🛴	skuteris, skuteris divritenis
 🛹	dēlis, skrituļdēlis
+🛼	skritulis, skrituļslida, slida
 🚏	autobusa pietura, autobuss, pietura
 🛣️	automaģistrāle, ceļš, šoseja
 🛤️	dzelzceļa sliedes, dzelzceļš, sliedes, vilciens
@@ -2137,7 +2391,7 @@
 🛸	NLO, lidojošais šķīvītis
 🛎️	galda zvans, viesnīca, zvaniņš, zvans
 🧳	bagāža, ceļojums, pakošanās
-⌛️	iztecējis smilšu pulstenis, pulkstenis, smiltis, smilšu pulkstenis, taimeris
+⌛️	iztecējis smilšu pulkstenis, iztecējis smilšu pulstenis, smiltis, taimeris
 ⏳️	pulkstenis, smiltis, smilšu pulkstenis ar plūstošām smiltīm, taimeris
 ⌚️	pulkstenis, rokaspulkstenis
 ⏰	modināt, modinātājpulkstenis, pulkstenis
@@ -2185,7 +2439,7 @@
 🌝	mēness, pilnmēness, pilnmēness seja, seja
 🌞	saule, saules seja, seja
 🪐	gredzenota planēta, mīnijs, saturns
-⭐️	dzeltena zvaigzne, zvaigzne
+⭐️	zvaigzne
 🌟	spīdoša zvaigzne, spīdēt, zvaigzne
 🌠	krist, krītoša zvaigzne, zvaigzne
 🌌	Piena ceļš, debesis, kosmoss, visums
@@ -2220,7 +2474,7 @@
 🎆	raķete, salūts, svētki
 🎇	brīnumsvecīte, mirdzēt, salūts
 🧨	dinamīts, petarde, spridzeklis, uguņošana
-✨	zibsnis, zibšņi, zvaigzne
+✨	*, zibsnis, zibšņi, zvaigzne
 🎈	balons, svētki
 🎉	ballīte, konfeti, konfeti plaukšķene, plaukšķene, svētki
 🎊	ballīte, konfeti, konfeti bumbiņa, plaukšķene, svētki
@@ -2274,13 +2528,16 @@
 🪁	gaisa pūķis, lidot, pacelties
 🎱	8, astoņi, biljarda bumbiņa, biljards, spēle
 🔮	kristāla lode, kristāls, lode, pareģot, zīlēt
-🧿	krelle, nazars, piekariņš, talismans, ļaunas acs amulets, ļaunā acs
+🪄	burvis, burvju, burvju nūjiņa, ragana
+🧿	amulets pret ļaunu aci, krelle, nazars, piekariņš, talismans, ļaunā acs
 🎮️	konsole, videospēle
 🕹️	kursorsvira, spēle, videospēle
 🎰	automāts, spēle, spēļu automāts
 🎲	galda spēle, kauliņš, metamais kauliņš
 🧩	attēlu mīkla, gabaliņš, līme, puzle, puzles gabaliņš, savienošana
 🧸	lāčuks, manta, pildīts, plīšs, rotaļlieta
+🪅	ballīte, pinjata, svinības
+🪆	krievu, lelle, matrjoška, matrjoškas
 ♠️	kārtis, pīķis
 ♥️	ercens, kārtis
 ♦️	kāravs, kārtis
@@ -2290,17 +2547,19 @@
 🀄️	Mahjong kauliņš, sarkanais pūķis, mahjong, sarkans, spēle
 🎴	japāņu, kārtis, spēle, ziedu kārtis
 🎭️	maska, māksla, skatuves māksla, teātris
-🖼️	glezna, ierāmēta glezna, muzejs, māksla, rāmis, rāmis ar gleznu
+🖼️	glezna, ierāmēta glezna, muzejs, māksla, rāmis
 🎨	glezna, gleznotāja palete, māksla, palete
 🧵	adata, pavediens, spolīte, šūšana
+🪡	adata, izšūšana, piegriezne, šujamadata, šuves, šūšana
 🧶	adīt, dzija, kamoliņš, tambrorējums
+🪢	megzls, mezgls, mudžeklis, striķis, virve
 👓️	acis, brilles
 🕶️	acis, brilles, saulesbrilles
 🥽	acu aizsardzība, aizsargbrilles, metināšana, peldēšana
 🥼	eksperiments, laboratorijas halāts, zinātnieks, ārsts
 🦺	drošība, drošības veste, veste, ārkārtas
 👔	apģērbs, drēbes, kaklasaite
-👕	apģērbs, drēbes, t krekls
+👕	T krekls, apģērbs, drēbes, t krekls
 👖	apģērbs, bikses, drēbes, džinsi
 🧣	kakls, šalle
 🧤	cimdi, roka
@@ -2319,6 +2578,7 @@
 👝	apģērbs, kosmētikas maciņš, maisiņš, soma
 🛍️	iepirkumu maisiņi, iepirkumu somas, maisiņš, soma
 🎒	mugursoma, skola, skolas mugursoma, soma
+🩴	pirkstiņsandales, pludmales sandales, sandales, siksniņsandale, siksniņsandales
 👞	apavi, vīriešu, vīriešu kurpe
 👟	apavi, skriešanas apavi, skriešanas kurpe, sports
 🥾	kempings, mugursoma, pārgājiens, pārgājienu zābaks, zābaks
@@ -2330,8 +2590,9 @@
 👑	karaliene, karalis, kronis
 👒	cepure, platmale, sieviešu cepure
 🎩	apģērbs, cepure, cilindrs
-🎓️	cepure, izlaiduma cepure, izlaidums, svinības
+🎓️	absolventa cepure, cepure, izlaiduma cepure, izlaidums, svinības
 🧢	beisbola cepure, cepure ar nagu
+🪖	armija, karavīrs, militārā, militārā ķivere, zaldāts, ķivere
 ⛑️	glābēja ķivere, krusts, palīdzība, ķivere
 📿	kaklarota, krelles, lūgšana, lūgšanu krelles, reliģija
 💄	kosmētika, lūpas, lūpukrāsa
@@ -2342,7 +2603,7 @@
 🔉	ieslēgts skaļrunis, vidējs, vidējs skaļruņa skaļums
 🔊	skaļrunis, skaļums, skaļš, skaļš skaļrunis
 📢	pastiprinātājs, skaļrunis, skaļš
-📣	rupors, skaļš
+📣	megafons, ovācijas
 📯	pastnieka taure, pastnieks, taure
 🔔	zvans
 🔕	aizliegts, bez skaņas, klusums, pārsvītrots zvaniņš, zvaniņš
@@ -2350,39 +2611,41 @@
 🎵	mūzika, nots
 🎶	mūzika, notis
 🎙️	mikrofons, studija, studijas mikrofons
-🎚️	skaļuma slīdnis, skaļums, slēdzis
-🎛️	mūzika, slēdži
+🎚️	mūzika, skaļuma slīdnis, skaļums, slīdnis
+🎛️	mūzika, pogas, slēdži, vadība
 🎤	karaoke, mikrofons
-🎧️	austiņas, mūzika
+🎧️	austiņas, ieauši
 📻️	radio, video
 🎷	instruments, mūzika, saksofons
+🪗	akordeons, koncertīna, rokas armoņikas
 🎸	instruments, mūzika, ģitāra
 🎹	instruments, klaviatūra, klavieres, klavieru taustiņi, mūzika
 🎺	instruments, mūzika, taure, trompete
 🎻	instruments, mūzika, vijole
 🪕	bandžo, mūzika, stīgu
 🥁	bungas, bungu vālītes, mūzika
+🪘	bungas, garās bungas, konga, ritms, vālīte
 📱	mobilais, mobilais tālrunis, telefons, tālrunis
 📲	bultiņa, mobilais, mobilais tālrunis ar bultiņu, telefons, tālrunis
 ☎️	telefons, tālrunis
 📞	klausule, telefons, tālrunis, tālruņa klausule
 📟️	peidžers
-📠	fakss
+📠	faksa aparāts, fakss
 🔋	baterija
 🔌	elektrība, kontaktdakša, spraudnis
-💻️	dators, klēpjdators
+💻️	dators, klēpjdators, personālais
 🖥️	dators, galddators
 🖨️	dators, printeris
 ⌨️	dators, tastatūra
 🖱️	datorpele, dators, pele
 🖲️	dators, kursorbumba
-💽	dators, minidisks
+💽	dators, disks, minidisks, optiskais
 💾	dators, diskete
-💿️	CD, DVD, blu-ray, dators, kompaktdisks, optiskais disks
+💿️	CD, dators, kompaktdisks, optiskais disks
 📀	CD, DVD, blu-ray, dators, dvd, kompaktdisks
 🧮	skaitīkļi, skaitīšana
 🎥	filma, kamera, kino, kinokamera
-🎞️	filma, filmas lente, kino, lente
+🎞️	filma, filmas lente, kadri, kino
 📽️	filma, filmu projektors, kino, projektors
 🎬️	filma, klapīte
 📺️	TV, televizors
@@ -2393,11 +2656,11 @@
 🔍	lupa, pa kreisi vērsta lupa, palielināt
 🔎	lupa, pa labi vērsta lupa, palielināt
 🕯️	svece, uguns
-💡	elektrība, gaisma, spuldze
+💡	elektrība, gaisma, ideja, komikss, spuldze
 🔦	elektrība, gaisma, kabatas lukturītis
 🏮	bārs, japāņu, laterna, papīrs, sarkana papīra laterna, sarkans
 🪔	eļļa, eļļas lampa, lampa
-📔	bloknots, bloknots ar dekoratīvu vāku, grāmata
+📔	bloknots, bloknots ar dekoratīvu vāku, dekoratīvs, grāmata, vāks
 📕	aizvērta, aizvērta grāmata, grāmata
 📖	atvērta, atvērta grāmata, grāmata
 📗	grāmata, zaļa, zaļa grāmata
@@ -2411,10 +2674,11 @@
 📄	dokuments, papīra lapa, papīrs
 📰	avīze, laikraksts, ziņas
 🗞	avīze, laikraksts, satīta avīze, satīts, ziņas
-📑	grāmatzīme, līmkarodziņi
+📑	grāmatzīme, līmkarodziņi, zīme
 🔖	grāmatzīme, zīme
 🏷️	atzīme
 💰️	dolārs, maiss, nauda, naudas maiss
+🪙	bagātība, metāls, monēta, nauda, sudrabs, zelts
 💴	banknote, jena, jenas banknote, nauda
 💵	banknote, dolāra banknote, dolārs, nauda
 💶	banknote, eiro, eiro banknote, nauda
@@ -2423,8 +2687,6 @@
 💳️	kredītkarte, nauda
 🧾	apstiprinājums, grāmatvedība, kvīts, pierādījums, uzskaite
 💹	augšup, augšupejoša diagrammas līkne ar jenas simbolu, diagramma, jena, līkne, tirgus
-💱	banka, maiņa, nauda, valūta, valūtas maiņa
-💲	dolāra zīme, dolārs, nauda
 ✉️	aploksne, e-pasts, vēstule
 📧	aploksne, e-pasts, vēstule
 📨	aploksne, e-pasts, ienākoša aploksne, saņemt, vēstule
@@ -2440,11 +2702,11 @@
 🗳️	urna, vēlēšanas, vēlēšanu urna ar vēlēšanu zīmi
 ✏️	zīmulis
 ✒️	melna rakstāmspalva, rakstāmspalva, spalva
-🖋️	pildspalva, tuša, tušas pildspalva
+🖋️	pildspalva, tinte, tintes pildspalva
 🖊️	lodīšu pildspalva, pildspalva
 🖌️	gleznot, ota
 🖍️	krītiņš
-📝	paziņojums, zīmulis
+📝	piezīme, zīmulis
 💼	portfelis, soma
 📁	dokuments, dokumentu mape, mape
 📂	atvērta dokumentu mape, atvērts, dokuments, mape
@@ -2458,22 +2720,22 @@
 📉	diagramma, lejup, lejupejoša diagrammas līkne, līkne
 📊	diagramma, josla, joslu diagramma
 📋️	dokuments, dokumentu paliktnis, paliktnis
-📌	piespraude
+📌	piespraude, spraudīte
 📍	apaļa spraudīte, apaļš, spraudīte
 📎	papīra saspraude, saspraude
 🖇️	saspraude, savienotas saspraudes
 📏	lineāls, taisns lineāls
 📐	lineāls, trīsstūra lineāls
-✂️	griezt, šķēres
+✂️	griezt, rīks, šķēres
 🗃️	dokuments, dokumentu kaste, kaste
 🗄️	dokuments, dokumentu skapis, skapis
-🗑️	atkritumi, atkritumu grozs, grozs, miskaste
+🗑️	atkritumu grozs, papīrkurvis
 🔒️	aizslēgts, slēdzene
 🔓️	atslēgta, atvērta slēdzene, piekaramā atslēga, slēdzene
 🔏	konfidencialitāte, rakstāmspalva, slēdzene, slēdzene ar rakstāmspalvu
 🔐	aizvērta slēdzene ar atslēgu, atslēga, drošs, slēdzene
 🔑	atslēga, parole
-🗝️	atslēga, veca atslēga
+🗝️	atrisinājums, atslēga, veca atslēga
 🔨	darbarīks, āmurs
 🪓	cirvis, koks, skaida, skaldīt
 ⛏️	cirst, cirtnis
@@ -2482,24 +2744,29 @@
 🗡️	duncis, ierocis, nazis
 ⚔️	ierocis, sakrustoti zobeni, sakrustots, zobens
 🔫	ierocis, pistole, revolveris, šaujamierocis
+🪃	Austrālija, atlēciens, atsitiens, bumerangs
 🏹	bulta, ierocis, loks, loks un bulta, strēlnieks
 🛡️	ierocis, vairogs
+🪚	darbarīks, galdnieks, kokmateriāli, vienrokas zāģis, zāģis
 🔧	darbarīks, uzgriežņu atslēga
+🪛	darbarīks, skrūvgriezis, skrūvēt
 🔩	skrūve, skrūve un uzgrieznis, tapa, uzgrieznis
 ⚙️	darbarīks, zobrats
-🗜️	saspiest, skrūvspīles
+🗜️	darbarīks, saspiest, skrūvspīles
 ⚖️	Svari, līdzsvars, svari, svars, taisnīgums, zodiaks
 🦯	akls, baltais atbalsta spieķis, pieejamība
 🔗	ķēde, ķēdes posms
 ⛓️	ķēde, ķēdes
+🪝	pievilināt, pārdošanas arguments, uzķeršanās, āķis
 🧰	darbarīku kaste, kaste, mehānisks, rīks
 🧲	magnētisks, magnēts, pakavs, pievilkšana
+🪜	kāpnes, kāpt, pakāpiens, šķērskoks
 ⚗️	destilēšanas aparāts, mēģene, ķīmija
 🧪	eksperiments, laboratorija, mēģene, zinātne, ķīmija, ķīmiķis
 🧫	Petri trauks, baktērija, biologs, bioloģija, kultūra, laboratorija
 🧬	DNS, biologs, dzīve, evolūcija, gēns, ģenētika
-🔬	mikroskops, palielināt
-🔭	palielināt, teleskops
+🔬	mikroskops, rīks, zinātne
+🔭	rīks, teleskops, zinātne
 📡	antena, satelīta šķīvis, satelīts, šķīvis
 💉	adata, medicīna, slims, ārsts, šļirce
 🩸	asins pile, asins ziedošana, medicīna, menstruācija
@@ -2507,26 +2774,35 @@
 🩹	plāksteris
 🩺	medicīna, sirds, stetoskops, ārsts
 🚪	durvis, ieeja, izeja
+🛗	lifts, pacēlājs, pieejamība
+🪞	atspīdums, reflektors, spogulis
+🪟	atvērums, caurspīdīgs, logs, rāmis, skats, svaigs gaiss
 🛏️	gulta, gulēt, viesnīca
-🛋️	dīvāns, dīvāns un lampa, lampa
+🛋️	dīvāns, dīvāns un lampa, lampa, viesnīca
 🪑	krēsls, sēdeklis, sēdēt
 🚽	pods, tualete, tualetes pods
+🪠	kanalizācijas buča, santehniķis, sūkšana, tualete, vantūzs
 🚿	duša, ūdens
 🛁	vanna, ūdens
+🪤	lamatas, peļu slazds, slazds, ēsma
 🪒	ass, bārdas nazis, skūt
 🧴	losjona pudele, losjons, mitrinātājs, sauļošanās krēms, šampūns
-🧷	autiņi, autiņu soma, saspraude
+🧷	autiņi, pankroks, saspraude
 🧹	slaucīšana, slota, tīrīšana
 🧺	grozs, lauksaimniecība, pikniks, veļas mazgātuve
 🧻	papīra dvieļi, papīra rullis, tualetes papīrs
+🪣	spainis, toveris, tvertne
 🧼	tīrīšana, vannošana, ziepes, ziepju putas, ziepju trauks
+🪥	higiēna, suka, tīrs, vannasistaba, zobi, zobu, zobu suka
 🧽	porains, sūklis, tīrīšana, uzsūkšana
 🧯	apdzēst, dzēst, uguns, ugunsdzēsības aparāts
 🛒	iepirkumu ratiņi, iepirkšanās, ratiņi, veikals
 🚬	aizdegta cigarete, cigarete, smēķēt
 ⚰️	bēres, nāve, zārks
+🪦	kapa piemineklis, kapakmens, kapi, kaps, kapsēta
 ⚱️	bēres, nāve, pelnu urna, urna
 🗿	Lieldienu salu statuja, galva, moai, statuja
+🪧	demonstrācija, pikets, plakāts, protests, zīme
 🏧	ATM, bankomāta zīme, bankomāts, nauda
 🚮	atkritumi, atkritumu urnas zīme, urna
 🚰	dzeramais ūdens, dzert, ūdens
@@ -2537,14 +2813,14 @@
 🚼️	pārtīt, zīdainis, zīdaiņa simbols
 🚾	WC, ateja, tualete
 🛂	kontrole, pase, pasu kontrole
-🛃	muitas
+🛃	muita
 🛄	bagāža, bagāžas saņemšana
 🛅	bagāža, bagāžas glabātava, glabāt
 ⚠️	brīdinājums
 🚸	bērni, bērni šķērso ielu, gājēji, pāreja, satiksme
 ⛔️	aizliegts, iebraukt aizliegts, ieeja, nedrīkst, nē, satiksme
 🚫	aizliegts, ieeja, nedrīkst, nē
-🚳	aizliegts, nedrīkst, nē, ritenis, velosipēdi aizliegti, velosipēds
+🚳	aizliegts, nē, velosipēdiem braukt aizliegts, velosipēds
 🚭️	aizliegts, nedrīkst, nē, smēķēt, smēķēt aizliegts
 🚯	aizliegts, atkritumi, atkritumus mest aizliegts, nedrīkst, nē
 🚱	aizliegts, dzert, nav dzeramais ūdens, nedrīkst, nē, ūdens
@@ -2553,13 +2829,13 @@
 🔞	18, aizliegts, astoņpadsmit, nedrīkst, nepilngadīgs, nē, tikai no 18 gadu vecuma
 ☢️	bīstami, radioaktīvs
 ☣️	bioloģiskais apdraudējums, bīstami
-⬆️	augšupvērsta bultiņa, bultiņa, norāde, ziemeļi
+⬆️	augšupbultiņa, augšupvērsta bultiņa, bultiņa, norāde, ziemeļi
 ↗️	bultiņa, norāde, uz augšējo labo stūri vērsta bultiņa, ziemeļaustrumi
-➡️	austrumi, bultiņa, norāde, pa labi vērsta bultiņa
+➡️	austrumi, bultiņa, labā bultiņa, norāde, pa labi vērsta bultiņa
 ↘️	bultiņa, dienvidaustrumi, norāde, uz apakšējo labo stūri vērsta bultiņa
-⬇️	bultiņa, dienvidi, lejupvērsta bultiņa, norāde
+⬇️	bultiņa, dienvidi, lejupbultiņa, lejupvērsta bultiņa, norāde
 ↙️	bultiņa, dienvidrietumi, norāde, uz apakšējo kreiso stūri vērsta bultiņa
-⬅️	bultiņa, norāde, pa kreisi vērsta bultiņa, rietumi
+⬅️	bultiņa, kreisā bultiņa, norāde, pa kreisi vērsta bultiņa, rietumi
 ↖️	bultiņa, norāde, uz augšējo kreiso stūri vērsta bultiņa, ziemeļrietumi
 ↕️	augšup un lejup vērsta bultiņa, bultiņa
 ↔️	bultiņa, pa kreisi un pa labi vērsta bultiņa
@@ -2625,38 +2901,41 @@
 📴	izslēgt, izslēgts mobilais tālrunis, mobilais, telefons, tālrunis
 ♀️	sieviete, sieviešu simbols
 ♂️	vīrietis, vīriešu simbols
-⚕️	eskulaps, medicīna, medicīnas simbols, personāls
+⚧️	transdzimuma simbols, transdzimums
+✖️	atcelt, krustiņš, matemātika, reizināt, reizināšanas zīme, x, ×
+➕	+, matemātika, plus, pluszīme, saskaitīt
+➖	-, atņemt, matemātika, mīnuss, mīnuszīme, –
+➗	/, dalīt, dalīšanas zīme, matemātika, ÷
 ♾️	bezgalība, bezgalīgs, mūžība, vispārīgs
+‼️	!, !!, divas izsaukuma zīmes, izsaukums, pieturzīme
+⁉️	!, !?, ?, izsaukuma un jautājuma zīme, izsaukums, jautājums, pieturzīme
+❓️	?, jautājuma zīme, jautājums, pieturzīme
+❔	?, balta jautājuma zīme, jautājums, pieturzīme
+❕	!, balta izsaukuma zīme, izsaukums, pieturzīme
+❗️	!, izsaukuma zīme, izsaukums, pieturzīme
+〰️	domuzīme, viļņota, viļņota domuzīme
+💱	banka, maiņa, nauda, valūta, valūtas maiņa
+💲	dolāra zīme, dolārs, nauda
+⚕️	eskulaps, medicīna, medicīnas simbols, personāls
 ♻️	atkritumu pārstrādes simbols, pārstrāde
 ⚜	lilija, lilijas simbols
 🔱	enkurs, kuģis, trijzaris
 📛	nozīmīte, vārda nozīmīte, vārds
 🔰	iesācējs, japāņu, japāņu simbols, kas apzīmē iesācēju, simbols
 ⭕️	aplis, liels, liels aplis, o, riņķis, sarkans
-✅	atzīme, balta kontrolzīme, ķeksītis
-☑️	atzīme, atzīmēta izvēles rūtiņa, rūtiņa, ķeksītis
-✔️	atzīme, kontrolzīme, ķeksītis
-✖️	atcelt, krustiņš, matemātika, reizināt, reizināšanas zīme, x
-❌	atcelt, krustiņš, reizināt, x
+✅	atzīme, balta kontrolzīme, ķeksītis, ✓
+☑️	atzīme, atzīmēta izvēles rūtiņa, rūtiņa, ķeksītis, ✓
+✔️	atzīme, kontrolzīme, ķeksītis, ✓
+❌	atcelt, krustiņš, reizināt, x, ×
 ❎	atcelt, krustiņa poga, krustiņš, reizināt, rūtiņa, x
-➕	+, matemātika, plus, pluszīme, saskaitīt
-➖	-, atņemt, matemātika, mīnuss, mīnuszīme, –
-➗	/, dalīt, dalīšanas zīme, matemātika
 ➰	cilpa, cilpiņa, sproga
 ➿	cilpa, dubulta cilpa
 〽️	mūzika, partijas sākuma zīme, zīme
-✳️	astoņstaru zvaigznīte, zvaigznīte
-✴️	astoņstaru zvaigzne, zvaigzne, četrstaru zvaigzne
+✳️	*, astoņstaru zvaigznīte, zvaigznīte
+✴️	*, astoņstaru zvaigzne, zvaigzne, četrstaru zvaigzne
 ❇️	*, dzirkstis
-‼️	divas izsaukuma zīmes, izsaukums, pieturzīme
-⁉️	izsaukuma un jautājuma zīme, izsaukums, jautājums, pieturzīme
-❓️	jautājuma zīme, jautājums, pieturzīme
-❔	balta jautājuma zīme, jautājums, pieturzīme
-❕	balta izsaukuma zīme, izsaukums, pieturzīme
-❗️	izsaukuma zīme, izsaukums, pieturzīme
-〰️	domuzīme, viļņota, viļņota domuzīme
-©️	(C), autortiesības
-®️	(R), preču zīme, reģistrēta preču zīme, reģistrēts
+©️	(C), autortiesības, c
+®️	(R), preču zīme, r, reģistrēta preču zīme, reģistrēts
 ™️	TM, preču zīme
 #⃣	taustiņš, taustiņš: #
 *⃣	taustiņš, taustiņš: *
@@ -2676,9 +2955,9 @@
 🔢	1234, cipari, ievade
 🔣	ievade, simboli
 🔤	abc, alfabēts, burti, ievade, latīņu, latīņu burti
-🅰️	A, asinsgrupa, poga A
-🆎	AB, asinsgrupa, poga AB
-🅱️	B, asinsgrupa, poga B
+🅰️	A, A poga (asinsgrupa), asinsgrupa, poga A
+🆎	AB, AB poga (asinsgrupa), asinsgrupa, poga AB
+🅱️	B, B poga (asinsgrupa), asinsgrupa, poga B
 🆑	CL, notīrīt, poga CL
 🆒	cool, uzraksts Cool kvadrātveida ietvarā
 🆓	bezmaksas, free, uzraksts Free kvadrātveida ietvarā
@@ -2687,7 +2966,7 @@
 Ⓜ️	M, aplis, burts M apļveida ietvarā
 🆕	jauns, new, uzraksts New kvadrātveida ietvarā
 🆖	NG, uzraksts NG kvadrātveida ietvarā
-🅾️	O, asinsgrupa, poga O
+🅾️	O, O poga (asinsgrupa), asinsgrupa, poga O
 🆗	labi, ok, uzraksts OK kvadrātveida ietvarā
 🅿️	P, poga P, stāvvieta
 🆘	SOS, palīdzība, uzraksts SOS kvadrātveida ietvarā
@@ -2750,6 +3029,7 @@
 🏴	karogs, melns karogs, plīvot
 🏳️	balts karogs, karogs, plīvot
 🏳‍🌈	karogs, varavīksne, varavīksnes karogs
+🏳‍⚧	karogs, transdzimuma, zils, rozā un balts karogs
 🏴‍☠	bagātības, laupījums, pirāts, pirātu karogs
 🇦🇨	karogs, karogs: Debesbraukšanas sala
 🇦🇩	karogs, karogs: Andora
@@ -2904,7 +3184,7 @@
 🇲🇱	karogs, karogs: Mali
 🇲🇲	karogs, karogs: Mjanma (Birma)
 🇲🇳	karogs, karogs: Mongolija
-🇲🇴	karogs, karogs: Ķīnas īpašās pārvaldes apgabals Makao
+🇲🇴	karogs, karogs: ĶTR īpašais administratīvais reģions Makao
 🇲🇵	karogs, karogs: Ziemeļu Marianas salas
 🇲🇶	karogs, karogs: Martinika
 🇲🇷	karogs, karogs: Mauritānija
@@ -2969,7 +3249,7 @@
 🇸🇻	karogs, karogs: Salvadora
 🇸🇽	karogs, karogs: Sintmārtena
 🇸🇾	karogs, karogs: Sīrija
-🇸🇿	karogs, karogs: Svazilenda
+🇸🇿	karogs, karogs: Svatini
 🇹🇦	karogs, karogs: Tristana da Kuņas salas
 🇹🇨	karogs, karogs: Tērksas un Kaikosas salas
 🇹🇩	karogs, karogs: Čada

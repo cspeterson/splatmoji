@@ -19,6 +19,7 @@
 ☺️	buźka, uśmiech, uśmiechnięta twarz, zrelaksowany
 😚	całująca twarz z zamkniętymi oczami, całus, ślę całusa
 😙	całująca twarz o roześmianych oczach, całus, ślę całusa
+🥲	dumny, ulga, uśmiechnięta buźka ze łzą, uśmiechnięty, wdzięczny, wzruszony, łza
 😋	oblizywać się, twarz delektująca się pysznym jedzeniem
 😛	buźka pokazująca język, twarz wystawiająca język
 😜	język, mrugnięcie, pokazuję język, twarz wystawiająca język i puszczająca oko
@@ -57,6 +58,7 @@
 🤯	eksplodująca głowa, szok
 🤠	głowa w kapeluszu kowbojskim, kapelusz, kowboj, kowbojka
 🥳	czapeczka, przyjęcie, trąbka, świętowanie, świętująca twarz
+🥸	anonimowy, buźka w przebraniu, incognito, nos, okulary, przebranie, twarz, wąsy
 😎	luzak, na luzie, okulary, uśmiechnięta twarz w okularach przeciwsłonecznych, zadowolony
 🤓	buźka w okularach, inteligent, kujon
 🧐	twarz z monoklem, wyniosły
@@ -183,6 +185,12 @@
 👌🏽	dłoń z gestem OK, dłoń z gestem OK: karnacja średnia, karnacja średnia, znak OK
 👌🏾	dłoń z gestem OK, dłoń z gestem OK: karnacja średnio ciemna, karnacja średnio ciemna, znak OK
 👌🏿	dłoń z gestem OK, dłoń z gestem OK: karnacja ciemna, karnacja ciemna, znak OK
+🤌	gest, palce, przesłuchanie, sarkazm, złączone palce
+🤌🏻	gest, karnacja jasna, palce, przesłuchanie, sarkazm, złączone palce, złączone palce: karnacja jasna
+🤌🏼	gest, karnacja średnio jasna, palce, przesłuchanie, sarkazm, złączone palce, złączone palce: karnacja średnio jasna
+🤌🏽	gest, karnacja średnia, palce, przesłuchanie, sarkazm, złączone palce, złączone palce: karnacja średnia
+🤌🏾	gest, karnacja średnio ciemna, palce, przesłuchanie, sarkazm, złączone palce, złączone palce: karnacja średnio ciemna
+🤌🏿	gest, karnacja ciemna, palce, przesłuchanie, sarkazm, złączone palce, złączone palce: karnacja ciemna
 🤏	dłoń z gestem „trochę”, mała ilość
 🤏🏻	dłoń z gestem „trochę”, dłoń z gestem „trochę”: karnacja jasna, karnacja jasna, mała ilość
 🤏🏼	dłoń z gestem „trochę”, dłoń z gestem „trochę”: karnacja średnio jasna, karnacja średnio jasna, mała ilość
@@ -379,6 +387,8 @@
 👃🏾	ciało, karnacja średnio ciemna, nos, nos: karnacja średnio ciemna
 👃🏿	ciało, karnacja ciemna, nos, nos: karnacja ciemna
 🧠	inteligentny, mózg
+🫀	bicie serca, kardiologia, mięsień sercowy, organ, puls, serce
+🫁	oddech, oddychanie, organ, płuca, wdech, wydech
 🦷	dentysta, ząb
 🦴	kość, szkielet
 👀	oczy, oko, twarz
@@ -415,24 +425,48 @@
 🧑🏽	dorosły, dorosły: karnacja średnia, karnacja średnia, płeć neutralna
 🧑🏾	dorosły, dorosły: karnacja średnio ciemna, karnacja średnio ciemna, płeć neutralna
 🧑🏿	dorosły, dorosły: karnacja ciemna, karnacja ciemna, płeć neutralna
-👱	blondyn, osoba z włosami blond
-👱🏻	blondyn, karnacja jasna, osoba z włosami blond, osoba z włosami blond: karnacja jasna
-👱🏼	blondyn, karnacja średnio jasna, osoba z włosami blond, osoba z włosami blond: karnacja średnio jasna
-👱🏽	blondyn, karnacja średnia, osoba z włosami blond, osoba z włosami blond: karnacja średnia
-👱🏾	blondyn, karnacja średnio ciemna, osoba z włosami blond, osoba z włosami blond: karnacja średnio ciemna
-👱🏿	blondyn, karnacja ciemna, osoba z włosami blond, osoba z włosami blond: karnacja ciemna
+👱	blond, osoba z włosami blond, włosy
+👱🏻	blond, karnacja jasna, osoba z włosami blond, osoba z włosami blond: karnacja jasna, włosy
+👱🏼	blond, karnacja średnio jasna, osoba z włosami blond, osoba z włosami blond: karnacja średnio jasna, włosy
+👱🏽	blond, karnacja średnia, osoba z włosami blond, osoba z włosami blond: karnacja średnia, włosy
+👱🏾	blond, karnacja średnio ciemna, osoba z włosami blond, osoba z włosami blond: karnacja średnio ciemna, włosy
+👱🏿	blond, karnacja ciemna, osoba z włosami blond, osoba z włosami blond: karnacja ciemna, włosy
+🧑‍🦰	dorosły, dorosły: rude włosy, płeć neutralna, rude włosy
+🧑🏻‍🦰	dorosły, dorosły: karnacja jasna i rude włosy, karnacja jasna, płeć neutralna, rude włosy
+🧑🏼‍🦰	dorosły, dorosły: karnacja średnio jasna i rude włosy, karnacja średnio jasna, płeć neutralna, rude włosy
+🧑🏽‍🦰	dorosły, dorosły: karnacja średnia i rude włosy, karnacja średnia, płeć neutralna, rude włosy
+🧑🏾‍🦰	dorosły, dorosły: karnacja średnio ciemna i rude włosy, karnacja średnio ciemna, płeć neutralna, rude włosy
+🧑🏿‍🦰	dorosły, dorosły: karnacja ciemna i rude włosy, karnacja ciemna, płeć neutralna, rude włosy
+🧑‍🦱	dorosły, dorosły: kręcone włosy, kręcone włosy, płeć neutralna
+🧑🏻‍🦱	dorosły, dorosły: karnacja jasna i kręcone włosy, karnacja jasna, kręcone włosy, płeć neutralna
+🧑🏼‍🦱	dorosły, dorosły: karnacja średnio jasna i kręcone włosy, karnacja średnio jasna, kręcone włosy, płeć neutralna
+🧑🏽‍🦱	dorosły, dorosły: karnacja średnia i kręcone włosy, karnacja średnia, kręcone włosy, płeć neutralna
+🧑🏾‍🦱	dorosły, dorosły: karnacja średnio ciemna i kręcone włosy, karnacja średnio ciemna, kręcone włosy, płeć neutralna
+🧑🏿‍🦱	dorosły, dorosły: karnacja ciemna i kręcone włosy, karnacja ciemna, kręcone włosy, płeć neutralna
+🧑‍🦳	białe włosy, dorosły, dorosły: białe włosy, płeć neutralna
+🧑🏻‍🦳	białe włosy, dorosły, dorosły: karnacja jasna i białe włosy, karnacja jasna, płeć neutralna
+🧑🏼‍🦳	białe włosy, dorosły, dorosły: karnacja średnio jasna i białe włosy, karnacja średnio jasna, płeć neutralna
+🧑🏽‍🦳	białe włosy, dorosły, dorosły: karnacja średnia i białe włosy, karnacja średnia, płeć neutralna
+🧑🏾‍🦳	białe włosy, dorosły, dorosły: karnacja średnio ciemna i białe włosy, karnacja średnio ciemna, płeć neutralna
+🧑🏿‍🦳	białe włosy, dorosły, dorosły: karnacja ciemna i białe włosy, karnacja ciemna, płeć neutralna
+🧑‍🦲	dorosły, dorosły: łysy, płeć neutralna, łysy
+🧑🏻‍🦲	dorosły, dorosły: karnacja jasna i łysy, karnacja jasna, płeć neutralna, łysy
+🧑🏼‍🦲	dorosły, dorosły: karnacja średnio jasna i łysy, karnacja średnio jasna, płeć neutralna, łysy
+🧑🏽‍🦲	dorosły, dorosły: karnacja średnia i łysy, karnacja średnia, płeć neutralna, łysy
+🧑🏾‍🦲	dorosły, dorosły: karnacja średnio ciemna i łysy, karnacja średnio ciemna, płeć neutralna, łysy
+🧑🏿‍🦲	dorosły, dorosły: karnacja ciemna i łysy, karnacja ciemna, płeć neutralna, łysy
 👨	mężczyzna
 👨🏻	karnacja jasna, mężczyzna, mężczyzna: karnacja jasna
 👨🏼	karnacja średnio jasna, mężczyzna, mężczyzna: karnacja średnio jasna
 👨🏽	karnacja średnia, mężczyzna, mężczyzna: karnacja średnia
 👨🏾	karnacja średnio ciemna, mężczyzna, mężczyzna: karnacja średnio ciemna
 👨🏿	karnacja ciemna, mężczyzna, mężczyzna: karnacja ciemna
-🧔	broda, osoba z brodą
-🧔🏻	broda, karnacja jasna, osoba z brodą, osoba z brodą: karnacja jasna
-🧔🏼	broda, karnacja średnio jasna, osoba z brodą, osoba z brodą: karnacja średnio jasna
-🧔🏽	broda, karnacja średnia, osoba z brodą, osoba z brodą: karnacja średnia
-🧔🏾	broda, karnacja średnio ciemna, osoba z brodą, osoba z brodą: karnacja średnio ciemna
-🧔🏿	broda, karnacja ciemna, osoba z brodą, osoba z brodą: karnacja ciemna
+🧔	broda, mężczyzna z brodą, osoba z brodą
+🧔🏻	broda, karnacja jasna, mężczyzna z brodą, mężczyzna z brodą: karnacja jasna, osoba z brodą
+🧔🏼	broda, karnacja średnio jasna, mężczyzna z brodą, mężczyzna z brodą: karnacja średnio jasna, osoba z brodą
+🧔🏽	broda, karnacja średnia, mężczyzna z brodą, mężczyzna z brodą: karnacja średnia, osoba z brodą
+🧔🏾	broda, karnacja średnio ciemna, mężczyzna z brodą, mężczyzna z brodą: karnacja średnio ciemna, osoba z brodą
+🧔🏿	broda, karnacja ciemna, mężczyzna z brodą, mężczyzna z brodą: karnacja ciemna, osoba z brodą
 👱‍♂	blondyn, mężczyzna
 👱🏻‍♂	blondyn, blondyn: karnacja jasna, karnacja jasna, mężczyzna
 👱🏼‍♂	blondyn, blondyn: karnacja średnio jasna, karnacja średnio jasna, mężczyzna
@@ -697,6 +731,12 @@
 🤷🏽‍♀	karnacja średnia, kobieta, kobieta wzruszająca ramionami, kobieta wzruszająca ramionami: karnacja średnia, obojętność, wzruszenie ramion, wątpliwość
 🤷🏾‍♀	karnacja średnio ciemna, kobieta, kobieta wzruszająca ramionami, kobieta wzruszająca ramionami: karnacja średnio ciemna, obojętność, wzruszenie ramion, wątpliwość
 🤷🏿‍♀	karnacja ciemna, kobieta, kobieta wzruszająca ramionami, kobieta wzruszająca ramionami: karnacja ciemna, obojętność, wzruszenie ramion, wątpliwość
+🧑‍⚕	lekarz, opieka zdrowotna, pracownik służby zdrowia, terapeuta
+🧑🏻‍⚕	karnacja jasna, lekarz, opieka zdrowotna, pracownik służby zdrowia, pracownik służby zdrowia: karnacja jasna, terapeuta
+🧑🏼‍⚕	karnacja średnio jasna, lekarz, opieka zdrowotna, pracownik służby zdrowia, pracownik służby zdrowia: karnacja średnio jasna, terapeuta
+🧑🏽‍⚕	karnacja średnia, lekarz, opieka zdrowotna, pracownik służby zdrowia, pracownik służby zdrowia: karnacja średnia, terapeuta
+🧑🏾‍⚕	karnacja średnio ciemna, lekarz, opieka zdrowotna, pracownik służby zdrowia, pracownik służby zdrowia: karnacja średnio ciemna, terapeuta
+🧑🏿‍⚕	karnacja ciemna, lekarz, opieka zdrowotna, pracownik służby zdrowia, pracownik służby zdrowia: karnacja ciemna, terapeuta
 👨‍⚕	lekarz, mężczyzna, terapeuta
 👨🏻‍⚕	karnacja jasna, lekarz, lekarz: karnacja jasna, mężczyzna, terapeuta
 👨🏼‍⚕	karnacja średnio jasna, lekarz, lekarz: karnacja średnio jasna, mężczyzna, terapeuta
@@ -709,30 +749,48 @@
 👩🏽‍⚕	karnacja średnia, kobieta, lekarka, lekarka: karnacja średnia, terapeutka
 👩🏾‍⚕	karnacja średnio ciemna, kobieta, lekarka, lekarka: karnacja średnio ciemna, terapeutka
 👩🏿‍⚕	karnacja ciemna, kobieta, lekarka, lekarka: karnacja ciemna, terapeutka
-👨‍🎓	mężczyzna, student
-👨🏻‍🎓	karnacja jasna, mężczyzna, student, student: karnacja jasna
-👨🏼‍🎓	karnacja średnio jasna, mężczyzna, student, student: karnacja średnio jasna
-👨🏽‍🎓	karnacja średnia, mężczyzna, student, student: karnacja średnia
-👨🏾‍🎓	karnacja średnio ciemna, mężczyzna, student, student: karnacja średnio ciemna
-👨🏿‍🎓	karnacja ciemna, mężczyzna, student, student: karnacja ciemna
+🧑‍🎓	absolwent, student
+🧑🏻‍🎓	absolwent, karnacja jasna, student, student: karnacja jasna
+🧑🏼‍🎓	absolwent, karnacja średnio jasna, student, student: karnacja średnio jasna
+🧑🏽‍🎓	absolwent, karnacja średnia, student, student: karnacja średnia
+🧑🏾‍🎓	absolwent, karnacja średnio ciemna, student, student: karnacja średnio ciemna
+🧑🏿‍🎓	absolwent, karnacja ciemna, student, student: karnacja ciemna
+👨‍🎓	mężczyzna, mężczyzna student, student
+👨🏻‍🎓	karnacja jasna, mężczyzna, mężczyzna student: karnacja jasna, student
+👨🏼‍🎓	karnacja średnio jasna, mężczyzna, mężczyzna student: karnacja średnio jasna, student
+👨🏽‍🎓	karnacja średnia, mężczyzna, mężczyzna student: karnacja średnia, student
+👨🏾‍🎓	karnacja średnio ciemna, mężczyzna, mężczyzna student: karnacja średnio ciemna, student
+👨🏿‍🎓	karnacja ciemna, mężczyzna, mężczyzna student: karnacja ciemna, student
 👩‍🎓	kobieta, studentka
 👩🏻‍🎓	karnacja jasna, kobieta, studentka, studentka: karnacja jasna
 👩🏼‍🎓	karnacja średnio jasna, kobieta, studentka, studentka: karnacja średnio jasna
 👩🏽‍🎓	karnacja średnia, kobieta, studentka, studentka: karnacja średnia
 👩🏾‍🎓	karnacja średnio ciemna, kobieta, studentka, studentka: karnacja średnio ciemna
 👩🏿‍🎓	karnacja ciemna, kobieta, studentka, studentka: karnacja ciemna
-👨‍🏫	mężczyzna, nauczyciel, profesor, wykładowca
-👨🏻‍🏫	karnacja jasna, mężczyzna, nauczyciel, nauczyciel: karnacja jasna, profesor, wykładowca
-👨🏼‍🏫	karnacja średnio jasna, mężczyzna, nauczyciel, nauczyciel: karnacja średnio jasna, profesor, wykładowca
-👨🏽‍🏫	karnacja średnia, mężczyzna, nauczyciel, nauczyciel: karnacja średnia, profesor, wykładowca
-👨🏾‍🏫	karnacja średnio ciemna, mężczyzna, nauczyciel, nauczyciel: karnacja średnio ciemna, profesor, wykładowca
-👨🏿‍🏫	karnacja ciemna, mężczyzna, nauczyciel, nauczyciel: karnacja ciemna, profesor, wykładowca
+🧑‍🏫	instruktor, nauczyciel, pedagog, profesor
+🧑🏻‍🏫	instruktor, karnacja jasna, nauczyciel, nauczyciel: karnacja jasna, pedagog, profesor
+🧑🏼‍🏫	instruktor, karnacja średnio jasna, nauczyciel, nauczyciel: karnacja średnio jasna, pedagog, profesor
+🧑🏽‍🏫	instruktor, karnacja średnia, nauczyciel, nauczyciel: karnacja średnia, pedagog, profesor
+🧑🏾‍🏫	instruktor, karnacja średnio ciemna, nauczyciel, nauczyciel: karnacja średnio ciemna, pedagog, profesor
+🧑🏿‍🏫	instruktor, karnacja ciemna, nauczyciel, nauczyciel: karnacja ciemna, pedagog, profesor
+👨‍🏫	mężczyzna, mężczyzna nauczyciel, nauczyciel, profesor, wykładowca
+👨🏻‍🏫	karnacja jasna, mężczyzna, mężczyzna nauczyciel: karnacja jasna, nauczyciel, profesor, wykładowca
+👨🏼‍🏫	karnacja średnio jasna, mężczyzna, mężczyzna nauczyciel: karnacja średnio jasna, nauczyciel, profesor, wykładowca
+👨🏽‍🏫	karnacja średnia, mężczyzna, mężczyzna nauczyciel: karnacja średnia, nauczyciel, profesor, wykładowca
+👨🏾‍🏫	karnacja średnio ciemna, mężczyzna, mężczyzna nauczyciel: karnacja średnio ciemna, nauczyciel, profesor, wykładowca
+👨🏿‍🏫	karnacja ciemna, mężczyzna, mężczyzna nauczyciel: karnacja ciemna, nauczyciel, profesor, wykładowca
 👩‍🏫	kobieta, nauczycielka, profesor, wykładowczyni
 👩🏻‍🏫	karnacja jasna, kobieta, nauczycielka, nauczycielka: karnacja jasna, profesor, wykładowczyni
 👩🏼‍🏫	karnacja średnio jasna, kobieta, nauczycielka, nauczycielka: karnacja średnio jasna, profesor, wykładowczyni
 👩🏽‍🏫	karnacja średnia, kobieta, nauczycielka, nauczycielka: karnacja średnia, profesor, wykładowczyni
 👩🏾‍🏫	karnacja średnio ciemna, kobieta, nauczycielka, nauczycielka: karnacja średnio ciemna, profesor, wykładowczyni
 👩🏿‍🏫	karnacja ciemna, kobieta, nauczycielka, nauczycielka: karnacja ciemna, profesor, wykładowczyni
+🧑‍⚖	orzekać, sędzia
+🧑🏻‍⚖	karnacja jasna, orzekać, sędzia, sędzia: karnacja jasna
+🧑🏼‍⚖	karnacja średnio jasna, orzekać, sędzia, sędzia: karnacja średnio jasna
+🧑🏽‍⚖	karnacja średnia, orzekać, sędzia, sędzia: karnacja średnia
+🧑🏾‍⚖	karnacja średnio ciemna, orzekać, sędzia, sędzia: karnacja średnio ciemna
+🧑🏿‍⚖	karnacja ciemna, orzekać, sędzia, sędzia: karnacja ciemna
 👨‍⚖	mężczyzna, mężczyzna sędzia, sędzia
 👨🏻‍⚖	karnacja jasna, mężczyzna, mężczyzna sędzia: karnacja jasna, sędzia
 👨🏼‍⚖	karnacja średnio jasna, mężczyzna, mężczyzna sędzia: karnacja średnio jasna, sędzia
@@ -745,30 +803,48 @@
 👩🏽‍⚖	karnacja średnia, kobieta, kobieta sędzia, kobieta sędzia: karnacja średnia, sędzina
 👩🏾‍⚖	karnacja średnio ciemna, kobieta, kobieta sędzia, kobieta sędzia: karnacja średnio ciemna, sędzina
 👩🏿‍⚖	karnacja ciemna, kobieta, kobieta sędzia, kobieta sędzia: karnacja ciemna, sędzina
-👨‍🌾	farmer, mężczyzna, ogrodnik, rolnik
-👨🏻‍🌾	farmer, karnacja jasna, mężczyzna, ogrodnik, rolnik, rolnik: karnacja jasna
-👨🏼‍🌾	farmer, karnacja średnio jasna, mężczyzna, ogrodnik, rolnik, rolnik: karnacja średnio jasna
-👨🏽‍🌾	farmer, karnacja średnia, mężczyzna, ogrodnik, rolnik, rolnik: karnacja średnia
-👨🏾‍🌾	farmer, karnacja średnio ciemna, mężczyzna, ogrodnik, rolnik, rolnik: karnacja średnio ciemna
-👨🏿‍🌾	farmer, karnacja ciemna, mężczyzna, ogrodnik, rolnik, rolnik: karnacja ciemna
+🧑‍🌾	farmer, ogrodnik, rolnik
+🧑🏻‍🌾	farmer, karnacja jasna, ogrodnik, rolnik, rolnik: karnacja jasna
+🧑🏼‍🌾	farmer, karnacja średnio jasna, ogrodnik, rolnik, rolnik: karnacja średnio jasna
+🧑🏽‍🌾	farmer, karnacja średnia, ogrodnik, rolnik, rolnik: karnacja średnia
+🧑🏾‍🌾	farmer, karnacja średnio ciemna, ogrodnik, rolnik, rolnik: karnacja średnio ciemna
+🧑🏿‍🌾	farmer, karnacja ciemna, ogrodnik, rolnik, rolnik: karnacja ciemna
+👨‍🌾	farmer, mężczyzna, mężczyzna rolnik, ogrodnik, rolnik
+👨🏻‍🌾	farmer, karnacja jasna, mężczyzna, mężczyzna rolnik: karnacja jasna, ogrodnik, rolnik
+👨🏼‍🌾	farmer, karnacja średnio jasna, mężczyzna, mężczyzna rolnik: karnacja średnio jasna, ogrodnik, rolnik
+👨🏽‍🌾	farmer, karnacja średnia, mężczyzna, mężczyzna rolnik: karnacja średnia, ogrodnik, rolnik
+👨🏾‍🌾	farmer, karnacja średnio ciemna, mężczyzna, mężczyzna rolnik: karnacja średnio ciemna, ogrodnik, rolnik
+👨🏿‍🌾	farmer, karnacja ciemna, mężczyzna, mężczyzna rolnik: karnacja ciemna, ogrodnik, rolnik
 👩‍🌾	farmerka, kobieta, ogrodniczka, rolniczka
 👩🏻‍🌾	farmerka, karnacja jasna, kobieta, ogrodniczka, rolniczka, rolniczka: karnacja jasna
 👩🏼‍🌾	farmerka, karnacja średnio jasna, kobieta, ogrodniczka, rolniczka, rolniczka: karnacja średnio jasna
 👩🏽‍🌾	farmerka, karnacja średnia, kobieta, ogrodniczka, rolniczka, rolniczka: karnacja średnia
 👩🏾‍🌾	farmerka, karnacja średnio ciemna, kobieta, ogrodniczka, rolniczka, rolniczka: karnacja średnio ciemna
 👩🏿‍🌾	farmerka, karnacja ciemna, kobieta, ogrodniczka, rolniczka, rolniczka: karnacja ciemna
-👨‍🍳	kucharz, mężczyzna, szef kuchni
-👨🏻‍🍳	karnacja jasna, kucharz, kucharz: karnacja jasna, mężczyzna, szef kuchni
-👨🏼‍🍳	karnacja średnio jasna, kucharz, kucharz: karnacja średnio jasna, mężczyzna, szef kuchni
-👨🏽‍🍳	karnacja średnia, kucharz, kucharz: karnacja średnia, mężczyzna, szef kuchni
-👨🏾‍🍳	karnacja średnio ciemna, kucharz, kucharz: karnacja średnio ciemna, mężczyzna, szef kuchni
-👨🏿‍🍳	karnacja ciemna, kucharz, kucharz: karnacja ciemna, mężczyzna, szef kuchni
+🧑‍🍳	kucharz, szef kuchni
+🧑🏻‍🍳	karnacja jasna, kucharz, kucharz: karnacja jasna, szef kuchni
+🧑🏼‍🍳	karnacja średnio jasna, kucharz, kucharz: karnacja średnio jasna, szef kuchni
+🧑🏽‍🍳	karnacja średnia, kucharz, kucharz: karnacja średnia, szef kuchni
+🧑🏾‍🍳	karnacja średnio ciemna, kucharz, kucharz: karnacja średnio ciemna, szef kuchni
+🧑🏿‍🍳	karnacja ciemna, kucharz, kucharz: karnacja ciemna, szef kuchni
+👨‍🍳	kucharz, mężczyzna, mężczyzna kucharz, szef kuchni
+👨🏻‍🍳	karnacja jasna, kucharz, mężczyzna, mężczyzna kucharz: karnacja jasna, szef kuchni
+👨🏼‍🍳	karnacja średnio jasna, kucharz, mężczyzna, mężczyzna kucharz: karnacja średnio jasna, szef kuchni
+👨🏽‍🍳	karnacja średnia, kucharz, mężczyzna, mężczyzna kucharz: karnacja średnia, szef kuchni
+👨🏾‍🍳	karnacja średnio ciemna, kucharz, mężczyzna, mężczyzna kucharz: karnacja średnio ciemna, szef kuchni
+👨🏿‍🍳	karnacja ciemna, kucharz, mężczyzna, mężczyzna kucharz: karnacja ciemna, szef kuchni
 👩‍🍳	kobieta, kucharka, szef kuchni
 👩🏻‍🍳	karnacja jasna, kobieta, kucharka, kucharka: karnacja jasna, szef kuchni
 👩🏼‍🍳	karnacja średnio jasna, kobieta, kucharka, kucharka: karnacja średnio jasna, szef kuchni
 👩🏽‍🍳	karnacja średnia, kobieta, kucharka, kucharka: karnacja średnia, szef kuchni
 👩🏾‍🍳	karnacja średnio ciemna, kobieta, kucharka, kucharka: karnacja średnio ciemna, szef kuchni
 👩🏿‍🍳	karnacja ciemna, kobieta, kucharka, kucharka: karnacja ciemna, szef kuchni
+🧑‍🔧	elektryk, hydraulik, mechanik
+🧑🏻‍🔧	elektryk, hydraulik, karnacja jasna, mechanik, mechanik: karnacja jasna
+🧑🏼‍🔧	elektryk, hydraulik, karnacja średnio jasna, mechanik, mechanik: karnacja średnio jasna
+🧑🏽‍🔧	elektryk, hydraulik, karnacja średnia, mechanik, mechanik: karnacja średnia
+🧑🏾‍🔧	elektryk, hydraulik, karnacja średnio ciemna, mechanik, mechanik: karnacja średnio ciemna
+🧑🏿‍🔧	elektryk, hydraulik, karnacja ciemna, mechanik, mechanik: karnacja ciemna
 👨‍🔧	elektryk, hydraulik, mechanik, mężczyzna, mężczyzna elektryk
 👨🏻‍🔧	elektryk, hydraulik, karnacja jasna, mechanik, mężczyzna, mężczyzna elektryk: karnacja jasna
 👨🏼‍🔧	elektryk, hydraulik, karnacja średnio jasna, mechanik, mężczyzna, mężczyzna elektryk: karnacja średnio jasna
@@ -781,30 +857,48 @@
 👩🏽‍🔧	elektryk, hydraulik, karnacja średnia, kobieta, kobieta elektryk: karnacja średnia, mechanik
 👩🏾‍🔧	elektryk, hydraulik, karnacja średnio ciemna, kobieta, kobieta elektryk: karnacja średnio ciemna, mechanik
 👩🏿‍🔧	elektryk, hydraulik, karnacja ciemna, kobieta, kobieta elektryk: karnacja ciemna, mechanik
-👨‍🏭	fabryka, montażysta, mężczyzna, pracownik, pracownik fabryki
-👨🏻‍🏭	fabryka, karnacja jasna, montażysta, mężczyzna, pracownik, pracownik fabryki, pracownik fabryki: karnacja jasna
-👨🏼‍🏭	fabryka, karnacja średnio jasna, montażysta, mężczyzna, pracownik, pracownik fabryki, pracownik fabryki: karnacja średnio jasna
-👨🏽‍🏭	fabryka, karnacja średnia, montażysta, mężczyzna, pracownik, pracownik fabryki, pracownik fabryki: karnacja średnia
-👨🏾‍🏭	fabryka, karnacja średnio ciemna, montażysta, mężczyzna, pracownik, pracownik fabryki, pracownik fabryki: karnacja średnio ciemna
-👨🏿‍🏭	fabryka, karnacja ciemna, montażysta, mężczyzna, pracownik, pracownik fabryki, pracownik fabryki: karnacja ciemna
+🧑‍🏭	fabryka, montażysta, pracownik, pracownik fabryki
+🧑🏻‍🏭	fabryka, karnacja jasna, montażysta, pracownik, pracownik fabryki, pracownik fabryki: karnacja jasna
+🧑🏼‍🏭	fabryka, karnacja średnio jasna, montażysta, pracownik, pracownik fabryki, pracownik fabryki: karnacja średnio jasna
+🧑🏽‍🏭	fabryka, karnacja średnia, montażysta, pracownik, pracownik fabryki, pracownik fabryki: karnacja średnia
+🧑🏾‍🏭	fabryka, karnacja średnio ciemna, montażysta, pracownik, pracownik fabryki, pracownik fabryki: karnacja średnio ciemna
+🧑🏿‍🏭	fabryka, karnacja ciemna, montażysta, pracownik, pracownik fabryki, pracownik fabryki: karnacja ciemna
+👨‍🏭	fabryka, montażysta, mężczyzna, mężczyzna pracownik fabryki, pracownik, pracownik fabryki
+👨🏻‍🏭	fabryka, karnacja jasna, montażysta, mężczyzna, mężczyzna pracownik fabryki, mężczyzna pracownik fabryki: karnacja jasna, pracownik, pracownik fabryki
+👨🏼‍🏭	fabryka, karnacja średnio jasna, montażysta, mężczyzna, mężczyzna pracownik fabryki, mężczyzna pracownik fabryki: karnacja średnio jasna, pracownik, pracownik fabryki
+👨🏽‍🏭	fabryka, karnacja średnia, montażysta, mężczyzna, mężczyzna pracownik fabryki, mężczyzna pracownik fabryki: karnacja średnia, pracownik, pracownik fabryki
+👨🏾‍🏭	fabryka, karnacja średnio ciemna, montażysta, mężczyzna, mężczyzna pracownik fabryki, mężczyzna pracownik fabryki: karnacja średnio ciemna, pracownik, pracownik fabryki
+👨🏿‍🏭	fabryka, karnacja ciemna, montażysta, mężczyzna, mężczyzna pracownik fabryki, mężczyzna pracownik fabryki: karnacja ciemna, pracownik, pracownik fabryki
 👩‍🏭	fabryka, kobieta, montażystka, pracownica, pracownica fabryki
 👩🏻‍🏭	fabryka, karnacja jasna, kobieta, montażystka, pracownica, pracownica fabryki, pracownica fabryki: karnacja jasna
 👩🏼‍🏭	fabryka, karnacja średnio jasna, kobieta, montażystka, pracownica, pracownica fabryki, pracownica fabryki: karnacja średnio jasna
 👩🏽‍🏭	fabryka, karnacja średnia, kobieta, montażystka, pracownica, pracownica fabryki, pracownica fabryki: karnacja średnia
 👩🏾‍🏭	fabryka, karnacja średnio ciemna, kobieta, montażystka, pracownica, pracownica fabryki, pracownica fabryki: karnacja średnio ciemna
 👩🏿‍🏭	fabryka, karnacja ciemna, kobieta, montażystka, pracownica, pracownica fabryki, pracownica fabryki: karnacja ciemna
-👨‍💼	architekt, biuro, biznesmen, mężczyzna, pracownik biurowy
-👨🏻‍💼	architekt, biuro, biznesmen, karnacja jasna, mężczyzna, pracownik biurowy, pracownik biurowy: karnacja jasna
-👨🏼‍💼	architekt, biuro, biznesmen, karnacja średnio jasna, mężczyzna, pracownik biurowy, pracownik biurowy: karnacja średnio jasna
-👨🏽‍💼	architekt, biuro, biznesmen, karnacja średnia, mężczyzna, pracownik biurowy, pracownik biurowy: karnacja średnia
-👨🏾‍💼	architekt, biuro, biznesmen, karnacja średnio ciemna, mężczyzna, pracownik biurowy, pracownik biurowy: karnacja średnio ciemna
-👨🏿‍💼	architekt, biuro, biznesmen, karnacja ciemna, mężczyzna, pracownik biurowy, pracownik biurowy: karnacja ciemna
+🧑‍💼	architekt, biznesmen, menedżer, praca biurowa, pracownik biurowy
+🧑🏻‍💼	architekt, biznesmen, karnacja jasna, menedżer, praca biurowa, pracownik biurowy, pracownik biurowy: karnacja jasna
+🧑🏼‍💼	architekt, biznesmen, karnacja średnio jasna, menedżer, praca biurowa, pracownik biurowy, pracownik biurowy: karnacja średnio jasna
+🧑🏽‍💼	architekt, biznesmen, karnacja średnia, menedżer, praca biurowa, pracownik biurowy, pracownik biurowy: karnacja średnia
+🧑🏾‍💼	architekt, biznesmen, karnacja średnio ciemna, menedżer, praca biurowa, pracownik biurowy, pracownik biurowy: karnacja średnio ciemna
+🧑🏿‍💼	architekt, biznesmen, karnacja ciemna, menedżer, praca biurowa, pracownik biurowy, pracownik biurowy: karnacja ciemna
+👨‍💼	architekt, biuro, biznesmen, mężczyzna, mężczyzna pracownik biurowy, pracownik biurowy
+👨🏻‍💼	architekt, biuro, biznesmen, karnacja jasna, mężczyzna, mężczyzna pracownik biurowy, mężczyzna pracownik biurowy: karnacja jasna, pracownik biurowy
+👨🏼‍💼	architekt, biuro, biznesmen, karnacja średnio jasna, mężczyzna, mężczyzna pracownik biurowy, mężczyzna pracownik biurowy: karnacja średnio jasna, pracownik biurowy
+👨🏽‍💼	architekt, biuro, biznesmen, karnacja średnia, mężczyzna, mężczyzna pracownik biurowy, mężczyzna pracownik biurowy: karnacja średnia, pracownik biurowy
+👨🏾‍💼	architekt, biuro, biznesmen, karnacja średnio ciemna, mężczyzna, mężczyzna pracownik biurowy, mężczyzna pracownik biurowy: karnacja średnio ciemna, pracownik biurowy
+👨🏿‍💼	architekt, biuro, biznesmen, karnacja ciemna, mężczyzna, mężczyzna pracownik biurowy, mężczyzna pracownik biurowy: karnacja ciemna, pracownik biurowy
 👩‍💼	architekt, biuro, bizneswoman, kobieta, pracownica biurowa
 👩🏻‍💼	architekt, biuro, bizneswoman, karnacja jasna, kobieta, pracownica biurowa, pracownica biurowa: karnacja jasna
 👩🏼‍💼	architekt, biuro, bizneswoman, karnacja średnio jasna, kobieta, pracownica biurowa, pracownica biurowa: karnacja średnio jasna
 👩🏽‍💼	architekt, biuro, bizneswoman, karnacja średnia, kobieta, pracownica biurowa, pracownica biurowa: karnacja średnia
 👩🏾‍💼	architekt, biuro, bizneswoman, karnacja średnio ciemna, kobieta, pracownica biurowa, pracownica biurowa: karnacja średnio ciemna
 👩🏿‍💼	architekt, biuro, bizneswoman, karnacja ciemna, kobieta, pracownica biurowa, pracownica biurowa: karnacja ciemna
+🧑‍🔬	biolog, chemik, fizyk, inżynier, naukowiec
+🧑🏻‍🔬	biolog, chemik, fizyk, inżynier, karnacja jasna, naukowiec, naukowiec: karnacja jasna
+🧑🏼‍🔬	biolog, chemik, fizyk, inżynier, karnacja średnio jasna, naukowiec, naukowiec: karnacja średnio jasna
+🧑🏽‍🔬	biolog, chemik, fizyk, inżynier, karnacja średnia, naukowiec, naukowiec: karnacja średnia
+🧑🏾‍🔬	biolog, chemik, fizyk, inżynier, karnacja średnio ciemna, naukowiec, naukowiec: karnacja średnio ciemna
+🧑🏿‍🔬	biolog, chemik, fizyk, inżynier, karnacja ciemna, naukowiec, naukowiec: karnacja ciemna
 👨‍🔬	biolog, chemik, inżynier, mężczyzna, mężczyzna naukowiec
 👨🏻‍🔬	biolog, chemik, inżynier, karnacja jasna, mężczyzna, mężczyzna naukowiec, mężczyzna naukowiec: karnacja jasna
 👨🏼‍🔬	biolog, chemik, inżynier, karnacja średnio jasna, mężczyzna, mężczyzna naukowiec, mężczyzna naukowiec: karnacja średnio jasna
@@ -817,6 +911,12 @@
 👩🏽‍🔬	biolog, chemik, inżynier, karnacja średnia, kobieta, kobieta naukowiec, kobieta naukowiec: karnacja średnia
 👩🏾‍🔬	biolog, chemik, inżynier, karnacja średnio ciemna, kobieta, kobieta naukowiec, kobieta naukowiec: karnacja średnio ciemna
 👩🏿‍🔬	biolog, chemik, inżynier, karnacja ciemna, kobieta, kobieta naukowiec, kobieta naukowiec: karnacja ciemna
+🧑‍💻	deweloper, oprogramowanie, programista, technolog, wynalazca
+🧑🏻‍💻	deweloper, karnacja jasna, oprogramowanie, programista, technolog, technolog: karnacja jasna, wynalazca
+🧑🏼‍💻	deweloper, karnacja średnio jasna, oprogramowanie, programista, technolog, technolog: karnacja średnio jasna, wynalazca
+🧑🏽‍💻	deweloper, karnacja średnia, oprogramowanie, programista, technolog, technolog: karnacja średnia, wynalazca
+🧑🏾‍💻	deweloper, karnacja średnio ciemna, oprogramowanie, programista, technolog, technolog: karnacja średnio ciemna, wynalazca
+🧑🏿‍💻	deweloper, karnacja ciemna, oprogramowanie, programista, technolog, technolog: karnacja ciemna, wynalazca
 👨‍💻	mężczyzna, mężczyzna technolog, oprogramowanie, programista, wynalazca
 👨🏻‍💻	karnacja jasna, mężczyzna, mężczyzna technolog, mężczyzna technolog: karnacja jasna, oprogramowanie, programista, wynalazca
 👨🏼‍💻	karnacja średnio jasna, mężczyzna, mężczyzna technolog, mężczyzna technolog: karnacja średnio jasna, oprogramowanie, programista, wynalazca
@@ -829,30 +929,48 @@
 👩🏽‍💻	karnacja średnia, kobieta, kobieta technolog, kobieta technolog: karnacja średnia, oprogramowanie, programistka, wynalazczyni
 👩🏾‍💻	karnacja średnio ciemna, kobieta, kobieta technolog, kobieta technolog: karnacja średnio ciemna, oprogramowanie, programistka, wynalazczyni
 👩🏿‍💻	karnacja ciemna, kobieta, kobieta technolog, kobieta technolog: karnacja ciemna, oprogramowanie, programistka, wynalazczyni
-👨‍🎤	aktor, mężczyzna, piosenkarz, rock
-👨🏻‍🎤	aktor, karnacja jasna, mężczyzna, piosenkarz, piosenkarz: karnacja jasna, rock
-👨🏼‍🎤	aktor, karnacja średnio jasna, mężczyzna, piosenkarz, piosenkarz: karnacja średnio jasna, rock
-👨🏽‍🎤	aktor, karnacja średnia, mężczyzna, piosenkarz, piosenkarz: karnacja średnia, rock
-👨🏾‍🎤	aktor, karnacja średnio ciemna, mężczyzna, piosenkarz, piosenkarz: karnacja średnio ciemna, rock
-👨🏿‍🎤	aktor, karnacja ciemna, mężczyzna, piosenkarz, piosenkarz: karnacja ciemna, rock
+🧑‍🎤	aktor, artysta, gwiazda, muzyka, piosenkarz
+🧑🏻‍🎤	aktor, artysta, gwiazda, karnacja jasna, muzyka, piosenkarz, piosenkarz: karnacja jasna
+🧑🏼‍🎤	aktor, artysta, gwiazda, karnacja średnio jasna, muzyka, piosenkarz, piosenkarz: karnacja średnio jasna
+🧑🏽‍🎤	aktor, artysta, gwiazda, karnacja średnia, muzyka, piosenkarz, piosenkarz: karnacja średnia
+🧑🏾‍🎤	aktor, artysta, gwiazda, karnacja średnio ciemna, muzyka, piosenkarz, piosenkarz: karnacja średnio ciemna
+🧑🏿‍🎤	aktor, artysta, gwiazda, karnacja ciemna, muzyka, piosenkarz, piosenkarz: karnacja ciemna
+👨‍🎤	aktor, mężczyzna, mężczyzna piosenkarz, piosenkarz, rock
+👨🏻‍🎤	aktor, karnacja jasna, mężczyzna, mężczyzna piosenkarz: karnacja jasna, piosenkarz, rock
+👨🏼‍🎤	aktor, karnacja średnio jasna, mężczyzna, mężczyzna piosenkarz: karnacja średnio jasna, piosenkarz, rock
+👨🏽‍🎤	aktor, karnacja średnia, mężczyzna, mężczyzna piosenkarz: karnacja średnia, piosenkarz, rock
+👨🏾‍🎤	aktor, karnacja średnio ciemna, mężczyzna, mężczyzna piosenkarz: karnacja średnio ciemna, piosenkarz, rock
+👨🏿‍🎤	aktor, karnacja ciemna, mężczyzna, mężczyzna piosenkarz: karnacja ciemna, piosenkarz, rock
 👩‍🎤	aktorka, kobieta, piosenkarka, rock
 👩🏻‍🎤	aktorka, karnacja jasna, kobieta, piosenkarka, piosenkarka: karnacja jasna, rock
 👩🏼‍🎤	aktorka, karnacja średnio jasna, kobieta, piosenkarka, piosenkarka: karnacja średnio jasna, rock
 👩🏽‍🎤	aktorka, karnacja średnia, kobieta, piosenkarka, piosenkarka: karnacja średnia, rock
 👩🏾‍🎤	aktorka, karnacja średnio ciemna, kobieta, piosenkarka, piosenkarka: karnacja średnio ciemna, rock
 👩🏿‍🎤	aktorka, karnacja ciemna, kobieta, piosenkarka, piosenkarka: karnacja ciemna, rock
-👨‍🎨	artysta, mężczyzna, paleta
-👨🏻‍🎨	artysta, artysta: karnacja jasna, karnacja jasna, mężczyzna, paleta
-👨🏼‍🎨	artysta, artysta: karnacja średnio jasna, karnacja średnio jasna, mężczyzna, paleta
-👨🏽‍🎨	artysta, artysta: karnacja średnia, karnacja średnia, mężczyzna, paleta
-👨🏾‍🎨	artysta, artysta: karnacja średnio ciemna, karnacja średnio ciemna, mężczyzna, paleta
-👨🏿‍🎨	artysta, artysta: karnacja ciemna, karnacja ciemna, mężczyzna, paleta
+🧑‍🎨	artysta, malarz, paleta
+🧑🏻‍🎨	artysta, artysta: karnacja jasna, karnacja jasna, malarz, paleta
+🧑🏼‍🎨	artysta, artysta: karnacja średnio jasna, karnacja średnio jasna, malarz, paleta
+🧑🏽‍🎨	artysta, artysta: karnacja średnia, karnacja średnia, malarz, paleta
+🧑🏾‍🎨	artysta, artysta: karnacja średnio ciemna, karnacja średnio ciemna, malarz, paleta
+🧑🏿‍🎨	artysta, artysta: karnacja ciemna, karnacja ciemna, malarz, paleta
+👨‍🎨	artysta, mężczyzna, mężczyzna artysta, paleta
+👨🏻‍🎨	artysta, karnacja jasna, mężczyzna, mężczyzna artysta: karnacja jasna, paleta
+👨🏼‍🎨	artysta, karnacja średnio jasna, mężczyzna, mężczyzna artysta: karnacja średnio jasna, paleta
+👨🏽‍🎨	artysta, karnacja średnia, mężczyzna, mężczyzna artysta: karnacja średnia, paleta
+👨🏾‍🎨	artysta, karnacja średnio ciemna, mężczyzna, mężczyzna artysta: karnacja średnio ciemna, paleta
+👨🏿‍🎨	artysta, karnacja ciemna, mężczyzna, mężczyzna artysta: karnacja ciemna, paleta
 👩‍🎨	artystka, kobieta, paleta
 👩🏻‍🎨	artystka, artystka: karnacja jasna, karnacja jasna, kobieta, paleta
 👩🏼‍🎨	artystka, artystka: karnacja średnio jasna, karnacja średnio jasna, kobieta, paleta
 👩🏽‍🎨	artystka, artystka: karnacja średnia, karnacja średnia, kobieta, paleta
 👩🏾‍🎨	artystka, artystka: karnacja średnio ciemna, karnacja średnio ciemna, kobieta, paleta
 👩🏿‍🎨	artystka, artystka: karnacja ciemna, karnacja ciemna, kobieta, paleta
+🧑‍✈	pilot, pilotować, samolot
+🧑🏻‍✈	karnacja jasna, pilot, pilot: karnacja jasna, pilotować, samolot
+🧑🏼‍✈	karnacja średnio jasna, pilot, pilot: karnacja średnio jasna, pilotować, samolot
+🧑🏽‍✈	karnacja średnia, pilot, pilot: karnacja średnia, pilotować, samolot
+🧑🏾‍✈	karnacja średnio ciemna, pilot, pilot: karnacja średnio ciemna, pilotować, samolot
+🧑🏿‍✈	karnacja ciemna, pilot, pilot: karnacja ciemna, pilotować, samolot
 👨‍✈	mężczyzna, mężczyzna pilot, pilot, samolot
 👨🏻‍✈	karnacja jasna, mężczyzna, mężczyzna pilot: karnacja jasna, pilot, samolot
 👨🏼‍✈	karnacja średnio jasna, mężczyzna, mężczyzna pilot: karnacja średnio jasna, pilot, samolot
@@ -865,18 +983,30 @@
 👩🏽‍✈	karnacja średnia, kobieta, kobieta pilot: karnacja średnia, pilot, samolot
 👩🏾‍✈	karnacja średnio ciemna, kobieta, kobieta pilot: karnacja średnio ciemna, pilot, samolot
 👩🏿‍✈	karnacja ciemna, kobieta, kobieta pilot: karnacja ciemna, pilot, samolot
-👨‍🚀	astronauta, kosmos, mężczyzna, rakieta
-👨🏻‍🚀	astronauta, astronauta: karnacja jasna, karnacja jasna, kosmos, mężczyzna, rakieta
-👨🏼‍🚀	astronauta, astronauta: karnacja średnio jasna, karnacja średnio jasna, kosmos, mężczyzna, rakieta
-👨🏽‍🚀	astronauta, astronauta: karnacja średnia, karnacja średnia, kosmos, mężczyzna, rakieta
-👨🏾‍🚀	astronauta, astronauta: karnacja średnio ciemna, karnacja średnio ciemna, kosmos, mężczyzna, rakieta
-👨🏿‍🚀	astronauta, astronauta: karnacja ciemna, karnacja ciemna, kosmos, mężczyzna, rakieta
+🧑‍🚀	astronauta, rakieta, statek kosmiczny
+🧑🏻‍🚀	astronauta, astronauta: karnacja jasna, karnacja jasna, rakieta, statek kosmiczny
+🧑🏼‍🚀	astronauta, astronauta: karnacja średnio jasna, karnacja średnio jasna, rakieta, statek kosmiczny
+🧑🏽‍🚀	astronauta, astronauta: karnacja średnia, karnacja średnia, rakieta, statek kosmiczny
+🧑🏾‍🚀	astronauta, astronauta: karnacja średnio ciemna, karnacja średnio ciemna, rakieta, statek kosmiczny
+🧑🏿‍🚀	astronauta, astronauta: karnacja ciemna, karnacja ciemna, rakieta, statek kosmiczny
+👨‍🚀	astronauta, kosmos, mężczyzna, mężczyzna astronauta, rakieta
+👨🏻‍🚀	astronauta, karnacja jasna, kosmos, mężczyzna, mężczyzna astronauta: karnacja jasna, rakieta
+👨🏼‍🚀	astronauta, karnacja średnio jasna, kosmos, mężczyzna, mężczyzna astronauta: karnacja średnio jasna, rakieta
+👨🏽‍🚀	astronauta, karnacja średnia, kosmos, mężczyzna, mężczyzna astronauta: karnacja średnia, rakieta
+👨🏾‍🚀	astronauta, karnacja średnio ciemna, kosmos, mężczyzna, mężczyzna astronauta: karnacja średnio ciemna, rakieta
+👨🏿‍🚀	astronauta, karnacja ciemna, kosmos, mężczyzna, mężczyzna astronauta: karnacja ciemna, rakieta
 👩‍🚀	astronautka, kobieta, kosmos, rakieta
 👩🏻‍🚀	astronautka, astronautka: karnacja jasna, karnacja jasna, kobieta, kosmos, rakieta
 👩🏼‍🚀	astronautka, astronautka: karnacja średnio jasna, karnacja średnio jasna, kobieta, kosmos, rakieta
 👩🏽‍🚀	astronautka, astronautka: karnacja średnia, karnacja średnia, kobieta, kosmos, rakieta
 👩🏾‍🚀	astronautka, astronautka: karnacja średnio ciemna, karnacja średnio ciemna, kobieta, kosmos, rakieta
 👩🏿‍🚀	astronautka, astronautka: karnacja ciemna, karnacja ciemna, kobieta, kosmos, rakieta
+🧑‍🚒	straż pożarna, strażak, wóz strażacki
+🧑🏻‍🚒	karnacja jasna, straż pożarna, strażak, strażak: karnacja jasna, wóz strażacki
+🧑🏼‍🚒	karnacja średnio jasna, straż pożarna, strażak, strażak: karnacja średnio jasna, wóz strażacki
+🧑🏽‍🚒	karnacja średnia, straż pożarna, strażak, strażak: karnacja średnia, wóz strażacki
+🧑🏾‍🚒	karnacja średnio ciemna, straż pożarna, strażak, strażak: karnacja średnio ciemna, wóz strażacki
+🧑🏿‍🚒	karnacja ciemna, straż pożarna, strażak, strażak: karnacja ciemna, wóz strażacki
 👨‍🚒	mężczyzna, mężczyzna strażak, strażak, wóz strażacki
 👨🏻‍🚒	karnacja jasna, mężczyzna, mężczyzna strażak: karnacja jasna, strażak, wóz strażacki
 👨🏼‍🚒	karnacja średnio jasna, mężczyzna, mężczyzna strażak: karnacja średnio jasna, strażak, wóz strażacki
@@ -943,6 +1073,7 @@
 💂🏽‍♀	gwardzistka, karnacja średnia, kobieta, kobieta gwardzista, kobieta gwardzista: karnacja średnia, strażniczka
 💂🏾‍♀	gwardzistka, karnacja średnio ciemna, kobieta, kobieta gwardzista, kobieta gwardzista: karnacja średnio ciemna, strażniczka
 💂🏿‍♀	gwardzistka, karnacja ciemna, kobieta, kobieta gwardzista, kobieta gwardzista: karnacja ciemna, strażniczka
+🥷	niewidoczny, ninja, skradać się, ukryty, wojownik
 👷	budowlaniec, kask
 👷🏻	budowlaniec, budowlaniec: karnacja jasna, karnacja jasna, kask
 👷🏼	budowlaniec, budowlaniec: karnacja średnio jasna, karnacja średnio jasna, kask
@@ -1003,18 +1134,42 @@
 🧕🏽	chusta, hidżab, karnacja średnia, kobieta w chuście, kobieta w chuście: karnacja średnia
 🧕🏾	chusta, hidżab, karnacja średnio ciemna, kobieta w chuście, kobieta w chuście: karnacja średnio ciemna
 🧕🏿	chusta, hidżab, karnacja ciemna, kobieta w chuście, kobieta w chuście: karnacja ciemna
-🤵	elegancja, mężczyzna w smokingu, pan młody, smoking
-🤵🏻	elegancja, karnacja jasna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja jasna, pan młody, smoking
-🤵🏼	elegancja, karnacja średnio jasna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja średnio jasna, pan młody, smoking
-🤵🏽	elegancja, karnacja średnia, mężczyzna w smokingu, mężczyzna w smokingu: karnacja średnia, pan młody, smoking
-🤵🏾	elegancja, karnacja średnio ciemna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja średnio ciemna, pan młody, smoking
-🤵🏿	elegancja, karnacja ciemna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja ciemna, pan młody, smoking
-👰	panna młoda w welonie, welon, wesele, ślub
-👰🏻	karnacja jasna, panna młoda w welonie, panna młoda w welonie: karnacja jasna, welon, wesele, ślub
-👰🏼	karnacja średnio jasna, panna młoda w welonie, panna młoda w welonie: karnacja średnio jasna, welon, wesele, ślub
-👰🏽	karnacja średnia, panna młoda w welonie, panna młoda w welonie: karnacja średnia, welon, wesele, ślub
-👰🏾	karnacja średnio ciemna, panna młoda w welonie, panna młoda w welonie: karnacja średnio ciemna, welon, wesele, ślub
-👰🏿	karnacja ciemna, panna młoda w welonie, panna młoda w welonie: karnacja ciemna, welon, wesele, ślub
+🤵	elegancja, osoba, osoba w smokingu, smoking
+🤵🏻	elegancja, karnacja jasna, osoba, osoba w smokingu, osoba w smokingu: karnacja jasna, smoking
+🤵🏼	elegancja, karnacja średnio jasna, osoba, osoba w smokingu, osoba w smokingu: karnacja średnio jasna, smoking
+🤵🏽	elegancja, karnacja średnia, osoba, osoba w smokingu, osoba w smokingu: karnacja średnia, smoking
+🤵🏾	elegancja, karnacja średnio ciemna, osoba, osoba w smokingu, osoba w smokingu: karnacja średnio ciemna, smoking
+🤵🏿	elegancja, karnacja ciemna, osoba, osoba w smokingu, osoba w smokingu: karnacja ciemna, smoking
+🤵‍♂	mężczyzna, mężczyzna w smokingu, smoking
+🤵🏻‍♂	karnacja jasna, mężczyzna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja jasna, smoking
+🤵🏼‍♂	karnacja średnio jasna, mężczyzna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja średnio jasna, smoking
+🤵🏽‍♂	karnacja średnia, mężczyzna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja średnia, smoking
+🤵🏾‍♂	karnacja średnio ciemna, mężczyzna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja średnio ciemna, smoking
+🤵🏿‍♂	karnacja ciemna, mężczyzna, mężczyzna w smokingu, mężczyzna w smokingu: karnacja ciemna, smoking
+🤵‍♀	kobieta, kobieta w smokingu, smoking
+🤵🏻‍♀	karnacja jasna, kobieta, kobieta w smokingu, kobieta w smokingu: karnacja jasna, smoking
+🤵🏼‍♀	karnacja średnio jasna, kobieta, kobieta w smokingu, kobieta w smokingu: karnacja średnio jasna, smoking
+🤵🏽‍♀	karnacja średnia, kobieta, kobieta w smokingu, kobieta w smokingu: karnacja średnia, smoking
+🤵🏾‍♀	karnacja średnio ciemna, kobieta, kobieta w smokingu, kobieta w smokingu: karnacja średnio ciemna, smoking
+🤵🏿‍♀	karnacja ciemna, kobieta, kobieta w smokingu, kobieta w smokingu: karnacja ciemna, smoking
+👰	osoba, osoba w welonie, panna młoda, welon, wesele, ślub
+👰🏻	karnacja jasna, osoba, osoba w welonie, osoba w welonie: karnacja jasna, panna młoda, welon, wesele, ślub
+👰🏼	karnacja średnio jasna, osoba, osoba w welonie, osoba w welonie: karnacja średnio jasna, panna młoda, welon, wesele, ślub
+👰🏽	karnacja średnia, osoba, osoba w welonie, osoba w welonie: karnacja średnia, panna młoda, welon, wesele, ślub
+👰🏾	karnacja średnio ciemna, osoba, osoba w welonie, osoba w welonie: karnacja średnio ciemna, panna młoda, welon, wesele, ślub
+👰🏿	karnacja ciemna, osoba, osoba w welonie, osoba w welonie: karnacja ciemna, panna młoda, welon, wesele, ślub
+👰‍♂	mężczyzna, mężczyzna w welonie, welon
+👰🏻‍♂	karnacja jasna, mężczyzna, mężczyzna w welonie, mężczyzna w welonie: karnacja jasna, welon
+👰🏼‍♂	karnacja średnio jasna, mężczyzna, mężczyzna w welonie, mężczyzna w welonie: karnacja średnio jasna, welon
+👰🏽‍♂	karnacja średnia, mężczyzna, mężczyzna w welonie, mężczyzna w welonie: karnacja średnia, welon
+👰🏾‍♂	karnacja średnio ciemna, mężczyzna, mężczyzna w welonie, mężczyzna w welonie: karnacja średnio ciemna, welon
+👰🏿‍♂	karnacja ciemna, mężczyzna, mężczyzna w welonie, mężczyzna w welonie: karnacja ciemna, welon
+👰‍♀	kobieta, kobieta w welonie, welon
+👰🏻‍♀	karnacja jasna, kobieta, kobieta w welonie, kobieta w welonie: karnacja jasna, welon
+👰🏼‍♀	karnacja średnio jasna, kobieta, kobieta w welonie, kobieta w welonie: karnacja średnio jasna, welon
+👰🏽‍♀	karnacja średnia, kobieta, kobieta w welonie, kobieta w welonie: karnacja średnia, welon
+👰🏾‍♀	karnacja średnio ciemna, kobieta, kobieta w welonie, kobieta w welonie: karnacja średnio ciemna, welon
+👰🏿‍♀	karnacja ciemna, kobieta, kobieta w welonie, kobieta w welonie: karnacja ciemna, welon
 🤰	ciąża, kobieta w ciąży
 🤰🏻	ciąża, karnacja jasna, kobieta w ciąży, kobieta w ciąży: karnacja jasna
 🤰🏼	ciąża, karnacja średnio jasna, kobieta w ciąży, kobieta w ciąży: karnacja średnio jasna
@@ -1027,6 +1182,24 @@
 🤱🏽	karmienie piersią, karmienie piersią: karnacja średnia, karnacja średnia, niemowlę, pierś
 🤱🏾	karmienie piersią, karmienie piersią: karnacja średnio ciemna, karnacja średnio ciemna, niemowlę, pierś
 🤱🏿	karmienie piersią, karmienie piersią: karnacja ciemna, karnacja ciemna, niemowlę, pierś
+👩‍🍼	karmienie, karmienie piersią, kobieta, kobieta karmiąca niemowlę, niemowlę
+👩🏻‍🍼	karmienie, karmienie piersią, karnacja jasna, kobieta, kobieta karmiąca niemowlę, kobieta karmiąca niemowlę: karnacja jasna, niemowlę
+👩🏼‍🍼	karmienie, karmienie piersią, karnacja średnio jasna, kobieta, kobieta karmiąca niemowlę, kobieta karmiąca niemowlę: karnacja średnio jasna, niemowlę
+👩🏽‍🍼	karmienie, karmienie piersią, karnacja średnia, kobieta, kobieta karmiąca niemowlę, kobieta karmiąca niemowlę: karnacja średnia, niemowlę
+👩🏾‍🍼	karmienie, karmienie piersią, karnacja średnio ciemna, kobieta, kobieta karmiąca niemowlę, kobieta karmiąca niemowlę: karnacja średnio ciemna, niemowlę
+👩🏿‍🍼	karmienie, karmienie piersią, karnacja ciemna, kobieta, kobieta karmiąca niemowlę, kobieta karmiąca niemowlę: karnacja ciemna, niemowlę
+👨‍🍼	karmienie, mężczyzna, mężczyzna karmiący niemowlę, niemowlę
+👨🏻‍🍼	karmienie, karnacja jasna, mężczyzna, mężczyzna karmiący niemowlę, mężczyzna karmiący niemowlę: karnacja jasna, niemowlę
+👨🏼‍🍼	karmienie, karnacja średnio jasna, mężczyzna, mężczyzna karmiący niemowlę, mężczyzna karmiący niemowlę: karnacja średnio jasna, niemowlę
+👨🏽‍🍼	karmienie, karnacja średnia, mężczyzna, mężczyzna karmiący niemowlę, mężczyzna karmiący niemowlę: karnacja średnia, niemowlę
+👨🏾‍🍼	karmienie, karnacja średnio ciemna, mężczyzna, mężczyzna karmiący niemowlę, mężczyzna karmiący niemowlę: karnacja średnio ciemna, niemowlę
+👨🏿‍🍼	karmienie, karnacja ciemna, mężczyzna, mężczyzna karmiący niemowlę, mężczyzna karmiący niemowlę: karnacja ciemna, niemowlę
+🧑‍🍼	karmienie, karmienie piersią, niemowlę, osoba, osoba karmiąca niemowlę
+🧑🏻‍🍼	karmienie, karmienie piersią, karnacja jasna, niemowlę, osoba, osoba karmiąca niemowlę, osoba karmiąca niemowlę: karnacja jasna
+🧑🏼‍🍼	karmienie, karmienie piersią, karnacja średnio jasna, niemowlę, osoba, osoba karmiąca niemowlę, osoba karmiąca niemowlę: karnacja średnio jasna
+🧑🏽‍🍼	karmienie, karmienie piersią, karnacja średnia, niemowlę, osoba, osoba karmiąca niemowlę, osoba karmiąca niemowlę: karnacja średnia
+🧑🏾‍🍼	karmienie, karmienie piersią, karnacja średnio ciemna, niemowlę, osoba, osoba karmiąca niemowlę, osoba karmiąca niemowlę: karnacja średnio ciemna
+🧑🏿‍🍼	karmienie, karmienie piersią, karnacja ciemna, niemowlę, osoba, osoba karmiąca niemowlę, osoba karmiąca niemowlę: karnacja ciemna
 👼	aniołek, bajka, buzia aniołka, fantasy
 👼🏻	aniołek, aniołek: karnacja jasna, bajka, buzia aniołka, fantasy, karnacja jasna
 👼🏼	aniołek, aniołek: karnacja średnio jasna, bajka, buzia aniołka, fantasy, karnacja średnio jasna
@@ -1045,6 +1218,12 @@
 🤶🏽	karnacja średnia, mikołaj, mikołajowa, święta, żona św. Mikołaja, żona św. Mikołaja: karnacja średnia
 🤶🏾	karnacja średnio ciemna, mikołaj, mikołajowa, święta, żona św. Mikołaja, żona św. Mikołaja: karnacja średnio ciemna
 🤶🏿	karnacja ciemna, mikołaj, mikołajowa, święta, żona św. Mikołaja, żona św. Mikołaja: karnacja ciemna
+🧑‍🎄	Boże Narodzenie, Mikołaj, Mikołajka, święta
+🧑🏻‍🎄	Boże Narodzenie, Mikołaj, Mikołajka, Mikołajka: karnacja jasna, karnacja jasna, święta
+🧑🏼‍🎄	Boże Narodzenie, Mikołaj, Mikołajka, Mikołajka: karnacja średnio jasna, karnacja średnio jasna, święta
+🧑🏽‍🎄	Boże Narodzenie, Mikołaj, Mikołajka, Mikołajka: karnacja średnia, karnacja średnia, święta
+🧑🏾‍🎄	Boże Narodzenie, Mikołaj, Mikołajka, Mikołajka: karnacja średnio ciemna, karnacja średnio ciemna, święta
+🧑🏿‍🎄	Boże Narodzenie, Mikołaj, Mikołajka, Mikołajka: karnacja ciemna, karnacja ciemna, święta
 🦸	bohater, bohaterka, pozytywny, superbohater, supermoc
 🦸🏻	bohater, bohaterka, karnacja jasna, pozytywny, superbohater, superbohater: karnacja jasna, supermoc
 🦸🏼	bohater, bohaterka, karnacja średnio jasna, pozytywny, superbohater, superbohater: karnacja średnio jasna, supermoc
@@ -1267,6 +1446,12 @@
 🧎🏽‍♀	karnacja średnia, klęczeć, klęcząca kobieta, klęcząca kobieta: karnacja średnia, kobieta
 🧎🏾‍♀	karnacja średnio ciemna, klęczeć, klęcząca kobieta, klęcząca kobieta: karnacja średnio ciemna, kobieta
 🧎🏿‍♀	karnacja ciemna, klęczeć, klęcząca kobieta, klęcząca kobieta: karnacja ciemna, kobieta
+🧑‍🦯	dostępność, niewidoma, niewidomy, osoba z białą laską
+🧑🏻‍🦯	dostępność, karnacja jasna, niewidoma, niewidomy, osoba z białą laską, osoba z białą laską: karnacja jasna
+🧑🏼‍🦯	dostępność, karnacja średnio jasna, niewidoma, niewidomy, osoba z białą laską, osoba z białą laską: karnacja średnio jasna
+🧑🏽‍🦯	dostępność, karnacja średnia, niewidoma, niewidomy, osoba z białą laską, osoba z białą laską: karnacja średnia
+🧑🏾‍🦯	dostępność, karnacja średnio ciemna, niewidoma, niewidomy, osoba z białą laską, osoba z białą laską: karnacja średnio ciemna
+🧑🏿‍🦯	dostępność, karnacja ciemna, niewidoma, niewidomy, osoba z białą laską, osoba z białą laską: karnacja ciemna
 👨‍🦯	dostępność, mężczyzna, mężczyzna z białą laską, niewidomy
 👨🏻‍🦯	dostępność, karnacja jasna, mężczyzna, mężczyzna z białą laską, mężczyzna z białą laską: karnacja jasna, niewidomy
 👨🏼‍🦯	dostępność, karnacja średnio jasna, mężczyzna, mężczyzna z białą laską, mężczyzna z białą laską: karnacja średnio jasna, niewidomy
@@ -1279,6 +1464,12 @@
 👩🏽‍🦯	dostępność, karnacja średnia, kobieta, kobieta z białą laską, kobieta z białą laską: karnacja średnia, niewidoma
 👩🏾‍🦯	dostępność, karnacja średnio ciemna, kobieta, kobieta z białą laską, kobieta z białą laską: karnacja średnio ciemna, niewidoma
 👩🏿‍🦯	dostępność, karnacja ciemna, kobieta, kobieta z białą laską, kobieta z białą laską: karnacja ciemna, niewidoma
+🧑‍🦼	dostępność, osoba na elektrycznym wózku inwalidzkim, wózek inwalidzki
+🧑🏻‍🦼	dostępność, karnacja jasna, osoba na elektrycznym wózku inwalidzkim, osoba na elektrycznym wózku inwalidzkim: karnacja jasna, wózek inwalidzki
+🧑🏼‍🦼	dostępność, karnacja średnio jasna, osoba na elektrycznym wózku inwalidzkim, osoba na elektrycznym wózku inwalidzkim: karnacja średnio jasna, wózek inwalidzki
+🧑🏽‍🦼	dostępność, karnacja średnia, osoba na elektrycznym wózku inwalidzkim, osoba na elektrycznym wózku inwalidzkim: karnacja średnia, wózek inwalidzki
+🧑🏾‍🦼	dostępność, karnacja średnio ciemna, osoba na elektrycznym wózku inwalidzkim, osoba na elektrycznym wózku inwalidzkim: karnacja średnio ciemna, wózek inwalidzki
+🧑🏿‍🦼	dostępność, karnacja ciemna, osoba na elektrycznym wózku inwalidzkim, osoba na elektrycznym wózku inwalidzkim: karnacja ciemna, wózek inwalidzki
 👨‍🦼	dostępność, mężczyzna, mężczyzna na elektrycznym wózku inwalidzkim, wózek inwalidzki
 👨🏻‍🦼	dostępność, karnacja jasna, mężczyzna, mężczyzna na elektrycznym wózku inwalidzkim, mężczyzna na elektrycznym wózku inwalidzkim: karnacja jasna, wózek inwalidzki
 👨🏼‍🦼	dostępność, karnacja średnio jasna, mężczyzna, mężczyzna na elektrycznym wózku inwalidzkim, mężczyzna na elektrycznym wózku inwalidzkim: karnacja średnio jasna, wózek inwalidzki
@@ -1291,6 +1482,12 @@
 👩🏽‍🦼	dostępność, karnacja średnia, kobieta, kobieta na elektrycznym wózku inwalidzkim, kobieta na elektrycznym wózku inwalidzkim: karnacja średnia, wózek inwalidzki
 👩🏾‍🦼	dostępność, karnacja średnio ciemna, kobieta, kobieta na elektrycznym wózku inwalidzkim, kobieta na elektrycznym wózku inwalidzkim: karnacja średnio ciemna, wózek inwalidzki
 👩🏿‍🦼	dostępność, karnacja ciemna, kobieta, kobieta na elektrycznym wózku inwalidzkim, kobieta na elektrycznym wózku inwalidzkim: karnacja ciemna, wózek inwalidzki
+🧑‍🦽	dostępność, osoba na wózku inwalidzkim, wózek inwalidzki
+🧑🏻‍🦽	dostępność, karnacja jasna, osoba na wózku inwalidzkim, osoba na wózku inwalidzkim: karnacja jasna, wózek inwalidzki
+🧑🏼‍🦽	dostępność, karnacja średnio jasna, osoba na wózku inwalidzkim, osoba na wózku inwalidzkim: karnacja średnio jasna, wózek inwalidzki
+🧑🏽‍🦽	dostępność, karnacja średnia, osoba na wózku inwalidzkim, osoba na wózku inwalidzkim: karnacja średnia, wózek inwalidzki
+🧑🏾‍🦽	dostępność, karnacja średnio ciemna, osoba na wózku inwalidzkim, osoba na wózku inwalidzkim: karnacja średnio ciemna, wózek inwalidzki
+🧑🏿‍🦽	dostępność, karnacja ciemna, osoba na wózku inwalidzkim, osoba na wózku inwalidzkim: karnacja ciemna, wózek inwalidzki
 👨‍🦽	dostępność, mężczyzna, mężczyzna na wózku inwalidzkim, wózek inwalidzki
 👨🏻‍🦽	dostępność, karnacja jasna, mężczyzna, mężczyzna na wózku inwalidzkim, mężczyzna na wózku inwalidzkim: karnacja jasna, wózek inwalidzki
 👨🏼‍🦽	dostępność, karnacja średnio jasna, mężczyzna, mężczyzna na wózku inwalidzkim, mężczyzna na wózku inwalidzkim: karnacja średnio jasna, wózek inwalidzki
@@ -1641,38 +1838,58 @@
 🛌🏽	hotel, karnacja średnia, nocleg, osoba w łóżku, osoba w łóżku: karnacja średnia, sen
 🛌🏾	hotel, karnacja średnio ciemna, nocleg, osoba w łóżku, osoba w łóżku: karnacja średnio ciemna, sen
 🛌🏿	hotel, karnacja ciemna, nocleg, osoba w łóżku, osoba w łóżku: karnacja ciemna, sen
-🧑‍🤝‍🧑	osoby trzymające się za ręce
-🧑🏻‍🤝‍🧑🏻	karnacja jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja jasna
-🧑🏼‍🤝‍🧑🏻	karnacja jasna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio jasna i karnacja jasna
-🧑🏼‍🤝‍🧑🏼	karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio jasna
-🧑🏽‍🤝‍🧑🏻	karnacja jasna, karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia i karnacja jasna
-🧑🏽‍🤝‍🧑🏼	karnacja średnia, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia i karnacja średnio jasna
-🧑🏽‍🤝‍🧑🏽	karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia
-🧑🏾‍🤝‍🧑🏻	karnacja jasna, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna i karnacja jasna
-🧑🏾‍🤝‍🧑🏼	karnacja średnio ciemna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna i karnacja średnio jasna
-🧑🏾‍🤝‍🧑🏽	karnacja średnia, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna i karnacja średnia
-🧑🏾‍🤝‍🧑🏾	karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna
-🧑🏿‍🤝‍🧑🏻	karnacja ciemna, karnacja jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja jasna
-🧑🏿‍🤝‍🧑🏼	karnacja ciemna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja średnio jasna
-🧑🏿‍🤝‍🧑🏽	karnacja ciemna, karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja średnia
-🧑🏿‍🤝‍🧑🏾	karnacja ciemna, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja średnio ciemna
-🧑🏿‍🤝‍🧑🏿	karnacja ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna
-👭	dwie kobiety trzymające się za ręce, miłość, para, za ręce, zakochani
-👭🏻	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja jasna, karnacja jasna, miłość, para, za ręce, zakochani
-👩🏼‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnio jasna i karnacja jasna, karnacja jasna, karnacja średnio jasna, miłość, para, za ręce, zakochani
-👭🏼	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnio jasna, karnacja średnio jasna, miłość, para, za ręce, zakochani
-👩🏽‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnia i karnacja jasna, karnacja jasna, karnacja średnia, miłość, para, za ręce, zakochani
-👩🏽‍🤝‍👩🏼	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnia i karnacja średnio jasna, karnacja średnia, karnacja średnio jasna, miłość, para, za ręce, zakochani
-👭🏽	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnia, karnacja średnia, miłość, para, za ręce, zakochani
-👩🏾‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnio ciemna i karnacja jasna, karnacja jasna, karnacja średnio ciemna, miłość, para, za ręce, zakochani
-👩🏾‍🤝‍👩🏼	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnio ciemna i karnacja średnio jasna, karnacja średnio ciemna, karnacja średnio jasna, miłość, para, za ręce, zakochani
-👩🏾‍🤝‍👩🏽	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnio ciemna i karnacja średnia, karnacja średnia, karnacja średnio ciemna, miłość, para, za ręce, zakochani
-👭🏾	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja średnio ciemna, karnacja średnio ciemna, miłość, para, za ręce, zakochani
-👩🏿‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja ciemna i karnacja jasna, karnacja ciemna, karnacja jasna, miłość, para, za ręce, zakochani
-👩🏿‍🤝‍👩🏼	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja ciemna i karnacja średnio jasna, karnacja ciemna, karnacja średnio jasna, miłość, para, za ręce, zakochani
-👩🏿‍🤝‍👩🏽	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja ciemna i karnacja średnia, karnacja ciemna, karnacja średnia, miłość, para, za ręce, zakochani
-👩🏿‍🤝‍👩🏾	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja ciemna i karnacja średnio ciemna, karnacja ciemna, karnacja średnio ciemna, miłość, para, za ręce, zakochani
-👭🏿	dwie kobiety trzymające się za ręce, dwie kobiety trzymające się za ręce: karnacja ciemna, karnacja ciemna, miłość, para, za ręce, zakochani
+🧑‍🤝‍🧑	osoby trzymające się za ręce, para, za ręce
+🧑🏻‍🤝‍🧑🏻	karnacja jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja jasna, para, za ręce
+🧑🏻‍🤝‍🧑🏼	karnacja jasna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja jasna i karnacja średnio jasna, para, za ręce
+🧑🏻‍🤝‍🧑🏽	karnacja jasna, karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja jasna i karnacja średnia, para, za ręce
+🧑🏻‍🤝‍🧑🏾	karnacja jasna, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja jasna i karnacja średnio ciemna, para, za ręce
+🧑🏻‍🤝‍🧑🏿	karnacja ciemna, karnacja jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja jasna i karnacja ciemna, para, za ręce
+🧑🏼‍🤝‍🧑🏻	karnacja jasna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio jasna i karnacja jasna, para, za ręce
+🧑🏼‍🤝‍🧑🏼	karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio jasna, para, za ręce
+🧑🏼‍🤝‍🧑🏽	karnacja średnia, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio jasna i karnacja średnia, para, za ręce
+🧑🏼‍🤝‍🧑🏾	karnacja średnio ciemna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio jasna i karnacja średnio ciemna, para, za ręce
+🧑🏼‍🤝‍🧑🏿	karnacja ciemna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio jasna i karnacja ciemna, para, za ręce
+🧑🏽‍🤝‍🧑🏻	karnacja jasna, karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia i karnacja jasna, para, za ręce
+🧑🏽‍🤝‍🧑🏼	karnacja średnia, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia i karnacja średnio jasna, para, za ręce
+🧑🏽‍🤝‍🧑🏽	karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia, para, za ręce
+🧑🏽‍🤝‍🧑🏾	karnacja średnia, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia i karnacja średnio ciemna, para, za ręce
+🧑🏽‍🤝‍🧑🏿	karnacja ciemna, karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnia i karnacja ciemna, para, za ręce
+🧑🏾‍🤝‍🧑🏻	karnacja jasna, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna i karnacja jasna, para, za ręce
+🧑🏾‍🤝‍🧑🏼	karnacja średnio ciemna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna i karnacja średnio jasna, para, za ręce
+🧑🏾‍🤝‍🧑🏽	karnacja średnia, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna i karnacja średnia, para, za ręce
+🧑🏾‍🤝‍🧑🏾	karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna, para, za ręce
+🧑🏾‍🤝‍🧑🏿	karnacja ciemna, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja średnio ciemna i karnacja ciemna, para, za ręce
+🧑🏿‍🤝‍🧑🏻	karnacja ciemna, karnacja jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja jasna, para, za ręce
+🧑🏿‍🤝‍🧑🏼	karnacja ciemna, karnacja średnio jasna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja średnio jasna, para, za ręce
+🧑🏿‍🤝‍🧑🏽	karnacja ciemna, karnacja średnia, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja średnia, para, za ręce
+🧑🏿‍🤝‍🧑🏾	karnacja ciemna, karnacja średnio ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna i karnacja średnio ciemna, para, za ręce
+🧑🏿‍🤝‍🧑🏿	karnacja ciemna, osoby trzymające się za ręce, osoby trzymające się za ręce: karnacja ciemna, para, za ręce
+👭	dwie kobiety trzymające się za ręce, kobiety trzymające się za ręce, miłość, para, za ręce, zakochani
+👭🏻	dwie kobiety trzymające się za ręce, karnacja jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja jasna, miłość, para, za ręce, zakochani
+👩🏻‍🤝‍👩🏼	dwie kobiety trzymające się za ręce, karnacja jasna, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja jasna i karnacja średnio jasna, miłość, para, za ręce, zakochani
+👩🏻‍🤝‍👩🏽	dwie kobiety trzymające się za ręce, karnacja jasna, karnacja średnia, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja jasna i karnacja średnia, miłość, para, za ręce, zakochani
+👩🏻‍🤝‍👩🏾	dwie kobiety trzymające się za ręce, karnacja jasna, karnacja średnio ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja jasna i karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👩🏻‍🤝‍👩🏿	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja jasna i karnacja ciemna, miłość, para, za ręce, zakochani
+👩🏼‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, karnacja jasna, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio jasna i karnacja jasna, miłość, para, za ręce, zakochani
+👭🏼	dwie kobiety trzymające się za ręce, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio jasna, miłość, para, za ręce, zakochani
+👩🏼‍🤝‍👩🏽	dwie kobiety trzymające się za ręce, karnacja średnia, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio jasna i karnacja średnia, miłość, para, za ręce, zakochani
+👩🏼‍🤝‍👩🏾	dwie kobiety trzymające się za ręce, karnacja średnio ciemna, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio jasna i karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👩🏼‍🤝‍👩🏿	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio jasna i karnacja ciemna, miłość, para, za ręce, zakochani
+👩🏽‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, karnacja jasna, karnacja średnia, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnia i karnacja jasna, miłość, para, za ręce, zakochani
+👩🏽‍🤝‍👩🏼	dwie kobiety trzymające się za ręce, karnacja średnia, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnia i karnacja średnio jasna, miłość, para, za ręce, zakochani
+👭🏽	dwie kobiety trzymające się za ręce, karnacja średnia, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnia, miłość, para, za ręce, zakochani
+👩🏽‍🤝‍👩🏾	dwie kobiety trzymające się za ręce, karnacja średnia, karnacja średnio ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnia i karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👩🏽‍🤝‍👩🏿	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja średnia, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnia i karnacja ciemna, miłość, para, za ręce, zakochani
+👩🏾‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, karnacja jasna, karnacja średnio ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio ciemna i karnacja jasna, miłość, para, za ręce, zakochani
+👩🏾‍🤝‍👩🏼	dwie kobiety trzymające się za ręce, karnacja średnio ciemna, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio ciemna i karnacja średnio jasna, miłość, para, za ręce, zakochani
+👩🏾‍🤝‍👩🏽	dwie kobiety trzymające się za ręce, karnacja średnia, karnacja średnio ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio ciemna i karnacja średnia, miłość, para, za ręce, zakochani
+👭🏾	dwie kobiety trzymające się za ręce, karnacja średnio ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👩🏾‍🤝‍👩🏿	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja średnio ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja średnio ciemna i karnacja ciemna, miłość, para, za ręce, zakochani
+👩🏿‍🤝‍👩🏻	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja ciemna i karnacja jasna, miłość, para, za ręce, zakochani
+👩🏿‍🤝‍👩🏼	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja średnio jasna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja ciemna i karnacja średnio jasna, miłość, para, za ręce, zakochani
+👩🏿‍🤝‍👩🏽	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja średnia, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja ciemna i karnacja średnia, miłość, para, za ręce, zakochani
+👩🏿‍🤝‍👩🏾	dwie kobiety trzymające się za ręce, karnacja ciemna, karnacja średnio ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja ciemna i karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👭🏿	dwie kobiety trzymające się za ręce, karnacja ciemna, kobiety trzymające się za ręce, kobiety trzymające się za ręce: karnacja ciemna, miłość, para, za ręce, zakochani
 👫	miłość, mężczyzna i kobieta trzymający się za ręce, para, za ręce, zakochani
 👫🏻	karnacja jasna, miłość, mężczyzna i kobieta trzymający się za ręce, mężczyzna i kobieta trzymający się za ręce: karnacja jasna, para, za ręce, zakochani
 👩🏻‍🤝‍👨🏼	karnacja jasna, karnacja średnio jasna, miłość, mężczyzna i kobieta trzymający się za ręce, mężczyzna i kobieta trzymający się za ręce: karnacja jasna i karnacja średnio jasna, para, za ręce, zakochani
@@ -1701,15 +1918,25 @@
 👫🏿	karnacja ciemna, miłość, mężczyzna i kobieta trzymający się za ręce, mężczyzna i kobieta trzymający się za ręce: karnacja ciemna, para, za ręce, zakochani
 👬	dwóch mężczyzn trzymających się za ręce, miłość, para, za ręce, zakochani
 👬🏻	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja jasna, karnacja jasna, miłość, para, za ręce, zakochani
+👨🏻‍🤝‍👨🏼	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja jasna i karnacja średnio jasna, karnacja jasna, karnacja średnio jasna, miłość, para, za ręce, zakochani
+👨🏻‍🤝‍👨🏽	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja jasna i karnacja średnia, karnacja jasna, karnacja średnia, miłość, para, za ręce, zakochani
+👨🏻‍🤝‍👨🏾	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja jasna i karnacja średnio ciemna, karnacja jasna, karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👨🏻‍🤝‍👨🏿	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja jasna i karnacja ciemna, karnacja ciemna, karnacja jasna, miłość, para, za ręce, zakochani
 👨🏼‍🤝‍👨🏻	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio jasna i karnacja jasna, karnacja jasna, karnacja średnio jasna, miłość, para, za ręce, zakochani
 👬🏼	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio jasna, karnacja średnio jasna, miłość, para, za ręce, zakochani
+👨🏼‍🤝‍👨🏽	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio jasna i karnacja średnia, karnacja średnia, karnacja średnio jasna, miłość, para, za ręce, zakochani
+👨🏼‍🤝‍👨🏾	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio jasna i karnacja średnio ciemna, karnacja średnio ciemna, karnacja średnio jasna, miłość, para, za ręce, zakochani
+👨🏼‍🤝‍👨🏿	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio jasna i karnacja ciemna, karnacja ciemna, karnacja średnio jasna, miłość, para, za ręce, zakochani
 👨🏽‍🤝‍👨🏻	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnia i karnacja jasna, karnacja jasna, karnacja średnia, miłość, para, za ręce, zakochani
 👨🏽‍🤝‍👨🏼	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnia i karnacja średnio jasna, karnacja średnia, karnacja średnio jasna, miłość, para, za ręce, zakochani
 👬🏽	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnia, karnacja średnia, miłość, para, za ręce, zakochani
+👨🏽‍🤝‍👨🏾	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnia i karnacja średnio ciemna, karnacja średnia, karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👨🏽‍🤝‍👨🏿	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnia i karnacja ciemna, karnacja ciemna, karnacja średnia, miłość, para, za ręce, zakochani
 👨🏾‍🤝‍👨🏻	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio ciemna i karnacja jasna, karnacja jasna, karnacja średnio ciemna, miłość, para, za ręce, zakochani
 👨🏾‍🤝‍👨🏼	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio ciemna i karnacja średnio jasna, karnacja średnio ciemna, karnacja średnio jasna, miłość, para, za ręce, zakochani
 👨🏾‍🤝‍👨🏽	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio ciemna i karnacja średnia, karnacja średnia, karnacja średnio ciemna, miłość, para, za ręce, zakochani
 👬🏾	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio ciemna, karnacja średnio ciemna, miłość, para, za ręce, zakochani
+👨🏾‍🤝‍👨🏿	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja średnio ciemna i karnacja ciemna, karnacja ciemna, karnacja średnio ciemna, miłość, para, za ręce, zakochani
 👨🏿‍🤝‍👨🏻	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja ciemna i karnacja jasna, karnacja ciemna, karnacja jasna, miłość, para, za ręce, zakochani
 👨🏿‍🤝‍👨🏼	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja ciemna i karnacja średnio jasna, karnacja ciemna, karnacja średnio jasna, miłość, para, za ręce, zakochani
 👨🏿‍🤝‍👨🏽	dwóch mężczyzn trzymających się za ręce, dwóch mężczyzn trzymających się za ręce: karnacja ciemna i karnacja średnia, karnacja ciemna, karnacja średnia, miłość, para, za ręce, zakochani
@@ -1752,6 +1979,7 @@
 🗣️	mówiąca głowa, mówić, powiedzieć, profil, sylwetka
 👤	osoba, sylwetka popiersia
 👥	osoby, sylwetki, sylwetki popiersi
+🫂	cześć, do widzenia, dzięki, obejmujące się osoby, uścisk
 👣	odciski stóp, stopy, ślady, ślady stóp
 🦰	ruda, rude, rude włosy, rudy
 🦱	afro, kręcone, kręcone włosy, kędzierzawe, kędzierzawy
@@ -1771,6 +1999,7 @@
 🦝	ciekawski, szop, szop pracz
 🐱	głowa kota, kicia, kot, pysk, pyszczek, zwierzę
 🐈️	kot, zwierzę
+🐈‍⬛	czarny, czarny kot, kot, nieszczęście, pech
 🦁	buźka, grzywa, głowa lwa, lew, pysk
 🐯	buźka, głowa tygrysa, kot, pyszczek
 🐅	tygrys
@@ -1780,6 +2009,7 @@
 🦄	głowa, głowa jednorożca, jednorożec, łeb
 🦓	zebra
 🦌	jeleń, zwierzę
+🦬	bizon, stado, żubr
 🐮	głowa, głowa krowy, krowa, łeb
 🐂	byk, wół, zodiak
 🐃	bawół wodny, wół domowy
@@ -1796,6 +2026,7 @@
 🦙	alpaka, gwanako, lama, wełna, wikunia
 🦒	żyrafa
 🐘	słoń
+🦣	kieł, mamut, ogromny, wymarły, włochaty
 🦏	nosorożec, zwierzę
 🦛	hipopotam
 🐭	buźka, głowa myszy, mysz, myszka
@@ -1805,9 +2036,11 @@
 🐰	głowa królika, królik, zając
 🐇	królik, zając
 🐿️	gryzoń, pręgowiec, wiewiórka
+🦫	bóbr, gryzoń, tama
 🦔	jeż
 🦇	nietoperz, wampir, zwierzę
 🐻	buźka, głowa niedźwiedzia, niedźwiedź
+🐻‍❄	arktyczny, biały, miś, miś polarny, niedźwiedź, niedźwiedź polarny
 🐨	koala, miś
 🐼	głowa pandy, miś
 🦥	leniwiec, leniwy, powolny
@@ -1829,6 +2062,8 @@
 🦆	kaczka, ptak
 🦢	brzydkie kaczątko, ptak, łabędź
 🦉	mądrość, ptak, sowa
+🦤	Mauritius, dodo, duży, wymarły
+🪶	latanie, lekkość, pierze, pióra, pióro, upierzenie
 🦩	ekstrawagancja, flaming, tropikalny
 🦚	dumny, paw, ptak
 🦜	gadająca, papuga, pirat, ptak
@@ -1844,6 +2079,7 @@
 🐳	fontanna, strumień wody, wieloryb, wieloryb tryskający wodą
 🐋	wieloryb
 🐬	delfin
+🦭	foka, lew morski
 🐟️	ryba, zodiak
 🐠	ryba, ryba tropikalna, tropikalna
 🐡	rozdymka, ryba rozdymka
@@ -1855,12 +2091,16 @@
 🐛	gąsienica, insekt, owad
 🐜	insekt, mrówka, owad
 🐝	insekt, owad, pszczoła, pszczółka
+🪲	chrząszcz, owad, żuk
 🐞	biedronka, chrabąszcz, kropki, owad, żuk
 🦗	świerszcz
+🪳	karaczan, karaluch, owad
 🕷️	pajączek, pająk, pajęczak
 🕸️	pajęczyna, sieć pająka
 🦂	brązowy skorpion, skorpion, zodiak
 🦟	choroba, gorączka, komar, malaria, owad, wirus
+🪰	choroby, giez, gnicie, mucha, owad, tse-tse
+🪱	dżdżownica, glista, pasożyt, pierścienice, robak
 🦠	ameba, bakteria, drobnoustrój, mikrob, wirus, zarazek
 💐	bukiet, bukiet kwiatów, kwiaty
 🌸	kwiat wiśni, kwitnąca wiśnia
@@ -1873,6 +2113,7 @@
 🌼	kwiat, kwiatek, kwitnie, roślina
 🌷	kwiat, kwiatek, pąk, tulipan
 🌱	pęd, roślinka, sadzonka
+🪴	dom, kwiat doniczkowy, podlewać, roślina, roślina doniczkowa
 🌲	drzewo iglaste, wiecznie zielone drzewo
 🌳	drzewo liściaste, roślina
 🌴	drzewo, palma
@@ -1898,8 +2139,10 @@
 🍑	brzoskwinia, owoc
 🍒	owoce, wiśnie
 🍓	owoc, truskawka
+🫐	borówka, borówka amerykańska, jagoda, owoc
 🥝	jedzenie, kiwi, owoc, owoc kiwi
 🍅	pomidor, szklarniowe, warzywo
+🫒	jedzenie, oliwka, oliwki
 🥥	kokos
 🥑	awokado, jedzenie, owoc
 🍆	bakłażan, oberżyna, warzywo
@@ -1907,6 +2150,7 @@
 🥕	jedzenie, marchew, marchewka, warzywo
 🌽	kolba kukurydzy, kukurydza
 🌶️	ostra papryka, ostry, papryka, przyprawa, roślina
+🫑	papryka, papryka słodka, paprykowy, warzywo
 🥒	jedzenie, korniszon, ogórek, pikle, warzywo
 🥬	bok choy, jarmuż, kapusta, kapusta pekińska, sałata, zielenina liściasta
 🥦	brokuł
@@ -1918,6 +2162,7 @@
 🍞	bochenek, chleb, kawałek chleba, pieczywo
 🥐	jedzenie, pieczywo, rogal, rogalik, rogalik francuski
 🥖	bagietka, bułka, chleb, jedzenie, pieczywo
+🫓	arepa, lawasz, naan, pita, podpłomyk
 🥨	precel
 🥯	bajgiel, pieczywo, piekarnia, posmarować
 🥞	jedzenie, naleśniki, placki
@@ -1934,12 +2179,14 @@
 🥪	kanapka
 🌮	meksykańskie jedzenie, taco
 🌯	burito, burrito, meksykańskie jedzenie
+🫔	meksykańskie, tamales, zawijane
 🥙	falafel, gyros, jedzenie, kebab, tortilla, wrap
 🧆	ciecierzyca, falafel, kotlecik z ciecierzycy
 🥚	jajko, jajo, jedzenie
 🍳	gotowanie, jajko, smażyć
 🥘	danie z patelni, jedzenie, paella, patelnia, wok
 🍲	garnek z jedzeniem, jedzenie, potrawka
+🫕	czekolada, fondue, garnek, roztopione, ser, szwajcarskie
 🥣	miska z łyżką
 🥗	jedzenie, sałata, sałatka
 🍿	popcorn
@@ -1985,6 +2232,7 @@
 🍼	butelka, butelka ze smoczkiem, dzidziuś, mleko, napój, niemowlęca, ze smoczkiem
 🥛	mleko, napój, szklanka, szklanka mleka
 ☕️	gorąca, gorący napój, herbata, kawa, napój, parująca, picie
+🫖	czajniczek, dzbanek na herbatę, herbata, imbryk
 🍵	filiżanka, filiżanka bez uszka, spodek
 🍶	butelka i kubek, sake
 🍾	bar, butelka, butelka z wystrzelającym korkiem, korek, nowy rok, sylwester, toast
@@ -1996,6 +2244,7 @@
 🥂	kieliszki, na zdrowie, stukające się kieliszki, toast, świętowanie
 🥃	alkohol, drink, grube dno, szklanka, szklanka z grubym dnem, whisky
 🥤	szklanka ze słomką
+🧋	herbata, kuleczka, kulki tapioki, mleko, napój bubble tea
 🧃	napój w kartoniku, sok w kartoniku
 🧉	napój, yerba mate
 🧊	kostka lodu, lód, zimno
@@ -2025,6 +2274,9 @@
 🏛️	budowla, budynek, klasyczna budowla, klasyczny, klasyka
 🏗️	budowa, dźwig, dźwig budowlany, roboty budowlane
 🧱	cegła, cegły, glina, mur, zaprawa
+🪨	ciężki, głaz, kamień, skała
+🪵	drewno, kłoda, polano, tarcica
+🛖	chata, dom, jurta, okrągły
 🏘️	domki, domy, osiedle
 🏚️	podupadły, ruina, stary, stary dom, zniszczony, zrujnowany
 🏠️	budynek, dom, mieszkalny
@@ -2092,6 +2344,7 @@
 🚗	auto, pojazd, samochód
 🚘️	auto, nadjeżdżające auto, nadjeżdżający pojazd, nadjeżdżający samochód, pojazd, samochód
 🚙	pojazd, samochód, samochód SUV, wypoczynkowy
+🛻	furgonetka, pick-up, pikap, półciężarówka
 🚚	ciężarówka, dostawczy, samochód dostawczy
 🚛	ciężarówka, dostawczy, samochód ciężarowy
 🚜	ciągnik, rolniczy
@@ -2104,6 +2357,7 @@
 🚲️	pojazd, rower, rowerek
 🛴	hulajnoga, pojazd
 🛹	deska, deskorolka, skateboard
+🛼	rolki, wrotka, wrotkarstwo, wrotki
 🚏	przystanek, przystanek autobusowy
 🛣️	autostrada, droga, szybkiego ruchu
 🛤️	kolej, pociąg, tor, tor kolejowy, tory
@@ -2173,7 +2427,7 @@
 🌓	księżyc, kwadra, pierwsza kwadra księżyca
 🌔	księżyc z brzuszkiem, narastający księżyc między pierwszą kwadrą a pełnią, tłusty księżyc
 🌕️	jasny księżyc, księżyc, pełnia, pełny księżyc
-🌖	chudnący, księżyc, zanikający księżyc między pierwszą kwadrą a pełnią
+🌖	chudnący, księżyc, zanikający księżyc między pełnią a ostatnią kwadrą, zanikający księżyc między pierwszą kwadrą a pełnią
 🌗	księżyc, kwadra, ostatnia kwadra księżyca
 🌘	cieniutki księżyc, księżyc, sierp, zanikający półksiężyc
 🌙	księżyc, półksiężyc, sierp
@@ -2220,7 +2474,7 @@
 🎆	fajerwerki, nowy rok, obchody, święta
 🎇	ognie, petardy, sztuczne, zimne, zimne ognie
 🧨	dynamit, fajerwerki, materiał wybuchowy, petarda
-✨	gwiazdki, gwiazdy
+✨	* gwiazdki, gwiazda, gwiazdki, gwiazdy
 🎈	balon, impreza, uroczystość
 🎉	bal, impreza, konfetti, tuba z konfetti, uroczystość
 🎊	bal, impreza, konfetti, kula z konfetti, uroczystość
@@ -2274,6 +2528,7 @@
 🪁	latanie, latawiec, puszczanie
 🎱	8, bila, bila 8, kula
 🔮	fortuna, kryształowa, kryształowa kula, kula, przepowiadać, wróżka, wróżyć
+🪄	czarodziej, czarodziejka, czarodziejska różdżka, czary, magia, magik
 🧿	amulet nazar, błękitne oko, koralik, nazar, oko proroka, talizman
 🎮️	gamepad, gra wideo, pad
 🕹️	dżojstik, gra, gra komputerowa, gra wideo
@@ -2281,6 +2536,8 @@
 🎲	gra, kostka, kostka do gry, w kości
 🧩	element, element układanki, puzzle, łamigłówka, łączenie
 🧸	miś pluszowy, pluszowa, wypchana, zabawka
+🪅	impreza, piniata, świętowanie
+🪆	laleczka, lalka, matrioszka, matrioszki, rosyjska
 ♠️	gra, karta, pik, talia
 ♥️	gra, karta, kier, talia
 ♦️	gra, karo, karta, talia
@@ -2293,7 +2550,9 @@
 🖼️	malarstwo, muzeum, obraz, obrazek w ramce, ramka, sztuka
 🎨	farby, kolory, malarz, muzeum, paleta malarska, sztuka
 🧵	igła, nawlekać, nić, szpulka, szycie
+🪡	haft, igła, igła krawiecka, igła z nitką, krawiectwo, szwy, szycie
 🧶	kłębek, robienie na drutach, szydełkowanie, włóczka
+🪢	lina, sznur, sznurek, wiązać, węzeł
 👓️	oczy, okulary, szkła
 🕶️	ciemne okulary, okulary słoneczne, przeciwsłoneczne, słoneczne
 🥽	ochrona oczu, okulary ochronne, pływanie, spawanie
@@ -2319,6 +2578,7 @@
 👝	damska, saszetka, torebka
 🛍️	torby, torby na zakupy, torebki
 🎒	plecak, tornister
+🩴	japonka, japonki, sandały, sandały na plażę
 👞	but, but męski, męski
 👟	bieganie, but, but do biegania, sport, trampek
 🥾	biwak, but, but turystyczny, piesze wędrówki, wędrówki z plecakiem
@@ -2332,6 +2592,7 @@
 🎩	cylinder, kapelusz, męskie nakrycie głowy
 🎓️	biret, czapka absolwenta, nakrycie głowy, ubiór, uroczystość
 🧢	bejsbolówka, czapeczka
+🪖	armia, hełm, hełm wojskowy, wojownik, wojsko, żołnierz
 ⛑️	hełm, kask, kask z krzyżykiem, krzyż, krzyżyk, pomoc
 📿	korale, koraliki, modlitwa, naszyjnik, religia, różaniec, sznur modlitewny
 💄	kosmetyki, makijaż, malować usta, szminka
@@ -2356,14 +2617,16 @@
 🎧️	słuchawki
 📻️	odbiornik radiowy, radio, radioodbiornik, radyjko
 🎷	instrument, muzyka, saksofon
+🪗	akordeon, harmonia, koncertyna
 🎸	gitara, instrument, muzyka
 🎹	fortepian, instrument, keyboard, klawiatura, klawisze, muzyka, pianino
 🎺	instrument, muzyka, trąbka
 🎻	altówka, instrument, muzyczny, skrzypce, smyczek, strunowy
 🪕	banjo, instrument, muzyka, strunowy
 🥁	bęben, bębenek, grać, muzyka
+🪘	bęben, konga, rytm
 📱	komóra, komórka, smartfon, telefon, telefon komórkowy
-📲	dzwonić, komóra, komórka, odebrać, połączenie, smartfon, strzałka, telefon, telefon komórkowy ze strzałką
+📲	dzwonić, komórka, odebrać, smartfon, strzałka, telefon, telefon komórkowy ze strzałką
 ☎️	aparat telefoniczny, telefon
 📞	słuchawka, słuchawka telefoniczna, telefon
 📟️	pager
@@ -2415,6 +2678,7 @@
 🔖	zakładka, zaznaczenie
 🏷️	breloczek, etykieta, przywieszka do kluczy
 💰️	dolary, pieniądze, worek, worek z pieniędzmi
+🪙	metalowa, moneta, pieniądze, skarb, srebrna, złota
 💴	bank, banknot, banknot jena, pieniądze, rachunek, waluta
 💵	bank, banknot, banknot dolara, pieniądze, rachunek, waluta
 💶	bank, banknot, banknot euro, pieniądze, rachunek, waluta
@@ -2422,15 +2686,13 @@
 💸	bank, banknot, pieniądze, rachunek, skrzydła, uskrzydlone pieniądze, waluta
 💳️	bank, karta, karta kredytowa, kredyt, pieniądze
 🧾	dowód, księgowość, paragon, pokwitowanie
-💹	bank, jen, pieniądze, rynek, trend wzrostowy, w górę, waluta, wykres, wykres wzrostu z symbolem jena, wzrost
-💱	kantor, waluta, wymiana, wymiana walut
-💲	dolary, gruby symbol dolara, pieniądze, usd, waluta
+💹	jen, pieniądze, trend wzrostowy, waluta, wykres, wykres wzrostu z symbolem jena, wzrost
 ✉️	e-mail, koperta, list, wiadomość
 📧	e-mail, email, list, mail, poczta elektroniczna
 📨	e-mail, email, koperta przychodząca, list, mail, poczta elektroniczna
 📩	koperta ze strzałką, odebrać, poczta, przychodząca, wiadomość
 📤️	list, mail, na listy, nadawać, nadawcza, pocztowa, skrzynka, skrzynka nadawcza, wysyłać
-📥️	list, mail, na listy, odbierać, odbiorcza, otrzymywać, pocztowa, skrzynka, skrzynka odbiorcza
+📥️	list, mail, odbierać, odbiorcza, otrzymywać, pocztowa, skrzynka, skrzynka odbiorcza
 📦️	paczka, pakunek, przesyłka, pudełko
 📫️	zamknięta skrzynka pocztowa, zamknięta skrzynka pocztowa z podniesioną flagą
 📪️	zamknięta skrzynka pocztowa, zamknięta skrzynka pocztowa z opuszczoną flagą
@@ -2482,9 +2744,12 @@
 🗡️	broń, nóż, sztylet
 ⚔️	biała broń, miecze, skrzyżowane, skrzyżowane miecze
 🔫	broń, broń palna, pistolet, rewolwer
+🪃	Aborygeni, Australia, bumerang, wraca
 🏹	broń, narzędzie, strzała, strzelec, zodiak, łucznik, łuk, łuk i strzała
 🛡️	ochrona, osłona, tarcza
+🪚	narzędzie, piła, piła do drewna, stolarz, tarcica
 🔧	klucz warsztatowy, mechanik, narzędzie, warsztat
+🪛	narzędzie, wkręt, wkrętak, śruba, śrubokręt
 🔩	gwint, mocowanie, nakrętka, śruba, śruba i nakrętka
 ⚙️	koło zębate, kółko, skrzynia biegów, zębate, zębatka
 🗜️	kompresja, nacisk, prasowanie, presja, ścisk, ściskanie
@@ -2492,8 +2757,10 @@
 🦯	biała laska, dostępność, niewidomy
 🔗	hiperłącze, link, ogniwa, ogniwo, połączenie
 ⛓️	ogniwa, łańcuch, łańcuchy
+🪝	haczyk, hak, połknąć, zakrzywiony, złapać
 🧰	mechanik, narzędzie, skrzynka, skrzynka na narzędzia
 🧲	magnes, magnetyzm, podkowa, przyciąganie
+🪜	drabina, szczebel, wspinać się
 ⚗️	alembik, chemia, kolba, menzurka, naczynie, probówka, szklane
 🧪	chemia, chemik, eksperyment, laboratorium, nauka, probówka
 🧫	bakteria, biolog, biologia, kultura, laboratorium, płytka Petriego
@@ -2501,32 +2768,41 @@
 🔬	mikroskop, obserwacja, powiększenie
 🔭	luneta, obserwacja, powiększenie, teleskop
 📡	antena satelitarna, czasza, satelita, talerz
-💉	chory, doktor, lekarstwo, lekarz, pielęgniarka, przyrząd, strzykawka, szczepienie, szczepionka, zastrzyk
+💉	chory, lekarstwo, strzykawka, szczepienie, szczepionka, zastrzyk
 🩸	kropla krwi, krwiodawstwo, medycyna, menstruacja, oddawanie krwi
 💊	kapsułka, lekarstwo, tabletka
 🩹	opatrunek, plaster
 🩺	lekarz, medycyna, serce, stetoskop
 🚪	drzwi
+🛗	dostępność, winda
+🪞	lustro, odbicie, zwierciadło
+🪟	framuga, okno, otwór, przezroczyste, widok, świeże powietrze
 🛏️	hotel, nocleg, sen, łóżko
 🛋️	hotel, kanapa, kanapa i lampa, lampa
 🪑	krzesło, siadać, siedzenie
 🚽	dolnopłuk, muszla klozetowa, sedes, toaleta, ubikacja
+🪠	hydraulik, odetkać, przepychacz, przepychać, toaleta
 🚿	prysznic, woda, łazienka
 🛁	kąpiel, wanna
+🪤	przynęta, pułapka, pułapka na myszy, sidła
 🪒	brzytwa, golenie, ostre narzędzie
 🧴	balsam, butelka z płynem, krem do opalania, mleczko, szampon
 🧷	agrafka, pielucha, punk, punk rock
 🧹	czarownica, miotła, sprzątanie, zamiatanie
 🧺	kosz, piknik, pranie, rolnictwo
 🧻	papier toaletowy, rolka papieru, ręczniki papierowe
+🪣	kubeł, wiaderko, wiadro
 🧼	kostka, kąpiel, mycie, mydelniczka, mydło, piana
+🪥	czyszczenie, higiena, jama ustna, szczoteczka do zębów, szczotka, zęby, łazienka
 🧽	gąbka, mycie, porowata, wchłanianie
 🧯	gaśnica, ogień, ugasić, zgasić
 🛒	koszyk, sklep, wózek, wózek sklepowy, zakupy
 🚬	dla palących, dym, dymek, papieros
 ⚰️	pogrzeb, trumna, śmierć
+🪦	cmentarz, grób, kamień nagrobny, nagrobek
 ⚱️	pogrzeb, urna, urna na prochy, śmierć
 🗿	moai, posąg, twarz, wyspa wielkanocna
+🪧	demonstracja, pikieta, protest, tabliczka, transparent, znak
 🏧	ATM, znak bankomatu
 🚮	kosz, nie śmiecić, znak kosza na śmieci, śmieci, śmiecić
 🚰	kran, pitna, pić, woda, woda pitna
@@ -2569,7 +2845,7 @@
 ⤵️	strzałka, strzałka w prawo skręcająca dół, strzałka w prawo skręcająca w dół, zakręt
 🔃	odśwież, okrężny, pionowe strzałki zgodne z ruchem wskazówek zegara, pionowe strzałki zgodnie z ruchem wskazówek zegara, strzałka
 🔄	dookoła, okrężny, przycisk ze strzałkami przeciwnie do ruchu wskazówek zegara, przycisk ze strzałkami w kierunku przeciwnym do ruchu wskazówek zegara, strzałka
-🔙	strzałka, strzałka wstecz, wstecz
+🔙	strzałka, strzałka z napisem BACK, wstecz
 🔚	koniec, strzałka, strzałka z napisem END
 🔛	strzałka, strzałka z napisem ON!, włączone
 🔜	strzałka, strzałka z napisem SOON, wkrótce
@@ -2625,8 +2901,22 @@
 📴	komórka, telefon komórkowy, wyłącz, wyłączony, wyłączony telefon komórkowy
 ♀️	kobieta, znak, znak kobiety, żeński
 ♂️	męski, mężczyzna, znak, znak mężczyzny
-⚕️	eskulap, laska, medycyna, symbol medycyny
+⚧️	symbol transpłciowości, transpłciowość
+✖️	anuluj, iks, mnożenie, x, znak, znak mnożenia, ×
+➕	+, dodawanie, dodawać, dodać, matematyka, plus, znak, znak plus
+➖	-, matematyka, odejmowanie, znak, znak minus, −
+➗	dzielenie, matematyka, znak, znak dzielenia, ÷
 ♾️	bezgraniczność, nieskończoność, wieczność
+‼️	!, !!, krzyk, okrzyk, podwójny wykrzyknik, wykrzykniki
+⁉️	!, !?, ?, nie rozumiem, pytajnik, pytanie, wykrzyknik, wykrzyknik ze znakiem zapytania, zaskoczenie, znak zapytania
+❓️	?, o co chodzi, pytajnik, pytanie, znak zapytania
+❔	biały znak zapytania, o co chodzi?, pytajnik, pytanie, znak zapytania
+❕	!, biały wykrzyknik, krzyk, okrzyk, wykrzyknik
+❗️	!, krzyk, okrzyk, wykrzyknik
+〰️	fala, falista kreska, linia, pofalowana
+💱	kantor, waluta, wymiana, wymiana walut
+💲	dolary, gruby symbol dolara, pieniądze, usd, waluta
+⚕️	eskulap, laska, medycyna, symbol medycyny
 ♻️	odpady, recykling, surowce wtórne
 ⚜	harcerze, lilijka
 🔱	emblemat, emblemat z trójzębem, kotwica, okręt, statek
@@ -2636,25 +2926,14 @@
 ✅	parafka, przycisk ze znacznikiem wyboru, ptaszek, zaznaczenie, znacznik wyboru
 ☑️	parafka, pole ze znacznikiem wyboru, ptaszek, zaznaczenie
 ✔️	gruby znacznik wyboru, parafka, ptaszek, zaznaczenie, znacznik wyboru
-✖️	anuluj, gruby znak x, iks, mnożenie, x, znak mnożenia
-❌	anuluj, iks, mnożenie, x, znak krzyżyka
+❌	anuluj, krzyżyk, mnożenie, x, znak, znak krzyżyka, znak mnożenia, ×
 ❎	anuluj, iks, iks w kwadracie, krzyżyk w kwadracie, mnożenie, przycisk z krzyżykiem
-➕	dodawanie, dodawać, dodać, matematyka, plus, znak, znak plus
-➖	-, matematyka, odejmowanie, znak, znak minus
-➗	dzielenie, matematyka, znak, znak dzielenia
 ➰	pętla, zawijas
 ➿	podwójna, podwójna pętla, pętla, zawijas
 〽️	początek partii wokalnej, znak, zygzak
-✳️	gwiazdka, gwiazdka ośmioramienna
-✴️	gwiazda, gwiazda ośmioramienna
+✳️	*, gwiazdka, gwiazdka ośmioramienna
+✴️	*, gwiazda, gwiazda ośmioramienna
 ❇️	*, iskra
-‼️	krzyk, okrzyk, podwójny wykrzyknik, wykrzykniki
-⁉️	nie rozumiem, pytajnik, pytanie, wykrzyknik, wykrzyknik ze znakiem zapytania, zaskoczenie, znak zapytania
-❓️	o co chodzi?, pytajnik, pytanie, znak zapytania
-❔	biały znak zapytania, o co chodzi?, pytajnik, pytanie, znak zapytania
-❕	biały wykrzyknik, krzyk, okrzyk, wykrzyknik
-❗️	krzyk, okrzyk, wykrzyknik
-〰️	fala, falista kreska, linia, pofalowana
 ©️	copyright, prawa autorskie, znak praw autorskich
 ®️	R, towarowy, zarejestrowany, zarejestrowany znak towarowy
 ™️	TM, znak towarowy
@@ -2750,6 +3029,7 @@
 🏴	czarna flaga, flaga, na wietrze, żałoba
 🏳️	biała flaga, flaga, kapitulacja, na wietrze, poddaję się, powiewająca biała flaga
 🏳‍🌈	flaga, tęcza, tęczowa flaga
+🏳‍⚧	flaga, flaga osób transpłciowych, transpłciowość
 🏴‍☠	Jolly Roger, czaszka i kości, piraci, piracka flaga, pirat, skarb
 🇦🇨	flaga, flaga: Wyspa Wniebowstąpienia
 🇦🇩	flaga, flaga: Andora
