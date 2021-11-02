@@ -57,11 +57,6 @@ collect_data_files() {
     done
     datafiles_list_=("${datafiles_list_[@]}" "${cli_data_files_[@]}")
   fi
-  # Get per-user data files
-  if [ -d "${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data" ]; then
-    datafiles=("${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data/"**/*.tsv)
-    datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
-  fi
 
   # Try first to source data files from the script directory, then XDG system
   # data dir
@@ -93,6 +88,12 @@ collect_data_files() {
     datafiles=("${datafiles[@]}" '/usr/share/splatmoji/data/emoticons/emoticons.tsv')
   fi
   datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
+
+  # Get per-user data files
+  if [ -d "${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data" ]; then
+    datafiles=("${XDG_DATA_HOME:-${HOME}/.local/share}/splatmoji/data/"**/*.tsv)
+    datafiles_list_=("${datafiles_list_[@]}" "${datafiles[@]}")
+  fi
 
   if [ "${#datafiles_list_[*]}" -eq 0 ]; then
     echo "Cannot find any data files with the provided options.. " 1>&2
