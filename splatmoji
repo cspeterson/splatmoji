@@ -3,6 +3,16 @@ shopt -s nullglob
 set -e
 set -o pipefail
 
+
+# check if wayland diplay exists
+if [ -n "$WAYLAND_DISPLAY" ]; then
+# set vars for wayland compatibility
+  wofi_command="wofi --dmenu --insensitive --cache-file /dev/null"
+  xsel_command=wl-copy
+fi
+
+
+
 # shellcheck disable=SC2034
 readonly PROGNAME="$(basename "${0}")"
 readonly PROGDIR="$( cd "$( dirname "$( readlink -f "${BASH_SOURCE[0]}" )" )" && pwd )"
